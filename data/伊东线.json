@@ -867,8 +867,8 @@
    "名称": {
     "日文原名": "城ケ崎海岸",
     "词条": "城ヶ崎海岸駅",
-    "中文": null,
-    "英文": null
+    "中文": "城崎海岸",
+    "英文": "Jogasaki-Kaigan"
    },
    "百科": {
     "日文": {
@@ -889,11 +889,39 @@
      "字数": 1017
     },
     "中文": {
-     "来源": "⚠️ 暂未汉化",
-     "首段": null,
-     "章节": {}
+     "来源": "LLM全文翻译（据日文维基全文）",
+     "词条标题": "城崎海岸站",
+     "首段": "城崎海岸站（じょうがさきかいがんえき）位于静冈县伊东市富户，是伊豆急行伊豆急行线的车站。车站编号为IZ05。\n\n伊豆急行线开业当初并未设置本站。",
+     "章节": {
+      "历史": "1972年（昭和47年）3月15日：在富户 - 伊豆高原间新设本站。\n1991年（平成3年）：作为伊豆急行线开通30周年纪念事业，将站房改建为圆木小屋（log house）样式。\n2021年（令和3年）1月16日：无人化。",
+      "车站构造": "本站为拥有单式站台1面1线的地上站。附设圆木小屋样式的站房，但未配置站员。\n\n站内曾设有小卖部和咖啡店，但已废止。原小卖部空间设置了投币式储物柜。\n\n站前有伊豆急东海出租车的乘车处，至17时出租车常驻。\n\n站内站台靠伊豆高原站一侧有足汤温泉“ぽっぽの汤”（无人化后暂停营业）（营业时间：10时 - 19时）。",
+      "站内": "Suica 以及与 Suica 可相互利用的IC卡（PASMO等）在伊豆急行线全线各站均可使用，但本站的充值机在无人化之前已被撤除，不支持充值服务。",
+      "利用状况": "2020年（令和2年）度的1日平均乘车人员为200人。\n近年1日平均乘车人员的推移如下。",
+      "车站周边": "本站位于距海岸线1 km以上的内陆部，作为站名由来的城崎海岸，直线距离向东约1.5 km。\n\n城崎海岸（门胁吊桥）",
+      "公交线路": "“城崎站口”停留所，以及相隔一站、步行约5分钟距离450m处的“莲着寺口”停留所，白天开往伊豆海洋公园・伊豆高原站方向的巴士每小时约发着2班。",
+      "伊豆急行线": "富户站 (IZ04) - 城崎海岸站 (IZ05) - 伊豆高原站 (IZ06)",
+      "静冈县的铁路车站": "ようかさきかいかん"
+     },
+     "全文": "城崎海岸站（じょうがさきかいがんえき）位于静冈县伊东市富户，是伊豆急行伊豆急行线的车站。车站编号为IZ05。\n\n伊豆急行线开业当初并未设置本站。\n\n历史 \n1972年（昭和47年）3月15日：在富户 - 伊豆高原间新设本站。\n1991年（平成3年）：作为伊豆急行线开通30周年纪念事业，将站房改建为圆木小屋（log house）样式。\n2021年（令和3年）1月16日：无人化。\n\n车站构造 \n本站为拥有单式站台1面1线的地上站。附设圆木小屋样式的站房，但未配置站员。\n\n站内曾设有小卖部和咖啡店，但已废止。原小卖部空间设置了投币式储物柜。\n\n站前有伊豆急东海出租车的乘车处，至17时出租车常驻。\n\n站内站台靠伊豆高原站一侧有足汤温泉“ぽっぽの汤”（无人化后暂停营业）（营业时间：10时 - 19时）。\n\n站内 \nSuica 以及与 Suica 可相互利用的IC卡（PASMO等）在伊豆急行线全线各站均可使用，但本站的充值机在无人化之前已被撤除，不支持充值服务。\n\n利用状况 \n2020年（令和2年）度的1日平均乘车人员为200人。\n近年1日平均乘车人员的推移如下。\n\n车站周边 \n本站位于距海岸线1 km以上的内陆部，作为站名由来的城崎海岸，直线距离向东约1.5 km。\n\n城崎海岸（门胁吊桥）\n\n公交线路 \n“城崎站口”停留所，以及相隔一站、步行约5分钟距离450m处的“莲着寺口”停留所，白天开往伊豆海洋公园・伊豆高原站方向的巴士每小时约发着2班。\n\n伊豆急行线 \n富户站 (IZ04) - 城崎海岸站 (IZ05) - 伊豆高原站 (IZ06)\n\n静冈县的铁路车站 \nようかさきかいかん",
+     "字数": 697
     },
-    "英文": null
+    "英文": {
+     "来源": "LLM全文翻译（据日文维基全文）",
+     "词条标题": "Jogasaki-Kaigan Station",
+     "首段": "Jogasaki-Kaigan Station (じょうがさきかいがんえき) is a station on the Izukyu Line of Izukyu Corporation located in Futo, Ito, Shizuoka Prefecture, Japan. Its station number is IZ05.\n\nIt was not established when the Izukyu Line first opened.",
+     "章节": {
+      "History": "March 15, 1972 (Showa 47): This station was newly established between Futo and Izu-Kogen.\n1991 (Heisei 3): As a project commemorating the 30th anniversary of the opening of the Izukyu Line, the station building was rebuilt in a log-house style.\nJanuary 16, 2021 (Reiwa 3): Became unstaffed.",
+      "Station layout": "A ground-level station with a single side platform serving one track. It has a log-house-style station building attached, but no station staff are assigned.\n\nA shop and a coffee shop were once installed within the station premises, but they have been abolished. Coin lockers have been installed in the former shop space.\n\nIn front of the station there is a taxi stand for Izukyu Tokai Taxi, and taxis are stationed there until 17:00.\n\nOn the platform, on the side nearer Izu-Kogen Station, there is a hot-spring foot bath called \"Poppo no Yu\" (suspended since it became unstaffed) (business hours: 10:00–19:00).",
+      "Inside the station": "Suica and IC cards mutually usable with Suica (such as PASMO) can be used at all stations on the Izukyu Line, but the recharging machine at this station was removed before it became unstaffed, so recharging services are not available.",
+      "Usage": "The average daily number of boarding passengers in fiscal 2020 (Reiwa 2) was 200.\nThe recent transition of the average daily number of boarding passengers is as follows.",
+      "Surroundings": "This station is located inland, more than 1 km from the coastline, and Jogasaki-Kaigan, from which the station name derives, is about 1.5 km to the east in a straight line.\n\nJogasaki Coast (Kadowaki Suspension Bridge)",
+      "Bus routes": "At the \"Jogasaki Station Entrance\" stop, and at the \"Renchakuji Entrance\" stop located about a 5-minute walk (about 450 m) away, buses bound for Izu Kaiyo Park and Izu-Kogen Station depart and arrive about twice per hour during the daytime.",
+      "Izukyu Line": "Futo (IZ04) – Jogasaki-Kaigan (IZ05) – Izu-Kogen (IZ06)",
+      "Railway stations in Shizuoka Prefecture": "ようかさきかいかん"
+     },
+     "全文": "Jogasaki-Kaigan Station (じょうがさきかいがんえき) is a station on the Izukyu Line of Izukyu Corporation located in Futo, Ito, Shizuoka Prefecture, Japan. Its station number is IZ05.\n\nIt was not established when the Izukyu Line first opened.\n\nHistory \nMarch 15, 1972 (Showa 47): This station was newly established between Futo and Izu-Kogen.\n1991 (Heisei 3): As a project commemorating the 30th anniversary of the opening of the Izukyu Line, the station building was rebuilt in a log-house style.\nJanuary 16, 2021 (Reiwa 3): Became unstaffed.\n\nStation layout \nA ground-level station with a single side platform serving one track. It has a log-house-style station building attached, but no station staff are assigned.\n\nA shop and a coffee shop were once installed within the station premises, but they have been abolished. Coin lockers have been installed in the former shop space.\n\nIn front of the station there is a taxi stand for Izukyu Tokai Taxi, and taxis are stationed there until 17:00.\n\nOn the platform, on the side nearer Izu-Kogen Station, there is a hot-spring foot bath called \"Poppo no Yu\" (suspended since it became unstaffed) (business hours: 10:00–19:00).\n\nInside the station \nSuica and IC cards mutually usable with Suica (such as PASMO) can be used at all stations on the Izukyu Line, but the recharging machine at this station was removed before it became unstaffed, so recharging services are not available.\n\nUsage \nThe average daily number of boarding passengers in fiscal 2020 (Reiwa 2) was 200.\nThe recent transition of the average daily number of boarding passengers is as follows.\n\nSurroundings \nThis station is located inland, more than 1 km from the coastline, and Jogasaki-Kaigan, from which the station name derives, is about 1.5 km to the east in a straight line.\n\nJogasaki Coast (Kadowaki Suspension Bridge)\n\nBus routes \nAt the \"Jogasaki Station Entrance\" stop, and at the \"Renchakuji Entrance\" stop located about a 5-minute walk (about 450 m) away, buses bound for Izu Kaiyo Park and Izu-Kogen Station depart and arrive about twice per hour during the daytime.\n\nIzukyu Line \nFuto (IZ04) – Jogasaki-Kaigan (IZ05) – Izu-Kogen (IZ06)\n\nRailway stations in Shizuoka Prefecture \nようかさきかいかん",
+     "字数": 2202
+    }
    },
    "结构化信息": {
     "读音": "じょうがさきかいがんえき",
@@ -1826,8 +1854,8 @@
   "车站总数": 21,
   "有日文词条": 21,
   "有中文词条": 21,
-  "已千问汉化": 0,
+  "已千问汉化": 1,
   "待汉化": 0,
-  "有英文词条": 10
+  "有英文词条": 11
  }
 }
