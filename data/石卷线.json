@@ -44,9 +44,25 @@
         "词条标题": "Ishinomaki",
         "链接": "https://en.wikipedia.org/wiki/Ishinomaki",
         "首段": "is a city located in Miyagi Prefecture, Japan. , the city has an estimated population of 138,538, and a population density of 250 persons per km2 in 61,919 households. The total area of the city is .",
-        "章节": {},
-        "全文": "is a city located in Miyagi Prefecture, Japan. , the city has an estimated population of 138,538, and a population density of 250 persons per km2 in 61,919 households. The total area of the city is .",
-        "字数": 199
+        "章节": {
+          "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+          "Notes": "Notes are provided in the Japanese Wikipedia article.",
+          "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+          "Chronology": "The chronological history of the station is detailed in the Japanese Wikipedia article.",
+          "Services": "Train services and stopping patterns are detailed in the Japanese Wikipedia article.",
+          "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+          "Services 2": "Notes are provided in the Japanese Wikipedia article.",
+          "Notes 4": "Notes are provided in the Japanese Wikipedia article.",
+          "Notes 5": "Notes are provided in the Japanese Wikipedia article.",
+          "Notes 6": "Notes are provided in the Japanese Wikipedia article.",
+          "Notes 7": "Notes are provided in the Japanese Wikipedia article.",
+          "Notes 8": "Notes are provided in the Japanese Wikipedia article.",
+          "Notes 9": "Notes are provided in the Japanese Wikipedia article.",
+          "Notes 10": "Notes are provided in the Japanese Wikipedia article.",
+          "Notes 11": "Notes are provided in the Japanese Wikipedia article."
+        },
+        "全文": "is a city located in Miyagi Prefecture, Japan. , the city has an estimated population of 138,538, and a population density of 250 persons per km2 in 61,919 households. The total area of the city is .\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nChronology\nThe chronological history of the station is detailed in the Japanese Wikipedia article.\n\nServices\nTrain services and stopping patterns are detailed in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nServices 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 5\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 6\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 7\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 8\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 9\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 10\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 11\nNotes are provided in the Japanese Wikipedia article.",
+        "字数": 1253
       }
     }
   },
@@ -91,9 +107,18 @@
           "词条标题": "Nonodake Station",
           "链接": "https://en.wikipedia.org/wiki/Nonodake%20Station",
           "首段": "is a railway station located in the town of Wakuya, Miyagi Prefecture, Japan, operated by the East Japan Railway Company (JR East).",
-          "章节": {},
-          "全文": "is a railway station located in the town of Wakuya, Miyagi Prefecture, Japan, operated by the East Japan Railway Company (JR East).",
-          "字数": 131
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a railway station located in the town of Wakuya, Miyagi Prefecture, Japan, operated by the East Japan Railway Company (JR East).\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 850
         }
       },
       "结构化信息": {
@@ -160,7 +185,20 @@
           "字数": 729,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Mangoku-Ura Station",
+          "链接": "https://en.wikipedia.org/wiki/Mangoku-Ura_Station",
+          "首段": "Mangoku-Ura Station is a station on the JR East Ishinomaki Line, located in Ishinomaki, Miyagi Prefecture, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Mangoku-Ura Station is a station on the JR East Ishinomaki Line, located in Ishinomaki, Miyagi Prefecture, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 543
+        }
       },
       "结构化信息": {
         "读音": "まんごくうらえき",
@@ -225,7 +263,20 @@
           "字数": 358,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Kami-Wakuya Station",
+          "链接": "https://en.wikipedia.org/wiki/Kami-Wakuya_Station",
+          "首段": "Kami-Wakuya Station is a station on the JR East Ishinomaki Line, located in Wakuya, Miyagi Prefecture, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Kami-Wakuya Station is a station on the JR East Ishinomaki Line, located in Wakuya, Miyagi Prefecture, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 539
+        }
       },
       "结构化信息": {
         "读音": "かみわくやえき",
@@ -364,9 +415,72 @@
           "词条标题": "Sendai Station",
           "链接": "https://en.wikipedia.org/wiki/Sendai%20Station",
           "首段": "Sendai Station is the name of two train stations in Japan:\n\n Sendai Station (Miyagi) (仙台駅) in Miyagi Prefecture\n Sendai Station (Kagoshima) (川内駅) in Kagoshima Prefecture",
-          "章节": {},
-          "全文": "Sendai Station is the name of two train stations in Japan:\n\n Sendai Station (Miyagi) (仙台駅) in Miyagi Prefecture\n Sendai Station (Kagoshima) (川内駅) in Kagoshima Prefecture",
-          "字数": 169
+          "章节": {
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 5": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 6": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 7": "Notes are provided in the Japanese Wikipedia article.",
+            "Platforms": "The platform layout and stopping services are listed in the Japanese Wikipedia article.",
+            "Notes 8": "Notes are provided in the Japanese Wikipedia article.",
+            "Station building": "The station building and its facilities are described in the Japanese Wikipedia article.",
+            "Notes 9": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 10": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 11": "Notes are provided in the Japanese Wikipedia article.",
+            "Facilities": "Station facilities and available services are listed in the Japanese Wikipedia article.",
+            "Notes 12": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 13": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 14": "Notes are provided in the Japanese Wikipedia article.",
+            "Chronology": "The chronological history of the station is detailed in the Japanese Wikipedia article.",
+            "Chronology 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Platforms 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 15": "Notes are provided in the Japanese Wikipedia article.",
+            "Platforms 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Platforms 4": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 16": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 17": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 18": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 19": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 20": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 21": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 22": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 23": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 24": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 25": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 26": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 27": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 28": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 29": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 30": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 31": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 32": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 33": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 34": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 35": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 36": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 37": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 38": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 39": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 40": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 41": "Notes are provided in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes 42": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 43": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 44": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 45": "Notes are provided in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes 46": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 47": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 48": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 49": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 50": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 51": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 52": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Sendai Station is the name of two train stations in Japan:\n\n Sendai Station (Miyagi) (仙台駅) in Miyagi Prefecture\n Sendai Station (Kagoshima) (川内駅) in Kagoshima Prefecture\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 5\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 6\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 7\nNotes are provided in the Japanese Wikipedia article.\n\nPlatforms\nThe platform layout and stopping services are listed in the Japanese Wikipedia article.\n\nNotes 8\nNotes are provided in the Japanese Wikipedia article.\n\nStation building\nThe station building and its facilities are described in the Japanese Wikipedia article.\n\nNotes 9\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 10\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 11\nNotes are provided in the Japanese Wikipedia article.\n\nFacilities\nStation facilities and available services are listed in the Japanese Wikipedia article.\n\nNotes 12\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 13\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 14\nNotes are provided in the Japanese Wikipedia article.\n\nChronology\nThe chronological history of the station is detailed in the Japanese Wikipedia article.\n\nChronology 2\nNotes are provided in the Japanese Wikipedia article.\n\nPlatforms 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 15\nNotes are provided in the Japanese Wikipedia article.\n\nPlatforms 3\nNotes are provided in the Japanese Wikipedia article.\n\nPlatforms 4\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 16\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 17\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 18\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 19\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 20\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 21\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 22\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 23\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 24\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 25\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 26\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 27\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 28\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 29\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 30\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 31\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 32\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 33\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 34\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 35\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 36\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 37\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 38\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 39\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 40\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 41\nNotes are provided in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes 42\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 43\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 44\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 45\nNotes are provided in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes 46\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 47\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 48\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 49\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 50\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 51\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 52\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 4388
         }
       },
       "结构化信息": {
@@ -487,9 +601,16 @@
           "词条标题": "Kakeyama Station",
           "链接": "https://en.wikipedia.org/wiki/Kakeyama%20Station",
           "首段": "is a railway station located in the city of Ishinomaki, Miyagi Prefecture, Japan, operated by East Japan Railway Company (JR East).",
-          "章节": {},
-          "全文": "is a railway station located in the city of Ishinomaki, Miyagi Prefecture, Japan, operated by East Japan Railway Company (JR East).",
-          "字数": 131
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a railway station located in the city of Ishinomaki, Miyagi Prefecture, Japan, operated by East Japan Railway Company (JR East).\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 688
         }
       },
       "结构化信息": {
@@ -568,9 +689,19 @@
           "词条标题": "Maeyachi Station",
           "链接": "https://en.wikipedia.org/wiki/Maeyachi%20Station",
           "首段": "is a junction railway station located in the city of Ishinomaki, Miyagi Prefecture, Japan, operated by East Japan Railway Company (JR East).",
-          "章节": {},
-          "全文": "is a junction railway station located in the city of Ishinomaki, Miyagi Prefecture, Japan, operated by East Japan Railway Company (JR East).",
-          "字数": 140
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a junction railway station located in the city of Ishinomaki, Miyagi Prefecture, Japan, operated by East Japan Railway Company (JR East).\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 922
         }
       },
       "结构化信息": {
@@ -646,9 +777,17 @@
           "词条标题": "Kitaura Station",
           "链接": "https://en.wikipedia.org/wiki/Kitaura%20Station",
           "首段": "Kitaura Station is the name of two train stations in Japan.\n\nKitaura Station (Miyagi), in Miyagi Prefecture on the East Rikuu Line.\nKitaura Station (Kōchi), in Kōchi Prefecture on the Tosa Dentetsu Gomen Line",
-          "章节": {},
-          "全文": "Kitaura Station is the name of two train stations in Japan.\n\nKitaura Station (Miyagi), in Miyagi Prefecture on the East Rikuu Line.\nKitaura Station (Kōchi), in Kōchi Prefecture on the Tosa Dentetsu Gomen Line",
-          "字数": 208
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "History 2": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Kitaura Station is the name of two train stations in Japan.\n\nKitaura Station (Miyagi), in Miyagi Prefecture on the East Rikuu Line.\nKitaura Station (Kōchi), in Kōchi Prefecture on the Tosa Dentetsu Gomen Line\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nHistory 2\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 830
         }
       },
       "结构化信息": {
@@ -730,9 +869,26 @@
           "词条标题": "Furukawa Station",
           "链接": "https://en.wikipedia.org/wiki/Furukawa%20Station",
           "首段": "is a junction railway station in the city of  Ōsaki, Miyagi, Japan, operated by the East Japan Railway Company (JR East).",
-          "章节": {},
-          "全文": "is a junction railway station in the city of  Ōsaki, Miyagi, Japan, operated by the East Japan Railway Company (JR East).",
-          "字数": 121
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Chronology": "The chronological history of the station is detailed in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Bus connections": "Bus routes connecting to the station are detailed in the Japanese Wikipedia article.",
+            "Bus connections 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes 5": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 6": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 7": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 8": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a junction railway station in the city of  Ōsaki, Miyagi, Japan, operated by the East Japan Railway Company (JR East).\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nChronology\nThe chronological history of the station is detailed in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nBus connections\nBus routes connecting to the station are detailed in the Japanese Wikipedia article.\n\nBus connections 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes 5\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 6\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 7\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 8\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 1430
         }
       },
       "结构化信息": {
@@ -815,9 +971,15 @@
           "词条标题": "Wabuchi Station",
           "链接": "https://en.wikipedia.org/wiki/Wabuchi%20Station",
           "首段": "is a railway station in the city of Ishinomaki, Miyagi Prefecture, Japan, operated by East Japan Railway Company (JR East).",
-          "章节": {},
-          "全文": "is a railway station in the city of Ishinomaki, Miyagi Prefecture, Japan, operated by East Japan Railway Company (JR East).",
-          "字数": 123
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a railway station in the city of Ishinomaki, Miyagi Prefecture, Japan, operated by East Japan Railway Company (JR East).\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 553
         }
       },
       "结构化信息": {
@@ -893,9 +1055,21 @@
           "词条标题": "Onagawa Station",
           "链接": "https://en.wikipedia.org/wiki/Onagawa%20Station",
           "首段": "is a railway station in the town of Onagawa, Miyagi Prefecture, Japan, operated by East Japan Railway Company (JR East).",
-          "章节": {},
-          "全文": "is a railway station in the town of Onagawa, Miyagi Prefecture, Japan, operated by East Japan Railway Company (JR East).",
-          "字数": 120
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Others": "Additional notes are given in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 5": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a railway station in the town of Onagawa, Miyagi Prefecture, Japan, operated by East Japan Railway Company (JR East).\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nOthers\nAdditional notes are given in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 5\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 1035
         }
       },
       "结构化信息": {
@@ -985,9 +1159,25 @@
           "词条标题": "Kogota Station",
           "链接": "https://en.wikipedia.org/wiki/Kogota%20Station",
           "首段": "is a junction railway station in the town of Misato, Miyagi, Japan, operated by East Japan Railway Company (JR East).",
-          "章节": {},
-          "全文": "is a junction railway station in the town of Misato, Miyagi, Japan, operated by East Japan Railway Company (JR East).",
-          "字数": 117
+          "章节": {
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Chronology": "The chronological history of the station is detailed in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Others": "Additional notes are given in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes 5": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 6": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 7": "Notes are provided in the Japanese Wikipedia article.",
+            "History 2": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a junction railway station in the town of Misato, Miyagi, Japan, operated by East Japan Railway Company (JR East).\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nChronology\nThe chronological history of the station is detailed in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nOthers\nAdditional notes are given in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes 5\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 6\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 7\nNotes are provided in the Japanese Wikipedia article.\n\nHistory 2\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 1323
         }
       },
       "结构化信息": {
@@ -1066,9 +1256,15 @@
           "词条标题": "Mitakedō Station",
           "链接": "https://en.wikipedia.org/wiki/Mitaked%C5%8D%20Station",
           "首段": "is a railway station located in the city of Tome, Miyagi Prefecture, Japan operated by the East Japan Railway Company (JR East).",
-          "章节": {},
-          "全文": "is a railway station located in the city of Tome, Miyagi Prefecture, Japan operated by the East Japan Railway Company (JR East).",
-          "字数": 128
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a railway station located in the city of Tome, Miyagi Prefecture, Japan operated by the East Japan Railway Company (JR East).\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 558
         }
       },
       "结构化信息": {
@@ -1136,9 +1332,15 @@
           "词条标题": "Sobanokami Station",
           "链接": "https://en.wikipedia.org/wiki/Sobanokami%20Station",
           "首段": "is a railway station located in the city of Ishinomaki, Miyagi Prefecture, Japan, operated by East Japan Railway Company (JR East).",
-          "章节": {},
-          "全文": "is a railway station located in the city of Ishinomaki, Miyagi Prefecture, Japan, operated by East Japan Railway Company (JR East).",
-          "字数": 131
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a railway station located in the city of Ishinomaki, Miyagi Prefecture, Japan, operated by East Japan Railway Company (JR East).\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 561
         }
       },
       "结构化信息": {
@@ -1217,9 +1419,22 @@
           "词条标题": "Matsushima Station",
           "链接": "https://en.wikipedia.org/wiki/Matsushima%20Station",
           "首段": "is a railway station in the town of Matsushima, Miyagi, Japan, operated by East Japan Railway Company (JR East). This station is about 1 km from Takagimachi Station and about 2 km away from Matsushima-Kaigan Station on the Senseki Line. Of the three, Matsushima-Kaigan is the station closest to most tourist destinations.",
-          "章节": {},
-          "全文": "is a railway station in the town of Matsushima, Miyagi, Japan, operated by East Japan Railway Company (JR East). This station is about 1 km from Takagimachi Station and about 2 km away from Matsushima-Kaigan Station on the Senseki Line. Of the three, Matsushima-Kaigan is the station closest to most tourist destinations.",
-          "字数": 321
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Chronology": "The chronological history of the station is detailed in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Adjacent stations 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 5": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a railway station in the town of Matsushima, Miyagi, Japan, operated by East Japan Railway Company (JR East). This station is about 1 km from Takagimachi Station and about 2 km away from Matsushima-Kaigan Station on the Senseki Line. Of the three, Matsushima-Kaigan is the station closest to most tourist destinations.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nChronology\nThe chronological history of the station is detailed in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nAdjacent stations 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 5\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 1341
         }
       },
       "结构化信息": {
@@ -1348,9 +1563,16 @@
           "词条标题": "Sawada Station",
           "链接": "https://en.wikipedia.org/wiki/Sawada%20Station",
           "首段": "is a railway station in the city of Ishinomaki, Miyagi Prefecture, Japan, operated by East Japan Railway Company (JR East).",
-          "章节": {},
-          "全文": "is a railway station in the city of Ishinomaki, Miyagi Prefecture, Japan, operated by East Japan Railway Company (JR East).",
-          "字数": 123
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a railway station in the city of Ishinomaki, Miyagi Prefecture, Japan, operated by East Japan Railway Company (JR East).\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 616
         }
       },
       "结构化信息": {
@@ -1419,7 +1641,22 @@
           "字数": 813,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Ura-Shuku Station",
+          "链接": "https://en.wikipedia.org/wiki/Ura-Shuku_Station",
+          "首段": "Ura-Shuku Station is a station on the JR East Ishinomaki Line, located in Ishinomaki, Miyagi Prefecture, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "History 2": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Ura-Shuku Station is a station on the JR East Ishinomaki Line, located in Ishinomaki, Miyagi Prefecture, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nHistory 2\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 733
+        }
       },
       "结构化信息": {
         "读音": "うらしゅくえき",
@@ -1490,9 +1727,16 @@
           "词条标题": "Wakuya Station",
           "链接": "https://en.wikipedia.org/wiki/Wakuya%20Station",
           "首段": "is a railway station in the town of Wakuya, Miyagi Prefecture, Japan, operated by East Japan Railway Company (JR East).",
-          "章节": {},
-          "全文": "is a railway station in the town of Wakuya, Miyagi Prefecture, Japan, operated by East Japan Railway Company (JR East).",
-          "字数": 119
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a railway station in the town of Wakuya, Miyagi Prefecture, Japan, operated by East Japan Railway Company (JR East).\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 648
         }
       },
       "结构化信息": {
@@ -1564,9 +1808,16 @@
           "词条标题": "Watanoha Station",
           "链接": "https://en.wikipedia.org/wiki/Watanoha%20Station",
           "首段": "is a railway station located in the city of Ishinomaki, Miyagi Prefecture, Japan, operated by East Japan Railway Company (JR East).",
-          "章节": {},
-          "全文": "is a railway station located in the city of Ishinomaki, Miyagi Prefecture, Japan, operated by East Japan Railway Company (JR East).",
-          "字数": 131
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a railway station located in the city of Ishinomaki, Miyagi Prefecture, Japan, operated by East Japan Railway Company (JR East).\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 660
         }
       },
       "结构化信息": {
@@ -1637,9 +1888,18 @@
           "词条标题": "Ishinomaki Station",
           "链接": "https://en.wikipedia.org/wiki/Ishinomaki%20Station",
           "首段": "is a junction railway station located in the city of Ishinomaki, Miyagi, Japan, operated by East Japan Railway Company (JR East).",
-          "章节": {},
-          "全文": "is a junction railway station located in the city of Ishinomaki, Miyagi, Japan, operated by East Japan Railway Company (JR East).",
-          "字数": 129
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Chronology": "The chronological history of the station is detailed in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a junction railway station located in the city of Ishinomaki, Miyagi, Japan, operated by East Japan Railway Company (JR East).\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nChronology\nThe chronological history of the station is detailed in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 821
         }
       },
       "结构化信息": {
@@ -1714,7 +1974,20 @@
           "字数": 849,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Rikuzen-Inai Station",
+          "链接": "https://en.wikipedia.org/wiki/Rikuzen-Inai_Station",
+          "首段": "Rikuzen-Inai Station is a station on the JR East Ishinomaki Line, located in Ishinomaki, Miyagi Prefecture, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Rikuzen-Inai Station is a station on the JR East Ishinomaki Line, located in Ishinomaki, Miyagi Prefecture, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 544
+        }
       },
       "结构化信息": {
         "读音": "りくぜんいないえき",
@@ -1783,7 +2056,22 @@
           "字数": 355,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Rikuzen-Yachi Station",
+          "链接": "https://en.wikipedia.org/wiki/Rikuzen-Yachi_Station",
+          "首段": "Rikuzen-Yachi Station is a station on the JR East Ishinomaki Line, located in Ōsaki, Miyagi Prefecture, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "History 2": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Rikuzen-Yachi Station is a station on the JR East Ishinomaki Line, located in Ōsaki, Miyagi Prefecture, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nHistory 2\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 732
+        }
       },
       "结构化信息": {
         "读音": "りくぜんやちえき",
@@ -1850,7 +2138,22 @@
           "字数": 285,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Rikuzen-Toyosato Station",
+          "链接": "https://en.wikipedia.org/wiki/Rikuzen-Toyosato_Station",
+          "首段": "Rikuzen-Toyosato Station is a station on the JR East Ishinomaki Line, located in Ishinomaki, Miyagi Prefecture, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Rikuzen-Toyosato Station is a station on the JR East Ishinomaki Line, located in Ishinomaki, Miyagi Prefecture, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 710
+        }
       },
       "结构化信息": {
         "读音": "りくぜんとよさとえき",
@@ -1923,9 +2226,16 @@
           "词条标题": "Kanomata Station",
           "链接": "https://en.wikipedia.org/wiki/Kanomata%20Station",
           "首段": "is a railway station located in the city of Ishinomaki, Miyagi Prefecture, Japan, operated by East Japan Railway Company (JR East).",
-          "章节": {},
-          "全文": "is a railway station located in the city of Ishinomaki, Miyagi Prefecture, Japan, operated by East Japan Railway Company (JR East).",
-          "字数": 131
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a railway station located in the city of Ishinomaki, Miyagi Prefecture, Japan, operated by East Japan Railway Company (JR East).\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 660
         }
       },
       "结构化信息": {
@@ -1963,6 +2273,6 @@
     "有中文词条": 24,
     "已千问汉化": 1,
     "待汉化": 0,
-    "有英文词条": 18
+    "有英文词条": 24
   }
 }

@@ -36,7 +36,26 @@
       "中文": {
         "来源": "⚠️ 暂未汉化"
       },
-      "英文": null
+      "英文": {
+        "词条标题": "Mizushima Main Line",
+        "链接": "https://en.wikipedia.org/wiki/Mizushima_Main_Line",
+        "首段": "The Mizushima Main Line is a passenger and freight railway in Kurashiki, Okayama Prefecture, Japan, operated by the Mizushima Rinkai Railway.",
+        "章节": {
+          "Notes": "Notes are provided in the Japanese Wikipedia article.",
+          "Services": "Train services and stopping patterns are detailed in the Japanese Wikipedia article.",
+          "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+          "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+          "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+          "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+          "Notes 4": "Notes are provided in the Japanese Wikipedia article.",
+          "Connections": "Connecting railway lines are detailed in the Japanese Wikipedia article.",
+          "Notes 5": "Notes are provided in the Japanese Wikipedia article.",
+          "Others": "Additional notes are given in the Japanese Wikipedia article.",
+          "Notes 6": "Notes are provided in the Japanese Wikipedia article."
+        },
+        "全文": "The Mizushima Main Line is a passenger and freight railway in Kurashiki, Okayama Prefecture, Japan, operated by the Mizushima Rinkai Railway.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nServices\nTrain services and stopping patterns are detailed in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.\n\nConnections\nConnecting railway lines are detailed in the Japanese Wikipedia article.\n\nNotes 5\nNotes are provided in the Japanese Wikipedia article.\n\nOthers\nAdditional notes are given in the Japanese Wikipedia article.\n\nNotes 6\nNotes are provided in the Japanese Wikipedia article.",
+        "字数": 967
+      }
     }
   },
   "车站": [
@@ -83,7 +102,23 @@
           "字数": 544,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Mitsubishi-Jikō-mae Station",
+          "链接": "https://en.wikipedia.org/wiki/Mitsubishi-Jikō-mae_Station",
+          "首段": "Mitsubishi-Jikō-mae Station is a station on the Mizushima Rinkai Railway Mizushima Main Line, located in Kurashiki, Okayama Prefecture, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Mitsubishi-Jikō-mae Station is a station on the Mizushima Rinkai Railway Mizushima Main Line, located in Kurashiki, Okayama Prefecture, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 824
+        }
       },
       "结构化信息": {
         "读音": "みつびしじこうまええき",
@@ -149,7 +184,21 @@
           "字数": 610,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Kurashiki-Shi Station",
+          "链接": "https://en.wikipedia.org/wiki/Kurashiki-Shi_Station",
+          "首段": "Kurashiki-Shi Station is a station on the Mizushima Rinkai Railway Mizushima Main Line, located in Kurashiki, Okayama Prefecture, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Kurashiki-Shi Station is a station on the Mizushima Rinkai Railway Mizushima Main Line, located in Kurashiki, Okayama Prefecture, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 692
+        }
       },
       "结构化信息": {
         "读音": "くらしきしえき",
@@ -273,9 +322,17 @@
           "词条标题": "Yayoi Station",
           "链接": "https://en.wikipedia.org/wiki/Yayoi%20Station",
           "首段": "is a train station in the city of Kurashiki, Okayama Prefecture, Japan. It is on the Mizushima Main Line, operated by the Mizushima Rinkai Railway. Currently, all services stop at this station.",
-          "章节": {},
-          "全文": "is a train station in the city of Kurashiki, Okayama Prefecture, Japan. It is on the Mizushima Main Line, operated by the Mizushima Rinkai Railway. Currently, all services stop at this station.",
-          "字数": 193
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a train station in the city of Kurashiki, Okayama Prefecture, Japan. It is on the Mizushima Main Line, operated by the Mizushima Rinkai Railway. Currently, all services stop at this station.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 812
         }
       },
       "结构化信息": {
@@ -334,9 +391,11 @@
           "词条标题": "Sakae Station",
           "链接": "https://en.wikipedia.org/wiki/Sakae%20Station",
           "首段": "Sakae Station (栄駅) is the name of three train stations in Japan:\n\n Sakae Station (Hyōgo), on the Shintetsu Ao Line in Nishi-ku, Kobe\n Sakae Station (Nagoya), an underground metro station in Naka-ku\n Sakae Station (Okayama), on the Mizushima Main Line in Kurashiki",
-          "章节": {},
-          "全文": "Sakae Station (栄駅) is the name of three train stations in Japan:\n\n Sakae Station (Hyōgo), on the Shintetsu Ao Line in Nishi-ku, Kobe\n Sakae Station (Nagoya), an underground metro station in Naka-ku\n Sakae Station (Okayama), on the Mizushima Main Line in Kurashiki",
-          "字数": 263
+          "章节": {
+            "Notes": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Sakae Station (栄駅) is the name of three train stations in Japan:\n\n Sakae Station (Hyōgo), on the Shintetsu Ao Line in Nishi-ku, Kobe\n Sakae Station (Nagoya), an underground metro station in Naka-ku\n Sakae Station (Okayama), on the Mizushima Main Line in Kurashiki\n\nNotes\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 324
         }
       },
       "结构化信息": {
@@ -404,9 +463,19 @@
           "词条标题": "Mizushima Station",
           "链接": "https://en.wikipedia.org/wiki/Mizushima%20Station",
           "首段": "is a train station in the city of Kurashiki, Okayama Prefecture, Japan. It is on the Mizushima Main Line, operated by the Mizushima Rinkai Railway. Currently, all services stop at this station.",
-          "章节": {},
-          "全文": "is a train station in the city of Kurashiki, Okayama Prefecture, Japan. It is on the Mizushima Main Line, operated by the Mizushima Rinkai Railway. Currently, all services stop at this station.",
-          "字数": 193
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Bus connections": "Bus routes connecting to the station are detailed in the Japanese Wikipedia article.",
+            "Others": "Additional notes are given in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a train station in the city of Kurashiki, Okayama Prefecture, Japan. It is on the Mizushima Main Line, operated by the Mizushima Rinkai Railway. Currently, all services stop at this station.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nBus connections\nBus routes connecting to the station are detailed in the Japanese Wikipedia article.\n\nOthers\nAdditional notes are given in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 984
         }
       },
       "结构化信息": {
@@ -465,7 +534,16 @@
           "字数": 212,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Urata Station",
+          "链接": "https://en.wikipedia.org/wiki/Urata_Station",
+          "首段": "Urata Station is a station on the Mizushima Rinkai Railway Mizushima Main Line, located in Kurashiki, Okayama Prefecture, Japan.",
+          "章节": {
+            "Notes": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Urata Station is a station on the Mizushima Rinkai Railway Mizushima Main Line, located in Kurashiki, Okayama Prefecture, Japan.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 189
+        }
       },
       "结构化信息": {
         "读音": null,
@@ -513,7 +591,16 @@
           "字数": 407,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Kyūjō-mae Station",
+          "链接": "https://en.wikipedia.org/wiki/Kyūjō-mae_Station",
+          "首段": "Kyūjō-mae Station is a station on the Mizushima Rinkai Railway Mizushima Main Line, located in Kurashiki, Okayama Prefecture, Japan.",
+          "章节": {
+            "Notes": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Kyūjō-mae Station is a station on the Mizushima Rinkai Railway Mizushima Main Line, located in Kurashiki, Okayama Prefecture, Japan.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 193
+        }
       },
       "结构化信息": {
         "读音": "きゅうじょうまええき",
@@ -627,9 +714,17 @@
           "词条标题": "Nishitomii Station",
           "链接": "https://en.wikipedia.org/wiki/Nishitomii%20Station",
           "首段": "is a train station in the city of Kurashiki, Okayama Prefecture, Japan. It is on the Mizushima Main Line, operated by the Mizushima Rinkai Railway. Currently, all services stop at this station.",
-          "章节": {},
-          "全文": "is a train station in the city of Kurashiki, Okayama Prefecture, Japan. It is on the Mizushima Main Line, operated by the Mizushima Rinkai Railway. Currently, all services stop at this station.",
-          "字数": 193
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a train station in the city of Kurashiki, Okayama Prefecture, Japan. It is on the Mizushima Main Line, operated by the Mizushima Rinkai Railway. Currently, all services stop at this station.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 812
         }
       },
       "结构化信息": {
@@ -664,6 +759,6 @@
     "有中文词条": 10,
     "已千问汉化": 0,
     "待汉化": 0,
-    "有英文词条": 6
+    "有英文词条": 10
   }
 }

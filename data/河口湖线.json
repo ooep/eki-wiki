@@ -24,7 +24,14 @@
       "中文": {
         "来源": "⚠️ 暂未汉化"
       },
-      "英文": null
+      "英文": {
+        "词条标题": "Fuji Kyūkō Kawaguchiko Line",
+        "链接": "https://en.wikipedia.org/wiki/Fuji_Kyūkō_Kawaguchiko_Line",
+        "首段": "The Fuji Kyūkō Kawaguchiko Line is a railway line in Yamanashi Prefecture, Japan, operated by Fuji Kyūkō, connecting Fujisan Station to Kawaguchiko Station.",
+        "章节": {},
+        "全文": "The Fuji Kyūkō Kawaguchiko Line is a railway line in Yamanashi Prefecture, Japan, operated by Fuji Kyūkō, connecting Fujisan Station to Kawaguchiko Station.",
+        "字数": 156
+      }
     }
   },
   "车站": [
@@ -66,7 +73,22 @@
           "字数": 658,
           "全文": "富士急乐园站（ふじきゅうハイランドえき）是位于山梨县南都留郡富士河口湖町船津的富士山麓电气铁道富士急行线车站，车站编号FJ17，副站名为「托马斯乐园」。\n本站是富士急乐园的门户车站，所有列车均在此停靠。\n\n历史\n开业时站名为 Highland 站。\n1961年（昭和36年）12月1日 - 以 Highland 站开业。\n1978年（昭和53年）6月 - 业务委托化。\n1981年（昭和56年）1月11日 - 改名富士急乐园站。\n2015年（平成27年）3月14日 - 可使用IC卡Suica。\n2020年（令和2年）3月12日 - 纪念《机车托马斯》原作《机车绘本》出版75周年，实施站房·月台翻新，引入副站名\"托马斯乐园\"；6月6日 - 站内设置厕所。\n2022年（令和4年）4月1日 - 伴随富士急行铁道事业分割，成为富士山麓电气铁道车站。\n\n车站结构\n单式月台1面1线的地面车站。考虑临时列车驶入，月台有效长对应6节编组。线路大致从东南向西北延伸，月台设在其西南侧。月台上设可关闭的候车室。\n\n简易Suica检票机设置站。站房与富士急乐园第二入园口一体化，站房部分有人工窗口，并设简易自动售票机1台。过去为直营站，1978年（昭和53年）起为业务委托站。2021年4月19日起，富士急乐园休园日暂停窗口业务。\n\n使用情况\n2021年度年上下车人员为19万4163人（1日平均约532人）。\n\n车站周边\n车站周边富士吉田市与富士河口湖町边界线复杂，出站后一度进入富士吉田市，再穿出到富士河口湖町，抵达河口湖站。"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Fujikyū-Highland Station",
+          "链接": "https://en.wikipedia.org/wiki/Fujikyū-Highland_Station",
+          "首段": "Fujikyū-Highland Station is a station on the Fuji Kyūkō Kawaguchiko Line, located in Fujiyoshida, Yamanashi Prefecture, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Fujikyū-Highland Station is a station on the Fuji Kyūkō Kawaguchiko Line, located in Fujiyoshida, Yamanashi Prefecture, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 745
+        }
       },
       "结构化信息": {
         "读音": "ふじきゅうハイランドえき",
@@ -152,9 +174,28 @@
           "词条标题": "Kawaguchiko Station",
           "链接": "https://en.wikipedia.org/wiki/Kawaguchiko%20Station",
           "首段": "is a railway station on the Fujikyuko Line in Fujikawaguchiko, Yamanashi, Japan, operated by Fuji Kyuko (Fujikyu). It is located at an altitude of .",
-          "章节": {},
-          "全文": "is a railway station on the Fujikyuko Line in Fujikawaguchiko, Yamanashi, Japan, operated by Fuji Kyuko (Fujikyu). It is located at an altitude of .",
-          "字数": 148
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Bus connections": "Bus routes connecting to the station are detailed in the Japanese Wikipedia article.",
+            "Bus connections 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Bus connections 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 5": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 6": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 7": "Notes are provided in the Japanese Wikipedia article.",
+            "Others": "Additional notes are given in the Japanese Wikipedia article.",
+            "Notes 8": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 9": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 10": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a railway station on the Fujikyuko Line in Fujikawaguchiko, Yamanashi, Japan, operated by Fuji Kyuko (Fujikyu). It is located at an altitude of .\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nBus connections\nBus routes connecting to the station are detailed in the Japanese Wikipedia article.\n\nBus connections 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nBus connections 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 5\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 6\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 7\nNotes are provided in the Japanese Wikipedia article.\n\nOthers\nAdditional notes are given in the Japanese Wikipedia article.\n\nNotes 8\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 9\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 10\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 1527
         }
       },
       "结构化信息": {
@@ -193,6 +234,6 @@
     "有中文词条": 2,
     "已千问汉化": 1,
     "待汉化": 0,
-    "有英文词条": 1
+    "有英文词条": 2
   }
 }
