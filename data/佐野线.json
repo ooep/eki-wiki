@@ -49,7 +49,14 @@
         "字数": 563,
         "来源": "维基百科中文版（已转简体）"
       },
-      "英文": null
+      "英文": {
+        "词条标题": "Tōbu Sano Line",
+        "链接": "https://en.wikipedia.org/wiki/Tōbu_Sano_Line",
+        "首段": "The Tōbu Sano Line is a railway line in Japan operated by the Tōbu Railway, connecting Tatebayashi Station in Tatebayashi, Gunma Prefecture, with Kuzū Station in Sano, Tochigi Prefecture. Its station-numbering symbol is TI.",
+        "章节": {},
+        "全文": "The Tōbu Sano Line is a railway line in Japan operated by the Tōbu Railway, connecting Tatebayashi Station in Tatebayashi, Gunma Prefecture, with Kuzū Station in Sano, Tochigi Prefecture. Its station-numbering symbol is TI.",
+        "字数": 223
+      }
     }
   },
   "车站": [
@@ -665,7 +672,14 @@
           "字数": 11617,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Kita-Senju Station",
+          "链接": "https://en.wikipedia.org/wiki/Kita-Senju_Station",
+          "首段": "Kita-Senju Station is a major interchange station served by the JR East Jōban Line, the Tokyo Metro Chiyoda Line and Hibiya Line, the Tōbu Skytree Line, and the Metropolitan Intercity Railway Tsukuba Express, located in Adachi, Tokyo, Japan.",
+          "章节": {},
+          "全文": "Kita-Senju Station is a major interchange station served by the JR East Jōban Line, the Tokyo Metro Chiyoda Line and Hibiya Line, the Tōbu Skytree Line, and the Metropolitan Intercity Railway Tsukuba Express, located in Adachi, Tokyo, Japan.",
+          "字数": 241
+        }
       },
       "结构化信息": {
         "读音": "きたせんじゅえき",
@@ -1105,7 +1119,14 @@
           "字数": 4397,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Tōbu-Dōbutsu-Kōen Station",
+          "链接": "https://en.wikipedia.org/wiki/Tōbu-Dōbutsu-Kōen_Station",
+          "首段": "Tōbu-Dōbutsu-Kōen Station is a station on the Tōbu Isesaki Line and Nikkō Line, located in Miyashiro, Saitama Prefecture, Japan. Its station number is TS-30.",
+          "章节": {},
+          "全文": "Tōbu-Dōbutsu-Kōen Station is a station on the Tōbu Isesaki Line and Nikkō Line, located in Miyashiro, Saitama Prefecture, Japan. Its station number is TS-30.",
+          "字数": 157
+        }
       },
       "结构化信息": {
         "读音": "とうぶどうぶつこうえんえき",
@@ -1328,7 +1349,14 @@
           "字数": 140,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Watarase Station",
+          "链接": "https://en.wikipedia.org/wiki/Watarase_Station",
+          "首段": "Watarase Station may refer to Watarase Station (Gunma) on the Tōbu Sano Line in Tatebayashi and Watarase Station (Fukuoka) on the JR Kagoshima Main Line.",
+          "章节": {},
+          "全文": "Watarase Station may refer to Watarase Station (Gunma) on the Tōbu Sano Line in Tatebayashi and Watarase Station (Fukuoka) on the JR Kagoshima Main Line.",
+          "字数": 153
+        }
       },
       "结构化信息": {
         "读音": null,
@@ -1564,7 +1592,14 @@
           "字数": 1473,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Hanyū Station",
+          "链接": "https://en.wikipedia.org/wiki/Hanyū_Station",
+          "首段": "Hanyū Station is an interchange station on the Tōbu Isesaki Line and the Chichibu Railway Main Line, located in Hanyū, Saitama Prefecture, Japan.",
+          "章节": {},
+          "全文": "Hanyū Station is an interchange station on the Tōbu Isesaki Line and the Chichibu Railway Main Line, located in Hanyū, Saitama Prefecture, Japan.",
+          "字数": 145
+        }
       },
       "结构化信息": {
         "读音": "はにゅうえき",
@@ -1795,6 +1830,6 @@
     "有中文词条": 18,
     "已千问汉化": 0,
     "待汉化": 0,
-    "有英文词条": 14
+    "有英文词条": 18
   }
 }
