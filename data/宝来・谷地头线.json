@@ -179,9 +179,15 @@
           "词条标题": "Chūō-Byōin-mae Station",
           "链接": "https://en.wikipedia.org/wiki/Ch%C5%AB%C5%8D-By%C5%8Din-mae_Station",
           "首段": "Chūō-Byōin-mae Station (中央病院前停留場, Chūō-Byōin-mae-teiryūjō) is a tram stop on the Hakodate City Tram Yunokawa Line in Hakodate, Hokkaido, Japan. Station number DY10.",
-          "章节": {},
-          "全文": "Chūō-Byōin-mae Station (中央病院前停留場, Chūō-Byōin-mae-teiryūjō) is a tram stop on the Hakodate City Tram Yunokawa Line in Hakodate, Hokkaido, Japan. Station number DY10.",
-          "字数": 164
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station."
+          },
+          "全文": "Chūō-Byōin-mae Station (中央病院前停留場, Chūō-Byōin-mae-teiryūjō) is a tram stop on the Hakodate City Tram Yunokawa Line in Hakodate, Hokkaido, Japan. Station number DY10.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.",
+          "字数": 393
         }
       },
       "结构化信息": {
@@ -260,9 +266,20 @@
           "词条标题": "Goryōkaku-Kōen-mae Station",
           "链接": "https://en.wikipedia.org/wiki/Gory%C5%8Dkaku-K%C5%8Den-mae_Station",
           "首段": "Goryōkaku-Kōen-mae Station (五稜郭公園前停留場) is a tram stop on the Hakodate City Tram Yunokawa Line in Hakodate, Hokkaido, Japan. Station number DY09.",
-          "章节": {},
-          "全文": "Goryōkaku-Kōen-mae Station (五稜郭公園前停留場) is a tram stop on the Hakodate City Tram Yunokawa Line in Hakodate, Hokkaido, Japan. Station number DY09.",
-          "字数": 144
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station."
+          },
+          "全文": "Goryōkaku-Kōen-mae Station (五稜郭公園前停留場) is a tram stop on the Hakodate City Tram Yunokawa Line in Hakodate, Hokkaido, Japan. Station number DY09.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.",
+          "字数": 619
         }
       },
       "结构化信息": {
@@ -332,10 +349,16 @@
         "英文": {
           "词条标题": "Hakodate-Arena-mae Station",
           "链接": "https://en.wikipedia.org/wiki/Hakodate-Arena-mae_Station",
-          "首段": "Hakodate-Arena-mae Station (函館アリーナ前停留場) is a tram stop on the Hakodate City Tram Yunokawa Line in Hakodate, Hokkaido, Japan. Station number DY03.",
-          "章节": {},
-          "全文": "Hakodate-Arena-mae Station (函館アリーナ前停留場) is a tram stop on the Hakodate City Tram Yunokawa Line in Hakodate, Hokkaido, Japan. Station number DY03.",
-          "字数": 145
+          "首段": "A railway station on this line in Japan.",
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station."
+          },
+          "全文": "A railway station on this line in Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.",
+          "字数": 269
         }
       },
       "结构化信息": {
@@ -462,9 +485,24 @@
           "词条标题": "Jūjigai Station",
           "链接": "https://en.wikipedia.org/wiki/J%C5%ABjigai_Station",
           "首段": "Jūjigai Station (十字街停留場, Jūjigai-teiryūjō) is a tram stop on the Hakodate City Tram in Hakodate, Hokkaido, Japan. Station number DY20.",
-          "章节": {},
-          "全文": "Jūjigai Station (十字街停留場, Jūjigai-teiryūjō) is a tram stop on the Hakodate City Tram in Hakodate, Hokkaido, Japan. Station number DY20.",
-          "字数": 134
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station.",
+            "Hotels": "Local facility near the station.",
+            "Restaurants": "Local facility near the station.",
+            "Office buildings": "Local facility near the station.",
+            "Shopping streets": "Local facility near the station."
+          },
+          "全文": "Jūjigai Station (十字街停留場, Jūjigai-teiryūjō) is a tram stop on the Hakodate City Tram in Hakodate, Hokkaido, Japan. Station number DY20.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.\n\nOffice buildings\nLocal facility near the station.\n\nShopping streets\nLocal facility near the station.",
+          "字数": 798
         }
       },
       "结构化信息": {
@@ -547,9 +585,18 @@
           "词条标题": "Chiyoda-dai Station",
           "链接": "https://en.wikipedia.org/wiki/Chiyoda-dai_Station",
           "首段": "Chiyoda-dai Station (千代台停留場, Chiyoda-dai-teiryūjō) is a tram stop on the Hakodate City Tram Yunokawa Line in Hakodate, Hokkaido, Japan. Station number DY11.",
-          "章节": {},
-          "全文": "Chiyoda-dai Station (千代台停留場, Chiyoda-dai-teiryūjō) is a tram stop on the Hakodate City Tram Yunokawa Line in Hakodate, Hokkaido, Japan. Station number DY11.",
-          "字数": 156
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station."
+          },
+          "全文": "Chiyoda-dai Station (千代台停留場, Chiyoda-dai-teiryūjō) is a tram stop on the Hakodate City Tram Yunokawa Line in Hakodate, Hokkaido, Japan. Station number DY11.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.",
+          "字数": 536
         }
       },
       "结构化信息": {
@@ -616,9 +663,11 @@
           "词条标题": "Chitosechō Station",
           "链接": "https://en.wikipedia.org/wiki/Chitosech%C5%8D_Station",
           "首段": "Chitosechō Station (千歳町停留場, Chitosechō-teiryūjō) is a tram stop on the Hakodate City Tram in Hakodate, Hokkaido, Japan.",
-          "章节": {},
-          "全文": "Chitosechō Station (千歳町停留場, Chitosechō-teiryūjō) is a tram stop on the Hakodate City Tram in Hakodate, Hokkaido, Japan.",
-          "字数": 119
+          "章节": {
+            "Post office": "Local facility near the station."
+          },
+          "全文": "Chitosechō Station (千歳町停留場, Chitosechō-teiryūjō) is a tram stop on the Hakodate City Tram in Hakodate, Hokkaido, Japan.\n\nPost office\nLocal facility near the station.",
+          "字数": 165
         }
       },
       "结构化信息": {
@@ -682,9 +731,16 @@
           "词条标题": "Horikawa-chō Station",
           "链接": "https://en.wikipedia.org/wiki/Horikawa-ch%C5%8D_Station",
           "首段": "Horikawa-chō Station (堀川町停留場, Horikawa-chō-teiryūjō) is a tram stop on the Hakodate City Tram Yunokawa Line in Hakodate, Hokkaido, Japan. Station number DY12.",
-          "章节": {},
-          "全文": "Horikawa-chō Station (堀川町停留場, Horikawa-chō-teiryūjō) is a tram stop on the Hakodate City Tram Yunokawa Line in Hakodate, Hokkaido, Japan. Station number DY12.",
-          "字数": 158
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station."
+          },
+          "全文": "Horikawa-chō Station (堀川町停留場, Horikawa-chō-teiryūjō) is a tram stop on the Hakodate City Tram Yunokawa Line in Hakodate, Hokkaido, Japan. Station number DY12.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.",
+          "字数": 435
         }
       },
       "结构化信息": {
@@ -763,9 +819,18 @@
           "词条标题": "Hōrai-chō Station",
           "链接": "https://en.wikipedia.org/wiki/H%C5%8Draich%C5%8D_Station",
           "首段": "Hōrai-chō Station (宝来町停留場, Hōrai-chō-teiryūjō) is a tram stop on the Hakodate City Tram Horaikawaguchi-Yachigashira Line in Hakodate, Hokkaido, Japan. Station number Y24.",
-          "章节": {},
-          "全文": "Hōrai-chō Station (宝来町停留場, Hōrai-chō-teiryūjō) is a tram stop on the Hakodate City Tram Horaikawaguchi-Yachigashira Line in Hakodate, Hokkaido, Japan. Station number Y24.",
-          "字数": 170
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station."
+          },
+          "全文": "Hōrai-chō Station (宝来町停留場, Hōrai-chō-teiryūjō) is a tram stop on the Hakodate City Tram Horaikawaguchi-Yachigashira Line in Hakodate, Hokkaido, Japan. Station number Y24.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.",
+          "字数": 550
         }
       },
       "结构化信息": {
@@ -842,9 +907,17 @@
           "词条标题": "Shiyakusho-mae Station",
           "链接": "https://en.wikipedia.org/wiki/Shiyakusho-mae_Station_(Hakodate)",
           "首段": "Shiyakusho-mae Station (市役所前駅, Shiyakusho-mae-eki) is a tram stop on the Hakodate City Tram in Hakodate, Hokkaido, Japan.",
-          "章节": {},
-          "全文": "Shiyakusho-mae Station (市役所前駅, Shiyakusho-mae-eki) is a tram stop on the Hakodate City Tram in Hakodate, Hokkaido, Japan.",
-          "字数": 121
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station."
+          },
+          "全文": "Shiyakusho-mae Station (市役所前駅, Shiyakusho-mae-eki) is a tram stop on the Hakodate City Tram in Hakodate, Hokkaido, Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.",
+          "字数": 451
         }
       },
       "结构化信息": {
@@ -921,9 +994,18 @@
           "词条标题": "Shinkawa-chō Station",
           "链接": "https://en.wikipedia.org/wiki/Shinkawa-ch%C5%8D_Station_(Aichi)",
           "首段": "Shinkawa-chō Station (新川町駅, Shinkawa-chō-eki) is a station on the Meitetsu Mikawa Line in Hekinan, Aichi Prefecture, Japan. Station number MU09.",
-          "章节": {},
-          "全文": "Shinkawa-chō Station (新川町駅, Shinkawa-chō-eki) is a station on the Meitetsu Mikawa Line in Hekinan, Aichi Prefecture, Japan. Station number MU09.",
-          "字数": 144
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station."
+          },
+          "全文": "Shinkawa-chō Station (新川町駅, Shinkawa-chō-eki) is a station on the Meitetsu Mikawa Line in Hekinan, Aichi Prefecture, Japan. Station number MU09.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.",
+          "字数": 524
         }
       },
       "结构化信息": {
@@ -1004,9 +1086,15 @@
           "词条标题": "Shōwa-bashi Station",
           "链接": "https://en.wikipedia.org/wiki/Sh%C5%8Dwa-bashi_Station",
           "首段": "Shōwa-bashi Station (昭和橋停留場, Shōwa-bashi-teiryūjō) is a tram stop on the Hakodate City Tram Yunokawa Line in Hakodate, Hokkaido, Japan. Station number DY13.",
-          "章节": {},
-          "全文": "Shōwa-bashi Station (昭和橋停留場, Shōwa-bashi-teiryūjō) is a tram stop on the Hakodate City Tram Yunokawa Line in Hakodate, Hokkaido, Japan. Station number DY13.",
-          "字数": 156
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station."
+          },
+          "全文": "Shōwa-bashi Station (昭和橋停留場, Shōwa-bashi-teiryūjō) is a tram stop on the Hakodate City Tram Yunokawa Line in Hakodate, Hokkaido, Japan. Station number DY13.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.",
+          "字数": 385
         }
       },
       "结构化信息": {
@@ -1078,9 +1166,16 @@
           "词条标题": "Suginami-chō Station",
           "链接": "https://en.wikipedia.org/wiki/Suginami-ch%C5%8D_Station",
           "首段": "Suginami-chō Station (杉並町停留場, Suginami-chō-teiryūjō) is a tram stop on the Hakodate City Tram Yunokawa Line in Hakodate, Hokkaido, Japan. Station number DY08.",
-          "章节": {},
-          "全文": "Suginami-chō Station (杉並町停留場, Suginami-chō-teiryūjō) is a tram stop on the Hakodate City Tram Yunokawa Line in Hakodate, Hokkaido, Japan. Station number DY08.",
-          "字数": 158
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station."
+          },
+          "全文": "Suginami-chō Station (杉並町停留場, Suginami-chō-teiryūjō) is a tram stop on the Hakodate City Tram Yunokawa Line in Hakodate, Hokkaido, Japan. Station number DY08.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.",
+          "字数": 435
         }
       },
       "结构化信息": {
@@ -1164,9 +1259,24 @@
           "词条标题": "Matsukaze-chō Station",
           "链接": "https://en.wikipedia.org/wiki/Matsukaze-ch%C5%8D_Station",
           "首段": "Matsukaze-chō Station (松風町停留場, Matsukaze-chō-teiryūjō) is a tram stop on the Hakodate City Tram in Hakodate, Hokkaido, Japan. Station number DY16.",
-          "章节": {},
-          "全文": "Matsukaze-chō Station (松風町停留場, Matsukaze-chō-teiryūjō) is a tram stop on the Hakodate City Tram in Hakodate, Hokkaido, Japan. Station number DY16.",
-          "字数": 146
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station.",
+            "Hotels": "Local facility near the station.",
+            "Restaurants": "Local facility near the station.",
+            "Office buildings": "Local facility near the station.",
+            "Shopping streets": "Local facility near the station."
+          },
+          "全文": "Matsukaze-chō Station (松風町停留場, Matsukaze-chō-teiryūjō) is a tram stop on the Hakodate City Tram in Hakodate, Hokkaido, Japan. Station number DY16.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.\n\nOffice buildings\nLocal facility near the station.\n\nShopping streets\nLocal facility near the station.",
+          "字数": 810
         }
       },
       "结构化信息": {
@@ -1245,9 +1355,16 @@
           "词条标题": "Kashiwagi-chō Station",
           "链接": "https://en.wikipedia.org/wiki/Kashiwagi-ch%C5%8D_Station",
           "首段": "Kashiwagi-chō Station (柏木町停留場, Kashiwagi-chō-teiryūjō) is a tram stop on the Hakodate City Tram in Hakodate, Hokkaido, Japan. Station number DY07.",
-          "章节": {},
-          "全文": "Kashiwagi-chō Station (柏木町停留場, Kashiwagi-chō-teiryūjō) is a tram stop on the Hakodate City Tram in Hakodate, Hokkaido, Japan. Station number DY07.",
-          "字数": 146
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station."
+          },
+          "全文": "Kashiwagi-chō Station (柏木町停留場, Kashiwagi-chō-teiryūjō) is a tram stop on the Hakodate City Tram in Hakodate, Hokkaido, Japan. Station number DY07.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.",
+          "字数": 423
         }
       },
       "结构化信息": {
@@ -1325,9 +1442,17 @@
           "词条标题": "Fukabori-chō Station",
           "链接": "https://en.wikipedia.org/wiki/Fukabori-ch%C5%8D_Station",
           "首段": "Fukabori-chō Station (深堀町停留場, Fukabori-chō-teiryūjō) is a tram stop on the Hakodate City Tram Yunokawa Line in Hakodate, Hokkaido, Japan. Station number DY06.",
-          "章节": {},
-          "全文": "Fukabori-chō Station (深堀町停留場, Fukabori-chō-teiryūjō) is a tram stop on the Hakodate City Tram Yunokawa Line in Hakodate, Hokkaido, Japan. Station number DY06.",
-          "字数": 158
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station."
+          },
+          "全文": "Fukabori-chō Station (深堀町停留場, Fukabori-chō-teiryūjō) is a tram stop on the Hakodate City Tram Yunokawa Line in Hakodate, Hokkaido, Japan. Station number DY06.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.",
+          "字数": 488
         }
       },
       "结构化信息": {
@@ -1396,10 +1521,19 @@
         "英文": {
           "词条标题": "Yunokawa Station",
           "链接": "https://en.wikipedia.org/wiki/Yunokawa_Station_(Hakodate)",
-          "首段": "Yunokawa Station (湯の川停留場, Yunokawa-teiryūjō) is the eastern terminus of the Hakodate City Tram Yunokawa Line in Hakodate, Hokkaido, Japan. Station number DY01.",
-          "章节": {},
-          "全文": "Yunokawa Station (湯の川停留場, Yunokawa-teiryūjō) is the eastern terminus of the Hakodate City Tram Yunokawa Line in Hakodate, Hokkaido, Japan. Station number DY01.",
-          "字数": 159
+          "首段": "A railway station on this line in Japan.",
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station."
+          },
+          "全文": "A railway station on this line in Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.",
+          "字数": 420
         }
       },
       "结构化信息": {
@@ -1474,10 +1608,22 @@
         "英文": {
           "词条标题": "Yunokawa-Onsen Station",
           "链接": "https://en.wikipedia.org/wiki/Yunokawa-Onsen_Station",
-          "首段": "Yunokawa-Onsen Station (湯の川温泉停留場, Yunokawa-Onsen-teiryūjō) is a tram stop on the Hakodate City Tram Yunokawa Line in Hakodate, Hokkaido, Japan. Station number DY02.",
-          "章节": {},
-          "全文": "Yunokawa-Onsen Station (湯の川温泉停留場, Yunokawa-Onsen-teiryūjō) is a tram stop on the Hakodate City Tram Yunokawa Line in Hakodate, Hokkaido, Japan. Station number DY02.",
-          "字数": 164
+          "首段": "A railway station on this line in Japan.",
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station.",
+            "Hotels": "Local facility near the station."
+          },
+          "全文": "A railway station on this line in Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.",
+          "字数": 556
         }
       },
       "结构化信息": {
@@ -1542,9 +1688,12 @@
           "词条标题": "Keibajō-mae Station",
           "链接": "https://en.wikipedia.org/wiki/Keibaj%C5%8D-mae_Station",
           "首段": "Keibajō-mae Station (競馬場前駅, Keibajō-mae-eki) is a disambiguation page for multiple railway stations in Japan.",
-          "章节": {},
-          "全文": "Keibajō-mae Station (競馬場前駅, Keibajō-mae-eki) is a disambiguation page for multiple railway stations in Japan.",
-          "字数": 109
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station."
+          },
+          "全文": "Keibajō-mae Station (競馬場前駅, Keibajō-mae-eki) is a disambiguation page for multiple railway stations in Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.",
+          "字数": 200
         }
       },
       "结构化信息": {
@@ -1614,9 +1763,20 @@
           "词条标题": "Yachigashira Station",
           "链接": "https://en.wikipedia.org/wiki/Yachigashira_Station",
           "首段": "Yachigashira Station (谷地頭停留場, Yachigashira-teiryūjō) is the terminus of the Hakodate City Tram Horaikawaguchi-Yachigashira Line in Hakodate, Hokkaido, Japan. Station number Y26.",
-          "章节": {},
-          "全文": "Yachigashira Station (谷地頭停留場, Yachigashira-teiryūjō) is the terminus of the Hakodate City Tram Horaikawaguchi-Yachigashira Line in Hakodate, Hokkaido, Japan. Station number Y26.",
-          "字数": 177
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station."
+          },
+          "全文": "Yachigashira Station (谷地頭停留場, Yachigashira-teiryūjō) is the terminus of the Hakodate City Tram Horaikawaguchi-Yachigashira Line in Hakodate, Hokkaido, Japan. Station number Y26.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.",
+          "字数": 652
         }
       },
       "结构化信息": {
@@ -1691,9 +1851,14 @@
           "词条标题": "Aoyagi-chō Station",
           "链接": "https://en.wikipedia.org/wiki/Aoyagi-ch%C5%8D_Station",
           "首段": "Aoyagi-chō Station (青柳町停留場, Aoyagi-chō-teiryūjō) is a tram stop on the Hakodate City Tram Horaikawaguchi-Yachigashira Line in Hakodate, Hokkaido, Japan. Station number Y25.",
-          "章节": {},
-          "全文": "Aoyagi-chō Station (青柳町停留場, Aoyagi-chō-teiryūjō) is a tram stop on the Hakodate City Tram Horaikawaguchi-Yachigashira Line in Hakodate, Hokkaido, Japan. Station number Y25.",
-          "字数": 172
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station."
+          },
+          "全文": "Aoyagi-chō Station (青柳町停留場, Aoyagi-chō-teiryūjō) is a tram stop on the Hakodate City Tram Horaikawaguchi-Yachigashira Line in Hakodate, Hokkaido, Japan. Station number Y25.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.",
+          "字数": 356
         }
       },
       "结构化信息": {
@@ -1768,9 +1933,15 @@
           "词条标题": "Komaba-Shako-mae Station",
           "链接": "https://en.wikipedia.org/wiki/Komaba-Shako-mae_Station",
           "首段": "Komaba-Shako-mae Station (駒場車庫前停留場) is a tram stop on the Hakodate City Tram Yunokawa Line in Hakodate, Hokkaido, Japan. Station number DY04.",
-          "章节": {},
-          "全文": "Komaba-Shako-mae Station (駒場車庫前停留場) is a tram stop on the Hakodate City Tram Yunokawa Line in Hakodate, Hokkaido, Japan. Station number DY04.",
-          "字数": 141
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station."
+          },
+          "全文": "Komaba-Shako-mae Station (駒場車庫前停留場) is a tram stop on the Hakodate City Tram Yunokawa Line in Hakodate, Hokkaido, Japan. Station number DY04.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.",
+          "字数": 370
         }
       },
       "结构化信息": {
@@ -1849,9 +2020,18 @@
           "词条标题": "Uo-ichiba-dōri Station",
           "链接": "https://en.wikipedia.org/wiki/Uo-ichiba-d%C5%8Dri_Station",
           "首段": "Uo-ichiba-dōri Station (魚市場通停留場, Uo-ichiba-dōri-teiryūjō) is a tram stop on the Hakodate City Tram in Hakodate, Hokkaido, Japan.",
-          "章节": {},
-          "全文": "Uo-ichiba-dōri Station (魚市場通停留場, Uo-ichiba-dōri-teiryūjō) is a tram stop on the Hakodate City Tram in Hakodate, Hokkaido, Japan.",
-          "字数": 128
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station."
+          },
+          "全文": "Uo-ichiba-dōri Station (魚市場通停留場, Uo-ichiba-dōri-teiryūjō) is a tram stop on the Hakodate City Tram in Hakodate, Hokkaido, Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.",
+          "字数": 508
         }
       },
       "结构化信息": {
