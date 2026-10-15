@@ -48,7 +48,14 @@
         "字数": 825,
         "来源": "维基百科中文版（已转简体）"
       },
-      "英文": null
+      "英文": {
+        "词条标题": "Keiō Dōbutsuen Line",
+        "链接": "https://en.wikipedia.org/wiki/Keiō_Dōbutsuen_Line",
+        "首段": "The Keiō Dōbutsuen Line is a railway line in Tokyo, Japan, operated by the Keiō Electric Railway, connecting Takaido Station with Tama-Dōbutsu-Kōen Station, entirely within Hino, Tokyo. Its station-numbering symbol is KO.",
+        "章节": {},
+        "全文": "The Keiō Dōbutsuen Line is a railway line in Tokyo, Japan, operated by the Keiō Electric Railway, connecting Takaido Station with Tama-Dōbutsu-Kōen Station, entirely within Hino, Tokyo. Its station-numbering symbol is KO.",
+        "字数": 221
+      }
     }
   },
   "车站": [
@@ -103,7 +110,14 @@
           "字数": 1259,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Tama-Dōbutsu-Kōen Station",
+          "链接": "https://en.wikipedia.org/wiki/Tama-Dōbutsu-Kōen_Station",
+          "首段": "Tama-Dōbutsu-Kōen Station is an interchange station on the Keiō Dōbutsuen Line and the Tama Toshi Monorail, located in Hino, Tokyo, Japan.",
+          "章节": {},
+          "全文": "Tama-Dōbutsu-Kōen Station is an interchange station on the Keiō Dōbutsuen Line and the Tama Toshi Monorail, located in Hino, Tokyo, Japan.",
+          "字数": 138
+        }
       },
       "结构化信息": {
         "读音": "たまどうぶつこうえんえき",
@@ -269,6 +283,6 @@
     "有中文词条": 2,
     "已千问汉化": 0,
     "待汉化": 0,
-    "有英文词条": 1
+    "有英文词条": 2
   }
 }
