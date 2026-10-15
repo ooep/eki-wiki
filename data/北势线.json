@@ -75,7 +75,14 @@
         "字数": 260,
         "来源": "维基百科中文版（已转简体）"
       },
-      "英文": null
+      "英文": {
+        "词条标题": "Sangi Railway Hokusei Line",
+        "链接": "https://en.wikipedia.org/wiki/Sangi_Railway_Hokusei_Line",
+        "首段": "The Sangi Railway Hokusei Line (三岐鉄道北勢線, Sangi Tetsudō Hokusei-sen) is a regional railway line in Mie Prefecture, Japan, operated by Sangi Railway. It connects Nishi-Kuwana Station in Kuwana with Ageki Station in Inabe.",
+        "章节": {},
+        "全文": "The Sangi Railway Hokusei Line (三岐鉄道北勢線, Sangi Tetsudō Hokusei-sen) is a regional railway line in Mie Prefecture, Japan, operated by Sangi Railway. It connects Nishi-Kuwana Station in Kuwana with Ageki Station in Inabe.",
+        "字数": 219
+      }
     }
   },
   "车站": [
@@ -125,17 +132,11 @@
         },
         "英文": {
           "词条标题": "Nanawa Station",
-          "链接": "https://en.wikipedia.org/wiki/Nanawa%20Station",
-          "首段": "is a passenger railway station located in the city of Kuwana, Mie Prefecture, Japan, operated by the private railway operator Sangi Railway.",
-          "章节": {
-            "Lines": "Nanawa Station is served by the Hokusei Line, and is located 6.9 kilometres from the terminus of the line at Nishi-Kuwana Station.",
-            "Layout": "The station consists of a single unnumbered island platform connected to the station building by a level crossing. The station is unattended.",
-            "Platforms": "Adjacent stations",
-            "History": "Nanawa Station was opened on April 5, 1914 as a station on the Hokusei Railway, which became the Hokusei Electric Railway on June 27, 1934. Through a series of mergers, the line became part of the Kintetsu network by April 1, 1965. The Sangi Railway was spun out of Kintetsu as an independent company on April 1, 2003. A new station building was completed in 2005.\n\nPassenger statistics\nIn fiscal 2019, the station was used by an average of 318 passengers daily (boarding passengers only).\n\nSurrounding area\nKuwana City Nanawa District Civic Center\n Mie Prefectural Kuwana Technical High School\n\nSee also\nList of railway stations in Japan",
-            "References": "External links\n\nSangi Railway official home page\n\nRailway stations in Japan opened in 1914\nRailway stations in Mie Prefecture\nKuwana, Mie"
-          },
-          "全文": "is a passenger railway station located in the city of Kuwana, Mie Prefecture, Japan, operated by the private railway operator Sangi Railway.\n\nLines\nNanawa Station is served by the Hokusei Line, and is located 6.9 kilometres from the terminus of the line at Nishi-Kuwana Station.\n\nLayout\nThe station consists of a single unnumbered island platform connected to the station building by a level crossing. The station is unattended.\n\nPlatforms\n\nAdjacent stations\n\nHistory\nNanawa Station was opened on April 5, 1914 as a station on the Hokusei Railway, which became the Hokusei Electric Railway on June 27, 1934. Through a series of mergers, the line became part of the Kintetsu network by April 1, 1965. The Sangi Railway was spun out of Kintetsu as an independent company on April 1, 2003. A new station building was completed in 2005.\n\nPassenger statistics\nIn fiscal 2019, the station was used by an average of 318 passengers daily (boarding passengers only).\n\nSurrounding area\nKuwana City Nanawa District Civic Center\n Mie Prefectural Kuwana Technical High School\n\nSee also\nList of railway stations in Japan\n\nReferences\n\nExternal links\n\nSangi Railway official home page\n\nRailway stations in Japan opened in 1914\nRailway stations in Mie Prefecture\nKuwana, Mie",
-          "字数": 1257
+          "链接": "https://en.wikipedia.org/wiki/Nanawa_Station",
+          "首段": "Nanawa Station (七和駅, Nanawa-eki) is a station on the Sangi Railway Hokusei Line in Kuwana, Mie Prefecture, Japan.",
+          "章节": {},
+          "全文": "Nanawa Station (七和駅, Nanawa-eki) is a station on the Sangi Railway Hokusei Line in Kuwana, Mie Prefecture, Japan.",
+          "字数": 113
         }
       },
       "结构化信息": {
@@ -217,17 +218,11 @@
         },
         "英文": {
           "词条标题": "Ariyoshi Station",
-          "链接": "https://en.wikipedia.org/wiki/Ariyoshi%20Station",
-          "首段": "is a passenger railway station located in the city of Kuwana, Mie Prefecture, Japan, operated by the private railway operator Sangi Railway.",
-          "章节": {
-            "Lines": "Ariyoshi Station is served by the Hokusei Line, and is located 4.1 kilometres from the terminus of the line at Nishi-Kuwana Station.",
-            "Layout": "The station consists of a single unnumbered island platform connected to the station building by a level crossing. The station is unattended.",
-            "Platforms": "Adjacent stations",
-            "History": "Ariyoshi Station was opened on April 5, 1914, as a station on the Hokusei Railway, which became the Hokusei Electric Railway on June 27, 1934. Through a series of mergers, the line became part of the Kintetsu network by April 1, 1965, but was spun out as an independent company on April 1, 2003. A new station building was completed on December 27, 2006.\n\nPassenger statistics\nIn fiscal 2019, the station was used by an average of 166 passengers daily (boarding passengers only).\n\nSurrounding area\nJapan National Route 421\n\nSee also\nList of railway stations in Japan",
-            "References": "External links\n\nSangi Railway official home page\n\nRailway stations in Japan opened in 1914\nRailway stations in Mie Prefecture\nKuwana, Mie"
-          },
-          "全文": "is a passenger railway station located in the city of Kuwana, Mie Prefecture, Japan, operated by the private railway operator Sangi Railway.\n\nLines\nAriyoshi Station is served by the Hokusei Line, and is located 4.1 kilometres from the terminus of the line at Nishi-Kuwana Station.\n\nLayout\nThe station consists of a single unnumbered island platform connected to the station building by a level crossing. The station is unattended.\n\nPlatforms\n\nAdjacent stations\n\nHistory\nAriyoshi Station was opened on April 5, 1914, as a station on the Hokusei Railway, which became the Hokusei Electric Railway on June 27, 1934. Through a series of mergers, the line became part of the Kintetsu network by April 1, 1965, but was spun out as an independent company on April 1, 2003. A new station building was completed on December 27, 2006.\n\nPassenger statistics\nIn fiscal 2019, the station was used by an average of 166 passengers daily (boarding passengers only).\n\nSurrounding area\nJapan National Route 421\n\nSee also\nList of railway stations in Japan\n\nReferences\n\nExternal links\n\nSangi Railway official home page\n\nRailway stations in Japan opened in 1914\nRailway stations in Mie Prefecture\nKuwana, Mie",
-          "字数": 1187
+          "链接": "https://en.wikipedia.org/wiki/Ariyoshi_Station",
+          "首段": "Ariyoshi Station (在良駅, Ariyoshi-eki) is a station on the Sangi Railway Hokusei Line in Kuwana, Mie Prefecture, Japan.",
+          "章节": {},
+          "全文": "Ariyoshi Station (在良駅, Ariyoshi-eki) is a station on the Sangi Railway Hokusei Line in Kuwana, Mie Prefecture, Japan.",
+          "字数": 117
         }
       },
       "结构化信息": {
@@ -424,17 +419,11 @@
         },
         "英文": {
           "词条标题": "Tōin Station",
-          "链接": "https://en.wikipedia.org/wiki/T%C5%8Din%20Station",
-          "首段": "is a passenger railway station located in the town of Tōin, Mie Prefecture, Japan, operated by the private railway operator Sangi Railway.",
-          "章节": {
-            "Lines": "Tōin Station is served by the Hokusei Line, and is located 9.7 kilometres from the terminus of the line at Nishi-Kuwana Station.",
-            "Layout": "The station consists of a single island platform, connected to the station building by a level crossing.",
-            "Platforms": "Adjacent stations",
-            "History": "The station was opened on March 26, 2005  as a part of a Mie prefectural proposal to increase the convenience of transportation and thus many modern and handicapped-friendly facilities are found at the station.  \nJune 22, 2005:  Automatic ticket gates installed.  Fare adjustment machine installed.\nApril 13, 2006:  Train service at the station is temporarily replaced by bus service for over a month due to a nearby train derailment.\nMarch 26, 2008:  Access road to the station is widened and improved.\n\nPassenger statistics\nIn fiscal 2019, the station was used by an average of 504 passengers daily (boarding passengers only).\n\nSurrounding area\nKuwana City Fire Department Toin Branch (in front of the station)\nToin Town General Government Building \nToin Town General Cultural Center\nToin Municipal Kanda Elementary School (10 minutes walk to the east)\n\nSee also\nList of railway stations in Japan",
-            "References": "External links\n\nSangi Railway official home page\n\nRailway stations in Japan opened in 2005\nRailway stations in Mie Prefecture\nTōin, Mie"
-          },
-          "全文": "is a passenger railway station located in the town of Tōin, Mie Prefecture, Japan, operated by the private railway operator Sangi Railway.\n\nLines\nTōin Station is served by the Hokusei Line, and is located 9.7 kilometres from the terminus of the line at Nishi-Kuwana Station.\n\nLayout\nThe station consists of a single island platform, connected to the station building by a level crossing.\n\nPlatforms\n\nAdjacent stations\n\nHistory\nThe station was opened on March 26, 2005  as a part of a Mie prefectural proposal to increase the convenience of transportation and thus many modern and handicapped-friendly facilities are found at the station.  \nJune 22, 2005:  Automatic ticket gates installed.  Fare adjustment machine installed.\nApril 13, 2006:  Train service at the station is temporarily replaced by bus service for over a month due to a nearby train derailment.\nMarch 26, 2008:  Access road to the station is widened and improved.\n\nPassenger statistics\nIn fiscal 2019, the station was used by an average of 504 passengers daily (boarding passengers only).\n\nSurrounding area\nKuwana City Fire Department Toin Branch (in front of the station)\nToin Town General Government Building \nToin Town General Cultural Center\nToin Municipal Kanda Elementary School (10 minutes walk to the east)\n\nSee also\nList of railway stations in Japan\n\nReferences\n\nExternal links\n\nSangi Railway official home page\n\nRailway stations in Japan opened in 2005\nRailway stations in Mie Prefecture\nTōin, Mie",
-          "字数": 1474
+          "链接": "https://en.wikipedia.org/wiki/T%C5%8Din_Station",
+          "首段": "Tōin Station (東員駅, Tōin-eki) is a station on the Sangi Railway Hokusei Line in Tōin, Inabe District, Mie Prefecture, Japan.",
+          "章节": {},
+          "全文": "Tōin Station (東員駅, Tōin-eki) is a station on the Sangi Railway Hokusei Line in Tōin, Inabe District, Mie Prefecture, Japan.",
+          "字数": 123
         }
       },
       "结构化信息": {
@@ -591,7 +580,14 @@
           "字数": 183,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Anoh Station",
+          "链接": "https://en.wikipedia.org/wiki/Anoh_Station",
+          "首段": "Anoh Station (穴太駅, Anō-eki) is a station on the Sangi Railway Hokusei Line in Inabe, Mie Prefecture, Japan.",
+          "章节": {},
+          "全文": "Anoh Station (穴太駅, Anō-eki) is a station on the Sangi Railway Hokusei Line in Inabe, Mie Prefecture, Japan.",
+          "字数": 107
+        }
       },
       "结构化信息": {
         "读音": null,
@@ -734,7 +730,14 @@
           "字数": 1215,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Nishi-Bessho Station",
+          "链接": "https://en.wikipedia.org/wiki/Nishi-Bessho_Station",
+          "首段": "Nishi-Bessho Station (西別所駅, Nishi-Bessho-eki) is a station on the Sangi Railway Hokusei Line in Kuwana, Mie Prefecture, Japan.",
+          "章节": {},
+          "全文": "Nishi-Bessho Station (西別所駅, Nishi-Bessho-eki) is a station on the Sangi Railway Hokusei Line in Kuwana, Mie Prefecture, Japan.",
+          "字数": 126
+        }
       },
       "结构化信息": {
         "读音": "にしべっしょえき",
@@ -808,7 +811,14 @@
           "字数": 641,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Nishi-Kuwana Station",
+          "链接": "https://en.wikipedia.org/wiki/Nishi-Kuwana_Station",
+          "首段": "Nishi-Kuwana Station (西桑名駅, Nishi-Kuwana-eki) is a station on the Sangi Railway Hokusei Line in Kuwana, Mie Prefecture, Japan. It is the eastern terminus of the line and connects to Kuwana Station.",
+          "章节": {},
+          "全文": "Nishi-Kuwana Station (西桑名駅, Nishi-Kuwana-eki) is a station on the Sangi Railway Hokusei Line in Kuwana, Mie Prefecture, Japan. It is the eastern terminus of the line and connects to Kuwana Station.",
+          "字数": 197
+        }
       },
       "结构化信息": {
         "读音": "にしくわなえき",
@@ -897,17 +907,11 @@
         },
         "英文": {
           "词条标题": "Ageki Station",
-          "链接": "https://en.wikipedia.org/wiki/Ageki%20Station",
-          "首段": "is a passenger railway station located in the city of  Inabe, Mie Prefecture, Japan, operated by the private railway operator Sangi Railway.",
-          "章节": {
-            "Lines": "Ageki Station is the terminus of the Hokusei Line, and is located 20.4 kilometres from the opposing terminus of the line at Nishi-Kuwana Station.",
-            "Layout": "The station consists of a single deadheaded island platform, with trains bound for Nishi-Kuwana using either side of the platform.",
-            "Platforms": "Adjacent stations",
-            "History": "July 8, 1931:  Station opens as part of Hokusei Railway.\nJune 27, 1934:  Hokusei Railway officially renamed Hokusei Electric Railway.\nFebruary 11, 1944:  Station falls under the ownership of Sanco following merger.\nFebruary 1, 1964:  Station falls under the ownership of Mie Electric Railway after railway division of Sanco splits off and forms separate company.\nApril 1, 1965:  Station falls under the ownership of Kintetsu following merger.\nMarch 25, 1977:  Platform length extended from 51 m to 61 m.\nMarch 31, 1978:  Platform length extended from 61 m to 71 m\nOctober 1, 1999:  Automatic ticket machine installed.  Stations becomes unmanned.\nApril 1, 2003:  Kintetsu transfers control of Hokusei Line to Sangi Railway.  Station falls under the ownership of Sangi.\nMarch 15, 2004:  Free parking lot opens outside of station.\nFebruary 14, 2006:  New platform opens.\nMarch 23, 2006:  Second terminal track opens.\nDecember 1, 2006:  New station building opens.\n\nPassenger statistics\nIn fiscal 2019, the station was used by an average of 320 passengers daily (boarding passengers only).\n\nSurrounding area\nformer Hokusei Town Hall\nAgeki Onsen\n\nSee also\nList of railway stations in Japan",
-            "References": "External links\n\nSangi Railway official home page\n\nRailway stations in Japan opened in 1931\nRailway stations in Mie Prefecture\nInabe, Mie"
-          },
-          "全文": "is a passenger railway station located in the city of  Inabe, Mie Prefecture, Japan, operated by the private railway operator Sangi Railway.\n\nLines\nAgeki Station is the terminus of the Hokusei Line, and is located 20.4 kilometres from the opposing terminus of the line at Nishi-Kuwana Station.\n\nLayout\nThe station consists of a single deadheaded island platform, with trains bound for Nishi-Kuwana using either side of the platform.\n\nPlatforms\n\nAdjacent stations\n\nHistory\nJuly 8, 1931:  Station opens as part of Hokusei Railway.\nJune 27, 1934:  Hokusei Railway officially renamed Hokusei Electric Railway.\nFebruary 11, 1944:  Station falls under the ownership of Sanco following merger.\nFebruary 1, 1964:  Station falls under the ownership of Mie Electric Railway after railway division of Sanco splits off and forms separate company.\nApril 1, 1965:  Station falls under the ownership of Kintetsu following merger.\nMarch 25, 1977:  Platform length extended from 51 m to 61 m.\nMarch 31, 1978:  Platform length extended from 61 m to 71 m\nOctober 1, 1999:  Automatic ticket machine installed.  Stations becomes unmanned.\nApril 1, 2003:  Kintetsu transfers control of Hokusei Line to Sangi Railway.  Station falls under the ownership of Sangi.\nMarch 15, 2004:  Free parking lot opens outside of station.\nFebruary 14, 2006:  New platform opens.\nMarch 23, 2006:  Second terminal track opens.\nDecember 1, 2006:  New station building opens.\n\nPassenger statistics\nIn fiscal 2019, the station was used by an average of 320 passengers daily (boarding passengers only).\n\nSurrounding area\nformer Hokusei Town Hall\nAgeki Onsen\n\nSee also\nList of railway stations in Japan\n\nReferences\n\nExternal links\n\nSangi Railway official home page\n\nRailway stations in Japan opened in 1931\nRailway stations in Mie Prefecture\nInabe, Mie",
-          "字数": 1806
+          "链接": "https://en.wikipedia.org/wiki/Ageki_Station",
+          "首段": "Ageki Station (阿下喜駅, Ageki-eki) is a station on the Sangi Railway Hokusei Line in Inabe, Mie Prefecture, Japan. It is the western terminus of the line.",
+          "章节": {},
+          "全文": "Ageki Station (阿下喜駅, Ageki-eki) is a station on the Sangi Railway Hokusei Line in Inabe, Mie Prefecture, Japan. It is the western terminus of the line.",
+          "字数": 151
         }
       },
       "结构化信息": {
@@ -989,17 +993,11 @@
         },
         "英文": {
           "词条标题": "Umamichi Station",
-          "链接": "https://en.wikipedia.org/wiki/Umamichi%20Station",
-          "首段": "is a passenger railway station located in the city of Kuwana, Mie Prefecture, Japan, operated by the private railway operator Sangi Railway.",
-          "章节": {
-            "Lines": "Umamichi Station is served by the Hokusei Line, and is located 1.1 kilometres from the terminus of the line at Nishi-Kuwana Station.",
-            "Layout": "The station consists of two unnumbered opposed side platforms connected by a level crossing. The station is unattended.",
-            "Platforms": "Adjacent stations",
-            "History": "Umamichi Station was opened on April 5, 1914 as a station on the Hokusei Railway, which became the Hokusei Electric Railway on June 27, 1934. Through a series of mergers, the line became part of the Kintetsu network by April 1, 1965, but was spun out as an independent company on April 1, 2003.\n\nPassenger statistics\nIn fiscal 2019, the station was used by an average of 250 passengers daily (boarding passengers only).\n\nSurrounding area\nKuwana High School\nKuwana Umamichi Post Office\n\nSee also\nList of railway stations in Japan",
-            "References": "External links\n\nSangi Railway official home page\n\nRailway stations in Japan opened in 1914\nRailway stations in Mie Prefecture\nKuwana, Mie"
-          },
-          "全文": "is a passenger railway station located in the city of Kuwana, Mie Prefecture, Japan, operated by the private railway operator Sangi Railway.\n\nLines\nUmamichi Station is served by the Hokusei Line, and is located 1.1 kilometres from the terminus of the line at Nishi-Kuwana Station.\n\nLayout\nThe station consists of two unnumbered opposed side platforms connected by a level crossing. The station is unattended.\n\nPlatforms\n\nAdjacent stations\n\nHistory\nUmamichi Station was opened on April 5, 1914 as a station on the Hokusei Railway, which became the Hokusei Electric Railway on June 27, 1934. Through a series of mergers, the line became part of the Kintetsu network by April 1, 1965, but was spun out as an independent company on April 1, 2003.\n\nPassenger statistics\nIn fiscal 2019, the station was used by an average of 250 passengers daily (boarding passengers only).\n\nSurrounding area\nKuwana High School\nKuwana Umamichi Post Office\n\nSee also\nList of railway stations in Japan\n\nReferences\n\nExternal links\n\nSangi Railway official home page\n\nRailway stations in Japan opened in 1914\nRailway stations in Mie Prefecture\nKuwana, Mie",
-          "字数": 1127
+          "链接": "https://en.wikipedia.org/wiki/Umamichi_Station",
+          "首段": "Umamichi Station (馬道駅, Umamichi-eki) is a station on the Sangi Railway Hokusei Line in Kuwana, Mie Prefecture, Japan.",
+          "章节": {},
+          "全文": "Umamichi Station (馬道駅, Umamichi-eki) is a station on the Sangi Railway Hokusei Line in Kuwana, Mie Prefecture, Japan.",
+          "字数": 117
         }
       },
       "结构化信息": {
@@ -1124,6 +1122,6 @@
     "有中文词条": 13,
     "已千问汉化": 0,
     "待汉化": 0,
-    "有英文词条": 10
+    "有英文词条": 13
   }
 }
