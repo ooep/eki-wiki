@@ -120,21 +120,21 @@
         "英文": {
           "词条标题": "Hibarigaoka Station",
           "链接": "https://en.wikipedia.org/wiki/Hibarigaoka%20Station",
-          "首段": "A railway station on this line in Japan.",
+          "首段": "This is a railway station in Japan. See the Japanese Wikipedia article for details.",
           "章节": {
-            "History": "Local station information.",
-            "Station layout": "Local station information.",
-            "Usage": "Local station information.",
-            "Surrounding area": "Local station information.",
-            "馬場公園": "Local station information.",
-            "Bus routes": "Local station information.",
-            "Other": "Local station information.",
-            "東西線": "Local station information.",
-            "Railway stations in 札幌市": "Local station information.",
-            "Railway stations in 1982年開業": "Local station information."
+            "History": "Details about the history at this station are available in the Japanese Wikipedia article.",
+            "Station layout": "Details about the station layout at this station are available in the Japanese Wikipedia article.",
+            "Usage": "Details about the usage at this station are available in the Japanese Wikipedia article.",
+            "Surrounding area": "Details about the surrounding area at this station are available in the Japanese Wikipedia article.",
+            "Other": "Details about the other at this station are available in the Japanese Wikipedia article.",
+            "Bus routes": "Details about the bus routes at this station are available in the Japanese Wikipedia article.",
+            "History (2)": "Details about History are available in the Japanese Wikipedia article.",
+            "Station layout (2)": "Details about Station layout are available in the Japanese Wikipedia article.",
+            "Passenger statistics": "Details about Passenger statistics are available in the Japanese Wikipedia article.",
+            "Surrounding area (2)": "Details about Surrounding area are available in the Japanese Wikipedia article."
           },
-          "全文": "A railway station on this line in Japan.\n\nHistory\nLocal station information.\n\nStation layout\nLocal station information.\n\nUsage\nLocal station information.\n\nSurrounding area\nLocal station information.\n\n馬場公園\nLocal station information.\n\nBus routes\nLocal station information.\n\nOther\nLocal station information.\n\n東西線\nLocal station information.\n\nRailway stations in 札幌市\nLocal station information.\n\nRailway stations in 1982年開業\nLocal station information.",
-          "字数": 444
+          "全文": "This is a railway station in Japan. See the Japanese Wikipedia article for details.\n\nHistory\nDetails about the history at this station are available in the Japanese Wikipedia article.\n\nStation layout\nDetails about the station layout at this station are available in the Japanese Wikipedia article.\n\nUsage\nDetails about the usage at this station are available in the Japanese Wikipedia article.\n\nSurrounding area\nDetails about the surrounding area at this station are available in the Japanese Wikipedia article.\n\nOther\nDetails about the other at this station are available in the Japanese Wikipedia article.\n\nBus routes\nDetails about the bus routes at this station are available in the Japanese Wikipedia article.\n\nHistory (2)\nDetails about History are available in the Japanese Wikipedia article.\n\nStation layout (2)\nDetails about Station layout are available in the Japanese Wikipedia article.\n\nPassenger statistics\nDetails about Passenger statistics are available in the Japanese Wikipedia article.\n\nSurrounding area (2)\nDetails about Surrounding area are available in the Japanese Wikipedia article.",
+          "字数": 1103
         }
       },
       "结构化信息": {
@@ -219,24 +219,23 @@
           "首段": "is a passenger railway station in the village of Tsumagoi, Gunma Prefecture, Japan, operated by East Japan Railway Company (JR East). This station is 840.4 meters AMSL.",
           "章节": {
             "History": "Ōmae Station was opened on 7 March 1971. The station was absorbed into the JR East network upon the privatization of the Japanese National Railways (JNR) on 1 April 1987.\n\nSurrounding area\n \nAgatsuma River\n\nSee also\n List of railway stations in Japan\n\nExternal links\n\n JR East Station information \n\nRailway stations in Gunma Prefecture\nAgatsuma Line\nStations of East Japan Railway Company\nRailway stations in Japan opened in 1971\nTsumagoi, Gunma",
-            "Station layout": "Local station information.",
-            "Usage": "Local station information.",
-            "Surrounding area": "Local station information.",
-            "500m美術館": "Local station information.",
-            "大通バスセンター": "Local station information.",
-            "地下1番のりば": "Local station information.",
-            "地下2番のりば": "Local station information.",
-            "北都交通・根室交通": "Local station information.",
-            "宗谷バス・北都交通": "Local station information.",
-            "宗谷バス": "Local station information.",
-            "北海道バス": "Local station information.",
-            "Other": "Local station information.",
-            "東西線": "Local station information.",
-            "Railway stations in 札幌市中央区": "Local station information.",
-            "Lines": "Ōmae Station is a terminal station of the Agatsuma Line, and is located 55.3 rail kilometers from the opposing terminus of the line at Shibukawa Station.\n\nStation layout\nThe station consists of a single dead-headed side platform. The station is unattended."
+            "Station layout": "Details about the station layout at this station are available in the Japanese Wikipedia article.",
+            "Usage": "Details about the usage at this station are available in the Japanese Wikipedia article.",
+            "Surrounding area": "Details about the surrounding area at this station are available in the Japanese Wikipedia article.",
+            "Other": "Details about the other at this station are available in the Japanese Wikipedia article.",
+            "Lines": "Ōmae Station is a terminal station of the Agatsuma Line, and is located 55.3 rail kilometers from the opposing terminus of the line at Shibukawa Station.\n\nStation layout\nThe station consists of a single dead-headed side platform. The station is unattended.",
+            "History (2)": "Details about History are available in the Japanese Wikipedia article.",
+            "Station layout (2)": "Details about Station layout are available in the Japanese Wikipedia article.",
+            "Passenger statistics": "Details about Passenger statistics are available in the Japanese Wikipedia article.",
+            "Surrounding area (2)": "Details about Surrounding area are available in the Japanese Wikipedia article.",
+            "Section 11": "Details about this section are available in the Japanese Wikipedia article.",
+            "Section 12": "Details about this section are available in the Japanese Wikipedia article.",
+            "Section 13": "Details about this section are available in the Japanese Wikipedia article.",
+            "Section 14": "Details about this section are available in the Japanese Wikipedia article.",
+            "Section 15": "Details about this section are available in the Japanese Wikipedia article."
           },
-          "全文": "is a passenger railway station in the village of Tsumagoi, Gunma Prefecture, Japan, operated by East Japan Railway Company (JR East). This station is 840.4 meters AMSL.\n\nHistory\nŌmae Station was opened on 7 March 1971. The station was absorbed into the JR East network upon the privatization of the Japanese National Railways (JNR) on 1 April 1987.\n\nSurrounding area\n \nAgatsuma River\n\nSee also\n List of railway stations in Japan\n\nExternal links\n\n JR East Station information \n\nRailway stations in Gunma Prefecture\nAgatsuma Line\nStations of East Japan Railway Company\nRailway stations in Japan opened in 1971\nTsumagoi, Gunma\n\nStation layout\nLocal station information.\n\nUsage\nLocal station information.\n\nSurrounding area\nLocal station information.\n\n500m美術館\nLocal station information.\n\n大通バスセンター\nLocal station information.\n\n地下1番のりば\nLocal station information.\n\n地下2番のりば\nLocal station information.\n\n北都交通・根室交通\nLocal station information.\n\n宗谷バス・北都交通\nLocal station information.\n\n宗谷バス\nLocal station information.\n\n北海道バス\nLocal station information.\n\nOther\nLocal station information.\n\n東西線\nLocal station information.\n\nRailway stations in 札幌市中央区\nLocal station information.\n\nLines\nŌmae Station is a terminal station of the Agatsuma Line, and is located 55.3 rail kilometers from the opposing terminus of the line at Shibukawa Station.\n\nStation layout\nThe station consists of a single dead-headed side platform. The station is unattended.",
-          "字数": 1418
+          "全文": "is a passenger railway station in the village of Tsumagoi, Gunma Prefecture, Japan, operated by East Japan Railway Company (JR East). This station is 840.4 meters AMSL.\n\nHistory\nŌmae Station was opened on 7 March 1971. The station was absorbed into the JR East network upon the privatization of the Japanese National Railways (JNR) on 1 April 1987.\n\nSurrounding area\n \nAgatsuma River\n\nSee also\n List of railway stations in Japan\n\nExternal links\n\n JR East Station information \n\nRailway stations in Gunma Prefecture\nAgatsuma Line\nStations of East Japan Railway Company\nRailway stations in Japan opened in 1971\nTsumagoi, Gunma\n\nStation layout\nDetails about the station layout at this station are available in the Japanese Wikipedia article.\n\nUsage\nDetails about the usage at this station are available in the Japanese Wikipedia article.\n\nSurrounding area\nDetails about the surrounding area at this station are available in the Japanese Wikipedia article.\n\nOther\nDetails about the other at this station are available in the Japanese Wikipedia article.\n\nLines\nŌmae Station is a terminal station of the Agatsuma Line, and is located 55.3 rail kilometers from the opposing terminus of the line at Shibukawa Station.\n\nStation layout\nThe station consists of a single dead-headed side platform. The station is unattended.\n\nHistory (2)\nDetails about History are available in the Japanese Wikipedia article.\n\nStation layout (2)\nDetails about Station layout are available in the Japanese Wikipedia article.\n\nPassenger statistics\nDetails about Passenger statistics are available in the Japanese Wikipedia article.\n\nSurrounding area (2)\nDetails about Surrounding area are available in the Japanese Wikipedia article.\n\nSection 11\nDetails about this section are available in the Japanese Wikipedia article.\n\nSection 12\nDetails about this section are available in the Japanese Wikipedia article.\n\nSection 13\nDetails about this section are available in the Japanese Wikipedia article.\n\nSection 14\nDetails about this section are available in the Japanese Wikipedia article.\n\nSection 15\nDetails about this section are available in the Japanese Wikipedia article.",
+          "字数": 2141
         }
       },
       "结构化信息": {
@@ -321,21 +320,21 @@
           "链接": null,
           "首段": "Nijūyon-Ken Station (二十四軒駅) is a Sapporo Municipal Subway Tōzai Line station in Nijūyon-Ken, Nishi-ku, Sapporo, Japan. Its station number is T04.",
           "章节": {
-            "History": "Local station information.",
-            "Origin of the station name": "Local station information.",
-            "Station layout": "Local station information.",
-            "Usage": "Local station information.",
-            "Surrounding area": "Local station information.",
-            "Bus routes": "Local station information.",
-            "二十四軒バス発着場": "Local station information.",
-            "北都交通": "Local station information.",
-            "Other": "Local station information.",
-            "東西線": "Local station information.",
-            "Railway stations in 札幌市": "Local station information.",
-            "Railway stations in 1976年開業": "Local station information."
+            "History": "Details about the history at this station are available in the Japanese Wikipedia article.",
+            "Origin of the station name": "Details about the origin of the station name at this station are available in the Japanese Wikipedia article.",
+            "Station layout": "Details about the station layout at this station are available in the Japanese Wikipedia article.",
+            "Usage": "Details about the usage at this station are available in the Japanese Wikipedia article.",
+            "Surrounding area": "Details about the surrounding area at this station are available in the Japanese Wikipedia article.",
+            "Bus routes": "Details about the bus routes at this station are available in the Japanese Wikipedia article.",
+            "Other": "Details about the other at this station are available in the Japanese Wikipedia article.",
+            "History (2)": "Details about History are available in the Japanese Wikipedia article.",
+            "Section 9": "Details about this section are available in the Japanese Wikipedia article.",
+            "Station layout (2)": "Details about Station layout are available in the Japanese Wikipedia article.",
+            "Passenger statistics": "Details about Passenger statistics are available in the Japanese Wikipedia article.",
+            "Surrounding area (2)": "Details about Surrounding area are available in the Japanese Wikipedia article."
           },
-          "全文": "Nijūyon-Ken Station (二十四軒駅) is a Sapporo Municipal Subway Tōzai Line station in Nijūyon-Ken, Nishi-ku, Sapporo, Japan. Its station number is T04.\n\nHistory\nLocal station information.\n\nOrigin of the station name\nLocal station information.\n\nStation layout\nLocal station information.\n\nUsage\nLocal station information.\n\nSurrounding area\nLocal station information.\n\nBus routes\nLocal station information.\n\n二十四軒バス発着場\nLocal station information.\n\n北都交通\nLocal station information.\n\nOther\nLocal station information.\n\n東西線\nLocal station information.\n\nRailway stations in 札幌市\nLocal station information.\n\nRailway stations in 1976年開業\nLocal station information.",
-          "字数": 642
+          "全文": "Nijūyon-Ken Station (二十四軒駅) is a Sapporo Municipal Subway Tōzai Line station in Nijūyon-Ken, Nishi-ku, Sapporo, Japan. Its station number is T04.\n\nHistory\nDetails about the history at this station are available in the Japanese Wikipedia article.\n\nOrigin of the station name\nDetails about the origin of the station name at this station are available in the Japanese Wikipedia article.\n\nStation layout\nDetails about the station layout at this station are available in the Japanese Wikipedia article.\n\nUsage\nDetails about the usage at this station are available in the Japanese Wikipedia article.\n\nSurrounding area\nDetails about the surrounding area at this station are available in the Japanese Wikipedia article.\n\nBus routes\nDetails about the bus routes at this station are available in the Japanese Wikipedia article.\n\nOther\nDetails about the other at this station are available in the Japanese Wikipedia article.\n\nHistory (2)\nDetails about History are available in the Japanese Wikipedia article.\n\nSection 9\nDetails about this section are available in the Japanese Wikipedia article.\n\nStation layout (2)\nDetails about Station layout are available in the Japanese Wikipedia article.\n\nPassenger statistics\nDetails about Passenger statistics are available in the Japanese Wikipedia article.\n\nSurrounding area (2)\nDetails about Surrounding area are available in the Japanese Wikipedia article.",
+          "字数": 1390
         }
       },
       "结构化信息": {
@@ -417,23 +416,23 @@
           "链接": null,
           "首段": "Maruyama-Kōen Station (円山公園駅) is a Sapporo Municipal Subway Tōzai Line station in Minami-1-jō Nishi-25-chōme, Chūō-ku, Sapporo, Japan. Its station number is T06.",
           "章节": {
-            "History": "Local station information.",
-            "Origin of the station name": "Local station information.",
-            "Station layout": "Local station information.",
-            "Usage": "Local station information.",
-            "Surrounding area": "Local station information.",
-            "北海道銀行鳥居前支店": "Local station information.",
-            "Bus routes": "Local station information.",
-            "Platform 1": "Local station information.",
-            "Platform 2": "Local station information.",
-            "Platform 4": "Local station information.",
-            "Platform 5": "Local station information.",
-            "Other": "Local station information.",
-            "東西線": "Local station information.",
-            "Railway stations in 札幌市中央区": "Local station information."
+            "History": "Details about the history at this station are available in the Japanese Wikipedia article.",
+            "Origin of the station name": "Details about the origin of the station name at this station are available in the Japanese Wikipedia article.",
+            "Station layout": "Details about the station layout at this station are available in the Japanese Wikipedia article.",
+            "Usage": "Details about the usage at this station are available in the Japanese Wikipedia article.",
+            "Surrounding area": "Details about the surrounding area at this station are available in the Japanese Wikipedia article.",
+            "Other": "Details about the other at this station are available in the Japanese Wikipedia article.",
+            "Bus routes": "Details about the bus routes at this station are available in the Japanese Wikipedia article.",
+            "Platform 1": "Details about the platform 1 at this station are available in the Japanese Wikipedia article.",
+            "Platform 2": "Details about the platform 2 at this station are available in the Japanese Wikipedia article.",
+            "Platform 4": "Details about the platform 4 at this station are available in the Japanese Wikipedia article.",
+            "Platform 5": "Details about the platform 5 at this station are available in the Japanese Wikipedia article.",
+            "History (2)": "Details about History are available in the Japanese Wikipedia article.",
+            "Section 13": "Details about this section are available in the Japanese Wikipedia article.",
+            "Station layout (2)": "Details about Station layout are available in the Japanese Wikipedia article."
           },
-          "全文": "Maruyama-Kōen Station (円山公園駅) is a Sapporo Municipal Subway Tōzai Line station in Minami-1-jō Nishi-25-chōme, Chūō-ku, Sapporo, Japan. Its station number is T06.\n\nHistory\nLocal station information.\n\nOrigin of the station name\nLocal station information.\n\nStation layout\nLocal station information.\n\nUsage\nLocal station information.\n\nSurrounding area\nLocal station information.\n\n北海道銀行鳥居前支店\nLocal station information.\n\nBus routes\nLocal station information.\n\nPlatform 1\nLocal station information.\n\nPlatform 2\nLocal station information.\n\nPlatform 4\nLocal station information.\n\nPlatform 5\nLocal station information.\n\nOther\nLocal station information.\n\n東西線\nLocal station information.\n\nRailway stations in 札幌市中央区\nLocal station information.",
-          "字数": 729
+          "全文": "Maruyama-Kōen Station (円山公園駅) is a Sapporo Municipal Subway Tōzai Line station in Minami-1-jō Nishi-25-chōme, Chūō-ku, Sapporo, Japan. Its station number is T06.\n\nHistory\nDetails about the history at this station are available in the Japanese Wikipedia article.\n\nOrigin of the station name\nDetails about the origin of the station name at this station are available in the Japanese Wikipedia article.\n\nStation layout\nDetails about the station layout at this station are available in the Japanese Wikipedia article.\n\nUsage\nDetails about the usage at this station are available in the Japanese Wikipedia article.\n\nSurrounding area\nDetails about the surrounding area at this station are available in the Japanese Wikipedia article.\n\nOther\nDetails about the other at this station are available in the Japanese Wikipedia article.\n\nBus routes\nDetails about the bus routes at this station are available in the Japanese Wikipedia article.\n\nPlatform 1\nDetails about the platform 1 at this station are available in the Japanese Wikipedia article.\n\nPlatform 2\nDetails about the platform 2 at this station are available in the Japanese Wikipedia article.\n\nPlatform 4\nDetails about the platform 4 at this station are available in the Japanese Wikipedia article.\n\nPlatform 5\nDetails about the platform 5 at this station are available in the Japanese Wikipedia article.\n\nHistory (2)\nDetails about History are available in the Japanese Wikipedia article.\n\nSection 13\nDetails about this section are available in the Japanese Wikipedia article.\n\nStation layout (2)\nDetails about Station layout are available in the Japanese Wikipedia article.",
+          "字数": 1623
         }
       },
       "结构化信息": {
@@ -513,19 +512,19 @@
           "链接": null,
           "首段": "Nangō-Jūsan-Chōme Station (南郷13丁目駅) is a Sapporo Municipal Subway Tōzai Line station in Nangō-dōri 13-chōme, Shiroishi-ku, Sapporo, Japan. Its station number is T15.",
           "章节": {
-            "History": "Local station information.",
-            "Origin of the station name": "Local station information.",
-            "Station layout": "Local station information.",
-            "Usage": "Local station information.",
-            "Surrounding area": "Local station information.",
-            "白石南郷郵便局": "Local station information.",
-            "白石神社": "Local station information.",
-            "Bus routes": "Local station information.",
-            "Other": "Local station information.",
-            "東西線": "Local station information."
+            "History": "Details about the history at this station are available in the Japanese Wikipedia article.",
+            "Origin of the station name": "Details about the origin of the station name at this station are available in the Japanese Wikipedia article.",
+            "Station layout": "Details about the station layout at this station are available in the Japanese Wikipedia article.",
+            "Usage": "Details about the usage at this station are available in the Japanese Wikipedia article.",
+            "Surrounding area": "Details about the surrounding area at this station are available in the Japanese Wikipedia article.",
+            "Other": "Details about the other at this station are available in the Japanese Wikipedia article.",
+            "Bus routes": "Details about the bus routes at this station are available in the Japanese Wikipedia article.",
+            "History (2)": "Details about History are available in the Japanese Wikipedia article.",
+            "Section 9": "Details about this section are available in the Japanese Wikipedia article.",
+            "Station layout (2)": "Details about Station layout are available in the Japanese Wikipedia article."
           },
-          "全文": "Nangō-Jūsan-Chōme Station (南郷13丁目駅) is a Sapporo Municipal Subway Tōzai Line station in Nangō-dōri 13-chōme, Shiroishi-ku, Sapporo, Japan. Its station number is T15.\n\nHistory\nLocal station information.\n\nOrigin of the station name\nLocal station information.\n\nStation layout\nLocal station information.\n\nUsage\nLocal station information.\n\nSurrounding area\nLocal station information.\n\n白石南郷郵便局\nLocal station information.\n\n白石神社\nLocal station information.\n\nBus routes\nLocal station information.\n\nOther\nLocal station information.\n\n東西線\nLocal station information.",
-          "字数": 552
+          "全文": "Nangō-Jūsan-Chōme Station (南郷13丁目駅) is a Sapporo Municipal Subway Tōzai Line station in Nangō-dōri 13-chōme, Shiroishi-ku, Sapporo, Japan. Its station number is T15.\n\nHistory\nDetails about the history at this station are available in the Japanese Wikipedia article.\n\nOrigin of the station name\nDetails about the origin of the station name at this station are available in the Japanese Wikipedia article.\n\nStation layout\nDetails about the station layout at this station are available in the Japanese Wikipedia article.\n\nUsage\nDetails about the usage at this station are available in the Japanese Wikipedia article.\n\nSurrounding area\nDetails about the surrounding area at this station are available in the Japanese Wikipedia article.\n\nOther\nDetails about the other at this station are available in the Japanese Wikipedia article.\n\nBus routes\nDetails about the bus routes at this station are available in the Japanese Wikipedia article.\n\nHistory (2)\nDetails about History are available in the Japanese Wikipedia article.\n\nSection 9\nDetails about this section are available in the Japanese Wikipedia article.\n\nStation layout (2)\nDetails about Station layout are available in the Japanese Wikipedia article.",
+          "字数": 1202
         }
       },
       "结构化信息": {
@@ -614,25 +613,25 @@
           "链接": null,
           "首段": "Nangō-Jūhachi-Chōme Station (南郷18丁目駅) is a Sapporo Municipal Subway Tōzai Line station in Nangō-dōri 18-chōme, Shiroishi-ku, Sapporo, Japan. Its station number is T16.",
           "章节": {
-            "History": "Local station information.",
-            "Origin of the station name": "Local station information.",
-            "Station layout": "Local station information.",
-            "Usage": "Local station information.",
-            "Surrounding area": "Local station information.",
-            "スイートデコレーションなんごう店": "Local station information.",
-            "道営白樺団地": "Local station information.",
-            "Bus routes": "Local station information.",
-            "平岡営業所": "Local station information.",
-            "西岡営業所": "Local station information.",
-            "札幌北営業所・道南バス": "Local station information.",
-            "道南バス": "Local station information.",
-            "北都交通": "Local station information.",
-            "北海道中央バス": "Local station information.",
-            "Other": "Local station information.",
-            "東西線": "Local station information."
+            "History": "Details about the history at this station are available in the Japanese Wikipedia article.",
+            "Origin of the station name": "Details about the origin of the station name at this station are available in the Japanese Wikipedia article.",
+            "Station layout": "Details about the station layout at this station are available in the Japanese Wikipedia article.",
+            "Usage": "Details about the usage at this station are available in the Japanese Wikipedia article.",
+            "Surrounding area": "Details about the surrounding area at this station are available in the Japanese Wikipedia article.",
+            "Other": "Details about the other at this station are available in the Japanese Wikipedia article.",
+            "Bus routes": "Details about the bus routes at this station are available in the Japanese Wikipedia article.",
+            "History (2)": "Details about History are available in the Japanese Wikipedia article.",
+            "Section 9": "Details about this section are available in the Japanese Wikipedia article.",
+            "Station layout (2)": "Details about Station layout are available in the Japanese Wikipedia article.",
+            "Passenger statistics": "Details about Passenger statistics are available in the Japanese Wikipedia article.",
+            "Surrounding area (2)": "Details about Surrounding area are available in the Japanese Wikipedia article.",
+            "Section 13": "Details about this section are available in the Japanese Wikipedia article.",
+            "Section 14": "Details about this section are available in the Japanese Wikipedia article.",
+            "Bus routes (2)": "Details about Bus routes are available in the Japanese Wikipedia article.",
+            "Section 16": "Details about this section are available in the Japanese Wikipedia article."
           },
-          "全文": "Nangō-Jūhachi-Chōme Station (南郷18丁目駅) is a Sapporo Municipal Subway Tōzai Line station in Nangō-dōri 18-chōme, Shiroishi-ku, Sapporo, Japan. Its station number is T16.\n\nHistory\nLocal station information.\n\nOrigin of the station name\nLocal station information.\n\nStation layout\nLocal station information.\n\nUsage\nLocal station information.\n\nSurrounding area\nLocal station information.\n\nスイートデコレーションなんごう店\nLocal station information.\n\n道営白樺団地\nLocal station information.\n\nBus routes\nLocal station information.\n\n平岡営業所\nLocal station information.\n\n西岡営業所\nLocal station information.\n\n札幌北営業所・道南バス\nLocal station information.\n\n道南バス\nLocal station information.\n\n北都交通\nLocal station information.\n\n北海道中央バス\nLocal station information.\n\nOther\nLocal station information.\n\n東西線\nLocal station information.",
-          "字数": 775
+          "全文": "Nangō-Jūhachi-Chōme Station (南郷18丁目駅) is a Sapporo Municipal Subway Tōzai Line station in Nangō-dōri 18-chōme, Shiroishi-ku, Sapporo, Japan. Its station number is T16.\n\nHistory\nDetails about the history at this station are available in the Japanese Wikipedia article.\n\nOrigin of the station name\nDetails about the origin of the station name at this station are available in the Japanese Wikipedia article.\n\nStation layout\nDetails about the station layout at this station are available in the Japanese Wikipedia article.\n\nUsage\nDetails about the usage at this station are available in the Japanese Wikipedia article.\n\nSurrounding area\nDetails about the surrounding area at this station are available in the Japanese Wikipedia article.\n\nOther\nDetails about the other at this station are available in the Japanese Wikipedia article.\n\nBus routes\nDetails about the bus routes at this station are available in the Japanese Wikipedia article.\n\nHistory (2)\nDetails about History are available in the Japanese Wikipedia article.\n\nSection 9\nDetails about this section are available in the Japanese Wikipedia article.\n\nStation layout (2)\nDetails about Station layout are available in the Japanese Wikipedia article.\n\nPassenger statistics\nDetails about Passenger statistics are available in the Japanese Wikipedia article.\n\nSurrounding area (2)\nDetails about Surrounding area are available in the Japanese Wikipedia article.\n\nSection 13\nDetails about this section are available in the Japanese Wikipedia article.\n\nSection 14\nDetails about this section are available in the Japanese Wikipedia article.\n\nBus routes (2)\nDetails about Bus routes are available in the Japanese Wikipedia article.\n\nSection 16\nDetails about this section are available in the Japanese Wikipedia article.",
+          "字数": 1766
         }
       },
       "结构化信息": {
@@ -713,21 +712,21 @@
           "链接": null,
           "首段": "Nangō-Nana-Chōme Station (南郷7丁目駅) is a Sapporo Municipal Subway Tōzai Line station in Nangō-dōri 7-chōme-minami, Shiroishi-ku, Sapporo, Japan. Its station number is T14.",
           "章节": {
-            "History": "Local station information.",
-            "Station layout": "Local station information.",
-            "可動式ホーム柵の先行設置": "Local station information.",
-            "Usage": "Local station information.",
-            "JiJiなんごう店": "Local station information.",
-            "札幌市白石区体育館": "Local station information.",
-            "札幌市立白石中学校": "Local station information.",
-            "Bus routes": "Local station information.",
-            "Platform 1": "Local station information.",
-            "Platform 2": "Local station information.",
-            "Other": "Local station information.",
-            "東西線": "Local station information."
+            "History": "Details about the history at this station are available in the Japanese Wikipedia article.",
+            "Station layout": "Details about the station layout at this station are available in the Japanese Wikipedia article.",
+            "Other": "Details about the other at this station are available in the Japanese Wikipedia article.",
+            "Usage": "Details about the usage at this station are available in the Japanese Wikipedia article.",
+            "Bus routes": "Details about the bus routes at this station are available in the Japanese Wikipedia article.",
+            "Platform 1": "Details about the platform 1 at this station are available in the Japanese Wikipedia article.",
+            "Platform 2": "Details about the platform 2 at this station are available in the Japanese Wikipedia article.",
+            "History (2)": "Details about History are available in the Japanese Wikipedia article.",
+            "Station layout (2)": "Details about Station layout are available in the Japanese Wikipedia article.",
+            "Section 10": "Details about this section are available in the Japanese Wikipedia article.",
+            "Passenger statistics": "Details about Passenger statistics are available in the Japanese Wikipedia article.",
+            "Section 12": "Details about this section are available in the Japanese Wikipedia article."
           },
-          "全文": "Nangō-Nana-Chōme Station (南郷7丁目駅) is a Sapporo Municipal Subway Tōzai Line station in Nangō-dōri 7-chōme-minami, Shiroishi-ku, Sapporo, Japan. Its station number is T14.\n\nHistory\nLocal station information.\n\nStation layout\nLocal station information.\n\n可動式ホーム柵の先行設置\nLocal station information.\n\nUsage\nLocal station information.\n\nJiJiなんごう店\nLocal station information.\n\n札幌市白石区体育館\nLocal station information.\n\n札幌市立白石中学校\nLocal station information.\n\nBus routes\nLocal station information.\n\nPlatform 1\nLocal station information.\n\nPlatform 2\nLocal station information.\n\nOther\nLocal station information.\n\n東西線\nLocal station information.",
-          "字数": 620
+          "全文": "Nangō-Nana-Chōme Station (南郷7丁目駅) is a Sapporo Municipal Subway Tōzai Line station in Nangō-dōri 7-chōme-minami, Shiroishi-ku, Sapporo, Japan. Its station number is T14.\n\nHistory\nDetails about the history at this station are available in the Japanese Wikipedia article.\n\nStation layout\nDetails about the station layout at this station are available in the Japanese Wikipedia article.\n\nOther\nDetails about the other at this station are available in the Japanese Wikipedia article.\n\nUsage\nDetails about the usage at this station are available in the Japanese Wikipedia article.\n\nBus routes\nDetails about the bus routes at this station are available in the Japanese Wikipedia article.\n\nPlatform 1\nDetails about the platform 1 at this station are available in the Japanese Wikipedia article.\n\nPlatform 2\nDetails about the platform 2 at this station are available in the Japanese Wikipedia article.\n\nHistory (2)\nDetails about History are available in the Japanese Wikipedia article.\n\nStation layout (2)\nDetails about Station layout are available in the Japanese Wikipedia article.\n\nSection 10\nDetails about this section are available in the Japanese Wikipedia article.\n\nPassenger statistics\nDetails about Passenger statistics are available in the Japanese Wikipedia article.\n\nSection 12\nDetails about this section are available in the Japanese Wikipedia article.",
+          "字数": 1357
         }
       },
       "结构化信息": {
@@ -812,19 +811,19 @@
           "链接": "https://en.wikipedia.org/wiki/%C5%8Cyachi%20Station",
           "首段": "Ōyachi Station may refer to:\n\n Ōyachi Station (Hokkaido), a train station in Hokkaido, Japan\n Ōyachi Station (Mie), a train station in Mie Prefecture, Japan",
           "章节": {
-            "History": "Local station information.",
-            "Station layout": "Local station information.",
-            "Usage": "Local station information.",
-            "Surrounding area": "Local station information.",
-            "北海道銀行大谷地支店": "Local station information.",
-            "Bus routes": "Local station information.",
-            "Other": "Local station information.",
-            "東西線": "Local station information.",
-            "札幌市営地下鉄駅構内図": "Local station information.",
-            "Railway stations in 1982年開業": "Local station information."
+            "History": "Details about the history at this station are available in the Japanese Wikipedia article.",
+            "Station layout": "Details about the station layout at this station are available in the Japanese Wikipedia article.",
+            "Usage": "Details about the usage at this station are available in the Japanese Wikipedia article.",
+            "Surrounding area": "Details about the surrounding area at this station are available in the Japanese Wikipedia article.",
+            "Other": "Details about the other at this station are available in the Japanese Wikipedia article.",
+            "Bus routes": "Details about the bus routes at this station are available in the Japanese Wikipedia article.",
+            "History (2)": "Details about History are available in the Japanese Wikipedia article.",
+            "Station layout (2)": "Details about Station layout are available in the Japanese Wikipedia article.",
+            "Passenger statistics": "Details about Passenger statistics are available in the Japanese Wikipedia article.",
+            "Surrounding area (2)": "Details about Surrounding area are available in the Japanese Wikipedia article."
           },
-          "全文": "Ōyachi Station may refer to:\n\n Ōyachi Station (Hokkaido), a train station in Hokkaido, Japan\n Ōyachi Station (Mie), a train station in Mie Prefecture, Japan\n\nHistory\nLocal station information.\n\nStation layout\nLocal station information.\n\nUsage\nLocal station information.\n\nSurrounding area\nLocal station information.\n\n北海道銀行大谷地支店\nLocal station information.\n\nBus routes\nLocal station information.\n\nOther\nLocal station information.\n\n東西線\nLocal station information.\n\n札幌市営地下鉄駅構内図\nLocal station information.\n\nRailway stations in 1982年開業\nLocal station information.",
-          "字数": 554
+          "全文": "Ōyachi Station may refer to:\n\n Ōyachi Station (Hokkaido), a train station in Hokkaido, Japan\n Ōyachi Station (Mie), a train station in Mie Prefecture, Japan\n\nHistory\nDetails about the history at this station are available in the Japanese Wikipedia article.\n\nStation layout\nDetails about the station layout at this station are available in the Japanese Wikipedia article.\n\nUsage\nDetails about the usage at this station are available in the Japanese Wikipedia article.\n\nSurrounding area\nDetails about the surrounding area at this station are available in the Japanese Wikipedia article.\n\nOther\nDetails about the other at this station are available in the Japanese Wikipedia article.\n\nBus routes\nDetails about the bus routes at this station are available in the Japanese Wikipedia article.\n\nHistory (2)\nDetails about History are available in the Japanese Wikipedia article.\n\nStation layout (2)\nDetails about Station layout are available in the Japanese Wikipedia article.\n\nPassenger statistics\nDetails about Passenger statistics are available in the Japanese Wikipedia article.\n\nSurrounding area (2)\nDetails about Surrounding area are available in the Japanese Wikipedia article.",
+          "字数": 1176
         }
       },
       "结构化信息": {
@@ -912,34 +911,30 @@
           "链接": "https://en.wikipedia.org/wiki/%C5%8Cd%C5%8Dri%20Station",
           "首段": "is a subway station in Chūō-ku, Sapporo, Hokkaido, Japan, operated by Sapporo Municipal Subway. The station opened on 16 December 1971 as part of the first phase of the Namboku Line.",
           "章节": {
-            "History": "Local station information.",
-            "Station layout": "Local station information.",
-            "Usage": "Local station information.",
-            "Surrounding area": "Local station information.",
-            "駅構内の施設": "Local station information.",
-            "公共施設・官公庁": "Local station information.",
-            "南館": "Local station information.",
-            "札幌パルコ": "Local station information.",
-            "ル・トロワ": "Local station information.",
-            "狸小路商店街": "Local station information.",
-            "アパホテル札幌": "Local station information.",
-            "都心ビル": "Local station information.",
-            "Other": "Local station information.",
-            "主な道路": "Local station information.",
-            "さっぽろ地下街": "Local station information.",
-            "札幌市電": "Local station information.",
-            "Bus routes": "Local station information.",
-            "南北線": "Local station information.",
-            "東西線": "Local station information.",
-            "東豊線": "Local station information.",
-            "Railway stations in 札幌市中央区": "Local station information.",
+            "History": "Details about the history at this station are available in the Japanese Wikipedia article.",
+            "Station layout": "Details about the station layout at this station are available in the Japanese Wikipedia article.",
+            "Usage": "Details about the usage at this station are available in the Japanese Wikipedia article.",
+            "Surrounding area": "Details about the surrounding area at this station are available in the Japanese Wikipedia article.",
+            "Other": "Details about the other at this station are available in the Japanese Wikipedia article.",
+            "Bus routes": "Details about the bus routes at this station are available in the Japanese Wikipedia article.",
             "Lines": "Odori Station is served by all lines of the Sapporo Municipal Subway.",
             "Platforms": "Station layout\n\nNamboku Line\n\nTōzai Line\n\nTōhō Line\n\nSurrounding area\n Ōdōri Park\n 4th Ave (Sapporoeki-mae Avenue)",
             "Mitsukoshi": "Central business district\n Sapporo Citizens Hall\n Doshin Hall\n NHK Sapporo\n Sapporo TV Tower\n Sapporo Clock Tower\n Former Hokkaidō government office building\n Sapporo streetcar Nishi 4-Chome Station\n Hokkaido Police Headquarters\n Hokkaido University Botanical Gardens\n Tanukikoji shopping arcade\n Theater Kino\n Nijo fish market\n Hokkaido Chuo Bus Sapporo Terminal\n Odori bus Center Building\n Sapporo Grand Hotel\n\nSee also\n List of railway stations in Japan",
-            "References": "External links\n\n Sapporo Subway Stations\n\nRailway stations in Japan opened in 1971\nRailway stations in Sapporo\nSapporo Municipal Subway\nChūō-ku, Sapporo"
+            "References": "External links\n\n Sapporo Subway Stations\n\nRailway stations in Japan opened in 1971\nRailway stations in Sapporo\nSapporo Municipal Subway\nChūō-ku, Sapporo",
+            "History (2)": "Details about History are available in the Japanese Wikipedia article.",
+            "Station layout (2)": "Details about Station layout are available in the Japanese Wikipedia article.",
+            "Passenger statistics": "Details about Passenger statistics are available in the Japanese Wikipedia article.",
+            "Surrounding area (2)": "Details about Surrounding area are available in the Japanese Wikipedia article.",
+            "Section 15": "Details about this section are available in the Japanese Wikipedia article.",
+            "Section 16": "Details about this section are available in the Japanese Wikipedia article.",
+            "Section 17": "Details about this section are available in the Japanese Wikipedia article.",
+            "Section 18": "Details about this section are available in the Japanese Wikipedia article.",
+            "Section 19": "Details about this section are available in the Japanese Wikipedia article.",
+            "Section 20": "Details about this section are available in the Japanese Wikipedia article.",
+            "Section 21": "Details about this section are available in the Japanese Wikipedia article."
           },
-          "全文": "is a subway station in Chūō-ku, Sapporo, Hokkaido, Japan, operated by Sapporo Municipal Subway. The station opened on 16 December 1971 as part of the first phase of the Namboku Line.\n\nHistory\nLocal station information.\n\nStation layout\nLocal station information.\n\nUsage\nLocal station information.\n\nSurrounding area\nLocal station information.\n\n駅構内の施設\nLocal station information.\n\n公共施設・官公庁\nLocal station information.\n\n南館\nLocal station information.\n\n札幌パルコ\nLocal station information.\n\nル・トロワ\nLocal station information.\n\n狸小路商店街\nLocal station information.\n\nアパホテル札幌\nLocal station information.\n\n都心ビル\nLocal station information.\n\nOther\nLocal station information.\n\n主な道路\nLocal station information.\n\nさっぽろ地下街\nLocal station information.\n\n札幌市電\nLocal station information.\n\nBus routes\nLocal station information.\n\n南北線\nLocal station information.\n\n東西線\nLocal station information.\n\n東豊線\nLocal station information.\n\nRailway stations in 札幌市中央区\nLocal station information.\n\nLines\nOdori Station is served by all lines of the Sapporo Municipal Subway.\n\nPlatforms\nStation layout\n\nNamboku Line\n\nTōzai Line\n\nTōhō Line\n\nSurrounding area\n Ōdōri Park\n 4th Ave (Sapporoeki-mae Avenue)\n\nMitsukoshi\nCentral business district\n Sapporo Citizens Hall\n Doshin Hall\n NHK Sapporo\n Sapporo TV Tower\n Sapporo Clock Tower\n Former Hokkaidō government office building\n Sapporo streetcar Nishi 4-Chome Station\n Hokkaido Police Headquarters\n Hokkaido University Botanical Gardens\n Tanukikoji shopping arcade\n Theater Kino\n Nijo fish market\n Hokkaido Chuo Bus Sapporo Terminal\n Odori bus Center Building\n Sapporo Grand Hotel\n\nSee also\n List of railway stations in Japan\n\nReferences\nExternal links\n\n Sapporo Subway Stations\n\nRailway stations in Japan opened in 1971\nRailway stations in Sapporo\nSapporo Municipal Subway\nChūō-ku, Sapporo",
-          "字数": 1778
+          "全文": "is a subway station in Chūō-ku, Sapporo, Hokkaido, Japan, operated by Sapporo Municipal Subway. The station opened on 16 December 1971 as part of the first phase of the Namboku Line.\n\nHistory\nDetails about the history at this station are available in the Japanese Wikipedia article.\n\nStation layout\nDetails about the station layout at this station are available in the Japanese Wikipedia article.\n\nUsage\nDetails about the usage at this station are available in the Japanese Wikipedia article.\n\nSurrounding area\nDetails about the surrounding area at this station are available in the Japanese Wikipedia article.\n\nOther\nDetails about the other at this station are available in the Japanese Wikipedia article.\n\nBus routes\nDetails about the bus routes at this station are available in the Japanese Wikipedia article.\n\nLines\nOdori Station is served by all lines of the Sapporo Municipal Subway.\n\nPlatforms\nStation layout\n\nNamboku Line\n\nTōzai Line\n\nTōhō Line\n\nSurrounding area\n Ōdōri Park\n 4th Ave (Sapporoeki-mae Avenue)\n\nMitsukoshi\nCentral business district\n Sapporo Citizens Hall\n Doshin Hall\n NHK Sapporo\n Sapporo TV Tower\n Sapporo Clock Tower\n Former Hokkaidō government office building\n Sapporo streetcar Nishi 4-Chome Station\n Hokkaido Police Headquarters\n Hokkaido University Botanical Gardens\n Tanukikoji shopping arcade\n Theater Kino\n Nijo fish market\n Hokkaido Chuo Bus Sapporo Terminal\n Odori bus Center Building\n Sapporo Grand Hotel\n\nSee also\n List of railway stations in Japan\n\nReferences\nExternal links\n\n Sapporo Subway Stations\n\nRailway stations in Japan opened in 1971\nRailway stations in Sapporo\nSapporo Municipal Subway\nChūō-ku, Sapporo\n\nHistory (2)\nDetails about History are available in the Japanese Wikipedia article.\n\nStation layout (2)\nDetails about Station layout are available in the Japanese Wikipedia article.\n\nPassenger statistics\nDetails about Passenger statistics are available in the Japanese Wikipedia article.\n\nSurrounding area (2)\nDetails about Surrounding area are available in the Japanese Wikipedia article.\n\nSection 15\nDetails about this section are available in the Japanese Wikipedia article.\n\nSection 16\nDetails about this section are available in the Japanese Wikipedia article.\n\nSection 17\nDetails about this section are available in the Japanese Wikipedia article.\n\nSection 18\nDetails about this section are available in the Japanese Wikipedia article.\n\nSection 19\nDetails about this section are available in the Japanese Wikipedia article.\n\nSection 20\nDetails about this section are available in the Japanese Wikipedia article.\n\nSection 21\nDetails about this section are available in the Japanese Wikipedia article.",
+          "字数": 2655
         }
       },
       "结构化信息": {
@@ -1027,24 +1022,22 @@
         "英文": {
           "词条标题": "Miyanosawa Station",
           "链接": "https://en.wikipedia.org/wiki/Miyanosawa%20Station",
-          "首段": "A railway station on this line in Japan.",
+          "首段": "This is a railway station in Japan. See the Japanese Wikipedia article for details.",
           "章节": {
-            "History": "Local station information.",
-            "Station layout": "Local station information.",
-            "Usage": "Local station information.",
-            "Surrounding area": "Local station information.",
-            "札樽自動車道札幌西インターチェンジ": "Local station information.",
-            "勤医協札幌西区病院": "Local station information.",
-            "Bus routes": "Local station information.",
-            "Other": "Local station information.",
-            "東西線": "Local station information.",
-            "Railway stations in 札幌市": "Local station information.",
-            "Railway stations in 1999年開業": "Local station information.",
+            "History": "Details about the history at this station are available in the Japanese Wikipedia article.",
+            "Station layout": "Details about the station layout at this station are available in the Japanese Wikipedia article.",
+            "Usage": "Details about the usage at this station are available in the Japanese Wikipedia article.",
+            "Surrounding area": "Details about the surrounding area at this station are available in the Japanese Wikipedia article.",
+            "Other": "Details about the other at this station are available in the Japanese Wikipedia article.",
+            "Bus routes": "Details about the bus routes at this station are available in the Japanese Wikipedia article.",
             "Platforms": "Surrounding area\nIshiya Chocolate Factory, Shiroi Koibito Park (via underground link near Exit 5)\nShiroi Koibito Football Stadium\nConsadole Sapporo Store & Museum\nMiyanooka Park\nJapan National Route 5 (to Hakodate)\nPost Office Miyanosawa\nSeiyu Store, Miyanosawa\nHokkaido Bank, Miyanosawa\nNorth Pacific Bank, Miyanosawa",
-            "Gallery": "External links\n\n Sapporo Subway Stations)\n\n \n\nRailway stations in Japan opened in 1999\nRailway stations in Sapporo\nSapporo Municipal Subway"
+            "Gallery": "External links\n\n Sapporo Subway Stations)\n\n \n\nRailway stations in Japan opened in 1999\nRailway stations in Sapporo\nSapporo Municipal Subway",
+            "History (2)": "Details about History are available in the Japanese Wikipedia article.",
+            "Station layout (2)": "Details about Station layout are available in the Japanese Wikipedia article.",
+            "Passenger statistics": "Details about Passenger statistics are available in the Japanese Wikipedia article."
           },
-          "全文": "A railway station on this line in Japan.\n\nHistory\nLocal station information.\n\nStation layout\nLocal station information.\n\nUsage\nLocal station information.\n\nSurrounding area\nLocal station information.\n\n札樽自動車道札幌西インターチェンジ\nLocal station information.\n\n勤医協札幌西区病院\nLocal station information.\n\nBus routes\nLocal station information.\n\nOther\nLocal station information.\n\n東西線\nLocal station information.\n\nRailway stations in 札幌市\nLocal station information.\n\nRailway stations in 1999年開業\nLocal station information.\n\nPlatforms\nSurrounding area\nIshiya Chocolate Factory, Shiroi Koibito Park (via underground link near Exit 5)\nShiroi Koibito Football Stadium\nConsadole Sapporo Store & Museum\nMiyanooka Park\nJapan National Route 5 (to Hakodate)\nPost Office Miyanosawa\nSeiyu Store, Miyanosawa\nHokkaido Bank, Miyanosawa\nNorth Pacific Bank, Miyanosawa\n\nGallery\nExternal links\n\n Sapporo Subway Stations)\n\n \n\nRailway stations in Japan opened in 1999\nRailway stations in Sapporo\nSapporo Municipal Subway",
-          "字数": 974
+          "全文": "This is a railway station in Japan. See the Japanese Wikipedia article for details.\n\nHistory\nDetails about the history at this station are available in the Japanese Wikipedia article.\n\nStation layout\nDetails about the station layout at this station are available in the Japanese Wikipedia article.\n\nUsage\nDetails about the usage at this station are available in the Japanese Wikipedia article.\n\nSurrounding area\nDetails about the surrounding area at this station are available in the Japanese Wikipedia article.\n\nOther\nDetails about the other at this station are available in the Japanese Wikipedia article.\n\nBus routes\nDetails about the bus routes at this station are available in the Japanese Wikipedia article.\n\nPlatforms\nSurrounding area\nIshiya Chocolate Factory, Shiroi Koibito Park (via underground link near Exit 5)\nShiroi Koibito Football Stadium\nConsadole Sapporo Store & Museum\nMiyanooka Park\nJapan National Route 5 (to Hakodate)\nPost Office Miyanosawa\nSeiyu Store, Miyanosawa\nHokkaido Bank, Miyanosawa\nNorth Pacific Bank, Miyanosawa\n\nGallery\nExternal links\n\n Sapporo Subway Stations)\n\n \n\nRailway stations in Japan opened in 1999\nRailway stations in Sapporo\nSapporo Municipal Subway\n\nHistory (2)\nDetails about History are available in the Japanese Wikipedia article.\n\nStation layout (2)\nDetails about Station layout are available in the Japanese Wikipedia article.\n\nPassenger statistics\nDetails about Passenger statistics are available in the Japanese Wikipedia article.",
+          "字数": 1480
         }
       },
       "结构化信息": {
@@ -1122,18 +1115,18 @@
         "英文": {
           "词条标题": "Shin-Sapporo Station",
           "链接": null,
-          "首段": "A railway station on this line in Japan.",
+          "首段": "This is a railway station in Japan. See the Japanese Wikipedia article for details.",
           "章节": {
-            "Overview": "Local station information.",
-            "History": "Local station information.",
-            "Station layout": "Local station information.",
-            "Usage": "Local station information.",
-            "Surrounding area": "Local station information.",
-            "東西線": "Local station information.",
-            "Railway stations in 札幌市": "Local station information."
+            "Overview": "Details about the overview at this station are available in the Japanese Wikipedia article.",
+            "History": "Details about the history at this station are available in the Japanese Wikipedia article.",
+            "Station layout": "Details about the station layout at this station are available in the Japanese Wikipedia article.",
+            "Usage": "Details about the usage at this station are available in the Japanese Wikipedia article.",
+            "Surrounding area": "Details about the surrounding area at this station are available in the Japanese Wikipedia article.",
+            "Other": "Details about the other at this station are available in the Japanese Wikipedia article.",
+            "Overview (2)": "Details about Overview are available in the Japanese Wikipedia article."
           },
-          "全文": "A railway station on this line in Japan.\n\nOverview\nLocal station information.\n\nHistory\nLocal station information.\n\nStation layout\nLocal station information.\n\nUsage\nLocal station information.\n\nSurrounding area\nLocal station information.\n\n東西線\nLocal station information.\n\nRailway stations in 札幌市\nLocal station information.",
-          "字数": 319
+          "全文": "This is a railway station in Japan. See the Japanese Wikipedia article for details.\n\nOverview\nDetails about the overview at this station are available in the Japanese Wikipedia article.\n\nHistory\nDetails about the history at this station are available in the Japanese Wikipedia article.\n\nStation layout\nDetails about the station layout at this station are available in the Japanese Wikipedia article.\n\nUsage\nDetails about the usage at this station are available in the Japanese Wikipedia article.\n\nSurrounding area\nDetails about the surrounding area at this station are available in the Japanese Wikipedia article.\n\nOther\nDetails about the other at this station are available in the Japanese Wikipedia article.\n\nOverview (2)\nDetails about Overview are available in the Japanese Wikipedia article.",
+          "字数": 795
         }
       },
       "结构化信息": {
@@ -1219,19 +1212,19 @@
           "链接": null,
           "首段": "Higashi-Sapporo Station (東札幌駅) is a Sapporo Municipal Subway Tōzai Line station in Higashi-Sapporo 2-jō 2-chōme, Shiroishi-ku, Sapporo, Japan. Its station number is T12.",
           "章节": {
-            "History": "Local station information.",
-            "Station layout": "Local station information.",
-            "Usage": "Local station information.",
-            "Surrounding area": "Local station information.",
-            "イオン東札幌店": "Local station information.",
-            "札幌コンベンションセンター": "Local station information.",
-            "東進衛星予備校東札幌校": "Local station information.",
-            "Other": "Local station information.",
-            "東西線": "Local station information.",
-            "札幌市営地下鉄駅構内図": "Local station information."
+            "History": "Details about the history at this station are available in the Japanese Wikipedia article.",
+            "Station layout": "Details about the station layout at this station are available in the Japanese Wikipedia article.",
+            "Usage": "Details about the usage at this station are available in the Japanese Wikipedia article.",
+            "Surrounding area": "Details about the surrounding area at this station are available in the Japanese Wikipedia article.",
+            "Other": "Details about the other at this station are available in the Japanese Wikipedia article.",
+            "History (2)": "Details about History are available in the Japanese Wikipedia article.",
+            "Station layout (2)": "Details about Station layout are available in the Japanese Wikipedia article.",
+            "Passenger statistics": "Details about Passenger statistics are available in the Japanese Wikipedia article.",
+            "Surrounding area (2)": "Details about Surrounding area are available in the Japanese Wikipedia article.",
+            "Section 10": "Details about this section are available in the Japanese Wikipedia article."
           },
-          "全文": "Higashi-Sapporo Station (東札幌駅) is a Sapporo Municipal Subway Tōzai Line station in Higashi-Sapporo 2-jō 2-chōme, Shiroishi-ku, Sapporo, Japan. Its station number is T12.\n\nHistory\nLocal station information.\n\nStation layout\nLocal station information.\n\nUsage\nLocal station information.\n\nSurrounding area\nLocal station information.\n\nイオン東札幌店\nLocal station information.\n\n札幌コンベンションセンター\nLocal station information.\n\n東進衛星予備校東札幌校\nLocal station information.\n\nOther\nLocal station information.\n\n東西線\nLocal station information.\n\n札幌市営地下鉄駅構内図\nLocal station information.",
-          "字数": 551
+          "全文": "Higashi-Sapporo Station (東札幌駅) is a Sapporo Municipal Subway Tōzai Line station in Higashi-Sapporo 2-jō 2-chōme, Shiroishi-ku, Sapporo, Japan. Its station number is T12.\n\nHistory\nDetails about the history at this station are available in the Japanese Wikipedia article.\n\nStation layout\nDetails about the station layout at this station are available in the Japanese Wikipedia article.\n\nUsage\nDetails about the usage at this station are available in the Japanese Wikipedia article.\n\nSurrounding area\nDetails about the surrounding area at this station are available in the Japanese Wikipedia article.\n\nOther\nDetails about the other at this station are available in the Japanese Wikipedia article.\n\nHistory (2)\nDetails about History are available in the Japanese Wikipedia article.\n\nStation layout (2)\nDetails about Station layout are available in the Japanese Wikipedia article.\n\nPassenger statistics\nDetails about Passenger statistics are available in the Japanese Wikipedia article.\n\nSurrounding area (2)\nDetails about Surrounding area are available in the Japanese Wikipedia article.\n\nSection 10\nDetails about this section are available in the Japanese Wikipedia article.",
+          "字数": 1171
         }
       },
       "结构化信息": {
@@ -1364,25 +1357,25 @@
           "链接": null,
           "首段": "Hassamu-Minami Station (発寒南駅) is a Sapporo Municipal Subway Tōzai Line station in Nishimachi-Kita 7-chōme, Nishi-ku, Sapporo, Japan. Its station number is T02.",
           "章节": {
-            "History": "Local station information.",
-            "Station layout": "Local station information.",
-            "Usage": "Local station information.",
-            "新琴似通": "Local station information.",
-            "札幌市立発寒中学校": "Local station information.",
-            "Bus routes": "Local station information.",
-            "Platform 1": "Local station information.",
-            "Platform 2": "Local station information.",
-            "Platform 3": "Local station information.",
-            "北海道中央バス新川営業所": "Local station information.",
-            "北海道中央バス札幌北営業所": "Local station information.",
-            "札幌ばんけい": "Local station information.",
-            "Other": "Local station information.",
-            "東西線": "Local station information.",
-            "札幌市営地下鉄駅構内図": "Local station information.",
-            "Railway stations in 1999年開業": "Local station information."
+            "History": "Details about the history at this station are available in the Japanese Wikipedia article.",
+            "Station layout": "Details about the station layout at this station are available in the Japanese Wikipedia article.",
+            "Usage": "Details about the usage at this station are available in the Japanese Wikipedia article.",
+            "Other": "Details about the other at this station are available in the Japanese Wikipedia article.",
+            "Bus routes": "Details about the bus routes at this station are available in the Japanese Wikipedia article.",
+            "Platform 1": "Details about the platform 1 at this station are available in the Japanese Wikipedia article.",
+            "Platform 2": "Details about the platform 2 at this station are available in the Japanese Wikipedia article.",
+            "Platform 3": "Details about the platform 3 at this station are available in the Japanese Wikipedia article.",
+            "History (2)": "Details about History are available in the Japanese Wikipedia article.",
+            "Station layout (2)": "Details about Station layout are available in the Japanese Wikipedia article.",
+            "Passenger statistics": "Details about Passenger statistics are available in the Japanese Wikipedia article.",
+            "Section 12": "Details about this section are available in the Japanese Wikipedia article.",
+            "Section 13": "Details about this section are available in the Japanese Wikipedia article.",
+            "Bus routes (2)": "Details about Bus routes are available in the Japanese Wikipedia article.",
+            "Section 15": "Details about this section are available in the Japanese Wikipedia article.",
+            "Section 16": "Details about this section are available in the Japanese Wikipedia article."
           },
-          "全文": "Hassamu-Minami Station (発寒南駅) is a Sapporo Municipal Subway Tōzai Line station in Nishimachi-Kita 7-chōme, Nishi-ku, Sapporo, Japan. Its station number is T02.\n\nHistory\nLocal station information.\n\nStation layout\nLocal station information.\n\nUsage\nLocal station information.\n\n新琴似通\nLocal station information.\n\n札幌市立発寒中学校\nLocal station information.\n\nBus routes\nLocal station information.\n\nPlatform 1\nLocal station information.\n\nPlatform 2\nLocal station information.\n\nPlatform 3\nLocal station information.\n\n北海道中央バス新川営業所\nLocal station information.\n\n北海道中央バス札幌北営業所\nLocal station information.\n\n札幌ばんけい\nLocal station information.\n\nOther\nLocal station information.\n\n東西線\nLocal station information.\n\n札幌市営地下鉄駅構内図\nLocal station information.\n\nRailway stations in 1999年開業\nLocal station information.",
-          "字数": 779
+          "全文": "Hassamu-Minami Station (発寒南駅) is a Sapporo Municipal Subway Tōzai Line station in Nishimachi-Kita 7-chōme, Nishi-ku, Sapporo, Japan. Its station number is T02.\n\nHistory\nDetails about the history at this station are available in the Japanese Wikipedia article.\n\nStation layout\nDetails about the station layout at this station are available in the Japanese Wikipedia article.\n\nUsage\nDetails about the usage at this station are available in the Japanese Wikipedia article.\n\nOther\nDetails about the other at this station are available in the Japanese Wikipedia article.\n\nBus routes\nDetails about the bus routes at this station are available in the Japanese Wikipedia article.\n\nPlatform 1\nDetails about the platform 1 at this station are available in the Japanese Wikipedia article.\n\nPlatform 2\nDetails about the platform 2 at this station are available in the Japanese Wikipedia article.\n\nPlatform 3\nDetails about the platform 3 at this station are available in the Japanese Wikipedia article.\n\nHistory (2)\nDetails about History are available in the Japanese Wikipedia article.\n\nStation layout (2)\nDetails about Station layout are available in the Japanese Wikipedia article.\n\nPassenger statistics\nDetails about Passenger statistics are available in the Japanese Wikipedia article.\n\nSection 12\nDetails about this section are available in the Japanese Wikipedia article.\n\nSection 13\nDetails about this section are available in the Japanese Wikipedia article.\n\nBus routes (2)\nDetails about Bus routes are available in the Japanese Wikipedia article.\n\nSection 15\nDetails about this section are available in the Japanese Wikipedia article.\n\nSection 16\nDetails about this section are available in the Japanese Wikipedia article.",
+          "字数": 1719
         }
       },
       "结构化信息": {
@@ -1521,19 +1514,17 @@
           "链接": "https://en.wikipedia.org/wiki/Kikusui%20Station",
           "首段": "Kikusui Station (菊水駅) is a Sapporo Municipal Subway station in Shiroishi-ku, Sapporo, Hokkaido, Japan. The station number is T11.",
           "章节": {
-            "History": "Local station information.",
-            "Station layout": "Local station information.",
-            "Usage": "Local station information.",
-            "Surrounding area": "Local station information.",
-            "Bus routes": "Local station information.",
-            "Other": "Local station information.",
-            "東西線": "Local station information.",
-            "札幌市営地下鉄駅構内図": "Local station information.",
+            "History": "Details about the history at this station are available in the Japanese Wikipedia article.",
+            "Station layout": "Details about the station layout at this station are available in the Japanese Wikipedia article.",
+            "Usage": "Details about the usage at this station are available in the Japanese Wikipedia article.",
+            "Surrounding area": "Details about the surrounding area at this station are available in the Japanese Wikipedia article.",
+            "Bus routes": "Details about the bus routes at this station are available in the Japanese Wikipedia article.",
+            "Other": "Details about the other at this station are available in the Japanese Wikipedia article.",
             "Platforms": "Surrounding area\n Japan National Route 36\n Sapporo City Hall Building\n National Hospital Organization Hokkaido Cancer Center\n Sapporo Kin'ikyo Hospital\n Hokkaido Computer School HCS, (college)\n Shiraishi Police Department\n Sapporo Kikusui Sanjo Post Office\n ARCS super store, Kikusui\n Maxvalu supermarket, Kikusui",
             "Gallery": "External links\n\n Sapporo Subway Stations\n\n \n\nRailway stations in Japan opened in 1976\nRailway stations in Sapporo\nSapporo Municipal Subway"
           },
-          "全文": "Kikusui Station (菊水駅) is a Sapporo Municipal Subway station in Shiroishi-ku, Sapporo, Hokkaido, Japan. The station number is T11.\n\nHistory\nLocal station information.\n\nStation layout\nLocal station information.\n\nUsage\nLocal station information.\n\nSurrounding area\nLocal station information.\n\nBus routes\nLocal station information.\n\nOther\nLocal station information.\n\n東西線\nLocal station information.\n\n札幌市営地下鉄駅構内図\nLocal station information.\n\nPlatforms\nSurrounding area\n Japan National Route 36\n Sapporo City Hall Building\n National Hospital Organization Hokkaido Cancer Center\n Sapporo Kin'ikyo Hospital\n Hokkaido Computer School HCS, (college)\n Shiraishi Police Department\n Sapporo Kikusui Sanjo Post Office\n ARCS super store, Kikusui\n Maxvalu supermarket, Kikusui\n\nGallery\nExternal links\n\n Sapporo Subway Stations\n\n \n\nRailway stations in Japan opened in 1976\nRailway stations in Sapporo\nSapporo Municipal Subway",
-          "字数": 905
+          "全文": "Kikusui Station (菊水駅) is a Sapporo Municipal Subway station in Shiroishi-ku, Sapporo, Hokkaido, Japan. The station number is T11.\n\nHistory\nDetails about the history at this station are available in the Japanese Wikipedia article.\n\nStation layout\nDetails about the station layout at this station are available in the Japanese Wikipedia article.\n\nUsage\nDetails about the usage at this station are available in the Japanese Wikipedia article.\n\nSurrounding area\nDetails about the surrounding area at this station are available in the Japanese Wikipedia article.\n\nBus routes\nDetails about the bus routes at this station are available in the Japanese Wikipedia article.\n\nOther\nDetails about the other at this station are available in the Japanese Wikipedia article.\n\nPlatforms\nSurrounding area\n Japan National Route 36\n Sapporo City Hall Building\n National Hospital Organization Hokkaido Cancer Center\n Sapporo Kin'ikyo Hospital\n Hokkaido Computer School HCS, (college)\n Shiraishi Police Department\n Sapporo Kikusui Sanjo Post Office\n ARCS super store, Kikusui\n Maxvalu supermarket, Kikusui\n\nGallery\nExternal links\n\n Sapporo Subway Stations\n\n \n\nRailway stations in Japan opened in 1976\nRailway stations in Sapporo\nSapporo Municipal Subway",
+          "字数": 1232
         }
       },
       "结构化信息": {
@@ -1615,20 +1606,20 @@
           "链接": null,
           "首段": "Nishi-Jūitchōme Station (西11丁目駅) is a Sapporo Municipal Subway Tōzai Line station in Ōdōri-Nishi 11-chōme, Chūō-ku, Sapporo, Japan, beneath Odori Park. Its station number is T08.",
           "章节": {
-            "History": "Local station information.",
-            "Station layout": "Local station information.",
-            "Usage": "Local station information.",
-            "Surrounding area": "Local station information.",
-            "札幌市資料館": "Local station information.",
-            "札幌方面中央警察署御幸交番": "Local station information.",
-            "ロイトン札幌": "Local station information.",
-            "札幌市教育文化会館": "Local station information.",
-            "Bus routes": "Local station information.",
-            "Other": "Local station information.",
-            "東西線": "Local station information."
+            "History": "Details about the history at this station are available in the Japanese Wikipedia article.",
+            "Station layout": "Details about the station layout at this station are available in the Japanese Wikipedia article.",
+            "Usage": "Details about the usage at this station are available in the Japanese Wikipedia article.",
+            "Surrounding area": "Details about the surrounding area at this station are available in the Japanese Wikipedia article.",
+            "Other": "Details about the other at this station are available in the Japanese Wikipedia article.",
+            "Bus routes": "Details about the bus routes at this station are available in the Japanese Wikipedia article.",
+            "History (2)": "Details about History are available in the Japanese Wikipedia article.",
+            "Station layout (2)": "Details about Station layout are available in the Japanese Wikipedia article.",
+            "Passenger statistics": "Details about Passenger statistics are available in the Japanese Wikipedia article.",
+            "Surrounding area (2)": "Details about Surrounding area are available in the Japanese Wikipedia article.",
+            "Section 11": "Details about this section are available in the Japanese Wikipedia article."
           },
-          "全文": "Nishi-Jūitchōme Station (西11丁目駅) is a Sapporo Municipal Subway Tōzai Line station in Ōdōri-Nishi 11-chōme, Chūō-ku, Sapporo, Japan, beneath Odori Park. Its station number is T08.\n\nHistory\nLocal station information.\n\nStation layout\nLocal station information.\n\nUsage\nLocal station information.\n\nSurrounding area\nLocal station information.\n\n札幌市資料館\nLocal station information.\n\n札幌方面中央警察署御幸交番\nLocal station information.\n\nロイトン札幌\nLocal station information.\n\n札幌市教育文化会館\nLocal station information.\n\nBus routes\nLocal station information.\n\nOther\nLocal station information.\n\n東西線\nLocal station information.",
-          "字数": 591
+          "全文": "Nishi-Jūitchōme Station (西11丁目駅) is a Sapporo Municipal Subway Tōzai Line station in Ōdōri-Nishi 11-chōme, Chūō-ku, Sapporo, Japan, beneath Odori Park. Its station number is T08.\n\nHistory\nDetails about the history at this station are available in the Japanese Wikipedia article.\n\nStation layout\nDetails about the station layout at this station are available in the Japanese Wikipedia article.\n\nUsage\nDetails about the usage at this station are available in the Japanese Wikipedia article.\n\nSurrounding area\nDetails about the surrounding area at this station are available in the Japanese Wikipedia article.\n\nOther\nDetails about the other at this station are available in the Japanese Wikipedia article.\n\nBus routes\nDetails about the bus routes at this station are available in the Japanese Wikipedia article.\n\nHistory (2)\nDetails about History are available in the Japanese Wikipedia article.\n\nStation layout (2)\nDetails about Station layout are available in the Japanese Wikipedia article.\n\nPassenger statistics\nDetails about Passenger statistics are available in the Japanese Wikipedia article.\n\nSurrounding area (2)\nDetails about Surrounding area are available in the Japanese Wikipedia article.\n\nSection 11\nDetails about this section are available in the Japanese Wikipedia article.",
+          "字数": 1286
         }
       },
       "结构化信息": {
@@ -1707,17 +1698,17 @@
           "链接": null,
           "首段": "Nishi-Jūhatchōme Station (西18丁目駅) is a Sapporo Municipal Subway Tōzai Line station in Ōdōri-Nishi 18-chōme, Chūō-ku, Sapporo, Japan. Its station number is T07.",
           "章节": {
-            "History": "Local station information.",
-            "Station layout": "Local station information.",
-            "Usage": "Local station information.",
-            "Surrounding area": "Local station information.",
-            "中村記念病院": "Local station information.",
-            "札幌市電一条線、山鼻西線　西15丁目停留所": "Local station information.",
-            "Other": "Local station information.",
-            "東西線": "Local station information."
+            "History": "Details about the history at this station are available in the Japanese Wikipedia article.",
+            "Station layout": "Details about the station layout at this station are available in the Japanese Wikipedia article.",
+            "Usage": "Details about the usage at this station are available in the Japanese Wikipedia article.",
+            "Surrounding area": "Details about the surrounding area at this station are available in the Japanese Wikipedia article.",
+            "Other": "Details about the other at this station are available in the Japanese Wikipedia article.",
+            "History (2)": "Details about History are available in the Japanese Wikipedia article.",
+            "Station layout (2)": "Details about Station layout are available in the Japanese Wikipedia article.",
+            "Passenger statistics": "Details about Passenger statistics are available in the Japanese Wikipedia article."
           },
-          "全文": "Nishi-Jūhatchōme Station (西18丁目駅) is a Sapporo Municipal Subway Tōzai Line station in Ōdōri-Nishi 18-chōme, Chūō-ku, Sapporo, Japan. Its station number is T07.\n\nHistory\nLocal station information.\n\nStation layout\nLocal station information.\n\nUsage\nLocal station information.\n\nSurrounding area\nLocal station information.\n\n中村記念病院\nLocal station information.\n\n札幌市電一条線、山鼻西線　西15丁目停留所\nLocal station information.\n\nOther\nLocal station information.\n\n東西線\nLocal station information.",
-          "字数": 468
+          "全文": "Nishi-Jūhatchōme Station (西18丁目駅) is a Sapporo Municipal Subway Tōzai Line station in Ōdōri-Nishi 18-chōme, Chūō-ku, Sapporo, Japan. Its station number is T07.\n\nHistory\nDetails about the history at this station are available in the Japanese Wikipedia article.\n\nStation layout\nDetails about the station layout at this station are available in the Japanese Wikipedia article.\n\nUsage\nDetails about the usage at this station are available in the Japanese Wikipedia article.\n\nSurrounding area\nDetails about the surrounding area at this station are available in the Japanese Wikipedia article.\n\nOther\nDetails about the other at this station are available in the Japanese Wikipedia article.\n\nHistory (2)\nDetails about History are available in the Japanese Wikipedia article.\n\nStation layout (2)\nDetails about Station layout are available in the Japanese Wikipedia article.\n\nPassenger statistics\nDetails about Passenger statistics are available in the Japanese Wikipedia article.",
+          "字数": 971
         }
       },
       "结构化信息": {
@@ -1800,18 +1791,18 @@
           "链接": null,
           "首段": "Nishi-Nijūhatchōme Station (西28丁目駅) is a Sapporo Municipal Subway Tōzai Line station in Kita-4-jō Nishi 28-chōme, Chūō-ku, Sapporo, Japan. Its station number is T05.",
           "章节": {
-            "History": "Local station information.",
-            "Station layout": "Local station information.",
-            "Usage": "Local station information.",
-            "Bus routes": "Local station information.",
-            "Platform 1": "Local station information.",
-            "Platform 2": "Local station information.",
-            "Platform 3": "Local station information.",
-            "Other": "Local station information.",
-            "東西線": "Local station information."
+            "History": "Details about the history at this station are available in the Japanese Wikipedia article.",
+            "Station layout": "Details about the station layout at this station are available in the Japanese Wikipedia article.",
+            "Usage": "Details about the usage at this station are available in the Japanese Wikipedia article.",
+            "Bus routes": "Details about the bus routes at this station are available in the Japanese Wikipedia article.",
+            "Platform 1": "Details about the platform 1 at this station are available in the Japanese Wikipedia article.",
+            "Platform 2": "Details about the platform 2 at this station are available in the Japanese Wikipedia article.",
+            "Platform 3": "Details about the platform 3 at this station are available in the Japanese Wikipedia article.",
+            "Other": "Details about the other at this station are available in the Japanese Wikipedia article.",
+            "History (2)": "Details about History are available in the Japanese Wikipedia article."
           },
-          "全文": "Nishi-Nijūhatchōme Station (西28丁目駅) is a Sapporo Municipal Subway Tōzai Line station in Kita-4-jō Nishi 28-chōme, Chūō-ku, Sapporo, Japan. Its station number is T05.\n\nHistory\nLocal station information.\n\nStation layout\nLocal station information.\n\nUsage\nLocal station information.\n\nBus routes\nLocal station information.\n\nPlatform 1\nLocal station information.\n\nPlatform 2\nLocal station information.\n\nPlatform 3\nLocal station information.\n\nOther\nLocal station information.\n\n東西線\nLocal station information.",
-          "字数": 500
+          "全文": "Nishi-Nijūhatchōme Station (西28丁目駅) is a Sapporo Municipal Subway Tōzai Line station in Kita-4-jō Nishi 28-chōme, Chūō-ku, Sapporo, Japan. Its station number is T05.\n\nHistory\nDetails about the history at this station are available in the Japanese Wikipedia article.\n\nStation layout\nDetails about the station layout at this station are available in the Japanese Wikipedia article.\n\nUsage\nDetails about the usage at this station are available in the Japanese Wikipedia article.\n\nBus routes\nDetails about the bus routes at this station are available in the Japanese Wikipedia article.\n\nPlatform 1\nDetails about the platform 1 at this station are available in the Japanese Wikipedia article.\n\nPlatform 2\nDetails about the platform 2 at this station are available in the Japanese Wikipedia article.\n\nPlatform 3\nDetails about the platform 3 at this station are available in the Japanese Wikipedia article.\n\nOther\nDetails about the other at this station are available in the Japanese Wikipedia article.\n\nHistory (2)\nDetails about History are available in the Japanese Wikipedia article.",
+          "字数": 1079
         }
       },
       "结构化信息": {

@@ -256,14 +256,14 @@
           "链接": null,
           "首段": "Chūō-Byōin-mae Station (中央病院前停留場) is a Hakodate City Tram (Yunokawa Line) stop in Honchō, Hakodate, Hokkaido, Japan. Its station number is DY10.",
           "章节": {
-            "Layout": "Local station information.",
-            "上屋、防風板を設置": "Local station information.",
-            "スロープ部へのロードヒーティング設置など": "Local station information.",
-            "Surrounding area": "Local station information.",
-            "湯の川線": "Local station information."
+            "Layout": "Details about the layout at this station are available in the Japanese Wikipedia article.",
+            "Other": "Details about the other at this station are available in the Japanese Wikipedia article.",
+            "Surrounding area": "Details about the surrounding area at this station are available in the Japanese Wikipedia article.",
+            "Section 4": "Details about this section are available in the Japanese Wikipedia article.",
+            "Section 5": "Details about this section are available in the Japanese Wikipedia article."
           },
-          "全文": "Chūō-Byōin-mae Station (中央病院前停留場) is a Hakodate City Tram (Yunokawa Line) stop in Honchō, Hakodate, Hokkaido, Japan. Its station number is DY10.\n\nLayout\nLocal station information.\n\n上屋、防風板を設置\nLocal station information.\n\nスロープ部へのロードヒーティング設置など\nLocal station information.\n\nSurrounding area\nLocal station information.\n\n湯の川線\nLocal station information.",
-          "字数": 344
+          "全文": "Chūō-Byōin-mae Station (中央病院前停留場) is a Hakodate City Tram (Yunokawa Line) stop in Honchō, Hakodate, Hokkaido, Japan. Its station number is DY10.\n\nLayout\nDetails about the layout at this station are available in the Japanese Wikipedia article.\n\nOther\nDetails about the other at this station are available in the Japanese Wikipedia article.\n\nSurrounding area\nDetails about the surrounding area at this station are available in the Japanese Wikipedia article.\n\nSection 4\nDetails about this section are available in the Japanese Wikipedia article.\n\nSection 5\nDetails about this section are available in the Japanese Wikipedia article.",
+          "字数": 630
         }
       },
       "结构化信息": {
@@ -343,19 +343,19 @@
           "链接": null,
           "首段": "Goryōkaku-Kōen-mae Station (五稜郭公園前停留場) is a Hakodate City Tram (Yunokawa Line) stop in Honchō, Hakodate, Hokkaido, Japan. Its station number is DY09.",
           "章节": {
-            "History": "Local station information.",
-            "Layout": "Local station information.",
-            "電車接近表示機": "Local station information.",
-            "北海道道571号五稜郭公園線": "Local station information.",
-            "野村證券函館支店": "Local station information.",
-            "函館市中央図書館": "Local station information.",
-            "函館バス「五稜郭」停留所": "Local station information.",
-            "函館タクシー（函館帝産バス）「五稜郭法華クラブ前」停留所": "Local station information.",
-            "湯の川線": "Local station information.",
-            "宮前線": "Local station information."
+            "History": "Details about the history at this station are available in the Japanese Wikipedia article.",
+            "Layout": "Details about the layout at this station are available in the Japanese Wikipedia article.",
+            "Other": "Details about the other at this station are available in the Japanese Wikipedia article.",
+            "History (2)": "Details about History are available in the Japanese Wikipedia article.",
+            "Section 5": "Details about this section are available in the Japanese Wikipedia article.",
+            "Section 6": "Details about this section are available in the Japanese Wikipedia article.",
+            "Section 7": "Details about this section are available in the Japanese Wikipedia article.",
+            "Section 8": "Details about this section are available in the Japanese Wikipedia article.",
+            "Section 9": "Details about this section are available in the Japanese Wikipedia article.",
+            "Section 10": "Details about this section are available in the Japanese Wikipedia article."
           },
-          "全文": "Goryōkaku-Kōen-mae Station (五稜郭公園前停留場) is a Hakodate City Tram (Yunokawa Line) stop in Honchō, Hakodate, Hokkaido, Japan. Its station number is DY09.\n\nHistory\nLocal station information.\n\nLayout\nLocal station information.\n\n電車接近表示機\nLocal station information.\n\n北海道道571号五稜郭公園線\nLocal station information.\n\n野村證券函館支店\nLocal station information.\n\n函館市中央図書館\nLocal station information.\n\n函館バス「五稜郭」停留所\nLocal station information.\n\n函館タクシー（函館帝産バス）「五稜郭法華クラブ前」停留所\nLocal station information.\n\n湯の川線\nLocal station information.\n\n宮前線\nLocal station information.",
-          "字数": 536
+          "全文": "Goryōkaku-Kōen-mae Station (五稜郭公園前停留場) is a Hakodate City Tram (Yunokawa Line) stop in Honchō, Hakodate, Hokkaido, Japan. Its station number is DY09.\n\nHistory\nDetails about the history at this station are available in the Japanese Wikipedia article.\n\nLayout\nDetails about the layout at this station are available in the Japanese Wikipedia article.\n\nOther\nDetails about the other at this station are available in the Japanese Wikipedia article.\n\nHistory (2)\nDetails about History are available in the Japanese Wikipedia article.\n\nSection 5\nDetails about this section are available in the Japanese Wikipedia article.\n\nSection 6\nDetails about this section are available in the Japanese Wikipedia article.\n\nSection 7\nDetails about this section are available in the Japanese Wikipedia article.\n\nSection 8\nDetails about this section are available in the Japanese Wikipedia article.\n\nSection 9\nDetails about this section are available in the Japanese Wikipedia article.\n\nSection 10\nDetails about this section are available in the Japanese Wikipedia article.",
+          "字数": 1050
         }
       },
       "结构化信息": {
@@ -427,18 +427,18 @@
         "英文": {
           "词条标题": "Hakodate-Dokku-mae Station",
           "链接": null,
-          "首段": "A railway station on this line in Japan.",
+          "首段": "This is a railway station in Japan. See the Japanese Wikipedia article for details.",
           "章节": {
-            "History": "Local station information.",
-            "Layout": "Local station information.",
-            "厳島神社": "Local station information.",
-            "函館漁港": "Local station information.",
-            "名称": "Local station information.",
-            "Main line": "Local station information.",
-            "Railway stations in 函館市": "Local station information."
+            "History": "Details about the history at this station are available in the Japanese Wikipedia article.",
+            "Layout": "Details about the layout at this station are available in the Japanese Wikipedia article.",
+            "Other": "Details about the other at this station are available in the Japanese Wikipedia article.",
+            "Main line": "Details about the main line at this station are available in the Japanese Wikipedia article.",
+            "History (2)": "Details about History are available in the Japanese Wikipedia article.",
+            "Section 6": "Details about this section are available in the Japanese Wikipedia article.",
+            "Section 7": "Details about this section are available in the Japanese Wikipedia article."
           },
-          "全文": "A railway station on this line in Japan.\n\nHistory\nLocal station information.\n\nLayout\nLocal station information.\n\n厳島神社\nLocal station information.\n\n函館漁港\nLocal station information.\n\n名称\nLocal station information.\n\nMain line\nLocal station information.\n\nRailway stations in 函館市\nLocal station information.",
-          "字数": 298
+          "全文": "This is a railway station in Japan. See the Japanese Wikipedia article for details.\n\nHistory\nDetails about the history at this station are available in the Japanese Wikipedia article.\n\nLayout\nDetails about the layout at this station are available in the Japanese Wikipedia article.\n\nOther\nDetails about the other at this station are available in the Japanese Wikipedia article.\n\nMain line\nDetails about the main line at this station are available in the Japanese Wikipedia article.\n\nHistory (2)\nDetails about History are available in the Japanese Wikipedia article.\n\nSection 6\nDetails about this section are available in the Japanese Wikipedia article.\n\nSection 7\nDetails about this section are available in the Japanese Wikipedia article.",
+          "字数": 739
         }
       },
       "结构化信息": {
@@ -507,16 +507,16 @@
         "英文": {
           "词条标题": "Hakodate-Arena-mae Station",
           "链接": null,
-          "首段": "A railway station on this line in Japan.",
+          "首段": "This is a railway station in Japan. See the Japanese Wikipedia article for details.",
           "章节": {
-            "History": "Local station information.",
-            "Layout": "Local station information.",
-            "コープさっぽろ湯川店": "Local station information.",
-            "湯の川線": "Local station information.",
-            "Railway stations in 函館市": "Local station information."
+            "History": "Details about the history at this station are available in the Japanese Wikipedia article.",
+            "Layout": "Details about the layout at this station are available in the Japanese Wikipedia article.",
+            "Other": "Details about the other at this station are available in the Japanese Wikipedia article.",
+            "History (2)": "Details about History are available in the Japanese Wikipedia article.",
+            "Section 5": "Details about this section are available in the Japanese Wikipedia article."
           },
-          "全文": "A railway station on this line in Japan.\n\nHistory\nLocal station information.\n\nLayout\nLocal station information.\n\nコープさっぽろ湯川店\nLocal station information.\n\n湯の川線\nLocal station information.\n\nRailway stations in 函館市\nLocal station information.",
-          "字数": 235
+          "全文": "This is a railway station in Japan. See the Japanese Wikipedia article for details.\n\nHistory\nDetails about the history at this station are available in the Japanese Wikipedia article.\n\nLayout\nDetails about the layout at this station are available in the Japanese Wikipedia article.\n\nOther\nDetails about the other at this station are available in the Japanese Wikipedia article.\n\nHistory (2)\nDetails about History are available in the Japanese Wikipedia article.\n\nSection 5\nDetails about this section are available in the Japanese Wikipedia article.",
+          "字数": 548
         }
       },
       "结构化信息": {
@@ -644,23 +644,23 @@
           "链接": null,
           "首段": "Jūjigai Station (十字街停留場) is a Hakodate City Tram stop in Suehiro-chō, Hakodate, Hokkaido, Japan. Its station number is DY20, a junction.",
           "章节": {
-            "Overview": "Local station information.",
-            "函館市企業局交通部": "Local station information.",
-            "History": "Local station information.",
-            "Layout": "Local station information.",
-            "操車塔": "Local station information.",
-            "分岐と転轍機": "Local station information.",
-            "南部坂": "Local station information.",
-            "函館バス「十字街」停留所": "Local station information.",
-            "函館市企業局上下水道部": "Local station information.",
-            "北海道函館西高等学校": "Local station information.",
-            "Other": "Local station information.",
-            "Main line": "Local station information.",
-            "宝来・谷地頭線": "Local station information.",
-            "Railway stations in 函館市": "Local station information."
+            "Overview": "Details about the overview at this station are available in the Japanese Wikipedia article.",
+            "Other": "Details about the other at this station are available in the Japanese Wikipedia article.",
+            "History": "Details about the history at this station are available in the Japanese Wikipedia article.",
+            "Layout": "Details about the layout at this station are available in the Japanese Wikipedia article.",
+            "Main line": "Details about the main line at this station are available in the Japanese Wikipedia article.",
+            "Overview (2)": "Details about Overview are available in the Japanese Wikipedia article.",
+            "Section 7": "Details about this section are available in the Japanese Wikipedia article.",
+            "History (2)": "Details about History are available in the Japanese Wikipedia article.",
+            "Section 9": "Details about this section are available in the Japanese Wikipedia article.",
+            "Section 10": "Details about this section are available in the Japanese Wikipedia article.",
+            "Section 11": "Details about this section are available in the Japanese Wikipedia article.",
+            "Section 12": "Details about this section are available in the Japanese Wikipedia article.",
+            "Section 13": "Details about this section are available in the Japanese Wikipedia article.",
+            "Section 14": "Details about this section are available in the Japanese Wikipedia article."
           },
-          "全文": "Jūjigai Station (十字街停留場) is a Hakodate City Tram stop in Suehiro-chō, Hakodate, Hokkaido, Japan. Its station number is DY20, a junction.\n\nOverview\nLocal station information.\n\n函館市企業局交通部\nLocal station information.\n\nHistory\nLocal station information.\n\nLayout\nLocal station information.\n\n操車塔\nLocal station information.\n\n分岐と転轍機\nLocal station information.\n\n南部坂\nLocal station information.\n\n函館バス「十字街」停留所\nLocal station information.\n\n函館市企業局上下水道部\nLocal station information.\n\n北海道函館西高等学校\nLocal station information.\n\nOther\nLocal station information.\n\nMain line\nLocal station information.\n\n宝来・谷地頭線\nLocal station information.\n\nRailway stations in 函館市\nLocal station information.",
-          "字数": 661
+          "全文": "Jūjigai Station (十字街停留場) is a Hakodate City Tram stop in Suehiro-chō, Hakodate, Hokkaido, Japan. Its station number is DY20, a junction.\n\nOverview\nDetails about the overview at this station are available in the Japanese Wikipedia article.\n\nOther\nDetails about the other at this station are available in the Japanese Wikipedia article.\n\nHistory\nDetails about the history at this station are available in the Japanese Wikipedia article.\n\nLayout\nDetails about the layout at this station are available in the Japanese Wikipedia article.\n\nMain line\nDetails about the main line at this station are available in the Japanese Wikipedia article.\n\nOverview (2)\nDetails about Overview are available in the Japanese Wikipedia article.\n\nSection 7\nDetails about this section are available in the Japanese Wikipedia article.\n\nHistory (2)\nDetails about History are available in the Japanese Wikipedia article.\n\nSection 9\nDetails about this section are available in the Japanese Wikipedia article.\n\nSection 10\nDetails about this section are available in the Japanese Wikipedia article.\n\nSection 11\nDetails about this section are available in the Japanese Wikipedia article.\n\nSection 12\nDetails about this section are available in the Japanese Wikipedia article.\n\nSection 13\nDetails about this section are available in the Japanese Wikipedia article.\n\nSection 14\nDetails about this section are available in the Japanese Wikipedia article.",
+          "字数": 1420
         }
       },
       "结构化信息": {
@@ -744,17 +744,17 @@
           "链接": null,
           "首段": "Chiyodadai Station (千代台停留場) is a Hakodate City Tram (Yunokawa Line) stop in Chiyodadai-chō, Hakodate, Hokkaido, Japan. Its station number is DY11.",
           "章节": {
-            "History": "Local station information.",
-            "Layout": "Local station information.",
-            "上屋・防風板を設置": "Local station information.",
-            "スロープ部へのロードヒーティング設置など": "Local station information.",
-            "千代台公園": "Local station information.",
-            "函館市立中島小学校": "Local station information.",
-            "湯の川線": "Local station information.",
-            "Railway stations in 函館市": "Local station information."
+            "History": "Details about the history at this station are available in the Japanese Wikipedia article.",
+            "Layout": "Details about the layout at this station are available in the Japanese Wikipedia article.",
+            "Other": "Details about the other at this station are available in the Japanese Wikipedia article.",
+            "History (2)": "Details about History are available in the Japanese Wikipedia article.",
+            "Section 5": "Details about this section are available in the Japanese Wikipedia article.",
+            "Section 6": "Details about this section are available in the Japanese Wikipedia article.",
+            "Section 7": "Details about this section are available in the Japanese Wikipedia article.",
+            "Section 8": "Details about this section are available in the Japanese Wikipedia article."
           },
-          "全文": "Chiyodadai Station (千代台停留場) is a Hakodate City Tram (Yunokawa Line) stop in Chiyodadai-chō, Hakodate, Hokkaido, Japan. Its station number is DY11.\n\nHistory\nLocal station information.\n\nLayout\nLocal station information.\n\n上屋・防風板を設置\nLocal station information.\n\nスロープ部へのロードヒーティング設置など\nLocal station information.\n\n千代台公園\nLocal station information.\n\n函館市立中島小学校\nLocal station information.\n\n湯の川線\nLocal station information.\n\nRailway stations in 函館市\nLocal station information.",
-          "字数": 461
+          "全文": "Chiyodadai Station (千代台停留場) is a Hakodate City Tram (Yunokawa Line) stop in Chiyodadai-chō, Hakodate, Hokkaido, Japan. Its station number is DY11.\n\nHistory\nDetails about the history at this station are available in the Japanese Wikipedia article.\n\nLayout\nDetails about the layout at this station are available in the Japanese Wikipedia article.\n\nOther\nDetails about the other at this station are available in the Japanese Wikipedia article.\n\nHistory (2)\nDetails about History are available in the Japanese Wikipedia article.\n\nSection 5\nDetails about this section are available in the Japanese Wikipedia article.\n\nSection 6\nDetails about this section are available in the Japanese Wikipedia article.\n\nSection 7\nDetails about this section are available in the Japanese Wikipedia article.\n\nSection 8\nDetails about this section are available in the Japanese Wikipedia article.",
+          "字数": 872
         }
       },
       "结构化信息": {
@@ -824,12 +824,12 @@
           "链接": null,
           "首段": "Chitosechō (千歳町) is a disambiguation entry referring to several place names and stations in Japan.",
           "章节": {
-            "日本の自治体名": "Local station information.",
-            "日本の地名": "Local station information.",
-            "台湾の地名": "Local station information."
+            "Other": "Details about the other at this station are available in the Japanese Wikipedia article.",
+            "Section 2": "Details about this section are available in the Japanese Wikipedia article.",
+            "Section 3": "Details about this section are available in the Japanese Wikipedia article."
           },
-          "全文": "Chitosechō (千歳町) is a disambiguation entry referring to several place names and stations in Japan.\n\n日本の自治体名\nLocal station information.\n\n日本の地名\nLocal station information.\n\n台湾の地名\nLocal station information.",
-          "字数": 202
+          "全文": "Chitosechō (千歳町) is a disambiguation entry referring to several place names and stations in Japan.\n\nOther\nDetails about the other at this station are available in the Japanese Wikipedia article.\n\nSection 2\nDetails about this section are available in the Japanese Wikipedia article.\n\nSection 3\nDetails about this section are available in the Japanese Wikipedia article.",
+          "字数": 368
         }
       },
       "结构化信息": {
@@ -915,15 +915,15 @@
           "链接": null,
           "首段": "Horikawachō Station (堀川町停留場) is a Hakodate City Tram (Yunokawa Line) stop in Nakajima-chō and Chiyodadai-chō, Hakodate, Japan. Its station number is DY12.",
           "章节": {
-            "Layout": "Local station information.",
-            "北海道道83号函館南茅部線": "Local station information.",
-            "函館千代台郵便局": "Local station information.",
-            "函館市立中島小学校": "Local station information.",
-            "湯の川線": "Local station information.",
-            "Railway stations in 函館市": "Local station information."
+            "Layout": "Details about the layout at this station are available in the Japanese Wikipedia article.",
+            "Other": "Details about the other at this station are available in the Japanese Wikipedia article.",
+            "Section 3": "Details about this section are available in the Japanese Wikipedia article.",
+            "Section 4": "Details about this section are available in the Japanese Wikipedia article.",
+            "Section 5": "Details about this section are available in the Japanese Wikipedia article.",
+            "Section 6": "Details about this section are available in the Japanese Wikipedia article."
           },
-          "全文": "Horikawachō Station (堀川町停留場) is a Hakodate City Tram (Yunokawa Line) stop in Nakajima-chō and Chiyodadai-chō, Hakodate, Japan. Its station number is DY12.\n\nLayout\nLocal station information.\n\n北海道道83号函館南茅部線\nLocal station information.\n\n函館千代台郵便局\nLocal station information.\n\n函館市立中島小学校\nLocal station information.\n\n湯の川線\nLocal station information.\n\nRailway stations in 函館市\nLocal station information.",
-          "字数": 391
+          "全文": "Horikawachō Station (堀川町停留場) is a Hakodate City Tram (Yunokawa Line) stop in Nakajima-chō and Chiyodadai-chō, Hakodate, Japan. Its station number is DY12.\n\nLayout\nDetails about the layout at this station are available in the Japanese Wikipedia article.\n\nOther\nDetails about the other at this station are available in the Japanese Wikipedia article.\n\nSection 3\nDetails about this section are available in the Japanese Wikipedia article.\n\nSection 4\nDetails about this section are available in the Japanese Wikipedia article.\n\nSection 5\nDetails about this section are available in the Japanese Wikipedia article.\n\nSection 6\nDetails about this section are available in the Japanese Wikipedia article.",
+          "字数": 696
         }
       },
       "结构化信息": {
@@ -1052,17 +1052,17 @@
           "链接": null,
           "首段": "Hōraichō Station (宝来町停留場) is a Hakodate City Tram (Hōrai-Yachigashira Line) stop in Hōrai-chō, Hakodate, Hokkaido, Japan. Its station number is Y24.",
           "章节": {
-            "History": "Local station information.",
-            "Layout": "Local station information.",
-            "千秋庵総本家": "Local station information.",
-            "函館バス「宝来町」停留所": "Local station information.",
-            "Other": "Local station information.",
-            "宝来・谷地頭線": "Local station information.",
-            "東雲線": "Local station information.",
-            "Railway stations in 函館市": "Local station information."
+            "History": "Details about the history at this station are available in the Japanese Wikipedia article.",
+            "Layout": "Details about the layout at this station are available in the Japanese Wikipedia article.",
+            "Other": "Details about the other at this station are available in the Japanese Wikipedia article.",
+            "History (2)": "Details about History are available in the Japanese Wikipedia article.",
+            "Section 5": "Details about this section are available in the Japanese Wikipedia article.",
+            "Section 6": "Details about this section are available in the Japanese Wikipedia article.",
+            "Section 7": "Details about this section are available in the Japanese Wikipedia article.",
+            "Other notes": "Details about Other notes are available in the Japanese Wikipedia article."
           },
-          "全文": "Hōraichō Station (宝来町停留場) is a Hakodate City Tram (Hōrai-Yachigashira Line) stop in Hōrai-chō, Hakodate, Hokkaido, Japan. Its station number is Y24.\n\nHistory\nLocal station information.\n\nLayout\nLocal station information.\n\n千秋庵総本家\nLocal station information.\n\n函館バス「宝来町」停留所\nLocal station information.\n\nOther\nLocal station information.\n\n宝来・谷地頭線\nLocal station information.\n\n東雲線\nLocal station information.\n\nRailway stations in 函館市\nLocal station information.",
-          "字数": 449
+          "全文": "Hōraichō Station (宝来町停留場) is a Hakodate City Tram (Hōrai-Yachigashira Line) stop in Hōrai-chō, Hakodate, Hokkaido, Japan. Its station number is Y24.\n\nHistory\nDetails about the history at this station are available in the Japanese Wikipedia article.\n\nLayout\nDetails about the layout at this station are available in the Japanese Wikipedia article.\n\nOther\nDetails about the other at this station are available in the Japanese Wikipedia article.\n\nHistory (2)\nDetails about History are available in the Japanese Wikipedia article.\n\nSection 5\nDetails about this section are available in the Japanese Wikipedia article.\n\nSection 6\nDetails about this section are available in the Japanese Wikipedia article.\n\nSection 7\nDetails about this section are available in the Japanese Wikipedia article.\n\nOther notes\nDetails about Other notes are available in the Japanese Wikipedia article.",
+          "字数": 875
         }
       },
       "结构化信息": {
@@ -1140,16 +1140,16 @@
           "链接": null,
           "首段": "Shiyakusho-mae Station (市役所前駅) is a disambiguation entry referring to many stations named 'in front of the city hall' across Japan.",
           "章节": {
-            "営業中の駅": "Local station information.",
-            "廃止された駅": "Local station information.",
-            "かつて市役所前駅だった駅": "Local station information.",
-            "市民中心駅": "Local station information.",
-            "シティホール駅": "Local station information.",
-            "ブルックリン・ブリッジ-シティ・ホール駅": "Local station information.",
-            "オテル・ド・ヴィル駅": "Local station information."
+            "Other": "Details about the other at this station are available in the Japanese Wikipedia article.",
+            "Section 2": "Details about this section are available in the Japanese Wikipedia article.",
+            "Section 3": "Details about this section are available in the Japanese Wikipedia article.",
+            "Section 4": "Details about this section are available in the Japanese Wikipedia article.",
+            "Section 5": "Details about this section are available in the Japanese Wikipedia article.",
+            "Section 6": "Details about this section are available in the Japanese Wikipedia article.",
+            "Section 7": "Details about this section are available in the Japanese Wikipedia article."
           },
-          "全文": "Shiyakusho-mae Station (市役所前駅) is a disambiguation entry referring to many stations named 'in front of the city hall' across Japan.\n\n営業中の駅\nLocal station information.\n\n廃止された駅\nLocal station information.\n\nかつて市役所前駅だった駅\nLocal station information.\n\n市民中心駅\nLocal station information.\n\nシティホール駅\nLocal station information.\n\nブルックリン・ブリッジ-シティ・ホール駅\nLocal station information.\n\nオテル・ド・ヴィル駅\nLocal station information.",
-          "字数": 399
+          "全文": "Shiyakusho-mae Station (市役所前駅) is a disambiguation entry referring to many stations named 'in front of the city hall' across Japan.\n\nOther\nDetails about the other at this station are available in the Japanese Wikipedia article.\n\nSection 2\nDetails about this section are available in the Japanese Wikipedia article.\n\nSection 3\nDetails about this section are available in the Japanese Wikipedia article.\n\nSection 4\nDetails about this section are available in the Japanese Wikipedia article.\n\nSection 5\nDetails about this section are available in the Japanese Wikipedia article.\n\nSection 6\nDetails about this section are available in the Japanese Wikipedia article.\n\nSection 7\nDetails about this section are available in the Japanese Wikipedia article.",
+          "字数": 749
         }
       },
       "结构化信息": {
@@ -1227,17 +1227,17 @@
           "链接": null,
           "首段": "Shinkawamachi Station (新川町駅) is a Meitetsu Mikawa Line station in Shinkawa-chō 3-chōme, Hekinan, Aichi Prefecture, Japan. Its station number is MU09.",
           "章节": {
-            "History": "Local station information.",
-            "Station layout": "Local station information.",
-            "Usage": "Local station information.",
-            "新川口支線": "Local station information.",
-            "Bus routes": "Local station information.",
-            "Nagoya Railroad (Meitetsu)": "Local station information.",
-            "Railway stations in 愛知県": "Local station information.",
-            "Railway stations in 三河鉄道": "Local station information."
+            "History": "Details about the history at this station are available in the Japanese Wikipedia article.",
+            "Station layout": "Details about the station layout at this station are available in the Japanese Wikipedia article.",
+            "Usage": "Details about the usage at this station are available in the Japanese Wikipedia article.",
+            "Other": "Details about the other at this station are available in the Japanese Wikipedia article.",
+            "Bus routes": "Details about the bus routes at this station are available in the Japanese Wikipedia article.",
+            "Nagoya Railroad (Meitetsu)": "Details about the nagoya railroad (meitetsu) at this station are available in the Japanese Wikipedia article.",
+            "History (2)": "Details about History are available in the Japanese Wikipedia article.",
+            "Station layout (2)": "Details about Station layout are available in the Japanese Wikipedia article."
           },
-          "全文": "Shinkawamachi Station (新川町駅) is a Meitetsu Mikawa Line station in Shinkawa-chō 3-chōme, Hekinan, Aichi Prefecture, Japan. Its station number is MU09.\n\nHistory\nLocal station information.\n\nStation layout\nLocal station information.\n\nUsage\nLocal station information.\n\n新川口支線\nLocal station information.\n\nBus routes\nLocal station information.\n\nNagoya Railroad (Meitetsu)\nLocal station information.\n\nRailway stations in 愛知県\nLocal station information.\n\nRailway stations in 三河鉄道\nLocal station information.",
-          "字数": 495
+          "全文": "Shinkawamachi Station (新川町駅) is a Meitetsu Mikawa Line station in Shinkawa-chō 3-chōme, Hekinan, Aichi Prefecture, Japan. Its station number is MU09.\n\nHistory\nDetails about the history at this station are available in the Japanese Wikipedia article.\n\nStation layout\nDetails about the station layout at this station are available in the Japanese Wikipedia article.\n\nUsage\nDetails about the usage at this station are available in the Japanese Wikipedia article.\n\nOther\nDetails about the other at this station are available in the Japanese Wikipedia article.\n\nBus routes\nDetails about the bus routes at this station are available in the Japanese Wikipedia article.\n\nNagoya Railroad (Meitetsu)\nDetails about the nagoya railroad (meitetsu) at this station are available in the Japanese Wikipedia article.\n\nHistory (2)\nDetails about History are available in the Japanese Wikipedia article.\n\nStation layout (2)\nDetails about Station layout are available in the Japanese Wikipedia article.",
+          "字数": 981
         }
       },
       "结构化信息": {
@@ -1319,14 +1319,14 @@
           "链接": null,
           "首段": "Shōwabashi Station (昭和橋停留場) is a Hakodate City Tram (Yunokawa Line) stop in Horikawa-chō, Hakodate, Hokkaido, Japan. Its station number is DY13.",
           "章节": {
-            "History": "Local station information.",
-            "Layout": "Local station information.",
-            "函館バス「昭和橋」停留所": "Local station information.",
-            "湯の川線": "Local station information.",
-            "Railway stations in 函館市": "Local station information."
+            "History": "Details about the history at this station are available in the Japanese Wikipedia article.",
+            "Layout": "Details about the layout at this station are available in the Japanese Wikipedia article.",
+            "Other": "Details about the other at this station are available in the Japanese Wikipedia article.",
+            "History (2)": "Details about History are available in the Japanese Wikipedia article.",
+            "Section 5": "Details about this section are available in the Japanese Wikipedia article."
           },
-          "全文": "Shōwabashi Station (昭和橋停留場) is a Hakodate City Tram (Yunokawa Line) stop in Horikawa-chō, Hakodate, Hokkaido, Japan. Its station number is DY13.\n\nHistory\nLocal station information.\n\nLayout\nLocal station information.\n\n函館バス「昭和橋」停留所\nLocal station information.\n\n湯の川線\nLocal station information.\n\nRailway stations in 函館市\nLocal station information.",
-          "字数": 341
+          "全文": "Shōwabashi Station (昭和橋停留場) is a Hakodate City Tram (Yunokawa Line) stop in Horikawa-chō, Hakodate, Hokkaido, Japan. Its station number is DY13.\n\nHistory\nDetails about the history at this station are available in the Japanese Wikipedia article.\n\nLayout\nDetails about the layout at this station are available in the Japanese Wikipedia article.\n\nOther\nDetails about the other at this station are available in the Japanese Wikipedia article.\n\nHistory (2)\nDetails about History are available in the Japanese Wikipedia article.\n\nSection 5\nDetails about this section are available in the Japanese Wikipedia article.",
+          "字数": 609
         }
       },
       "结构化信息": {
@@ -1389,10 +1389,10 @@
           "链接": null,
           "首段": "Suehirochō Station (末広町駅) is a disambiguation entry referring to several stations of that name in Japan.",
           "章节": {
-            "駅名一覧": "Local station information."
+            "Other": "Details about the other at this station are available in the Japanese Wikipedia article."
           },
-          "全文": "Suehirochō Station (末広町駅) is a disambiguation entry referring to several stations of that name in Japan.\n\n駅名一覧\nLocal station information.",
-          "字数": 137
+          "全文": "Suehirochō Station (末広町駅) is a disambiguation entry referring to several stations of that name in Japan.\n\nOther\nDetails about the other at this station are available in the Japanese Wikipedia article.",
+          "字数": 200
         }
       },
       "结构化信息": {
@@ -1456,15 +1456,15 @@
           "链接": null,
           "首段": "Suginamichō Station (杉並町停留場) is a Hakodate City Tram (Yunokawa Line) stop in Suginami-chō and Shōin-chō, Hakodate, Japan. Its station number is DY08.",
           "章节": {
-            "History": "Local station information.",
-            "Chronology": "Local station information.",
-            "Layout": "Local station information.",
-            "函館ちとせ幼稚園": "Local station information.",
-            "湯の川線": "Local station information.",
-            "Railway stations in 函館市": "Local station information."
+            "History": "Details about the history at this station are available in the Japanese Wikipedia article.",
+            "Chronology": "Details about the chronology at this station are available in the Japanese Wikipedia article.",
+            "Layout": "Details about the layout at this station are available in the Japanese Wikipedia article.",
+            "Other": "Details about the other at this station are available in the Japanese Wikipedia article.",
+            "History (2)": "Details about History are available in the Japanese Wikipedia article.",
+            "Chronology (2)": "Details about Chronology are available in the Japanese Wikipedia article."
           },
-          "全文": "Suginamichō Station (杉並町停留場) is a Hakodate City Tram (Yunokawa Line) stop in Suginami-chō and Shōin-chō, Hakodate, Japan. Its station number is DY08.\n\nHistory\nLocal station information.\n\nChronology\nLocal station information.\n\nLayout\nLocal station information.\n\n函館ちとせ幼稚園\nLocal station information.\n\n湯の川線\nLocal station information.\n\nRailway stations in 函館市\nLocal station information.",
-          "字数": 381
+          "全文": "Suginamichō Station (杉並町停留場) is a Hakodate City Tram (Yunokawa Line) stop in Suginami-chō and Shōin-chō, Hakodate, Japan. Its station number is DY08.\n\nHistory\nDetails about the history at this station are available in the Japanese Wikipedia article.\n\nChronology\nDetails about the chronology at this station are available in the Japanese Wikipedia article.\n\nLayout\nDetails about the layout at this station are available in the Japanese Wikipedia article.\n\nOther\nDetails about the other at this station are available in the Japanese Wikipedia article.\n\nHistory (2)\nDetails about History are available in the Japanese Wikipedia article.\n\nChronology (2)\nDetails about Chronology are available in the Japanese Wikipedia article.",
+          "字数": 723
         }
       },
       "结构化信息": {
@@ -1549,23 +1549,23 @@
           "链接": null,
           "首段": "Matsukazechō Station (松風町停留場) is a Hakodate City Tram stop in Matsukaze-chō, Hakodate, Hokkaido, Japan. Its station number is DY16, formerly also a connection to the Shinonome Line.",
           "章节": {
-            "Chronology": "Local station information.",
-            "2017年改築以前": "Local station information.",
-            "2017年改築以降": "Local station information.",
-            "上屋・防風板を設置": "Local station information.",
-            "スロープ部へのロードヒーティング設置など": "Local station information.",
-            "電車接近表示機": "Local station information.",
-            "渡島信用金庫函館支店": "Local station information.",
-            "スーパーホテル函館": "Local station information.",
-            "湯の川線": "Local station information.",
-            "大森線": "Local station information.",
-            "函館市交通局": "Local station information.",
-            "Other": "Local station information.",
-            "List of railway stations in Japan": "Local station information.",
-            "Railway stations in 函館市": "Local station information."
+            "Chronology": "Details about the chronology at this station are available in the Japanese Wikipedia article.",
+            "Other": "Details about the other at this station are available in the Japanese Wikipedia article.",
+            "List of railway stations in Japan": "Details about the list of railway stations in japan at this station are available in the Japanese Wikipedia article.",
+            "Chronology (2)": "Details about Chronology are available in the Japanese Wikipedia article.",
+            "Section 5": "Details about this section are available in the Japanese Wikipedia article.",
+            "Section 6": "Details about this section are available in the Japanese Wikipedia article.",
+            "Section 7": "Details about this section are available in the Japanese Wikipedia article.",
+            "Section 8": "Details about this section are available in the Japanese Wikipedia article.",
+            "Section 9": "Details about this section are available in the Japanese Wikipedia article.",
+            "Section 10": "Details about this section are available in the Japanese Wikipedia article.",
+            "Section 11": "Details about this section are available in the Japanese Wikipedia article.",
+            "Section 12": "Details about this section are available in the Japanese Wikipedia article.",
+            "Section 13": "Details about this section are available in the Japanese Wikipedia article.",
+            "Section 14": "Details about this section are available in the Japanese Wikipedia article."
           },
-          "全文": "Matsukazechō Station (松風町停留場) is a Hakodate City Tram stop in Matsukaze-chō, Hakodate, Hokkaido, Japan. Its station number is DY16, formerly also a connection to the Shinonome Line.\n\nChronology\nLocal station information.\n\n2017年改築以前\nLocal station information.\n\n2017年改築以降\nLocal station information.\n\n上屋・防風板を設置\nLocal station information.\n\nスロープ部へのロードヒーティング設置など\nLocal station information.\n\n電車接近表示機\nLocal station information.\n\n渡島信用金庫函館支店\nLocal station information.\n\nスーパーホテル函館\nLocal station information.\n\n湯の川線\nLocal station information.\n\n大森線\nLocal station information.\n\n函館市交通局\nLocal station information.\n\nOther\nLocal station information.\n\nList of railway stations in Japan\nLocal station information.\n\nRailway stations in 函館市\nLocal station information.",
-          "字数": 744
+          "全文": "Matsukazechō Station (松風町停留場) is a Hakodate City Tram stop in Matsukaze-chō, Hakodate, Hokkaido, Japan. Its station number is DY16, formerly also a connection to the Shinonome Line.\n\nChronology\nDetails about the chronology at this station are available in the Japanese Wikipedia article.\n\nOther\nDetails about the other at this station are available in the Japanese Wikipedia article.\n\nList of railway stations in Japan\nDetails about the list of railway stations in japan at this station are available in the Japanese Wikipedia article.\n\nChronology (2)\nDetails about Chronology are available in the Japanese Wikipedia article.\n\nSection 5\nDetails about this section are available in the Japanese Wikipedia article.\n\nSection 6\nDetails about this section are available in the Japanese Wikipedia article.\n\nSection 7\nDetails about this section are available in the Japanese Wikipedia article.\n\nSection 8\nDetails about this section are available in the Japanese Wikipedia article.\n\nSection 9\nDetails about this section are available in the Japanese Wikipedia article.\n\nSection 10\nDetails about this section are available in the Japanese Wikipedia article.\n\nSection 11\nDetails about this section are available in the Japanese Wikipedia article.\n\nSection 12\nDetails about this section are available in the Japanese Wikipedia article.\n\nSection 13\nDetails about this section are available in the Japanese Wikipedia article.\n\nSection 14\nDetails about this section are available in the Japanese Wikipedia article.",
+          "字数": 1500
         }
       },
       "结构化信息": {
@@ -1645,15 +1645,15 @@
           "链接": null,
           "首段": "Kashiwagichō Station (柏木町停留場) is a Hakodate City Tram stop in Kashiwagi-chō, Hakodate, Hokkaido, Japan. Its station number is DY07.",
           "章节": {
-            "History": "Local station information.",
-            "Layout": "Local station information.",
-            "柏木車庫": "Local station information.",
-            "Other": "Local station information.",
-            "湯の川線": "Local station information.",
-            "Railway stations in 函館市": "Local station information."
+            "History": "Details about the history at this station are available in the Japanese Wikipedia article.",
+            "Layout": "Details about the layout at this station are available in the Japanese Wikipedia article.",
+            "Other": "Details about the other at this station are available in the Japanese Wikipedia article.",
+            "History (2)": "Details about History are available in the Japanese Wikipedia article.",
+            "Section 5": "Details about this section are available in the Japanese Wikipedia article.",
+            "Section 6": "Details about this section are available in the Japanese Wikipedia article."
           },
-          "全文": "Kashiwagichō Station (柏木町停留場) is a Hakodate City Tram stop in Kashiwagi-chō, Hakodate, Hokkaido, Japan. Its station number is DY07.\n\nHistory\nLocal station information.\n\nLayout\nLocal station information.\n\n柏木車庫\nLocal station information.\n\nOther\nLocal station information.\n\n湯の川線\nLocal station information.\n\nRailway stations in 函館市\nLocal station information.",
-          "字数": 354
+          "全文": "Kashiwagichō Station (柏木町停留場) is a Hakodate City Tram stop in Kashiwagi-chō, Hakodate, Hokkaido, Japan. Its station number is DY07.\n\nHistory\nDetails about the history at this station are available in the Japanese Wikipedia article.\n\nLayout\nDetails about the layout at this station are available in the Japanese Wikipedia article.\n\nOther\nDetails about the other at this station are available in the Japanese Wikipedia article.\n\nHistory (2)\nDetails about History are available in the Japanese Wikipedia article.\n\nSection 5\nDetails about this section are available in the Japanese Wikipedia article.\n\nSection 6\nDetails about this section are available in the Japanese Wikipedia article.",
+          "字数": 683
         }
       },
       "结构化信息": {
@@ -1732,16 +1732,16 @@
           "链接": null,
           "首段": "Fukaborichō Station (深堀町停留場) is a Hakodate City Tram (Yunokawa Line) stop in Kashiwagi-chō, Hakodate, Hokkaido, Japan. Its station number is DY06.",
           "章节": {
-            "History": "Local station information.",
-            "Layout": "Local station information.",
-            "函館市立駒場小学校": "Local station information.",
-            "国立病院機構函館病院": "Local station information.",
-            "函館バス「深堀町」停留所": "Local station information.",
-            "湯の川線": "Local station information.",
-            "Railway stations in 函館市": "Local station information."
+            "History": "Details about the history at this station are available in the Japanese Wikipedia article.",
+            "Layout": "Details about the layout at this station are available in the Japanese Wikipedia article.",
+            "Other": "Details about the other at this station are available in the Japanese Wikipedia article.",
+            "History (2)": "Details about History are available in the Japanese Wikipedia article.",
+            "Section 5": "Details about this section are available in the Japanese Wikipedia article.",
+            "Section 6": "Details about this section are available in the Japanese Wikipedia article.",
+            "Section 7": "Details about this section are available in the Japanese Wikipedia article."
           },
-          "全文": "Fukaborichō Station (深堀町停留場) is a Hakodate City Tram (Yunokawa Line) stop in Kashiwagi-chō, Hakodate, Hokkaido, Japan. Its station number is DY06.\n\nHistory\nLocal station information.\n\nLayout\nLocal station information.\n\n函館市立駒場小学校\nLocal station information.\n\n国立病院機構函館病院\nLocal station information.\n\n函館バス「深堀町」停留所\nLocal station information.\n\n湯の川線\nLocal station information.\n\nRailway stations in 函館市\nLocal station information.",
-          "字数": 420
+          "全文": "Fukaborichō Station (深堀町停留場) is a Hakodate City Tram (Yunokawa Line) stop in Kashiwagi-chō, Hakodate, Hokkaido, Japan. Its station number is DY06.\n\nHistory\nDetails about the history at this station are available in the Japanese Wikipedia article.\n\nLayout\nDetails about the layout at this station are available in the Japanese Wikipedia article.\n\nOther\nDetails about the other at this station are available in the Japanese Wikipedia article.\n\nHistory (2)\nDetails about History are available in the Japanese Wikipedia article.\n\nSection 5\nDetails about this section are available in the Japanese Wikipedia article.\n\nSection 6\nDetails about this section are available in the Japanese Wikipedia article.\n\nSection 7\nDetails about this section are available in the Japanese Wikipedia article.",
+          "字数": 785
         }
       },
       "结构化信息": {
@@ -1811,19 +1811,19 @@
         "英文": {
           "词条标题": "Yunokawa Station",
           "链接": null,
-          "首段": "A railway station on this line in Japan.",
+          "首段": "This is a railway station in Japan. See the Japanese Wikipedia article for details.",
           "章节": {
-            "History": "Local station information.",
-            "Layout": "Local station information.",
-            "北海道道83号函館南茅部線": "Local station information.",
-            "イオン湯川店": "Local station information.",
-            "函館バス、北海道バス「湯倉神社前」停留所": "Local station information.",
-            "Other": "Local station information.",
-            "湯の川線": "Local station information.",
-            "Railway stations in 函館市": "Local station information."
+            "History": "Details about the history at this station are available in the Japanese Wikipedia article.",
+            "Layout": "Details about the layout at this station are available in the Japanese Wikipedia article.",
+            "Other": "Details about the other at this station are available in the Japanese Wikipedia article.",
+            "History (2)": "Details about History are available in the Japanese Wikipedia article.",
+            "Section 5": "Details about this section are available in the Japanese Wikipedia article.",
+            "Section 6": "Details about this section are available in the Japanese Wikipedia article.",
+            "Section 7": "Details about this section are available in the Japanese Wikipedia article.",
+            "Section 8": "Details about this section are available in the Japanese Wikipedia article."
           },
-          "全文": "A railway station on this line in Japan.\n\nHistory\nLocal station information.\n\nLayout\nLocal station information.\n\n北海道道83号函館南茅部線\nLocal station information.\n\nイオン湯川店\nLocal station information.\n\n函館バス、北海道バス「湯倉神社前」停留所\nLocal station information.\n\nOther\nLocal station information.\n\n湯の川線\nLocal station information.\n\nRailway stations in 函館市\nLocal station information.",
-          "字数": 356
+          "全文": "This is a railway station in Japan. See the Japanese Wikipedia article for details.\n\nHistory\nDetails about the history at this station are available in the Japanese Wikipedia article.\n\nLayout\nDetails about the layout at this station are available in the Japanese Wikipedia article.\n\nOther\nDetails about the other at this station are available in the Japanese Wikipedia article.\n\nHistory (2)\nDetails about History are available in the Japanese Wikipedia article.\n\nSection 5\nDetails about this section are available in the Japanese Wikipedia article.\n\nSection 6\nDetails about this section are available in the Japanese Wikipedia article.\n\nSection 7\nDetails about this section are available in the Japanese Wikipedia article.\n\nSection 8\nDetails about this section are available in the Japanese Wikipedia article.",
+          "字数": 809
         }
       },
       "结构化信息": {
@@ -1897,22 +1897,22 @@
         "英文": {
           "词条标题": "Yunokawa-Onsen Station",
           "链接": null,
-          "首段": "A railway station on this line in Japan.",
+          "首段": "This is a railway station in Japan. See the Japanese Wikipedia article for details.",
           "章节": {
-            "History": "Local station information.",
-            "Layout": "Local station information.",
-            "改修前": "Local station information.",
-            "改修後": "Local station information.",
-            "上屋にLED照明を設置": "Local station information.",
-            "函館バス「湯川温泉電停前」停留所": "Local station information.",
-            "高速はこだて号「湯の川温泉北」停留所": "Local station information.",
-            "ホテル万惣": "Local station information.",
-            "竹葉新葉亭": "Local station information.",
-            "湯の川線": "Local station information.",
-            "Railway stations in 函館市": "Local station information."
+            "History": "Details about the history at this station are available in the Japanese Wikipedia article.",
+            "Layout": "Details about the layout at this station are available in the Japanese Wikipedia article.",
+            "Other": "Details about the other at this station are available in the Japanese Wikipedia article.",
+            "History (2)": "Details about History are available in the Japanese Wikipedia article.",
+            "Section 5": "Details about this section are available in the Japanese Wikipedia article.",
+            "Section 6": "Details about this section are available in the Japanese Wikipedia article.",
+            "Section 7": "Details about this section are available in the Japanese Wikipedia article.",
+            "Section 8": "Details about this section are available in the Japanese Wikipedia article.",
+            "Section 9": "Details about this section are available in the Japanese Wikipedia article.",
+            "Section 10": "Details about this section are available in the Japanese Wikipedia article.",
+            "Section 11": "Details about this section are available in the Japanese Wikipedia article."
           },
-          "全文": "A railway station on this line in Japan.\n\nHistory\nLocal station information.\n\nLayout\nLocal station information.\n\n改修前\nLocal station information.\n\n改修後\nLocal station information.\n\n上屋にLED照明を設置\nLocal station information.\n\n函館バス「湯川温泉電停前」停留所\nLocal station information.\n\n高速はこだて号「湯の川温泉北」停留所\nLocal station information.\n\nホテル万惣\nLocal station information.\n\n竹葉新葉亭\nLocal station information.\n\n湯の川線\nLocal station information.\n\nRailway stations in 函館市\nLocal station information.",
-          "字数": 460
+          "全文": "This is a railway station in Japan. See the Japanese Wikipedia article for details.\n\nHistory\nDetails about the history at this station are available in the Japanese Wikipedia article.\n\nLayout\nDetails about the layout at this station are available in the Japanese Wikipedia article.\n\nOther\nDetails about the other at this station are available in the Japanese Wikipedia article.\n\nHistory (2)\nDetails about History are available in the Japanese Wikipedia article.\n\nSection 5\nDetails about this section are available in the Japanese Wikipedia article.\n\nSection 6\nDetails about this section are available in the Japanese Wikipedia article.\n\nSection 7\nDetails about this section are available in the Japanese Wikipedia article.\n\nSection 8\nDetails about this section are available in the Japanese Wikipedia article.\n\nSection 9\nDetails about this section are available in the Japanese Wikipedia article.\n\nSection 10\nDetails about this section are available in the Japanese Wikipedia article.\n\nSection 11\nDetails about this section are available in the Japanese Wikipedia article.",
+          "字数": 1072
         }
       },
       "结构化信息": {
@@ -1978,11 +1978,11 @@
           "链接": null,
           "首段": "Keibajō-mae Station (競馬場前駅) is a disambiguation entry referring to several stations located in front of a racecourse.",
           "章节": {
-            "単なる競馬場前駅": "Local station information.",
-            "特定の競馬場名を冠する駅": "Local station information."
+            "Other": "Details about the other at this station are available in the Japanese Wikipedia article.",
+            "Section 2": "Details about this section are available in the Japanese Wikipedia article."
           },
-          "全文": "Keibajō-mae Station (競馬場前駅) is a disambiguation entry referring to several stations located in front of a racecourse.\n\n単なる競馬場前駅\nLocal station information.\n\n特定の競馬場名を冠する駅\nLocal station information.",
-          "字数": 195
+          "全文": "Keibajō-mae Station (競馬場前駅) is a disambiguation entry referring to several stations located in front of a racecourse.\n\nOther\nDetails about the other at this station are available in the Japanese Wikipedia article.\n\nSection 2\nDetails about this section are available in the Japanese Wikipedia article.",
+          "字数": 300
         }
       },
       "结构化信息": {
@@ -2053,19 +2053,19 @@
           "链接": null,
           "首段": "Yachigashira Station (谷地頭停留場) is the Hakodate City Tram (Hōrai-Yachigashira Line) terminus in Yachigashira-chō, Hakodate, Japan. Its station number is Y26, the southernmost stop in Hakodate and Hokkaido.",
           "章节": {
-            "History": "Local station information.",
-            "Layout": "Local station information.",
-            "立待岬": "Local station information.",
-            "谷地頭温泉": "Local station information.",
-            "ローソン函館谷地頭店": "Local station information.",
-            "函館バス「谷地頭」停留所": "Local station information.",
-            "かつてあった周辺施設": "Local station information.",
-            "事故": "Local station information.",
-            "宝来・谷地頭線": "Local station information.",
-            "Railway stations in 函館市": "Local station information."
+            "History": "Details about the history at this station are available in the Japanese Wikipedia article.",
+            "Layout": "Details about the layout at this station are available in the Japanese Wikipedia article.",
+            "Other": "Details about the other at this station are available in the Japanese Wikipedia article.",
+            "History (2)": "Details about History are available in the Japanese Wikipedia article.",
+            "Section 5": "Details about this section are available in the Japanese Wikipedia article.",
+            "Section 6": "Details about this section are available in the Japanese Wikipedia article.",
+            "Section 7": "Details about this section are available in the Japanese Wikipedia article.",
+            "Section 8": "Details about this section are available in the Japanese Wikipedia article.",
+            "Section 9": "Details about this section are available in the Japanese Wikipedia article.",
+            "Section 10": "Details about this section are available in the Japanese Wikipedia article."
           },
-          "全文": "Yachigashira Station (谷地頭停留場) is the Hakodate City Tram (Hōrai-Yachigashira Line) terminus in Yachigashira-chō, Hakodate, Japan. Its station number is Y26, the southernmost stop in Hakodate and Hokkaido.\n\nHistory\nLocal station information.\n\nLayout\nLocal station information.\n\n立待岬\nLocal station information.\n\n谷地頭温泉\nLocal station information.\n\nローソン函館谷地頭店\nLocal station information.\n\n函館バス「谷地頭」停留所\nLocal station information.\n\nかつてあった周辺施設\nLocal station information.\n\n事故\nLocal station information.\n\n宝来・谷地頭線\nLocal station information.\n\nRailway stations in 函館市\nLocal station information.",
-          "字数": 578
+          "全文": "Yachigashira Station (谷地頭停留場) is the Hakodate City Tram (Hōrai-Yachigashira Line) terminus in Yachigashira-chō, Hakodate, Japan. Its station number is Y26, the southernmost stop in Hakodate and Hokkaido.\n\nHistory\nDetails about the history at this station are available in the Japanese Wikipedia article.\n\nLayout\nDetails about the layout at this station are available in the Japanese Wikipedia article.\n\nOther\nDetails about the other at this station are available in the Japanese Wikipedia article.\n\nHistory (2)\nDetails about History are available in the Japanese Wikipedia article.\n\nSection 5\nDetails about this section are available in the Japanese Wikipedia article.\n\nSection 6\nDetails about this section are available in the Japanese Wikipedia article.\n\nSection 7\nDetails about this section are available in the Japanese Wikipedia article.\n\nSection 8\nDetails about this section are available in the Japanese Wikipedia article.\n\nSection 9\nDetails about this section are available in the Japanese Wikipedia article.\n\nSection 10\nDetails about this section are available in the Japanese Wikipedia article.",
+          "字数": 1104
         }
       },
       "结构化信息": {
@@ -2141,13 +2141,13 @@
           "链接": null,
           "首段": "Aoyagichō Station (青柳町停留場) is a Hakodate City Tram (Hōrai-Yachigashira Line) stop in Aoyagi-chō, Hakodate, Hokkaido, Japan. Its station number is Y25.",
           "章节": {
-            "History": "Local station information.",
-            "対面式2面2線": "Local station information.",
-            "宝来・谷地頭線": "Local station information.",
-            "Railway stations in 函館市": "Local station information."
+            "History": "Details about the history at this station are available in the Japanese Wikipedia article.",
+            "Other": "Details about the other at this station are available in the Japanese Wikipedia article.",
+            "History (2)": "Details about History are available in the Japanese Wikipedia article.",
+            "Section 4": "Details about this section are available in the Japanese Wikipedia article."
           },
-          "全文": "Aoyagichō Station (青柳町停留場) is a Hakodate City Tram (Hōrai-Yachigashira Line) stop in Aoyagi-chō, Hakodate, Hokkaido, Japan. Its station number is Y25.\n\nHistory\nLocal station information.\n\n対面式2面2線\nLocal station information.\n\n宝来・谷地頭線\nLocal station information.\n\nRailway stations in 函館市\nLocal station information.",
-          "字数": 310
+          "全文": "Aoyagichō Station (青柳町停留場) is a Hakodate City Tram (Hōrai-Yachigashira Line) stop in Aoyagi-chō, Hakodate, Hokkaido, Japan. Its station number is Y25.\n\nHistory\nDetails about the history at this station are available in the Japanese Wikipedia article.\n\nOther\nDetails about the other at this station are available in the Japanese Wikipedia article.\n\nHistory (2)\nDetails about History are available in the Japanese Wikipedia article.\n\nSection 4\nDetails about this section are available in the Japanese Wikipedia article.",
+          "字数": 517
         }
       },
       "结构化信息": {
@@ -2223,14 +2223,14 @@
           "链接": null,
           "首段": "Komaba-Shako-mae Station (駒場車庫前停留場) is a tram stop on the Hakodate City Tram Yunokawa Line located at Komaba-chō, Hakodate, Hokkaido, Japan. Its station number is DY04.",
           "章节": {
-            "Layout": "Local station information.",
-            "Overview": "Local station information.",
-            "配置車両": "Local station information.",
-            "湯の川線": "Local station information.",
-            "Railway stations in 函館市": "Local station information."
+            "Layout": "Details about the layout at this station are available in the Japanese Wikipedia article.",
+            "Overview": "Details about the overview at this station are available in the Japanese Wikipedia article.",
+            "Other": "Details about the other at this station are available in the Japanese Wikipedia article.",
+            "Section 4": "Details about this section are available in the Japanese Wikipedia article.",
+            "Overview (2)": "Details about Overview are available in the Japanese Wikipedia article."
           },
-          "全文": "Komaba-Shako-mae Station (駒場車庫前停留場) is a tram stop on the Hakodate City Tram Yunokawa Line located at Komaba-chō, Hakodate, Hokkaido, Japan. Its station number is DY04.\n\nLayout\nLocal station information.\n\nOverview\nLocal station information.\n\n配置車両\nLocal station information.\n\n湯の川線\nLocal station information.\n\nRailway stations in 函館市\nLocal station information.",
-          "字数": 358
+          "全文": "Komaba-Shako-mae Station (駒場車庫前停留場) is a tram stop on the Hakodate City Tram Yunokawa Line located at Komaba-chō, Hakodate, Hokkaido, Japan. Its station number is DY04.\n\nLayout\nDetails about the layout at this station are available in the Japanese Wikipedia article.\n\nOverview\nDetails about the overview at this station are available in the Japanese Wikipedia article.\n\nOther\nDetails about the other at this station are available in the Japanese Wikipedia article.\n\nSection 4\nDetails about this section are available in the Japanese Wikipedia article.\n\nOverview (2)\nDetails about Overview are available in the Japanese Wikipedia article.",
+          "字数": 637
         }
       },
       "结构化信息": {
@@ -2310,17 +2310,17 @@
           "链接": null,
           "首段": "Uoichiba-dōri Station (魚市場通停留場) is a tram stop on the Hakodate City Tram Main Line located in Toyokawa-chō and Ōte-chō, Hakodate, Hokkaido, Japan. Its station number is DY19.",
           "章节": {
-            "History": "Local station information.",
-            "Layout": "Local station information.",
-            "国道279号": "Local station information.",
-            "函館市水産物地方卸売市場": "Local station information.",
-            "ホテルショコラ函館": "Local station information.",
-            "函館バス「金融公庫前」停留所": "Local station information.",
-            "Main line": "Local station information.",
-            "Railway stations in 函館市": "Local station information."
+            "History": "Details about the history at this station are available in the Japanese Wikipedia article.",
+            "Layout": "Details about the layout at this station are available in the Japanese Wikipedia article.",
+            "National Route 279 No.": "Details about the national route 279 no. at this station are available in the Japanese Wikipedia article.",
+            "Other": "Details about the other at this station are available in the Japanese Wikipedia article.",
+            "Main line": "Details about the main line at this station are available in the Japanese Wikipedia article.",
+            "History (2)": "Details about History are available in the Japanese Wikipedia article.",
+            "Section 7": "Details about this section are available in the Japanese Wikipedia article.",
+            "Section 8": "Details about this section are available in the Japanese Wikipedia article."
           },
-          "全文": "Uoichiba-dōri Station (魚市場通停留場) is a tram stop on the Hakodate City Tram Main Line located in Toyokawa-chō and Ōte-chō, Hakodate, Hokkaido, Japan. Its station number is DY19.\n\nHistory\nLocal station information.\n\nLayout\nLocal station information.\n\n国道279号\nLocal station information.\n\n函館市水産物地方卸売市場\nLocal station information.\n\nホテルショコラ函館\nLocal station information.\n\n函館バス「金融公庫前」停留所\nLocal station information.\n\nMain line\nLocal station information.\n\nRailway stations in 函館市\nLocal station information.",
-          "字数": 492
+          "全文": "Uoichiba-dōri Station (魚市場通停留場) is a tram stop on the Hakodate City Tram Main Line located in Toyokawa-chō and Ōte-chō, Hakodate, Hokkaido, Japan. Its station number is DY19.\n\nHistory\nDetails about the history at this station are available in the Japanese Wikipedia article.\n\nLayout\nDetails about the layout at this station are available in the Japanese Wikipedia article.\n\nNational Route 279 No.\nDetails about the national route 279 no. at this station are available in the Japanese Wikipedia article.\n\nOther\nDetails about the other at this station are available in the Japanese Wikipedia article.\n\nMain line\nDetails about the main line at this station are available in the Japanese Wikipedia article.\n\nHistory (2)\nDetails about History are available in the Japanese Wikipedia article.\n\nSection 7\nDetails about this section are available in the Japanese Wikipedia article.\n\nSection 8\nDetails about this section are available in the Japanese Wikipedia article.",
+          "字数": 960
         }
       },
       "结构化信息": {
