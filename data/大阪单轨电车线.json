@@ -39,7 +39,29 @@
       "中文": {
         "来源": "⚠️ 暂未汉化"
       },
-      "英文": null
+      "英文": {
+        "词条标题": "Osaka Monorail",
+        "链接": null,
+        "首段": "The Osaka Monorail (大阪モノレール) is a straddle-beam monorail system operated by Osaka Monorail Co., Ltd., a third-sector company funded by Osaka Prefecture, consisting of the Main Line and the Saito Line, connecting suburbs of northern Osaka Prefecture, Japan.",
+        "章节": {
+          "事業の経緯": "",
+          "Chronology": "",
+          "路線": "",
+          "Rolling stock": "",
+          "運賃": "",
+          "第二種身体障害者手帳所有者が利用する場合": "",
+          "駅内設備": "",
+          "彩都西駅": "",
+          "モノレール文庫": "",
+          "テレワーキングボックス": "",
+          "Usage": "",
+          "民営化論議": "",
+          "空港連絡鉄道": "",
+          "大阪モノレール公式サイト": ""
+        },
+        "全文": "The Osaka Monorail (大阪モノレール) is a straddle-beam monorail system operated by Osaka Monorail Co., Ltd., a third-sector company funded by Osaka Prefecture, consisting of the Main Line and the Saito Line, connecting suburbs of northern Osaka Prefecture, Japan.\n\n事業の経緯\n\n\nChronology\n\n\n路線\n\n\nRolling stock\n\n\n運賃\n\n\n第二種身体障害者手帳所有者が利用する場合\n\n\n駅内設備\n\n\n彩都西駅\n\n\nモノレール文庫\n\n\nテレワーキングボックス\n\n\nUsage\n\n\n民営化論議\n\n\n空港連絡鉄道\n\n\n大阪モノレール公式サイト\n",
+        "字数": 404
+      }
     }
   },
   "车站": [
@@ -69,7 +91,14 @@
           "全文": "大阪单轨电车线车站。\n\n概要\n大阪单轨电车线沿线车站。",
           "字数": 27
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Banpaku-Kinen-Kōen Station",
+          "链接": null,
+          "首段": "Banpaku-Kinen-Kōen Station (万博記念公園駅) is a disambiguation entry; in this file it refers to the Osaka Monorail station near Expo Commemoration Park in Suita, Osaka Prefecture, Japan.",
+          "章节": {},
+          "全文": "Banpaku-Kinen-Kōen Station (万博記念公園駅) is a disambiguation entry; in this file it refers to the Osaka Monorail station near Expo Commemoration Park in Suita, Osaka Prefecture, Japan.",
+          "字数": 180
+        }
       },
       "结构化信息": {
         "读音": "ばんぱくきねんこうえんえき",
@@ -156,7 +185,45 @@
           "字数": 2319,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Senri-Chūō Station",
+          "链接": null,
+          "首段": "Senri-Chūō Station (千里中央駅) is an interchange in Shin-Senri-Higashi 1-chōme, Toyonaka, Osaka, Japan, served by the Kita-Osaka Kyūketsu Namboku Line and the Osaka Monorail Main Line.",
+          "章节": {
+            "北大阪急行電鉄": "",
+            "大阪モノレール": "",
+            "History": "",
+            "Chronology": "",
+            "駅メロディ": "",
+            "仮設駅": "",
+            "Usage": "",
+            "Surrounding area": "",
+            "立地": "",
+            "主な施設一覧": "",
+            "千里大丸プラザ": "",
+            "ザ・千里タワー": "",
+            "SENRITOよみうり": "",
+            "関西メディカル病院": "",
+            "富山行": "",
+            "新宿・渋谷・池袋行": "",
+            "豊中市内線": "",
+            "千里ニュータウン線": "",
+            "Platform 5": "",
+            "小野原東線": "",
+            "阪大病院線": "",
+            "茨木美穂ヶ丘線": "",
+            "箕面中央線": "",
+            "吹田市内線": "",
+            "メゾン千里丘線": "",
+            "白島線": "",
+            "北大阪急行南北線・南北線延伸線": "",
+            "Main line": "",
+            "Railway stations in 豊中市": "",
+            "Railway stations in 1970年開業": ""
+          },
+          "全文": "Senri-Chūō Station (千里中央駅) is an interchange in Shin-Senri-Higashi 1-chōme, Toyonaka, Osaka, Japan, served by the Kita-Osaka Kyūketsu Namboku Line and the Osaka Monorail Main Line.\n\n北大阪急行電鉄\n\n\n大阪モノレール\n\n\nHistory\n\n\nChronology\n\n\n駅メロディ\n\n\n仮設駅\n\n\nUsage\n\n\nSurrounding area\n\n\n立地\n\n\n主な施設一覧\n\n\n千里大丸プラザ\n\n\nザ・千里タワー\n\n\nSENRITOよみうり\n\n\n関西メディカル病院\n\n\n富山行\n\n\n新宿・渋谷・池袋行\n\n\n豊中市内線\n\n\n千里ニュータウン線\n\n\nPlatform 5\n\n\n小野原東線\n\n\n阪大病院線\n\n\n茨木美穂ヶ丘線\n\n\n箕面中央線\n\n\n吹田市内線\n\n\nメゾン千里丘線\n\n\n白島線\n\n\n北大阪急行南北線・南北線延伸線\n\n\nMain line\n\n\nRailway stations in 豊中市\n\n\nRailway stations in 1970年開業\n",
+          "字数": 519
+        }
       },
       "结构化信息": {
         "读音": "せんりちゅうおうえき",
@@ -241,7 +308,31 @@
           "全文": "大阪单轨电车线车站。\n\n概要\n大阪单轨电车线沿线车站。",
           "字数": 27
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Minami-Settsu Station",
+          "链接": null,
+          "首段": "Minami-Settsu Station (南摂津駅) is an Osaka Monorail Main Line station located in Higashi-Ichitsuya, Settsu, Osaka Prefecture, Japan. Its station number is 22.",
+          "章节": {
+            "History": "",
+            "Station layout": "",
+            "Usage": "",
+            "Surrounding area": "",
+            "大阪中央環状線東側": "",
+            "新幹線鳥飼車両基地": "",
+            "大阪中央環状線西側": "",
+            "味生神社": "",
+            "近鉄バス鳥飼営業所": "",
+            "淀川北岸": "",
+            "Other": "",
+            "近鉄バス": "",
+            "阪急バス": "",
+            "Main line": "",
+            "Railway stations in 大阪府": "",
+            "Railway stations in 1997年開業": ""
+          },
+          "全文": "Minami-Settsu Station (南摂津駅) is an Osaka Monorail Main Line station located in Higashi-Ichitsuya, Settsu, Osaka Prefecture, Japan. Its station number is 22.\n\nHistory\n\n\nStation layout\n\n\nUsage\n\n\nSurrounding area\n\n\n大阪中央環状線東側\n\n\n新幹線鳥飼車両基地\n\n\n大阪中央環状線西側\n\n\n味生神社\n\n\n近鉄バス鳥飼営業所\n\n\n淀川北岸\n\n\nOther\n\n\n近鉄バス\n\n\n阪急バス\n\n\nMain line\n\n\nRailway stations in 大阪府\n\n\nRailway stations in 1997年開業\n",
+          "字数": 362
+        }
       },
       "结构化信息": {
         "读音": "みなみせっつえき",
@@ -326,7 +417,27 @@
           "字数": 1204,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Minami-Ibaraki Station",
+          "链接": null,
+          "首段": "Minami-Ibaraki Station (南茨木駅) is an interchange in Ibaraki, Osaka Prefecture, Japan, served by the Hankyū Kyoto Main Line (HK-68) and the Osaka Monorail (19).",
+          "章节": {
+            "Overview": "",
+            "History": "",
+            "阪急電鉄": "",
+            "大阪モノレール": "",
+            "Station layout": "",
+            "Surrounding area": "",
+            "素戔嗚尊神社": "",
+            "Bus routes": "",
+            "急行・準急": "",
+            "Local": "",
+            "Main line": "",
+            "Railway stations in 茨木市": ""
+          },
+          "全文": "Minami-Ibaraki Station (南茨木駅) is an interchange in Ibaraki, Osaka Prefecture, Japan, served by the Hankyū Kyoto Main Line (HK-68) and the Osaka Monorail (19).\n\nOverview\n\n\nHistory\n\n\n阪急電鉄\n\n\n大阪モノレール\n\n\nStation layout\n\n\nSurrounding area\n\n\n素戔嗚尊神社\n\n\nBus routes\n\n\n急行・準急\n\n\nLocal\n\n\nMain line\n\n\nRailway stations in 茨木市\n",
+          "字数": 308
+        }
       },
       "结构化信息": {
         "读音": "みなみいばらきえき",
@@ -430,13 +541,32 @@
           "链接": "https://en.wikipedia.org/wiki/Dainichi%20Station",
           "首段": "is a metro station located in the city of Moriguchi, Osaka, Japan. It consists of the underground station operated by Osaka Metro and the elevated above-ground station operated by the Osaka Monorail,",
           "章节": {
+            "History": "8 February 1983: the Tanimachi Line subway station opened.\n 22 August 1997: Osaka Monorail Main Line opened.\n 12 April 2004: Dainichi station reopens on the former site of the Sanyo Factory\n 21 September 21, 2006: New 2nd floor ticket window is added\n\nPassenger statistics\nIn fiscal 2019, the Osaka Metro station was used by an average of 33,719 passengers daily and the Osaka Monorail station by 5,242 passengers daily.\n\nSurrounding area\nÆON Mall Dainichi\nÆON Dainichi\nÆON Cinema Dainichi\nPanasonic Corporation\nOsaka Municipal Transportation Bureau Dainichi Inspection Depot\nJapan National Route 1 (Chuo Kanjosen)\nKinki Expressway\nOsaka Prefectural Route 13: Kyoto Moriguchi Route\n\nSee also\nList of railway stations in Japan",
+            "Station layout": "",
+            "Notes": "",
+            "大阪モノレール": "",
+            "Usage": "",
+            "Surrounding area": "",
+            "大日駅前広場": "",
+            "イオンシネマ大日": "",
+            "パナソニック本社": "",
+            "阪神高速12号守口線": "",
+            "Highway / route buses": "",
+            "大日駅前広場0番のりば": "",
+            "大日駅前広場1番のりば": "",
+            "大日駅前広場2番のりば": "",
+            "地下鉄大日南口停留所": "",
+            "Adjacent stations": "",
+            "谷町線": "",
+            "Main line": "",
+            "Railway stations in 大阪府": "",
+            "Railway stations in 1983年開業": "",
             "Lines": "Dainichi Station is a terminus of the underground Tanimachi Line, and is located 28.1 km from the opposing terminus of the line at Yaominami Station. The elevated Osaka Monorail Main Line is 19.9 kilometers from Osaka Airport Station.\n\nStation layout\nThe station has one underground island platform serving two tracks and fenced with platform gates. The monorail station also has an island platform with platform gates.",
             "B3F": "Station building layout\n\nAdjacent stations",
-            "History": "8 February 1983: the Tanimachi Line subway station opened.\n 22 August 1997: Osaka Monorail Main Line opened.\n 12 April 2004: Dainichi station reopens on the former site of the Sanyo Factory\n 21 September 21, 2006: New 2nd floor ticket window is added\n\nPassenger statistics\nIn fiscal 2019, the Osaka Metro station was used by an average of 33,719 passengers daily and the Osaka Monorail station by 5,242 passengers daily.\n\nSurrounding area\nÆON Mall Dainichi\nÆON Dainichi\nÆON Cinema Dainichi\nPanasonic Corporation\nOsaka Municipal Transportation Bureau Dainichi Inspection Depot\nJapan National Route 1 (Chuo Kanjosen)\nKinki Expressway\nOsaka Prefectural Route 13: Kyoto Moriguchi Route\n\nSee also\nList of railway stations in Japan",
             "References": "External links\n\n Official Site - Tanimachi Line \n Official Site - Tanimachi Line \n\nOsaka Metro stations\nRailway stations in Japan opened in 1983\nRailway stations in Japan opened in 1997\nMoriguchi, Osaka"
           },
-          "全文": "is a metro station located in the city of Moriguchi, Osaka, Japan. It consists of the underground station operated by Osaka Metro and the elevated above-ground station operated by the Osaka Monorail,\n\nLines\nDainichi Station is a terminus of the underground Tanimachi Line, and is located 28.1 km from the opposing terminus of the line at Yaominami Station. The elevated Osaka Monorail Main Line is 19.9 kilometers from Osaka Airport Station.\n\nStation layout\nThe station has one underground island platform serving two tracks and fenced with platform gates. The monorail station also has an island platform with platform gates.\n\nPlatforms\n3F\n\nB3F\n\nStation building layout\n\nAdjacent stations\n\nHistory\n 8 February 1983: the Tanimachi Line subway station opened.\n 22 August 1997: Osaka Monorail Main Line opened.\n 12 April 2004: Dainichi station reopens on the former site of the Sanyo Factory\n 21 September 21, 2006: New 2nd floor ticket window is added\n\nPassenger statistics\nIn fiscal 2019, the Osaka Metro station was used by an average of 33,719 passengers daily and the Osaka Monorail station by 5,242 passengers daily.\n\nSurrounding area\nÆON Mall Dainichi\nÆON Dainichi\nÆON Cinema Dainichi\nPanasonic Corporation\nOsaka Municipal Transportation Bureau Dainichi Inspection Depot\nJapan National Route 1 (Chuo Kanjosen)\nKinki Expressway\nOsaka Prefectural Route 13: Kyoto Moriguchi Route\n\nSee also\nList of railway stations in Japan\n\nReferences\n\nExternal links\n\n Official Site - Tanimachi Line \n Official Site - Tanimachi Line \n\nOsaka Metro stations\nRailway stations in Japan opened in 1983\nRailway stations in Japan opened in 1997\nMoriguchi, Osaka",
-          "字数": 1641
+          "全文": "is a metro station located in the city of Moriguchi, Osaka, Japan. It consists of the underground station operated by Osaka Metro and the elevated above-ground station operated by the Osaka Monorail,\n\nHistory\n8 February 1983: the Tanimachi Line subway station opened.\n 22 August 1997: Osaka Monorail Main Line opened.\n 12 April 2004: Dainichi station reopens on the former site of the Sanyo Factory\n 21 September 21, 2006: New 2nd floor ticket window is added\n\nPassenger statistics\nIn fiscal 2019, the Osaka Metro station was used by an average of 33,719 passengers daily and the Osaka Monorail station by 5,242 passengers daily.\n\nSurrounding area\nÆON Mall Dainichi\nÆON Dainichi\nÆON Cinema Dainichi\nPanasonic Corporation\nOsaka Municipal Transportation Bureau Dainichi Inspection Depot\nJapan National Route 1 (Chuo Kanjosen)\nKinki Expressway\nOsaka Prefectural Route 13: Kyoto Moriguchi Route\n\nSee also\nList of railway stations in Japan\n\nStation layout\n\n\nNotes\n\n\n大阪モノレール\n\n\nUsage\n\n\nSurrounding area\n\n\n大日駅前広場\n\n\nイオンシネマ大日\n\n\nパナソニック本社\n\n\n阪神高速12号守口線\n\n\nHighway / route buses\n\n\n大日駅前広場0番のりば\n\n\n大日駅前広場1番のりば\n\n\n大日駅前広場2番のりば\n\n\n地下鉄大日南口停留所\n\n\nAdjacent stations\n\n\n谷町線\n\n\nMain line\n\n\nRailway stations in 大阪府\n\n\nRailway stations in 1983年開業\n\n\nLines\nDainichi Station is a terminus of the underground Tanimachi Line, and is located 28.1 km from the opposing terminus of the line at Yaominami Station. The elevated Osaka Monorail Main Line is 19.9 kilometers from Osaka Airport Station.\n\nStation layout\nThe station has one underground island platform serving two tracks and fenced with platform gates. The monorail station also has an island platform with platform gates.\n\nB3F\nStation building layout\n\nAdjacent stations\n\nReferences\nExternal links\n\n Official Site - Tanimachi Line \n Official Site - Tanimachi Line \n\nOsaka Metro stations\nRailway stations in Japan opened in 1983\nRailway stations in Japan opened in 1997\nMoriguchi, Osaka",
+          "字数": 1903
         }
       },
       "结构化信息": {
@@ -518,7 +648,23 @@
           "全文": "大阪单轨电车线车站。\n\n概要\n大阪单轨电车线沿线车站。",
           "字数": 27
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Osaka Airport Station",
+          "链接": null,
+          "首段": "Osaka Airport Station (大阪空港駅) is an Osaka Monorail Main Line station connected directly to the terminal building of Osaka International Airport (Itami Airport), located in Hotarikei-Nishimachi, Toyonaka, Osaka Prefecture, Japan. Its station number is 11.",
+          "章节": {
+            "History": "",
+            "Station layout": "",
+            "Usage": "",
+            "Surrounding area": "",
+            "貨物ビル": "",
+            "Main line": "",
+            "Railway stations in 豊中市": "",
+            "Railway stations in 1997年開業": ""
+          },
+          "全文": "Osaka Airport Station (大阪空港駅) is an Osaka Monorail Main Line station connected directly to the terminal building of Osaka International Airport (Itami Airport), located in Hotarikei-Nishimachi, Toyonaka, Osaka Prefecture, Japan. Its station number is 11.\n\nHistory\n\n\nStation layout\n\n\nUsage\n\n\nSurrounding area\n\n\n貨物ビル\n\n\nMain line\n\n\nRailway stations in 豊中市\n\n\nRailway stations in 1997年開業\n",
+          "字数": 383
+        }
       },
       "结构化信息": {
         "读音": "おおさかくうこうえき",
@@ -602,12 +748,24 @@
           "链接": "https://en.wikipedia.org/wiki/Unobe%20Station",
           "首段": "is a monorail station on the Osaka Monorail located in Ibaraki, Osaka, Japan.",
           "章节": {
+            "History": "The original name of the station, Ibaraki, was the same as the city's main JR train station although there was no direct connection between the JR station and the monorail station. This caused confusion among passengers and finally the monorail station was renamed.\n\n June 1, 1990: station opened as Ibaraki Station (茨木駅)\n April 1, 1997: renamed as Unobe Station\n\nAdjacent stations\n\nIbaraki, Osaka\nOsaka Monorail stations\nRailway stations in Japan opened in 1990",
+            "Station layout": "There is an island platform and two tracks elevated. The platform is sealed in with glass walls and doors.",
+            "Usage": "",
+            "Surrounding area": "",
+            "イオンモール茨木": "",
+            "茨木市立穂積図書館": "",
+            "立命館いばらきフューチャープラザ": "",
+            "駅南側": "",
+            "大阪府立吹田東高等学校": "",
+            "モノレール宇野辺停留所": "",
+            "阪急バス": "",
+            "Main line": "",
+            "Railway stations in 茨木市": "",
             "Lines": "Osaka Monorail Main Line (Station Number: 18)",
-            "Layout": "There is an island platform and two tracks elevated. The platform is sealed in with glass walls and doors.",
-            "History": "The original name of the station, Ibaraki, was the same as the city's main JR train station although there was no direct connection between the JR station and the monorail station. This caused confusion among passengers and finally the monorail station was renamed.\n\n June 1, 1990: station opened as Ibaraki Station (茨木駅)\n April 1, 1997: renamed as Unobe Station\n\nAdjacent stations\n\nIbaraki, Osaka\nOsaka Monorail stations\nRailway stations in Japan opened in 1990"
+            "Layout": "There is an island platform and two tracks elevated. The platform is sealed in with glass walls and doors."
           },
-          "全文": "is a monorail station on the Osaka Monorail located in Ibaraki, Osaka, Japan.\n\nLines\nOsaka Monorail Main Line (Station Number: 18)\n\nLayout\nThere is an island platform and two tracks elevated. The platform is sealed in with glass walls and doors.\n\nHistory \nThe original name of the station, Ibaraki, was the same as the city's main JR train station although there was no direct connection between the JR station and the monorail station. This caused confusion among passengers and finally the monorail station was renamed.\n\n June 1, 1990: station opened as Ibaraki Station (茨木駅)\n April 1, 1997: renamed as Unobe Station\n\nAdjacent stations\n\nIbaraki, Osaka\nOsaka Monorail stations\nRailway stations in Japan opened in 1990",
-          "字数": 718
+          "全文": "is a monorail station on the Osaka Monorail located in Ibaraki, Osaka, Japan.\n\nHistory\nThe original name of the station, Ibaraki, was the same as the city's main JR train station although there was no direct connection between the JR station and the monorail station. This caused confusion among passengers and finally the monorail station was renamed.\n\n June 1, 1990: station opened as Ibaraki Station (茨木駅)\n April 1, 1997: renamed as Unobe Station\n\nAdjacent stations\n\nIbaraki, Osaka\nOsaka Monorail stations\nRailway stations in Japan opened in 1990\n\nStation layout\nThere is an island platform and two tracks elevated. The platform is sealed in with glass walls and doors.\n\nUsage\n\n\nSurrounding area\n\n\nイオンモール茨木\n\n\n茨木市立穂積図書館\n\n\n立命館いばらきフューチャープラザ\n\n\n駅南側\n\n\n大阪府立吹田東高等学校\n\n\nモノレール宇野辺停留所\n\n\n阪急バス\n\n\nMain line\n\n\nRailway stations in 茨木市\n\n\nLines\nOsaka Monorail Main Line (Station Number: 18)\n\nLayout\nThere is an island platform and two tracks elevated. The platform is sealed in with glass walls and doors.",
+          "字数": 988
         }
       },
       "结构化信息": {
@@ -683,7 +841,24 @@
           "字数": 502,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Shōji Station",
+          "链接": null,
+          "首段": "Shōji Station (少路駅) is an Osaka Monorail Main Line station located in Shōji, Toyonaka, Osaka Prefecture, Japan. Its station number is 14.",
+          "章节": {
+            "History": "",
+            "Chronology": "",
+            "Station layout": "",
+            "Usage": "",
+            "Surrounding area": "",
+            "大阪府道2号大阪中央環状線": "",
+            "豊中敬仁会病院": "",
+            "Main line": "",
+            "Railway stations in 豊中市": ""
+          },
+          "全文": "Shōji Station (少路駅) is an Osaka Monorail Main Line station located in Shōji, Toyonaka, Osaka Prefecture, Japan. Its station number is 14.\n\nHistory\n\n\nChronology\n\n\nStation layout\n\n\nUsage\n\n\nSurrounding area\n\n\n大阪府道2号大阪中央環状線\n\n\n豊中敬仁会病院\n\n\nMain line\n\n\nRailway stations in 豊中市\n",
+          "字数": 268
+        }
       },
       "结构化信息": {
         "读音": "しょうじえき",
@@ -816,13 +991,25 @@
           "链接": "https://en.wikipedia.org/wiki/Settsu%20Station",
           "首段": "is a monorail station on the Osaka Monorail located in Settsu, Osaka, Japan.",
           "章节": {
+            "History": "Settsu Station opened on 22 August 1997 when the Osaka Monorail Main Line was extended from Minami Ibaraki to Kadoma-shi.\n\nAdjacent stations",
+            "Station layout": "There is an island platform and two tracks elevated. The platform is sealed in with glass walls and doors.",
+            "Usage": "",
+            "Surrounding area": "",
+            "摂津市水道部": "",
+            "星翔高等学校": "",
+            "シオノギファーマ本社": "",
+            "大阪府摂津警察署": "",
+            "新幹線鳥飼車両基地": "",
+            "新幹線公園": "",
+            "Main line": "",
+            "Railway stations in 大阪府": "",
+            "Railway stations in 1997年開業": "",
             "Lines": "Osaka Monorail Main Line (Station Number: 21)",
             "Layout": "There is an island platform and two tracks elevated. The platform is sealed in with glass walls and doors.",
-            "History": "Settsu Station opened on 22 August 1997 when the Osaka Monorail Main Line was extended from Minami Ibaraki to Kadoma-shi.\n\nAdjacent stations",
             "References": "Osaka Monorail stations\nRailway stations in Japan opened in 1997\nRailway stations in Osaka Prefecture\nSettsu, Osaka"
           },
-          "全文": "is a monorail station on the Osaka Monorail located in Settsu, Osaka, Japan.\n\nLines\nOsaka Monorail Main Line (Station Number: 21)\n\nLayout\nThere is an island platform and two tracks elevated. The platform is sealed in with glass walls and doors.\n\nHistory \nSettsu Station opened on 22 August 1997 when the Osaka Monorail Main Line was extended from Minami Ibaraki to Kadoma-shi.\n\nAdjacent stations\n\nReferences \n\nOsaka Monorail stations\nRailway stations in Japan opened in 1997\nRailway stations in Osaka Prefecture\nSettsu, Osaka",
-          "字数": 525
+          "全文": "is a monorail station on the Osaka Monorail located in Settsu, Osaka, Japan.\n\nHistory\nSettsu Station opened on 22 August 1997 when the Osaka Monorail Main Line was extended from Minami Ibaraki to Kadoma-shi.\n\nAdjacent stations\n\nStation layout\nThere is an island platform and two tracks elevated. The platform is sealed in with glass walls and doors.\n\nUsage\n\n\nSurrounding area\n\n\n摂津市水道部\n\n\n星翔高等学校\n\n\nシオノギファーマ本社\n\n\n大阪府摂津警察署\n\n\n新幹線鳥飼車両基地\n\n\n新幹線公園\n\n\nMain line\n\n\nRailway stations in 大阪府\n\n\nRailway stations in 1997年開業\n\n\nLines\nOsaka Monorail Main Line (Station Number: 21)\n\nLayout\nThere is an island platform and two tracks elevated. The platform is sealed in with glass walls and doors.\n\nReferences\nOsaka Monorail stations\nRailway stations in Japan opened in 1997\nRailway stations in Osaka Prefecture\nSettsu, Osaka",
+          "字数": 802
         }
       },
       "结构化信息": {
@@ -904,7 +1091,24 @@
           "字数": 569,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Shibahara-Handai-mae Station",
+          "链接": null,
+          "首段": "Shibahara-Handai-mae Station (柴原阪大前駅) is an Osaka Monorail Main Line station located in Shibahara-chō, Toyonaka, Osaka Prefecture, Japan. Its station number is 13.",
+          "章节": {
+            "History": "",
+            "Station layout": "",
+            "Usage": "",
+            "Surrounding area": "",
+            "1のりば": "",
+            "48系統（豊中市内線）北緑丘団地行": "",
+            "柴原駅前停留所": "",
+            "Main line": "",
+            "Railway stations in 豊中市": ""
+          },
+          "全文": "Shibahara-Handai-mae Station (柴原阪大前駅) is an Osaka Monorail Main Line station located in Shibahara-chō, Toyonaka, Osaka Prefecture, Japan. Its station number is 13.\n\nHistory\n\n\nStation layout\n\n\nUsage\n\n\nSurrounding area\n\n\n1のりば\n\n\n48系統（豊中市内線）北緑丘団地行\n\n\n柴原駅前停留所\n\n\nMain line\n\n\nRailway stations in 豊中市\n",
+          "字数": 292
+        }
       },
       "结构化信息": {
         "读音": "しばはらはんだいまええき",
@@ -986,13 +1190,20 @@
           "链接": "https://en.wikipedia.org/wiki/Sawaragi%20Station",
           "首段": "is a monorail station on the Osaka Monorail located in Ibaraki, Osaka, Japan.",
           "章节": {
+            "History": "Sawaragi Station opened on 22 August 1997 when the Osaka Monorail Main Line was extended from Minami Ibaraki to Kadoma-shi.\n\nAdjacent stations",
+            "Station layout": "There is an island platform and two tracks elevated. The platform is sealed in with glass walls and doors.",
+            "Usage": "",
+            "Surrounding area": "",
+            "嘉円公園": "",
+            "近鉄バス": "",
+            "Main line": "",
+            "Railway stations in 茨木市": "",
             "Lines": "Osaka Monorail Main Line (Station Number: 20)",
             "Layout": "There is an island platform and two tracks elevated. The platform is sealed in with glass walls and doors.",
-            "History": "Sawaragi Station opened on 22 August 1997 when the Osaka Monorail Main Line was extended from Minami Ibaraki to Kadoma-shi.\n\nAdjacent stations",
             "References": "Ibaraki, Osaka\nOsaka Monorail stations\nRailway stations in Japan opened in 1997"
           },
-          "全文": "is a monorail station on the Osaka Monorail located in Ibaraki, Osaka, Japan.\n\nLines\nOsaka Monorail Main Line (Station Number: 20)\n\nLayout\nThere is an island platform and two tracks elevated. The platform is sealed in with glass walls and doors.\n\nHistory \nSawaragi Station opened on 22 August 1997 when the Osaka Monorail Main Line was extended from Minami Ibaraki to Kadoma-shi.\n\nAdjacent stations\n\nReferences \n\nIbaraki, Osaka\nOsaka Monorail stations\nRailway stations in Japan opened in 1997",
-          "字数": 492
+          "全文": "is a monorail station on the Osaka Monorail located in Ibaraki, Osaka, Japan.\n\nHistory\nSawaragi Station opened on 22 August 1997 when the Osaka Monorail Main Line was extended from Minami Ibaraki to Kadoma-shi.\n\nAdjacent stations\n\nStation layout\nThere is an island platform and two tracks elevated. The platform is sealed in with glass walls and doors.\n\nUsage\n\n\nSurrounding area\n\n\n嘉円公園\n\n\n近鉄バス\n\n\nMain line\n\n\nRailway stations in 茨木市\n\n\nLines\nOsaka Monorail Main Line (Station Number: 20)\n\nLayout\nThere is an island platform and two tracks elevated. The platform is sealed in with glass walls and doors.\n\nReferences\nIbaraki, Osaka\nOsaka Monorail stations\nRailway stations in Japan opened in 1997",
+          "字数": 691
         }
       },
       "结构化信息": {
@@ -1074,7 +1285,28 @@
           "字数": 1509,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Hotarugaike Station",
+          "链接": null,
+          "首段": "Hotarugaike Station (蛍池駅) is an interchange in Toyonaka, Osaka, Japan, served by the Hankyū Takarazuka Main Line (HK-47) and the Osaka Monorail (12).",
+          "章节": {
+            "Overview": "",
+            "History": "",
+            "Chronology": "",
+            "阪急電鉄": "",
+            "大阪モノレール": "",
+            "Surrounding area": "",
+            "豊中市蛍池公民館": "",
+            "大阪医療看護専門学校": "",
+            "駅前ターミナル3番のりば": "",
+            "駅前ターミナル2番のりば": "",
+            "急行・準急（大阪梅田行きのみ）・普通": "",
+            "Main line": "",
+            "Railway stations in 豊中市": ""
+          },
+          "全文": "Hotarugaike Station (蛍池駅) is an interchange in Toyonaka, Osaka, Japan, served by the Hankyū Takarazuka Main Line (HK-47) and the Osaka Monorail (12).\n\nOverview\n\n\nHistory\n\n\nChronology\n\n\n阪急電鉄\n\n\n大阪モノレール\n\n\nSurrounding area\n\n\n豊中市蛍池公民館\n\n\n大阪医療看護専門学校\n\n\n駅前ターミナル3番のりば\n\n\n駅前ターミナル2番のりば\n\n\n急行・準急（大阪梅田行きのみ）・普通\n\n\nMain line\n\n\nRailway stations in 豊中市\n",
+          "字数": 332
+        }
       },
       "结构化信息": {
         "读音": "ほたるがいけえき",
@@ -1164,7 +1396,27 @@
           "字数": 806,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Kadoma-shi Station",
+          "链接": null,
+          "首段": "Kadoma-shi Station (門真市駅) is an interchange in Kadoma, Osaka Prefecture, Japan, served by the Keihan Main Line (KH13) and the Osaka Monorail (24).",
+          "章节": {
+            "京阪電気鉄道": "",
+            "大阪モノレール": "",
+            "History": "",
+            "Chronology": "",
+            "Usage": "",
+            "パナソニック門真地区事業場": "",
+            "Bus routes": "",
+            "京阪本線": "",
+            "区間急行・普通": "",
+            "Main line": "",
+            "Railway stations in 大阪府": "",
+            "Railway stations in 1971年開業": ""
+          },
+          "全文": "Kadoma-shi Station (門真市駅) is an interchange in Kadoma, Osaka Prefecture, Japan, served by the Keihan Main Line (KH13) and the Osaka Monorail (24).\n\n京阪電気鉄道\n\n\n大阪モノレール\n\n\nHistory\n\n\nChronology\n\n\nUsage\n\n\nパナソニック門真地区事業場\n\n\nBus routes\n\n\n京阪本線\n\n\n区間急行・普通\n\n\nMain line\n\n\nRailway stations in 大阪府\n\n\nRailway stations in 1971年開業\n",
+          "字数": 310
+        }
       },
       "结构化信息": {
         "读音": "かどましえき",
@@ -1223,6 +1475,6 @@
     "有中文词条": 14,
     "已千问汉化": 0,
     "待汉化": 0,
-    "有英文词条": 5
+    "有英文词条": 14
   }
 }
