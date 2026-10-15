@@ -34,7 +34,24 @@
       "中文": {
         "来源": "⚠️ 暂未汉化"
       },
-      "英文": null
+      "英文": {
+        "词条标题": "Nishikigawa Seiryū Line",
+        "链接": null,
+        "首段": "The Nishikigawa Seiryū Line (錦川清流線) is a railway line operated by the Nishikigawa Railway, connecting Kawanishi Station with Nishikichō Station in Iwakuni, Yamaguchi Prefecture, Japan.",
+        "章节": {
+          "Overview": "",
+          "Line data": "",
+          "Service patterns": "",
+          "Rolling stock": "",
+          "国鉄時代の車両": "",
+          "History": "",
+          "Station list": "",
+          "岩日北線": "",
+          "設置予定駅": ""
+        },
+        "全文": "The Nishikigawa Seiryū Line (錦川清流線) is a railway line operated by the Nishikigawa Railway, connecting Kawanishi Station with Nishikichō Station in Iwakuni, Yamaguchi Prefecture, Japan.\n\nOverview\n\n\nLine data\n\n\nService patterns\n\n\nRolling stock\n\n\n国鉄時代の車両\n\n\nHistory\n\n\nStation list\n\n\n岩日北線\n\n\n設置予定駅\n",
+        "字数": 292
+      }
     }
   },
   "车站": [
@@ -69,7 +86,16 @@
           "字数": 35,
           "来源": "豆包全文翻译（据日文维基全文）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Kita-Gōchi Station",
+          "链接": null,
+          "首段": "Kita-Gōchi Station (北河内駅) is a disambiguation entry referring to several places and stations of that name in Japan.",
+          "章节": {
+            "一覧": ""
+          },
+          "全文": "Kita-Gōchi Station (北河内駅) is a disambiguation entry referring to several places and stations of that name in Japan.\n\n一覧\n",
+          "字数": 120
+        }
       },
       "结构化信息": {
         "读音": null,
@@ -136,12 +162,18 @@
           "链接": "https://en.wikipedia.org/wiki/Naguwa%20Station",
           "首段": "is a railway station on the Nishikigawa Seiryū Line in Iwakuni, Yamaguchi Prefecture, Japan. It is operated by the Nishikigawa Railway, a third-sector railway company.",
           "章节": {
-            "Lines": "The station is served by the Nishikigawa Seiryū Line and is located 20.8 km from the start of the line at .\n\nAdjacent stations",
             "History": "Japanese National Railways (JNR) opened the station on 1 November 1960 as an intermediate station during the construction of the then  from  to . With the privatization of JNR on 1 April 1987, control of the station passed to JR West which then ceded control to Nishikigawa Railway on 25 July 1987.\n\nPassenger statistics\nIn fiscal 2011, the station was used by an average of 95 passengers daily.",
+            "Station layout": "",
+            "Surrounding area": "",
+            "福田医院": "",
+            "Bus routes": "",
+            "錦川清流線": "",
+            "Railway stations in 岩国市": "",
+            "Lines": "The station is served by the Nishikigawa Seiryū Line and is located 20.8 km from the start of the line at .\n\nAdjacent stations",
             "References": "Railway stations in Japan opened in 1960\nRailway stations in Yamaguchi Prefecture"
           },
-          "全文": "is a railway station on the Nishikigawa Seiryū Line in Iwakuni, Yamaguchi Prefecture, Japan. It is operated by the Nishikigawa Railway, a third-sector railway company.\n\nLines\nThe station is served by the Nishikigawa Seiryū Line and is located 20.8 km from the start of the line at .\n\nAdjacent stations\n\nHistory\nJapanese National Railways (JNR) opened the station on 1 November 1960 as an intermediate station during the construction of the then  from  to . With the privatization of JNR on 1 April 1987, control of the station passed to JR West which then ceded control to Nishikigawa Railway on 25 July 1987.\n\nPassenger statistics\nIn fiscal 2011, the station was used by an average of 95 passengers daily.\n\nReferences\n\nRailway stations in Japan opened in 1960\nRailway stations in Yamaguchi Prefecture",
-          "字数": 801
+          "全文": "is a railway station on the Nishikigawa Seiryū Line in Iwakuni, Yamaguchi Prefecture, Japan. It is operated by the Nishikigawa Railway, a third-sector railway company.\n\nHistory\nJapanese National Railways (JNR) opened the station on 1 November 1960 as an intermediate station during the construction of the then  from  to . With the privatization of JNR on 1 April 1987, control of the station passed to JR West which then ceded control to Nishikigawa Railway on 25 July 1987.\n\nPassenger statistics\nIn fiscal 2011, the station was used by an average of 95 passengers daily.\n\nStation layout\n\n\nSurrounding area\n\n\n福田医院\n\n\nBus routes\n\n\n錦川清流線\n\n\nRailway stations in 岩国市\n\n\nLines\nThe station is served by the Nishikigawa Seiryū Line and is located 20.8 km from the start of the line at .\n\nAdjacent stations\n\nReferences\nRailway stations in Japan opened in 1960\nRailway stations in Yamaguchi Prefecture",
+          "字数": 890
         }
       },
       "结构化信息": {
@@ -218,7 +250,23 @@
           "字数": 1062,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Minami-Gōchi Station",
+          "链接": null,
+          "首段": "Minami-Gōchi Station (南河内駅) is a Nishikigawa Seiryū Line station in Kado, Iwakuni, Yamaguchi Prefecture, Japan.",
+          "章节": {
+            "History": "",
+            "Station layout": "",
+            "Surrounding area": "",
+            "国道2号沿い": "",
+            "岩国警察署南河内警察官駐在所": "",
+            "Bus routes": "",
+            "錦川清流線": "",
+            "Railway stations in 岩国市": ""
+          },
+          "全文": "Minami-Gōchi Station (南河内駅) is a Nishikigawa Seiryū Line station in Kado, Iwakuni, Yamaguchi Prefecture, Japan.\n\nHistory\n\n\nStation layout\n\n\nSurrounding area\n\n\n国道2号沿い\n\n\n岩国警察署南河内警察官駐在所\n\n\nBus routes\n\n\n錦川清流線\n\n\nRailway stations in 岩国市\n",
+          "字数": 230
+        }
       },
       "结构化信息": {
         "读音": "みなみごうちえき",
@@ -286,7 +334,21 @@
           "全文": "顺子原站（よりそげえき）是位于山口县岩国市的锦川清流线车站。\n\n历史\n1993年（平成5年）3月17日 - 开业。\n\n车站结构\n单式月台1面1线的地面站（停留所）。无人站无站房，月台上有带棚候车空间。\n\n车站周边\n站内线路际迫山林竹林。车站北方锦川流过，对岸有国道2号线。",
           "字数": 136
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Shūchi-Kasagami Station",
+          "链接": null,
+          "首段": "Shūchi-Kasagami Station (守内かさ神駅) is a Nishikigawa Seiryū Line station in Shūchi, Iwakuni, Yamaguchi Prefecture, Japan.",
+          "章节": {
+            "History": "",
+            "Station layout": "",
+            "Surrounding area": "",
+            "Bus routes": "",
+            "錦川清流線": "",
+            "Railway stations in 岩国市": ""
+          },
+          "全文": "Shūchi-Kasagami Station (守内かさ神駅) is a Nishikigawa Seiryū Line station in Shūchi, Iwakuni, Yamaguchi Prefecture, Japan.\n\nHistory\n\n\nStation layout\n\n\nSurrounding area\n\n\nBus routes\n\n\n錦川清流線\n\n\nRailway stations in 岩国市\n",
+          "字数": 211
+        }
       },
       "结构化信息": {
         "读音": "しゅうちかさがみえき",
@@ -372,12 +434,36 @@
           "链接": "https://en.wikipedia.org/wiki/Iwakuni%20Station",
           "首段": "is a junction passenger railway station located in the city of  Iwakuni, Yamaguchi Prefecture,  Japan. It is operated by the West Japan Railway Company (JR West).",
           "章节": {
+            "Overview": "",
+            "Chronology": "",
+            "旧岩国機関区": "",
+            "岩国駅周辺整備事業": "",
+            "Station layout": "",
+            "貨物取扱・専用線": "",
+            "日本旅行": "",
+            "2階": "",
+            "Usage": "",
+            "Surrounding area": "",
+            "West exit": "",
+            "フジグラン岩国": "",
+            "East exit": "",
+            "日本製紙岩国工場": "",
+            "Bus routes": "",
+            "Highway / route buses": "",
+            "防長交通": "",
+            "岩国市生活交通バス": "",
+            "Highway buses": "",
+            "岩国駅東口": "",
+            "Adjacent stations": "",
+            "山陽本線": "",
+            "Local": "",
+            "Railway stations in 岩国市": "",
             "Lines": "Iwakuni Station is served by the JR West Sanyō Main Line, and is located 346.1 kilometers from the terminus of the line at . It is also the terminus of the 43.7 kilometer Gantoku Line to . Additionally, trains from the Nishikigawa Seiryū Line inter-run over the Gantoku Line and terminate at Iwakuni.\n\nStation layout\nThe station consists of three platforms and six tracks, connected by an elevated station building. Platform 1 is a side platform facing the west exit, and Platform 0 is a notched platform on the Shimonoseki side of Platform 1. Platforms 3 and 4, and Platforms 6 and 7 each have island platforms. The station has a Midori no Madoguchi staffed ticket office.",
             "History": "Iwakuni Station was opened on 25 September 1897 as a station on the San'yo Railway with the extension of the line from Hiroshima to Tokuyama. The San'yo Railway was nationalized in 1906 and the line renamed the San'yo Main Line in 1909. The station name was changed to  on 2 February 1929, but reverted to its original name on 1 April 1942. With the privatization of the Japan National Railway (JNR) on 1 April 1987, the station came under the aegis of the West Japan railway Company (JR West).\n\nPassenger statistics\nIn fiscal 2019, the station was used by an average of 5691 passengers daily.\n\nSurrounding area\nThe west side of the station is a commercial area, and the east side of the station is an urban and industrial area. Iwakuni Port is located to the north of the station, and Iwakuni Airfield (Iwakuni Kintaikyo Airport) is located to the south of the station, both of which are about 2.5 km away from the station. Public facilities such as the Iwakuni City Hall are located about 1 kilometer away from the station.\n\nSee also\nList of railway stations in Japan",
             "References": "External links\n\n JR West Station Official Site\n\nRailway stations in Yamaguchi Prefecture\nSanyō Main Line\nRailway stations in Japan opened in 1898\nIwakuni, Yamaguchi"
           },
-          "全文": "is a junction passenger railway station located in the city of  Iwakuni, Yamaguchi Prefecture,  Japan. It is operated by the West Japan Railway Company (JR West).\n\nLines\nIwakuni Station is served by the JR West Sanyō Main Line, and is located 346.1 kilometers from the terminus of the line at . It is also the terminus of the 43.7 kilometer Gantoku Line to . Additionally, trains from the Nishikigawa Seiryū Line inter-run over the Gantoku Line and terminate at Iwakuni.\n\nStation layout\nThe station consists of three platforms and six tracks, connected by an elevated station building. Platform 1 is a side platform facing the west exit, and Platform 0 is a notched platform on the Shimonoseki side of Platform 1. Platforms 3 and 4, and Platforms 6 and 7 each have island platforms. The station has a Midori no Madoguchi staffed ticket office.\n\nPlatforms\n\nHistory\nIwakuni Station was opened on 25 September 1897 as a station on the San'yo Railway with the extension of the line from Hiroshima to Tokuyama. The San'yo Railway was nationalized in 1906 and the line renamed the San'yo Main Line in 1909. The station name was changed to  on 2 February 1929, but reverted to its original name on 1 April 1942. With the privatization of the Japan National Railway (JNR) on 1 April 1987, the station came under the aegis of the West Japan railway Company (JR West).\n\nPassenger statistics\nIn fiscal 2019, the station was used by an average of 5691 passengers daily.\n\nSurrounding area\nThe west side of the station is a commercial area, and the east side of the station is an urban and industrial area. Iwakuni Port is located to the north of the station, and Iwakuni Airfield (Iwakuni Kintaikyo Airport) is located to the south of the station, both of which are about 2.5 km away from the station. Public facilities such as the Iwakuni City Hall are located about 1 kilometer away from the station.\n\nSee also\nList of railway stations in Japan\n\nReferences\n\nExternal links\n\n JR West Station Official Site\n\nRailway stations in Yamaguchi Prefecture\nSanyō Main Line\nRailway stations in Japan opened in 1898\nIwakuni, Yamaguchi",
-          "字数": 2111
+          "全文": "is a junction passenger railway station located in the city of  Iwakuni, Yamaguchi Prefecture,  Japan. It is operated by the West Japan Railway Company (JR West).\n\nOverview\n\n\nChronology\n\n\n旧岩国機関区\n\n\n岩国駅周辺整備事業\n\n\nStation layout\n\n\n貨物取扱・専用線\n\n\n日本旅行\n\n\n2階\n\n\nUsage\n\n\nSurrounding area\n\n\nWest exit\n\n\nフジグラン岩国\n\n\nEast exit\n\n\n日本製紙岩国工場\n\n\nBus routes\n\n\nHighway / route buses\n\n\n防長交通\n\n\n岩国市生活交通バス\n\n\nHighway buses\n\n\n岩国駅東口\n\n\nAdjacent stations\n\n\n山陽本線\n\n\nLocal\n\n\nRailway stations in 岩国市\n\n\nLines\nIwakuni Station is served by the JR West Sanyō Main Line, and is located 346.1 kilometers from the terminus of the line at . It is also the terminus of the 43.7 kilometer Gantoku Line to . Additionally, trains from the Nishikigawa Seiryū Line inter-run over the Gantoku Line and terminate at Iwakuni.\n\nStation layout\nThe station consists of three platforms and six tracks, connected by an elevated station building. Platform 1 is a side platform facing the west exit, and Platform 0 is a notched platform on the Shimonoseki side of Platform 1. Platforms 3 and 4, and Platforms 6 and 7 each have island platforms. The station has a Midori no Madoguchi staffed ticket office.\n\nHistory\nIwakuni Station was opened on 25 September 1897 as a station on the San'yo Railway with the extension of the line from Hiroshima to Tokuyama. The San'yo Railway was nationalized in 1906 and the line renamed the San'yo Main Line in 1909. The station name was changed to  on 2 February 1929, but reverted to its original name on 1 April 1942. With the privatization of the Japan National Railway (JNR) on 1 April 1987, the station came under the aegis of the West Japan railway Company (JR West).\n\nPassenger statistics\nIn fiscal 2019, the station was used by an average of 5691 passengers daily.\n\nSurrounding area\nThe west side of the station is a commercial area, and the east side of the station is an urban and industrial area. Iwakuni Port is located to the north of the station, and Iwakuni Airfield (Iwakuni Kintaikyo Airport) is located to the south of the station, both of which are about 2.5 km away from the station. Public facilities such as the Iwakuni City Hall are located about 1 kilometer away from the station.\n\nSee also\nList of railway stations in Japan\n\nReferences\nExternal links\n\n JR West Station Official Site\n\nRailway stations in Yamaguchi Prefecture\nSanyō Main Line\nRailway stations in Japan opened in 1898\nIwakuni, Yamaguchi",
+          "字数": 2397
         }
       },
       "结构化信息": {
@@ -526,12 +612,18 @@
           "链接": "https://en.wikipedia.org/wiki/Yanaze%20Station",
           "首段": "is a railway station on the Nishikigawa Seiryū Line in Iwakuni, Yamaguchi Prefecture, Japan. It is operated by the Nishikigawa Railway, a third-sector railway company.",
           "章节": {
-            "Lines": "The station is served by the Nishikigawa Seiryū Line and is located 31.0 km from the start of the line at .\n\nAdjacent stations",
             "History": "Japanese National Railways (JNR) opened the station on 1 October 1963 as an intermediate station when the then  was extended from  to . With the privatization of JNR on 1 April 1987, control of the station passed to JR West which then ceded control to Nishikigawa Railway on 25 July 1987.\n\nPassenger statistics\nIn fiscal 2011, the station was used by an average of 4 passengers daily.",
+            "Station layout": "",
+            "Surrounding area": "",
+            "夏宿自治会館": "",
+            "Bus routes": "",
+            "錦川清流線": "",
+            "Railway stations in 岩国市": "",
+            "Lines": "The station is served by the Nishikigawa Seiryū Line and is located 31.0 km from the start of the line at .\n\nAdjacent stations",
             "References": "Railway stations in Japan opened in 1963\nRailway stations in Yamaguchi Prefecture"
           },
-          "全文": "is a railway station on the Nishikigawa Seiryū Line in Iwakuni, Yamaguchi Prefecture, Japan. It is operated by the Nishikigawa Railway, a third-sector railway company.\n\nLines\nThe station is served by the Nishikigawa Seiryū Line and is located 31.0 km from the start of the line at .\n\nAdjacent stations\n\nHistory\nJapanese National Railways (JNR) opened the station on 1 October 1963 as an intermediate station when the then  was extended from  to . With the privatization of JNR on 1 April 1987, control of the station passed to JR West which then ceded control to Nishikigawa Railway on 25 July 1987.\n\nPassenger statistics\nIn fiscal 2011, the station was used by an average of 4 passengers daily.\n\nReferences\n\nRailway stations in Japan opened in 1963\nRailway stations in Yamaguchi Prefecture",
-          "字数": 790
+          "全文": "is a railway station on the Nishikigawa Seiryū Line in Iwakuni, Yamaguchi Prefecture, Japan. It is operated by the Nishikigawa Railway, a third-sector railway company.\n\nHistory\nJapanese National Railways (JNR) opened the station on 1 October 1963 as an intermediate station when the then  was extended from  to . With the privatization of JNR on 1 April 1987, control of the station passed to JR West which then ceded control to Nishikigawa Railway on 25 July 1987.\n\nPassenger statistics\nIn fiscal 2011, the station was used by an average of 4 passengers daily.\n\nStation layout\n\n\nSurrounding area\n\n\n夏宿自治会館\n\n\nBus routes\n\n\n錦川清流線\n\n\nRailway stations in 岩国市\n\n\nLines\nThe station is served by the Nishikigawa Seiryū Line and is located 31.0 km from the start of the line at .\n\nAdjacent stations\n\nReferences\nRailway stations in Japan opened in 1963\nRailway stations in Yamaguchi Prefecture",
+          "字数": 881
         }
       },
       "结构化信息": {
@@ -613,12 +705,20 @@
           "链接": "https://en.wikipedia.org/wiki/Nekasa%20Station",
           "首段": "is a railway station on the Nishikigawa Seiryū Line in Iwakuni, Yamaguchi Prefecture, Japan. It is operated by the Nishikigawa Railway, a third-sector railway company.",
           "章节": {
-            "Lines": "The station is served by the Nishikigawa Seiryū Line and is located 23.5 km from the start of the line at .\n\nAdjacent stations\n\n|-\n!colspan=5|Nishikigawa Railway",
             "History": "Japanese National Railways (JNR) opened the station on 1 November 1960 as an intermediate station during the construction of the then  from  to . With the privatization of JNR on 1 April 1987, control of the station passed to JR West which then ceded control to Nishikigawa Railway on 25 July 1987.\n\nPassenger statistics\nIn fiscal 2011, the station was used by an average of 36 passengers daily.",
+            "Station layout": "",
+            "Surrounding area": "",
+            "観音水車でかまるくん": "",
+            "金光教桑根教会": "",
+            "Bus routes": "",
+            "※錦町駅方面始発便のほか、当バス停始発便も設定されている模様": "",
+            "錦川清流線": "",
+            "Railway stations in 岩国市": "",
+            "Lines": "The station is served by the Nishikigawa Seiryū Line and is located 23.5 km from the start of the line at .\n\nAdjacent stations\n\n|-\n!colspan=5|Nishikigawa Railway",
             "References": "Railway stations in Japan opened in 1960\nRailway stations in Yamaguchi Prefecture"
           },
-          "全文": "is a railway station on the Nishikigawa Seiryū Line in Iwakuni, Yamaguchi Prefecture, Japan. It is operated by the Nishikigawa Railway, a third-sector railway company.\n\nLines\nThe station is served by the Nishikigawa Seiryū Line and is located 23.5 km from the start of the line at .\n\nAdjacent stations\n\n|-\n!colspan=5|Nishikigawa Railway\n\nHistory\nJapanese National Railways (JNR) opened the station on 1 November 1960 as an intermediate station during the construction of the then  from  to . With the privatization of JNR on 1 April 1987, control of the station passed to JR West which then ceded control to Nishikigawa Railway on 25 July 1987.\n\nPassenger statistics\nIn fiscal 2011, the station was used by an average of 36 passengers daily.\n\nReferences\n\nRailway stations in Japan opened in 1960\nRailway stations in Yamaguchi Prefecture",
-          "字数": 836
+          "全文": "is a railway station on the Nishikigawa Seiryū Line in Iwakuni, Yamaguchi Prefecture, Japan. It is operated by the Nishikigawa Railway, a third-sector railway company.\n\nHistory\nJapanese National Railways (JNR) opened the station on 1 November 1960 as an intermediate station during the construction of the then  from  to . With the privatization of JNR on 1 April 1987, control of the station passed to JR West which then ceded control to Nishikigawa Railway on 25 July 1987.\n\nPassenger statistics\nIn fiscal 2011, the station was used by an average of 36 passengers daily.\n\nStation layout\n\n\nSurrounding area\n\n\n観音水車でかまるくん\n\n\n金光教桑根教会\n\n\nBus routes\n\n\n※錦町駅方面始発便のほか、当バス停始発便も設定されている模様\n\n\n錦川清流線\n\n\nRailway stations in 岩国市\n\n\nLines\nThe station is served by the Nishikigawa Seiryū Line and is located 23.5 km from the start of the line at .\n\nAdjacent stations\n\n|-\n!colspan=5|Nishikigawa Railway\n\nReferences\nRailway stations in Japan opened in 1960\nRailway stations in Yamaguchi Prefecture",
+          "字数": 974
         }
       },
       "结构化信息": {
@@ -700,12 +800,20 @@
           "链接": "https://en.wikipedia.org/wiki/Mukuno%20Station",
           "首段": "is a railway station on the Seiryū Line in Iwakuni, Yamaguchi Prefecture, Japan. It is operated by the Nishikigawa Railway, a third-sector railway company.",
           "章节": {
-            "Lines": "The station is served by the Seiryū Line and is located 17.7 km from the start of the line at .\n\nAdjacent stations\n\n|-\n!colspan=5|Nishikigawa Railway",
             "History": "Japanese National Railways (JNR) opened the station on 1 November 1960 as an intermediate station during the construction of the then  from  to . With the privatization of JNR on 1 April 1987, control of the station passed to JR West which then ceded control to Nishikigawa Railway on 25 July 1987.\n\nPassenger statistics\nIn fiscal 2011, the station was used by an average of 11 passengers daily.",
+            "Station layout": "",
+            "Surrounding area": "",
+            "河内神社": "",
+            "Bus routes": "",
+            "「椋野駅前」バス停〔駅すぐ近くの線路下付近〕": "",
+            "「下椋野」バス停〔前出の椋野橋を渡りきった場所付近に位置〕": "",
+            "錦川清流線": "",
+            "Railway stations in 岩国市": "",
+            "Lines": "The station is served by the Seiryū Line and is located 17.7 km from the start of the line at .\n\nAdjacent stations\n\n|-\n!colspan=5|Nishikigawa Railway",
             "References": "Railway stations in Japan opened in 1960\nRailway stations in Yamaguchi Prefecture"
           },
-          "全文": "is a railway station on the Seiryū Line in Iwakuni, Yamaguchi Prefecture, Japan. It is operated by the Nishikigawa Railway, a third-sector railway company.\n\nLines\nThe station is served by the Seiryū Line and is located 17.7 km from the start of the line at .\n\nAdjacent stations\n\n|-\n!colspan=5|Nishikigawa Railway\n\nHistory\nJapanese National Railways (JNR) opened the station on 1 November 1960 as an intermediate station during the construction of the then  from  to . With the privatization of JNR on 1 April 1987, control of the station passed to JR West which then ceded control to Nishikigawa Railway on 25 July 1987.\n\nPassenger statistics\nIn fiscal 2011, the station was used by an average of 11 passengers daily.\n\nReferences\n\nRailway stations in Japan opened in 1960\nRailway stations in Yamaguchi Prefecture",
-          "字数": 812
+          "全文": "is a railway station on the Seiryū Line in Iwakuni, Yamaguchi Prefecture, Japan. It is operated by the Nishikigawa Railway, a third-sector railway company.\n\nHistory\nJapanese National Railways (JNR) opened the station on 1 November 1960 as an intermediate station during the construction of the then  from  to . With the privatization of JNR on 1 April 1987, control of the station passed to JR West which then ceded control to Nishikigawa Railway on 25 July 1987.\n\nPassenger statistics\nIn fiscal 2011, the station was used by an average of 11 passengers daily.\n\nStation layout\n\n\nSurrounding area\n\n\n河内神社\n\n\nBus routes\n\n\n「椋野駅前」バス停〔駅すぐ近くの線路下付近〕\n\n\n「下椋野」バス停〔前出の椋野橋を渡りきった場所付近に位置〕\n\n\n錦川清流線\n\n\nRailway stations in 岩国市\n\n\nLines\nThe station is served by the Seiryū Line and is located 17.7 km from the start of the line at .\n\nAdjacent stations\n\n|-\n!colspan=5|Nishikigawa Railway\n\nReferences\nRailway stations in Japan opened in 1960\nRailway stations in Yamaguchi Prefecture",
+          "字数": 958
         }
       },
       "结构化信息": {
@@ -787,12 +895,19 @@
           "链接": "https://en.wikipedia.org/wiki/Kawayama%20Station",
           "首段": "is a railway station on the Nishikigawa Seiryū Line in Iwakuni, Yamaguchi Prefecture, Japan. It is operated by the Nishikigawa Railway, a third-sector railway company.",
           "章节": {
-            "Lines": "The station is served by the Nishikigawa Seiryū Line and is located 27.9 km from the start of the line at .\n\nAdjacent stations",
             "History": "Japanese National Railways (JNR) opened the station on 1 November 1960 as the terminus of the then  from . It became a through-station on 1 October 1963 when the line was extended to . With the privatization of JNR on 1 April 1987, control of the station passed to JR West which then ceded control to Nishikigawa Railway on 25 July 1987.\n\nPassenger statistics\nIn fiscal 2011, the station was used by an average of 242 passengers daily.",
+            "Station layout": "",
+            "Surrounding area": "",
+            "岩国地区消防組合西消防署玖北第一出張所": "",
+            "Bus routes": "",
+            "Other": "",
+            "錦川清流線": "",
+            "Railway stations in 岩国市": "",
+            "Lines": "The station is served by the Nishikigawa Seiryū Line and is located 27.9 km from the start of the line at .\n\nAdjacent stations",
             "References": "Railway stations in Japan opened in 1960\nRailway stations in Yamaguchi Prefecture"
           },
-          "全文": "is a railway station on the Nishikigawa Seiryū Line in Iwakuni, Yamaguchi Prefecture, Japan. It is operated by the Nishikigawa Railway, a third-sector railway company.\n\nLines\nThe station is served by the Nishikigawa Seiryū Line and is located 27.9 km from the start of the line at .\n\nAdjacent stations\n\nHistory\nJapanese National Railways (JNR) opened the station on 1 November 1960 as the terminus of the then  from . It became a through-station on 1 October 1963 when the line was extended to . With the privatization of JNR on 1 April 1987, control of the station passed to JR West which then ceded control to Nishikigawa Railway on 25 July 1987.\n\nPassenger statistics\nIn fiscal 2011, the station was used by an average of 242 passengers daily.\n\nReferences\n\nRailway stations in Japan opened in 1960\nRailway stations in Yamaguchi Prefecture",
-          "字数": 841
+          "全文": "is a railway station on the Nishikigawa Seiryū Line in Iwakuni, Yamaguchi Prefecture, Japan. It is operated by the Nishikigawa Railway, a third-sector railway company.\n\nHistory\nJapanese National Railways (JNR) opened the station on 1 November 1960 as the terminus of the then  from . It became a through-station on 1 October 1963 when the line was extended to . With the privatization of JNR on 1 April 1987, control of the station passed to JR West which then ceded control to Nishikigawa Railway on 25 July 1987.\n\nPassenger statistics\nIn fiscal 2011, the station was used by an average of 242 passengers daily.\n\nStation layout\n\n\nSurrounding area\n\n\n岩国地区消防組合西消防署玖北第一出張所\n\n\nBus routes\n\n\nOther\n\n\n錦川清流線\n\n\nRailway stations in 岩国市\n\n\nLines\nThe station is served by the Nishikigawa Seiryū Line and is located 27.9 km from the start of the line at .\n\nAdjacent stations\n\nReferences\nRailway stations in Japan opened in 1960\nRailway stations in Yamaguchi Prefecture",
+          "字数": 953
         }
       },
       "结构化信息": {
@@ -862,7 +977,22 @@
           "全文": "清流新岩国站（せいりゅうしんいわくにえき）是位于山口县岩国市的锦川铁道锦川清流线车站。旧御庄站。\n\n历史\n1960年（昭和35年）11月1日 - 作为日本国有铁道岩日线御庄站开业。\n\n车站结构\n盛土上地面站。单式1面1线月台。\n\n车站周边\n站北邻山阳新干线新岩国站。",
           "字数": 133
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Seiryū-Shin-Iwakuni Station",
+          "链接": null,
+          "首段": "Seiryū-Shin-Iwakuni Station (清流新岩国駅) is a Nishikigawa Seiryū Line station in Mishō, Iwakuni, Yamaguchi Prefecture, Japan, adjacent to the Shin-Iwakuna Shinkansen station.",
+          "章节": {
+            "History": "",
+            "Station layout": "",
+            "Surrounding area": "",
+            "「新岩国駅#清流新岩国駅（旧・御庄駅）との関係」も参照": "",
+            "錦川清流線": "",
+            "List of railway stations in Japan": "",
+            "Railway stations in 岩国市": ""
+          },
+          "全文": "Seiryū-Shin-Iwakuni Station (清流新岩国駅) is a Nishikigawa Seiryū Line station in Mishō, Iwakuni, Yamaguchi Prefecture, Japan, adjacent to the Shin-Iwakuna Shinkansen station.\n\nHistory\n\n\nStation layout\n\n\nSurrounding area\n\n\n「新岩国駅#清流新岩国駅（旧・御庄駅）との関係」も参照\n\n\n錦川清流線\n\n\nList of railway stations in Japan\n\n\nRailway stations in 岩国市\n",
+          "字数": 316
+        }
       },
       "结构化信息": {
         "读音": "せいりゅうしんいわくにえき",
@@ -940,12 +1070,17 @@
           "链接": "https://en.wikipedia.org/wiki/Yukaba%20Station",
           "首段": "is a railway station on the Nishikigawa Seiryū Line in Iwakuni, Yamaguchi Prefecture, Japan. It is operated by the Nishikigawa Railway, a third-sector railway company.",
           "章节": {
-            "Lines": "The station is served by the Nishikigawa Seiryū Line and is located 11.2 km from the start of the line at .\n\nAdjacent stations",
             "History": "Japanese National Railways (JNR) opened the station on 1 April 1971 as a temporary stop on the existing track of the then . With the privatization of JNR on 1 April 1987, control of the station passed to JR West which upgraded Yukaba to a full station. Control was then ceded to Nishikigawa Railway on 25 July 1987.\n\nPassenger statistics\nIn fiscal 2011, the station was used by an average of 56 passengers daily.",
+            "Station layout": "",
+            "岩国「行波の神舞」関連": "",
+            "Bus routes": "",
+            "錦川清流線": "",
+            "Railway stations in 岩国市": "",
+            "Lines": "The station is served by the Nishikigawa Seiryū Line and is located 11.2 km from the start of the line at .\n\nAdjacent stations",
             "References": "Railway stations in Japan opened in 1971\nRailway stations in Yamaguchi Prefecture"
           },
-          "全文": "is a railway station on the Nishikigawa Seiryū Line in Iwakuni, Yamaguchi Prefecture, Japan. It is operated by the Nishikigawa Railway, a third-sector railway company.\n\nLines\nThe station is served by the Nishikigawa Seiryū Line and is located 11.2 km from the start of the line at .\n\nAdjacent stations\n\nHistory\nJapanese National Railways (JNR) opened the station on 1 April 1971 as a temporary stop on the existing track of the then . With the privatization of JNR on 1 April 1987, control of the station passed to JR West which upgraded Yukaba to a full station. Control was then ceded to Nishikigawa Railway on 25 July 1987.\n\nPassenger statistics\nIn fiscal 2011, the station was used by an average of 56 passengers daily.\n\nReferences\n\nRailway stations in Japan opened in 1971\nRailway stations in Yamaguchi Prefecture",
-          "字数": 818
+          "全文": "is a railway station on the Nishikigawa Seiryū Line in Iwakuni, Yamaguchi Prefecture, Japan. It is operated by the Nishikigawa Railway, a third-sector railway company.\n\nHistory\nJapanese National Railways (JNR) opened the station on 1 April 1971 as a temporary stop on the existing track of the then . With the privatization of JNR on 1 April 1987, control of the station passed to JR West which upgraded Yukaba to a full station. Control was then ceded to Nishikigawa Railway on 25 July 1987.\n\nPassenger statistics\nIn fiscal 2011, the station was used by an average of 56 passengers daily.\n\nStation layout\n\n\n岩国「行波の神舞」関連\n\n\nBus routes\n\n\n錦川清流線\n\n\nRailway stations in 岩国市\n\n\nLines\nThe station is served by the Nishikigawa Seiryū Line and is located 11.2 km from the start of the line at .\n\nAdjacent stations\n\nReferences\nRailway stations in Japan opened in 1971\nRailway stations in Yamaguchi Prefecture",
+          "字数": 895
         }
       },
       "结构化信息": {
@@ -1017,7 +1152,28 @@
           "全文": "西岩国站（にしいわくにえき）是位于山口县岩国市的西日本旅客铁道岩德线车站。\n\n历史\n1929年（昭和4年）4月5日 - 岩德线部分开业时作为终点站岩国站开业。\n\n车站结构\n单式月台1面1线、岛式月台1面1线的地面站。\n\n使用情况\n1日平均乘车人员如下。\n\n车站周边\n沿山口县道15号线，站背后稍远处锦川流过。",
           "字数": 154
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Nishi-Iwakuni Station",
+          "链接": null,
+          "首段": "Nishi-Iwakuni Station (西岩国駅) is a JR West Gantoku Line station in Nishimi 6-chōme, Iwakuni, Yamaguchi Prefecture, Japan, also served by through Nishikigawa Seiryū Line trains.",
+          "章节": {
+            "History": "",
+            "Station layout": "",
+            "Additional notes": "",
+            "駅舎に関して": "",
+            "Usage": "",
+            "Surrounding area": "",
+            "Bus routes": "",
+            "西岩国駅": "",
+            "岩国市営美和バス": "",
+            "Other": "",
+            "Adjacent stations": "",
+            "Railway stations in 岩国市": "",
+            "Railway stations in 1929年開業": ""
+          },
+          "全文": "Nishi-Iwakuni Station (西岩国駅) is a JR West Gantoku Line station in Nishimi 6-chōme, Iwakuni, Yamaguchi Prefecture, Japan, also served by through Nishikigawa Seiryū Line trains.\n\nHistory\n\n\nStation layout\n\n\nAdditional notes\n\n\n駅舎に関して\n\n\nUsage\n\n\nSurrounding area\n\n\nBus routes\n\n\n西岩国駅\n\n\n岩国市営美和バス\n\n\nOther\n\n\nAdjacent stations\n\n\nRailway stations in 岩国市\n\n\nRailway stations in 1929年開業\n",
+          "字数": 372
+        }
       },
       "结构化信息": {
         "读音": "にしいわくにえき",
@@ -1097,7 +1253,23 @@
           "字数": 1224,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Nishikichō Station",
+          "链接": null,
+          "首段": "Nishikichō Station (錦町駅) is the terminus of the Nishikigawa Seiryū Line in Hirose, Nishikichō, Iwakuni, Yamaguchi Prefecture, Japan.",
+          "章节": {
+            "History": "",
+            "Station layout": "",
+            "Surrounding area": "",
+            "広瀬郵便局": "",
+            "錦産品ステーション": "",
+            "Bus routes": "",
+            "錦川清流線": "",
+            "Railway stations in 岩国市": ""
+          },
+          "全文": "Nishikichō Station (錦町駅) is the terminus of the Nishikigawa Seiryū Line in Hirose, Nishikichō, Iwakuni, Yamaguchi Prefecture, Japan.\n\nHistory\n\n\nStation layout\n\n\nSurrounding area\n\n\n広瀬郵便局\n\n\n錦産品ステーション\n\n\nBus routes\n\n\n錦川清流線\n\n\nRailway stations in 岩国市\n",
+          "字数": 245
+        }
       },
       "结构化信息": {
         "读音": "にしきちょうえき",
@@ -1138,6 +1310,6 @@
     "有中文词条": 14,
     "已千问汉化": 0,
     "待汉化": 0,
-    "有英文词条": 8
+    "有英文词条": 14
   }
 }
