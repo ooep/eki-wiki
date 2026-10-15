@@ -107,7 +107,21 @@
           "字数": 693,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "首段": "Fuwa-Ishiki Station (不破一色駅) is a station on the Meitetsu Takehana Line in Hashima, Gifu Prefecture, Japan.",
+          "章节": {
+            "History": "Jun 25, 1921: opened. Before Nov 1, 1948: became unattended. Dec 14, 2007: Tranpass introduced. Feb 11, 2011: 'manaca' IC cards accepted.",
+            "Station layout": "An at-grade, unattended station with a single side platform, under the central station management system (managed from Meitetsu Gifu).",
+            "Usage": "Daily passengers were 1,077 in fiscal 2013, 217th of 275 Meitetsu stations.",
+            "Passenger numbers": "Daily boardings have been recorded since 1921, rising to around 1,000–1,100.",
+            "Surroundings": "A residential area; a bicycle parking lot was added on the south side of the station building in August 2008.",
+            "Takehana Line": "Suka (TH04) – Fuwa-Ishiki (TH05) – Takehana (TH06).",
+            "External sites": "Fuwa-Ishiki Station – Nagoya Railroad.",
+            "Railway stations in Hashima": "Fuwa-Ishiki Station is one of the railway stations in Hashima, Gifu Prefecture."
+          },
+          "全文": "Fuwa-Ishiki Station (不破一色駅) is a station on the Meitetsu Takehana Line in Hashima, Gifu Prefecture, Japan.\n\nHistory\nJun 25, 1921: opened. Before Nov 1, 1948: became unattended. Dec 14, 2007: Tranpass introduced. Feb 11, 2011: 'manaca' IC cards accepted.\n\nStation layout\nAn at-grade, unattended station with a single side platform, under the central station management system (managed from Meitetsu Gifu).\n\nUsage\nDaily passengers were 1,077 in fiscal 2013, 217th of 275 Meitetsu stations.\n\nPassenger numbers\nDaily boardings have been recorded since 1921, rising to around 1,000–1,100.\n\nSurroundings\nA residential area; a bicycle parking lot was added on the south side of the station building in August 2008.\n\nTakehana Line\nSuka (TH04) – Fuwa-Ishiki (TH05) – Takehana (TH06).\n\nExternal sites\nFuwa-Ishiki Station – Nagoya Railroad.\n\nRailway stations in Hashima\nFuwa-Ishiki Station is one of the railway stations in Hashima, Gifu Prefecture.",
+          "字数": 938
+        }
       },
       "结构化信息": {
         "读音": "ふわいしきえき",
@@ -229,7 +243,19 @@
           "字数": 1077,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "首段": "Minamijuku Station (南宿駅) is a station on the Meitetsu Takehana Line in Hashima, Gifu Prefecture, Japan.",
+          "章节": {
+            "History": "Jun 25, 1921: opened. Mar 24, 1972: became unattended. Dec 14, 2007: Tranpass introduced; Feb 11, 2011: 'manaca' accepted.",
+            "Station layout": "An at-grade station with two opposed side platforms, allowing train passing. New station buildings with automatic gates were built for Tranpass in 2007.",
+            "Usage": "Daily passengers were 899 in fiscal 2013, 236th of 275 Meitetsu stations.",
+            "Passenger numbers": "Daily boardings have been recorded since 1921.",
+            "Takehana Line": "Yanagitsu (TH02) – Minamijuku (TH03) – Suka (TH04).",
+            "Railway stations in Hashima": "Minamijuku Station is one of the railway stations in Hashima, Gifu Prefecture."
+          },
+          "全文": "Minamijuku Station (南宿駅) is a station on the Meitetsu Takehana Line in Hashima, Gifu Prefecture, Japan.\n\nHistory\nJun 25, 1921: opened. Mar 24, 1972: became unattended. Dec 14, 2007: Tranpass introduced; Feb 11, 2011: 'manaca' accepted.\n\nStation layout\nAn at-grade station with two opposed side platforms, allowing train passing. New station buildings with automatic gates were built for Tranpass in 2007.\n\nUsage\nDaily passengers were 899 in fiscal 2013, 236th of 275 Meitetsu stations.\n\nPassenger numbers\nDaily boardings have been recorded since 1921.\n\nTakehana Line\nYanagitsu (TH02) – Minamijuku (TH03) – Suka (TH04).\n\nRailway stations in Hashima\nMinamijuku Station is one of the railway stations in Hashima, Gifu Prefecture.",
+          "字数": 726
+        }
       },
       "结构化信息": {
         "读音": "みなみじゅくえき",
@@ -313,7 +339,26 @@
           "字数": 1584,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "首段": "Meitetsu-Gifu Station (名鉄岐阜駅) is the central station of the Meitetsu network in Gifu, Gifu Prefecture, Japan, served by the Nagoya Main Line and Kakamigahara Line.",
+          "章节": {
+            "First Shin-Gifu": "Dec 26, 1914: Shin-Gifu Station opened on the Mino Electric Railway Kasamatsu Line (now the Meitetsu Nagoya Main Line).",
+            "Station layout": "Platforms 1–4 (Nagoya Main Line) are two notch-shaped platforms serving four tracks (8-car); platforms 5–6 (Kakamigahara Line) serve 6-car trains.",
+            "Boardings": "Meitetsu's third-busiest station after Nagoya and Kanayama in 1992, but declining as passengers shift to JR.",
+            "Passenger numbers": "Annual and daily boardings have been recorded since 1955.",
+            "Daily passengers": "Daily passenger figures are drawn from various statistical sources.",
+            "Surroundings": "South of the old Gifu castle town, near Kan'on-juku; the busy commercial/shopping street runs to the entertainment district Yanagase.",
+            "Gifu Building": "The Shin-Gifu blood-donation room (relocated to Active G in 2023) was nearby.",
+            "Suminagaecho shopping street": "Kawaijuku Gifu school and the site of the original Shin-Gifu Station are nearby.",
+            "Bus routes": "Gifu Bus 'Meitetsu Gifu' stops, split between the Gifu Bus Terminal (attached to the station) and the Meitetsu-Gifu stop.",
+            "Nagoya Main Line": "μ-SKY: Meitetsu-Ichinomiya (NH50) – Meitetsu-Gifu (NH60).",
+            "Rapid express/express": "Kasamatsu (NH56) – Meitetsu-Gifu (NH60).",
+            "Local": "Kano (NH59) – Meitetsu-Gifu (NH60); and Meitetsu-Gifu (NH60) – Takagi (KG16).",
+            "Railway stations in Gifu": "Meitetsu-Gifu Station is one of the railway stations in Gifu City."
+          },
+          "全文": "Meitetsu-Gifu Station (名鉄岐阜駅) is the central station of the Meitetsu network in Gifu, Gifu Prefecture, Japan, served by the Nagoya Main Line and Kakamigahara Line.\n\nFirst Shin-Gifu\nDec 26, 1914: Shin-Gifu Station opened on the Mino Electric Railway Kasamatsu Line (now the Meitetsu Nagoya Main Line).\n\nStation layout\nPlatforms 1–4 (Nagoya Main Line) are two notch-shaped platforms serving four tracks (8-car); platforms 5–6 (Kakamigahara Line) serve 6-car trains.\n\nBoardings\nMeitetsu's third-busiest station after Nagoya and Kanayama in 1992, but declining as passengers shift to JR.\n\nPassenger numbers\nAnnual and daily boardings have been recorded since 1955.\n\nDaily passengers\nDaily passenger figures are drawn from various statistical sources.\n\nSurroundings\nSouth of the old Gifu castle town, near Kan'on-juku; the busy commercial/shopping street runs to the entertainment district Yanagase.\n\nGifu Building\nThe Shin-Gifu blood-donation room (relocated to Active G in 2023) was nearby.\n\nSuminagaecho shopping street\nKawaijuku Gifu school and the site of the original Shin-Gifu Station are nearby.\n\nBus routes\nGifu Bus 'Meitetsu Gifu' stops, split between the Gifu Bus Terminal (attached to the station) and the Meitetsu-Gifu stop.\n\nNagoya Main Line\nμ-SKY: Meitetsu-Ichinomiya (NH50) – Meitetsu-Gifu (NH60).\n\nRapid express/express\nKasamatsu (NH56) – Meitetsu-Gifu (NH60).\n\nLocal\nKano (NH59) – Meitetsu-Gifu (NH60); and Meitetsu-Gifu (NH60) – Takagi (KG16).\n\nRailway stations in Gifu\nMeitetsu-Gifu Station is one of the railway stations in Gifu City.",
+          "字数": 1550
+        }
       },
       "结构化信息": {
         "读音": "めいてつぎふえき",
@@ -399,11 +444,22 @@
           "章节": {
             "Lines": "Ginan Station is a station on the Nagoya Main Line, and is located 96.9 kilometers from the terminus of the line at .\n\nStation layout\n\nGinan Station has two ground-level opposed side platforms connected by an underpass. The station is unattended.",
             "Platforms": "Adjacent stations",
-            "History": "Ginan Station opened on 2 June 1914 as . It was renamed Ginan Station on 20 September 1980.\n\nSurrounding area\nJapan National Route 21\n\nSee also\n List of Railway Stations in Japan",
-            "References": "External links\n\n  \n\nRailway stations in Japan opened in 1914\nStations of Nagoya Railroad\nRailway stations in Gifu Prefecture\nGinan, Gifu"
+            "History": "Jun 2, 1914: opened as Sakaigawa Station. Before Nov 1, 1948: became unattended. Sep 20, 1980: relocated and renamed Ginan; became a semi-express stop.",
+            "References": "External links\n\n  \n\nRailway stations in Japan opened in 1914\nStations of Nagoya Railroad\nRailway stations in Gifu Prefecture\nGinan, Gifu",
+            "Station layout": "Two opposed side platforms flanking two through tracks (6-car), linked by an underpass. Expresses and limited expresses pass on the inner tracks; a passing layout shared with Futatsuiri, Hotta and Jurakuen.",
+            "Track diagram": "Diagram of the two passing tracks and platforms.",
+            "Grade separation": "A plan to elevate the Meitetsu-Gifu–Ginan section, led by Gifu Prefecture, Gifu City and Meitetsu, was expected to receive national approval in fiscal 2021.",
+            "Usage": "Daily passengers were 1,667 in fiscal 2013, 188th of 275 Meitetsu stations.",
+            "MaxValu Ginan": "National Route 21 (Gifu-Ōgaki bypass) is nearby.",
+            "MaxValu Ginan-mae": "Gifu Bus Kano-Shōrai line serves the Meitetsu-Ginan-higashi stop.",
+            "Other": "On Jun 3, 2015, an overrun incident occurred when a 2-car local train lost power and overran its stop by 300 meters.",
+            "Nagoya Main Line": "μ-SKY, rapid express, limited express, rapid, express and semi-express services pass.",
+            "Local": "Kasamatsu (NH56) – Ginan (NH57) – Chūja (NH58).",
+            "Railway stations in Gifu Prefecture": "Ginan Station is one of the railway stations in Gifu Prefecture.",
+            "Nagoya Railroad stations": "Ginan Station is a station on the Nagoya Railroad network."
           },
-          "全文": "is a railway station located in the town of Ginan, Hashima District, Gifu Prefecture, Japan, operated by the private railway operator Meitetsu.\n\nLines\nGinan Station is a station on the Nagoya Main Line, and is located 96.9 kilometers from the terminus of the line at .\n\nStation layout\n\nGinan Station has two ground-level opposed side platforms connected by an underpass. The station is unattended.\n\nPlatforms\n\nAdjacent stations\n\nHistory\nGinan Station opened on 2 June 1914 as . It was renamed Ginan Station on 20 September 1980.\n\nSurrounding area\nJapan National Route 21\n\nSee also\n List of Railway Stations in Japan\n\nReferences\n\nExternal links\n\n  \n\nRailway stations in Japan opened in 1914\nStations of Nagoya Railroad\nRailway stations in Gifu Prefecture\nGinan, Gifu",
-          "字数": 765
+          "全文": "is a railway station located in the town of Ginan, Hashima District, Gifu Prefecture, Japan, operated by the private railway operator Meitetsu.\n\nLines\nGinan Station is a station on the Nagoya Main Line, and is located 96.9 kilometers from the terminus of the line at .\n\nStation layout\n\nGinan Station has two ground-level opposed side platforms connected by an underpass. The station is unattended.\n\nPlatforms\nAdjacent stations\n\nHistory\nJun 2, 1914: opened as Sakaigawa Station. Before Nov 1, 1948: became unattended. Sep 20, 1980: relocated and renamed Ginan; became a semi-express stop.\n\nReferences\nExternal links\n\n  \n\nRailway stations in Japan opened in 1914\nStations of Nagoya Railroad\nRailway stations in Gifu Prefecture\nGinan, Gifu\n\nStation layout\nTwo opposed side platforms flanking two through tracks (6-car), linked by an underpass. Expresses and limited expresses pass on the inner tracks; a passing layout shared with Futatsuiri, Hotta and Jurakuen.\n\nTrack diagram\nDiagram of the two passing tracks and platforms.\n\nGrade separation\nA plan to elevate the Meitetsu-Gifu–Ginan section, led by Gifu Prefecture, Gifu City and Meitetsu, was expected to receive national approval in fiscal 2021.\n\nUsage\nDaily passengers were 1,667 in fiscal 2013, 188th of 275 Meitetsu stations.\n\nMaxValu Ginan\nNational Route 21 (Gifu-Ōgaki bypass) is nearby.\n\nMaxValu Ginan-mae\nGifu Bus Kano-Shōrai line serves the Meitetsu-Ginan-higashi stop.\n\nOther\nOn Jun 3, 2015, an overrun incident occurred when a 2-car local train lost power and overran its stop by 300 meters.\n\nNagoya Main Line\nμ-SKY, rapid express, limited express, rapid, express and semi-express services pass.\n\nLocal\nKasamatsu (NH56) – Ginan (NH57) – Chūja (NH58).\n\nRailway stations in Gifu Prefecture\nGinan Station is one of the railway stations in Gifu Prefecture.\n\nNagoya Railroad stations\nGinan Station is a station on the Nagoya Railroad network.",
+          "字数": 1900
         }
       },
       "结构化信息": {
@@ -535,11 +591,20 @@
           "首段": "is a railway station located in the city of Hashima, Gifu Prefecture,  Japan, operated by the private railway operator Meitetsu.",
           "章节": {
             "Lines": "Takehana Station is a station on the Takehana Line, and is located 8.6 kilometers from the terminus of the line at .\n\nStation layout\nTakehana Station has one ground-level side platform serving a single bi-directional track. The station is unattended.\n\nAdjacent stations",
-            "History": "Takehana Station opened on June 25, 1921. On February 18, 1929, it changed its name to . It reverted to its original name on January 1, 1951.\n\nSurrounding area\nHakken Shrine\nTakehana Elementary School\nHashima City Hospital\n\nSee also\n List of Railway Stations in Japan\n\nExternal links",
-            "References": "Railway stations in Japan opened in 1921\nStations of Nagoya Railroad\nRailway stations in Gifu Prefecture\nHashima, Gifu"
+            "History": "The Takehana Railway head office (two-story wooden building) stood beside the station; it was used as a warehouse after the merger and demolished around 1980.",
+            "References": "Railway stations in Japan opened in 1921\nStations of Nagoya Railroad\nRailway stations in Gifu Prefecture\nHashima, Gifu",
+            "Chronology": "Jun 25, 1921: opened as Takehana Station on the Takehana Railway. Feb 19, 1929: renamed Sakae-chō. Mar 1, 1943: became a Meitetsu station. Jan 1, 1951: renamed back to Takehana.",
+            "Station layout": "An at-grade, unattended station with a single side platform under central management.",
+            "Usage": "Daily passengers were 2,061 in fiscal 2013, 181st of 275 Meitetsu stations.",
+            "Passenger numbers": "Daily boardings have been recorded since 1921.",
+            "Takehana branch depot": "A rolling-stock shed stood opposite the platforms from opening; removed after the 1962 voltage upgrade.",
+            "Surroundings": "Nearest to the old center of Hashima (former Takehana-chō), at the edge of the old town.",
+            "Hashima City Hospital": "Yatsurugi Shrine (Takehana castle ruins) is nearby.",
+            "Takehana Line": "Fuwa-Ishiki (TH05) – Takehana (TH06) – Hashima-Shiyakusho-mae (TH07).",
+            "Railway stations in Hashima": "Takehana Station is one of the railway stations in Hashima, Gifu Prefecture."
           },
-          "全文": "is a railway station located in the city of Hashima, Gifu Prefecture,  Japan, operated by the private railway operator Meitetsu.\n\nLines\nTakehana Station is a station on the Takehana Line, and is located 8.6 kilometers from the terminus of the line at .\n\nStation layout\nTakehana Station has one ground-level side platform serving a single bi-directional track. The station is unattended.\n\nAdjacent stations\n\nHistory\nTakehana Station opened on June 25, 1921. On February 18, 1929, it changed its name to . It reverted to its original name on January 1, 1951.\n\nSurrounding area\nHakken Shrine\nTakehana Elementary School\nHashima City Hospital\n\nSee also\n List of Railway Stations in Japan\n\nExternal links\n\nReferences\n\nRailway stations in Japan opened in 1921\nStations of Nagoya Railroad\nRailway stations in Gifu Prefecture\nHashima, Gifu",
-          "字数": 830
+          "全文": "is a railway station located in the city of Hashima, Gifu Prefecture,  Japan, operated by the private railway operator Meitetsu.\n\nLines\nTakehana Station is a station on the Takehana Line, and is located 8.6 kilometers from the terminus of the line at .\n\nStation layout\nTakehana Station has one ground-level side platform serving a single bi-directional track. The station is unattended.\n\nAdjacent stations\n\nHistory\nThe Takehana Railway head office (two-story wooden building) stood beside the station; it was used as a warehouse after the merger and demolished around 1980.\n\nReferences\nRailway stations in Japan opened in 1921\nStations of Nagoya Railroad\nRailway stations in Gifu Prefecture\nHashima, Gifu\n\nChronology\nJun 25, 1921: opened as Takehana Station on the Takehana Railway. Feb 19, 1929: renamed Sakae-chō. Mar 1, 1943: became a Meitetsu station. Jan 1, 1951: renamed back to Takehana.\n\nStation layout\nAn at-grade, unattended station with a single side platform under central management.\n\nUsage\nDaily passengers were 2,061 in fiscal 2013, 181st of 275 Meitetsu stations.\n\nPassenger numbers\nDaily boardings have been recorded since 1921.\n\nTakehana branch depot\nA rolling-stock shed stood opposite the platforms from opening; removed after the 1962 voltage upgrade.\n\nSurroundings\nNearest to the old center of Hashima (former Takehana-chō), at the edge of the old town.\n\nHashima City Hospital\nYatsurugi Shrine (Takehana castle ruins) is nearby.\n\nTakehana Line\nFuwa-Ishiki (TH05) – Takehana (TH06) – Hashima-Shiyakusho-mae (TH07).\n\nRailway stations in Hashima\nTakehana Station is one of the railway stations in Hashima, Gifu Prefecture.",
+          "字数": 1641
         }
       },
       "结构化信息": {
@@ -628,9 +693,23 @@
           "词条标题": "Kasamatsu Station",
           "链接": "https://en.wikipedia.org/wiki/Kasamatsu%20Station",
           "首段": "Kasamatsu Station is the name of two train stations in Japan:\n\n Kasamatsu Station (Gifu) (笠松駅)\n Kasamatsu Station (Kyoto) (傘松駅)",
-          "章节": {},
-          "全文": "Kasamatsu Station is the name of two train stations in Japan:\n\n Kasamatsu Station (Gifu) (笠松駅)\n Kasamatsu Station (Kyoto) (傘松駅)",
-          "字数": 127
+          "章节": {
+            "Overview": "A rapid-express/limited-express stop; daytime expresses on the Nagoya Main Line connect with Takehana Line starters here. Through expresses from Meitetsu-Gifu turn local here.",
+            "Nagoya Main Line": "Takehana Line (terminus, some through to Gifu).",
+            "History": "Apr 29, 1935: opened as Shin-Kasamatsu Station with the Meigi Line. Aug 1, 1935: Meigi Railway merged into Nagoya Railroad. May 1936: renamed Kasamatsu.",
+            "Station layout": "Three platforms: one island and one side. Takehana Line uses track 1; other trains use tracks 2–3. Tracks 2–3 are on a curve.",
+            "Usage": "Daily passengers were 6,484 in fiscal 2020 (6,484) and 7,820 in fiscal 2013, 50th of 275 Meitetsu stations.",
+            "Passenger numbers": "Daily boardings have been recorded since 1955.",
+            "Residential area": "Kasamatsu Racecourse (about 5 minutes' walk); former Higashi-Kasamatsu station closed in 2005.",
+            "Community hall": "Ginan community bus began running from September 2022.",
+            "Rapid/express": "Shin-Kisogawa (NH53) – Kasamatsu (NH56) – Meitetsu-Gifu (NH60).",
+            "Local": "Kisogawa-zutsumi (NH55) – Kasamatsu (NH56) – Ginan (NH57).",
+            "Takehana Line": "Meitetsu-Gifu direction – Kasamatsu (NH56) – Nishi-Kasamatsu (TH01).",
+            "Railway stations in Gifu Prefecture": "Kasamatsu Station is one of the railway stations in Gifu Prefecture.",
+            "Mino Electric Railway stations": "Kasamatsu Station was a Mino Electric Railway station."
+          },
+          "全文": "Kasamatsu Station is the name of two train stations in Japan:\n\n Kasamatsu Station (Gifu) (笠松駅)\n Kasamatsu Station (Kyoto) (傘松駅)\n\nOverview\nA rapid-express/limited-express stop; daytime expresses on the Nagoya Main Line connect with Takehana Line starters here. Through expresses from Meitetsu-Gifu turn local here.\n\nNagoya Main Line\nTakehana Line (terminus, some through to Gifu).\n\nHistory\nApr 29, 1935: opened as Shin-Kasamatsu Station with the Meigi Line. Aug 1, 1935: Meigi Railway merged into Nagoya Railroad. May 1936: renamed Kasamatsu.\n\nStation layout\nThree platforms: one island and one side. Takehana Line uses track 1; other trains use tracks 2–3. Tracks 2–3 are on a curve.\n\nUsage\nDaily passengers were 6,484 in fiscal 2020 (6,484) and 7,820 in fiscal 2013, 50th of 275 Meitetsu stations.\n\nPassenger numbers\nDaily boardings have been recorded since 1955.\n\nResidential area\nKasamatsu Racecourse (about 5 minutes' walk); former Higashi-Kasamatsu station closed in 2005.\n\nCommunity hall\nGinan community bus began running from September 2022.\n\nRapid/express\nShin-Kisogawa (NH53) – Kasamatsu (NH56) – Meitetsu-Gifu (NH60).\n\nLocal\nKisogawa-zutsumi (NH55) – Kasamatsu (NH56) – Ginan (NH57).\n\nTakehana Line\nMeitetsu-Gifu direction – Kasamatsu (NH56) – Nishi-Kasamatsu (TH01).\n\nRailway stations in Gifu Prefecture\nKasamatsu Station is one of the railway stations in Gifu Prefecture.\n\nMino Electric Railway stations\nKasamatsu Station was a Mino Electric Railway station.",
+          "字数": 1470
         }
       },
       "结构化信息": {
@@ -708,7 +787,22 @@
           "字数": 1246,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "首段": "Hashima-Shiyakusho-mae Station (羽島市役所前駅) is a station on the Meitetsu Takehana Line in Hashima, Gifu Prefecture, Japan.",
+          "章节": {
+            "History": "Apr 1, 1929: opened as Takehana Station. Jan 1, 1951: renamed Nishi-Takehana. Apr 1, 1959: renamed Hashima. Freight services ended in fiscal 1965.",
+            "Station layout": "An at-grade station with one island platform (two tracks); the only staffed station on the Takehana/Hashima lines except Kasamatsu. Trains pass here.",
+            "Usage": "Daily passengers were 2,114 in fiscal 2013, 178th of 275 Meitetsu stations.",
+            "Passenger numbers": "Daily boardings have been recorded since 1929.",
+            "Takehana Junior High": "Gifu Prefectural Routes 1 and 18 (overlapping near the station) are nearby.",
+            "Bus routes": "Hashima community bus southern line (Ōsu direction), following the closed Takehana Line section.",
+            "Takehana Line": "Takehana (TH06) – Hashima-Shiyakusho-mae (TH07) – Enkyōji (TH08).",
+            "External sites": "Hashima-Shiyakusho-mae Station – Nagoya Railroad.",
+            "Railway stations in Hashima": "Hashima-Shiyakusho-mae Station is one of the railway stations in Hashima, Gifu Prefecture."
+          },
+          "全文": "Hashima-Shiyakusho-mae Station (羽島市役所前駅) is a station on the Meitetsu Takehana Line in Hashima, Gifu Prefecture, Japan.\n\nHistory\nApr 1, 1929: opened as Takehana Station. Jan 1, 1951: renamed Nishi-Takehana. Apr 1, 1959: renamed Hashima. Freight services ended in fiscal 1965.\n\nStation layout\nAn at-grade station with one island platform (two tracks); the only staffed station on the Takehana/Hashima lines except Kasamatsu. Trains pass here.\n\nUsage\nDaily passengers were 2,114 in fiscal 2013, 178th of 275 Meitetsu stations.\n\nPassenger numbers\nDaily boardings have been recorded since 1929.\n\nTakehana Junior High\nGifu Prefectural Routes 1 and 18 (overlapping near the station) are nearby.\n\nBus routes\nHashima community bus southern line (Ōsu direction), following the closed Takehana Line section.\n\nTakehana Line\nTakehana (TH06) – Hashima-Shiyakusho-mae (TH07) – Enkyōji (TH08).\n\nExternal sites\nHashima-Shiyakusho-mae Station – Nagoya Railroad.\n\nRailway stations in Hashima\nHashima-Shiyakusho-mae Station is one of the railway stations in Hashima, Gifu Prefecture.",
+          "字数": 1064
+        }
       },
       "结构化信息": {
         "读音": "はしましやくしょまええき",
@@ -789,7 +883,24 @@
           "字数": 251,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "首段": "Chūja Station (茶所駅) is a station on the Meitetsu Nagoya Main Line in Gifu, Gifu Prefecture, Japan.",
+          "章节": {
+            "History": "Jun 2, 1914: opened as Kami-Kawate Station. Dec 14, 1914: renamed Chūja. Dec 28, 1956: Chūja train depot set up. Dec 1, 1967: became unattended.",
+            "Station layout": "An at-grade station with two opposed side platforms (4-car), with separate station buildings on each side and no inside-gate passage.",
+            "Usage": "Daily passengers were 535 in fiscal 2013, 257th of 275 Meitetsu stations.",
+            "Surroundings": "A residential area along the old Nakasendō; the Chūja train depot is toward Ginan.",
+            "Bus routes": "The 'Chūja' stop (east) and 'Jōtō-dōri 1-chōme' stop (west) are nearby.",
+            "Chūja bus stop": "Gifu Bus Ginan-chō line for JR Gifu/Gifu University and Ginan-chō Miyake.",
+            "Jōtō-dōri 1-chōme": "Gifu Bus Shōrai-Kano and other routes for JR Gifu and various housing estates.",
+            "Inagaki barber shop": "Gifu community bus 'Atsumi-Akana Gururi' for Atsumi Junior High and JR Gifu south exit.",
+            "Nagoya Main Line": "μ-SKY, rapid express, limited express, rapid, express and semi-express services pass.",
+            "Local": "Ginan (NH57) – Chūja (NH58) – Kano (NH59).",
+            "Railway stations in Gifu": "Chūja Station is one of the railway stations in Gifu City."
+          },
+          "全文": "Chūja Station (茶所駅) is a station on the Meitetsu Nagoya Main Line in Gifu, Gifu Prefecture, Japan.\n\nHistory\nJun 2, 1914: opened as Kami-Kawate Station. Dec 14, 1914: renamed Chūja. Dec 28, 1956: Chūja train depot set up. Dec 1, 1967: became unattended.\n\nStation layout\nAn at-grade station with two opposed side platforms (4-car), with separate station buildings on each side and no inside-gate passage.\n\nUsage\nDaily passengers were 535 in fiscal 2013, 257th of 275 Meitetsu stations.\n\nSurroundings\nA residential area along the old Nakasendō; the Chūja train depot is toward Ginan.\n\nBus routes\nThe 'Chūja' stop (east) and 'Jōtō-dōri 1-chōme' stop (west) are nearby.\n\nChūja bus stop\nGifu Bus Ginan-chō line for JR Gifu/Gifu University and Ginan-chō Miyake.\n\nJōtō-dōri 1-chōme\nGifu Bus Shōrai-Kano and other routes for JR Gifu and various housing estates.\n\nInagaki barber shop\nGifu community bus 'Atsumi-Akana Gururi' for Atsumi Junior High and JR Gifu south exit.\n\nNagoya Main Line\nμ-SKY, rapid express, limited express, rapid, express and semi-express services pass.\n\nLocal\nGinan (NH57) – Chūja (NH58) – Kano (NH59).\n\nRailway stations in Gifu\nChūja Station is one of the railway stations in Gifu City.",
+          "字数": 1200
+        }
       },
       "结构化信息": {
         "读音": "ちゃじょえき",
@@ -865,7 +976,20 @@
           "字数": 1395,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "首段": "Nishi-Kasamatsu Station (西笠松駅) is a station on the Meitetsu Takehana Line in Kasamatsu, Hashima District, Gifu Prefecture, Japan.",
+          "章节": {
+            "History": "Jun 2, 1914: opened as Kasamatsu-guchi Station. Feb 1, 1916: renamed Kasamatsu. Moved and renamed several times; became Nishi-Kasamatsu in 1936.",
+            "Station layout": "An at-grade station with two opposed side platforms allowing train passing, under the 'manaca' central management system.",
+            "Usage": "Daily passengers were 1,107 in fiscal 2013, 214th of 275 Meitetsu stations.",
+            "Passenger numbers": "Daily boardings have been recorded since 1921.",
+            "Takehana Line": "Kasamatsu (NH56) – Nishi-Kasamatsu (TH01) – Yanagitsu (TH02).",
+            "Railway stations in Gifu Prefecture": "Nishi-Kasamatsu Station is one of the railway stations in Gifu Prefecture.",
+            "Takehana Railway stations": "Nishi-Kasamatsu Station was a Takehana Railway station."
+          },
+          "全文": "Nishi-Kasamatsu Station (西笠松駅) is a station on the Meitetsu Takehana Line in Kasamatsu, Hashima District, Gifu Prefecture, Japan.\n\nHistory\nJun 2, 1914: opened as Kasamatsu-guchi Station. Feb 1, 1916: renamed Kasamatsu. Moved and renamed several times; became Nishi-Kasamatsu in 1936.\n\nStation layout\nAn at-grade station with two opposed side platforms allowing train passing, under the 'manaca' central management system.\n\nUsage\nDaily passengers were 1,107 in fiscal 2013, 214th of 275 Meitetsu stations.\n\nPassenger numbers\nDaily boardings have been recorded since 1921.\n\nTakehana Line\nKasamatsu (NH56) – Nishi-Kasamatsu (TH01) – Yanagitsu (TH02).\n\nRailway stations in Gifu Prefecture\nNishi-Kasamatsu Station is one of the railway stations in Gifu Prefecture.\n\nTakehana Railway stations\nNishi-Kasamatsu Station was a Takehana Railway station.",
+          "字数": 842
+        }
       },
       "结构化信息": {
         "读音": "にしかさまつえき",
@@ -942,10 +1066,15 @@
           "首段": "is a railway station located in the city of Hashima, Gifu Prefecture,  Japan, operated by the private railway operator Meitetsu.",
           "章节": {
             "Lines": "Suka Station is a station on the Takehana Line, and is located 6.1 kilometers from the terminus of the line at .\n\nStation layout\nSuka Station has one ground-level side platform serving a single bi-directional track. The station is unattended.\n\nAdjacent stations",
-            "History": "Suka Station opened on June 25, 1921.\n\nSurrounding area\nHashiba Junior High School\n\nSee also\n List of Railway Stations in Japan\n\nExternal links\n\n  \n\nRailway stations in Japan opened in 1921\nStations of Nagoya Railroad\nRailway stations in Gifu Prefecture\nHashima, Gifu"
+            "History": "Jun 25, 1921: opened. Before Nov 1, 1948: became unattended. Dec 14, 2007: Tranpass introduced. Feb 11, 2011: 'manaca' accepted.",
+            "Station layout": "An at-grade, unattended station with a single side platform, under central management (Meitetsu Gifu).",
+            "Usage": "Daily passengers were 967 in fiscal 2013, 227th of 275 Meitetsu stations.",
+            "Passenger numbers": "Daily boardings have been recorded since 1921.",
+            "Surroundings": "Formerly rice fields, the area has become residential and ridership is growing.",
+            "Takehana Line": "Minamijuku (TH03) – Suka (TH04) – Fuwa-Ishiki (TH05)."
           },
-          "全文": "is a railway station located in the city of Hashima, Gifu Prefecture,  Japan, operated by the private railway operator Meitetsu.\n\nLines\nSuka Station is a station on the Takehana Line, and is located 6.1 kilometers from the terminus of the line at .\n\nStation layout\nSuka Station has one ground-level side platform serving a single bi-directional track. The station is unattended.\n\nAdjacent stations\n\nHistory\nSuka Station opened on June 25, 1921.\n\nSurrounding area\nHashiba Junior High School\n\nSee also\n List of Railway Stations in Japan\n\nExternal links\n\n  \n\nRailway stations in Japan opened in 1921\nStations of Nagoya Railroad\nRailway stations in Gifu Prefecture\nHashima, Gifu",
-          "字数": 674
+          "全文": "is a railway station located in the city of Hashima, Gifu Prefecture,  Japan, operated by the private railway operator Meitetsu.\n\nLines\nSuka Station is a station on the Takehana Line, and is located 6.1 kilometers from the terminus of the line at .\n\nStation layout\nSuka Station has one ground-level side platform serving a single bi-directional track. The station is unattended.\n\nAdjacent stations\n\nHistory\nJun 25, 1921: opened. Before Nov 1, 1948: became unattended. Dec 14, 2007: Tranpass introduced. Feb 11, 2011: 'manaca' accepted.\n\nStation layout\nAn at-grade, unattended station with a single side platform, under central management (Meitetsu Gifu).\n\nUsage\nDaily passengers were 967 in fiscal 2013, 227th of 275 Meitetsu stations.\n\nPassenger numbers\nDaily boardings have been recorded since 1921.\n\nSurroundings\nFormerly rice fields, the area has become residential and ridership is growing.\n\nTakehana Line\nMinamijuku (TH03) – Suka (TH04) – Fuwa-Ishiki (TH05).",
+          "字数": 964
         }
       },
       "结构化信息": {
@@ -984,6 +1113,6 @@
     "有中文词条": 12,
     "已千问汉化": 0,
     "待汉化": 0,
-    "有英文词条": 6
+    "有英文词条": 12
   }
 }
