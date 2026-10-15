@@ -45,7 +45,14 @@
         "字数": 1047,
         "来源": "维基百科中文版（已转简体）"
       },
-      "英文": null
+      "英文": {
+        "词条标题": "Taisha Line",
+        "链接": "https://en.wikipedia.org/wiki/Taisha_Line",
+        "首段": "The Taisha Line is a railway line in Izumo, Shimane Prefecture, Japan, operated by the Ichibata Electric Railway.",
+        "章节": {},
+        "全文": "The Taisha Line is a railway line in Izumo, Shimane Prefecture, Japan, operated by the Ichibata Electric Railway.",
+        "字数": 113
+      }
     }
   },
   "车站": [
@@ -93,7 +100,14 @@
           "字数": 582,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Izumo-Taisha-Mae Station",
+          "链接": "https://en.wikipedia.org/wiki/Izumo-Taisha-Mae_Station",
+          "首段": "Izumo-Taisha-Mae Station is a station on the Ichibata Electric Railway Taisha Line, located in Izumo, Shimane Prefecture, Japan, serving Izumo Taisha shrine.",
+          "章节": {},
+          "全文": "Izumo-Taisha-Mae Station is a station on the Ichibata Electric Railway Taisha Line, located in Izumo, Shimane Prefecture, Japan, serving Izumo Taisha shrine.",
+          "字数": 157
+        }
       },
       "结构化信息": {
         "读音": "いずもたいしゃまええき",
@@ -247,7 +261,14 @@
           "字数": 547,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Hamayamakōen-Kitaguchi Station",
+          "链接": "https://en.wikipedia.org/wiki/Hamayamakōen-Kitaguchi_Station",
+          "首段": "Hamayamakōen-Kitaguchi Station is a station on the Ichibata Electric Railway Taisha Line, located in Izumo, Shimane Prefecture, Japan.",
+          "章节": {},
+          "全文": "Hamayamakōen-Kitaguchi Station is a station on the Ichibata Electric Railway Taisha Line, located in Izumo, Shimane Prefecture, Japan.",
+          "字数": 134
+        }
       },
       "结构化信息": {
         "读音": "はまやまこうえんきたぐちえき",
@@ -408,6 +429,6 @@
     "有中文词条": 5,
     "已千问汉化": 0,
     "待汉化": 0,
-    "有英文词条": 3
+    "有英文词条": 5
   }
 }

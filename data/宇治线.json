@@ -201,7 +201,14 @@
           "字数": 730,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Chūshojima Station",
+          "链接": "https://en.wikipedia.org/wiki/Chūshojima_Station",
+          "首段": "Chūshojima Station is a station on the Keihan Main Line and Keihan Uji Line, located in Fushimi Ward, Kyoto, Japan.",
+          "章节": {},
+          "全文": "Chūshojima Station is a station on the Keihan Main Line and Keihan Uji Line, located in Fushimi Ward, Kyoto, Japan.",
+          "字数": 115
+        }
       },
       "结构化信息": {
         "读音": "ちゅうしょじまえき",
@@ -437,7 +444,14 @@
           "字数": 110,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Kobata Station",
+          "链接": "https://en.wikipedia.org/wiki/Kobata_Station",
+          "首段": "Kobata Station is a station on the Keihan Uji Line, located in Uji, Kyoto Prefecture, Japan.",
+          "章节": {},
+          "全文": "Kobata Station is a station on the Keihan Uji Line, located in Uji, Kyoto Prefecture, Japan.",
+          "字数": 92
+        }
       },
       "结构化信息": {
         "读音": null,
@@ -495,7 +509,14 @@
           "字数": 773,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Momoyama-Minamiguchi Station",
+          "链接": "https://en.wikipedia.org/wiki/Momoyama-Minamiguchi_Station",
+          "首段": "Momoyama-Minamiguchi Station is a station on the Keihan Uji Line, located in Fushimi Ward, Kyoto, Japan.",
+          "章节": {},
+          "全文": "Momoyama-Minamiguchi Station is a station on the Keihan Uji Line, located in Fushimi Ward, Kyoto, Japan.",
+          "字数": 104
+        }
       },
       "结构化信息": {
         "读音": "ももやまみなみぐちえき",
@@ -721,6 +742,6 @@
     "有中文词条": 8,
     "已千问汉化": 0,
     "待汉化": 0,
-    "有英文词条": 5
+    "有英文词条": 8
   }
 }

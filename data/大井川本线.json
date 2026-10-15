@@ -49,7 +49,14 @@
         "字数": 395,
         "来源": "维基百科中文版（已转简体）"
       },
-      "英文": null
+      "英文": {
+        "词条标题": "Ōigawa Railway Ōigawa Main Line",
+        "链接": "https://en.wikipedia.org/wiki/Ōigawa_Railway_Ōigawa_Main_Line",
+        "首段": "The Ōigawa Railway Ōigawa Main Line is a railway line in Shizuoka Prefecture, Japan, operated by the Ōigawa Railway, connecting Kanaya Station in Shimada to Senzu Station in Kawanehon.",
+        "章节": {},
+        "全文": "The Ōigawa Railway Ōigawa Main Line is a railway line in Shizuoka Prefecture, Japan, operated by the Ōigawa Railway, connecting Kanaya Station in Shimada to Senzu Station in Kawanehon.",
+        "字数": 184
+      }
     }
   },
   "车站": [
@@ -94,7 +101,14 @@
           "字数": 526,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Daikanchō Station",
+          "链接": "https://en.wikipedia.org/wiki/Daikanchō_Station",
+          "首段": "Daikanchō Station is a station on the Ōigawa Railway Ōigawa Main Line, located in Shimada, Shizuoka Prefecture, Japan.",
+          "章节": {},
+          "全文": "Daikanchō Station is a station on the Ōigawa Railway Ōigawa Main Line, located in Shimada, Shizuoka Prefecture, Japan.",
+          "字数": 118
+        }
       },
       "结构化信息": {
         "读音": "だいかんちょうえき",
@@ -227,7 +241,14 @@
           "字数": 425,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Ōwada Station",
+          "链接": "https://en.wikipedia.org/wiki/Ōwada_Station",
+          "首段": "Ōwada Station is a station on the Ōigawa Railway Ōigawa Main Line, located in Shimada, Shizuoka Prefecture, Japan.",
+          "章节": {},
+          "全文": "Ōwada Station is a station on the Ōigawa Railway Ōigawa Main Line, located in Shimada, Shizuoka Prefecture, Japan.",
+          "字数": 114
+        }
       },
       "结构化信息": {
         "读音": null,
@@ -382,7 +403,14 @@
           "字数": 428,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Kawane-Onsen-Sasamado Station",
+          "链接": "https://en.wikipedia.org/wiki/Kawane-Onsen-Sasamado_Station",
+          "首段": "Kawane-Onsen-Sasamado Station is a station on the Ōigawa Railway Ōigawa Main Line, located in Kawanehon, Shizuoka Prefecture, Japan.",
+          "章节": {},
+          "全文": "Kawane-Onsen-Sasamado Station is a station on the Ōigawa Railway Ōigawa Main Line, located in Kawanehon, Shizuoka Prefecture, Japan.",
+          "字数": 132
+        }
       },
       "结构化信息": {
         "读音": "かわねおんせんささまどえき",
@@ -532,7 +560,14 @@
           "字数": 984,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Shin-Kanaya Station",
+          "链接": "https://en.wikipedia.org/wiki/Shin-Kanaya_Station",
+          "首段": "Shin-Kanaya Station is a station on the Ōigawa Railway Ōigawa Main Line, located in Shimada, Shizuoka Prefecture, Japan.",
+          "章节": {},
+          "全文": "Shin-Kanaya Station is a station on the Ōigawa Railway Ōigawa Main Line, located in Shimada, Shizuoka Prefecture, Japan.",
+          "字数": 120
+        }
       },
       "结构化信息": {
         "读音": "しんかなやえき",
@@ -946,6 +981,6 @@
     "有中文词条": 12,
     "已千问汉化": 0,
     "待汉化": 0,
-    "有英文词条": 8
+    "有英文词条": 12
   }
 }

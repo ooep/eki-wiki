@@ -88,7 +88,14 @@
         "字数": 410,
         "来源": "维基百科中文版（已转简体）"
       },
-      "英文": null
+      "英文": {
+        "词条标题": "Fuji Kyūkō Ōtsuki Line",
+        "链接": "https://en.wikipedia.org/wiki/Fuji_Kyūkō_Ōtsuki_Line",
+        "首段": "The Fuji Kyūkō Ōtsuki Line is a railway line in Yamanashi Prefecture, Japan, operated by Fuji Kyūkō, connecting Ōtsuki Station to Fujiyoshida Station.",
+        "章节": {},
+        "全文": "The Fuji Kyūkō Ōtsuki Line is a railway line in Yamanashi Prefecture, Japan, operated by Fuji Kyūkō, connecting Ōtsuki Station to Fujiyoshida Station.",
+        "字数": 150
+      }
     }
   },
   "车站": [
@@ -528,7 +535,14 @@
           "字数": 904,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Fujisan Station",
+          "链接": "https://en.wikipedia.org/wiki/Fujisan_Station",
+          "首段": "Fujisan Station is a station on the Fuji Kyūkō Ōtsuki Line, located in Fujiyoshida, Yamanashi Prefecture, Japan.",
+          "章节": {},
+          "全文": "Fujisan Station is a station on the Fuji Kyūkō Ōtsuki Line, located in Fujiyoshida, Yamanashi Prefecture, Japan.",
+          "字数": 112
+        }
       },
       "结构化信息": {
         "读音": "ふじさんえき",
@@ -599,7 +613,14 @@
           "字数": 485,
           "全文": "富士急乐园站（ふじきゅうハイランドえき）是位于山梨县南都留郡富士河口湖町船津的富士山麓电气铁道富士急行线车站，车站编号FJ17，副站名为「托马斯乐园」。\n本站是富士急乐园的门户车站，所有列车均在此停靠。\n\n历史 \n开业时站名为Highland站。\n1961年（昭和36年）12月1日：以Highland站开业。\n1978年（昭和53年）6月：委托化。\n1981年（昭和56年）1月11日：改称富士急乐园站。\n\n车站结构 \n单式月台1面1线的地上车站。考虑临时列车驶入，月台有效长对应6节编组。线路几乎从南东向北西延伸，月台设于其南西側。月台上有可关闭候车处。\n\n使用情况 \n2021年度（令和2年度）年间上下车人员194,163人（1日平均约532人）。\n\n车站周边 \n车站周边富士吉田市与富士河口湖町境界线复杂，出本站后一度进入富士吉田市再穿出至富士河口湖町，到达河口湖站。\n\n富士急乐园 \nCabin & Lounge Highland Station Inn（胶囊酒店）\n\n相邻车站 \n普通：富士山站（FJ16）- 富士急乐园站（FJ17）- 河口湖站（FJ18）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Fujikyū-Highland Station",
+          "链接": "https://en.wikipedia.org/wiki/Fujikyū-Highland_Station",
+          "首段": "Fujikyū-Highland Station is a station on the Fuji Kyūkō Ōtsuki Line, located in Fujiyoshida, Yamanashi Prefecture, Japan, serving the Fuji-Q Highland amusement park.",
+          "章节": {},
+          "全文": "Fujikyū-Highland Station is a station on the Fuji Kyūkō Ōtsuki Line, located in Fujiyoshida, Yamanashi Prefecture, Japan, serving the Fuji-Q Highland amusement park.",
+          "字数": 165
+        }
       },
       "结构化信息": {
         "读音": "ふじきゅうハイランドえき",
@@ -1162,7 +1183,14 @@
           "字数": 350,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Yoshiike-Onsen-mae Station",
+          "链接": "https://en.wikipedia.org/wiki/Yoshiike-Onsen-mae_Station",
+          "首段": "Yoshiike-Onsen-mae Station is a station on the Fuji Kyūkō Ōtsuki Line, located in Fujikawaguchiko, Yamanashi Prefecture, Japan.",
+          "章节": {},
+          "全文": "Yoshiike-Onsen-mae Station is a station on the Fuji Kyūkō Ōtsuki Line, located in Fujikawaguchiko, Yamanashi Prefecture, Japan.",
+          "字数": 127
+        }
       },
       "结构化信息": {
         "读音": "よしいけおんせんまええき",
@@ -1492,6 +1520,6 @@
     "有中文词条": 18,
     "已千问汉化": 2,
     "待汉化": 0,
-    "有英文词条": 15
+    "有英文词条": 18
   }
 }

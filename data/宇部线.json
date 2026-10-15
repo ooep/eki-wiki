@@ -114,7 +114,14 @@
           "字数": 655,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Kami-Kagawa Station",
+          "链接": "https://en.wikipedia.org/wiki/Kami-Kagawa_Station",
+          "首段": "Kami-Kagawa Station is a station on the JR West Ube Line, located in Yamaguchi, Yamaguchi Prefecture, Japan.",
+          "章节": {},
+          "全文": "Kami-Kagawa Station is a station on the JR West Ube Line, located in Yamaguchi, Yamaguchi Prefecture, Japan.",
+          "字数": 108
+        }
       },
       "结构化信息": {
         "读音": "かみかがわえき",
@@ -504,7 +511,14 @@
           "字数": 652,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Suō-Sayama Station",
+          "链接": "https://en.wikipedia.org/wiki/Suō-Sayama_Station",
+          "首段": "Suō-Sayama Station is a station on the JR West Ube Line, located in Ube, Yamaguchi Prefecture, Japan.",
+          "章节": {},
+          "全文": "Suō-Sayama Station is a station on the JR West Ube Line, located in Ube, Yamaguchi Prefecture, Japan.",
+          "字数": 101
+        }
       },
       "结构化信息": {
         "读音": "すおうさやまえき",
@@ -875,7 +889,14 @@
           "字数": 2652,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Ube-Shinkawa Station",
+          "链接": "https://en.wikipedia.org/wiki/Ube-Shinkawa_Station",
+          "首段": "Ube-Shinkawa Station is a station on the JR West Ube Line, located in Ube, Yamaguchi Prefecture, Japan.",
+          "章节": {},
+          "全文": "Ube-Shinkawa Station is a station on the JR West Ube Line, located in Ube, Yamaguchi Prefecture, Japan.",
+          "字数": 103
+        }
       },
       "结构化信息": {
         "读音": "うべしんかわえき",
@@ -1655,7 +1676,14 @@
           "字数": 904,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Shin-Shimonoseki Station",
+          "链接": "https://en.wikipedia.org/wiki/Shin-Shimonoseki_Station",
+          "首段": "Shin-Shimonoseki Station is a station on the JR West Sanyō Shinkansen and San'in Main Line, located in Shimonoseki, Yamaguchi Prefecture, Japan.",
+          "章节": {},
+          "全文": "Shin-Shimonoseki Station is a station on the JR West Sanyō Shinkansen and San'in Main Line, located in Shimonoseki, Yamaguchi Prefecture, Japan.",
+          "字数": 144
+        }
       },
       "结构化信息": {
         "读音": "しんしものせきえき",
@@ -1760,7 +1788,14 @@
           "字数": 1284,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Shin-Yamaguchi Station",
+          "链接": "https://en.wikipedia.org/wiki/Shin-Yamaguchi_Station",
+          "首段": "Shin-Yamaguchi Station is a station on the JR West Sanyō Shinkansen and Yamaguchi Line, located in Yamaguchi, Yamaguchi Prefecture, Japan.",
+          "章节": {},
+          "全文": "Shin-Yamaguchi Station is a station on the JR West Sanyō Shinkansen and Yamaguchi Line, located in Yamaguchi, Yamaguchi Prefecture, Japan.",
+          "字数": 138
+        }
       },
       "结构化信息": {
         "读音": "しんやまぐちえき",
@@ -1840,7 +1875,14 @@
           "字数": 250,
           "来源": "豆包全文翻译（据日文维基全文）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Higashi-Shinkawa Station",
+          "链接": "https://en.wikipedia.org/wiki/Higashi-Shinkawa_Station",
+          "首段": "Higashi-Shinkawa Station is a station on the JR West Ube Line, located in Ube, Yamaguchi Prefecture, Japan.",
+          "章节": {},
+          "全文": "Higashi-Shinkawa Station is a station on the JR West Ube Line, located in Ube, Yamaguchi Prefecture, Japan.",
+          "字数": 107
+        }
       },
       "结构化信息": {
         "读音": null,
@@ -2153,7 +2195,14 @@
           "字数": 1574,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Chōfu Station",
+          "链接": "https://en.wikipedia.org/wiki/Chōfu_Station",
+          "首段": "Chōfu Station is a station on the JR West San'in Main Line, located in Shimonoseki, Yamaguchi Prefecture, Japan.",
+          "章节": {},
+          "全文": "Chōfu Station is a station on the JR West San'in Main Line, located in Shimonoseki, Yamaguchi Prefecture, Japan.",
+          "字数": 112
+        }
       },
       "结构化信息": {
         "读音": "ちょうふえき",
@@ -2278,6 +2327,6 @@
     "有中文词条": 26,
     "已千问汉化": 0,
     "待汉化": 0,
-    "有英文词条": 19
+    "有英文词条": 26
   }
 }

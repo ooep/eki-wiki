@@ -188,7 +188,14 @@
           "字数": 663,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Bitchū-Mishima Station",
+          "链接": "https://en.wikipedia.org/wiki/Bitchū-Mishima_Station",
+          "首段": "Bitchū-Mishima Station is a station on the JR West Uno Line, located in Okayama, Japan.",
+          "章节": {},
+          "全文": "Bitchū-Mishima Station is a station on the JR West Uno Line, located in Okayama, Japan.",
+          "字数": 87
+        }
       },
       "结构化信息": {
         "读音": "びっちゅうみしまえき",
@@ -267,7 +274,14 @@
           "字数": 1646,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Bizen-Kataoka Station",
+          "链接": "https://en.wikipedia.org/wiki/Bizen-Kataoka_Station",
+          "首段": "Bizen-Kataoka Station is a station on the JR West Uno Line, located in Okayama, Japan.",
+          "章节": {},
+          "全文": "Bizen-Kataoka Station is a station on the JR West Uno Line, located in Okayama, Japan.",
+          "字数": 86
+        }
       },
       "结构化信息": {
         "读音": "びぜんかたおかえき",
@@ -348,7 +362,14 @@
           "字数": 1371,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Bizen-Tai Station",
+          "链接": "https://en.wikipedia.org/wiki/Bizen-Tai_Station",
+          "首段": "Bizen-Tai Station is a station on the JR West Uno Line, located in Okayama, Japan.",
+          "章节": {},
+          "全文": "Bizen-Tai Station is a station on the JR West Uno Line, located in Okayama, Japan.",
+          "字数": 82
+        }
       },
       "结构化信息": {
         "读音": "びぜんたいえき",
@@ -423,7 +444,14 @@
           "字数": 1155,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Bizen-Nishiichi Station",
+          "链接": "https://en.wikipedia.org/wiki/Bizen-Nishiichi_Station",
+          "首段": "Bizen-Nishiichi Station is a station on the JR West Uno Line, located in Okayama, Japan.",
+          "章节": {},
+          "全文": "Bizen-Nishiichi Station is a station on the JR West Uno Line, located in Okayama, Japan.",
+          "字数": 88
+        }
       },
       "结构化信息": {
         "读音": "びぜんにしいちえき",
@@ -1270,7 +1298,14 @@
           "字数": 1081,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Chayamachi Station",
+          "链接": "https://en.wikipedia.org/wiki/Chayamachi_Station",
+          "首段": "Chayamachi Station is a station on the JR West Uno Line and Tsuyama Line, located in Okayama, Japan.",
+          "章节": {},
+          "全文": "Chayamachi Station is a station on the JR West Uno Line and Tsuyama Line, located in Okayama, Japan.",
+          "字数": 100
+        }
       },
       "结构化信息": {
         "读音": "ちゃやまちえき",
@@ -1393,6 +1428,6 @@
     "有中文词条": 15,
     "已千问汉化": 0,
     "待汉化": 0,
-    "有英文词条": 10
+    "有英文词条": 15
   }
 }

@@ -547,7 +547,14 @@
           "字数": 1495,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Yasura Station",
+          "链接": "https://en.wikipedia.org/wiki/Yasura_Station",
+          "首段": "Yasura Station is a station on the JR West Kure Line, located in Takehara, Hiroshima Prefecture, Japan.",
+          "章节": {},
+          "全文": "Yasura Station is a station on the JR West Kure Line, located in Takehara, Hiroshima Prefecture, Japan.",
+          "字数": 103
+        }
       },
       "结构化信息": {
         "读音": "やすうらえき",
@@ -1185,7 +1192,14 @@
           "字数": 959,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Tadanoumi Station",
+          "链接": "https://en.wikipedia.org/wiki/Tadanoumi_Station",
+          "首段": "Tadanoumi Station is a station on the JR West Kure Line, located in Takehara, Hiroshima Prefecture, Japan.",
+          "章节": {},
+          "全文": "Tadanoumi Station is a station on the JR West Kure Line, located in Takehara, Hiroshima Prefecture, Japan.",
+          "字数": 106
+        }
       },
       "结构化信息": {
         "读音": "ただのうみえき",
@@ -1255,7 +1269,14 @@
           "字数": 607,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Shin-Hiro Station",
+          "链接": "https://en.wikipedia.org/wiki/Shin-Hiro_Station",
+          "首段": "Shin-Hiro Station is a station on the JR West Kure Line, located in Kure, Hiroshima Prefecture, Japan.",
+          "章节": {},
+          "全文": "Shin-Hiro Station is a station on the JR West Kure Line, located in Kure, Hiroshima Prefecture, Japan.",
+          "字数": 102
+        }
       },
       "结构化信息": {
         "读音": "しんひろえき",
@@ -1532,6 +1553,6 @@
     "有中文词条": 18,
     "已千问汉化": 0,
     "待汉化": 0,
-    "有英文词条": 15
+    "有英文词条": 18
   }
 }

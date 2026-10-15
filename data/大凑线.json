@@ -59,7 +59,14 @@
         "字数": 3093,
         "来源": "维基百科中文版（已转简体）"
       },
-      "英文": null
+      "英文": {
+        "词条标题": "Ōminato Line",
+        "链接": "https://en.wikipedia.org/wiki/Ōminato_Line",
+        "首段": "The Ōminato Line is a railway line in Aomori Prefecture, Japan, operated by JR East, connecting Noheji Station to Ōminato Station in Mutsu.",
+        "章节": {},
+        "全文": "The Ōminato Line is a railway line in Aomori Prefecture, Japan, operated by JR East, connecting Noheji Station to Ōminato Station in Mutsu.",
+        "字数": 139
+      }
     }
   },
   "车站": [
@@ -193,7 +200,14 @@
           "字数": 437,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Kita-Noheji Station",
+          "链接": "https://en.wikipedia.org/wiki/Kita-Noheji_Station",
+          "首段": "Kita-Noheji Station is a station on the JR East Ōminato Line, located in Noheji, Aomori Prefecture, Japan.",
+          "章节": {},
+          "全文": "Kita-Noheji Station is a station on the JR East Ōminato Line, located in Noheji, Aomori Prefecture, Japan.",
+          "字数": 106
+        }
       },
       "结构化信息": {
         "读音": "きたのへじえき",
@@ -913,7 +927,14 @@
           "字数": 710,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Mutsu-Yokohama Station",
+          "链接": "https://en.wikipedia.org/wiki/Mutsu-Yokohama_Station",
+          "首段": "Mutsu-Yokohama Station is a station on the JR East Ōminato Line, located in Mutsu, Aomori Prefecture, Japan.",
+          "章节": {},
+          "全文": "Mutsu-Yokohama Station is a station on the JR East Ōminato Line, located in Mutsu, Aomori Prefecture, Japan.",
+          "字数": 108
+        }
       },
       "结构化信息": {
         "读音": "むつよこはまえき",
@@ -950,6 +971,6 @@
     "有中文词条": 11,
     "已千问汉化": 0,
     "待汉化": 0,
-    "有英文词条": 9
+    "有英文词条": 11
   }
 }

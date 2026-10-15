@@ -90,7 +90,14 @@
           "字数": 82,
           "来源": "豆包全文翻译（据日文维基全文）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Hikone-Serikawa Station",
+          "链接": "https://en.wikipedia.org/wiki/Hikone-Serikawa_Station",
+          "首段": "Hikone-Serikawa Station is a station on the Ohmi Railway Taga Line, located in Hikone, Shiga Prefecture, Japan.",
+          "章节": {},
+          "全文": "Hikone-Serikawa Station is a station on the Ohmi Railway Taga Line, located in Hikone, Shiga Prefecture, Japan.",
+          "字数": 111
+        }
       },
       "结构化信息": {
         "读音": "ひこねせりかわえき",
@@ -160,7 +167,14 @@
           "字数": 109,
           "来源": "豆包全文翻译（据日文维基全文）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Ō Station",
+          "链接": "https://en.wikipedia.org/wiki/Ō_Station",
+          "首段": "Ō Station is a station on the Ohmi Railway Taga Line, located in Taga, Shiga Prefecture, Japan.",
+          "章节": {},
+          "全文": "Ō Station is a station on the Ohmi Railway Taga Line, located in Taga, Shiga Prefecture, Japan.",
+          "字数": 95
+        }
       },
       "结构化信息": {
         "读音": "スクリーンえき",
@@ -307,7 +321,14 @@
           "字数": 137,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Taga-Taishamae Station",
+          "链接": "https://en.wikipedia.org/wiki/Taga-Taishamae_Station",
+          "首段": "Taga-Taishamae Station is a station on the Ohmi Railway Taga Line, located in Taga, Shiga Prefecture, Japan, serving Taga Taisha shrine.",
+          "章节": {},
+          "全文": "Taga-Taishamae Station is a station on the Ohmi Railway Taga Line, located in Taga, Shiga Prefecture, Japan, serving Taga Taisha shrine.",
+          "字数": 136
+        }
       },
       "结构化信息": {
         "读音": "たがたいしゃまええき",
@@ -804,6 +825,6 @@
     "有中文词条": 9,
     "已千问汉化": 0,
     "待汉化": 0,
-    "有英文词条": 6
+    "有英文词条": 9
   }
 }
