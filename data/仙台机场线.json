@@ -276,7 +276,14 @@
           "字数": 585,
           "来源": "豆包全文翻译（据日文维基全文）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Sendai Airport Station",
+          "链接": "https://en.wikipedia.org/wiki/Sendai_Airport_Station",
+          "首段": "Sendai Airport Station is the western terminus of the Sendai Airport Access Line, located in Natori, Miyagi Prefecture, Japan. It serves as the access station for Sendai Airport.",
+          "章节": {},
+          "全文": "Sendai Airport Station is the western terminus of the Sendai Airport Access Line, located in Natori, Miyagi Prefecture, Japan. It serves as the access station for Sendai Airport.",
+          "字数": 178
+        }
       },
       "结构化信息": {
         "读音": null,
@@ -348,7 +355,14 @@
           "字数": 484,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Minami-Sendai Station",
+          "链接": "https://en.wikipedia.org/wiki/Minami-Sendai_Station",
+          "首段": "Minami-Sendai Station is a station on the JR East Tōhoku Main Line, located in Taihaku-ku, Sendai, Miyagi Prefecture, Japan. It is also served by the Sendai Airport Access Line.",
+          "章节": {},
+          "全文": "Minami-Sendai Station is a station on the JR East Tōhoku Main Line, located in Taihaku-ku, Sendai, Miyagi Prefecture, Japan. It is also served by the Sendai Airport Access Line.",
+          "字数": 177
+        }
       },
       "结构化信息": {
         "读音": "みなみせんだいえき",
@@ -831,6 +845,6 @@
     "有中文词条": 8,
     "已千问汉化": 0,
     "待汉化": 0,
-    "有英文词条": 6
+    "有英文词条": 8
   }
 }
