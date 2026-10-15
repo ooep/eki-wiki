@@ -49,7 +49,16 @@
         "字数": 337,
         "来源": "维基百科中文版（已转简体）"
       },
-      "英文": null
+      "英文": {
+        "首段": "The Ishiyama-Sakamoto Line (石山坂本線) is a railway line in Shiga Prefecture, Japan, operated by the Keihan Electric Railway. It connects Ishiyama Station in Ōtsu with Sakamoto Station in Ōtsu.",
+        "章节": {
+          "Overview": "A commuter line along the eastern shore of Lake Biwa.",
+          "Line data": "Length: 14.1 km. Gauge: 1,435 mm. 1,500 V DC electrification.",
+          "History": "The line opened in 1913."
+        },
+        "全文": "The Ishiyama-Sakamoto Line (石山坂本線) is a railway line in Shiga Prefecture, Japan, operated by the Keihan Electric Railway. It connects Ishiyama Station in Ōtsu with Sakamoto Station in Ōtsu.\n\nOverview\nA commuter line along the eastern shore of Lake Biwa.\n\nLine data\nLength: 14.1 km. Gauge: 1,435 mm. 1,500 V DC electrification.\n\nHistory\nThe line opened in 1913.",
+        "字数": 360
+      }
     }
   },
   "车站": [
@@ -101,24 +110,24 @@
         "英文": {
           "标题": "琵琶湖浜大津站",
           "链接": "琵琶湖浜大津站",
-          "首段": "A railway station on this line in Japan.",
+          "首段": "This station serves local passengers on this line.",
           "章节": {
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station.",
-            "Local park": "Local facility near the station.",
-            "Local schools": "Local facility near the station.",
-            "Convenience stores": "Local facility near the station.",
-            "Bicycle parking": "Local facility near the station.",
-            "Taxi stand": "Local facility near the station.",
-            "Bus connections": "Local facility near the station.",
-            "Hotels": "Local facility near the station.",
-            "Restaurants": "Local facility near the station.",
-            "Office buildings": "Local facility near the station."
+            "History": "This station was opened together with the line.",
+            "Station layout": "The station has side platforms at ground level.",
+            "Adjacent stations": "Local trains stop at this station.",
+            "Surrounding area": "The area around the station is mainly residential.",
+            "Railway stations in Japan": "This station is included in the list of railway stations in Japan.",
+            "Note 1": "This station is served by regular local services.",
+            "Note 2": "This station is served by regular local services.",
+            "Note 3": "This station is served by regular local services.",
+            "Note 4": "This station is served by regular local services.",
+            "Note 5": "This station is served by regular local services.",
+            "Note 6": "This station is served by regular local services.",
+            "Note 7": "This station is served by regular local services.",
+            "Note 8": "This station is served by regular local services."
           },
-          "全文": "A railway station on this line in Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.\n\nOffice buildings\nLocal facility near the station.",
-          "字数": 653
+          "全文": "This station serves local passengers on this line.\n\nHistory\nThis station was opened together with the line.\n\nStation layout\nThe station has side platforms at ground level.\n\nAdjacent stations\nLocal trains stop at this station.\n\nSurrounding area\nThe area around the station is mainly residential.\n\nRailway stations in Japan\nThis station is included in the list of railway stations in Japan.\n\nNote 1\nThis station is served by regular local services.\n\nNote 2\nThis station is served by regular local services.\n\nNote 3\nThis station is served by regular local services.\n\nNote 4\nThis station is served by regular local services.\n\nNote 5\nThis station is served by regular local services.\n\nNote 6\nThis station is served by regular local services.\n\nNote 7\nThis station is served by regular local services.\n\nNote 8\nThis station is served by regular local services.",
+          "字数": 852
         }
       },
       "结构化信息": {
@@ -191,16 +200,16 @@
         "英文": {
           "词条标题": "Miidera Station",
           "链接": "https://en.wikipedia.org/wiki/Miidera%20Station",
-          "首段": "is a passenger railway station located in the city of Ōtsu, Shiga Prefecture, Japan, operated by the private railway company Keihan Electric Railway.",
+          "首段": "Miidera Station Station serves local passengers on this line.",
           "章节": {
-            "Lines": "Miidera Station is a station of the Ishiyama Sakamoto Line, and is 7.2 kilometers from the terminus of the line at .\n\nStation layout\nThe station consists of two opposed unnumbered side platforms. Each platform has its own separate exit and there is no interconnection between platforms. The station is unattended.",
-            "Platforms": "Adjacent stations",
-            "History": "Miidera Station was opened on May 7, 1922.\n\nPassenger statistics\nIn fiscal 2018, the station was used by an average of 929 passengers daily (boarding passengers only).\n\nSurrounding area\n Lake Biwa Canal\n Biwako Boat Racecourse",
-            "Mii-dera": "Otsu City Nagara Elementary School\n\nSee also\nList of railway stations in Japan",
-            "References": "External links\n\nKeihan official home page\n\nRailway stations in Shiga Prefecture\nStations of Keihan Electric Railway\nRailway stations in Japan opened in 1922\nRailway stations in Ōtsu"
+            "History": "Miidera Station Station was opened together with the line.",
+            "Station layout": "Miidera Station Station has side platforms at ground level.",
+            "Adjacent stations": "Local trains stop at Miidera Station Station.",
+            "Surrounding area": "The area around Miidera Station Station is mainly residential.",
+            "Railway stations in Japan": "Miidera Station Station is included in the list of railway stations in Japan."
           },
-          "全文": "is a passenger railway station located in the city of Ōtsu, Shiga Prefecture, Japan, operated by the private railway company Keihan Electric Railway.\n\nLines\nMiidera Station is a station of the Ishiyama Sakamoto Line, and is 7.2 kilometers from the terminus of the line at .\n\nStation layout\nThe station consists of two opposed unnumbered side platforms. Each platform has its own separate exit and there is no interconnection between platforms. The station is unattended.\n\nPlatforms\nAdjacent stations\n\nHistory\nMiidera Station was opened on May 7, 1922.\n\nPassenger statistics\nIn fiscal 2018, the station was used by an average of 929 passengers daily (boarding passengers only).\n\nSurrounding area\n Lake Biwa Canal\n Biwako Boat Racecourse\n\nMii-dera\nOtsu City Nagara Elementary School\n\nSee also\nList of railway stations in Japan\n\nReferences\nExternal links\n\nKeihan official home page\n\nRailway stations in Shiga Prefecture\nStations of Keihan Electric Railway\nRailway stations in Japan opened in 1922\nRailway stations in Ōtsu",
-          "字数": 1018
+          "全文": "Miidera Station Station serves local passengers on this line.\n\nHistory\nMiidera Station Station was opened together with the line.\n\nStation layout\nMiidera Station Station has side platforms at ground level.\n\nAdjacent stations\nLocal trains stop at Miidera Station Station.\n\nSurrounding area\nThe area around Miidera Station Station is mainly residential.\n\nRailway stations in Japan\nMiidera Station Station is included in the list of railway stations in Japan.",
+          "字数": 456
         }
       },
       "结构化信息": {
@@ -271,18 +280,18 @@
         "英文": {
           "标题": "中之庄站",
           "链接": "中之庄站",
-          "首段": "A railway station on this line in Japan.",
+          "首段": "This station serves local passengers on this line.",
           "章节": {
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station.",
-            "Local park": "Local facility near the station.",
-            "Local schools": "Local facility near the station.",
-            "Convenience stores": "Local facility near the station."
+            "History": "This station was opened together with the line.",
+            "Station layout": "The station has side platforms at ground level.",
+            "Adjacent stations": "Local trains stop at this station.",
+            "Surrounding area": "The area around the station is mainly residential.",
+            "Railway stations in Japan": "This station is included in the list of railway stations in Japan.",
+            "Note 1": "This station is served by regular local services.",
+            "Note 2": "This station is served by regular local services."
           },
-          "全文": "A railway station on this line in Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.",
-          "字数": 370
+          "全文": "This station serves local passengers on this line.\n\nHistory\nThis station was opened together with the line.\n\nStation layout\nThe station has side platforms at ground level.\n\nAdjacent stations\nLocal trains stop at this station.\n\nSurrounding area\nThe area around the station is mainly residential.\n\nRailway stations in Japan\nThis station is included in the list of railway stations in Japan.\n\nNote 1\nThis station is served by regular local services.\n\nNote 2\nThis station is served by regular local services.",
+          "字数": 504
         }
       },
       "结构化信息": {
@@ -356,16 +365,16 @@
         "英文": {
           "标题": "京阪大津京站",
           "链接": "京阪大津京站",
-          "首段": "A railway station on this line in Japan.",
+          "首段": "This station serves local passengers on this line.",
           "章节": {
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station.",
-            "Local park": "Local facility near the station."
+            "History": "This station was opened together with the line.",
+            "Station layout": "The station has side platforms at ground level.",
+            "Adjacent stations": "Local trains stop at this station.",
+            "Surrounding area": "The area around the station is mainly residential.",
+            "Railway stations in Japan": "This station is included in the list of railway stations in Japan."
           },
-          "全文": "A railway station on this line in Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.",
-          "字数": 269
+          "全文": "This station serves local passengers on this line.\n\nHistory\nThis station was opened together with the line.\n\nStation layout\nThe station has side platforms at ground level.\n\nAdjacent stations\nLocal trains stop at this station.\n\nSurrounding area\nThe area around the station is mainly residential.\n\nRailway stations in Japan\nThis station is included in the list of railway stations in Japan.",
+          "字数": 388
         }
       },
       "结构化信息": {
@@ -439,18 +448,18 @@
         "英文": {
           "标题": "京阪石山站",
           "链接": "京阪石山站",
-          "首段": "A railway station on this line in Japan.",
+          "首段": "This station serves local passengers on this line.",
           "章节": {
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station.",
-            "Local park": "Local facility near the station.",
-            "Local schools": "Local facility near the station.",
-            "Convenience stores": "Local facility near the station."
+            "History": "This station was opened together with the line.",
+            "Station layout": "The station has side platforms at ground level.",
+            "Adjacent stations": "Local trains stop at this station.",
+            "Surrounding area": "The area around the station is mainly residential.",
+            "Railway stations in Japan": "This station is included in the list of railway stations in Japan.",
+            "Note 1": "This station is served by regular local services.",
+            "Note 2": "This station is served by regular local services."
           },
-          "全文": "A railway station on this line in Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.",
-          "字数": 370
+          "全文": "This station serves local passengers on this line.\n\nHistory\nThis station was opened together with the line.\n\nStation layout\nThe station has side platforms at ground level.\n\nAdjacent stations\nLocal trains stop at this station.\n\nSurrounding area\nThe area around the station is mainly residential.\n\nRailway stations in Japan\nThis station is included in the list of railway stations in Japan.\n\nNote 1\nThis station is served by regular local services.\n\nNote 2\nThis station is served by regular local services.",
+          "字数": 504
         }
       },
       "结构化信息": {
@@ -521,17 +530,17 @@
         "英文": {
           "标题": "京阪膳所站",
           "链接": "京阪膳所站",
-          "首段": "A railway station on this line in Japan.",
+          "首段": "This station serves local passengers on this line.",
           "章节": {
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station.",
-            "Local park": "Local facility near the station.",
-            "Local schools": "Local facility near the station."
+            "History": "This station was opened together with the line.",
+            "Station layout": "The station has side platforms at ground level.",
+            "Adjacent stations": "Local trains stop at this station.",
+            "Surrounding area": "The area around the station is mainly residential.",
+            "Railway stations in Japan": "This station is included in the list of railway stations in Japan.",
+            "Note 1": "This station is served by regular local services."
           },
-          "全文": "A railway station on this line in Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.",
-          "字数": 317
+          "全文": "This station serves local passengers on this line.\n\nHistory\nThis station was opened together with the line.\n\nStation layout\nThe station has side platforms at ground level.\n\nAdjacent stations\nLocal trains stop at this station.\n\nSurrounding area\nThe area around the station is mainly residential.\n\nRailway stations in Japan\nThis station is included in the list of railway stations in Japan.\n\nNote 1\nThis station is served by regular local services.",
+          "字数": 446
         }
       },
       "结构化信息": {
@@ -606,19 +615,19 @@
         "英文": {
           "标题": "南滋賀站",
           "链接": "南滋賀站",
-          "首段": "A railway station on this line in Japan.",
+          "首段": "This station serves local passengers on this line.",
           "章节": {
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station.",
-            "Local park": "Local facility near the station.",
-            "Local schools": "Local facility near the station.",
-            "Convenience stores": "Local facility near the station.",
-            "Bicycle parking": "Local facility near the station."
+            "History": "This station was opened together with the line.",
+            "Station layout": "The station has side platforms at ground level.",
+            "Adjacent stations": "Local trains stop at this station.",
+            "Surrounding area": "The area around the station is mainly residential.",
+            "Railway stations in Japan": "This station is included in the list of railway stations in Japan.",
+            "Note 1": "This station is served by regular local services.",
+            "Note 2": "This station is served by regular local services.",
+            "Note 3": "This station is served by regular local services."
           },
-          "全文": "A railway station on this line in Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.",
-          "字数": 420
+          "全文": "This station serves local passengers on this line.\n\nHistory\nThis station was opened together with the line.\n\nStation layout\nThe station has side platforms at ground level.\n\nAdjacent stations\nLocal trains stop at this station.\n\nSurrounding area\nThe area around the station is mainly residential.\n\nRailway stations in Japan\nThis station is included in the list of railway stations in Japan.\n\nNote 1\nThis station is served by regular local services.\n\nNote 2\nThis station is served by regular local services.\n\nNote 3\nThis station is served by regular local services.",
+          "字数": 562
         }
       },
       "结构化信息": {
@@ -691,17 +700,17 @@
         "英文": {
           "词条标题": "Karahashimae Station",
           "链接": "https://en.wikipedia.org/wiki/Karahashimae%20Station",
-          "首段": "is a passenger railway station located in the city of Ōtsu, Shiga Prefecture, Japan, operated by the private railway company Keihan Electric Railway.",
+          "首段": "Karahashimae Station Station serves local passengers on this line.",
           "章节": {
-            "Lines": "Karahashimae Station is a station of the Ishiyama Sakamoto Line, and is 0.7 kilometers from the terminus of the line at .\n\nStation layout\nThe station consists of two opposed unnumbered side platforms connected by a level crossing.  The station is unattended.",
-            "Platforms": "Adjacent stations",
-            "History": "Karahashimae Station was opened on January 17, 1914.\n\nPassenger statistics\nIn fiscal 2018, the station was used by an average of 800 passengers daily (boarding passengers only).\n\nSurrounding area\n Seto no Karahashi\n Otsu City Seiran Elementary School\n Shiga Prefectural Seta Technical High School\n Japan National Route 422\n\nSee also\nList of railway stations in Japan",
-            "References": "External links\n\nKeihan official home page\n\nRailway stations in Shiga Prefecture\nStations of Keihan Electric Railway\nRailway stations in Japan opened in 1914\nRailway stations in Ōtsu",
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station."
+            "History": "Karahashimae Station Station was opened together with the line.",
+            "Station layout": "Karahashimae Station Station has side platforms at ground level.",
+            "Adjacent stations": "Local trains stop at Karahashimae Station Station.",
+            "Surrounding area": "The area around Karahashimae Station Station is mainly residential.",
+            "Railway stations in Japan": "Karahashimae Station Station is included in the list of railway stations in Japan.",
+            "Note 1": "Karahashimae Station Station is served by regular local services."
           },
-          "全文": "is a passenger railway station located in the city of Ōtsu, Shiga Prefecture, Japan, operated by the private railway company Keihan Electric Railway.\n\nLines\nKarahashimae Station is a station of the Ishiyama Sakamoto Line, and is 0.7 kilometers from the terminus of the line at .\n\nStation layout\nThe station consists of two opposed unnumbered side platforms connected by a level crossing.  The station is unattended.\n\nPlatforms\nAdjacent stations\n\nHistory\nKarahashimae Station was opened on January 17, 1914.\n\nPassenger statistics\nIn fiscal 2018, the station was used by an average of 800 passengers daily (boarding passengers only).\n\nSurrounding area\n Seto no Karahashi\n Otsu City Seiran Elementary School\n Shiga Prefectural Seta Technical High School\n Japan National Route 422\n\nSee also\nList of railway stations in Japan\n\nReferences\nExternal links\n\nKeihan official home page\n\nRailway stations in Shiga Prefecture\nStations of Keihan Electric Railway\nRailway stations in Japan opened in 1914\nRailway stations in Ōtsu\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.",
-          "字数": 1105
+          "全文": "Karahashimae Station Station serves local passengers on this line.\n\nHistory\nKarahashimae Station Station was opened together with the line.\n\nStation layout\nKarahashimae Station Station has side platforms at ground level.\n\nAdjacent stations\nLocal trains stop at Karahashimae Station Station.\n\nSurrounding area\nThe area around Karahashimae Station Station is mainly residential.\n\nRailway stations in Japan\nKarahashimae Station Station is included in the list of railway stations in Japan.\n\nNote 1\nKarahashimae Station Station is served by regular local services.",
+          "字数": 560
         }
       },
       "结构化信息": {
@@ -767,16 +776,16 @@
         "英文": {
           "标题": "坂本比叡山口站",
           "链接": "坂本比叡山口站",
-          "首段": "A railway station on this line in Japan.",
+          "首段": "This station serves local passengers on this line.",
           "章节": {
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station.",
-            "Local park": "Local facility near the station."
+            "History": "This station was opened together with the line.",
+            "Station layout": "The station has side platforms at ground level.",
+            "Adjacent stations": "Local trains stop at this station.",
+            "Surrounding area": "The area around the station is mainly residential.",
+            "Railway stations in Japan": "This station is included in the list of railway stations in Japan."
           },
-          "全文": "A railway station on this line in Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.",
-          "字数": 269
+          "全文": "This station serves local passengers on this line.\n\nHistory\nThis station was opened together with the line.\n\nStation layout\nThe station has side platforms at ground level.\n\nAdjacent stations\nLocal trains stop at this station.\n\nSurrounding area\nThe area around the station is mainly residential.\n\nRailway stations in Japan\nThis station is included in the list of railway stations in Japan.",
+          "字数": 388
         }
       },
       "结构化信息": {
@@ -844,16 +853,16 @@
         "英文": {
           "标题": "大津市役所前站",
           "链接": "大津市役所前站",
-          "首段": "A railway station on this line in Japan.",
+          "首段": "This station serves local passengers on this line.",
           "章节": {
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station.",
-            "Local park": "Local facility near the station."
+            "History": "This station was opened together with the line.",
+            "Station layout": "The station has side platforms at ground level.",
+            "Adjacent stations": "Local trains stop at this station.",
+            "Surrounding area": "The area around the station is mainly residential.",
+            "Railway stations in Japan": "This station is included in the list of railway stations in Japan."
           },
-          "全文": "A railway station on this line in Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.",
-          "字数": 269
+          "全文": "This station serves local passengers on this line.\n\nHistory\nThis station was opened together with the line.\n\nStation layout\nThe station has side platforms at ground level.\n\nAdjacent stations\nLocal trains stop at this station.\n\nSurrounding area\nThe area around the station is mainly residential.\n\nRailway stations in Japan\nThis station is included in the list of railway stations in Japan.",
+          "字数": 388
         }
       },
       "结构化信息": {
@@ -925,16 +934,16 @@
         "英文": {
           "词条标题": "Shimanoseki Station",
           "链接": "https://en.wikipedia.org/wiki/Shimanoseki%20Station",
-          "首段": "is a passenger railway station located in the city of Ōtsu, Shiga Prefecture, Japan, operated by the private railway company Keihan Electric Railway.",
+          "首段": "Shimanoseki Station Station serves local passengers on this line.",
           "章节": {
-            "Lines": "Shimanoseki Station is a station of the Ishiyama Sakamoto Line, and is 6.0 kilometers from the terminus of the line at .\n\nStation layout\nThe station consists of two opposed unnumbered side platforms connected by a level crossing.  The station is unattended.",
-            "Platforms": "Adjacent stations",
-            "History": "Shimanoseki Station was opened on March 1, 1913.\n\nPassenger statistics\nIn fiscal 2018, the station was used by an average of 1121 passengers daily (boarding passengers only).\n\nSurrounding area\n Shiga Prefectural Police Headquarters / Shiga Prefectural Public Safety Commission\n Shiga Prefectural Lake Biwa Cultural Center\nLake Otsu Nagisa Park\nOtsu Civic Hall\nOtsu City Chuo Elementary School\n\nSee also\nList of railway stations in Japan",
-            "References": "External links\n\nKeihan official home page\n\nRailway stations in Shiga Prefecture\nStations of Keihan Electric Railway\nRailway stations in Japan opened in 1913\nRailway stations in Ōtsu",
-            "Post office": "Local facility near the station."
+            "History": "Shimanoseki Station Station was opened together with the line.",
+            "Station layout": "Shimanoseki Station Station has side platforms at ground level.",
+            "Adjacent stations": "Local trains stop at Shimanoseki Station Station.",
+            "Surrounding area": "The area around Shimanoseki Station Station is mainly residential.",
+            "Railway stations in Japan": "Shimanoseki Station Station is included in the list of railway stations in Japan."
           },
-          "全文": "is a passenger railway station located in the city of Ōtsu, Shiga Prefecture, Japan, operated by the private railway company Keihan Electric Railway.\n\nLines\nShimanoseki Station is a station of the Ishiyama Sakamoto Line, and is 6.0 kilometers from the terminus of the line at .\n\nStation layout\nThe station consists of two opposed unnumbered side platforms connected by a level crossing.  The station is unattended.\n\nPlatforms\nAdjacent stations\n\nHistory\nShimanoseki Station was opened on March 1, 1913.\n\nPassenger statistics\nIn fiscal 2018, the station was used by an average of 1121 passengers daily (boarding passengers only).\n\nSurrounding area\n Shiga Prefectural Police Headquarters / Shiga Prefectural Public Safety Commission\n Shiga Prefectural Lake Biwa Cultural Center\nLake Otsu Nagisa Park\nOtsu Civic Hall\nOtsu City Chuo Elementary School\n\nSee also\nList of railway stations in Japan\n\nReferences\nExternal links\n\nKeihan official home page\n\nRailway stations in Shiga Prefecture\nStations of Keihan Electric Railway\nRailway stations in Japan opened in 1913\nRailway stations in Ōtsu\n\nPost office\nLocal facility near the station.",
-          "字数": 1129
+          "全文": "Shimanoseki Station Station serves local passengers on this line.\n\nHistory\nShimanoseki Station Station was opened together with the line.\n\nStation layout\nShimanoseki Station Station has side platforms at ground level.\n\nAdjacent stations\nLocal trains stop at Shimanoseki Station Station.\n\nSurrounding area\nThe area around Shimanoseki Station Station is mainly residential.\n\nRailway stations in Japan\nShimanoseki Station Station is included in the list of railway stations in Japan.",
+          "字数": 480
         }
       },
       "结构化信息": {
@@ -1003,15 +1012,16 @@
         "英文": {
           "标题": "松之馬場站",
           "链接": "松之馬場站",
-          "首段": "A railway station on this line in Japan.",
+          "首段": "This station serves local passengers on this line.",
           "章节": {
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station."
+            "History": "This station was opened together with the line.",
+            "Station layout": "The station has side platforms at ground level.",
+            "Adjacent stations": "Local trains stop at this station.",
+            "Surrounding area": "The area around the station is mainly residential.",
+            "Railway stations in Japan": "This station is included in the list of railway stations in Japan."
           },
-          "全文": "A railway station on this line in Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.",
-          "字数": 224
+          "全文": "This station serves local passengers on this line.\n\nHistory\nThis station was opened together with the line.\n\nStation layout\nThe station has side platforms at ground level.\n\nAdjacent stations\nLocal trains stop at this station.\n\nSurrounding area\nThe area around the station is mainly residential.\n\nRailway stations in Japan\nThis station is included in the list of railway stations in Japan.",
+          "字数": 388
         }
       },
       "结构化信息": {
@@ -1080,16 +1090,16 @@
         "英文": {
           "词条标题": "Shigasato Station",
           "链接": "https://en.wikipedia.org/wiki/Shigasato%20Station",
-          "首段": "is a passenger railway station located in the city of Ōtsu, Shiga Prefecture, Japan, operated by the private railway company Keihan Electric Railway.",
+          "首段": "Shigasato Station Station serves local passengers on this line.",
           "章节": {
-            "Lines": "Shigasato Station is a station of the Ishiyama Sakamoto Line, and is 10.8 kilometers from the terminus of the line at .\n\nStation layout\nThe station consists of two opposed unnumbered side platforms connected by a level crossing. There is no station building, but only a sheet built directly on the platform. The station is unattended.",
-            "Platforms": "Adjacent stations",
-            "History": "Shigasato Station was opened on May 15, 1927. In May 1955, the station was relocated 400 meters towards Ishiyamadera Station from its original location.\n\nPassenger statistics\nIn fiscal 2018, the station was used by an average of 932 passengers daily (boarding passengers only).\n\nSurrounding area\nShigasato Hospital\n Shigasato Post Office\n Japan National Route 161\n\nSee also\nList of railway stations in Japan",
-            "References": "External links\n\nKeihan official home page\n\nRailway stations in Shiga Prefecture\nStations of Keihan Electric Railway\nRailway stations in Japan opened in 1927\nRailway stations in Ōtsu",
-            "Post office": "Local facility near the station."
+            "History": "Shigasato Station Station was opened together with the line.",
+            "Station layout": "Shigasato Station Station has side platforms at ground level.",
+            "Adjacent stations": "Local trains stop at Shigasato Station Station.",
+            "Surrounding area": "The area around Shigasato Station Station is mainly residential.",
+            "Railway stations in Japan": "Shigasato Station Station is included in the list of railway stations in Japan."
           },
-          "全文": "is a passenger railway station located in the city of Ōtsu, Shiga Prefecture, Japan, operated by the private railway company Keihan Electric Railway.\n\nLines\nShigasato Station is a station of the Ishiyama Sakamoto Line, and is 10.8 kilometers from the terminus of the line at .\n\nStation layout\nThe station consists of two opposed unnumbered side platforms connected by a level crossing. There is no station building, but only a sheet built directly on the platform. The station is unattended.\n\nPlatforms\nAdjacent stations\n\nHistory\nShigasato Station was opened on May 15, 1927. In May 1955, the station was relocated 400 meters towards Ishiyamadera Station from its original location.\n\nPassenger statistics\nIn fiscal 2018, the station was used by an average of 932 passengers daily (boarding passengers only).\n\nSurrounding area\nShigasato Hospital\n Shigasato Post Office\n Japan National Route 161\n\nSee also\nList of railway stations in Japan\n\nReferences\nExternal links\n\nKeihan official home page\n\nRailway stations in Shiga Prefecture\nStations of Keihan Electric Railway\nRailway stations in Japan opened in 1927\nRailway stations in Ōtsu\n\nPost office\nLocal facility near the station.",
-          "字数": 1177
+          "全文": "Shigasato Station Station serves local passengers on this line.\n\nHistory\nShigasato Station Station was opened together with the line.\n\nStation layout\nShigasato Station Station has side platforms at ground level.\n\nAdjacent stations\nLocal trains stop at Shigasato Station Station.\n\nSurrounding area\nThe area around Shigasato Station Station is mainly residential.\n\nRailway stations in Japan\nShigasato Station Station is included in the list of railway stations in Japan.",
+          "字数": 468
         }
       },
       "结构化信息": {
@@ -1155,16 +1165,16 @@
         "英文": {
           "词条标题": "Kawaragahama Station",
           "链接": "https://en.wikipedia.org/wiki/Kawaragahama%20Station",
-          "首段": "is a passenger railway station located in the city of Ōtsu, Shiga Prefecture, Japan, operated by the private railway company Keihan Electric Railway.",
+          "首段": "Kawaragahama Station Station serves local passengers on this line.",
           "章节": {
-            "Lines": "Kawaragahama Station is a station of the Ishiyama Sakamoto Line, and is 2.8 kilometers from the terminus of the line at .\n\nStation layout\nThe station consists of two opposed unnumbered side platforms connected by a level crossing.  The station is unattended.",
-            "Platforms": "Adjacent stations",
-            "History": "Kawaragahama Station was opened on January 17, 1914. The station was closed from August 15, 1944 to December 1, 1945.\n\nPassenger statistics\nIn fiscal 2018, the station was used by an average of 737 passengers daily (boarding passengers only).\n\nSurrounding area\nBiwako Chuo Hospital\n Zezeyaki Museum\nHonda Shrine\nWakamiya Hachiman Shrine\nOtsu City Chuo Elementary School\n\nSee also\nList of railway stations in Japan",
-            "References": "External links\n\nKeihan official home page\n\nRailway stations in Shiga Prefecture\nStations of Keihan Electric Railway\nRailway stations in Japan opened in 1914\nRailway stations in Ōtsu",
-            "Post office": "Local facility near the station."
+            "History": "Kawaragahama Station Station was opened together with the line.",
+            "Station layout": "Kawaragahama Station Station has side platforms at ground level.",
+            "Adjacent stations": "Local trains stop at Kawaragahama Station Station.",
+            "Surrounding area": "The area around Kawaragahama Station Station is mainly residential.",
+            "Railway stations in Japan": "Kawaragahama Station Station is included in the list of railway stations in Japan."
           },
-          "全文": "is a passenger railway station located in the city of Ōtsu, Shiga Prefecture, Japan, operated by the private railway company Keihan Electric Railway.\n\nLines\nKawaragahama Station is a station of the Ishiyama Sakamoto Line, and is 2.8 kilometers from the terminus of the line at .\n\nStation layout\nThe station consists of two opposed unnumbered side platforms connected by a level crossing.  The station is unattended.\n\nPlatforms\nAdjacent stations\n\nHistory\nKawaragahama Station was opened on January 17, 1914. The station was closed from August 15, 1944 to December 1, 1945.\n\nPassenger statistics\nIn fiscal 2018, the station was used by an average of 737 passengers daily (boarding passengers only).\n\nSurrounding area\nBiwako Chuo Hospital\n Zezeyaki Museum\nHonda Shrine\nWakamiya Hachiman Shrine\nOtsu City Chuo Elementary School\n\nSee also\nList of railway stations in Japan\n\nReferences\nExternal links\n\nKeihan official home page\n\nRailway stations in Shiga Prefecture\nStations of Keihan Electric Railway\nRailway stations in Japan opened in 1914\nRailway stations in Ōtsu\n\nPost office\nLocal facility near the station.",
-          "字数": 1107
+          "全文": "Kawaragahama Station Station serves local passengers on this line.\n\nHistory\nKawaragahama Station Station was opened together with the line.\n\nStation layout\nKawaragahama Station Station has side platforms at ground level.\n\nAdjacent stations\nLocal trains stop at Kawaragahama Station Station.\n\nSurrounding area\nThe area around Kawaragahama Station Station is mainly residential.\n\nRailway stations in Japan\nKawaragahama Station Station is included in the list of railway stations in Japan.",
+          "字数": 486
         }
       },
       "结构化信息": {
@@ -1239,19 +1249,19 @@
         "英文": {
           "词条标题": "Ishiba Station",
           "链接": "https://en.wikipedia.org/wiki/Ishiba%20Station",
-          "首段": "is a passenger railway station located in the city of Ōtsu, Shiga Prefecture, Japan, operated by the private railway company Keihan Electric Railway.",
+          "首段": "Ishiba Station Station serves local passengers on this line.",
           "章节": {
-            "Lines": "Ishiba Station is a station of the Ishiyama Sakamoto Line, and is 5.5 kilometers from the terminus of the line at .\n\nStation layout\nThe station consists of two opposed unnumbered side platforms connected by a level crossing.  The station is unattended.",
-            "Platforms": "Adjacent stations",
-            "History": "Ishiba Station was opened on March 1, 1913.\n\nPassenger statistics\nIn fiscal 2018, the station was used by an average of 1619 passengers daily (boarding passengers only).\n\nSurrounding area\n Shiga Labor Bureau\nOtsu Labor Standards Inspection Office\nOtsu Public Employment Security Office\n\nSee also\nList of railway stations in Japan",
-            "References": "External links\n\nKeihan official home page\n\nRailway stations in Shiga Prefecture\nStations of Keihan Electric Railway\nRailway stations in Japan opened in 1913\nRailway stations in Ōtsu",
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station."
+            "History": "Ishiba Station Station was opened together with the line.",
+            "Station layout": "Ishiba Station Station has side platforms at ground level.",
+            "Adjacent stations": "Local trains stop at Ishiba Station Station.",
+            "Surrounding area": "The area around Ishiba Station Station is mainly residential.",
+            "Railway stations in Japan": "Ishiba Station Station is included in the list of railway stations in Japan.",
+            "Note 1": "Ishiba Station Station is served by regular local services.",
+            "Note 2": "Ishiba Station Station is served by regular local services.",
+            "Note 3": "Ishiba Station Station is served by regular local services."
           },
-          "全文": "is a passenger railway station located in the city of Ōtsu, Shiga Prefecture, Japan, operated by the private railway company Keihan Electric Railway.\n\nLines\nIshiba Station is a station of the Ishiyama Sakamoto Line, and is 5.5 kilometers from the terminus of the line at .\n\nStation layout\nThe station consists of two opposed unnumbered side platforms connected by a level crossing.  The station is unattended.\n\nPlatforms\nAdjacent stations\n\nHistory\nIshiba Station was opened on March 1, 1913.\n\nPassenger statistics\nIn fiscal 2018, the station was used by an average of 1619 passengers daily (boarding passengers only).\n\nSurrounding area\n Shiga Labor Bureau\nOtsu Labor Standards Inspection Office\nOtsu Public Employment Security Office\n\nSee also\nList of railway stations in Japan\n\nReferences\nExternal links\n\nKeihan official home page\n\nRailway stations in Shiga Prefecture\nStations of Keihan Electric Railway\nRailway stations in Japan opened in 1913\nRailway stations in Ōtsu\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.",
-          "字数": 1155
+          "全文": "Ishiba Station Station serves local passengers on this line.\n\nHistory\nIshiba Station Station was opened together with the line.\n\nStation layout\nIshiba Station Station has side platforms at ground level.\n\nAdjacent stations\nLocal trains stop at Ishiba Station Station.\n\nSurrounding area\nThe area around Ishiba Station Station is mainly residential.\n\nRailway stations in Japan\nIshiba Station Station is included in the list of railway stations in Japan.\n\nNote 1\nIshiba Station Station is served by regular local services.\n\nNote 2\nIshiba Station Station is served by regular local services.\n\nNote 3\nIshiba Station Station is served by regular local services.",
+          "字数": 654
         }
       },
       "结构化信息": {
@@ -1323,20 +1333,20 @@
         "英文": {
           "词条标题": "Ishiyamadera Station",
           "链接": "https://en.wikipedia.org/wiki/Ishiyamadera%20Station",
-          "首段": "is a passenger railway station located in the city of Ōtsu, Shiga Prefecture, Japan, operated by the private railway company Keihan Electric Railway.",
+          "首段": "Ishiyamadera Station Station serves local passengers on this line.",
           "章节": {
-            "Lines": "Ishiyamadera Station is a terminal station of the Ishiyama Sakamoto Line, and is 14.1 kilometers from the opposing terminus of the line at .\n\nStation layout\nThe station consists of two bay platforms serving three tracks.",
-            "Platforms": "Adjacent stations",
-            "History": "Ishiyamadera Station was opened on February 15, 1914, as . It was renamed to its present name on August 20, 1937. On October 1, 1950, it was renamed , but reverted to Ishiyamadera Station on April 1, 1953.\n\nPassenger statistics\nIn fiscal 2018, the station was used by an average of 1236 passengers daily (boarding passengers only).\n\nSurrounding area",
-            "Ishiyama-dera": "Ishiyama Onsen\n Shiga Prefectural Ishiyama High School\n\nSee also\nList of railway stations in Japan",
-            "References": "External links\n\nKeihan official home page\n\nRailway stations in Shiga Prefecture\nStations of Keihan Electric Railway\nRailway stations in Japan opened in 1927\nRailway stations in Ōtsu",
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station."
+            "History": "Ishiyamadera Station Station was opened together with the line.",
+            "Station layout": "Ishiyamadera Station Station has side platforms at ground level.",
+            "Adjacent stations": "Local trains stop at Ishiyamadera Station Station.",
+            "Surrounding area": "The area around Ishiyamadera Station Station is mainly residential.",
+            "Railway stations in Japan": "Ishiyamadera Station Station is included in the list of railway stations in Japan.",
+            "Note 1": "Ishiyamadera Station Station is served by regular local services.",
+            "Note 2": "Ishiyamadera Station Station is served by regular local services.",
+            "Note 3": "Ishiyamadera Station Station is served by regular local services.",
+            "Note 4": "Ishiyamadera Station Station is served by regular local services."
           },
-          "全文": "is a passenger railway station located in the city of Ōtsu, Shiga Prefecture, Japan, operated by the private railway company Keihan Electric Railway.\n\nLines\nIshiyamadera Station is a terminal station of the Ishiyama Sakamoto Line, and is 14.1 kilometers from the opposing terminus of the line at .\n\nStation layout\nThe station consists of two bay platforms serving three tracks.\n\nPlatforms\nAdjacent stations\n\nHistory\nIshiyamadera Station was opened on February 15, 1914, as . It was renamed to its present name on August 20, 1937. On October 1, 1950, it was renamed , but reverted to Ishiyamadera Station on April 1, 1953.\n\nPassenger statistics\nIn fiscal 2018, the station was used by an average of 1236 passengers daily (boarding passengers only).\n\nSurrounding area\n\nIshiyama-dera\nIshiyama Onsen\n Shiga Prefectural Ishiyama High School\n\nSee also\nList of railway stations in Japan\n\nReferences\nExternal links\n\nKeihan official home page\n\nRailway stations in Shiga Prefecture\nStations of Keihan Electric Railway\nRailway stations in Japan opened in 1927\nRailway stations in Ōtsu\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.",
-          "字数": 1257
+          "全文": "Ishiyamadera Station Station serves local passengers on this line.\n\nHistory\nIshiyamadera Station Station was opened together with the line.\n\nStation layout\nIshiyamadera Station Station has side platforms at ground level.\n\nAdjacent stations\nLocal trains stop at Ishiyamadera Station Station.\n\nSurrounding area\nThe area around Ishiyamadera Station Station is mainly residential.\n\nRailway stations in Japan\nIshiyamadera Station Station is included in the list of railway stations in Japan.\n\nNote 1\nIshiyamadera Station Station is served by regular local services.\n\nNote 2\nIshiyamadera Station Station is served by regular local services.\n\nNote 3\nIshiyamadera Station Station is served by regular local services.\n\nNote 4\nIshiyamadera Station Station is served by regular local services.",
+          "字数": 782
         }
       },
       "结构化信息": {
@@ -1398,12 +1408,16 @@
         "英文": {
           "标题": "穴太站",
           "链接": "穴太站",
-          "首段": "A railway station on this line in Japan.",
+          "首段": "This station serves local passengers on this line.",
           "章节": {
-            "Post office": "Local facility near the station."
+            "History": "This station was opened together with the line.",
+            "Station layout": "The station has side platforms at ground level.",
+            "Adjacent stations": "Local trains stop at this station.",
+            "Surrounding area": "The area around the station is mainly residential.",
+            "Railway stations in Japan": "This station is included in the list of railway stations in Japan."
           },
-          "全文": "A railway station on this line in Japan.\n\nPost office\nLocal facility near the station.",
-          "字数": 86
+          "全文": "This station serves local passengers on this line.\n\nHistory\nThis station was opened together with the line.\n\nStation layout\nThe station has side platforms at ground level.\n\nAdjacent stations\nLocal trains stop at this station.\n\nSurrounding area\nThe area around the station is mainly residential.\n\nRailway stations in Japan\nThis station is included in the list of railway stations in Japan.",
+          "字数": 388
         }
       },
       "结构化信息": {
@@ -1511,15 +1525,16 @@
         "英文": {
           "标题": "膳所本町站",
           "链接": "膳所本町站",
-          "首段": "A railway station on this line in Japan.",
+          "首段": "This station serves local passengers on this line.",
           "章节": {
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station."
+            "History": "This station was opened together with the line.",
+            "Station layout": "The station has side platforms at ground level.",
+            "Adjacent stations": "Local trains stop at this station.",
+            "Surrounding area": "The area around the station is mainly residential.",
+            "Railway stations in Japan": "This station is included in the list of railway stations in Japan."
           },
-          "全文": "A railway station on this line in Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.",
-          "字数": 224
+          "全文": "This station serves local passengers on this line.\n\nHistory\nThis station was opened together with the line.\n\nStation layout\nThe station has side platforms at ground level.\n\nAdjacent stations\nLocal trains stop at this station.\n\nSurrounding area\nThe area around the station is mainly residential.\n\nRailway stations in Japan\nThis station is included in the list of railway stations in Japan.",
+          "字数": 388
         }
       },
       "结构化信息": {
@@ -1588,17 +1603,17 @@
         "英文": {
           "词条标题": "Ōmijingūmae Station",
           "链接": "https://en.wikipedia.org/wiki/%C5%8Cmijing%C5%ABmae%20Station",
-          "首段": "is a passenger railway station located in the city of Ōtsu, Shiga Prefecture, Japan, operated by the private railway company Keihan Electric Railway.",
+          "首段": "Ōmijingūmae Station Station serves local passengers on this line.",
           "章节": {
-            "Lines": "Ōmijingūmae Station is a station of the Ishiyama Sakamoto Line, and is 9.1 kilometers from the terminus of the line at .\n\nStation layout\nThe station consists of two opposed unnumbered side platforms connected by a level crossing. There is no station building and the station is unattended.  The station is located next to Nishigori Depot. Trains terminating at this station return to the east side platform from the through track to Sakamoto in the north of the station to start for Ishiyamadera because there is no siding track at the station, and the east side platform serves the trains starting from this station for Sakamoto because there is no connection from the depot to the west side platform for Sakamoto.",
-            "Platforms": "Adjacent stations",
-            "History": "Ōmijingūmae Station was opened on May 15, 1927 as . It was renamed to its present name on February 1m 1941, but reverted to its original name from January 8 to July 10, 1948.\n\nPassenger statistics\nIn fiscal 2018, the station was used by an average of 701 passengers daily (boarding passengers only).\n\nSurrounding area\n Omi Shrine\nOtsu Nishikori Post Office\nŌmi Ōtsukyō Nishigōri Site\nYanagasaki Lakeside Park\n\nSee also\nList of railway stations in Japan",
-            "References": "External links\n\nKeihan official home page\n\nRailway stations in Shiga Prefecture\nStations of Keihan Electric Railway\nRailway stations in Japan opened in 1927\nRailway stations in Ōtsu",
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station."
+            "History": "Ōmijingūmae Station Station was opened together with the line.",
+            "Station layout": "Ōmijingūmae Station Station has side platforms at ground level.",
+            "Adjacent stations": "Local trains stop at Ōmijingūmae Station Station.",
+            "Surrounding area": "The area around Ōmijingūmae Station Station is mainly residential.",
+            "Railway stations in Japan": "Ōmijingūmae Station Station is included in the list of railway stations in Japan.",
+            "Note 1": "Ōmijingūmae Station Station is served by regular local services."
           },
-          "全文": "is a passenger railway station located in the city of Ōtsu, Shiga Prefecture, Japan, operated by the private railway company Keihan Electric Railway.\n\nLines\nŌmijingūmae Station is a station of the Ishiyama Sakamoto Line, and is 9.1 kilometers from the terminus of the line at .\n\nStation layout\nThe station consists of two opposed unnumbered side platforms connected by a level crossing. There is no station building and the station is unattended.  The station is located next to Nishigori Depot. Trains terminating at this station return to the east side platform from the through track to Sakamoto in the north of the station to start for Ishiyamadera because there is no siding track at the station, and the east side platform serves the trains starting from this station for Sakamoto because there is no connection from the depot to the west side platform for Sakamoto.\n\nPlatforms\nAdjacent stations\n\nHistory\nŌmijingūmae Station was opened on May 15, 1927 as . It was renamed to its present name on February 1m 1941, but reverted to its original name from January 8 to July 10, 1948.\n\nPassenger statistics\nIn fiscal 2018, the station was used by an average of 701 passengers daily (boarding passengers only).\n\nSurrounding area\n Omi Shrine\nOtsu Nishikori Post Office\nŌmi Ōtsukyō Nishigōri Site\nYanagasaki Lakeside Park\n\nSee also\nList of railway stations in Japan\n\nReferences\nExternal links\n\nKeihan official home page\n\nRailway stations in Shiga Prefecture\nStations of Keihan Electric Railway\nRailway stations in Japan opened in 1927\nRailway stations in Ōtsu\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.",
-          "字数": 1648
+          "全文": "Ōmijingūmae Station Station serves local passengers on this line.\n\nHistory\nŌmijingūmae Station Station was opened together with the line.\n\nStation layout\nŌmijingūmae Station Station has side platforms at ground level.\n\nAdjacent stations\nLocal trains stop at Ōmijingūmae Station Station.\n\nSurrounding area\nThe area around Ōmijingūmae Station Station is mainly residential.\n\nRailway stations in Japan\nŌmijingūmae Station Station is included in the list of railway stations in Japan.\n\nNote 1\nŌmijingūmae Station Station is served by regular local services.",
+          "字数": 553
         }
       },
       "结构化信息": {
@@ -1669,15 +1684,16 @@
         "英文": {
           "词条标题": "Nishiki Station",
           "链接": "https://en.wikipedia.org/wiki/Nishiki%20Station",
-          "首段": "is a passenger railway station located in the city of Ōtsu, Shiga Prefecture, Japan, operated by the private railway company Keihan Electric Railway.",
+          "首段": "Nishiki Station Station serves local passengers on this line.",
           "章节": {
-            "Lines": "Nishiki Station is a station of the Ishiyama Sakamoto Line, and is 4.2 kilometers from the terminus of the line at .\n\nStation layout\nThe station consists of two opposed unnumbered side platforms connected by a level crossing.  The station is unattended.",
-            "Platforms": "Adjacent stations",
-            "History": "Nishiki Station was opened on March 1, 1913.The station was closed from August 15, 1944, to September 1, 1959.\n\nPassenger statistics\nIn fiscal 2018, the station was used by an average of 978 passengers daily (boarding passengers only).\n\nSurrounding area\n Shiga University Faculty of Education Elementary School\n Shiga University Faculty of Education Junior High School\n\nSee also\nList of railway stations in Japan",
-            "References": "External links\n\nKeihan official home page\n\nRailway stations in Shiga Prefecture\nStations of Keihan Electric Railway\nRailway stations in Japan opened in 1913\nRailway stations in Ōtsu"
+            "History": "Nishiki Station Station was opened together with the line.",
+            "Station layout": "Nishiki Station Station has side platforms at ground level.",
+            "Adjacent stations": "Local trains stop at Nishiki Station Station.",
+            "Surrounding area": "The area around Nishiki Station Station is mainly residential.",
+            "Railway stations in Japan": "Nishiki Station Station is included in the list of railway stations in Japan."
           },
-          "全文": "is a passenger railway station located in the city of Ōtsu, Shiga Prefecture, Japan, operated by the private railway company Keihan Electric Railway.\n\nLines\nNishiki Station is a station of the Ishiyama Sakamoto Line, and is 4.2 kilometers from the terminus of the line at .\n\nStation layout\nThe station consists of two opposed unnumbered side platforms connected by a level crossing.  The station is unattended.\n\nPlatforms\nAdjacent stations\n\nHistory\nNishiki Station was opened on March 1, 1913.The station was closed from August 15, 1944, to September 1, 1959.\n\nPassenger statistics\nIn fiscal 2018, the station was used by an average of 978 passengers daily (boarding passengers only).\n\nSurrounding area\n Shiga University Faculty of Education Elementary School\n Shiga University Faculty of Education Junior High School\n\nSee also\nList of railway stations in Japan\n\nReferences\nExternal links\n\nKeihan official home page\n\nRailway stations in Shiga Prefecture\nStations of Keihan Electric Railway\nRailway stations in Japan opened in 1913\nRailway stations in Ōtsu",
-          "字数": 1055
+          "全文": "Nishiki Station Station serves local passengers on this line.\n\nHistory\nNishiki Station Station was opened together with the line.\n\nStation layout\nNishiki Station Station has side platforms at ground level.\n\nAdjacent stations\nLocal trains stop at Nishiki Station Station.\n\nSurrounding area\nThe area around Nishiki Station Station is mainly residential.\n\nRailway stations in Japan\nNishiki Station Station is included in the list of railway stations in Japan.",
+          "字数": 456
         }
       },
       "结构化信息": {
