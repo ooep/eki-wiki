@@ -32,7 +32,16 @@
         "字数": 50,
         "来源": "维基百科中文版（已转简体）"
       },
-      "英文": null
+      "英文": {
+        "词条标题": "Kitano Line (Keifuku Randen)",
+        "链接": null,
+        "首段": "The Kitano Line (北野線) is a tramway line of the Keifuku Electric Railway (Randen) in Kyoto, Japan, connecting Kitano-Hakubaichō with Shijō-Ōmiya.",
+        "章节": {
+          "京福電気鉄道北野線": ""
+        },
+        "全文": "The Kitano Line (北野線) is a tramway line of the Keifuku Electric Railway (Randen) in Kyoto, Japan, connecting Kitano-Hakubaichō with Shijō-Ōmiya.\n\n京福電気鉄道北野線\n",
+        "字数": 156
+      }
     }
   },
   "车站": [
@@ -80,7 +89,23 @@
           "字数": 618,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Kitano-Hakubaichō Station",
+          "链接": null,
+          "首段": "Kitano-Hakubaichō Station (北野白梅町駅) is a station on the Keifuku Randen Kitano Line located in Shimohakubai-chō, Kita-ku, Kyoto, Japan. Its station number is B9.",
+          "章节": {
+            "History": "",
+            "Chronology": "",
+            "Station layout": "",
+            "旧駅舎時代": "",
+            "Surrounding area": "",
+            "京都市交通局（市バス）・西日本ジェイアールバス高雄・京北線": "",
+            "北野線": "",
+            "Railway stations in 京都市": ""
+          },
+          "全文": "Kitano-Hakubaichō Station (北野白梅町駅) is a station on the Keifuku Randen Kitano Line located in Shimohakubai-chō, Kita-ku, Kyoto, Japan. Its station number is B9.\n\nHistory\n\n\nChronology\n\n\nStation layout\n\n\n旧駅舎時代\n\n\nSurrounding area\n\n\n京都市交通局（市バス）・西日本ジェイアールバス高雄・京北線\n\n\n北野線\n\n\nRailway stations in 京都市\n",
+          "字数": 290
+        }
       },
       "结构化信息": {
         "读音": "きたのはくばいちょうえき",
@@ -149,7 +174,18 @@
           "字数": 367,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Uzumasa-Kōryūji Station",
+          "链接": null,
+          "首段": "Uzumasa-Kōryūji Station (太秦広隆寺駅) is a station on the Keifuku Randen Arashiyama Line located in Uzumasa-Kumoi-chō, Ukyō-ku, Kyoto, Japan. Its station number is A7.",
+          "章节": {
+            "History": "",
+            "Station layout": "",
+            "嵐山本線": ""
+          },
+          "全文": "Uzumasa-Kōryūji Station (太秦広隆寺駅) is a station on the Keifuku Randen Arashiyama Line located in Uzumasa-Kumoi-chō, Ukyō-ku, Kyoto, Japan. Its station number is A7.\n\nHistory\n\n\nStation layout\n\n\n嵐山本線\n",
+          "字数": 196
+        }
       },
       "结构化信息": {
         "读音": "うずまさこうりゅうじえき",
@@ -223,10 +259,17 @@
           "链接": "https://en.wikipedia.org/wiki/My%C5%8Dshinji%20Station",
           "首段": "is a tram stop in Ukyo-ku, Kyoto, Japan. The station is serviced by the Randen Kitano Line that begins at  and continues to .\n\nStation layout \nThe station consists of two split-platforms at ground level. Platform 1 services trams to , connecting with the Randen Arashiyama Line. Platform 2 services trams bound for .\n\nAdjacent stations",
           "章节": {
+            "History": "",
+            "Station layout": "",
+            "Surrounding area": "",
+            "京都市立御室小学校": "",
+            "北野線": "",
+            "Railway stations in 右京区": "",
+            "Railway stations in 1925年開業": "",
             "References": "External links \n \n \n\nStations of Keifuku Electric Railroad\nRailway stations in Japan opened in 1925"
           },
-          "全文": "is a tram stop in Ukyo-ku, Kyoto, Japan. The station is serviced by the Randen Kitano Line that begins at  and continues to .\n\nStation layout \nThe station consists of two split-platforms at ground level. Platform 1 services trams to , connecting with the Randen Arashiyama Line. Platform 2 services trams bound for .\n\nAdjacent stations\n\nReferences\n\nExternal links \n \n \n\nStations of Keifuku Electric Railroad\nRailway stations in Japan opened in 1925",
-          "字数": 448
+          "全文": "is a tram stop in Ukyo-ku, Kyoto, Japan. The station is serviced by the Randen Kitano Line that begins at  and continues to .\n\nStation layout \nThe station consists of two split-platforms at ground level. Platform 1 services trams to , connecting with the Randen Arashiyama Line. Platform 2 services trams bound for .\n\nAdjacent stations\n\nHistory\n\n\nStation layout\n\n\nSurrounding area\n\n\n京都市立御室小学校\n\n\n北野線\n\n\nRailway stations in 右京区\n\n\nRailway stations in 1925年開業\n\n\nReferences\nExternal links \n \n \n\nStations of Keifuku Electric Railroad\nRailway stations in Japan opened in 1925",
+          "字数": 567
         }
       },
       "结构化信息": {
@@ -302,10 +345,18 @@
           "链接": "https://en.wikipedia.org/wiki/Utano%20Station",
           "首段": "is a tram stop in Ukyo-ku, Kyoto, Japan. The station is serviced by the Randen Kitano Line that begins at  and continues to .\n\nStation layout \nThe station consists of two staggered platforms at ground level. Platform 1 services trams to , connecting with the Randen Arashiyama Line. Platform 2 services trams bound for .\n\nAdjacent stations",
           "章节": {
+            "History": "",
+            "Chronology": "",
+            "Station layout": "",
+            "Surrounding area": "",
+            "福王子神社": "",
+            "Other": "",
+            "北野線": "",
+            "Railway stations in 右京区": "",
             "References": "External links \n \n \n\nStations of Keifuku Electric Railroad\nRailway stations in Japan opened in 1925"
           },
-          "全文": "is a tram stop in Ukyo-ku, Kyoto, Japan. The station is serviced by the Randen Kitano Line that begins at  and continues to .\n\nStation layout \nThe station consists of two staggered platforms at ground level. Platform 1 services trams to , connecting with the Randen Arashiyama Line. Platform 2 services trams bound for .\n\nAdjacent stations\n\nReferences\n\nExternal links \n \n \n\nStations of Keifuku Electric Railroad\nRailway stations in Japan opened in 1925",
-          "字数": 452
+          "全文": "is a tram stop in Ukyo-ku, Kyoto, Japan. The station is serviced by the Randen Kitano Line that begins at  and continues to .\n\nStation layout \nThe station consists of two staggered platforms at ground level. Platform 1 services trams to , connecting with the Randen Arashiyama Line. Platform 2 services trams bound for .\n\nAdjacent stations\n\nHistory\n\n\nChronology\n\n\nStation layout\n\n\nSurrounding area\n\n\n福王子神社\n\n\nOther\n\n\n北野線\n\n\nRailway stations in 右京区\n\n\nReferences\nExternal links \n \n \n\nStations of Keifuku Electric Railroad\nRailway stations in Japan opened in 1925",
+          "字数": 558
         }
       },
       "结构化信息": {
@@ -362,7 +413,14 @@
           "字数": 108,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Yamanouchi Station",
+          "链接": null,
+          "首段": "Yamanouchi Station (山ノ内駅) is the name shared by multiple stations in Japan, including a Randen Arashiyama Line station in Ukyō-ku, Kyoto.",
+          "章节": {},
+          "全文": "Yamanouchi Station (山ノ内駅) is the name shared by multiple stations in Japan, including a Randen Arashiyama Line station in Ukyō-ku, Kyoto.",
+          "字数": 137
+        }
       },
       "结构化信息": {
         "读音": "やまのうちえき",
@@ -418,7 +476,22 @@
           "字数": 337,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Randen-Tenjingawa Station",
+          "链接": null,
+          "首段": "Randen-Tenjingawa Station (嵐電天神川駅) is a station on the Keifuku Randen Arashiyama Line located in Uzumasa-Shimogōbe-chō, Ukyō-ku, Kyoto, Japan. Its station number is A5.",
+          "章节": {
+            "History": "",
+            "Chronology": "",
+            "Station layout": "",
+            "Surrounding area": "",
+            "Other": "",
+            "嵐山本線": "",
+            "Railway stations in 右京区": ""
+          },
+          "全文": "Randen-Tenjingawa Station (嵐電天神川駅) is a station on the Keifuku Randen Arashiyama Line located in Uzumasa-Shimogōbe-chō, Ukyō-ku, Kyoto, Japan. Its station number is A5.\n\nHistory\n\n\nChronology\n\n\nStation layout\n\n\nSurrounding area\n\n\nOther\n\n\n嵐山本線\n\n\nRailway stations in 右京区\n",
+          "字数": 268
+        }
       },
       "结构化信息": {
         "读音": "らんでんてんじんがわえき",
@@ -492,10 +565,18 @@
           "链接": "https://en.wikipedia.org/wiki/Katabiranotsuji%20Station",
           "首段": "is a tram stop and interchange station in Ukyo-ku, Kyoto, Japan. The station is serviced by the Randen Arashiyama Line that begins at  and continues west to .\n\nIt is also the western terminus of the Randen Kitano Line that continues through Ukyo-ku and Kita-ku, and terminates at .\n\nStation layout \nThe station consists of four platforms at ground level, with a concourse. Platforms 1 and 2 are for through-services on the Arashiyama line. Platforms 3 and 4 begin the Kitano line bound for . The platforms and concourse are wheelchair accessible, and have ticket barriers.\n\nAdjacent stations",
           "章节": {
+            "History": "",
+            "Station layout": "",
+            "Surrounding area": "",
+            "京都府道112号二条停車場嵐山線": "",
+            "嵐山本線": "",
+            "北野線": "",
+            "Railway stations in 右京区": "",
+            "Railway stations in 1926年開業": "",
             "References": "External links\n \n \n\nStations of Keifuku Electric Railroad\nRailway stations in Japan opened in 1926"
           },
-          "全文": "is a tram stop and interchange station in Ukyo-ku, Kyoto, Japan. The station is serviced by the Randen Arashiyama Line that begins at  and continues west to .\n\nIt is also the western terminus of the Randen Kitano Line that continues through Ukyo-ku and Kita-ku, and terminates at .\n\nStation layout \nThe station consists of four platforms at ground level, with a concourse. Platforms 1 and 2 are for through-services on the Arashiyama line. Platforms 3 and 4 begin the Kitano line bound for . The platforms and concourse are wheelchair accessible, and have ticket barriers.\n\nAdjacent stations\n\nReferences\n\nExternal links\n \n \n\nStations of Keifuku Electric Railroad\nRailway stations in Japan opened in 1926",
-          "字数": 703
+          "全文": "is a tram stop and interchange station in Ukyo-ku, Kyoto, Japan. The station is serviced by the Randen Arashiyama Line that begins at  and continues west to .\n\nIt is also the western terminus of the Randen Kitano Line that continues through Ukyo-ku and Kita-ku, and terminates at .\n\nStation layout \nThe station consists of four platforms at ground level, with a concourse. Platforms 1 and 2 are for through-services on the Arashiyama line. Platforms 3 and 4 begin the Kitano line bound for . The platforms and concourse are wheelchair accessible, and have ticket barriers.\n\nAdjacent stations\n\nHistory\n\n\nStation layout\n\n\nSurrounding area\n\n\n京都府道112号二条停車場嵐山線\n\n\n嵐山本線\n\n\n北野線\n\n\nRailway stations in 右京区\n\n\nRailway stations in 1926年開業\n\n\nReferences\nExternal links\n \n \n\nStations of Keifuku Electric Railroad\nRailway stations in Japan opened in 1926",
+          "字数": 836
         }
       },
       "结构化信息": {
@@ -616,7 +697,25 @@
           "字数": 415,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Omuro-Ninnaji Station",
+          "链接": null,
+          "首段": "Omuro-Ninnaji Station (御室仁和寺駅) is a station on the Keifuku Randen Kitano Line located in Omuro-Komanochō, Ukyō-ku, Kyoto, Japan. Its station number is B5.",
+          "章节": {
+            "History": "",
+            "Station layout": "",
+            "Surrounding area": "",
+            "京都市立双ヶ丘中学校": "",
+            "御室仁和寺バス停": "",
+            "Notes": "",
+            "映画": "",
+            "北野線": "",
+            "Railway stations in 右京区": "",
+            "Railway stations in 1925年開業": ""
+          },
+          "全文": "Omuro-Ninnaji Station (御室仁和寺駅) is a station on the Keifuku Randen Kitano Line located in Omuro-Komanochō, Ukyō-ku, Kyoto, Japan. Its station number is B5.\n\nHistory\n\n\nStation layout\n\n\nSurrounding area\n\n\n京都市立双ヶ丘中学校\n\n\n御室仁和寺バス停\n\n\nNotes\n\n\n映画\n\n\n北野線\n\n\nRailway stations in 右京区\n\n\nRailway stations in 1925年開業\n",
+          "字数": 299
+        }
       },
       "结构化信息": {
         "读音": "おむろにんなじえき",
@@ -857,10 +956,18 @@
           "链接": "https://en.wikipedia.org/wiki/Kaikonoyashiro%20Station",
           "首段": "is a tram stop in Ukyo-ku, Kyoto, Japan. The station is serviced by the Randen Arashiyama Line that begins at  and continues west to .\n\nStation layout \nThe station consists of two platforms at ground level. Platform 1 services trams to , platform 2 for .\n\nAdjacent stations",
           "章节": {
+            "Chronology": "",
+            "Notes": "",
+            "Station layout": "",
+            "Surrounding area": "",
+            "京都府道112号二条停車場嵐山線": "",
+            "嵐山本線": "",
+            "Railway stations in 右京区": "",
+            "Railway stations in 1910年開業": "",
             "References": "External links\n \n \n\nStations of Keifuku Electric Railroad\nRailway stations in Japan opened in 1910"
           },
-          "全文": "is a tram stop in Ukyo-ku, Kyoto, Japan. The station is serviced by the Randen Arashiyama Line that begins at  and continues west to .\n\nStation layout \nThe station consists of two platforms at ground level. Platform 1 services trams to , platform 2 for .\n\nAdjacent stations\n\nReferences\n\nExternal links\n \n \n\nStations of Keifuku Electric Railroad\nRailway stations in Japan opened in 1910",
-          "字数": 385
+          "全文": "is a tram stop in Ukyo-ku, Kyoto, Japan. The station is serviced by the Randen Arashiyama Line that begins at  and continues west to .\n\nStation layout \nThe station consists of two platforms at ground level. Platform 1 services trams to , platform 2 for .\n\nAdjacent stations\n\nChronology\n\n\nNotes\n\n\nStation layout\n\n\nSurrounding area\n\n\n京都府道112号二条停車場嵐山線\n\n\n嵐山本線\n\n\nRailway stations in 右京区\n\n\nRailway stations in 1910年開業\n\n\nReferences\nExternal links\n \n \n\nStations of Keifuku Electric Railroad\nRailway stations in Japan opened in 1910",
+          "字数": 523
         }
       },
       "结构化信息": {
@@ -928,7 +1035,20 @@
           "字数": 338,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Nishioji-Sanjo Station",
+          "链接": null,
+          "首段": "Nishioji-Sanjo Station (西大路三条駅) is a station on the Keifuku Randen Arashiyama Line located in Saiin-Imayamada-chō, Ukyō-ku, Kyoto, Japan. Its station number is A3.",
+          "章节": {
+            "History": "",
+            "Station layout": "",
+            "三条通": "",
+            "嵐山本線": "",
+            "Railway stations in 右京区": ""
+          },
+          "全文": "Nishioji-Sanjo Station (西大路三条駅) is a station on the Keifuku Randen Arashiyama Line located in Saiin-Imayamada-chō, Ukyō-ku, Kyoto, Japan. Its station number is A3.\n\nHistory\n\n\nStation layout\n\n\n三条通\n\n\n嵐山本線\n\n\nRailway stations in 右京区\n",
+          "字数": 229
+        }
       },
       "结构化信息": {
         "读音": "にしおおじさんじょうえき",
@@ -1014,7 +1134,36 @@
           "字数": 1476,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Saiin Station",
+          "链接": null,
+          "首段": "Saiin Station (西院駅) is an interchange on the Hankyū Kyoto Main Line and the Keifuku Randen Arashiyama Line, straddling Ukyō-ku and Nakagyō-ku, Kyoto, Japan.",
+          "章节": {
+            "Overview": "",
+            "阪急電鉄": "",
+            "京福電気鉄道": "",
+            "駅名": "",
+            "駅改良工事": "",
+            "Usage": "",
+            "京都市衛生公害研究所": "",
+            "右京郵便局": "",
+            "Bus routes": "",
+            "Aのりば": "",
+            "Bのりば": "",
+            "Cのりば": "",
+            "Dのりば": "",
+            "Eのりば": "",
+            "Fのりば": "",
+            "Passenger (no stop)": "",
+            "急行　(下りは平日のみ)・準急・普通": "",
+            "嵐山本線": "",
+            "Railway stations in 京都市": "",
+            "Railway stations in 新京阪鉄道": "",
+            "Railway stations in 右京区": ""
+          },
+          "全文": "Saiin Station (西院駅) is an interchange on the Hankyū Kyoto Main Line and the Keifuku Randen Arashiyama Line, straddling Ukyō-ku and Nakagyō-ku, Kyoto, Japan.\n\nOverview\n\n\n阪急電鉄\n\n\n京福電気鉄道\n\n\n駅名\n\n\n駅改良工事\n\n\nUsage\n\n\n京都市衛生公害研究所\n\n\n右京郵便局\n\n\nBus routes\n\n\nAのりば\n\n\nBのりば\n\n\nCのりば\n\n\nDのりば\n\n\nEのりば\n\n\nFのりば\n\n\nPassenger (no stop)\n\n\n急行　(下りは平日のみ)・準急・普通\n\n\n嵐山本線\n\n\nRailway stations in 京都市\n\n\nRailway stations in 新京阪鉄道\n\n\nRailway stations in 右京区\n",
+          "字数": 410
+        }
       },
       "结构化信息": {
         "读音": null,
@@ -1098,10 +1247,16 @@
           "链接": "https://en.wikipedia.org/wiki/Narutaki%20Station",
           "首段": "is a tram stop in Ukyo-ku, Kyoto, Japan. The station is serviced by the Randen Kitano Line that begins at  and continues to .\n\nStation layout \nThe station consists of two platforms at ground level. Platform 1 services trams to , connecting with the Randen Arashiyama Line. Platform 2 services trams bound for .\n\nAdjacent stations",
           "章节": {
+            "History": "",
+            "Station layout": "",
+            "Surrounding area": "",
+            "北野線": "",
+            "List of railway stations in Japan": "",
+            "Railway stations in 右京区": "",
             "References": "External links \n \n \n\nStations of Keifuku Electric Railroad\nRailway stations in Japan opened in 1926"
           },
-          "全文": "is a tram stop in Ukyo-ku, Kyoto, Japan. The station is serviced by the Randen Kitano Line that begins at  and continues to .\n\nStation layout \nThe station consists of two platforms at ground level. Platform 1 services trams to , connecting with the Randen Arashiyama Line. Platform 2 services trams bound for .\n\nAdjacent stations\n\nReferences\n\nExternal links \n \n \n\nStations of Keifuku Electric Railroad\nRailway stations in Japan opened in 1926",
-          "字数": 442
+          "全文": "is a tram stop in Ukyo-ku, Kyoto, Japan. The station is serviced by the Randen Kitano Line that begins at  and continues to .\n\nStation layout \nThe station consists of two platforms at ground level. Platform 1 services trams to , connecting with the Randen Arashiyama Line. Platform 2 services trams bound for .\n\nAdjacent stations\n\nHistory\n\n\nStation layout\n\n\nSurrounding area\n\n\n北野線\n\n\nList of railway stations in Japan\n\n\nRailway stations in 右京区\n\n\nReferences\nExternal links \n \n \n\nStations of Keifuku Electric Railroad\nRailway stations in Japan opened in 1926",
+          "字数": 555
         }
       },
       "结构化信息": {
@@ -1164,7 +1319,20 @@
           "字数": 317,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Ryōanji Station",
+          "链接": null,
+          "首段": "Ryōanji Station (龍安寺駅) is a station on the Keifuku Randen Kitano Line located in Tanoguchi-Higashinouchō, Ukyō-ku, Kyoto, Japan. Its station number is B7.",
+          "章节": {
+            "History": "",
+            "Chronology": "",
+            "Station layout": "",
+            "北野線": "",
+            "Railway stations in 右京区": ""
+          },
+          "全文": "Ryōanji Station (龍安寺駅) is a station on the Keifuku Randen Kitano Line located in Tanoguchi-Higashinouchō, Ukyō-ku, Kyoto, Japan. Its station number is B7.\n\nHistory\n\n\nChronology\n\n\nStation layout\n\n\n北野線\n\n\nRailway stations in 右京区\n",
+          "字数": 226
+        }
       },
       "结构化信息": {
         "读音": "りょうあんじえき",
@@ -1199,6 +1367,6 @@
     "有中文词条": 16,
     "已千问汉化": 0,
     "待汉化": 1,
-    "有英文词条": 8
+    "有英文词条": 16
   }
 }
