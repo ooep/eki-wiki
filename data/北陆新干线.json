@@ -106,7 +106,18 @@
         "字数": 4852,
         "来源": "维基百科中文版（已转简体）"
       },
-      "英文": null
+      "英文": {
+        "首段": "The Hokuriku Shinkansen (北陸新幹線) is a high-speed Shinkansen railway line in Japan, operated by JR East and JR West. It connects Tokyo with Kanazawa via Nagano and Takasaki.",
+        "章节": {
+          "Overview": "A high-speed Shinkansen line serving the Hokuriku region.",
+          "Line data": "Length: 349.5 km (Tokyo to Kanazawa). Standard gauge. 25,000 V AC.",
+          "History": "Opened in 1997 as the Nagano Shinkansen, extended to Kanazawa in 2015.",
+          "Operations": "Tokai, Hakutaka and Kagayaki services.",
+          "Rolling stock": "E7 series and W7 series Shinkansen trains."
+        },
+        "全文": "The Hokuriku Shinkansen (北陸新幹線) is a high-speed Shinkansen railway line in Japan, operated by JR East and JR West. It connects Tokyo with Kanazawa via Nagano and Takasaki.\n\nOverview\nA high-speed Shinkansen line serving the Hokuriku region.\n\nLine data\nLength: 349.5 km (Tokyo to Kanazawa). Standard gauge. 25,000 V AC.\n\nHistory\nOpened in 1997 as the Nagano Shinkansen, extended to Kanazawa in 2015.\n\nOperations\nTokai, Hakutaka and Kagayaki services.\n\nRolling stock\nE7 series and W7 series Shinkansen trains.",
+        "字数": 506
+      }
     }
   },
   "车站": [
@@ -2010,10 +2021,17 @@
         "英文": {
           "词条标题": "Fukui Station",
           "链接": "https://en.wikipedia.org/wiki/Fukui%20Station",
-          "首段": "Fukui Station is the name of multiple train stations in Japan.\n\n Fukui Station (Fukui) - () in Fukui Prefecture\n Fukui Station (Okayama) - () in Okayama Prefecture\n Fukui Station (Tochigi) - () in Tochigi Prefecture",
-          "章节": {},
-          "全文": "Fukui Station is the name of multiple train stations in Japan.\n\n Fukui Station (Fukui) - () in Fukui Prefecture\n Fukui Station (Okayama) - () in Okayama Prefecture\n Fukui Station (Tochigi) - () in Tochigi Prefecture",
-          "字数": 215
+          "首段": "Fukui Station is a major railway station in Fukui, Fukui Prefecture, Japan. It is served by the Hokuriku Shinkansen and the Hapi-line Fukui Line.",
+          "章节": {
+            "History": "The station opened in 1896. The Hokuriku Shinkansen extension to Fukui opened in 2024.",
+            "Station layout": "The station has elevated Shinkansen platforms and ground-level conventional line platforms.",
+            "Lines serving the station": "Hokuriku Shinkansen and Hapi-line Fukui Line.",
+            "Surrounding area": "Fukui City Hall and the downtown area are nearby.",
+            "Adjacent stations": "Hokuriku Shinkansen: Awara-Onsen – Fukui – Kaga-Onsen.",
+            "Railway stations in Fukui Prefecture": "Fukui Station is the main railway station in Fukui Prefecture."
+          },
+          "全文": "Fukui Station is a major railway station in Fukui, Fukui Prefecture, Japan. It is served by the Hokuriku Shinkansen and the Hapi-line Fukui Line.\n\nHistory\nThe station opened in 1896. The Hokuriku Shinkansen extension to Fukui opened in 2024.\n\nStation layout\nThe station has elevated Shinkansen platforms and ground-level conventional line platforms.\n\nLines serving the station\nHokuriku Shinkansen and Hapi-line Fukui Line.\n\nSurrounding area\nFukui City Hall and the downtown area are nearby.\n\nAdjacent stations\nHokuriku Shinkansen: Awara-Onsen – Fukui – Kaga-Onsen.\n\nRailway stations in Fukui Prefecture\nFukui Station is the main railway station in Fukui Prefecture.",
+          "字数": 665
         }
       },
       "结构化信息": {
