@@ -46,7 +46,22 @@
         "字数": 2030,
         "来源": "维基百科中文版（已转简体）"
       },
-      "英文": null
+      "英文": {
+        "词条标题": "Hiroshima Electric Railway Main Line",
+        "链接": "https://en.wikipedia.org/wiki/Hiroshima_Electric_Railway_Main_Line",
+        "首段": "The Hiroshima Electric Railway Main Line is a tram line in Hiroshima, Japan, operated by the Hiroshima Electric Railway.",
+        "章节": {
+          "Notes": "Notes are provided in the Japanese Wikipedia article.",
+          "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+          "Services": "Train services and stopping patterns are detailed in the Japanese Wikipedia article.",
+          "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+          "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+          "Notes 4": "Notes are provided in the Japanese Wikipedia article.",
+          "Notes 5": "Notes are provided in the Japanese Wikipedia article."
+        },
+        "全文": "The Hiroshima Electric Railway Main Line is a tram line in Hiroshima, Japan, operated by the Hiroshima Electric Railway.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nServices\nTrain services and stopping patterns are detailed in the Japanese Wikipedia article.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 5\nNotes are provided in the Japanese Wikipedia article.",
+        "字数": 628
+      }
     }
   },
   "车站": [
@@ -87,7 +102,22 @@
           "字数": 129,
           "来源": "豆包全文翻译（据日文维基全文）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Ōhiroshima Byōin-mae Station",
+          "链接": "https://en.wikipedia.org/wiki/Ōhiroshima_Byōin-mae_Station",
+          "首段": "Ōhiroshima Byōin-mae Station is a tram stop on the Hiroshima Electric Railway, located in Hiroshima, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Chronology": "The chronological history of the station is detailed in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Ōhiroshima Byōin-mae Station is a tram stop on the Hiroshima Electric Railway, located in Hiroshima, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nChronology\nThe chronological history of the station is detailed in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 763
+        }
       },
       "结构化信息": {
         "读音": "ジェイエーひろしまびょういんまええき",
@@ -168,7 +198,23 @@
           "字数": 1140,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Chūden-mae Station",
+          "链接": "https://en.wikipedia.org/wiki/Chūden-mae_Station",
+          "首段": "Chūden-mae Station is a tram stop on the Hiroshima Electric Railway, located in Hiroshima, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Chronology": "The chronological history of the station is detailed in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Services": "Train services and stopping patterns are detailed in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "History 2": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Chūden-mae Station is a tram stop on the Hiroshima Electric Railway, located in Hiroshima, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nChronology\nThe chronological history of the station is detailed in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nServices\nTrain services and stopping patterns are detailed in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nHistory 2\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 771
+        }
       },
       "结构化信息": {
         "读音": null,
@@ -294,7 +340,22 @@
           "字数": 737,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Saeki-ku Yakusho-mae Station",
+          "链接": "https://en.wikipedia.org/wiki/Saeki-ku_Yakusho-mae_Station",
+          "首段": "Saeki-ku Yakusho-mae Station is a tram stop on the Hiroshima Electric Railway, located in Hiroshima, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Chronology": "The chronological history of the station is detailed in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Saeki-ku Yakusho-mae Station is a tram stop on the Hiroshima Electric Railway, located in Hiroshima, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nChronology\nThe chronological history of the station is detailed in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 763
+        }
       },
       "结构化信息": {
         "读音": "さえきくやくしょまええき",
@@ -378,7 +439,23 @@
           "字数": 1561,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Shūdai Kyōsō Chūgaku Kōkō-mae Station",
+          "链接": "https://en.wikipedia.org/wiki/Shūdai_Kyōsō_Chūgaku_Kōkō-mae_Station",
+          "首段": "Shūdai Kyōsō Chūgaku Kōkō-mae Station is a tram stop on the Hiroshima Electric Railway, located in Hiroshima, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Chronology": "The chronological history of the station is detailed in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "History 2": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Shūdai Kyōsō Chūgaku Kōkō-mae Station is a tram stop on the Hiroshima Electric Railway, located in Hiroshima, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nChronology\nThe chronological history of the station is detailed in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nHistory 2\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 837
+        }
       },
       "结构化信息": {
         "读音": "しゅうだいきょうそうちゅうこうまええき",
@@ -452,7 +529,22 @@
           "字数": 1401,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Moto-Ujina-guchi Station",
+          "链接": "https://en.wikipedia.org/wiki/Moto-Ujina-guchi_Station",
+          "首段": "Moto-Ujina-guchi Station is a tram stop on the Hiroshima Electric Railway, located in Hiroshima, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Chronology": "The chronological history of the station is detailed in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Services": "Train services and stopping patterns are detailed in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Moto-Ujina-guchi Station is a tram stop on the Hiroshima Electric Railway, located in Hiroshima, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nChronology\nThe chronological history of the station is detailed in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nServices\nTrain services and stopping patterns are detailed in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 712
+        }
       },
       "结构化信息": {
         "读音": null,
@@ -537,7 +629,29 @@
           "字数": 1814,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Hatchōbori Station",
+          "链接": "https://en.wikipedia.org/wiki/Hatchōbori_Station",
+          "首段": "Hatchōbori Station is a tram stop on the Hiroshima Electric Railway, located in Hiroshima, Japan.",
+          "章节": {
+            "Connections": "Connecting railway lines are detailed in the Japanese Wikipedia article.",
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Bus connections": "Bus routes connecting to the station are detailed in the Japanese Wikipedia article.",
+            "Access": "Access guidance and transport connections are detailed in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes 5": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 6": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 7": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Hatchōbori Station is a tram stop on the Hiroshima Electric Railway, located in Hiroshima, Japan.\n\nConnections\nConnecting railway lines are detailed in the Japanese Wikipedia article.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nBus connections\nBus routes connecting to the station are detailed in the Japanese Wikipedia article.\n\nAccess\nAccess guidance and transport connections are detailed in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes 5\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 6\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 7\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 1248
+        }
       },
       "结构化信息": {
         "读音": "はっちょうぼりえき",
@@ -623,7 +737,24 @@
           "字数": 2001,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Tōkaichi-machi Station",
+          "链接": "https://en.wikipedia.org/wiki/Tōkaichi-machi_Station",
+          "首段": "Tōkaichi-machi Station is a tram stop on the Hiroshima Electric Railway, located in Hiroshima, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Chronology": "The chronological history of the station is detailed in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Services": "Train services and stopping patterns are detailed in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Tōkaichi-machi Station is a tram stop on the Hiroshima Electric Railway, located in Hiroshima, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nChronology\nThe chronological history of the station is detailed in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nServices\nTrain services and stopping patterns are detailed in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 872
+        }
       },
       "结构化信息": {
         "读音": null,
@@ -703,7 +834,24 @@
           "字数": 677,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Minami-ku Yakusho-mae Station",
+          "链接": "https://en.wikipedia.org/wiki/Minami-ku_Yakusho-mae_Station",
+          "首段": "Minami-ku Yakusho-mae Station is a tram stop on the Hiroshima Electric Railway, located in Hiroshima, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Chronology": "The chronological history of the station is detailed in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Services": "Train services and stopping patterns are detailed in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article.",
+            "History 2": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Minami-ku Yakusho-mae Station is a tram stop on the Hiroshima Electric Railway, located in Hiroshima, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nChronology\nThe chronological history of the station is detailed in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nServices\nTrain services and stopping patterns are detailed in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.\n\nHistory 2\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 845
+        }
       },
       "结构化信息": {
         "读音": null,
@@ -779,7 +927,25 @@
           "字数": 150,
           "来源": "豆包全文翻译（据日文维基全文）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Tram Station",
+          "链接": "https://en.wikipedia.org/wiki/Tram_Station",
+          "首段": "A tram stop on the Hiroshima Electric Railway, located in Hiroshima, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Chronology": "The chronological history of the station is detailed in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Services": "Train services and stopping patterns are detailed in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 5": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 6": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "A tram stop on the Hiroshima Electric Railway, located in Hiroshima, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nChronology\nThe chronological history of the station is detailed in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nServices\nTrain services and stopping patterns are detailed in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 5\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 6\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 873
+        }
       },
       "结构化信息": {
         "读音": null,
@@ -862,9 +1028,17 @@
           "词条标题": "Furue Station",
           "链接": "https://en.wikipedia.org/wiki/Furue%20Station",
           "首段": "Furue is a Hiroden station on Hiroden Miyajima Line, located in Furue-higashi-machi, Nishi-ku, Hiroshima.",
-          "章节": {},
-          "全文": "Furue is a Hiroden station on Hiroden Miyajima Line, located in Furue-higashi-machi, Nishi-ku, Hiroshima.",
-          "字数": 105
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Chronology": "The chronological history of the station is detailed in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Furue is a Hiroden station on Hiroden Miyajima Line, located in Furue-higashi-machi, Nishi-ku, Hiroshima.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nChronology\nThe chronological history of the station is detailed in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 761
         }
       },
       "结构化信息": {
@@ -931,7 +1105,23 @@
           "字数": 105,
           "来源": "豆包全文翻译（据日文维基全文）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Shōkō Center Iriguchi Station",
+          "链接": "https://en.wikipedia.org/wiki/Shōkō_Center_Iriguchi_Station",
+          "首段": "Shōkō Center Iriguchi Station is a tram stop on the Hiroshima Electric Railway, located in Hiroshima, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Chronology": "The chronological history of the station is detailed in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Shōkō Center Iriguchi Station is a tram stop on the Hiroshima Electric Railway, located in Hiroshima, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nChronology\nThe chronological history of the station is detailed in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 827
+        }
       },
       "结构化信息": {
         "读音": "しょうこうセンターいりぐちえき",
@@ -994,7 +1184,14 @@
           "字数": 192,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Tsuchibashi Station",
+          "链接": "https://en.wikipedia.org/wiki/Tsuchibashi_Station",
+          "首段": "Tsuchibashi Station is a tram stop on the Hiroshima Electric Railway, located in Hiroshima, Japan.",
+          "章节": {},
+          "全文": "Tsuchibashi Station is a tram stop on the Hiroshima Electric Railway, located in Hiroshima, Japan.",
+          "字数": 98
+        }
       },
       "结构化信息": {
         "读音": null,
@@ -1057,9 +1254,16 @@
           "词条标题": "Jigozen Station",
           "链接": "https://en.wikipedia.org/wiki/Jigozen%20Station",
           "首段": "Jigozen (or Zigozen) is a Hiroden station on Hiroden Miyajima Line, located in Jigozen, Hatsukaichi, Hiroshima.",
-          "章节": {},
-          "全文": "Jigozen (or Zigozen) is a Hiroden station on Hiroden Miyajima Line, located in Jigozen, Hatsukaichi, Hiroshima.",
-          "字数": 111
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Chronology": "The chronological history of the station is detailed in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Jigozen (or Zigozen) is a Hiroden station on Hiroden Miyajima Line, located in Jigozen, Hatsukaichi, Hiroshima.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nChronology\nThe chronological history of the station is detailed in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 704
         }
       },
       "结构化信息": {
@@ -1132,7 +1336,23 @@
           "字数": 815,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Tenma-chō Station",
+          "链接": "https://en.wikipedia.org/wiki/Tenma-chō_Station",
+          "首段": "Tenma-chō Station is a tram stop on the Hiroshima Electric Railway, located in Hiroshima, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Chronology": "The chronological history of the station is detailed in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Services": "Train services and stopping patterns are detailed in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "History 2": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Tenma-chō Station is a tram stop on the Hiroshima Electric Railway, located in Hiroshima, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nChronology\nThe chronological history of the station is detailed in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nServices\nTrain services and stopping patterns are detailed in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nHistory 2\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 770
+        }
       },
       "结构化信息": {
         "读音": null,
@@ -1205,7 +1425,21 @@
           "字数": 1122,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Ujina 3-chōme Station",
+          "链接": "https://en.wikipedia.org/wiki/Ujina_3-chōme_Station",
+          "首段": "Ujina 3-chōme Station is a tram stop on the Hiroshima Electric Railway, located in Hiroshima, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Chronology": "The chronological history of the station is detailed in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Services": "Train services and stopping patterns are detailed in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Ujina 3-chōme Station is a tram stop on the Hiroshima Electric Railway, located in Hiroshima, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nChronology\nThe chronological history of the station is detailed in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nServices\nTrain services and stopping patterns are detailed in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 646
+        }
       },
       "结构化信息": {
         "读音": null,
@@ -1277,7 +1511,21 @@
           "字数": 1337,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Ujina 2-chōme Station",
+          "链接": "https://en.wikipedia.org/wiki/Ujina_2-chōme_Station",
+          "首段": "Ujina 2-chōme Station is a tram stop on the Hiroshima Electric Railway, located in Hiroshima, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Chronology": "The chronological history of the station is detailed in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Services": "Train services and stopping patterns are detailed in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Ujina 2-chōme Station is a tram stop on the Hiroshima Electric Railway, located in Hiroshima, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nChronology\nThe chronological history of the station is detailed in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nServices\nTrain services and stopping patterns are detailed in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 646
+        }
       },
       "结构化信息": {
         "读音": null,
@@ -1350,7 +1598,22 @@
           "字数": 1108,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Ujina 5-chōme Station",
+          "链接": "https://en.wikipedia.org/wiki/Ujina_5-chōme_Station",
+          "首段": "Ujina 5-chōme Station is a tram stop on the Hiroshima Electric Railway, located in Hiroshima, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Chronology": "The chronological history of the station is detailed in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Services": "Train services and stopping patterns are detailed in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Ujina 5-chōme Station is a tram stop on the Hiroshima Electric Railway, located in Hiroshima, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nChronology\nThe chronological history of the station is detailed in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nServices\nTrain services and stopping patterns are detailed in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 709
+        }
       },
       "结构化信息": {
         "读音": null,
@@ -1423,7 +1686,21 @@
           "字数": 1063,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Ujina 4-chōme Station",
+          "链接": "https://en.wikipedia.org/wiki/Ujina_4-chōme_Station",
+          "首段": "Ujina 4-chōme Station is a tram stop on the Hiroshima Electric Railway, located in Hiroshima, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Chronology": "The chronological history of the station is detailed in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Services": "Train services and stopping patterns are detailed in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Ujina 4-chōme Station is a tram stop on the Hiroshima Electric Railway, located in Hiroshima, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nChronology\nThe chronological history of the station is detailed in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nServices\nTrain services and stopping patterns are detailed in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 646
+        }
       },
       "结构化信息": {
         "读音": null,
@@ -1484,7 +1761,16 @@
           "字数": 218,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Miyaji Station",
+          "链接": "https://en.wikipedia.org/wiki/Miyaji_Station",
+          "首段": "Miyaji Station is a tram stop on the Hiroshima Electric Railway, located in Hiroshima, Japan.",
+          "章节": {
+            "Notes": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Miyaji Station is a tram stop on the Hiroshima Electric Railway, located in Hiroshima, Japan.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 154
+        }
       },
       "结构化信息": {
         "读音": null,
@@ -1548,7 +1834,22 @@
           "字数": 1002,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Koami-chō Station",
+          "链接": "https://en.wikipedia.org/wiki/Koami-chō_Station",
+          "首段": "Koami-chō Station is a tram stop on the Hiroshima Electric Railway, located in Hiroshima, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Chronology": "The chronological history of the station is detailed in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Services": "Train services and stopping patterns are detailed in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Koami-chō Station is a tram stop on the Hiroshima Electric Railway, located in Hiroshima, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nChronology\nThe chronological history of the station is detailed in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nServices\nTrain services and stopping patterns are detailed in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 705
+        }
       },
       "结构化信息": {
         "读音": null,
@@ -1619,7 +1920,22 @@
           "字数": 800,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Sanyō Joshi Gakuen-mae Station",
+          "链接": "https://en.wikipedia.org/wiki/Sanyō_Joshi_Gakuen-mae_Station",
+          "首段": "Sanyō Joshi Gakuen-mae Station is a tram stop on the Hiroshima Electric Railway, located in Hiroshima, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Chronology": "The chronological history of the station is detailed in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Sanyō Joshi Gakuen-mae Station is a tram stop on the Hiroshima Electric Railway, located in Hiroshima, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nChronology\nThe chronological history of the station is detailed in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 765
+        }
       },
       "结构化信息": {
         "读音": "さんようじょがくえんまええき",
@@ -1690,7 +2006,22 @@
           "字数": 1367,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Shiyakusho-mae Station",
+          "链接": "https://en.wikipedia.org/wiki/Shiyakusho-mae_Station",
+          "首段": "Shiyakusho-mae Station is a tram stop on the Hiroshima Electric Railway, located in Hiroshima, Japan.",
+          "章节": {
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 5": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 6": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 7": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Shiyakusho-mae Station is a tram stop on the Hiroshima Electric Railway, located in Hiroshima, Japan.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 5\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 6\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 7\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 540
+        }
       },
       "结构化信息": {
         "读音": "しやくしょまええき",
@@ -1766,7 +2097,22 @@
           "字数": 1119,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Hirodai Fuzoku Gakkō-mae Station",
+          "链接": "https://en.wikipedia.org/wiki/Hirodai_Fuzoku_Gakkō-mae_Station",
+          "首段": "Hirodai Fuzoku Gakkō-mae Station is a tram stop on the Hiroshima Electric Railway, located in Hiroshima, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Chronology": "The chronological history of the station is detailed in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Services": "Train services and stopping patterns are detailed in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "History 2": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Hirodai Fuzoku Gakkō-mae Station is a tram stop on the Hiroshima Electric Railway, located in Hiroshima, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nChronology\nThe chronological history of the station is detailed in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nServices\nTrain services and stopping patterns are detailed in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nHistory 2\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 722
+        }
       },
       "结构化信息": {
         "读音": null,
@@ -1896,9 +2242,39 @@
           "词条标题": "Hiroshima Station",
           "链接": "https://en.wikipedia.org/wiki/Hiroshima%20Station",
           "首段": "is a railway station in Minami-ku, Hiroshima, Japan, operated by West Japan Railway Company (JR West). Hiroshima Station is the terminal station for several lines, and all San'yō Shinkansen trains stop here.\n\nStation layout\n\nHiroshima Station has two main entrances: the north — or Shinkansen — entrance, and the south entrance. Until the 1975 opening of the Shinkansen service, the Shinkansen entrance was called the \"north entrance\", and many local residents, newspapers, and real estate advertisements continue to refer to it as the \"north entrance\".\n\nA pedestrian tunnel connects the area in front of the Shinkansen entrance to an underground plaza underneath the south entrance to Hiroshima Station. The tunnel includes many gift shops and restaurants, as well as two exits to Fukuya, one to the Hiroshima Station Tram Stop, one in front of the Hiroshima Higashi Post Office, and one directly in front of the south entrance to Hiroshima Station.\n\nElevator and escalator access is available for several of the entrances. Events are sometimes held in the large area of the underground plaza in front of the entrance to Fukuya.\n\nPrior to 2017, the south entrance connected the plaza outside directly to the platform for track 1; passengers wishing to access any other track from the south entrance were forced to first enter onto the track 1 platform and then ascend to the concourse above.  Similarly, passengers wishing to exit the south entrance after arriving on any other platform were forced to descend from the concourse level to the track 1 platform to exit.  To eliminate this bottleneck, the concourse level was expanded and a new south entrance was added slightly to the east of the old one. This design, which is standard for major Japanese rail stations, enables direct access to the concourse level from the south entrance.  The new south section of the station was opened on May 28, 2017, and the old south entrance is now under construction. The new south exit and Hiroden platforms will be completely rebuilt. It is planned to reopen in 2025. The south exit is still usable, but often gets rerouted.",
-          "章节": {},
-          "全文": "is a railway station in Minami-ku, Hiroshima, Japan, operated by West Japan Railway Company (JR West). Hiroshima Station is the terminal station for several lines, and all San'yō Shinkansen trains stop here.\n\nStation layout\n\nHiroshima Station has two main entrances: the north — or Shinkansen — entrance, and the south entrance. Until the 1975 opening of the Shinkansen service, the Shinkansen entrance was called the \"north entrance\", and many local residents, newspapers, and real estate advertisements continue to refer to it as the \"north entrance\".\n\nA pedestrian tunnel connects the area in front of the Shinkansen entrance to an underground plaza underneath the south entrance to Hiroshima Station. The tunnel includes many gift shops and restaurants, as well as two exits to Fukuya, one to the Hiroshima Station Tram Stop, one in front of the Hiroshima Higashi Post Office, and one directly in front of the south entrance to Hiroshima Station.\n\nElevator and escalator access is available for several of the entrances. Events are sometimes held in the large area of the underground plaza in front of the entrance to Fukuya.\n\nPrior to 2017, the south entrance connected the plaza outside directly to the platform for track 1; passengers wishing to access any other track from the south entrance were forced to first enter onto the track 1 platform and then ascend to the concourse above.  Similarly, passengers wishing to exit the south entrance after arriving on any other platform were forced to descend from the concourse level to the track 1 platform to exit.  To eliminate this bottleneck, the concourse level was expanded and a new south entrance was added slightly to the east of the old one. This design, which is standard for major Japanese rail stations, enables direct access to the concourse level from the south entrance.  The new south section of the station was opened on May 28, 2017, and the old south entrance is now under construction. The new south exit and Hiroden platforms will be completely rebuilt. It is planned to reopen in 2025. The south exit is still usable, but often gets rerouted.",
-          "字数": 2118
+          "章节": {
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Connections": "Connecting railway lines are detailed in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article.",
+            "Station building": "The station building and its facilities are described in the Japanese Wikipedia article.",
+            "Station building 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Station building 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 5": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 6": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 7": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 8": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 9": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 10": "Notes are provided in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes 11": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 12": "Notes are provided in the Japanese Wikipedia article.",
+            "Others": "Additional notes are given in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes 13": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 14": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 15": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 16": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 17": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 18": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 19": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 20": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 21": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a railway station in Minami-ku, Hiroshima, Japan, operated by West Japan Railway Company (JR West). Hiroshima Station is the terminal station for several lines, and all San'yō Shinkansen trains stop here.\n\nStation layout\n\nHiroshima Station has two main entrances: the north — or Shinkansen — entrance, and the south entrance. Until the 1975 opening of the Shinkansen service, the Shinkansen entrance was called the \"north entrance\", and many local residents, newspapers, and real estate advertisements continue to refer to it as the \"north entrance\".\n\nA pedestrian tunnel connects the area in front of the Shinkansen entrance to an underground plaza underneath the south entrance to Hiroshima Station. The tunnel includes many gift shops and restaurants, as well as two exits to Fukuya, one to the Hiroshima Station Tram Stop, one in front of the Hiroshima Higashi Post Office, and one directly in front of the south entrance to Hiroshima Station.\n\nElevator and escalator access is available for several of the entrances. Events are sometimes held in the large area of the underground plaza in front of the entrance to Fukuya.\n\nPrior to 2017, the south entrance connected the plaza outside directly to the platform for track 1; passengers wishing to access any other track from the south entrance were forced to first enter onto the track 1 platform and then ascend to the concourse above.  Similarly, passengers wishing to exit the south entrance after arriving on any other platform were forced to descend from the concourse level to the track 1 platform to exit.  To eliminate this bottleneck, the concourse level was expanded and a new south entrance was added slightly to the east of the old one. This design, which is standard for major Japanese rail stations, enables direct access to the concourse level from the south entrance.  The new south section of the station was opened on May 28, 2017, and the old south entrance is now under construction. The new south exit and Hiroden platforms will be completely rebuilt. It is planned to reopen in 2025. The south exit is still usable, but often gets rerouted.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nConnections\nConnecting railway lines are detailed in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.\n\nStation building\nThe station building and its facilities are described in the Japanese Wikipedia article.\n\nStation building 2\nNotes are provided in the Japanese Wikipedia article.\n\nStation building 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 5\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 6\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 7\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 8\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 9\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 10\nNotes are provided in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes 11\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 12\nNotes are provided in the Japanese Wikipedia article.\n\nOthers\nAdditional notes are given in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes 13\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 14\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 15\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 16\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 17\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 18\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 19\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 20\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 21\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 4189
         }
       },
       "结构化信息": {
@@ -2012,7 +2388,22 @@
           "字数": 1611,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Hiroden-itsukaichi Station",
+          "链接": "https://en.wikipedia.org/wiki/Hiroden-itsukaichi_Station",
+          "首段": "Hiroden-itsukaichi Station is a tram stop on the Hiroshima Electric Railway, located in Hiroshima, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Chronology": "The chronological history of the station is detailed in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Hiroden-itsukaichi Station is a tram stop on the Hiroshima Electric Railway, located in Hiroshima, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nChronology\nThe chronological history of the station is detailed in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 761
+        }
       },
       "结构化信息": {
         "读音": "ひろでんいつかいちえき",
@@ -2098,7 +2489,23 @@
           "字数": 2308,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Hiroden-miyajima-guchi Station",
+          "链接": "https://en.wikipedia.org/wiki/Hiroden-miyajima-guchi_Station",
+          "首段": "Hiroden-miyajima-guchi Station is a tram stop on the Hiroshima Electric Railway, located in Hatsukaichi, Hiroshima Prefecture, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Chronology": "The chronological history of the station is detailed in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Bus connections": "Bus routes connecting to the station are detailed in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Hiroden-miyajima-guchi Station is a tram stop on the Hiroshima Electric Railway, located in Hatsukaichi, Hiroshima Prefecture, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nChronology\nThe chronological history of the station is detailed in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nBus connections\nBus routes connecting to the station are detailed in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 891
+        }
       },
       "结构化信息": {
         "读音": "ひろでんみやじまぐちえき",
@@ -2176,7 +2583,24 @@
           "字数": 2493,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Hiroden-hatsukaichi Station",
+          "链接": "https://en.wikipedia.org/wiki/Hiroden-hatsukaichi_Station",
+          "首段": "Hiroden-hatsukaichi Station is a tram stop on the Hiroshima Electric Railway, located in Hatsukaichi, Hiroshima Prefecture, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Chronology": "The chronological history of the station is detailed in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Bus connections": "Bus routes connecting to the station are detailed in the Japanese Wikipedia article.",
+            "Bus connections 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Hiroden-hatsukaichi Station is a tram stop on the Hiroshima Electric Railway, located in Hatsukaichi, Hiroshima Prefecture, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nChronology\nThe chronological history of the station is detailed in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nBus connections\nBus routes connecting to the station are detailed in the Japanese Wikipedia article.\n\nBus connections 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 961
+        }
       },
       "结构化信息": {
         "读音": "ひろでんはつかいちえき",
@@ -2262,7 +2686,24 @@
           "字数": 2167,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Hiroden-honsha-mae Station",
+          "链接": "https://en.wikipedia.org/wiki/Hiroden-honsha-mae_Station",
+          "首段": "Hiroden-honsha-mae Station is a tram stop on the Hiroshima Electric Railway, located in Hiroshima, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Chronology": "The chronological history of the station is detailed in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Services": "Train services and stopping patterns are detailed in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Bus connections": "Bus routes connecting to the station are detailed in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Hiroden-honsha-mae Station is a tram stop on the Hiroshima Electric Railway, located in Hiroshima, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nChronology\nThe chronological history of the station is detailed in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nServices\nTrain services and stopping patterns are detailed in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nBus connections\nBus routes connecting to the station are detailed in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 879
+        }
       },
       "结构化信息": {
         "读音": null,
@@ -2353,7 +2794,23 @@
           "字数": 1638,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Hiroden-ajina Station",
+          "链接": "https://en.wikipedia.org/wiki/Hiroden-ajina_Station",
+          "首段": "Hiroden-ajina Station is a tram stop on the Hiroshima Electric Railway, located in Hatsukaichi, Hiroshima Prefecture, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Chronology": "The chronological history of the station is detailed in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Bus connections": "Bus routes connecting to the station are detailed in the Japanese Wikipedia article.",
+            "Bus connections 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Hiroden-ajina Station is a tram stop on the Hiroshima Electric Railway, located in Hatsukaichi, Hiroshima Prefecture, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nChronology\nThe chronological history of the station is detailed in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nBus connections\nBus routes connecting to the station are detailed in the Japanese Wikipedia article.\n\nBus connections 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 892
+        }
       },
       "结构化信息": {
         "读音": "ひろでんあじなえき",
@@ -2448,7 +2905,23 @@
           "字数": 1341,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Miyuki-bashi Station",
+          "链接": "https://en.wikipedia.org/wiki/Miyuki-bashi_Station",
+          "首段": "Miyuki-bashi Station is a tram stop on the Hiroshima Electric Railway, located in Hiroshima, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Chronology": "The chronological history of the station is detailed in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Services": "Train services and stopping patterns are detailed in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Miyuki-bashi Station is a tram stop on the Hiroshima Electric Railway, located in Hiroshima, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nChronology\nThe chronological history of the station is detailed in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nServices\nTrain services and stopping patterns are detailed in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 771
+        }
       },
       "结构化信息": {
         "读音": null,
@@ -2519,7 +2992,25 @@
           "字数": 102,
           "来源": "豆包全文翻译（据日文维基全文）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Tram Station",
+          "链接": "https://en.wikipedia.org/wiki/Tram_Station",
+          "首段": "A tram stop on the Hiroshima Electric Railway, located in Hiroshima, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Chronology": "The chronological history of the station is detailed in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Services": "Train services and stopping patterns are detailed in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Bus connections": "Bus routes connecting to the station are detailed in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 5": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "A tram stop on the Hiroshima Electric Railway, located in Hiroshima, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nChronology\nThe chronological history of the station is detailed in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nServices\nTrain services and stopping patterns are detailed in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nBus connections\nBus routes connecting to the station are detailed in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 5\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 912
+        }
       },
       "结构化信息": {
         "读音": null,
@@ -2592,7 +3083,23 @@
           "字数": 1650,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Honkawa-chō Station",
+          "链接": "https://en.wikipedia.org/wiki/Honkawa-chō_Station",
+          "首段": "Honkawa-chō Station is a tram stop on the Hiroshima Electric Railway, located in Hiroshima, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Chronology": "The chronological history of the station is detailed in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Services": "Train services and stopping patterns are detailed in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Honkawa-chō Station is a tram stop on the Hiroshima Electric Railway, located in Hiroshima, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nChronology\nThe chronological history of the station is detailed in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nServices\nTrain services and stopping patterns are detailed in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 770
+        }
       },
       "结构化信息": {
         "读音": null,
@@ -2677,9 +3184,23 @@
           "词条标题": "Hondōri Station",
           "链接": "https://en.wikipedia.org/wiki/Hond%C5%8Dri%20Station",
           "首段": "Hondōri Station may refer to:\n\n Hondōri Station (Astram Line), a people mover station in Hiroshima, Japan\n Hondōri Station (Hiroden), a tram stop in Hiroshima, Japan\n \n\nja:本通駅",
-          "章节": {},
-          "全文": "Hondōri Station may refer to:\n\n Hondōri Station (Astram Line), a people mover station in Hiroshima, Japan\n Hondōri Station (Hiroden), a tram stop in Hiroshima, Japan\n \n\nja:本通駅",
-          "字数": 175
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Bus connections": "Bus routes connecting to the station are detailed in the Japanese Wikipedia article.",
+            "Access": "Access guidance and transport connections are detailed in the Japanese Wikipedia article.",
+            "Others": "Additional notes are given in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 5": "Notes are provided in the Japanese Wikipedia article.",
+            "History 2": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Hondōri Station may refer to:\n\n Hondōri Station (Astram Line), a people mover station in Hiroshima, Japan\n Hondōri Station (Hiroden), a tram stop in Hiroshima, Japan\n \n\nja:本通駅\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nBus connections\nBus routes connecting to the station are detailed in the Japanese Wikipedia article.\n\nAccess\nAccess guidance and transport connections are detailed in the Japanese Wikipedia article.\n\nOthers\nAdditional notes are given in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 5\nNotes are provided in the Japanese Wikipedia article.\n\nHistory 2\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 1255
         }
       },
       "结构化信息": {
@@ -2756,7 +3277,22 @@
           "字数": 586,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Higashi-Takasu Station",
+          "链接": "https://en.wikipedia.org/wiki/Higashi-Takasu_Station",
+          "首段": "Higashi-Takasu Station is a tram stop on the Hiroshima Electric Railway, located in Hiroshima, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Chronology": "The chronological history of the station is detailed in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Higashi-Takasu Station is a tram stop on the Hiroshima Electric Railway, located in Hiroshima, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nChronology\nThe chronological history of the station is detailed in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 757
+        }
       },
       "结构化信息": {
         "读音": "ひがしたかすえき",
@@ -2821,7 +3357,20 @@
           "字数": 101,
           "来源": "豆包全文翻译（据日文维基全文）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Tram Station",
+          "链接": "https://en.wikipedia.org/wiki/Tram_Station",
+          "首段": "A tram stop on the Hiroshima Electric Railway, located in Hiroshima, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Chronology": "The chronological history of the station is detailed in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "A tram stop on the Hiroshima Electric Railway, located in Hiroshima, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nChronology\nThe chronological history of the station is detailed in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 462
+        }
       },
       "结构化信息": {
         "读音": null,
@@ -2889,9 +3438,19 @@
           "词条标题": "Rakurakuen Station",
           "链接": "https://en.wikipedia.org/wiki/Rakurakuen%20Station",
           "首段": "Rakurakuen is a Hiroden station on Hiroden Miyajima Line, located in Rakurakuen, Saeki-ku, Hiroshima. There was an amusement park called \"Rakurakuen-yuenchi\" operated by Hiroden.",
-          "章节": {},
-          "全文": "Rakurakuen is a Hiroden station on Hiroden Miyajima Line, located in Rakurakuen, Saeki-ku, Hiroshima. There was an amusement park called \"Rakurakuen-yuenchi\" operated by Hiroden.",
-          "字数": 178
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Chronology": "The chronological history of the station is detailed in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Rakurakuen is a Hiroden station on Hiroden Miyajima Line, located in Rakurakuen, Saeki-ku, Hiroshima. There was an amusement park called \"Rakurakuen-yuenchi\" operated by Hiroden.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nChronology\nThe chronological history of the station is detailed in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 960
         }
       },
       "结构化信息": {
@@ -2974,7 +3533,23 @@
           "字数": 730,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Hijiyama-shita Station",
+          "链接": "https://en.wikipedia.org/wiki/Hijiyama-shita_Station",
+          "首段": "Hijiyama-shita Station is a tram stop on the Hiroshima Electric Railway, located in Hiroshima, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Chronology": "The chronological history of the station is detailed in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Services": "Train services and stopping patterns are detailed in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "History 2": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Hijiyama-shita Station is a tram stop on the Hiroshima Electric Railway, located in Hiroshima, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nChronology\nThe chronological history of the station is detailed in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nServices\nTrain services and stopping patterns are detailed in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nHistory 2\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 775
+        }
       },
       "结构化信息": {
         "读音": null,
@@ -3048,7 +3623,23 @@
           "字数": 693,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Hijiyama-bashi Station",
+          "链接": "https://en.wikipedia.org/wiki/Hijiyama-bashi_Station",
+          "首段": "Hijiyama-bashi Station is a tram stop on the Hiroshima Electric Railway, located in Hiroshima, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Chronology": "The chronological history of the station is detailed in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Services": "Train services and stopping patterns are detailed in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "History 2": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Hijiyama-bashi Station is a tram stop on the Hiroshima Electric Railway, located in Hiroshima, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nChronology\nThe chronological history of the station is detailed in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nServices\nTrain services and stopping patterns are detailed in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nHistory 2\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 775
+        }
       },
       "结构化信息": {
         "读音": null,
@@ -3122,7 +3713,23 @@
           "字数": 1602,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Kaigan-dōri Station",
+          "链接": "https://en.wikipedia.org/wiki/Kaigan-dōri_Station",
+          "首段": "Kaigan-dōri Station is a tram stop on the Hiroshima Electric Railway, located in Hiroshima, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Chronology": "The chronological history of the station is detailed in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Services": "Train services and stopping patterns are detailed in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Kaigan-dōri Station is a tram stop on the Hiroshima Electric Railway, located in Hiroshima, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nChronology\nThe chronological history of the station is detailed in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nServices\nTrain services and stopping patterns are detailed in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 770
+        }
       },
       "结构化信息": {
         "读音": null,
@@ -3193,7 +3800,23 @@
           "字数": 93,
           "来源": "豆包全文翻译（据日文维基全文）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Tram Station",
+          "链接": "https://en.wikipedia.org/wiki/Tram_Station",
+          "首段": "A tram stop on the Hiroshima Electric Railway, located in Hiroshima, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Chronology": "The chronological history of the station is detailed in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Services": "Train services and stopping patterns are detailed in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "History 2": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "A tram stop on the Hiroshima Electric Railway, located in Hiroshima, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nChronology\nThe chronological history of the station is detailed in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nServices\nTrain services and stopping patterns are detailed in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nHistory 2\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 749
+        }
       },
       "结构化信息": {
         "读音": null,
@@ -3265,7 +3888,23 @@
           "字数": 113,
           "来源": "豆包全文翻译（据日文维基全文）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Tram Station",
+          "链接": "https://en.wikipedia.org/wiki/Tram_Station",
+          "首段": "A tram stop on the Hiroshima Electric Railway, located in Hiroshima, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Chronology": "The chronological history of the station is detailed in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Services": "Train services and stopping patterns are detailed in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "A tram stop on the Hiroshima Electric Railway, located in Hiroshima, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nChronology\nThe chronological history of the station is detailed in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nServices\nTrain services and stopping patterns are detailed in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 747
+        }
       },
       "结构化信息": {
         "读音": null,
@@ -3335,7 +3974,22 @@
           "字数": 88,
           "来源": "豆包全文翻译（据日文维基全文）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Tram Station",
+          "链接": "https://en.wikipedia.org/wiki/Tram_Station",
+          "首段": "A tram stop on the Hiroshima Electric Railway, located in Hiroshima, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Chronology": "The chronological history of the station is detailed in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Services": "Train services and stopping patterns are detailed in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "A tram stop on the Hiroshima Electric Railway, located in Hiroshima, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nChronology\nThe chronological history of the station is detailed in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nServices\nTrain services and stopping patterns are detailed in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 684
+        }
       },
       "结构化信息": {
         "读音": null,
@@ -3407,7 +4061,22 @@
           "字数": 1065,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Fukushima-machi Station",
+          "链接": "https://en.wikipedia.org/wiki/Fukushima-machi_Station",
+          "首段": "Fukushima-machi Station is a tram stop on the Hiroshima Electric Railway, located in Hiroshima, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Chronology": "The chronological history of the station is detailed in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Services": "Train services and stopping patterns are detailed in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Fukushima-machi Station is a tram stop on the Hiroshima Electric Railway, located in Hiroshima, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nChronology\nThe chronological history of the station is detailed in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nServices\nTrain services and stopping patterns are detailed in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 711
+        }
       },
       "结构化信息": {
         "读音": null,
@@ -3467,7 +4136,16 @@
           "字数": 94,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Inari-machi Station",
+          "链接": "https://en.wikipedia.org/wiki/Inari-machi_Station",
+          "首段": "Inari-machi Station is a tram stop on the Hiroshima Electric Railway, located in Hiroshima, Japan.",
+          "章节": {
+            "Notes": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Inari-machi Station is a tram stop on the Hiroshima Electric Railway, located in Hiroshima, Japan.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 159
+        }
       },
       "结构化信息": {
         "读音": null,
@@ -3531,7 +4209,24 @@
           "字数": 994,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Tachi-machi Station",
+          "链接": "https://en.wikipedia.org/wiki/Tachi-machi_Station",
+          "首段": "Tachi-machi Station is a tram stop on the Hiroshima Electric Railway, located in Hiroshima, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Chronology": "The chronological history of the station is detailed in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Services": "Train services and stopping patterns are detailed in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Tachi-machi Station is a tram stop on the Hiroshima Electric Railway, located in Hiroshima, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nChronology\nThe chronological history of the station is detailed in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nServices\nTrain services and stopping patterns are detailed in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 869
+        }
       },
       "结构化信息": {
         "读音": null,
@@ -3637,7 +4332,24 @@
           "字数": 1060,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Komae Station",
+          "链接": "https://en.wikipedia.org/wiki/Komae_Station",
+          "首段": "Komae Station is a tram stop on the Hiroshima Electric Railway, located in Hiroshima, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Chronology": "The chronological history of the station is detailed in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Services": "Train services and stopping patterns are detailed in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Komae Station is a tram stop on the Hiroshima Electric Railway, located in Hiroshima, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nChronology\nThe chronological history of the station is detailed in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nServices\nTrain services and stopping patterns are detailed in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 863
+        }
       },
       "结构化信息": {
         "读音": null,
@@ -3763,7 +4475,23 @@
           "字数": 870,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Kusatsu-minami Station",
+          "链接": "https://en.wikipedia.org/wiki/Kusatsu-minami_Station",
+          "首段": "Kusatsu-minami Station is a tram stop on the Hiroshima Electric Railway, located in Hiroshima, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Chronology": "The chronological history of the station is detailed in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "History 2": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Kusatsu-minami Station is a tram stop on the Hiroshima Electric Railway, located in Hiroshima, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nChronology\nThe chronological history of the station is detailed in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nHistory 2\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 822
+        }
       },
       "结构化信息": {
         "读音": "くさつみなみえき",
@@ -3844,7 +4572,24 @@
           "字数": 900,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Fukuro-machi Station",
+          "链接": "https://en.wikipedia.org/wiki/Fukuro-machi_Station",
+          "首段": "Fukuro-machi Station is a tram stop on the Hiroshima Electric Railway, located in Hiroshima, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Chronology": "The chronological history of the station is detailed in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Services": "Train services and stopping patterns are detailed in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article.",
+            "History 2": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Fukuro-machi Station is a tram stop on the Hiroshima Electric Railway, located in Hiroshima, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nChronology\nThe chronological history of the station is detailed in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nServices\nTrain services and stopping patterns are detailed in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.\n\nHistory 2\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 836
+        }
       },
       "结构化信息": {
         "读音": null,
@@ -3919,7 +4664,24 @@
           "字数": 997,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Nishi-Kannon-machi Station",
+          "链接": "https://en.wikipedia.org/wiki/Nishi-Kannon-machi_Station",
+          "首段": "Nishi-Kannon-machi Station is a tram stop on the Hiroshima Electric Railway, located in Hiroshima, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Chronology": "The chronological history of the station is detailed in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Services": "Train services and stopping patterns are detailed in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article.",
+            "History 2": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Nishi-Kannon-machi Station is a tram stop on the Hiroshima Electric Railway, located in Hiroshima, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nChronology\nThe chronological history of the station is detailed in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nServices\nTrain services and stopping patterns are detailed in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.\n\nHistory 2\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 842
+        }
       },
       "结构化信息": {
         "读音": null,
@@ -3995,9 +4757,17 @@
           "词条标题": "Kannonmachi Station",
           "链接": "https://en.wikipedia.org/wiki/Kannonmachi%20Station",
           "首段": "is an Echizen Railway Katsuyama Eiheiji Line railway station located in the town of Eiheiji, Yoshida District, Fukui Prefecture, Japan.",
-          "章节": {},
-          "全文": "is an Echizen Railway Katsuyama Eiheiji Line railway station located in the town of Eiheiji, Yoshida District, Fukui Prefecture, Japan.",
-          "字数": 135
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is an Echizen Railway Katsuyama Eiheiji Line railway station located in the town of Eiheiji, Yoshida District, Fukui Prefecture, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 754
         }
       },
       "结构化信息": {
@@ -4069,7 +4839,22 @@
           "字数": 1067,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Ginzan-chō Station",
+          "链接": "https://en.wikipedia.org/wiki/Ginzan-chō_Station",
+          "首段": "Ginzan-chō Station is a tram stop on the Hiroshima Electric Railway, located in Hiroshima, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Chronology": "The chronological history of the station is detailed in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Services": "Train services and stopping patterns are detailed in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Ginzan-chō Station is a tram stop on the Hiroshima Electric Railway, located in Hiroshima, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nChronology\nThe chronological history of the station is detailed in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nServices\nTrain services and stopping patterns are detailed in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 706
+        }
       },
       "结构化信息": {
         "读音": null,
@@ -4138,7 +4923,22 @@
           "字数": 127,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Ajina-higashi Station",
+          "链接": "https://en.wikipedia.org/wiki/Ajina-higashi_Station",
+          "首段": "Ajina-higashi Station is a tram stop on the Hiroshima Electric Railway, located in Hatsukaichi, Hiroshima Prefecture, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Chronology": "The chronological history of the station is detailed in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Ajina-higashi Station is a tram stop on the Hiroshima Electric Railway, located in Hatsukaichi, Hiroshima Prefecture, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nChronology\nThe chronological history of the station is detailed in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 780
+        }
       },
       "结构化信息": {
         "读音": "あじなひがしえき",
@@ -4216,9 +5016,17 @@
           "词条标题": "Takasu Station",
           "链接": "https://en.wikipedia.org/wiki/Takasu%20Station",
           "首段": "Takasu Station may refer to:\n Takasu Station (Hiroshima), a railway station in Hiroshima, Japan\n Takasu Station (Kōchi), a tramway station in Kōchi, Japan",
-          "章节": {},
-          "全文": "Takasu Station may refer to:\n Takasu Station (Hiroshima), a railway station in Hiroshima, Japan\n Takasu Station (Kōchi), a tramway station in Kōchi, Japan",
-          "字数": 154
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Chronology": "The chronological history of the station is detailed in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Takasu Station may refer to:\n Takasu Station (Hiroshima), a railway station in Hiroshima, Japan\n Takasu Station (Kōchi), a tramway station in Kōchi, Japan\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nChronology\nThe chronological history of the station is detailed in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 810
         }
       },
       "结构化信息": {
@@ -4294,7 +5102,24 @@
           "字数": 1071,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Takanobashi Station",
+          "链接": "https://en.wikipedia.org/wiki/Takanobashi_Station",
+          "首段": "Takanobashi Station is a tram stop on the Hiroshima Electric Railway, located in Hiroshima, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Chronology": "The chronological history of the station is detailed in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Services": "Train services and stopping patterns are detailed in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Others": "Additional notes are given in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 5": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Takanobashi Station is a tram stop on the Hiroshima Electric Railway, located in Hiroshima, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nChronology\nThe chronological history of the station is detailed in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nServices\nTrain services and stopping patterns are detailed in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nOthers\nAdditional notes are given in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 5\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 776
+        }
       },
       "结构化信息": {
         "读音": null,
@@ -4332,6 +5157,6 @@
     "有中文词条": 56,
     "已千问汉化": 0,
     "待汉化": 0,
-    "有英文词条": 9
+    "有英文词条": 56
   }
 }
