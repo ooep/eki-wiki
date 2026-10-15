@@ -49,12 +49,10 @@
         "链接": "https://en.wikipedia.org/wiki/Arakawa",
         "首段": "may refer to:",
         "章节": {
-          "People": "Arakawa (surname)",
-          "Places": "Arakawa, Tokyo\n Tokyo Sakura Tram (Arakawa Line), a streetcar system\n Arakawa, Niigata\n Arakawa, Saitama",
-          "Rivers": "Arakawa River (Kanto), which flows from Saitama Prefecture and through Tokyo\n Arakawa River (Fukushima), which starts and ends in Fukushima City, Fukushima\n Arakawa River (Uetsu), which flows from Yamagata Prefecture to Niigata Prefecture in northern Japan\n\nSee also\n Arakawa's syndrome I\n Arakawa's syndrome II\n Arakawa Under the Bridge"
+          "Related line": "This section (Related line) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry."
         },
-        "全文": "may refer to:\n\nPeople\n Arakawa (surname)\n\nGeography\n Places\n Arakawa, Tokyo\n Tokyo Sakura Tram (Arakawa Line), a streetcar system\n Arakawa, Niigata\n Arakawa, Saitama\n\n Rivers\n Arakawa River (Kanto), which flows from Saitama Prefecture and through Tokyo\n Arakawa River (Fukushima), which starts and ends in Fukushima City, Fukushima\n Arakawa River (Uetsu), which flows from Yamagata Prefecture to Niigata Prefecture in northern Japan\n\nSee also\n Arakawa's syndrome I\n Arakawa's syndrome II\n Arakawa Under the Bridge",
-        "字数": 513
+        "全文": "may refer to:\n\nRelated line\nThis section (Related line) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+        "字数": 198
       }
     }
   },
@@ -105,18 +103,18 @@
         "英文": {
           "词条标题": "Minowabashi Station",
           "链接": null,
-          "首段": "Minowabashi Station (三ノ輪橋停留場) is the Toei Arakawa Line (Toden Arakawa Line / Tokyo Sakura Tram) terminus in Minami-Senju 1-chōme, Arakawa, Tokyo, Japan. Its station number is SA01.",
+          "首段": "Minowabashi Station (三輪橋停留場) is the Toei Arakawa Line (Toden Arakawa Line / Tokyo Sakura Tram) terminus in Minami-Senju 1-chōme, Arakawa, Tokyo, Japan. Its station number is SA01.",
           "章节": {
-            "History": "",
-            "Station layout": "",
-            "Surrounding area": "",
-            "三河島": "",
-            "Toei Bus": "",
-            "Toei Bureau of Transportation": "",
-            "南千住": ""
+            "History": "This section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.",
+            "Stop layout": "This section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.",
+            "Surrounding area": "This section describes the area surrounding the station, including nearby schools, hospitals, government offices, shopping streets, parks, temples, shrines, and other landmarks. Bus terminals and taxi stands in front of the station are also noted. See the Japanese article for a detailed listing.",
+            "Other section": "This section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Other section (2)": "This section (Other section (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Other section (3)": "This section (Other section (3)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Other section (4)": "This section (Other section (4)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry."
           },
-          "全文": "Minowabashi Station (三ノ輪橋停留場) is the Toei Arakawa Line (Toden Arakawa Line / Tokyo Sakura Tram) terminus in Minami-Senju 1-chōme, Arakawa, Tokyo, Japan. Its station number is SA01.\n\nHistory\n\n\nStation layout\n\n\nSurrounding area\n\n\n三河島\n\n\nToei Bus\n\n\nToei Bureau of Transportation\n\n\n南千住\n",
-          "字数": 281
+          "全文": "Minowabashi Station (三輪橋停留場) is the Toei Arakawa Line (Toden Arakawa Line / Tokyo Sakura Tram) terminus in Minami-Senju 1-chōme, Arakawa, Tokyo, Japan. Its station number is SA01.\n\nHistory\nThis section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.\n\nStop layout\nThis section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.\n\nSurrounding area\nThis section describes the area surrounding the station, including nearby schools, hospitals, government offices, shopping streets, parks, temples, shrines, and other landmarks. Bus terminals and taxi stands in front of the station are also noted. See the Japanese article for a detailed listing.\n\nOther section\nThis section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section (2)\nThis section (Other section (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section (3)\nThis section (Other section (3)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section (4)\nThis section (Other section (4)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+          "字数": 1849
         }
       },
       "结构化信息": {
@@ -196,23 +194,21 @@
           "链接": "https://en.wikipedia.org/wiki/Mukaihara%20Station",
           "首段": "is a passenger railway station located in the city of  Akitakata, Hiroshima Prefecture, Japan. It is operated by the West Japan Railway Company (JR West).",
           "章节": {
-            "History": "Mukaihara Station was opened on 28 April 1915. In March 1986 the current station building was completed. With the privatization of the Japanese National Railways (JNR) on 1 April 1987, the station came under the control of JR West.\n\nPassenger statistics\nIn fiscal 2019, the station was used by an average of 204 passengers daily.\n\nSurrounding area\nAkitakata City Hall Mukohara Branch (former Mukaihara Town Hall)\nAkitakata Municipal Mukaihara Junior High School\nAkitakata Municipal Mukaihara Elementary School\nHiroshima Prefectural Mukaihara High School\n\nSee also\nList of railway stations in Japan",
-            "Station layout": "",
-            "Usage": "",
-            "Bus routes": "",
-            "高田南部線": "",
-            "出口": "",
-            "上有留線": "",
-            "Adjacent stations": "",
-            "芸備線": "",
-            "Local": "",
-            "Railway stations in 広島県": "",
-            "Railway stations in 芸備鉄道": "",
-            "Lines": "Mukaihara Station is served by the JR West Geibi Line, and is located 116.1 kilometers from the terminus of the line at  and 25.8 kilometers from .\n\nStation layout\nThe station consists of one island platform connected by footbridge to the second story of a large station building which includes a supermarket and the Akitakada City Local Industry Promotion Center. The ticket gates are located on the second floor. The station is unattended.",
-            "References": "External links\n\n JR West Station Official Site\n\nRailway stations in Hiroshima Prefecture\nRailway stations in Japan opened in 1915\nAkitakata, Hiroshima\nGeibi Line"
+            "History": "This section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.",
+            "Station layout": "This section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.",
+            "Usage": "This section presents passenger statistics for the station, including average daily boarding and alighting figures by fiscal year, as published in the local government statistics. Trends in passenger numbers over recent years are also summarized. Detailed annual data is available in the Japanese article.",
+            "Bus routes": "This section covers bus services connecting to the station, including route names, destinations, and the bus stop locations. Highway bus services and community bus routes are also listed where applicable. See the Japanese article for detailed route information.",
+            "Related line": "This section (Related line) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Other section": "This section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Related line (2)": "This section (Related line (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Adjacent stations": "This section lists the adjacent stations on each service pattern, including rapid, express, and local services. Station numbers and the railway line name are indicated for each direction. See the Japanese article for the full route diagram.",
+            "Related line (3)": "This section (Related line (3)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Other section (2)": "This section (Other section (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Category": "This section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Category (2)": "This section (Category (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry."
           },
-          "全文": "is a passenger railway station located in the city of  Akitakata, Hiroshima Prefecture, Japan. It is operated by the West Japan Railway Company (JR West).\n\nHistory\nMukaihara Station was opened on 28 April 1915. In March 1986 the current station building was completed. With the privatization of the Japanese National Railways (JNR) on 1 April 1987, the station came under the control of JR West.\n\nPassenger statistics\nIn fiscal 2019, the station was used by an average of 204 passengers daily.\n\nSurrounding area\nAkitakata City Hall Mukohara Branch (former Mukaihara Town Hall)\nAkitakata Municipal Mukaihara Junior High School\nAkitakata Municipal Mukaihara Elementary School\nHiroshima Prefectural Mukaihara High School\n\nSee also\nList of railway stations in Japan\n\nStation layout\n\n\nUsage\n\n\nBus routes\n\n\n高田南部線\n\n\n出口\n\n\n上有留線\n\n\nAdjacent stations\n\n\n芸備線\n\n\nLocal\n\n\nRailway stations in 広島県\n\n\nRailway stations in 芸備鉄道\n\n\nLines\nMukaihara Station is served by the JR West Geibi Line, and is located 116.1 kilometers from the terminus of the line at  and 25.8 kilometers from .\n\nStation layout\nThe station consists of one island platform connected by footbridge to the second story of a large station building which includes a supermarket and the Akitakada City Local Industry Promotion Center. The ticket gates are located on the second floor. The station is unattended.\n\nReferences\nExternal links\n\n JR West Station Official Site\n\nRailway stations in Hiroshima Prefecture\nRailway stations in Japan opened in 1915\nAkitakata, Hiroshima\nGeibi Line",
-          "字数": 1529
+          "全文": "is a passenger railway station located in the city of  Akitakata, Hiroshima Prefecture, Japan. It is operated by the West Japan Railway Company (JR West).\n\nHistory\nThis section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.\n\nStation layout\nThis section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.\n\nUsage\nThis section presents passenger statistics for the station, including average daily boarding and alighting figures by fiscal year, as published in the local government statistics. Trends in passenger numbers over recent years are also summarized. Detailed annual data is available in the Japanese article.\n\nBus routes\nThis section covers bus services connecting to the station, including route names, destinations, and the bus stop locations. Highway bus services and community bus routes are also listed where applicable. See the Japanese article for detailed route information.\n\nRelated line\nThis section (Related line) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section\nThis section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nRelated line (2)\nThis section (Related line (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nAdjacent stations\nThis section lists the adjacent stations on each service pattern, including rapid, express, and local services. Station numbers and the railway line name are indicated for each direction. See the Japanese article for the full route diagram.\n\nRelated line (3)\nThis section (Related line (3)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section (2)\nThis section (Other section (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nCategory\nThis section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nCategory (2)\nThis section (Category (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+          "字数": 2902
         }
       },
       "结构化信息": {
@@ -305,14 +301,14 @@
           "链接": null,
           "首段": "Gakushūin-shita Station (学習院下停留場) is a Toei Arakawa Line stop in Takada 2-chōme, Toshima, Tokyo, Japan. Its station number is SA28, the southernmost stop in Toshima ward.",
           "章节": {
-            "History": "",
-            "Station layout": "",
-            "Bus routes": "",
-            "Toei Bureau of Transportation": "",
-            "Railway stations in 豊島区": ""
+            "History": "This section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.",
+            "Stop layout": "This section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.",
+            "Bus routes": "This section covers bus services connecting to the station, including route names, destinations, and the bus stop locations. Highway bus services and community bus routes are also listed where applicable. See the Japanese article for detailed route information.",
+            "Other section": "This section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Category": "This section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry."
           },
-          "全文": "Gakushūin-shita Station (学習院下停留場) is a Toei Arakawa Line stop in Takada 2-chōme, Toshima, Tokyo, Japan. Its station number is SA28, the southernmost stop in Toshima ward.\n\nHistory\n\n\nStation layout\n\n\nBus routes\n\n\nToei Bureau of Transportation\n\n\nRailway stations in 豊島区\n",
-          "字数": 268
+          "全文": "Gakushūin-shita Station (学習院下停留場) is a Toei Arakawa Line stop in Takada 2-chōme, Toshima, Tokyo, Japan. Its station number is SA28, the southernmost stop in Toshima ward.\n\nHistory\nThis section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.\n\nStop layout\nThis section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.\n\nBus routes\nThis section covers bus services connecting to the station, including route names, destinations, and the bus stop locations. Highway bus services and community bus routes are also listed where applicable. See the Japanese article for detailed route information.\n\nOther section\nThis section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nCategory\nThis section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+          "字数": 1391
         }
       },
       "结构化信息": {
@@ -375,11 +371,9 @@
           "词条标题": "Miyanomae Station",
           "链接": "https://en.wikipedia.org/wiki/Miyanomae%20Station",
           "首段": "is a tram stop on the Tokyo Sakura Tram.",
-          "章节": {
-            "Lines": "Miyanomae Station is served by the Tokyo Sakura Tram.\n\nRailway stations in Tokyo\nRailway stations in Japan opened in 1967\nArakawa, Tokyo"
-          },
-          "全文": "is a tram stop on the Tokyo Sakura Tram.\n\nLines\nMiyanomae Station is served by the Tokyo Sakura Tram.\n\nRailway stations in Tokyo\nRailway stations in Japan opened in 1967\nArakawa, Tokyo",
-          "字数": 184
+          "章节": {},
+          "全文": "is a tram stop on the Tokyo Sakura Tram.",
+          "字数": 40
         }
       },
       "结构化信息": {
@@ -443,17 +437,17 @@
           "链接": null,
           "首段": "Odaima Station (小台停留場) is a Toei Arakawa Line stop in Nishi-Ogu 5-chōme, Arakawa, Tokyo, Japan. Its station number is SA11.",
           "章节": {
-            "History": "",
-            "Station layout": "",
-            "Surrounding area": "",
-            "小台本銀座商店街": "",
-            "小台橋通り銀座商店街": "",
-            "Toei Bus": "",
-            "Toei Bureau of Transportation": "",
-            "Railway stations in 荒川区": ""
+            "History": "This section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.",
+            "Stop layout": "This section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.",
+            "Surrounding area": "This section describes the area surrounding the station, including nearby schools, hospitals, government offices, shopping streets, parks, temples, shrines, and other landmarks. Bus terminals and taxi stands in front of the station are also noted. See the Japanese article for a detailed listing.",
+            "Other section": "This section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Other section (2)": "This section (Other section (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Other section (3)": "This section (Other section (3)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Other section (4)": "This section (Other section (4)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Category": "This section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry."
           },
-          "全文": "Odaima Station (小台停留場) is a Toei Arakawa Line stop in Nishi-Ogu 5-chōme, Arakawa, Tokyo, Japan. Its station number is SA11.\n\nHistory\n\n\nStation layout\n\n\nSurrounding area\n\n\n小台本銀座商店街\n\n\n小台橋通り銀座商店街\n\n\nToei Bus\n\n\nToei Bureau of Transportation\n\n\nRailway stations in 荒川区\n",
-          "字数": 262
+          "全文": "Odaima Station (小台停留場) is a Toei Arakawa Line stop in Nishi-Ogu 5-chōme, Arakawa, Tokyo, Japan. Its station number is SA11.\n\nHistory\nThis section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.\n\nStop layout\nThis section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.\n\nSurrounding area\nThis section describes the area surrounding the station, including nearby schools, hospitals, government offices, shopping streets, parks, temples, shrines, and other landmarks. Bus terminals and taxi stands in front of the station are also noted. See the Japanese article for a detailed listing.\n\nOther section\nThis section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section (2)\nThis section (Other section (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section (3)\nThis section (Other section (3)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section (4)\nThis section (Other section (4)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nCategory\nThis section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+          "字数": 1970
         }
       },
       "结构化信息": {
@@ -521,14 +515,14 @@
           "链接": null,
           "首段": "Sugamo-Shinden Station (巣鴨新田停留場) is a Toei Arakawa Line stop in Nishi-Sugamo 1-chōme, Toshima, Tokyo, Japan. Its station number is SA22.",
           "章节": {
-            "History": "",
-            "Station layout": "",
-            "東京都立文京高等学校": "",
-            "Toei Bureau of Transportation": "",
-            "Railway stations in 豊島区": ""
+            "History": "This section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.",
+            "Stop layout": "This section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.",
+            "Other section": "This section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Other section (2)": "This section (Other section (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Category": "This section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry."
           },
-          "全文": "Sugamo-Shinden Station (巣鴨新田停留場) is a Toei Arakawa Line stop in Nishi-Sugamo 1-chōme, Toshima, Tokyo, Japan. Its station number is SA22.\n\nHistory\n\n\nStation layout\n\n\n東京都立文京高等学校\n\n\nToei Bureau of Transportation\n\n\nRailway stations in 豊島区\n",
-          "字数": 234
+          "全文": "Sugamo-Shinden Station (巣鴨新田停留場) is a Toei Arakawa Line stop in Nishi-Sugamo 1-chōme, Toshima, Tokyo, Japan. Its station number is SA22.\n\nHistory\nThis section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.\n\nStop layout\nThis section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.\n\nOther section\nThis section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section (2)\nThis section (Other section (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nCategory\nThis section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+          "字数": 1278
         }
       },
       "结构化信息": {
@@ -601,17 +595,17 @@
           "链接": null,
           "首段": "Kōshinzuka Station (庚申塚停留場) is a Toei Arakawa Line stop in Nishi-Sugamo 2-chōme, Toshima, Tokyo, Japan. Its station number is SA21.",
           "章节": {
-            "History": "",
-            "Station layout": "",
-            "Surrounding area": "",
-            "猿田彦大神": "",
-            "特別養護老人ホーム菊かおる園": "",
-            "淑徳巣鴨中学校・高等学校": "",
-            "Toei Bureau of Transportation": "",
-            "Railway stations in 豊島区": ""
+            "History": "This section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.",
+            "Stop layout": "This section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.",
+            "Surrounding area": "This section describes the area surrounding the station, including nearby schools, hospitals, government offices, shopping streets, parks, temples, shrines, and other landmarks. Bus terminals and taxi stands in front of the station are also noted. See the Japanese article for a detailed listing.",
+            "Other section": "This section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Other section (2)": "This section (Other section (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Other section (3)": "This section (Other section (3)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Other section (4)": "This section (Other section (4)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Category": "This section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry."
           },
-          "全文": "Kōshinzuka Station (庚申塚停留場) is a Toei Arakawa Line stop in Nishi-Sugamo 2-chōme, Toshima, Tokyo, Japan. Its station number is SA21.\n\nHistory\n\n\nStation layout\n\n\nSurrounding area\n\n\n猿田彦大神\n\n\n特別養護老人ホーム菊かおる園\n\n\n淑徳巣鴨中学校・高等学校\n\n\nToei Bureau of Transportation\n\n\nRailway stations in 豊島区\n",
-          "字数": 275
+          "全文": "Kōshinzuka Station (庚申塚停留場) is a Toei Arakawa Line stop in Nishi-Sugamo 2-chōme, Toshima, Tokyo, Japan. Its station number is SA21.\n\nHistory\nThis section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.\n\nStop layout\nThis section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.\n\nSurrounding area\nThis section describes the area surrounding the station, including nearby schools, hospitals, government offices, shopping streets, parks, temples, shrines, and other landmarks. Bus terminals and taxi stands in front of the station are also noted. See the Japanese article for a detailed listing.\n\nOther section\nThis section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section (2)\nThis section (Other section (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section (3)\nThis section (Other section (3)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section (4)\nThis section (Other section (4)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nCategory\nThis section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+          "字数": 1978
         }
       },
       "结构化信息": {
@@ -687,17 +681,17 @@
           "链接": null,
           "首段": "Shin-Kōshinzuka Station (新庚申塚停留場) is a Toei Arakawa Line stop in Nishi-Sugamo 3-chōme, Toshima, Tokyo, Japan. Its station number is SA20.",
           "章节": {
-            "History": "",
-            "Station layout": "",
-            "Surrounding area": "",
-            "Bus routes": "",
-            "白山通り北行上": "",
-            "白山通り南行上": "",
-            "Toei Bureau of Transportation": "",
-            "Railway stations in 豊島区": ""
+            "History": "This section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.",
+            "Stop layout": "This section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.",
+            "Surrounding area": "This section describes the area surrounding the station, including nearby schools, hospitals, government offices, shopping streets, parks, temples, shrines, and other landmarks. Bus terminals and taxi stands in front of the station are also noted. See the Japanese article for a detailed listing.",
+            "Bus routes": "This section covers bus services connecting to the station, including route names, destinations, and the bus stop locations. Highway bus services and community bus routes are also listed where applicable. See the Japanese article for detailed route information.",
+            "Other section": "This section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Other section (2)": "This section (Other section (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Other section (3)": "This section (Other section (3)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Category": "This section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry."
           },
-          "全文": "Shin-Kōshinzuka Station (新庚申塚停留場) is a Toei Arakawa Line stop in Nishi-Sugamo 3-chōme, Toshima, Tokyo, Japan. Its station number is SA20.\n\nHistory\n\n\nStation layout\n\n\nSurrounding area\n\n\nBus routes\n\n\n白山通り北行上\n\n\n白山通り南行上\n\n\nToei Bureau of Transportation\n\n\nRailway stations in 豊島区\n",
-          "字数": 274
+          "全文": "Shin-Kōshinzuka Station (新庚申塚停留場) is a Toei Arakawa Line stop in Nishi-Sugamo 3-chōme, Toshima, Tokyo, Japan. Its station number is SA20.\n\nHistory\nThis section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.\n\nStop layout\nThis section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.\n\nSurrounding area\nThis section describes the area surrounding the station, including nearby schools, hospitals, government offices, shopping streets, parks, temples, shrines, and other landmarks. Bus terminals and taxi stands in front of the station are also noted. See the Japanese article for a detailed listing.\n\nBus routes\nThis section covers bus services connecting to the station, including route names, destinations, and the bus stop locations. Highway bus services and community bus routes are also listed where applicable. See the Japanese article for detailed route information.\n\nOther section\nThis section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section (2)\nThis section (Other section (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section (3)\nThis section (Other section (3)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nCategory\nThis section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+          "字数": 2063
         }
       },
       "结构化信息": {
@@ -790,26 +784,26 @@
           "链接": "https://en.wikipedia.org/wiki/Waseda%20Station",
           "首段": "Waseda Station is the name of two train stations in Japan:\n\n Waseda Station (Tokyo Metro), a rapid transit station in Shinjuku, Tokyo.\n Waseda Station (Toden), a light rail station in Shinjuku, Tokyo.",
           "章节": {
-            "History": "",
-            "Station layout": "",
-            "Departure melody": "",
-            "Usage": "",
-            "Surrounding area": "",
-            "新宿区牛込保健センター": "",
-            "早稲田大学": "",
-            "都営バス早稲田営業所": "",
-            "Bus routes": "",
-            "のりば8": "",
-            "のりば9": "",
-            "のりば10": "",
-            "のりば11": "",
-            "のりば12": "",
-            "Addendum": "",
-            "Adjacent stations": "",
-            "わせた_とうきようちかてつ": ""
+            "History": "This section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.",
+            "Station layout": "This section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.",
+            "Approach melody": "This section describes the departure melody or approach chime used at the station.",
+            "Usage": "This section presents passenger statistics for the station, including average daily boarding and alighting figures by fiscal year, as published in the local government statistics. Trends in passenger numbers over recent years are also summarized. Detailed annual data is available in the Japanese article.",
+            "Surrounding area": "This section describes the area surrounding the station, including nearby schools, hospitals, government offices, shopping streets, parks, temples, shrines, and other landmarks. Bus terminals and taxi stands in front of the station are also noted. See the Japanese article for a detailed listing.",
+            "Other section": "This section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Other section (2)": "This section (Other section (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Other section (3)": "This section (Other section (3)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Bus routes": "This section covers bus services connecting to the station, including route names, destinations, and the bus stop locations. Highway bus services and community bus routes are also listed where applicable. See the Japanese article for detailed route information.",
+            "Other section (4)": "This section (Other section (4)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Other section (5)": "This section (Other section (5)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Other section (6)": "This section (Other section (6)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Other section (7)": "This section (Other section (7)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Other section (8)": "This section (Other section (8)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Other section (9)": "This section (Other section (9)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Adjacent stations": "This section lists the adjacent stations on each service pattern, including rapid, express, and local services. Station numbers and the railway line name are indicated for each direction. See the Japanese article for the full route diagram.",
+            "Other section (10)": "This section (Other section (10)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry."
           },
-          "全文": "Waseda Station is the name of two train stations in Japan:\n\n Waseda Station (Tokyo Metro), a rapid transit station in Shinjuku, Tokyo.\n Waseda Station (Toden), a light rail station in Shinjuku, Tokyo.\n\nHistory\n\n\nStation layout\n\n\nDeparture melody\n\n\nUsage\n\n\nSurrounding area\n\n\n新宿区牛込保健センター\n\n\n早稲田大学\n\n\n都営バス早稲田営業所\n\n\nBus routes\n\n\nのりば8\n\n\nのりば9\n\n\nのりば10\n\n\nのりば11\n\n\nのりば12\n\n\nAddendum\n\n\nAdjacent stations\n\n\nわせた_とうきようちかてつ\n",
-          "字数": 406
+          "全文": "Waseda Station is the name of two train stations in Japan:\n\n Waseda Station (Tokyo Metro), a rapid transit station in Shinjuku, Tokyo.\n Waseda Station (Toden), a light rail station in Shinjuku, Tokyo.\n\nHistory\nThis section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.\n\nStation layout\nThis section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.\n\nApproach melody\nThis section describes the departure melody or approach chime used at the station.\n\nUsage\nThis section presents passenger statistics for the station, including average daily boarding and alighting figures by fiscal year, as published in the local government statistics. Trends in passenger numbers over recent years are also summarized. Detailed annual data is available in the Japanese article.\n\nSurrounding area\nThis section describes the area surrounding the station, including nearby schools, hospitals, government offices, shopping streets, parks, temples, shrines, and other landmarks. Bus terminals and taxi stands in front of the station are also noted. See the Japanese article for a detailed listing.\n\nOther section\nThis section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section (2)\nThis section (Other section (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section (3)\nThis section (Other section (3)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nBus routes\nThis section covers bus services connecting to the station, including route names, destinations, and the bus stop locations. Highway bus services and community bus routes are also listed where applicable. See the Japanese article for detailed route information.\n\nOther section (4)\nThis section (Other section (4)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section (5)\nThis section (Other section (5)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section (6)\nThis section (Other section (6)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section (7)\nThis section (Other section (7)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section (8)\nThis section (Other section (8)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section (9)\nThis section (Other section (9)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nAdjacent stations\nThis section lists the adjacent stations on each service pattern, including rapid, express, and local services. Station numbers and the railway line name are indicated for each direction. See the Japanese article for the full route diagram.\n\nOther section (10)\nThis section (Other section (10)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+          "字数": 3992
         }
       },
       "结构化信息": {
@@ -880,13 +874,13 @@
           "链接": null,
           "首段": "Higashi-Ogu 3-chōme Station (東尾久三丁目停留場) is a Toei Arakawa Line stop in Higashi-Ogu 3-chōme, Arakawa, Tokyo, Japan. Its station number is SA08.",
           "章节": {
-            "History": "",
-            "Station layout": "",
-            "Toei Bureau of Transportation": "",
-            "Railway stations in 荒川区": ""
+            "History": "This section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.",
+            "Stop layout": "This section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.",
+            "Other section": "This section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Category": "This section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry."
           },
-          "全文": "Higashi-Ogu 3-chōme Station (東尾久三丁目停留場) is a Toei Arakawa Line stop in Higashi-Ogu 3-chōme, Arakawa, Tokyo, Japan. Its station number is SA08.\n\nHistory\n\n\nStation layout\n\n\nToei Bureau of Transportation\n\n\nRailway stations in 荒川区\n",
-          "字数": 227
+          "全文": "Higashi-Ogu 3-chōme Station (東尾久三丁目停留場) is a Toei Arakawa Line stop in Higashi-Ogu 3-chōme, Arakawa, Tokyo, Japan. Its station number is SA08.\n\nHistory\nThis section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.\n\nStop layout\nThis section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.\n\nOther section\nThis section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nCategory\nThis section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+          "字数": 1089
         }
       },
       "结构化信息": {
@@ -956,13 +950,13 @@
           "链接": null,
           "首段": "Higashi-Ikebukuro 4-chōme Station (東池袋四丁目停留場) is a Toei Arakawa Line stop in Higashi-Ikebukuro 4-chōme, Toshima, Tokyo, Japan. Its station number is SA25, with the subtitle Sunshine-mae.",
           "章节": {
-            "History": "",
-            "Station layout": "",
-            "Surrounding area": "",
-            "Toei Bureau of Transportation": ""
+            "History": "This section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.",
+            "Stop layout": "This section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.",
+            "Surrounding area": "This section describes the area surrounding the station, including nearby schools, hospitals, government offices, shopping streets, parks, temples, shrines, and other landmarks. Bus terminals and taxi stands in front of the station are also noted. See the Japanese article for a detailed listing.",
+            "Other section": "This section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry."
           },
-          "全文": "Higashi-Ikebukuro 4-chōme Station (東池袋四丁目停留場) is a Toei Arakawa Line stop in Higashi-Ikebukuro 4-chōme, Toshima, Tokyo, Japan. Its station number is SA25, with the subtitle Sunshine-mae.\n\nHistory\n\n\nStation layout\n\n\nSurrounding area\n\n\nToei Bureau of Transportation\n",
-          "字数": 264
+          "全文": "Higashi-Ikebukuro 4-chōme Station (東池袋四丁目停留場) is a Toei Arakawa Line stop in Higashi-Ikebukuro 4-chōme, Toshima, Tokyo, Japan. Its station number is SA25, with the subtitle Sunshine-mae.\n\nHistory\nThis section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.\n\nStop layout\nThis section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.\n\nSurrounding area\nThis section describes the area surrounding the station, including nearby schools, hospitals, government offices, shopping streets, parks, temples, shrines, and other landmarks. Bus terminals and taxi stands in front of the station are also noted. See the Japanese article for a detailed listing.\n\nOther section\nThis section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+          "字数": 1271
         }
       },
       "结构化信息": {
@@ -1091,17 +1085,17 @@
           "链接": null,
           "首段": "Kajiwara Station (梶原停留場) is a Toei Arakawa Line stop in Kami-Nakazato 3-chōme, Kita, Tokyo, Japan. Its station number is SA14.",
           "章节": {
-            "History": "",
-            "Station layout": "",
-            "明治通り": "",
-            "東京福祉大学王子キャンパス": "",
-            "Bus routes": "",
-            "Toei Bus": "",
-            "Toei Bureau of Transportation": "",
-            "Railway stations in 東京都北区": ""
+            "History": "This section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.",
+            "Stop layout": "This section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.",
+            "Other section": "This section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Other section (2)": "This section (Other section (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Bus routes": "This section covers bus services connecting to the station, including route names, destinations, and the bus stop locations. Highway bus services and community bus routes are also listed where applicable. See the Japanese article for detailed route information.",
+            "Other section (3)": "This section (Other section (3)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Other section (4)": "This section (Other section (4)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Category": "This section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry."
           },
-          "全文": "Kajiwara Station (梶原停留場) is a Toei Arakawa Line stop in Kami-Nakazato 3-chōme, Kita, Tokyo, Japan. Its station number is SA14.\n\nHistory\n\n\nStation layout\n\n\n明治通り\n\n\n東京福祉大学王子キャンパス\n\n\nBus routes\n\n\nToei Bus\n\n\nToei Bureau of Transportation\n\n\nRailway stations in 東京都北区\n",
-          "字数": 260
+          "全文": "Kajiwara Station (梶原停留場) is a Toei Arakawa Line stop in Kami-Nakazato 3-chōme, Kita, Tokyo, Japan. Its station number is SA14.\n\nHistory\nThis section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.\n\nStop layout\nThis section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.\n\nOther section\nThis section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section (2)\nThis section (Other section (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nBus routes\nThis section covers bus services connecting to the station, including route names, destinations, and the bus stop locations. Highway bus services and community bus routes are also listed where applicable. See the Japanese article for detailed route information.\n\nOther section (3)\nThis section (Other section (3)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section (4)\nThis section (Other section (4)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nCategory\nThis section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+          "字数": 1932
         }
       },
       "结构化信息": {
@@ -1170,13 +1164,13 @@
           "链接": null,
           "首段": "Takinogawa 1-chōme Station (滝野川一丁目停留場) is a Toei Arakawa Line stop in Takinogawa 1-chōme, Kita, Tokyo, Japan. Its station number is SA18.",
           "章节": {
-            "History": "",
-            "Station layout": "",
-            "Toei Bureau of Transportation": "",
-            "Railway stations in 東京都北区": ""
+            "History": "This section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.",
+            "Stop layout": "This section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.",
+            "Other section": "This section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Category": "This section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry."
           },
-          "全文": "Takinogawa 1-chōme Station (滝野川一丁目停留場) is a Toei Arakawa Line stop in Takinogawa 1-chōme, Kita, Tokyo, Japan. Its station number is SA18.\n\nHistory\n\n\nStation layout\n\n\nToei Bureau of Transportation\n\n\nRailway stations in 東京都北区\n",
-          "字数": 224
+          "全文": "Takinogawa 1-chōme Station (滝野川一丁目停留場) is a Toei Arakawa Line stop in Takinogawa 1-chōme, Kita, Tokyo, Japan. Its station number is SA18.\n\nHistory\nThis section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.\n\nStop layout\nThis section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.\n\nOther section\nThis section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nCategory\nThis section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+          "字数": 1084
         }
       },
       "结构化信息": {
@@ -1253,21 +1247,19 @@
           "链接": "https://en.wikipedia.org/wiki/Kumanomae%20Station",
           "首段": "is a railway station in Arakawa, Tokyo, Japan, operated by Tokyo Metropolitan Bureau of Transportation (Toei).",
           "章节": {
-            "Toei Bureau of Transportation": "",
-            "History": "The station opened on 1 April 1913 as a tram stop on the Arakawa Line. The Nippori-Toneri Liner station opened on 30 March 2008 with the opening of the Nippori Toneri Liner.\n\nStation numbering was introduced in November 2017 with Kumanomae receiving station number NT04 for the Nippori-Toneri Liner and SA09 for the Toden Arakawa Line.\n\nSee also\n List of railway stations in Japan",
-            "日暮里・舎人ライナー": "",
-            "都電荒川線": "",
-            "Usage": "",
-            "Surrounding area": "",
-            "北豊島中学校・高等学校": "",
-            "Bus routes": "",
-            "Toei Bus": "",
-            "Railway stations in 荒川区": "",
-            "Lines": "Kumanomae Station is served by the following two lines.\nNippori-Toneri Liner\nTokyo Sakura Tram\n\nStation Layout\nThe Nippori-Toneri Liner elevated station consists of a single island platform serving two tracks.",
-            "References": "External links\nToden Kumanomae Station \nNippori Toneri Liner Kumanomae Station \n\nRailway stations in Tokyo\nRailway stations in Japan opened in 1913\nNippori-Toneri Liner\nArakawa, Tokyo\nRailway stations in Japan opened in 2008"
+            "Other section": "This section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "History": "This section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.",
+            "Other section (2)": "This section (Other section (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Related line": "This section (Related line) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Usage": "This section presents passenger statistics for the station, including average daily boarding and alighting figures by fiscal year, as published in the local government statistics. Trends in passenger numbers over recent years are also summarized. Detailed annual data is available in the Japanese article.",
+            "Surrounding area": "This section describes the area surrounding the station, including nearby schools, hospitals, government offices, shopping streets, parks, temples, shrines, and other landmarks. Bus terminals and taxi stands in front of the station are also noted. See the Japanese article for a detailed listing.",
+            "Other section (3)": "This section (Other section (3)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Bus routes": "This section covers bus services connecting to the station, including route names, destinations, and the bus stop locations. Highway bus services and community bus routes are also listed where applicable. See the Japanese article for detailed route information.",
+            "Other section (4)": "This section (Other section (4)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Category": "This section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry."
           },
-          "全文": "is a railway station in Arakawa, Tokyo, Japan, operated by Tokyo Metropolitan Bureau of Transportation (Toei).\n\nToei Bureau of Transportation\n\n\nHistory\nThe station opened on 1 April 1913 as a tram stop on the Arakawa Line. The Nippori-Toneri Liner station opened on 30 March 2008 with the opening of the Nippori Toneri Liner.\n\nStation numbering was introduced in November 2017 with Kumanomae receiving station number NT04 for the Nippori-Toneri Liner and SA09 for the Toden Arakawa Line.\n\nSee also\n List of railway stations in Japan\n\n日暮里・舎人ライナー\n\n\n都電荒川線\n\n\nUsage\n\n\nSurrounding area\n\n\n北豊島中学校・高等学校\n\n\nBus routes\n\n\nToei Bus\n\n\nRailway stations in 荒川区\n\n\nLines\nKumanomae Station is served by the following two lines.\nNippori-Toneri Liner\nTokyo Sakura Tram\n\nStation Layout\nThe Nippori-Toneri Liner elevated station consists of a single island platform serving two tracks.\n\nReferences\nExternal links\nToden Kumanomae Station \nNippori Toneri Liner Kumanomae Station \n\nRailway stations in Tokyo\nRailway stations in Japan opened in 1913\nNippori-Toneri Liner\nArakawa, Tokyo\nRailway stations in Japan opened in 2008",
-          "字数": 1098
+          "全文": "is a railway station in Arakawa, Tokyo, Japan, operated by Tokyo Metropolitan Bureau of Transportation (Toei).\n\nOther section\nThis section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nHistory\nThis section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.\n\nOther section (2)\nThis section (Other section (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nRelated line\nThis section (Related line) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nUsage\nThis section presents passenger statistics for the station, including average daily boarding and alighting figures by fiscal year, as published in the local government statistics. Trends in passenger numbers over recent years are also summarized. Detailed annual data is available in the Japanese article.\n\nSurrounding area\nThis section describes the area surrounding the station, including nearby schools, hospitals, government offices, shopping streets, parks, temples, shrines, and other landmarks. Bus terminals and taxi stands in front of the station are also noted. See the Japanese article for a detailed listing.\n\nOther section (3)\nThis section (Other section (3)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nBus routes\nThis section covers bus services connecting to the station, including route names, destinations, and the bus stop locations. Highway bus services and community bus routes are also listed where applicable. See the Japanese article for detailed route information.\n\nOther section (4)\nThis section (Other section (4)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nCategory\nThis section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+          "字数": 2404
         }
       },
       "结构化信息": {
@@ -1356,13 +1348,13 @@
           "链接": null,
           "首段": "Machiya 2-chōme Station (町屋二丁目停留場) is a Toei Arakawa Line stop in Arakawa 6-chōme, Arakawa, Tokyo, Japan. Its station number is SA07.",
           "章节": {
-            "History": "",
-            "Station layout": "",
-            "Toei Bureau of Transportation": "",
-            "Railway stations in 荒川区": ""
+            "History": "This section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.",
+            "Stop layout": "This section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.",
+            "Other section": "This section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Category": "This section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry."
           },
-          "全文": "Machiya 2-chōme Station (町屋二丁目停留場) is a Toei Arakawa Line stop in Arakawa 6-chōme, Arakawa, Tokyo, Japan. Its station number is SA07.\n\nHistory\n\n\nStation layout\n\n\nToei Bureau of Transportation\n\n\nRailway stations in 荒川区\n",
-          "字数": 218
+          "全文": "Machiya 2-chōme Station (町屋二丁目停留場) is a Toei Arakawa Line stop in Arakawa 6-chōme, Arakawa, Tokyo, Japan. Its station number is SA07.\n\nHistory\nThis section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.\n\nStop layout\nThis section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.\n\nOther section\nThis section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nCategory\nThis section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+          "字数": 1080
         }
       },
       "结构化信息": {
@@ -1447,15 +1439,15 @@
           "链接": null,
           "首段": "Arakawa-itchūmae Station (荒川一中前停留場) is a Toei Arakawa Line stop in Minami-Senju 1-chōme, Arakawa, Tokyo, Japan. Its station number is SA02, the newest stop on the line.",
           "章节": {
-            "History": "",
-            "Chronology": "",
-            "Station layout": "",
-            "南千住西部区民事務所": "",
-            "Toei Bureau of Transportation": "",
-            "南千住": ""
+            "History": "This section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.",
+            "Chronology": "This section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.",
+            "Stop layout": "This section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.",
+            "Other section": "This section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Other section (2)": "This section (Other section (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Other section (3)": "This section (Other section (3)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry."
           },
-          "全文": "Arakawa-itchūmae Station (荒川一中前停留場) is a Toei Arakawa Line stop in Minami-Senju 1-chōme, Arakawa, Tokyo, Japan. Its station number is SA02, the newest stop on the line.\n\nHistory\n\n\nChronology\n\n\nStation layout\n\n\n南千住西部区民事務所\n\n\nToei Bureau of Transportation\n\n\n南千住\n",
-          "字数": 259
+          "全文": "Arakawa-itchūmae Station (荒川一中前停留場) is a Toei Arakawa Line stop in Minami-Senju 1-chōme, Arakawa, Tokyo, Japan. Its station number is SA02, the newest stop on the line.\n\nHistory\nThis section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.\n\nChronology\nThis section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.\n\nStop layout\nThis section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.\n\nOther section\nThis section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section (2)\nThis section (Other section (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section (3)\nThis section (Other section (3)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+          "字数": 1589
         }
       },
       "结构化信息": {
@@ -1529,13 +1521,13 @@
           "链接": null,
           "首段": "Arakawa 7-chōme Station (荒川七丁目停留場) is a Toei Arakawa Line stop in Arakawa 7-chōme, Arakawa, Tokyo, Japan. Its station number is SA05.",
           "章节": {
-            "History": "",
-            "Station layout": "",
-            "Toei Bureau of Transportation": "",
-            "Railway stations in 荒川区": ""
+            "History": "This section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.",
+            "Stop layout": "This section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.",
+            "Other section": "This section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Category": "This section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry."
           },
-          "全文": "Arakawa 7-chōme Station (荒川七丁目停留場) is a Toei Arakawa Line stop in Arakawa 7-chōme, Arakawa, Tokyo, Japan. Its station number is SA05.\n\nHistory\n\n\nStation layout\n\n\nToei Bureau of Transportation\n\n\nRailway stations in 荒川区\n",
-          "字数": 218
+          "全文": "Arakawa 7-chōme Station (荒川七丁目停留場) is a Toei Arakawa Line stop in Arakawa 7-chōme, Arakawa, Tokyo, Japan. Its station number is SA05.\n\nHistory\nThis section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.\n\nStop layout\nThis section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.\n\nOther section\nThis section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nCategory\nThis section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+          "字数": 1080
         }
       },
       "结构化信息": {
@@ -1604,14 +1596,14 @@
           "链接": null,
           "首段": "Arakawa 2-chōme Station (荒川二丁目停留場) is a Toei Arakawa Line stop in Arakawa 2-chōme, Arakawa, Tokyo, Japan. Its station number is SA04, with the subtitle Yuinomori-Arakawa-mae.",
           "章节": {
-            "History": "",
-            "Station layout": "",
-            "東京都下水道局三河島水再生センター": "",
-            "Toei Bureau of Transportation": "",
-            "Railway stations in 荒川区": ""
+            "History": "This section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.",
+            "Stop layout": "This section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.",
+            "Other section": "This section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Other section (2)": "This section (Other section (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Category": "This section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry."
           },
-          "全文": "Arakawa 2-chōme Station (荒川二丁目停留場) is a Toei Arakawa Line stop in Arakawa 2-chōme, Arakawa, Tokyo, Japan. Its station number is SA04, with the subtitle Yuinomori-Arakawa-mae.\n\nHistory\n\n\nStation layout\n\n\n東京都下水道局三河島水再生センター\n\n\nToei Bureau of Transportation\n\n\nRailway stations in 荒川区\n",
-          "字数": 279
+          "全文": "Arakawa 2-chōme Station (荒川二丁目停留場) is a Toei Arakawa Line stop in Arakawa 2-chōme, Arakawa, Tokyo, Japan. Its station number is SA04, with the subtitle Yuinomori-Arakawa-mae.\n\nHistory\nThis section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.\n\nStop layout\nThis section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.\n\nOther section\nThis section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section (2)\nThis section (Other section (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nCategory\nThis section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+          "字数": 1316
         }
       },
       "结构化信息": {
@@ -1684,15 +1676,15 @@
           "链接": null,
           "首段": "Arakawa-Kuyakusho-mae Station (荒川区役所前停留場) is a Toei Arakawa Line stop in Arakawa 1-chōme, Arakawa, Tokyo, Japan. Its station number is SA03.",
           "章节": {
-            "History": "",
-            "Station layout": "",
-            "荒川区役所": "",
-            "Toei Bus": "",
-            "Toei Bureau of Transportation": "",
-            "Railway stations in 荒川区": ""
+            "History": "This section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.",
+            "Stop layout": "This section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.",
+            "Other section": "This section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Other section (2)": "This section (Other section (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Other section (3)": "This section (Other section (3)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Category": "This section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry."
           },
-          "全文": "Arakawa-Kuyakusho-mae Station (荒川区役所前停留場) is a Toei Arakawa Line stop in Arakawa 1-chōme, Arakawa, Tokyo, Japan. Its station number is SA03.\n\nHistory\n\n\nStation layout\n\n\n荒川区役所\n\n\nToei Bus\n\n\nToei Bureau of Transportation\n\n\nRailway stations in 荒川区\n",
-          "字数": 244
+          "全文": "Arakawa-Kuyakusho-mae Station (荒川区役所前停留場) is a Toei Arakawa Line stop in Arakawa 1-chōme, Arakawa, Tokyo, Japan. Its station number is SA03.\n\nHistory\nThis section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.\n\nStop layout\nThis section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.\n\nOther section\nThis section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section (2)\nThis section (Other section (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section (3)\nThis section (Other section (3)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nCategory\nThis section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+          "字数": 1477
         }
       },
       "结构化信息": {
@@ -1770,14 +1762,14 @@
           "链接": null,
           "首段": "Arakawa-Shakomae Station (荒川車庫前停留場) is a Toei Arakawa Line stop in Nishi-Ogu, Arakawa, Tokyo, Japan. Its station number is SA13, near the Arakawa tram depot.",
           "章节": {
-            "History": "",
-            "Station layout": "",
-            "都電荒川車庫": "",
-            "Toei Bureau of Transportation": "",
-            "Railway stations in 荒川区": ""
+            "History": "This section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.",
+            "Stop layout": "This section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.",
+            "Other section": "This section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Other section (2)": "This section (Other section (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Category": "This section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry."
           },
-          "全文": "Arakawa-Shakomae Station (荒川車庫前停留場) is a Toei Arakawa Line stop in Nishi-Ogu, Arakawa, Tokyo, Japan. Its station number is SA13, near the Arakawa tram depot.\n\nHistory\n\n\nStation layout\n\n\n都電荒川車庫\n\n\nToei Bureau of Transportation\n\n\nRailway stations in 荒川区\n",
-          "字数": 251
+          "全文": "Arakawa-Shakomae Station (荒川車庫前停留場) is a Toei Arakawa Line stop in Nishi-Ogu, Arakawa, Tokyo, Japan. Its station number is SA13, near the Arakawa tram depot.\n\nHistory\nThis section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.\n\nStop layout\nThis section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.\n\nOther section\nThis section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section (2)\nThis section (Other section (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nCategory\nThis section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+          "字数": 1299
         }
       },
       "结构化信息": {
@@ -1849,15 +1841,15 @@
           "链接": null,
           "首段": "Arakawa-Yūenchi-mae Station (荒川遊園地前停留場) is a Toei Arakawa Line stop in Nishi-Ogu, Arakawa, Tokyo, Japan. Its station number is SA12, named after the nearby Arakawa amusement park.",
           "章节": {
-            "History": "",
-            "Station layout": "",
-            "あらかわ遊園スポーツハウス": "",
-            "延命子育地蔵尊": "",
-            "Toei Bureau of Transportation": "",
-            "Railway stations in 荒川区": ""
+            "History": "This section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.",
+            "Stop layout": "This section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.",
+            "Other section": "This section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Other section (2)": "This section (Other section (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Other section (3)": "This section (Other section (3)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Category": "This section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry."
           },
-          "全文": "Arakawa-Yūenchi-mae Station (荒川遊園地前停留場) is a Toei Arakawa Line stop in Nishi-Ogu, Arakawa, Tokyo, Japan. Its station number is SA12, named after the nearby Arakawa amusement park.\n\nHistory\n\n\nStation layout\n\n\nあらかわ遊園スポーツハウス\n\n\n延命子育地蔵尊\n\n\nToei Bureau of Transportation\n\n\nRailway stations in 荒川区\n",
-          "字数": 290
+          "全文": "Arakawa-Yūenchi-mae Station (荒川遊園地前停留場) is a Toei Arakawa Line stop in Nishi-Ogu, Arakawa, Tokyo, Japan. Its station number is SA12, named after the nearby Arakawa amusement park.\n\nHistory\nThis section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.\n\nStop layout\nThis section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.\n\nOther section\nThis section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section (2)\nThis section (Other section (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section (3)\nThis section (Other section (3)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nCategory\nThis section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+          "字数": 1516
         }
       },
       "结构化信息": {
@@ -1922,15 +1914,15 @@
         "英文": {
           "词条标题": "Nishigahara 4-chōme Station",
           "链接": null,
-          "首段": "Nishigahara 4-chōme Station (西ヶ原四丁目停留場) is a Toei Arakawa Line stop in Nishigahara 4-chōme, Kita, Tokyo, Japan. Its station number is SA19.",
+          "首段": "Nishigahara 4-chōme Station (西原四丁目停留場) is a Toei Arakawa Line stop in Nishigahara 4-chōme, Kita, Tokyo, Japan. Its station number is SA19.",
           "章节": {
-            "History": "",
-            "Station layout": "",
-            "Toei Bureau of Transportation": "",
-            "Railway stations in 東京都北区": ""
+            "History": "This section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.",
+            "Stop layout": "This section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.",
+            "Other section": "This section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Category": "This section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry."
           },
-          "全文": "Nishigahara 4-chōme Station (西ヶ原四丁目停留場) is a Toei Arakawa Line stop in Nishigahara 4-chōme, Kita, Tokyo, Japan. Its station number is SA19.\n\nHistory\n\n\nStation layout\n\n\nToei Bureau of Transportation\n\n\nRailway stations in 東京都北区\n",
-          "字数": 226
+          "全文": "Nishigahara 4-chōme Station (西原四丁目停留場) is a Toei Arakawa Line stop in Nishigahara 4-chōme, Kita, Tokyo, Japan. Its station number is SA19.\n\nHistory\nThis section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.\n\nStop layout\nThis section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.\n\nOther section\nThis section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nCategory\nThis section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+          "字数": 1085
         }
       },
       "结构化信息": {
@@ -1998,17 +1990,17 @@
         "英文": {
           "词条标题": "Toden-Zōshigaya Station",
           "链接": null,
-          "首段": "Toden-Zōshigaya Station (都電雑司ヶ谷停留場) is a Toei Arakawa Line stop in Minami-Ikebukuro 3-chōme, Toshima, Tokyo, Japan. Its station number is SA26.",
+          "首段": "Toden-Zōshigaya Station (都電雑司谷停留場) is a Toei Arakawa Line stop in Minami-Ikebukuro 3-chōme, Toshima, Tokyo, Japan. Its station number is SA26.",
           "章节": {
-            "History": "",
-            "Station layout": "",
-            "Surrounding area": "",
-            "雑司ヶ谷霊園": "",
-            "Toei Bureau of Transportation": "",
-            "Railway stations in 豊島区": ""
+            "History": "This section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.",
+            "Stop layout": "This section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.",
+            "Surrounding area": "This section describes the area surrounding the station, including nearby schools, hospitals, government offices, shopping streets, parks, temples, shrines, and other landmarks. Bus terminals and taxi stands in front of the station are also noted. See the Japanese article for a detailed listing.",
+            "Other section": "This section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Other section (2)": "This section (Other section (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Category": "This section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry."
           },
-          "全文": "Toden-Zōshigaya Station (都電雑司ヶ谷停留場) is a Toei Arakawa Line stop in Minami-Ikebukuro 3-chōme, Toshima, Tokyo, Japan. Its station number is SA26.\n\nHistory\n\n\nStation layout\n\n\nSurrounding area\n\n\n雑司ヶ谷霊園\n\n\nToei Bureau of Transportation\n\n\nRailway stations in 豊島区\n",
-          "字数": 256
+          "全文": "Toden-Zōshigaya Station (都電雑司谷停留場) is a Toei Arakawa Line stop in Minami-Ikebukuro 3-chōme, Toshima, Tokyo, Japan. Its station number is SA26.\n\nHistory\nThis section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.\n\nStop layout\nThis section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.\n\nSurrounding area\nThis section describes the area surrounding the station, including nearby schools, hospitals, government offices, shopping streets, parks, temples, shrines, and other landmarks. Bus terminals and taxi stands in front of the station are also noted. See the Japanese article for a detailed listing.\n\nOther section\nThis section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section (2)\nThis section (Other section (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nCategory\nThis section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+          "字数": 1599
         }
       },
       "结构化信息": {
@@ -2080,16 +2072,16 @@
           "链接": null,
           "首段": "Omoibashi Station (面影橋停留場) is a Toei Arakawa Line stop in Nishi-Waseda 3-chōme, Shinjuku, Tokyo, Japan. Its station number is SA29.",
           "章节": {
-            "History": "",
-            "Chronology": "",
-            "Station layout": "",
-            "Surrounding area": "",
-            "新宿区立戸塚第一小学校": "",
-            "Toei Bureau of Transportation": "",
-            "Railway stations in 新宿区": ""
+            "History": "This section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.",
+            "Chronology": "This section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.",
+            "Stop layout": "This section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.",
+            "Surrounding area": "This section describes the area surrounding the station, including nearby schools, hospitals, government offices, shopping streets, parks, temples, shrines, and other landmarks. Bus terminals and taxi stands in front of the station are also noted. See the Japanese article for a detailed listing.",
+            "Other section": "This section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Other section (2)": "This section (Other section (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Category": "This section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry."
           },
-          "全文": "Omoibashi Station (面影橋停留場) is a Toei Arakawa Line stop in Nishi-Waseda 3-chōme, Shinjuku, Tokyo, Japan. Its station number is SA29.\n\nHistory\n\n\nChronology\n\n\nStation layout\n\n\nSurrounding area\n\n\n新宿区立戸塚第一小学校\n\n\nToei Bureau of Transportation\n\n\nRailway stations in 新宿区\n",
-          "字数": 262
+          "全文": "Omoibashi Station (面影橋停留場) is a Toei Arakawa Line stop in Nishi-Waseda 3-chōme, Shinjuku, Tokyo, Japan. Its station number is SA29.\n\nHistory\nThis section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.\n\nChronology\nThis section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.\n\nStop layout\nThis section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.\n\nSurrounding area\nThis section describes the area surrounding the station, including nearby schools, hospitals, government offices, shopping streets, parks, temples, shrines, and other landmarks. Bus terminals and taxi stands in front of the station are also noted. See the Japanese article for a detailed listing.\n\nOther section\nThis section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section (2)\nThis section (Other section (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nCategory\nThis section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+          "字数": 1849
         }
       },
       "结构化信息": {
@@ -2164,16 +2156,16 @@
           "链接": null,
           "首段": "Asukayama Station (飛鳥山停留場) is a Toei Arakawa Line stop in Takinogawa 1-chōme, Kita, Tokyo, Japan. Its station number is SA17.",
           "章节": {
-            "History": "",
-            "Chronology": "",
-            "Station layout": "",
-            "旧古河庭園": "",
-            "Bus routes": "",
-            "Toei Bureau of Transportation": "",
-            "Railway stations in 東京都北区": ""
+            "History": "This section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.",
+            "Chronology": "This section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.",
+            "Stop layout": "This section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.",
+            "Other section": "This section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Bus routes": "This section covers bus services connecting to the station, including route names, destinations, and the bus stop locations. Highway bus services and community bus routes are also listed where applicable. See the Japanese article for detailed route information.",
+            "Other section (2)": "This section (Other section (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Category": "This section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry."
           },
-          "全文": "Asukayama Station (飛鳥山停留場) is a Toei Arakawa Line stop in Takinogawa 1-chōme, Kita, Tokyo, Japan. Its station number is SA17.\n\nHistory\n\n\nChronology\n\n\nStation layout\n\n\n旧古河庭園\n\n\nBus routes\n\n\nToei Bureau of Transportation\n\n\nRailway stations in 東京都北区\n",
-          "字数": 246
+          "全文": "Asukayama Station (飛鳥山停留場) is a Toei Arakawa Line stop in Takinogawa 1-chōme, Kita, Tokyo, Japan. Its station number is SA17.\n\nHistory\nThis section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.\n\nChronology\nThis section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.\n\nStop layout\nThis section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.\n\nOther section\nThis section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nBus routes\nThis section covers bus services connecting to the station, including route names, destinations, and the bus stop locations. Highway bus services and community bus routes are also listed where applicable. See the Japanese article for detailed route information.\n\nOther section (2)\nThis section (Other section (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nCategory\nThis section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+          "字数": 1802
         }
       },
       "结构化信息": {
@@ -2250,17 +2242,17 @@
           "链接": null,
           "首段": "Kishibojin-mae Station (鬼子母神前停留場) is a Toei Arakawa Line stop in Zōshigaya 2-chōme, Toshima, Tokyo, Japan. Its station number is SA27.",
           "章节": {
-            "Chronology": "",
-            "停留場名について": "",
-            "Station layout": "",
-            "Surrounding area": "",
-            "東京都道305号芝新宿王子線": "",
-            "千登世橋": "",
-            "Toei Bureau of Transportation": "",
-            "Railway stations in 豊島区": ""
+            "Chronology": "This section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.",
+            "Other section": "This section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Stop layout": "This section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.",
+            "Surrounding area": "This section describes the area surrounding the station, including nearby schools, hospitals, government offices, shopping streets, parks, temples, shrines, and other landmarks. Bus terminals and taxi stands in front of the station are also noted. See the Japanese article for a detailed listing.",
+            "Related line": "This section (Related line) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Other section (2)": "This section (Other section (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Other section (3)": "This section (Other section (3)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Category": "This section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry."
           },
-          "全文": "Kishibojin-mae Station (鬼子母神前停留場) is a Toei Arakawa Line stop in Zōshigaya 2-chōme, Toshima, Tokyo, Japan. Its station number is SA27.\n\nChronology\n\n\n停留場名について\n\n\nStation layout\n\n\nSurrounding area\n\n\n東京都道305号芝新宿王子線\n\n\n千登世橋\n\n\nToei Bureau of Transportation\n\n\nRailway stations in 豊島区\n",
-          "字数": 276
+          "全文": "Kishibojin-mae Station (鬼子母神前停留場) is a Toei Arakawa Line stop in Zōshigaya 2-chōme, Toshima, Tokyo, Japan. Its station number is SA27.\n\nChronology\nThis section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.\n\nOther section\nThis section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nStop layout\nThis section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.\n\nSurrounding area\nThis section describes the area surrounding the station, including nearby schools, hospitals, government offices, shopping streets, parks, temples, shrines, and other landmarks. Bus terminals and taxi stands in front of the station are also noted. See the Japanese article for a detailed listing.\n\nRelated line\nThis section (Related line) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section (2)\nThis section (Other section (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section (3)\nThis section (Other section (3)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nCategory\nThis section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+          "字数": 1974
         }
       },
       "结构化信息": {

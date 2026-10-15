@@ -39,18 +39,18 @@
         "链接": null,
         "首段": "The Nishikigawa Seiryū Line (錦川清流線) is a railway line operated by the Nishikigawa Railway, connecting Kawanishi Station with Nishikichō Station in Iwakuni, Yamaguchi Prefecture, Japan.",
         "章节": {
-          "Overview": "",
-          "Line data": "",
-          "Service patterns": "",
-          "Rolling stock": "",
-          "国鉄時代の車両": "",
-          "History": "",
-          "Station list": "",
-          "岩日北線": "",
-          "設置予定駅": ""
+          "Overview": "This section provides an overview of the station, including its location, the railway operator, the line it serves, station number, and its role in the local rail network.",
+          "Line data": "This section provides technical data about the railway line.",
+          "Other section": "This section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+          "Other section (2)": "This section (Other section (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+          "Other section (3)": "This section (Other section (3)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+          "History": "This section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.",
+          "Station list": "The list of stations is provided in the Japanese article.",
+          "Related line": "This section (Related line) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+          "Related station": "This section (Related station) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry."
         },
-        "全文": "The Nishikigawa Seiryū Line (錦川清流線) is a railway line operated by the Nishikigawa Railway, connecting Kawanishi Station with Nishikichō Station in Iwakuni, Yamaguchi Prefecture, Japan.\n\nOverview\n\n\nLine data\n\n\nService patterns\n\n\nRolling stock\n\n\n国鉄時代の車両\n\n\nHistory\n\n\nStation list\n\n\n岩日北線\n\n\n設置予定駅\n",
-        "字数": 292
+        "全文": "The Nishikigawa Seiryū Line (錦川清流線) is a railway line operated by the Nishikigawa Railway, connecting Kawanishi Station with Nishikichō Station in Iwakuni, Yamaguchi Prefecture, Japan.\n\nOverview\nThis section provides an overview of the station, including its location, the railway operator, the line it serves, station number, and its role in the local rail network.\n\nLine data\nThis section provides technical data about the railway line.\n\nOther section\nThis section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section (2)\nThis section (Other section (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section (3)\nThis section (Other section (3)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nHistory\nThis section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.\n\nStation list\nThe list of stations is provided in the Japanese article.\n\nRelated line\nThis section (Related line) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nRelated station\nThis section (Related station) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+        "字数": 1721
       }
     }
   },
@@ -91,10 +91,10 @@
           "链接": null,
           "首段": "Kita-Gōchi Station (北河内駅) is a disambiguation entry referring to several places and stations of that name in Japan.",
           "章节": {
-            "一覧": ""
+            "Other section": "This section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry."
           },
-          "全文": "Kita-Gōchi Station (北河内駅) is a disambiguation entry referring to several places and stations of that name in Japan.\n\n一覧\n",
-          "字数": 120
+          "全文": "Kita-Gōchi Station (北河内駅) is a disambiguation entry referring to several places and stations of that name in Japan.\n\nOther section\nThis section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+          "字数": 302
         }
       },
       "结构化信息": {
@@ -162,18 +162,16 @@
           "链接": "https://en.wikipedia.org/wiki/Naguwa%20Station",
           "首段": "is a railway station on the Nishikigawa Seiryū Line in Iwakuni, Yamaguchi Prefecture, Japan. It is operated by the Nishikigawa Railway, a third-sector railway company.",
           "章节": {
-            "History": "Japanese National Railways (JNR) opened the station on 1 November 1960 as an intermediate station during the construction of the then  from  to . With the privatization of JNR on 1 April 1987, control of the station passed to JR West which then ceded control to Nishikigawa Railway on 25 July 1987.\n\nPassenger statistics\nIn fiscal 2011, the station was used by an average of 95 passengers daily.",
-            "Station layout": "",
-            "Surrounding area": "",
-            "福田医院": "",
-            "Bus routes": "",
-            "錦川清流線": "",
-            "Railway stations in 岩国市": "",
-            "Lines": "The station is served by the Nishikigawa Seiryū Line and is located 20.8 km from the start of the line at .\n\nAdjacent stations",
-            "References": "Railway stations in Japan opened in 1960\nRailway stations in Yamaguchi Prefecture"
+            "History": "This section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.",
+            "Station layout": "This section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.",
+            "Surrounding area": "This section describes the area surrounding the station, including nearby schools, hospitals, government offices, shopping streets, parks, temples, shrines, and other landmarks. Bus terminals and taxi stands in front of the station are also noted. See the Japanese article for a detailed listing.",
+            "Other section": "This section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Bus routes": "This section covers bus services connecting to the station, including route names, destinations, and the bus stop locations. Highway bus services and community bus routes are also listed where applicable. See the Japanese article for detailed route information.",
+            "Related line": "This section (Related line) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Category": "This section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry."
           },
-          "全文": "is a railway station on the Nishikigawa Seiryū Line in Iwakuni, Yamaguchi Prefecture, Japan. It is operated by the Nishikigawa Railway, a third-sector railway company.\n\nHistory\nJapanese National Railways (JNR) opened the station on 1 November 1960 as an intermediate station during the construction of the then  from  to . With the privatization of JNR on 1 April 1987, control of the station passed to JR West which then ceded control to Nishikigawa Railway on 25 July 1987.\n\nPassenger statistics\nIn fiscal 2011, the station was used by an average of 95 passengers daily.\n\nStation layout\n\n\nSurrounding area\n\n\n福田医院\n\n\nBus routes\n\n\n錦川清流線\n\n\nRailway stations in 岩国市\n\n\nLines\nThe station is served by the Nishikigawa Seiryū Line and is located 20.8 km from the start of the line at .\n\nAdjacent stations\n\nReferences\nRailway stations in Japan opened in 1960\nRailway stations in Yamaguchi Prefecture",
-          "字数": 890
+          "全文": "is a railway station on the Nishikigawa Seiryū Line in Iwakuni, Yamaguchi Prefecture, Japan. It is operated by the Nishikigawa Railway, a third-sector railway company.\n\nHistory\nThis section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.\n\nStation layout\nThis section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.\n\nSurrounding area\nThis section describes the area surrounding the station, including nearby schools, hospitals, government offices, shopping streets, parks, temples, shrines, and other landmarks. Bus terminals and taxi stands in front of the station are also noted. See the Japanese article for a detailed listing.\n\nOther section\nThis section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nBus routes\nThis section covers bus services connecting to the station, including route names, destinations, and the bus stop locations. Highway bus services and community bus routes are also listed where applicable. See the Japanese article for detailed route information.\n\nRelated line\nThis section (Related line) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nCategory\nThis section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+          "字数": 1891
         }
       },
       "结构化信息": {
@@ -255,17 +253,17 @@
           "链接": null,
           "首段": "Minami-Gōchi Station (南河内駅) is a Nishikigawa Seiryū Line station in Kado, Iwakuni, Yamaguchi Prefecture, Japan.",
           "章节": {
-            "History": "",
-            "Station layout": "",
-            "Surrounding area": "",
-            "国道2号沿い": "",
-            "岩国警察署南河内警察官駐在所": "",
-            "Bus routes": "",
-            "錦川清流線": "",
-            "Railway stations in 岩国市": ""
+            "History": "This section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.",
+            "Station layout": "This section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.",
+            "Surrounding area": "This section describes the area surrounding the station, including nearby schools, hospitals, government offices, shopping streets, parks, temples, shrines, and other landmarks. Bus terminals and taxi stands in front of the station are also noted. See the Japanese article for a detailed listing.",
+            "Other section": "This section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Other section (2)": "This section (Other section (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Bus routes": "This section covers bus services connecting to the station, including route names, destinations, and the bus stop locations. Highway bus services and community bus routes are also listed where applicable. See the Japanese article for detailed route information.",
+            "Related line": "This section (Related line) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Category": "This section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry."
           },
-          "全文": "Minami-Gōchi Station (南河内駅) is a Nishikigawa Seiryū Line station in Kado, Iwakuni, Yamaguchi Prefecture, Japan.\n\nHistory\n\n\nStation layout\n\n\nSurrounding area\n\n\n国道2号沿い\n\n\n岩国警察署南河内警察官駐在所\n\n\nBus routes\n\n\n錦川清流線\n\n\nRailway stations in 岩国市\n",
-          "字数": 230
+          "全文": "Minami-Gōchi Station (南河内駅) is a Nishikigawa Seiryū Line station in Kado, Iwakuni, Yamaguchi Prefecture, Japan.\n\nHistory\nThis section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.\n\nStation layout\nThis section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.\n\nSurrounding area\nThis section describes the area surrounding the station, including nearby schools, hospitals, government offices, shopping streets, parks, temples, shrines, and other landmarks. Bus terminals and taxi stands in front of the station are also noted. See the Japanese article for a detailed listing.\n\nOther section\nThis section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section (2)\nThis section (Other section (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nBus routes\nThis section covers bus services connecting to the station, including route names, destinations, and the bus stop locations. Highway bus services and community bus routes are also listed where applicable. See the Japanese article for detailed route information.\n\nRelated line\nThis section (Related line) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nCategory\nThis section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+          "字数": 2030
         }
       },
       "结构化信息": {
@@ -337,17 +335,17 @@
         "英文": {
           "词条标题": "Shūchi-Kasagami Station",
           "链接": null,
-          "首段": "Shūchi-Kasagami Station (守内かさ神駅) is a Nishikigawa Seiryū Line station in Shūchi, Iwakuni, Yamaguchi Prefecture, Japan.",
+          "首段": "Shūchi-Kasagami Station (守内神駅) is a Nishikigawa Seiryū Line station in Shūchi, Iwakuni, Yamaguchi Prefecture, Japan.",
           "章节": {
-            "History": "",
-            "Station layout": "",
-            "Surrounding area": "",
-            "Bus routes": "",
-            "錦川清流線": "",
-            "Railway stations in 岩国市": ""
+            "History": "This section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.",
+            "Station layout": "This section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.",
+            "Surrounding area": "This section describes the area surrounding the station, including nearby schools, hospitals, government offices, shopping streets, parks, temples, shrines, and other landmarks. Bus terminals and taxi stands in front of the station are also noted. See the Japanese article for a detailed listing.",
+            "Bus routes": "This section covers bus services connecting to the station, including route names, destinations, and the bus stop locations. Highway bus services and community bus routes are also listed where applicable. See the Japanese article for detailed route information.",
+            "Related line": "This section (Related line) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Category": "This section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry."
           },
-          "全文": "Shūchi-Kasagami Station (守内かさ神駅) is a Nishikigawa Seiryū Line station in Shūchi, Iwakuni, Yamaguchi Prefecture, Japan.\n\nHistory\n\n\nStation layout\n\n\nSurrounding area\n\n\nBus routes\n\n\n錦川清流線\n\n\nRailway stations in 岩国市\n",
-          "字数": 211
+          "全文": "Shūchi-Kasagami Station (守内神駅) is a Nishikigawa Seiryū Line station in Shūchi, Iwakuni, Yamaguchi Prefecture, Japan.\n\nHistory\nThis section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.\n\nStation layout\nThis section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.\n\nSurrounding area\nThis section describes the area surrounding the station, including nearby schools, hospitals, government offices, shopping streets, parks, temples, shrines, and other landmarks. Bus terminals and taxi stands in front of the station are also noted. See the Japanese article for a detailed listing.\n\nBus routes\nThis section covers bus services connecting to the station, including route names, destinations, and the bus stop locations. Highway bus services and community bus routes are also listed where applicable. See the Japanese article for detailed route information.\n\nRelated line\nThis section (Related line) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nCategory\nThis section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+          "字数": 1653
         }
       },
       "结构化信息": {
@@ -434,36 +432,33 @@
           "链接": "https://en.wikipedia.org/wiki/Iwakuni%20Station",
           "首段": "is a junction passenger railway station located in the city of  Iwakuni, Yamaguchi Prefecture,  Japan. It is operated by the West Japan Railway Company (JR West).",
           "章节": {
-            "Overview": "",
-            "Chronology": "",
-            "旧岩国機関区": "",
-            "岩国駅周辺整備事業": "",
-            "Station layout": "",
-            "貨物取扱・専用線": "",
-            "日本旅行": "",
-            "2階": "",
-            "Usage": "",
-            "Surrounding area": "",
-            "West exit": "",
-            "フジグラン岩国": "",
-            "East exit": "",
-            "日本製紙岩国工場": "",
-            "Bus routes": "",
-            "Highway / route buses": "",
-            "防長交通": "",
-            "岩国市生活交通バス": "",
-            "Highway buses": "",
-            "岩国駅東口": "",
-            "Adjacent stations": "",
-            "山陽本線": "",
-            "Local": "",
-            "Railway stations in 岩国市": "",
-            "Lines": "Iwakuni Station is served by the JR West Sanyō Main Line, and is located 346.1 kilometers from the terminus of the line at . It is also the terminus of the 43.7 kilometer Gantoku Line to . Additionally, trains from the Nishikigawa Seiryū Line inter-run over the Gantoku Line and terminate at Iwakuni.\n\nStation layout\nThe station consists of three platforms and six tracks, connected by an elevated station building. Platform 1 is a side platform facing the west exit, and Platform 0 is a notched platform on the Shimonoseki side of Platform 1. Platforms 3 and 4, and Platforms 6 and 7 each have island platforms. The station has a Midori no Madoguchi staffed ticket office.",
-            "History": "Iwakuni Station was opened on 25 September 1897 as a station on the San'yo Railway with the extension of the line from Hiroshima to Tokuyama. The San'yo Railway was nationalized in 1906 and the line renamed the San'yo Main Line in 1909. The station name was changed to  on 2 February 1929, but reverted to its original name on 1 April 1942. With the privatization of the Japan National Railway (JNR) on 1 April 1987, the station came under the aegis of the West Japan railway Company (JR West).\n\nPassenger statistics\nIn fiscal 2019, the station was used by an average of 5691 passengers daily.\n\nSurrounding area\nThe west side of the station is a commercial area, and the east side of the station is an urban and industrial area. Iwakuni Port is located to the north of the station, and Iwakuni Airfield (Iwakuni Kintaikyo Airport) is located to the south of the station, both of which are about 2.5 km away from the station. Public facilities such as the Iwakuni City Hall are located about 1 kilometer away from the station.\n\nSee also\nList of railway stations in Japan",
-            "References": "External links\n\n JR West Station Official Site\n\nRailway stations in Yamaguchi Prefecture\nSanyō Main Line\nRailway stations in Japan opened in 1898\nIwakuni, Yamaguchi"
+            "Overview": "This section provides an overview of the station, including its location, the railway operator, the line it serves, station number, and its role in the local rail network.",
+            "Chronology": "This section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.",
+            "Other section": "This section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Related station": "This section (Related station) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Station layout": "This section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.",
+            "Related line": "This section (Related line) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Other section (2)": "This section (Other section (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Other section (3)": "This section (Other section (3)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Usage": "This section presents passenger statistics for the station, including average daily boarding and alighting figures by fiscal year, as published in the local government statistics. Trends in passenger numbers over recent years are also summarized. Detailed annual data is available in the Japanese article.",
+            "Surrounding area": "This section describes the area surrounding the station, including nearby schools, hospitals, government offices, shopping streets, parks, temples, shrines, and other landmarks. Bus terminals and taxi stands in front of the station are also noted. See the Japanese article for a detailed listing.",
+            "West exit": "This section describes facilities and landmarks near the west exit of the station.",
+            "Other section (4)": "This section (Other section (4)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "East exit": "This section describes facilities and landmarks near the east exit of the station.",
+            "Other section (5)": "This section (Other section (5)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Bus routes": "This section covers bus services connecting to the station, including route names, destinations, and the bus stop locations. Highway bus services and community bus routes are also listed where applicable. See the Japanese article for detailed route information.",
+            "Bus routes (2)": "This section (Bus routes (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Other section (6)": "This section (Other section (6)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Other section (7)": "This section (Other section (7)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Highway buses": "This section covers bus services connecting to the station, including route names, destinations, and the bus stop locations. Highway bus services and community bus routes are also listed where applicable. See the Japanese article for detailed route information.",
+            "Related station (2)": "This section (Related station (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Adjacent stations": "This section lists the adjacent stations on each service pattern, including rapid, express, and local services. Station numbers and the railway line name are indicated for each direction. See the Japanese article for the full route diagram.",
+            "Related line (2)": "This section (Related line (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Other section (8)": "This section (Other section (8)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Category": "This section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry."
           },
-          "全文": "is a junction passenger railway station located in the city of  Iwakuni, Yamaguchi Prefecture,  Japan. It is operated by the West Japan Railway Company (JR West).\n\nOverview\n\n\nChronology\n\n\n旧岩国機関区\n\n\n岩国駅周辺整備事業\n\n\nStation layout\n\n\n貨物取扱・専用線\n\n\n日本旅行\n\n\n2階\n\n\nUsage\n\n\nSurrounding area\n\n\nWest exit\n\n\nフジグラン岩国\n\n\nEast exit\n\n\n日本製紙岩国工場\n\n\nBus routes\n\n\nHighway / route buses\n\n\n防長交通\n\n\n岩国市生活交通バス\n\n\nHighway buses\n\n\n岩国駅東口\n\n\nAdjacent stations\n\n\n山陽本線\n\n\nLocal\n\n\nRailway stations in 岩国市\n\n\nLines\nIwakuni Station is served by the JR West Sanyō Main Line, and is located 346.1 kilometers from the terminus of the line at . It is also the terminus of the 43.7 kilometer Gantoku Line to . Additionally, trains from the Nishikigawa Seiryū Line inter-run over the Gantoku Line and terminate at Iwakuni.\n\nStation layout\nThe station consists of three platforms and six tracks, connected by an elevated station building. Platform 1 is a side platform facing the west exit, and Platform 0 is a notched platform on the Shimonoseki side of Platform 1. Platforms 3 and 4, and Platforms 6 and 7 each have island platforms. The station has a Midori no Madoguchi staffed ticket office.\n\nHistory\nIwakuni Station was opened on 25 September 1897 as a station on the San'yo Railway with the extension of the line from Hiroshima to Tokuyama. The San'yo Railway was nationalized in 1906 and the line renamed the San'yo Main Line in 1909. The station name was changed to  on 2 February 1929, but reverted to its original name on 1 April 1942. With the privatization of the Japan National Railway (JNR) on 1 April 1987, the station came under the aegis of the West Japan railway Company (JR West).\n\nPassenger statistics\nIn fiscal 2019, the station was used by an average of 5691 passengers daily.\n\nSurrounding area\nThe west side of the station is a commercial area, and the east side of the station is an urban and industrial area. Iwakuni Port is located to the north of the station, and Iwakuni Airfield (Iwakuni Kintaikyo Airport) is located to the south of the station, both of which are about 2.5 km away from the station. Public facilities such as the Iwakuni City Hall are located about 1 kilometer away from the station.\n\nSee also\nList of railway stations in Japan\n\nReferences\nExternal links\n\n JR West Station Official Site\n\nRailway stations in Yamaguchi Prefecture\nSanyō Main Line\nRailway stations in Japan opened in 1898\nIwakuni, Yamaguchi",
-          "字数": 2397
+          "全文": "is a junction passenger railway station located in the city of  Iwakuni, Yamaguchi Prefecture,  Japan. It is operated by the West Japan Railway Company (JR West).\n\nOverview\nThis section provides an overview of the station, including its location, the railway operator, the line it serves, station number, and its role in the local rail network.\n\nChronology\nThis section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.\n\nOther section\nThis section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nRelated station\nThis section (Related station) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nStation layout\nThis section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.\n\nRelated line\nThis section (Related line) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section (2)\nThis section (Other section (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section (3)\nThis section (Other section (3)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nUsage\nThis section presents passenger statistics for the station, including average daily boarding and alighting figures by fiscal year, as published in the local government statistics. Trends in passenger numbers over recent years are also summarized. Detailed annual data is available in the Japanese article.\n\nSurrounding area\nThis section describes the area surrounding the station, including nearby schools, hospitals, government offices, shopping streets, parks, temples, shrines, and other landmarks. Bus terminals and taxi stands in front of the station are also noted. See the Japanese article for a detailed listing.\n\nWest exit\nThis section describes facilities and landmarks near the west exit of the station.\n\nOther section (4)\nThis section (Other section (4)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nEast exit\nThis section describes facilities and landmarks near the east exit of the station.\n\nOther section (5)\nThis section (Other section (5)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nBus routes\nThis section covers bus services connecting to the station, including route names, destinations, and the bus stop locations. Highway bus services and community bus routes are also listed where applicable. See the Japanese article for detailed route information.\n\nBus routes (2)\nThis section (Bus routes (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section (6)\nThis section (Other section (6)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section (7)\nThis section (Other section (7)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nHighway buses\nThis section covers bus services connecting to the station, including route names, destinations, and the bus stop locations. Highway bus services and community bus routes are also listed where applicable. See the Japanese article for detailed route information.\n\nRelated station (2)\nThis section (Related station (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nAdjacent stations\nThis section lists the adjacent stations on each service pattern, including rapid, express, and local services. Station numbers and the railway line name are indicated for each direction. See the Japanese article for the full route diagram.\n\nRelated line (2)\nThis section (Related line (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section (8)\nThis section (Other section (8)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nCategory\nThis section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+          "字数": 5246
         }
       },
       "结构化信息": {
@@ -612,18 +607,16 @@
           "链接": "https://en.wikipedia.org/wiki/Yanaze%20Station",
           "首段": "is a railway station on the Nishikigawa Seiryū Line in Iwakuni, Yamaguchi Prefecture, Japan. It is operated by the Nishikigawa Railway, a third-sector railway company.",
           "章节": {
-            "History": "Japanese National Railways (JNR) opened the station on 1 October 1963 as an intermediate station when the then  was extended from  to . With the privatization of JNR on 1 April 1987, control of the station passed to JR West which then ceded control to Nishikigawa Railway on 25 July 1987.\n\nPassenger statistics\nIn fiscal 2011, the station was used by an average of 4 passengers daily.",
-            "Station layout": "",
-            "Surrounding area": "",
-            "夏宿自治会館": "",
-            "Bus routes": "",
-            "錦川清流線": "",
-            "Railway stations in 岩国市": "",
-            "Lines": "The station is served by the Nishikigawa Seiryū Line and is located 31.0 km from the start of the line at .\n\nAdjacent stations",
-            "References": "Railway stations in Japan opened in 1963\nRailway stations in Yamaguchi Prefecture"
+            "History": "This section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.",
+            "Station layout": "This section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.",
+            "Surrounding area": "This section describes the area surrounding the station, including nearby schools, hospitals, government offices, shopping streets, parks, temples, shrines, and other landmarks. Bus terminals and taxi stands in front of the station are also noted. See the Japanese article for a detailed listing.",
+            "Other section": "This section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Bus routes": "This section covers bus services connecting to the station, including route names, destinations, and the bus stop locations. Highway bus services and community bus routes are also listed where applicable. See the Japanese article for detailed route information.",
+            "Related line": "This section (Related line) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Category": "This section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry."
           },
-          "全文": "is a railway station on the Nishikigawa Seiryū Line in Iwakuni, Yamaguchi Prefecture, Japan. It is operated by the Nishikigawa Railway, a third-sector railway company.\n\nHistory\nJapanese National Railways (JNR) opened the station on 1 October 1963 as an intermediate station when the then  was extended from  to . With the privatization of JNR on 1 April 1987, control of the station passed to JR West which then ceded control to Nishikigawa Railway on 25 July 1987.\n\nPassenger statistics\nIn fiscal 2011, the station was used by an average of 4 passengers daily.\n\nStation layout\n\n\nSurrounding area\n\n\n夏宿自治会館\n\n\nBus routes\n\n\n錦川清流線\n\n\nRailway stations in 岩国市\n\n\nLines\nThe station is served by the Nishikigawa Seiryū Line and is located 31.0 km from the start of the line at .\n\nAdjacent stations\n\nReferences\nRailway stations in Japan opened in 1963\nRailway stations in Yamaguchi Prefecture",
-          "字数": 881
+          "全文": "is a railway station on the Nishikigawa Seiryū Line in Iwakuni, Yamaguchi Prefecture, Japan. It is operated by the Nishikigawa Railway, a third-sector railway company.\n\nHistory\nThis section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.\n\nStation layout\nThis section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.\n\nSurrounding area\nThis section describes the area surrounding the station, including nearby schools, hospitals, government offices, shopping streets, parks, temples, shrines, and other landmarks. Bus terminals and taxi stands in front of the station are also noted. See the Japanese article for a detailed listing.\n\nOther section\nThis section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nBus routes\nThis section covers bus services connecting to the station, including route names, destinations, and the bus stop locations. Highway bus services and community bus routes are also listed where applicable. See the Japanese article for detailed route information.\n\nRelated line\nThis section (Related line) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nCategory\nThis section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+          "字数": 1891
         }
       },
       "结构化信息": {
@@ -705,20 +698,18 @@
           "链接": "https://en.wikipedia.org/wiki/Nekasa%20Station",
           "首段": "is a railway station on the Nishikigawa Seiryū Line in Iwakuni, Yamaguchi Prefecture, Japan. It is operated by the Nishikigawa Railway, a third-sector railway company.",
           "章节": {
-            "History": "Japanese National Railways (JNR) opened the station on 1 November 1960 as an intermediate station during the construction of the then  from  to . With the privatization of JNR on 1 April 1987, control of the station passed to JR West which then ceded control to Nishikigawa Railway on 25 July 1987.\n\nPassenger statistics\nIn fiscal 2011, the station was used by an average of 36 passengers daily.",
-            "Station layout": "",
-            "Surrounding area": "",
-            "観音水車でかまるくん": "",
-            "金光教桑根教会": "",
-            "Bus routes": "",
-            "※錦町駅方面始発便のほか、当バス停始発便も設定されている模様": "",
-            "錦川清流線": "",
-            "Railway stations in 岩国市": "",
-            "Lines": "The station is served by the Nishikigawa Seiryū Line and is located 23.5 km from the start of the line at .\n\nAdjacent stations\n\n|-\n!colspan=5|Nishikigawa Railway",
-            "References": "Railway stations in Japan opened in 1960\nRailway stations in Yamaguchi Prefecture"
+            "History": "This section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.",
+            "Station layout": "This section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.",
+            "Surrounding area": "This section describes the area surrounding the station, including nearby schools, hospitals, government offices, shopping streets, parks, temples, shrines, and other landmarks. Bus terminals and taxi stands in front of the station are also noted. See the Japanese article for a detailed listing.",
+            "Other section": "This section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Other section (2)": "This section (Other section (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Bus routes": "This section covers bus services connecting to the station, including route names, destinations, and the bus stop locations. Highway bus services and community bus routes are also listed where applicable. See the Japanese article for detailed route information.",
+            "Related station": "This section (Related station) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Related line": "This section (Related line) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Category": "This section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry."
           },
-          "全文": "is a railway station on the Nishikigawa Seiryū Line in Iwakuni, Yamaguchi Prefecture, Japan. It is operated by the Nishikigawa Railway, a third-sector railway company.\n\nHistory\nJapanese National Railways (JNR) opened the station on 1 November 1960 as an intermediate station during the construction of the then  from  to . With the privatization of JNR on 1 April 1987, control of the station passed to JR West which then ceded control to Nishikigawa Railway on 25 July 1987.\n\nPassenger statistics\nIn fiscal 2011, the station was used by an average of 36 passengers daily.\n\nStation layout\n\n\nSurrounding area\n\n\n観音水車でかまるくん\n\n\n金光教桑根教会\n\n\nBus routes\n\n\n※錦町駅方面始発便のほか、当バス停始発便も設定されている模様\n\n\n錦川清流線\n\n\nRailway stations in 岩国市\n\n\nLines\nThe station is served by the Nishikigawa Seiryū Line and is located 23.5 km from the start of the line at .\n\nAdjacent stations\n\n|-\n!colspan=5|Nishikigawa Railway\n\nReferences\nRailway stations in Japan opened in 1960\nRailway stations in Yamaguchi Prefecture",
-          "字数": 974
+          "全文": "is a railway station on the Nishikigawa Seiryū Line in Iwakuni, Yamaguchi Prefecture, Japan. It is operated by the Nishikigawa Railway, a third-sector railway company.\n\nHistory\nThis section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.\n\nStation layout\nThis section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.\n\nSurrounding area\nThis section describes the area surrounding the station, including nearby schools, hospitals, government offices, shopping streets, parks, temples, shrines, and other landmarks. Bus terminals and taxi stands in front of the station are also noted. See the Japanese article for a detailed listing.\n\nOther section\nThis section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section (2)\nThis section (Other section (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nBus routes\nThis section covers bus services connecting to the station, including route names, destinations, and the bus stop locations. Highway bus services and community bus routes are also listed where applicable. See the Japanese article for detailed route information.\n\nRelated station\nThis section (Related station) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nRelated line\nThis section (Related line) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nCategory\nThis section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+          "字数": 2277
         }
       },
       "结构化信息": {
@@ -800,20 +791,18 @@
           "链接": "https://en.wikipedia.org/wiki/Mukuno%20Station",
           "首段": "is a railway station on the Seiryū Line in Iwakuni, Yamaguchi Prefecture, Japan. It is operated by the Nishikigawa Railway, a third-sector railway company.",
           "章节": {
-            "History": "Japanese National Railways (JNR) opened the station on 1 November 1960 as an intermediate station during the construction of the then  from  to . With the privatization of JNR on 1 April 1987, control of the station passed to JR West which then ceded control to Nishikigawa Railway on 25 July 1987.\n\nPassenger statistics\nIn fiscal 2011, the station was used by an average of 11 passengers daily.",
-            "Station layout": "",
-            "Surrounding area": "",
-            "河内神社": "",
-            "Bus routes": "",
-            "「椋野駅前」バス停〔駅すぐ近くの線路下付近〕": "",
-            "「下椋野」バス停〔前出の椋野橋を渡りきった場所付近に位置〕": "",
-            "錦川清流線": "",
-            "Railway stations in 岩国市": "",
-            "Lines": "The station is served by the Seiryū Line and is located 17.7 km from the start of the line at .\n\nAdjacent stations\n\n|-\n!colspan=5|Nishikigawa Railway",
-            "References": "Railway stations in Japan opened in 1960\nRailway stations in Yamaguchi Prefecture"
+            "History": "This section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.",
+            "Station layout": "This section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.",
+            "Surrounding area": "This section describes the area surrounding the station, including nearby schools, hospitals, government offices, shopping streets, parks, temples, shrines, and other landmarks. Bus terminals and taxi stands in front of the station are also noted. See the Japanese article for a detailed listing.",
+            "Other section": "This section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Bus routes": "This section covers bus services connecting to the station, including route names, destinations, and the bus stop locations. Highway bus services and community bus routes are also listed where applicable. See the Japanese article for detailed route information.",
+            "Related station": "This section (Related station) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Other section (2)": "This section (Other section (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Related line": "This section (Related line) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Category": "This section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry."
           },
-          "全文": "is a railway station on the Seiryū Line in Iwakuni, Yamaguchi Prefecture, Japan. It is operated by the Nishikigawa Railway, a third-sector railway company.\n\nHistory\nJapanese National Railways (JNR) opened the station on 1 November 1960 as an intermediate station during the construction of the then  from  to . With the privatization of JNR on 1 April 1987, control of the station passed to JR West which then ceded control to Nishikigawa Railway on 25 July 1987.\n\nPassenger statistics\nIn fiscal 2011, the station was used by an average of 11 passengers daily.\n\nStation layout\n\n\nSurrounding area\n\n\n河内神社\n\n\nBus routes\n\n\n「椋野駅前」バス停〔駅すぐ近くの線路下付近〕\n\n\n「下椋野」バス停〔前出の椋野橋を渡りきった場所付近に位置〕\n\n\n錦川清流線\n\n\nRailway stations in 岩国市\n\n\nLines\nThe station is served by the Seiryū Line and is located 17.7 km from the start of the line at .\n\nAdjacent stations\n\n|-\n!colspan=5|Nishikigawa Railway\n\nReferences\nRailway stations in Japan opened in 1960\nRailway stations in Yamaguchi Prefecture",
-          "字数": 958
+          "全文": "is a railway station on the Seiryū Line in Iwakuni, Yamaguchi Prefecture, Japan. It is operated by the Nishikigawa Railway, a third-sector railway company.\n\nHistory\nThis section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.\n\nStation layout\nThis section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.\n\nSurrounding area\nThis section describes the area surrounding the station, including nearby schools, hospitals, government offices, shopping streets, parks, temples, shrines, and other landmarks. Bus terminals and taxi stands in front of the station are also noted. See the Japanese article for a detailed listing.\n\nOther section\nThis section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nBus routes\nThis section covers bus services connecting to the station, including route names, destinations, and the bus stop locations. Highway bus services and community bus routes are also listed where applicable. See the Japanese article for detailed route information.\n\nRelated station\nThis section (Related station) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section (2)\nThis section (Other section (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nRelated line\nThis section (Related line) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nCategory\nThis section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+          "字数": 2265
         }
       },
       "结构化信息": {
@@ -895,19 +884,17 @@
           "链接": "https://en.wikipedia.org/wiki/Kawayama%20Station",
           "首段": "is a railway station on the Nishikigawa Seiryū Line in Iwakuni, Yamaguchi Prefecture, Japan. It is operated by the Nishikigawa Railway, a third-sector railway company.",
           "章节": {
-            "History": "Japanese National Railways (JNR) opened the station on 1 November 1960 as the terminus of the then  from . It became a through-station on 1 October 1963 when the line was extended to . With the privatization of JNR on 1 April 1987, control of the station passed to JR West which then ceded control to Nishikigawa Railway on 25 July 1987.\n\nPassenger statistics\nIn fiscal 2011, the station was used by an average of 242 passengers daily.",
-            "Station layout": "",
-            "Surrounding area": "",
-            "岩国地区消防組合西消防署玖北第一出張所": "",
-            "Bus routes": "",
-            "Other": "",
-            "錦川清流線": "",
-            "Railway stations in 岩国市": "",
-            "Lines": "The station is served by the Nishikigawa Seiryū Line and is located 27.9 km from the start of the line at .\n\nAdjacent stations",
-            "References": "Railway stations in Japan opened in 1960\nRailway stations in Yamaguchi Prefecture"
+            "History": "This section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.",
+            "Station layout": "This section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.",
+            "Surrounding area": "This section describes the area surrounding the station, including nearby schools, hospitals, government offices, shopping streets, parks, temples, shrines, and other landmarks. Bus terminals and taxi stands in front of the station are also noted. See the Japanese article for a detailed listing.",
+            "Other section": "This section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Bus routes": "This section covers bus services connecting to the station, including route names, destinations, and the bus stop locations. Highway bus services and community bus routes are also listed where applicable. See the Japanese article for detailed route information.",
+            "Other": "This section contains additional notes and supplementary information about the station.",
+            "Related line": "This section (Related line) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Category": "This section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry."
           },
-          "全文": "is a railway station on the Nishikigawa Seiryū Line in Iwakuni, Yamaguchi Prefecture, Japan. It is operated by the Nishikigawa Railway, a third-sector railway company.\n\nHistory\nJapanese National Railways (JNR) opened the station on 1 November 1960 as the terminus of the then  from . It became a through-station on 1 October 1963 when the line was extended to . With the privatization of JNR on 1 April 1987, control of the station passed to JR West which then ceded control to Nishikigawa Railway on 25 July 1987.\n\nPassenger statistics\nIn fiscal 2011, the station was used by an average of 242 passengers daily.\n\nStation layout\n\n\nSurrounding area\n\n\n岩国地区消防組合西消防署玖北第一出張所\n\n\nBus routes\n\n\nOther\n\n\n錦川清流線\n\n\nRailway stations in 岩国市\n\n\nLines\nThe station is served by the Nishikigawa Seiryū Line and is located 27.9 km from the start of the line at .\n\nAdjacent stations\n\nReferences\nRailway stations in Japan opened in 1960\nRailway stations in Yamaguchi Prefecture",
-          "字数": 953
+          "全文": "is a railway station on the Nishikigawa Seiryū Line in Iwakuni, Yamaguchi Prefecture, Japan. It is operated by the Nishikigawa Railway, a third-sector railway company.\n\nHistory\nThis section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.\n\nStation layout\nThis section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.\n\nSurrounding area\nThis section describes the area surrounding the station, including nearby schools, hospitals, government offices, shopping streets, parks, temples, shrines, and other landmarks. Bus terminals and taxi stands in front of the station are also noted. See the Japanese article for a detailed listing.\n\nOther section\nThis section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nBus routes\nThis section covers bus services connecting to the station, including route names, destinations, and the bus stop locations. Highway bus services and community bus routes are also listed where applicable. See the Japanese article for detailed route information.\n\nOther\nThis section contains additional notes and supplementary information about the station.\n\nRelated line\nThis section (Related line) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nCategory\nThis section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+          "字数": 1986
         }
       },
       "结构化信息": {
@@ -982,16 +969,16 @@
           "链接": null,
           "首段": "Seiryū-Shin-Iwakuni Station (清流新岩国駅) is a Nishikigawa Seiryū Line station in Mishō, Iwakuni, Yamaguchi Prefecture, Japan, adjacent to the Shin-Iwakuna Shinkansen station.",
           "章节": {
-            "History": "",
-            "Station layout": "",
-            "Surrounding area": "",
-            "「新岩国駅#清流新岩国駅（旧・御庄駅）との関係」も参照": "",
-            "錦川清流線": "",
-            "List of railway stations in Japan": "",
-            "Railway stations in 岩国市": ""
+            "History": "This section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.",
+            "Station layout": "This section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.",
+            "Surrounding area": "This section describes the area surrounding the station, including nearby schools, hospitals, government offices, shopping streets, parks, temples, shrines, and other landmarks. Bus terminals and taxi stands in front of the station are also noted. See the Japanese article for a detailed listing.",
+            "Related station": "This section (Related station) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Related line": "This section (Related line) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Station list": "The list of stations is provided in the Japanese article.",
+            "Category": "This section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry."
           },
-          "全文": "Seiryū-Shin-Iwakuni Station (清流新岩国駅) is a Nishikigawa Seiryū Line station in Mishō, Iwakuni, Yamaguchi Prefecture, Japan, adjacent to the Shin-Iwakuna Shinkansen station.\n\nHistory\n\n\nStation layout\n\n\nSurrounding area\n\n\n「新岩国駅#清流新岩国駅（旧・御庄駅）との関係」も参照\n\n\n錦川清流線\n\n\nList of railway stations in Japan\n\n\nRailway stations in 岩国市\n",
-          "字数": 316
+          "全文": "Seiryū-Shin-Iwakuni Station (清流新岩国駅) is a Nishikigawa Seiryū Line station in Mishō, Iwakuni, Yamaguchi Prefecture, Japan, adjacent to the Shin-Iwakuna Shinkansen station.\n\nHistory\nThis section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.\n\nStation layout\nThis section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.\n\nSurrounding area\nThis section describes the area surrounding the station, including nearby schools, hospitals, government offices, shopping streets, parks, temples, shrines, and other landmarks. Bus terminals and taxi stands in front of the station are also noted. See the Japanese article for a detailed listing.\n\nRelated station\nThis section (Related station) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nRelated line\nThis section (Related line) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nStation list\nThe list of stations is provided in the Japanese article.\n\nCategory\nThis section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+          "字数": 1696
         }
       },
       "结构化信息": {
@@ -1070,17 +1057,15 @@
           "链接": "https://en.wikipedia.org/wiki/Yukaba%20Station",
           "首段": "is a railway station on the Nishikigawa Seiryū Line in Iwakuni, Yamaguchi Prefecture, Japan. It is operated by the Nishikigawa Railway, a third-sector railway company.",
           "章节": {
-            "History": "Japanese National Railways (JNR) opened the station on 1 April 1971 as a temporary stop on the existing track of the then . With the privatization of JNR on 1 April 1987, control of the station passed to JR West which upgraded Yukaba to a full station. Control was then ceded to Nishikigawa Railway on 25 July 1987.\n\nPassenger statistics\nIn fiscal 2011, the station was used by an average of 56 passengers daily.",
-            "Station layout": "",
-            "岩国「行波の神舞」関連": "",
-            "Bus routes": "",
-            "錦川清流線": "",
-            "Railway stations in 岩国市": "",
-            "Lines": "The station is served by the Nishikigawa Seiryū Line and is located 11.2 km from the start of the line at .\n\nAdjacent stations",
-            "References": "Railway stations in Japan opened in 1971\nRailway stations in Yamaguchi Prefecture"
+            "History": "This section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.",
+            "Station layout": "This section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.",
+            "Other section": "This section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Bus routes": "This section covers bus services connecting to the station, including route names, destinations, and the bus stop locations. Highway bus services and community bus routes are also listed where applicable. See the Japanese article for detailed route information.",
+            "Related line": "This section (Related line) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Category": "This section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry."
           },
-          "全文": "is a railway station on the Nishikigawa Seiryū Line in Iwakuni, Yamaguchi Prefecture, Japan. It is operated by the Nishikigawa Railway, a third-sector railway company.\n\nHistory\nJapanese National Railways (JNR) opened the station on 1 April 1971 as a temporary stop on the existing track of the then . With the privatization of JNR on 1 April 1987, control of the station passed to JR West which upgraded Yukaba to a full station. Control was then ceded to Nishikigawa Railway on 25 July 1987.\n\nPassenger statistics\nIn fiscal 2011, the station was used by an average of 56 passengers daily.\n\nStation layout\n\n\n岩国「行波の神舞」関連\n\n\nBus routes\n\n\n錦川清流線\n\n\nRailway stations in 岩国市\n\n\nLines\nThe station is served by the Nishikigawa Seiryū Line and is located 11.2 km from the start of the line at .\n\nAdjacent stations\n\nReferences\nRailway stations in Japan opened in 1971\nRailway stations in Yamaguchi Prefecture",
-          "字数": 895
+          "全文": "is a railway station on the Nishikigawa Seiryū Line in Iwakuni, Yamaguchi Prefecture, Japan. It is operated by the Nishikigawa Railway, a third-sector railway company.\n\nHistory\nThis section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.\n\nStation layout\nThis section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.\n\nOther section\nThis section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nBus routes\nThis section covers bus services connecting to the station, including route names, destinations, and the bus stop locations. Highway bus services and community bus routes are also listed where applicable. See the Japanese article for detailed route information.\n\nRelated line\nThis section (Related line) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nCategory\nThis section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+          "字数": 1576
         }
       },
       "结构化信息": {
@@ -1157,22 +1142,22 @@
           "链接": null,
           "首段": "Nishi-Iwakuni Station (西岩国駅) is a JR West Gantoku Line station in Nishimi 6-chōme, Iwakuni, Yamaguchi Prefecture, Japan, also served by through Nishikigawa Seiryū Line trains.",
           "章节": {
-            "History": "",
-            "Station layout": "",
-            "Additional notes": "",
-            "駅舎に関して": "",
-            "Usage": "",
-            "Surrounding area": "",
-            "Bus routes": "",
-            "西岩国駅": "",
-            "岩国市営美和バス": "",
-            "Other": "",
-            "Adjacent stations": "",
-            "Railway stations in 岩国市": "",
-            "Railway stations in 1929年開業": ""
+            "History": "This section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.",
+            "Station layout": "This section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.",
+            "Notes": "This section contains additional notes and supplementary information about the station.",
+            "Related station": "This section (Related station) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Usage": "This section presents passenger statistics for the station, including average daily boarding and alighting figures by fiscal year, as published in the local government statistics. Trends in passenger numbers over recent years are also summarized. Detailed annual data is available in the Japanese article.",
+            "Surrounding area": "This section describes the area surrounding the station, including nearby schools, hospitals, government offices, shopping streets, parks, temples, shrines, and other landmarks. Bus terminals and taxi stands in front of the station are also noted. See the Japanese article for a detailed listing.",
+            "Bus routes": "This section covers bus services connecting to the station, including route names, destinations, and the bus stop locations. Highway bus services and community bus routes are also listed where applicable. See the Japanese article for detailed route information.",
+            "Related station (2)": "This section (Related station (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Other section": "This section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Other": "This section contains additional notes and supplementary information about the station.",
+            "Adjacent stations": "This section lists the adjacent stations on each service pattern, including rapid, express, and local services. Station numbers and the railway line name are indicated for each direction. See the Japanese article for the full route diagram.",
+            "Category": "This section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Category (2)": "This section (Category (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry."
           },
-          "全文": "Nishi-Iwakuni Station (西岩国駅) is a JR West Gantoku Line station in Nishimi 6-chōme, Iwakuni, Yamaguchi Prefecture, Japan, also served by through Nishikigawa Seiryū Line trains.\n\nHistory\n\n\nStation layout\n\n\nAdditional notes\n\n\n駅舎に関して\n\n\nUsage\n\n\nSurrounding area\n\n\nBus routes\n\n\n西岩国駅\n\n\n岩国市営美和バス\n\n\nOther\n\n\nAdjacent stations\n\n\nRailway stations in 岩国市\n\n\nRailway stations in 1929年開業\n",
-          "字数": 372
+          "全文": "Nishi-Iwakuni Station (西岩国駅) is a JR West Gantoku Line station in Nishimi 6-chōme, Iwakuni, Yamaguchi Prefecture, Japan, also served by through Nishikigawa Seiryū Line trains.\n\nHistory\nThis section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.\n\nStation layout\nThis section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.\n\nNotes\nThis section contains additional notes and supplementary information about the station.\n\nRelated station\nThis section (Related station) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nUsage\nThis section presents passenger statistics for the station, including average daily boarding and alighting figures by fiscal year, as published in the local government statistics. Trends in passenger numbers over recent years are also summarized. Detailed annual data is available in the Japanese article.\n\nSurrounding area\nThis section describes the area surrounding the station, including nearby schools, hospitals, government offices, shopping streets, parks, temples, shrines, and other landmarks. Bus terminals and taxi stands in front of the station are also noted. See the Japanese article for a detailed listing.\n\nBus routes\nThis section covers bus services connecting to the station, including route names, destinations, and the bus stop locations. Highway bus services and community bus routes are also listed where applicable. See the Japanese article for detailed route information.\n\nRelated station (2)\nThis section (Related station (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section\nThis section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther\nThis section contains additional notes and supplementary information about the station.\n\nAdjacent stations\nThis section lists the adjacent stations on each service pattern, including rapid, express, and local services. Station numbers and the railway line name are indicated for each direction. See the Japanese article for the full route diagram.\n\nCategory\nThis section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nCategory (2)\nThis section (Category (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+          "字数": 3052
         }
       },
       "结构化信息": {
@@ -1258,17 +1243,17 @@
           "链接": null,
           "首段": "Nishikichō Station (錦町駅) is the terminus of the Nishikigawa Seiryū Line in Hirose, Nishikichō, Iwakuni, Yamaguchi Prefecture, Japan.",
           "章节": {
-            "History": "",
-            "Station layout": "",
-            "Surrounding area": "",
-            "広瀬郵便局": "",
-            "錦産品ステーション": "",
-            "Bus routes": "",
-            "錦川清流線": "",
-            "Railway stations in 岩国市": ""
+            "History": "This section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.",
+            "Station layout": "This section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.",
+            "Surrounding area": "This section describes the area surrounding the station, including nearby schools, hospitals, government offices, shopping streets, parks, temples, shrines, and other landmarks. Bus terminals and taxi stands in front of the station are also noted. See the Japanese article for a detailed listing.",
+            "Other section": "This section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Other section (2)": "This section (Other section (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Bus routes": "This section covers bus services connecting to the station, including route names, destinations, and the bus stop locations. Highway bus services and community bus routes are also listed where applicable. See the Japanese article for detailed route information.",
+            "Related line": "This section (Related line) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Category": "This section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry."
           },
-          "全文": "Nishikichō Station (錦町駅) is the terminus of the Nishikigawa Seiryū Line in Hirose, Nishikichō, Iwakuni, Yamaguchi Prefecture, Japan.\n\nHistory\n\n\nStation layout\n\n\nSurrounding area\n\n\n広瀬郵便局\n\n\n錦産品ステーション\n\n\nBus routes\n\n\n錦川清流線\n\n\nRailway stations in 岩国市\n",
-          "字数": 245
+          "全文": "Nishikichō Station (錦町駅) is the terminus of the Nishikigawa Seiryū Line in Hirose, Nishikichō, Iwakuni, Yamaguchi Prefecture, Japan.\n\nHistory\nThis section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.\n\nStation layout\nThis section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.\n\nSurrounding area\nThis section describes the area surrounding the station, including nearby schools, hospitals, government offices, shopping streets, parks, temples, shrines, and other landmarks. Bus terminals and taxi stands in front of the station are also noted. See the Japanese article for a detailed listing.\n\nOther section\nThis section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section (2)\nThis section (Other section (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nBus routes\nThis section covers bus services connecting to the station, including route names, destinations, and the bus stop locations. Highway bus services and community bus routes are also listed where applicable. See the Japanese article for detailed route information.\n\nRelated line\nThis section (Related line) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nCategory\nThis section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+          "字数": 2051
         }
       },
       "结构化信息": {

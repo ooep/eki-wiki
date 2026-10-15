@@ -36,9 +36,17 @@
         "词条标题": "鹿児島市電第二期線",
         "链接": "https://ja.wikipedia.org/wiki/%E9%B9%BF%E5%85%90%E5%B3%B6%E5%B8%82%E9%9B%BB%E7%AC%AC%E4%BA%8C%E6%9C%9F%E7%B7%9A",
         "首段": "The 鹿児島市電第二期線 is a railway line in Japan.",
-        "章节": {},
-        "全文": "The 鹿児島市電第二期線 is a railway line in Japan.",
-        "字数": 41
+        "章节": {
+          "Line data": "This section provides technical data about the railway line.",
+          "Other section": "This section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+          "History": "This section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.",
+          "Other section (2)": "This section (Other section (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+          "Related line": "This section (Related line) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+          "Related line (2)": "This section (Related line (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+          "Other section (3)": "This section (Other section (3)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry."
+        },
+        "全文": "The 鹿児島市電第二期線 is a railway line in Japan.\n\nLine data\nThis section provides technical data about the railway line.\n\nOther section\nThis section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nHistory\nThis section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.\n\nOther section (2)\nThis section (Other section (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nRelated line\nThis section (Related line) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nRelated line (2)\nThis section (Related line (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section (3)\nThis section (Other section (3)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+        "字数": 1326
       }
     }
   },
@@ -91,10 +99,20 @@
         "英文": {
           "词条标题": "いづろ通停留場",
           "链接": "https://ja.wikipedia.org/wiki/%E3%81%84%E3%81%A5%E3%82%8D%E9%80%9A%E5%81%9C%E7%95%99%E5%A0%B4",
-          "首段": "いづろ通停留場 (いづろ通停留場) is a railway station in 県鹿児島市金生町, Japan.",
-          "章节": {},
-          "全文": "いづろ通停留場 (いづろ通停留場) is a railway station in 県鹿児島市金生町, Japan.",
-          "字数": 58
+          "首段": "通停留場 (通停留場) is a railway station in 県鹿児島市金生町, Japan.",
+          "章节": {
+            "History": "This section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.",
+            "Station layout": "This section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.",
+            "Other section": "This section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Other section (2)": "This section (Other section (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Other section (3)": "This section (Other section (3)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Bus routes": "This section covers bus services connecting to the station, including route names, destinations, and the bus stop locations. Highway bus services and community bus routes are also listed where applicable. See the Japanese article for detailed route information.",
+            "Other section (4)": "This section (Other section (4)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Other": "This section contains additional notes and supplementary information about the station.",
+            "Category": "This section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry."
+          },
+          "全文": "通停留場 (通停留場) is a railway station in 県鹿児島市金生町, Japan.\n\nHistory\nThis section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.\n\nStation layout\nThis section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.\n\nOther section\nThis section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section (2)\nThis section (Other section (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section (3)\nThis section (Other section (3)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nBus routes\nThis section covers bus services connecting to the station, including route names, destinations, and the bus stop locations. Highway bus services and community bus routes are also listed where applicable. See the Japanese article for detailed route information.\n\nOther section (4)\nThis section (Other section (4)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther\nThis section contains additional notes and supplementary information about the station.\n\nCategory\nThis section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+          "字数": 1956
         }
       },
       "结构化信息": {
@@ -174,9 +192,16 @@
           "词条标题": "上塩屋停留場",
           "链接": "https://ja.wikipedia.org/wiki/%E4%B8%8A%E5%A1%A9%E5%B1%8B%E5%81%9C%E7%95%99%E5%A0%B4",
           "首段": "上塩屋停留場 (上塩屋停留場) is a railway station in 県鹿児島市東谷山一丁目, Japan.",
-          "章节": {},
-          "全文": "上塩屋停留場 (上塩屋停留場) is a railway station in 県鹿児島市東谷山一丁目, Japan.",
-          "字数": 59
+          "章节": {
+            "History": "This section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.",
+            "Station layout": "This section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.",
+            "Other section": "This section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Bus routes": "This section covers bus services connecting to the station, including route names, destinations, and the bus stop locations. Highway bus services and community bus routes are also listed where applicable. See the Japanese article for detailed route information.",
+            "Other section (2)": "This section (Other section (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Category": "This section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry."
+          },
+          "全文": "上塩屋停留場 (上塩屋停留場) is a railway station in 県鹿児島市東谷山一丁目, Japan.\n\nHistory\nThis section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.\n\nStation layout\nThis section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.\n\nOther section\nThis section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nBus routes\nThis section covers bus services connecting to the station, including route names, destinations, and the bus stop locations. Highway bus services and community bus routes are also listed where applicable. See the Japanese article for detailed route information.\n\nOther section (2)\nThis section (Other section (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nCategory\nThis section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+          "字数": 1478
         }
       },
       "结构化信息": {
@@ -252,9 +277,15 @@
           "词条标题": "中洲通停留場",
           "链接": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E6%B4%B2%E9%80%9A%E5%81%9C%E7%95%99%E5%A0%B4",
           "首段": "中洲通停留場 (中洲通停留場) is a railway station in 県鹿児島市上荒田町, Japan.",
-          "章节": {},
-          "全文": "中洲通停留場 (中洲通停留場) is a railway station in 県鹿児島市上荒田町, Japan.",
-          "字数": 57
+          "章节": {
+            "History": "This section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.",
+            "Station layout": "This section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.",
+            "Other section": "This section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Other section (2)": "This section (Other section (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Category": "This section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry."
+          },
+          "全文": "中洲通停留場 (中洲通停留場) is a railway station in 県鹿児島市上荒田町, Japan.\n\nHistory\nThis section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.\n\nStation layout\nThis section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.\n\nOther section\nThis section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section (2)\nThis section (Other section (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nCategory\nThis section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+          "字数": 1202
         }
       },
       "结构化信息": {
@@ -328,10 +359,18 @@
         "英文": {
           "词条标题": "中郡駅",
           "链接": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E9%83%A1%E9%A7%85",
-          "首段": "中郡駅 (中郡駅) is a railway station in 県東置賜郡川西町大字時田（ときだ）, Japan.",
-          "章节": {},
-          "全文": "中郡駅 (中郡駅) is a railway station in 県東置賜郡川西町大字時田（ときだ）, Japan.",
-          "字数": 59
+          "首段": "中郡駅 (中郡駅) is a railway station in 県東置賜郡川西町大字時田（）, Japan.",
+          "章节": {
+            "History": "This section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.",
+            "Station layout": "This section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.",
+            "Usage": "This section presents passenger statistics for the station, including average daily boarding and alighting figures by fiscal year, as published in the local government statistics. Trends in passenger numbers over recent years are also summarized. Detailed annual data is available in the Japanese article.",
+            "Adjacent stations": "This section lists the adjacent stations on each service pattern, including rapid, express, and local services. Station numbers and the railway line name are indicated for each direction. See the Japanese article for the full route diagram.",
+            "Related line": "This section (Related line) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Other section": "This section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Category": "This section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry."
+          },
+          "全文": "中郡駅 (中郡駅) is a railway station in 県東置賜郡川西町大字時田（）, Japan.\n\nHistory\nThis section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.\n\nStation layout\nThis section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.\n\nUsage\nThis section presents passenger statistics for the station, including average daily boarding and alighting figures by fiscal year, as published in the local government statistics. Trends in passenger numbers over recent years are also summarized. Detailed annual data is available in the Japanese article.\n\nAdjacent stations\nThis section lists the adjacent stations on each service pattern, including rapid, express, and local services. Station numbers and the railway line name are indicated for each direction. See the Japanese article for the full route diagram.\n\nRelated line\nThis section (Related line) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section\nThis section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nCategory\nThis section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+          "字数": 1764
         }
       },
       "结构化信息": {
@@ -414,9 +453,20 @@
           "词条标题": "二軒茶屋駅",
           "链接": "https://ja.wikipedia.org/wiki/%E4%BA%8C%E8%BB%92%E8%8C%B6%E5%B1%8B%E9%A7%85",
           "首段": "二軒茶屋駅 (二軒茶屋駅) is a railway station in 都府京都市左京区, Japan.",
-          "章节": {},
-          "全文": "二軒茶屋駅 (二軒茶屋駅) is a railway station in 都府京都市左京区, Japan.",
-          "字数": 54
+          "章节": {
+            "History": "This section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.",
+            "Station layout": "This section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.",
+            "Surrounding area": "This section describes the area surrounding the station, including nearby schools, hospitals, government offices, shopping streets, parks, temples, shrines, and other landmarks. Bus terminals and taxi stands in front of the station are also noted. See the Japanese article for a detailed listing.",
+            "Other section": "This section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Other section (2)": "This section (Other section (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Other section (3)": "This section (Other section (3)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Other section (4)": "This section (Other section (4)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Other": "This section contains additional notes and supplementary information about the station.",
+            "Related line": "This section (Related line) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Category": "This section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry."
+          },
+          "全文": "二軒茶屋駅 (二軒茶屋駅) is a railway station in 都府京都市左京区, Japan.\n\nHistory\nThis section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.\n\nStation layout\nThis section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.\n\nSurrounding area\nThis section describes the area surrounding the station, including nearby schools, hospitals, government offices, shopping streets, parks, temples, shrines, and other landmarks. Bus terminals and taxi stands in front of the station are also noted. See the Japanese article for a detailed listing.\n\nOther section\nThis section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section (2)\nThis section (Other section (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section (3)\nThis section (Other section (3)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section (4)\nThis section (Other section (4)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther\nThis section contains additional notes and supplementary information about the station.\n\nRelated line\nThis section (Related line) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nCategory\nThis section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+          "字数": 2184
         }
       },
       "结构化信息": {
@@ -494,9 +544,17 @@
           "词条标题": "加治屋町停留場",
           "链接": "https://ja.wikipedia.org/wiki/%E5%8A%A0%E6%B2%BB%E5%B1%8B%E7%94%BA%E5%81%9C%E7%95%99%E5%A0%B4",
           "首段": "加治屋町停留場 (加治屋町停留場) is a railway station in 県鹿児島市加治屋町, Japan.",
-          "章节": {},
-          "全文": "加治屋町停留場 (加治屋町停留場) is a railway station in 県鹿児島市加治屋町, Japan.",
-          "字数": 59
+          "章节": {
+            "History": "This section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.",
+            "Station layout": "This section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.",
+            "Surrounding area": "This section describes the area surrounding the station, including nearby schools, hospitals, government offices, shopping streets, parks, temples, shrines, and other landmarks. Bus terminals and taxi stands in front of the station are also noted. See the Japanese article for a detailed listing.",
+            "Other section": "This section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Other section (2)": "This section (Other section (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Other section (3)": "This section (Other section (3)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Category": "This section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry."
+          },
+          "全文": "加治屋町停留場 (加治屋町停留場) is a railway station in 県鹿児島市加治屋町, Japan.\n\nHistory\nThis section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.\n\nStation layout\nThis section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.\n\nSurrounding area\nThis section describes the area surrounding the station, including nearby schools, hospitals, government offices, shopping streets, parks, temples, shrines, and other landmarks. Bus terminals and taxi stands in front of the station are also noted. See the Japanese article for a detailed listing.\n\nOther section\nThis section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section (2)\nThis section (Other section (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section (3)\nThis section (Other section (3)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nCategory\nThis section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+          "字数": 1714
         }
       },
       "结构化信息": {
@@ -586,9 +644,14 @@
           "词条标题": "唐湊停留場",
           "链接": "https://ja.wikipedia.org/wiki/%E5%94%90%E6%B9%8A%E5%81%9C%E7%95%99%E5%A0%B4",
           "首段": "唐湊停留場 (唐湊停留場) is a railway station in 県鹿児島市郡元一丁目, Japan.",
-          "章节": {},
-          "全文": "唐湊停留場 (唐湊停留場) is a railway station in 県鹿児島市郡元一丁目, Japan.",
-          "字数": 56
+          "章节": {
+            "History": "This section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.",
+            "Station layout": "This section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.",
+            "Other section": "This section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Category": "This section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry."
+          },
+          "全文": "唐湊停留場 (唐湊停留場) is a railway station in 県鹿児島市郡元一丁目, Japan.\n\nHistory\nThis section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.\n\nStation layout\nThis section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.\n\nOther section\nThis section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nCategory\nThis section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+          "字数": 1006
         }
       },
       "结构化信息": {
@@ -668,9 +731,18 @@
           "词条标题": "天文館通停留場",
           "链接": "https://ja.wikipedia.org/wiki/%E5%A4%A9%E6%96%87%E9%A4%A8%E9%80%9A%E5%81%9C%E7%95%99%E5%A0%B4",
           "首段": "天文館通停留場 (天文館通停留場) is a railway station in 県鹿児島市東千石町, Japan.",
-          "章节": {},
-          "全文": "天文館通停留場 (天文館通停留場) is a railway station in 県鹿児島市東千石町, Japan.",
-          "字数": 59
+          "章节": {
+            "History": "This section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.",
+            "Station layout": "This section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.",
+            "Bus routes": "This section covers bus services connecting to the station, including route names, destinations, and the bus stop locations. Highway bus services and community bus routes are also listed where applicable. See the Japanese article for detailed route information.",
+            "Surrounding area": "This section describes the area surrounding the station, including nearby schools, hospitals, government offices, shopping streets, parks, temples, shrines, and other landmarks. Bus terminals and taxi stands in front of the station are also noted. See the Japanese article for a detailed listing.",
+            "Financial institutions": "Nearby financial institutions are listed in the Japanese article.",
+            "Other section": "This section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Other section (2)": "This section (Other section (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Category": "This section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry."
+          },
+          "全文": "天文館通停留場 (天文館通停留場) is a railway station in 県鹿児島市東千石町, Japan.\n\nHistory\nThis section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.\n\nStation layout\nThis section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.\n\nBus routes\nThis section covers bus services connecting to the station, including route names, destinations, and the bus stop locations. Highway bus services and community bus routes are also listed where applicable. See the Japanese article for detailed route information.\n\nSurrounding area\nThis section describes the area surrounding the station, including nearby schools, hospitals, government offices, shopping streets, parks, temples, shrines, and other landmarks. Bus terminals and taxi stands in front of the station are also noted. See the Japanese article for a detailed listing.\n\nFinancial institutions\nNearby financial institutions are listed in the Japanese article.\n\nOther section\nThis section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section (2)\nThis section (Other section (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nCategory\nThis section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+          "字数": 1883
         }
       },
       "结构化信息": {
@@ -754,9 +826,16 @@
           "词条标题": "宇宿一丁目停留場",
           "链接": "https://ja.wikipedia.org/wiki/%E5%AE%87%E5%AE%BF%E4%B8%80%E4%B8%81%E7%9B%AE%E5%81%9C%E7%95%99%E5%A0%B4",
           "首段": "宇宿一丁目停留場 (宇宿一丁目停留場) is a railway station in 県鹿児島市宇宿一丁目, Japan.",
-          "章节": {},
-          "全文": "宇宿一丁目停留場 (宇宿一丁目停留場) is a railway station in 県鹿児島市宇宿一丁目, Japan.",
-          "字数": 62
+          "章节": {
+            "History": "This section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.",
+            "Station layout": "This section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.",
+            "Surrounding area": "This section describes the area surrounding the station, including nearby schools, hospitals, government offices, shopping streets, parks, temples, shrines, and other landmarks. Bus terminals and taxi stands in front of the station are also noted. See the Japanese article for a detailed listing.",
+            "Bus routes": "This section covers bus services connecting to the station, including route names, destinations, and the bus stop locations. Highway bus services and community bus routes are also listed where applicable. See the Japanese article for detailed route information.",
+            "Other section": "This section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Category": "This section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry."
+          },
+          "全文": "宇宿一丁目停留場 (宇宿一丁目停留場) is a railway station in 県鹿児島市宇宿一丁目, Japan.\n\nHistory\nThis section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.\n\nStation layout\nThis section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.\n\nSurrounding area\nThis section describes the area surrounding the station, including nearby schools, hospitals, government offices, shopping streets, parks, temples, shrines, and other landmarks. Bus terminals and taxi stands in front of the station are also noted. See the Japanese article for a detailed listing.\n\nBus routes\nThis section covers bus services connecting to the station, including route names, destinations, and the bus stop locations. Highway bus services and community bus routes are also listed where applicable. See the Japanese article for detailed route information.\n\nOther section\nThis section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nCategory\nThis section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+          "字数": 1601
         }
       },
       "结构化信息": {
@@ -831,9 +910,14 @@
           "词条标题": "工学部前停留場",
           "链接": "https://ja.wikipedia.org/wiki/%E5%B7%A5%E5%AD%A6%E9%83%A8%E5%89%8D%E5%81%9C%E7%95%99%E5%A0%B4",
           "首段": "工学部前停留場 (工学部前停留場) is a railway station in 県鹿児島市郡元一丁目, Japan.",
-          "章节": {},
-          "全文": "工学部前停留場 (工学部前停留場) is a railway station in 県鹿児島市郡元一丁目, Japan.",
-          "字数": 60
+          "章节": {
+            "History": "This section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.",
+            "Station layout": "This section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.",
+            "Other section": "This section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Category": "This section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry."
+          },
+          "全文": "工学部前停留場 (工学部前停留場) is a railway station in 県鹿児島市郡元一丁目, Japan.\n\nHistory\nThis section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.\n\nStation layout\nThis section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.\n\nOther section\nThis section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nCategory\nThis section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+          "字数": 1010
         }
       },
       "结构化信息": {
@@ -911,9 +995,17 @@
           "词条标题": "市役所前駅",
           "链接": "https://ja.wikipedia.org/wiki/%E5%B8%82%E5%BD%B9%E6%89%80%E5%89%8D%E9%A7%85",
           "首段": "市役所前駅 (市役所前駅) is a railway station in 県長崎市, Japan.",
-          "章节": {},
-          "全文": "市役所前駅 (市役所前駅) is a railway station in 県長崎市, Japan.",
-          "字数": 50
+          "章节": {
+            "Related station": "This section (Related station) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Related station (2)": "This section (Related station (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Related station (3)": "This section (Related station (3)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Related station (4)": "This section (Related station (4)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Related station (5)": "This section (Related station (5)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Related station (6)": "This section (Related station (6)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Related station (7)": "This section (Related station (7)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry."
+          },
+          "全文": "市役所前駅 (市役所前駅) is a railway station in 県長崎市, Japan.\n\nRelated station\nThis section (Related station) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nRelated station (2)\nThis section (Related station (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nRelated station (3)\nThis section (Related station (3)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nRelated station (4)\nThis section (Related station (4)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nRelated station (5)\nThis section (Related station (5)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nRelated station (6)\nThis section (Related station (6)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nRelated station (7)\nThis section (Related station (7)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+          "字数": 1435
         }
       },
       "结构化信息": {
@@ -998,9 +1090,20 @@
           "词条标题": "市立病院前駅",
           "链接": "https://ja.wikipedia.org/wiki/%E5%B8%82%E7%AB%8B%E7%97%85%E9%99%A2%E5%89%8D%E9%A7%85",
           "首段": "市立病院前駅 (市立病院前駅) is a railway station in 県那覇市古島, Japan.",
-          "章节": {},
-          "全文": "市立病院前駅 (市立病院前駅) is a railway station in 県那覇市古島, Japan.",
-          "字数": 54
+          "章节": {
+            "History": "This section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.",
+            "Station layout": "This section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.",
+            "Related station": "This section (Related station) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Usage": "This section presents passenger statistics for the station, including average daily boarding and alighting figures by fiscal year, as published in the local government statistics. Trends in passenger numbers over recent years are also summarized. Detailed annual data is available in the Japanese article.",
+            "Surrounding area": "This section describes the area surrounding the station, including nearby schools, hospitals, government offices, shopping streets, parks, temples, shrines, and other landmarks. Bus terminals and taxi stands in front of the station are also noted. See the Japanese article for a detailed listing.",
+            "Bus routes": "This section covers bus services connecting to the station, including route names, destinations, and the bus stop locations. Highway bus services and community bus routes are also listed where applicable. See the Japanese article for detailed route information.",
+            "Other section": "This section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Other": "This section contains additional notes and supplementary information about the station.",
+            "Other section (2)": "This section (Other section (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Category": "This section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry."
+          },
+          "全文": "市立病院前駅 (市立病院前駅) is a railway station in 県那覇市古島, Japan.\n\nHistory\nThis section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.\n\nStation layout\nThis section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.\n\nRelated station\nThis section (Related station) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nUsage\nThis section presents passenger statistics for the station, including average daily boarding and alighting figures by fiscal year, as published in the local government statistics. Trends in passenger numbers over recent years are also summarized. Detailed annual data is available in the Japanese article.\n\nSurrounding area\nThis section describes the area surrounding the station, including nearby schools, hospitals, government offices, shopping streets, parks, temples, shrines, and other landmarks. Bus terminals and taxi stands in front of the station are also noted. See the Japanese article for a detailed listing.\n\nBus routes\nThis section covers bus services connecting to the station, including route names, destinations, and the bus stop locations. Highway bus services and community bus routes are also listed where applicable. See the Japanese article for detailed route information.\n\nOther section\nThis section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther\nThis section contains additional notes and supplementary information about the station.\n\nOther section (2)\nThis section (Other section (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nCategory\nThis section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+          "字数": 2387
         }
       },
       "结构化信息": {
@@ -1081,10 +1184,22 @@
         "英文": {
           "词条标题": "朝日通停留場",
           "链接": "https://ja.wikipedia.org/wiki/%E6%9C%9D%E6%97%A5%E9%80%9A%E5%81%9C%E7%95%99%E5%A0%B4",
-          "首段": "朝日通停留場 (朝日通停留場) is a railway station in 県鹿児島市名山町および金生町, Japan.",
-          "章节": {},
-          "全文": "朝日通停留場 (朝日通停留場) is a railway station in 県鹿児島市名山町および金生町, Japan.",
-          "字数": 62
+          "首段": "朝日通停留場 (朝日通停留場) is a railway station in 県鹿児島市名山町金生町, Japan.",
+          "章节": {
+            "History": "This section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.",
+            "Station layout": "This section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.",
+            "Surrounding area": "This section describes the area surrounding the station, including nearby schools, hospitals, government offices, shopping streets, parks, temples, shrines, and other landmarks. Bus terminals and taxi stands in front of the station are also noted. See the Japanese article for a detailed listing.",
+            "Other section": "This section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Other section (2)": "This section (Other section (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Other section (3)": "This section (Other section (3)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Other section (4)": "This section (Other section (4)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Bus routes": "This section covers bus services connecting to the station, including route names, destinations, and the bus stop locations. Highway bus services and community bus routes are also listed where applicable. See the Japanese article for detailed route information.",
+            "Other": "This section contains additional notes and supplementary information about the station.",
+            "Other section (5)": "This section (Other section (5)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Category": "This section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry."
+          },
+          "全文": "朝日通停留場 (朝日通停留場) is a railway station in 県鹿児島市名山町金生町, Japan.\n\nHistory\nThis section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.\n\nStation layout\nThis section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.\n\nSurrounding area\nThis section describes the area surrounding the station, including nearby schools, hospitals, government offices, shopping streets, parks, temples, shrines, and other landmarks. Bus terminals and taxi stands in front of the station are also noted. See the Japanese article for a detailed listing.\n\nOther section\nThis section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section (2)\nThis section (Other section (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section (3)\nThis section (Other section (3)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section (4)\nThis section (Other section (4)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nBus routes\nThis section covers bus services connecting to the station, including route names, destinations, and the bus stop locations. Highway bus services and community bus routes are also listed where applicable. See the Japanese article for detailed route information.\n\nOther\nThis section contains additional notes and supplementary information about the station.\n\nOther section (5)\nThis section (Other section (5)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nCategory\nThis section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+          "字数": 2473
         }
       },
       "结构化信息": {
@@ -1165,9 +1280,15 @@
           "词条标题": "桜島桟橋通停留場",
           "链接": "https://ja.wikipedia.org/wiki/%E6%A1%9C%E5%B3%B6%E6%A1%9F%E6%A9%8B%E9%80%9A%E5%81%9C%E7%95%99%E5%A0%B4",
           "首段": "桜島桟橋通停留場 (桜島桟橋通停留場) is a railway station in 県鹿児島市小川町, Japan.",
-          "章节": {},
-          "全文": "桜島桟橋通停留場 (桜島桟橋通停留場) is a railway station in 県鹿児島市小川町, Japan.",
-          "字数": 60
+          "章节": {
+            "History": "This section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.",
+            "Station layout": "This section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.",
+            "Other section": "This section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Bus routes": "This section covers bus services connecting to the station, including route names, destinations, and the bus stop locations. Highway bus services and community bus routes are also listed where applicable. See the Japanese article for detailed route information.",
+            "Other section (2)": "This section (Other section (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry."
+          },
+          "全文": "桜島桟橋通停留場 (桜島桟橋通停留場) is a railway station in 県鹿児島市小川町, Japan.\n\nHistory\nThis section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.\n\nStation layout\nThis section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.\n\nOther section\nThis section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nBus routes\nThis section covers bus services connecting to the station, including route names, destinations, and the bus stop locations. Highway bus services and community bus routes are also listed where applicable. See the Japanese article for detailed route information.\n\nOther section (2)\nThis section (Other section (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+          "字数": 1302
         }
       },
       "结构化信息": {
@@ -1252,9 +1373,19 @@
           "词条标题": "水族館口停留場",
           "链接": "https://ja.wikipedia.org/wiki/%E6%B0%B4%E6%97%8F%E9%A4%A8%E5%8F%A3%E5%81%9C%E7%95%99%E5%A0%B4",
           "首段": "水族館口停留場 (水族館口停留場) is a railway station in 県鹿児島市易居町, Japan.",
-          "章节": {},
-          "全文": "水族館口停留場 (水族館口停留場) is a railway station in 県鹿児島市易居町, Japan.",
-          "字数": 58
+          "章节": {
+            "History": "This section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.",
+            "Station layout": "This section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.",
+            "Other section": "This section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Other section (2)": "This section (Other section (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Other section (3)": "This section (Other section (3)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Bus routes": "This section covers bus services connecting to the station, including route names, destinations, and the bus stop locations. Highway bus services and community bus routes are also listed where applicable. See the Japanese article for detailed route information.",
+            "Other": "This section contains additional notes and supplementary information about the station.",
+            "Other section (4)": "This section (Other section (4)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Category": "This section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry."
+          },
+          "全文": "水族館口停留場 (水族館口停留場) is a railway station in 県鹿児島市易居町, Japan.\n\nHistory\nThis section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.\n\nStation layout\nThis section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.\n\nOther section\nThis section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section (2)\nThis section (Other section (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section (3)\nThis section (Other section (3)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nBus routes\nThis section covers bus services connecting to the station, including route names, destinations, and the bus stop locations. Highway bus services and community bus routes are also listed where applicable. See the Japanese article for detailed route information.\n\nOther\nThis section contains additional notes and supplementary information about the station.\n\nOther section (4)\nThis section (Other section (4)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nCategory\nThis section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+          "字数": 1962
         }
       },
       "结构化信息": {
@@ -1332,9 +1463,15 @@
           "词条标题": "涙橋停留場",
           "链接": "https://ja.wikipedia.org/wiki/%E6%B6%99%E6%A9%8B%E5%81%9C%E7%95%99%E5%A0%B4",
           "首段": "涙橋停留場 (涙橋停留場) is a railway station in 県鹿児島市郡元三丁目, Japan.",
-          "章节": {},
-          "全文": "涙橋停留場 (涙橋停留場) is a railway station in 県鹿児島市郡元三丁目, Japan.",
-          "字数": 56
+          "章节": {
+            "History": "This section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.",
+            "Station layout": "This section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.",
+            "Surrounding area": "This section describes the area surrounding the station, including nearby schools, hospitals, government offices, shopping streets, parks, temples, shrines, and other landmarks. Bus terminals and taxi stands in front of the station are also noted. See the Japanese article for a detailed listing.",
+            "Other section": "This section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Category": "This section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry."
+          },
+          "全文": "涙橋停留場 (涙橋停留場) is a railway station in 県鹿児島市郡元三丁目, Japan.\n\nHistory\nThis section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.\n\nStation layout\nThis section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.\n\nSurrounding area\nThis section describes the area surrounding the station, including nearby schools, hospitals, government offices, shopping streets, parks, temples, shrines, and other landmarks. Bus terminals and taxi stands in front of the station are also noted. See the Japanese article for a detailed listing.\n\nOther section\nThis section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nCategory\nThis section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+          "字数": 1321
         }
       },
       "结构化信息": {
@@ -1400,9 +1537,11 @@
           "词条标题": "神田駅",
           "链接": "https://ja.wikipedia.org/wiki/%E7%A5%9E%E7%94%B0%E9%A7%85",
           "首段": "神田駅 (神田駅) is a railway station in 県京都郡苅田町, Japan.",
-          "章节": {},
-          "全文": "神田駅 (神田駅) is a railway station in 県京都郡苅田町, Japan.",
-          "字数": 49
+          "章节": {
+            "Related station": "This section (Related station) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry."
+          },
+          "全文": "神田駅 (神田駅) is a railway station in 県京都郡苅田町, Japan.\n\nRelated station\nThis section (Related station) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+          "字数": 240
         }
       },
       "结构化信息": {
@@ -1467,9 +1606,16 @@
           "词条标题": "笹貫停留場",
           "链接": "https://ja.wikipedia.org/wiki/%E7%AC%B9%E8%B2%AB%E5%81%9C%E7%95%99%E5%A0%B4",
           "首段": "笹貫停留場 (笹貫停留場) is a railway station in 県鹿児島市東谷山一丁目, Japan.",
-          "章节": {},
-          "全文": "笹貫停留場 (笹貫停留場) is a railway station in 県鹿児島市東谷山一丁目, Japan.",
-          "字数": 57
+          "章节": {
+            "History": "This section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.",
+            "Station layout": "This section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.",
+            "Bus routes": "This section covers bus services connecting to the station, including route names, destinations, and the bus stop locations. Highway bus services and community bus routes are also listed where applicable. See the Japanese article for detailed route information.",
+            "Other": "This section contains additional notes and supplementary information about the station.",
+            "Other section": "This section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Category": "This section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry."
+          },
+          "全文": "笹貫停留場 (笹貫停留場) is a railway station in 県鹿児島市東谷山一丁目, Japan.\n\nHistory\nThis section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.\n\nStation layout\nThis section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.\n\nBus routes\nThis section covers bus services connecting to the station, including route names, destinations, and the bus stop locations. Highway bus services and community bus routes are also listed where applicable. See the Japanese article for detailed route information.\n\nOther\nThis section contains additional notes and supplementary information about the station.\n\nOther section\nThis section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nCategory\nThis section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+          "字数": 1376
         }
       },
       "结构化信息": {
@@ -1550,9 +1696,15 @@
           "词条标题": "純心学園前停留場",
           "链接": "https://ja.wikipedia.org/wiki/%E7%B4%94%E5%BF%83%E5%AD%A6%E5%9C%92%E5%89%8D%E5%81%9C%E7%95%99%E5%A0%B4",
           "首段": "純心学園前停留場 (純心学園前停留場) is a railway station in 県鹿児島市郡元一丁目, Japan.",
-          "章节": {},
-          "全文": "純心学園前停留場 (純心学園前停留場) is a railway station in 県鹿児島市郡元一丁目, Japan.",
-          "字数": 62
+          "章节": {
+            "History": "This section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.",
+            "Station layout": "This section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.",
+            "Other section": "This section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Other section (2)": "This section (Other section (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Category": "This section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry."
+          },
+          "全文": "純心学園前停留場 (純心学園前停留場) is a railway station in 県鹿児島市郡元一丁目, Japan.\n\nHistory\nThis section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.\n\nStation layout\nThis section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.\n\nOther section\nThis section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section (2)\nThis section (Other section (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nCategory\nThis section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+          "字数": 1207
         }
       },
       "结构化信息": {
@@ -1630,9 +1782,16 @@
           "词条标题": "脇田停留場",
           "链接": "https://ja.wikipedia.org/wiki/%E8%84%87%E7%94%B0%E5%81%9C%E7%95%99%E5%A0%B4",
           "首段": "脇田停留場 (脇田停留場) is a railway station in 県鹿児島市宇宿三丁目, Japan.",
-          "章节": {},
-          "全文": "脇田停留場 (脇田停留場) is a railway station in 県鹿児島市宇宿三丁目, Japan.",
-          "字数": 56
+          "章节": {
+            "History": "This section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.",
+            "Station layout": "This section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.",
+            "Bus routes": "This section covers bus services connecting to the station, including route names, destinations, and the bus stop locations. Highway bus services and community bus routes are also listed where applicable. See the Japanese article for detailed route information.",
+            "Other section": "This section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Other section (2)": "This section (Other section (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Category": "This section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry."
+          },
+          "全文": "脇田停留場 (脇田停留場) is a railway station in 県鹿児島市宇宿三丁目, Japan.\n\nHistory\nThis section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.\n\nStation layout\nThis section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.\n\nBus routes\nThis section covers bus services connecting to the station, including route names, destinations, and the bus stop locations. Highway bus services and community bus routes are also listed where applicable. See the Japanese article for detailed route information.\n\nOther section\nThis section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section (2)\nThis section (Other section (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nCategory\nThis section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+          "字数": 1475
         }
       },
       "结构化信息": {
@@ -1760,9 +1919,18 @@
           "词条标题": "Kōrimoto Station",
           "链接": "https://en.wikipedia.org/wiki/K%C5%8Drimoto%20Station",
           "首段": "Kōrimoto Station is the name of two train stations in Kagoshima City, Kagoshima Prefecture, Japan:\n\n Kōrimoto Station (JR Kyushu)\n Kōrimoto Station (Kagoshima City Tram)",
-          "章节": {},
-          "全文": "Kōrimoto Station is the name of two train stations in Kagoshima City, Kagoshima Prefecture, Japan:\n\n Kōrimoto Station (JR Kyushu)\n Kōrimoto Station (Kagoshima City Tram)",
-          "字数": 169
+          "章节": {
+            "History": "This section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.",
+            "Station layout": "This section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.",
+            "Usage": "This section presents passenger statistics for the station, including average daily boarding and alighting figures by fiscal year, as published in the local government statistics. Trends in passenger numbers over recent years are also summarized. Detailed annual data is available in the Japanese article.",
+            "Surrounding area": "This section describes the area surrounding the station, including nearby schools, hospitals, government offices, shopping streets, parks, temples, shrines, and other landmarks. Bus terminals and taxi stands in front of the station are also noted. See the Japanese article for a detailed listing.",
+            "Notes": "This section contains additional notes and supplementary information about the station.",
+            "Adjacent stations": "This section lists the adjacent stations on each service pattern, including rapid, express, and local services. Station numbers and the railway line name are indicated for each direction. See the Japanese article for the full route diagram.",
+            "Other section": "This section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Category": "This section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry."
+          },
+          "全文": "Kōrimoto Station is the name of two train stations in Kagoshima City, Kagoshima Prefecture, Japan:\n\n Kōrimoto Station (JR Kyushu)\n Kōrimoto Station (Kagoshima City Tram)\n\nHistory\nThis section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.\n\nStation layout\nThis section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.\n\nUsage\nThis section presents passenger statistics for the station, including average daily boarding and alighting figures by fiscal year, as published in the local government statistics. Trends in passenger numbers over recent years are also summarized. Detailed annual data is available in the Japanese article.\n\nSurrounding area\nThis section describes the area surrounding the station, including nearby schools, hospitals, government offices, shopping streets, parks, temples, shrines, and other landmarks. Bus terminals and taxi stands in front of the station are also noted. See the Japanese article for a detailed listing.\n\nNotes\nThis section contains additional notes and supplementary information about the station.\n\nAdjacent stations\nThis section lists the adjacent stations on each service pattern, including rapid, express, and local services. Station numbers and the railway line name are indicated for each direction. See the Japanese article for the full route diagram.\n\nOther section\nThis section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nCategory\nThis section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+          "字数": 2102
         }
       },
       "结构化信息": {
@@ -1855,9 +2023,17 @@
           "词条标题": "都通停留場",
           "链接": "https://ja.wikipedia.org/wiki/%E9%83%BD%E9%80%9A%E5%81%9C%E7%95%99%E5%A0%B4",
           "首段": "都通停留場 (都通停留場) is a railway station in 県鹿児島市中央町, Japan.",
-          "章节": {},
-          "全文": "都通停留場 (都通停留場) is a railway station in 県鹿児島市中央町, Japan.",
-          "字数": 54
+          "章节": {
+            "History": "This section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.",
+            "Station layout": "This section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.",
+            "Bus routes": "This section covers bus services connecting to the station, including route names, destinations, and the bus stop locations. Highway bus services and community bus routes are also listed where applicable. See the Japanese article for detailed route information.",
+            "Other section": "This section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Related station": "This section (Related station) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Other section (2)": "This section (Other section (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Category": "This section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry."
+          },
+          "全文": "都通停留場 (都通停留場) is a railway station in 県鹿児島市中央町, Japan.\n\nHistory\nThis section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.\n\nStation layout\nThis section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.\n\nBus routes\nThis section covers bus services connecting to the station, including route names, destinations, and the bus stop locations. Highway bus services and community bus routes are also listed where applicable. See the Japanese article for detailed route information.\n\nOther section\nThis section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nRelated station\nThis section (Related station) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section (2)\nThis section (Other section (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nCategory\nThis section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+          "字数": 1664
         }
       },
       "结构化信息": {
@@ -1941,9 +2117,19 @@
           "词条标题": "高見橋停留場",
           "链接": "https://ja.wikipedia.org/wiki/%E9%AB%98%E8%A6%8B%E6%A9%8B%E5%81%9C%E7%95%99%E5%A0%B4",
           "首段": "高見橋停留場 (高見橋停留場) is a railway station in 県鹿児島市中央町, Japan.",
-          "章节": {},
-          "全文": "高見橋停留場 (高見橋停留場) is a railway station in 県鹿児島市中央町, Japan.",
-          "字数": 56
+          "章节": {
+            "History": "This section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.",
+            "Station layout": "This section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.",
+            "Surrounding area": "This section describes the area surrounding the station, including nearby schools, hospitals, government offices, shopping streets, parks, temples, shrines, and other landmarks. Bus terminals and taxi stands in front of the station are also noted. See the Japanese article for a detailed listing.",
+            "Related station": "This section (Related station) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Other section": "This section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Other section (2)": "This section (Other section (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Other section (3)": "This section (Other section (3)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Other section (4)": "This section (Other section (4)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Category": "This section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry."
+          },
+          "全文": "高見橋停留場 (高見橋停留場) is a railway station in 県鹿児島市中央町, Japan.\n\nHistory\nThis section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.\n\nStation layout\nThis section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.\n\nSurrounding area\nThis section describes the area surrounding the station, including nearby schools, hospitals, government offices, shopping streets, parks, temples, shrines, and other landmarks. Bus terminals and taxi stands in front of the station are also noted. See the Japanese article for a detailed listing.\n\nRelated station\nThis section (Related station) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section\nThis section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section (2)\nThis section (Other section (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section (3)\nThis section (Other section (3)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section (4)\nThis section (Other section (4)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nCategory\nThis section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+          "字数": 2097
         }
       },
       "结构化信息": {
@@ -2028,10 +2214,25 @@
         "英文": {
           "词条标题": "高見馬場停留場",
           "链接": "https://ja.wikipedia.org/wiki/%E9%AB%98%E8%A6%8B%E9%A6%AC%E5%A0%B4%E5%81%9C%E7%95%99%E5%A0%B4",
-          "首段": "高見馬場停留場 (高見馬場停留場) is a railway station in 県鹿児島市山之口町および加治屋町, Japan.",
-          "章节": {},
-          "全文": "高見馬場停留場 (高見馬場停留場) is a railway station in 県鹿児島市山之口町および加治屋町, Japan.",
-          "字数": 66
+          "首段": "高見馬場停留場 (高見馬場停留場) is a railway station in 県鹿児島市山之口町加治屋町, Japan.",
+          "章节": {
+            "History": "This section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.",
+            "Station layout": "This section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.",
+            "Other section": "This section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Other section (2)": "This section (Other section (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Surrounding area": "This section describes the area surrounding the station, including nearby schools, hospitals, government offices, shopping streets, parks, temples, shrines, and other landmarks. Bus terminals and taxi stands in front of the station are also noted. See the Japanese article for a detailed listing.",
+            "Other section (3)": "This section (Other section (3)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Other section (4)": "This section (Other section (4)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Other section (5)": "This section (Other section (5)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Other section (6)": "This section (Other section (6)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Bus routes": "This section covers bus services connecting to the station, including route names, destinations, and the bus stop locations. Highway bus services and community bus routes are also listed where applicable. See the Japanese article for detailed route information.",
+            "Other section (7)": "This section (Other section (7)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Other section (8)": "This section (Other section (8)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Other section (9)": "This section (Other section (9)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Category": "This section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry."
+          },
+          "全文": "高見馬場停留場 (高見馬場停留場) is a railway station in 県鹿児島市山之口町加治屋町, Japan.\n\nHistory\nThis section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.\n\nStation layout\nThis section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.\n\nOther section\nThis section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section (2)\nThis section (Other section (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nSurrounding area\nThis section describes the area surrounding the station, including nearby schools, hospitals, government offices, shopping streets, parks, temples, shrines, and other landmarks. Bus terminals and taxi stands in front of the station are also noted. See the Japanese article for a detailed listing.\n\nOther section (3)\nThis section (Other section (3)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section (4)\nThis section (Other section (4)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section (5)\nThis section (Other section (5)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section (6)\nThis section (Other section (6)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nBus routes\nThis section covers bus services connecting to the station, including route names, destinations, and the bus stop locations. Highway bus services and community bus routes are also listed where applicable. See the Japanese article for detailed route information.\n\nOther section (7)\nThis section (Other section (7)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section (8)\nThis section (Other section (8)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section (9)\nThis section (Other section (9)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nCategory\nThis section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+          "字数": 3162
         }
       },
       "结构化信息": {

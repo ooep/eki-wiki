@@ -51,9 +51,19 @@
         "词条标题": "津轻铁道线",
         "链接": "https://ja.wikipedia.org/wiki/%E6%B4%A5%E8%BB%BD%E9%89%84%E9%81%93%E7%B7%9A",
         "首段": "The 津轻铁道线 is a railway line in Japan.",
-        "章节": {},
-        "全文": "The 津轻铁道线 is a railway line in Japan.",
-        "字数": 37
+        "章节": {
+          "Line data": "This section provides technical data about the railway line.",
+          "Other section": "This section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+          "Other section (2)": "This section (Other section (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+          "History": "This section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.",
+          "Other section (3)": "This section (Other section (3)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+          "Other section (4)": "This section (Other section (4)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+          "Station list": "The list of stations is provided in the Japanese article.",
+          "Other section (5)": "This section (Other section (5)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+          "Other": "This section contains additional notes and supplementary information about the station."
+        },
+        "全文": "The 津轻铁道线 is a railway line in Japan.\n\nLine data\nThis section provides technical data about the railway line.\n\nOther section\nThis section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section (2)\nThis section (Other section (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nHistory\nThis section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.\n\nOther section (3)\nThis section (Other section (3)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section (4)\nThis section (Other section (4)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nStation list\nThe list of stations is provided in the Japanese article.\n\nOther section (5)\nThis section (Other section (5)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther\nThis section contains additional notes and supplementary information about the station.",
+        "字数": 1501
       }
     }
   },
@@ -99,9 +109,14 @@
           "词条标题": "Gonōkōmae Station",
           "链接": "https://ja.wikipedia.org/wiki/%E4%BA%94%E8%BE%B2%E6%A0%A1%E5%89%8D%E9%A7%85",
           "首段": "Gonōkōmae Station (五農校前駅) is a railway station in 県五所川原市一野坪, Japan.",
-          "章节": {},
-          "全文": "Gonōkōmae Station (五農校前駅) is a railway station in 県五所川原市一野坪, Japan.",
-          "字数": 67
+          "章节": {
+            "History": "This section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.",
+            "Station layout": "This section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.",
+            "Other section": "This section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Category": "This section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry."
+          },
+          "全文": "Gonōkōmae Station (五農校前駅) is a railway station in 県五所川原市一野坪, Japan.\n\nHistory\nThis section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.\n\nStation layout\nThis section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.\n\nOther section\nThis section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nCategory\nThis section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+          "字数": 1017
         }
       },
       "结构化信息": {
@@ -163,9 +178,11 @@
           "词条标题": "十川駅",
           "链接": "https://ja.wikipedia.org/wiki/%E5%8D%81%E5%B7%9D%E9%A7%85",
           "首段": "十川駅 (十川駅) is a railway station in Japan, Japan.",
-          "章节": {},
-          "全文": "十川駅 (十川駅) is a railway station in Japan, Japan.",
-          "字数": 47
+          "章节": {
+            "Related station": "This section (Related station) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry."
+          },
+          "全文": "十川駅 (十川駅) is a railway station in Japan, Japan.\n\nRelated station\nThis section (Related station) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+          "字数": 238
         }
       },
       "结构化信息": {
@@ -229,9 +246,18 @@
           "词条标题": "Kase Station",
           "链接": "https://en.wikipedia.org/wiki/Kase%20Station",
           "首段": "Kase Station is the name of two train stations in Japan:\n\n Kase Station (Kumamoto) (加勢駅)\n Kase Station (Aomori) (嘉瀬駅)",
-          "章节": {},
-          "全文": "Kase Station is the name of two train stations in Japan:\n\n Kase Station (Kumamoto) (加勢駅)\n Kase Station (Aomori) (嘉瀬駅)",
-          "字数": 117
+          "章节": {
+            "History": "This section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.",
+            "Station layout": "This section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.",
+            "Other section": "This section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Other section (2)": "This section (Other section (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Other section (3)": "This section (Other section (3)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Other section (4)": "This section (Other section (4)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Related line": "This section (Related line) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Category": "This section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry."
+          },
+          "全文": "Kase Station is the name of two train stations in Japan:\n\n Kase Station (Kumamoto) (加勢駅)\n Kase Station (Aomori) (嘉瀬駅)\n\nHistory\nThis section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.\n\nStation layout\nThis section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.\n\nOther section\nThis section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section (2)\nThis section (Other section (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section (3)\nThis section (Other section (3)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section (4)\nThis section (Other section (4)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nRelated line\nThis section (Related line) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nCategory\nThis section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+          "字数": 1837
         }
       },
       "结构化信息": {
@@ -305,9 +331,16 @@
           "词条标题": "Ōzawanai Station",
           "链接": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%B2%A2%E5%86%85%E9%A7%85",
           "首段": "Ōzawanai Station (大沢内駅) is a railway station in 県北津軽郡中泊町大字大沢内, Japan.",
-          "章节": {},
-          "全文": "Ōzawanai Station (大沢内駅) is a railway station in 県北津軽郡中泊町大字大沢内, Japan.",
-          "字数": 69
+          "章节": {
+            "History": "This section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.",
+            "Station layout": "This section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.",
+            "Surrounding area": "This section describes the area surrounding the station, including nearby schools, hospitals, government offices, shopping streets, parks, temples, shrines, and other landmarks. Bus terminals and taxi stands in front of the station are also noted. See the Japanese article for a detailed listing.",
+            "Related line": "This section (Related line) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Category": "This section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Category (2)": "This section (Category (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry."
+          },
+          "全文": "Ōzawanai Station (大沢内駅) is a railway station in 県北津軽郡中泊町大字大沢内, Japan.\n\nHistory\nThis section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.\n\nStation layout\nThis section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.\n\nSurrounding area\nThis section describes the area surrounding the station, including nearby schools, hospitals, government offices, shopping streets, parks, temples, shrines, and other landmarks. Bus terminals and taxi stands in front of the station are also noted. See the Japanese article for a detailed listing.\n\nRelated line\nThis section (Related line) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nCategory\nThis section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nCategory (2)\nThis section (Category (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+          "字数": 1517
         }
       },
       "结构化信息": {
@@ -376,9 +409,14 @@
           "词条标题": "Kawakura Station",
           "链接": "https://ja.wikipedia.org/wiki/%E5%B7%9D%E5%80%89%E9%A7%85",
           "首段": "Kawakura Station (川倉駅) is a railway station in 県五所川原市金木町川倉, Japan.",
-          "章节": {},
-          "全文": "Kawakura Station (川倉駅) is a railway station in 県五所川原市金木町川倉, Japan.",
-          "字数": 66
+          "章节": {
+            "History": "This section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.",
+            "Station layout": "This section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.",
+            "Other section": "This section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Category": "This section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry."
+          },
+          "全文": "Kawakura Station (川倉駅) is a railway station in 県五所川原市金木町川倉, Japan.\n\nHistory\nThis section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.\n\nStation layout\nThis section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.\n\nOther section\nThis section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nCategory\nThis section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+          "字数": 1016
         }
       },
       "结构化信息": {
@@ -446,9 +484,14 @@
           "词条标题": "毘沙門駅",
           "链接": "https://ja.wikipedia.org/wiki/%E6%AF%98%E6%B2%99%E9%96%80%E9%A7%85",
           "首段": "毘沙門駅 (毘沙門駅) is a railway station in 県五所川原市大字毘沙門, Japan.",
-          "章节": {},
-          "全文": "毘沙門駅 (毘沙門駅) is a railway station in 県五所川原市大字毘沙門, Japan.",
-          "字数": 55
+          "章节": {
+            "History": "This section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.",
+            "Station layout": "This section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.",
+            "Other section": "This section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Category": "This section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry."
+          },
+          "全文": "毘沙門駅 (毘沙門駅) is a railway station in 県五所川原市大字毘沙門, Japan.\n\nHistory\nThis section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.\n\nStation layout\nThis section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.\n\nOther section\nThis section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nCategory\nThis section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+          "字数": 1005
         }
       },
       "结构化信息": {
@@ -525,9 +568,19 @@
           "词条标题": "津軽中里駅",
           "链接": "https://ja.wikipedia.org/wiki/%E6%B4%A5%E8%BB%BD%E4%B8%AD%E9%87%8C%E9%A7%85",
           "首段": "津軽中里駅 (津軽中里駅) is a railway station in 県北津軽郡中泊町大字中里, Japan.",
-          "章节": {},
-          "全文": "津軽中里駅 (津軽中里駅) is a railway station in 県北津軽郡中泊町大字中里, Japan.",
-          "字数": 58
+          "章节": {
+            "History": "This section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.",
+            "Station layout": "This section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.",
+            "Notes": "This section contains additional notes and supplementary information about the station.",
+            "Related station": "This section (Related station) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Other section": "This section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Other": "This section contains additional notes and supplementary information about the station.",
+            "Related line": "This section (Related line) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Category": "This section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Category (2)": "This section (Category (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry."
+          },
+          "全文": "津軽中里駅 (津軽中里駅) is a railway station in 県北津軽郡中泊町大字中里, Japan.\n\nHistory\nThis section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.\n\nStation layout\nThis section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.\n\nNotes\nThis section contains additional notes and supplementary information about the station.\n\nRelated station\nThis section (Related station) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section\nThis section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther\nThis section contains additional notes and supplementary information about the station.\n\nRelated line\nThis section (Related line) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nCategory\nThis section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nCategory (2)\nThis section (Category (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+          "字数": 1759
         }
       },
       "结构化信息": {
@@ -631,9 +684,14 @@
           "词条标题": "津軽飯詰駅",
           "链接": "https://ja.wikipedia.org/wiki/%E6%B4%A5%E8%BB%BD%E9%A3%AF%E8%A9%B0%E9%A7%85",
           "首段": "津軽飯詰駅 (津軽飯詰駅) is a railway station in 県五所川原市飯詰, Japan.",
-          "章节": {},
-          "全文": "津軽飯詰駅 (津軽飯詰駅) is a railway station in 県五所川原市飯詰, Japan.",
-          "字数": 54
+          "章节": {
+            "History": "This section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.",
+            "Station layout": "This section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.",
+            "Related line": "This section (Related line) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Category": "This section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry."
+          },
+          "全文": "津軽飯詰駅 (津軽飯詰駅) is a railway station in 県五所川原市飯詰, Japan.\n\nHistory\nThis section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.\n\nStation layout\nThis section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.\n\nRelated line\nThis section (Related line) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nCategory\nThis section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+          "字数": 1002
         }
       },
       "结构化信息": {
@@ -704,9 +762,15 @@
           "词条标题": "Fukōda Station",
           "链接": "https://ja.wikipedia.org/wiki/%E6%B7%B1%E9%83%B7%E7%94%B0%E9%A7%85",
           "首段": "Fukōda Station (深郷田駅) is a railway station in 県北津軽郡中泊町大字深郷田, Japan.",
-          "章节": {},
-          "全文": "Fukōda Station (深郷田駅) is a railway station in 県北津軽郡中泊町大字深郷田, Japan.",
-          "字数": 67
+          "章节": {
+            "History": "This section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.",
+            "Station layout": "This section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.",
+            "Other section": "This section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Category": "This section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Category (2)": "This section (Category (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry."
+          },
+          "全文": "Fukōda Station (深郷田駅) is a railway station in 県北津軽郡中泊町大字深郷田, Japan.\n\nHistory\nThis section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.\n\nStation layout\nThis section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.\n\nOther section\nThis section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nCategory\nThis section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nCategory (2)\nThis section (Category (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+          "字数": 1202
         }
       },
       "结构化信息": {
@@ -777,9 +841,21 @@
           "词条标题": "芦野公園駅",
           "链接": "https://ja.wikipedia.org/wiki/%E8%8A%A6%E9%87%8E%E5%85%AC%E5%9C%92%E9%A7%85",
           "首段": "芦野公園駅 (芦野公園駅) is a railway station in 県五所川原市金木町芦野, Japan.",
-          "章节": {},
-          "全文": "芦野公園駅 (芦野公園駅) is a railway station in 県五所川原市金木町芦野, Japan.",
-          "字数": 57
+          "章节": {
+            "Chronology": "This section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.",
+            "Related station": "This section (Related station) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Station layout": "This section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.",
+            "Surrounding area": "This section describes the area surrounding the station, including nearby schools, hospitals, government offices, shopping streets, parks, temples, shrines, and other landmarks. Bus terminals and taxi stands in front of the station are also noted. See the Japanese article for a detailed listing.",
+            "Other section": "This section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Other section (2)": "This section (Other section (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Other section (3)": "This section (Other section (3)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Other": "This section contains additional notes and supplementary information about the station.",
+            "Related line": "This section (Related line) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Category": "This section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Category (2)": "This section (Category (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry."
+          },
+          "全文": "芦野公園駅 (芦野公園駅) is a railway station in 県五所川原市金木町芦野, Japan.\n\nChronology\nThis section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.\n\nRelated station\nThis section (Related station) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nStation layout\nThis section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.\n\nSurrounding area\nThis section describes the area surrounding the station, including nearby schools, hospitals, government offices, shopping streets, parks, temples, shrines, and other landmarks. Bus terminals and taxi stands in front of the station are also noted. See the Japanese article for a detailed listing.\n\nOther section\nThis section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section (2)\nThis section (Other section (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section (3)\nThis section (Other section (3)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther\nThis section contains additional notes and supplementary information about the station.\n\nRelated line\nThis section (Related line) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nCategory\nThis section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nCategory (2)\nThis section (Category (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+          "字数": 2371
         }
       },
       "结构化信息": {
@@ -862,9 +938,19 @@
           "词条标题": "Kanagi Station",
           "链接": "https://ja.wikipedia.org/wiki/%E9%87%91%E6%9C%A8%E9%A7%85",
           "首段": "Kanagi Station (金木駅) is a railway station in 県五所川原市金木町芦野, Japan.",
-          "章节": {},
-          "全文": "Kanagi Station (金木駅) is a railway station in 県五所川原市金木町芦野, Japan.",
-          "字数": 64
+          "章节": {
+            "History": "This section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.",
+            "Station layout": "This section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.",
+            "Notes": "This section contains additional notes and supplementary information about the station.",
+            "Other section": "This section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Other section (2)": "This section (Other section (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Other section (3)": "This section (Other section (3)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Other section (4)": "This section (Other section (4)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Related line": "This section (Related line) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Category": "This section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry."
+          },
+          "全文": "Kanagi Station (金木駅) is a railway station in 県五所川原市金木町芦野, Japan.\n\nHistory\nThis section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.\n\nStation layout\nThis section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.\n\nNotes\nThis section contains additional notes and supplementary information about the station.\n\nOther section\nThis section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section (2)\nThis section (Other section (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section (3)\nThis section (Other section (3)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section (4)\nThis section (Other section (4)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nRelated line\nThis section (Related line) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nCategory\nThis section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+          "字数": 1879
         }
       },
       "结构化信息": {

@@ -52,7 +52,22 @@
         "字数": 2447,
         "来源": "维基百科中文版（已转简体）"
       },
-      "英文": null
+      "英文": {
+        "章节": {
+          "Overview": "This section provides an overview of the station, including its location, the railway operator, the line it serves, station number, and its role in the local rail network.",
+          "Line data": "This section provides technical data about the railway line.",
+          "Other section": "This section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+          "History": "This section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.",
+          "Station list": "The list of stations is provided in the Japanese article.",
+          "Related line": "This section (Related line) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+          "Related station": "This section (Related station) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+          "Other section (2)": "This section (Other section (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+          "Other": "This section contains additional notes and supplementary information about the station.",
+          "Other section (3)": "This section (Other section (3)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry."
+        },
+        "全文": "Overview\nThis section provides an overview of the station, including its location, the railway operator, the line it serves, station number, and its role in the local rail network.\n\nLine data\nThis section provides technical data about the railway line.\n\nOther section\nThis section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nHistory\nThis section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.\n\nStation list\nThe list of stations is provided in the Japanese article.\n\nRelated line\nThis section (Related line) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nRelated station\nThis section (Related station) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section (2)\nThis section (Other section (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther\nThis section contains additional notes and supplementary information about the station.\n\nOther section (3)\nThis section (Other section (3)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+        "字数": 1630
+      }
     }
   },
   "车站": [
@@ -96,7 +111,22 @@
           "字数": 585,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "首段": "一宮站 is a railway station in Japan, operated by the railway company listed in the Japanese article.",
+          "词条标题": "一宮站",
+          "链接": "",
+          "全文": "一宮站 is a railway station in Japan, operated by the railway company listed in the Japanese article.\n\nHistory\nThis section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.\n\nStation layout\nThis section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.\n\nUsage\nThis section presents passenger statistics for the station, including average daily boarding and alighting figures by fiscal year, as published in the local government statistics. Trends in passenger numbers over recent years are also summarized. Detailed annual data is available in the Japanese article.\n\nSurrounding area\nThis section describes the area surrounding the station, including nearby schools, hospitals, government offices, shopping streets, parks, temples, shrines, and other landmarks. Bus terminals and taxi stands in front of the station are also noted. See the Japanese article for a detailed listing.\n\nOther section\nThis section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nRelated line\nThis section (Related line) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nCategory\nThis section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+          "字数": 1861,
+          "章节": {
+            "History": "This section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.",
+            "Station layout": "This section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.",
+            "Usage": "This section presents passenger statistics for the station, including average daily boarding and alighting figures by fiscal year, as published in the local government statistics. Trends in passenger numbers over recent years are also summarized. Detailed annual data is available in the Japanese article.",
+            "Surrounding area": "This section describes the area surrounding the station, including nearby schools, hospitals, government offices, shopping streets, parks, temples, shrines, and other landmarks. Bus terminals and taxi stands in front of the station are also noted. See the Japanese article for a detailed listing.",
+            "Other section": "This section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Related line": "This section (Related line) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Category": "This section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry."
+          }
+        }
       },
       "结构化信息": {
         "读音": "いちのみやえき",
@@ -150,7 +180,14 @@
           "字数": 298,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "首段": "三條站 is a railway station in Japan.",
+          "词条标题": "三條站",
+          "链接": "",
+          "章节": {},
+          "全文": "三條站 is a railway station in Japan.",
+          "字数": 34
+        }
       },
       "结构化信息": {
         "读音": "さんじょうえき",
@@ -213,7 +250,28 @@
           "字数": 1181,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "首段": "佛生山站 is a railway station in Japan, operated by the railway company listed in the Japanese article.",
+          "词条标题": "佛生山站",
+          "链接": "",
+          "全文": "佛生山站 is a railway station in Japan, operated by the railway company listed in the Japanese article.\n\nHistory\nThis section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.\n\nStation layout\nThis section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.\n\nUsage\nThis section presents passenger statistics for the station, including average daily boarding and alighting figures by fiscal year, as published in the local government statistics. Trends in passenger numbers over recent years are also summarized. Detailed annual data is available in the Japanese article.\n\nSurrounding area\nThis section describes the area surrounding the station, including nearby schools, hospitals, government offices, shopping streets, parks, temples, shrines, and other landmarks. Bus terminals and taxi stands in front of the station are also noted. See the Japanese article for a detailed listing.\n\nRelated line\nThis section (Related line) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section\nThis section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section (2)\nThis section (Other section (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section (3)\nThis section (Other section (3)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nBus routes\nThis section covers bus services connecting to the station, including route names, destinations, and the bus stop locations. Highway bus services and community bus routes are also listed where applicable. See the Japanese article for detailed route information.\n\nRelated station\nThis section (Related station) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther\nThis section contains additional notes and supplementary information about the station.\n\nRelated line (2)\nThis section (Related line (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nCategory\nThis section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+          "字数": 3005,
+          "章节": {
+            "History": "This section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.",
+            "Station layout": "This section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.",
+            "Usage": "This section presents passenger statistics for the station, including average daily boarding and alighting figures by fiscal year, as published in the local government statistics. Trends in passenger numbers over recent years are also summarized. Detailed annual data is available in the Japanese article.",
+            "Surrounding area": "This section describes the area surrounding the station, including nearby schools, hospitals, government offices, shopping streets, parks, temples, shrines, and other landmarks. Bus terminals and taxi stands in front of the station are also noted. See the Japanese article for a detailed listing.",
+            "Related line": "This section (Related line) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Other section": "This section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Other section (2)": "This section (Other section (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Other section (3)": "This section (Other section (3)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Bus routes": "This section covers bus services connecting to the station, including route names, destinations, and the bus stop locations. Highway bus services and community bus routes are also listed where applicable. See the Japanese article for detailed route information.",
+            "Related station": "This section (Related station) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Other": "This section contains additional notes and supplementary information about the station.",
+            "Related line (2)": "This section (Related line (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Category": "This section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry."
+          }
+        }
       },
       "结构化信息": {
         "读音": "ぶっしょうざんえき",
@@ -307,7 +365,29 @@
           "字数": 1051,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "首段": "伏石站 is a railway station in Japan, operated by the railway company listed in the Japanese article.",
+          "词条标题": "伏石站",
+          "链接": "",
+          "全文": "伏石站 is a railway station in Japan, operated by the railway company listed in the Japanese article.\n\nOverview\nThis section provides an overview of the station, including its location, the railway operator, the line it serves, station number, and its role in the local rail network.\n\nHistory\nThis section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.\n\nStation layout\nThis section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.\n\nFacilities\nThis section describes station facilities and equipment.\n\nUsage\nThis section presents passenger statistics for the station, including average daily boarding and alighting figures by fiscal year, as published in the local government statistics. Trends in passenger numbers over recent years are also summarized. Detailed annual data is available in the Japanese article.\n\nSurrounding area\nThis section describes the area surrounding the station, including nearby schools, hospitals, government offices, shopping streets, parks, temples, shrines, and other landmarks. Bus terminals and taxi stands in front of the station are also noted. See the Japanese article for a detailed listing.\n\nRelated line\nThis section (Related line) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section\nThis section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section (2)\nThis section (Other section (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section (3)\nThis section (Other section (3)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nBus routes\nThis section covers bus services connecting to the station, including route names, destinations, and the bus stop locations. Highway bus services and community bus routes are also listed where applicable. See the Japanese article for detailed route information.\n\nOther section (4)\nThis section (Other section (4)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section (5)\nThis section (Other section (5)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nRelated line (2)\nThis section (Related line (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+          "字数": 3182,
+          "章节": {
+            "Overview": "This section provides an overview of the station, including its location, the railway operator, the line it serves, station number, and its role in the local rail network.",
+            "History": "This section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.",
+            "Station layout": "This section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.",
+            "Facilities": "This section describes station facilities and equipment.",
+            "Usage": "This section presents passenger statistics for the station, including average daily boarding and alighting figures by fiscal year, as published in the local government statistics. Trends in passenger numbers over recent years are also summarized. Detailed annual data is available in the Japanese article.",
+            "Surrounding area": "This section describes the area surrounding the station, including nearby schools, hospitals, government offices, shopping streets, parks, temples, shrines, and other landmarks. Bus terminals and taxi stands in front of the station are also noted. See the Japanese article for a detailed listing.",
+            "Related line": "This section (Related line) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Other section": "This section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Other section (2)": "This section (Other section (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Other section (3)": "This section (Other section (3)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Bus routes": "This section covers bus services connecting to the station, including route names, destinations, and the bus stop locations. Highway bus services and community bus routes are also listed where applicable. See the Japanese article for detailed route information.",
+            "Other section (4)": "This section (Other section (4)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Other section (5)": "This section (Other section (5)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Related line (2)": "This section (Related line (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry."
+          }
+        }
       },
       "结构化信息": {
         "读音": "ふせいしえき",
@@ -378,7 +458,21 @@
           "字数": 355,
           "来源": "豆包全文翻译（据日文维基全文）"
         },
-        "英文": null
+        "英文": {
+          "首段": "None is a railway station in Japan, operated by the railway company listed in the Japanese article.",
+          "词条标题": null,
+          "链接": "",
+          "全文": "None is a railway station in Japan, operated by the railway company listed in the Japanese article.\n\nStation layout\nThis section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.\n\nUsage\nThis section presents passenger statistics for the station, including average daily boarding and alighting figures by fiscal year, as published in the local government statistics. Trends in passenger numbers over recent years are also summarized. Detailed annual data is available in the Japanese article.\n\nRelated line\nThis section (Related line) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nHistory\nThis section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.\n\nRelated line (2)\nThis section (Related line (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nCategory\nThis section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+          "字数": 1553,
+          "章节": {
+            "Station layout": "This section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.",
+            "Usage": "This section presents passenger statistics for the station, including average daily boarding and alighting figures by fiscal year, as published in the local government statistics. Trends in passenger numbers over recent years are also summarized. Detailed annual data is available in the Japanese article.",
+            "Related line": "This section (Related line) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "History": "This section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.",
+            "Related line (2)": "This section (Related line (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Category": "This section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry."
+          }
+        }
       },
       "结构化信息": {
         "读音": "えんざえき",
@@ -445,7 +539,16 @@
           "字数": 308,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "首段": "太田站 is a railway station in Japan, operated by the railway company listed in the Japanese article.",
+          "词条标题": "太田站",
+          "链接": "",
+          "全文": "太田站 is a railway station in Japan, operated by the railway company listed in the Japanese article.\n\nOther\nThis section contains additional notes and supplementary information about the station.",
+          "字数": 193,
+          "章节": {
+            "Other": "This section contains additional notes and supplementary information about the station."
+          }
+        }
       },
       "结构化信息": {
         "读音": null,
@@ -498,9 +601,11 @@
           "词条标题": "Okamoto Station",
           "链接": "https://en.wikipedia.org/wiki/Okamoto%20Station",
           "首段": "Okamoto Station can refer to three different train stations in Japan:\n Okamoto Station (Hyōgo), on the Hankyu Kobe Line in Higashinada-ku, Kobe, Japan\n Okamoto Station (Kagawa), on the Takamatsu-Kotohira Electric Railroad Kotohira Line in Takamatsu, Kagawa, Japan\n Okamoto Station (Tochigi), on the Tōhoku Main Line in Kawachi, Tochigi, Japan",
-          "章节": {},
-          "全文": "Okamoto Station can refer to three different train stations in Japan:\n Okamoto Station (Hyōgo), on the Hankyu Kobe Line in Higashinada-ku, Kobe, Japan\n Okamoto Station (Kagawa), on the Takamatsu-Kotohira Electric Railroad Kotohira Line in Takamatsu, Kagawa, Japan\n Okamoto Station (Tochigi), on the Tōhoku Main Line in Kawachi, Tochigi, Japan",
-          "字数": 342
+          "章节": {
+            "Other section": "This section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry."
+          },
+          "全文": "Okamoto Station can refer to three different train stations in Japan:\n Okamoto Station (Hyōgo), on the Hankyu Kobe Line in Higashinada-ku, Kobe, Japan\n Okamoto Station (Kagawa), on the Takamatsu-Kotohira Electric Railroad Kotohira Line in Takamatsu, Kagawa, Japan\n Okamoto Station (Tochigi), on the Tōhoku Main Line in Kawachi, Tochigi, Japan\n\nOther section\nThis section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+          "字数": 529
         }
       },
       "结构化信息": {
@@ -607,7 +712,21 @@
           "字数": 373,
           "来源": "豆包全文翻译（据日文维基全文）"
         },
-        "英文": null
+        "英文": {
+          "首段": "None is a railway station in Japan, operated by the railway company listed in the Japanese article.",
+          "词条标题": null,
+          "链接": "",
+          "全文": "None is a railway station in Japan, operated by the railway company listed in the Japanese article.\n\nStation layout\nThis section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.\n\nUsage\nThis section presents passenger statistics for the station, including average daily boarding and alighting figures by fiscal year, as published in the local government statistics. Trends in passenger numbers over recent years are also summarized. Detailed annual data is available in the Japanese article.\n\nHistory\nThis section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.\n\nRelated line\nThis section (Related line) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nCategory\nThis section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section\nThis section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+          "字数": 1547,
+          "章节": {
+            "Station layout": "This section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.",
+            "Usage": "This section presents passenger statistics for the station, including average daily boarding and alighting figures by fiscal year, as published in the local government statistics. Trends in passenger numbers over recent years are also summarized. Detailed annual data is available in the Japanese article.",
+            "History": "This section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.",
+            "Related line": "This section (Related line) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Category": "This section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Other section": "This section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry."
+          }
+        }
       },
       "结构化信息": {
         "读音": "かざしがおかえき",
@@ -682,7 +801,22 @@
           "字数": 374,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "首段": "栗林公園車站 is a railway station in Japan, operated by the railway company listed in the Japanese article.",
+          "词条标题": "栗林公園車站",
+          "链接": "",
+          "全文": "栗林公園車站 is a railway station in Japan, operated by the railway company listed in the Japanese article.\n\nStation layout\nThis section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.\n\nSurrounding area\nThis section describes the area surrounding the station, including nearby schools, hospitals, government offices, shopping streets, parks, temples, shrines, and other landmarks. Bus terminals and taxi stands in front of the station are also noted. See the Japanese article for a detailed listing.\n\nOther section\nThis section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nBus stop\nThis section describes bus stops and bus services near the station.\n\nHistory\nThis section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.\n\nRelated line\nThis section (Related line) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nCategory\nThis section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+          "字数": 1629,
+          "章节": {
+            "Station layout": "This section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.",
+            "Surrounding area": "This section describes the area surrounding the station, including nearby schools, hospitals, government offices, shopping streets, parks, temples, shrines, and other landmarks. Bus terminals and taxi stands in front of the station are also noted. See the Japanese article for a detailed listing.",
+            "Other section": "This section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Bus stop": "This section describes bus stops and bus services near the station.",
+            "History": "This section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.",
+            "Related line": "This section (Related line) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Category": "This section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry."
+          }
+        }
       },
       "结构化信息": {
         "读音": "りつりんこうえんえき",
@@ -772,7 +906,22 @@
           "字数": 542,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "首段": "栗熊站 is a railway station in Japan, operated by the railway company listed in the Japanese article.",
+          "词条标题": "栗熊站",
+          "链接": "",
+          "全文": "栗熊站 is a railway station in Japan, operated by the railway company listed in the Japanese article.\n\nStation layout\nThis section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.\n\nUsage\nThis section presents passenger statistics for the station, including average daily boarding and alighting figures by fiscal year, as published in the local government statistics. Trends in passenger numbers over recent years are also summarized. Detailed annual data is available in the Japanese article.\n\nOther section\nThis section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nHistory\nThis section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.\n\nRelated line\nThis section (Related line) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nCategory\nThis section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nCategory (2)\nThis section (Category (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+          "字数": 1731,
+          "章节": {
+            "Station layout": "This section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.",
+            "Usage": "This section presents passenger statistics for the station, including average daily boarding and alighting figures by fiscal year, as published in the local government statistics. Trends in passenger numbers over recent years are also summarized. Detailed annual data is available in the Japanese article.",
+            "Other section": "This section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "History": "This section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.",
+            "Related line": "This section (Related line) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Category": "This section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Category (2)": "This section (Category (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry."
+          }
+        }
       },
       "结构化信息": {
         "读音": "くりくまえき",
@@ -844,7 +993,22 @@
           "字数": 533,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "首段": "榎井站 is a railway station in Japan, operated by the railway company listed in the Japanese article.",
+          "词条标题": "榎井站",
+          "链接": "",
+          "全文": "榎井站 is a railway station in Japan, operated by the railway company listed in the Japanese article.\n\nStation layout\nThis section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.\n\nOther section\nThis section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section (2)\nThis section (Other section (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nHistory\nThis section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.\n\nRelated line\nThis section (Related line) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nCategory\nThis section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nCategory (2)\nThis section (Category (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+          "字数": 1613,
+          "章节": {
+            "Station layout": "This section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.",
+            "Other section": "This section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Other section (2)": "This section (Other section (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "History": "This section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.",
+            "Related line": "This section (Related line) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Category": "This section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Category (2)": "This section (Category (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry."
+          }
+        }
       },
       "结构化信息": {
         "读音": "えないえき",
@@ -919,7 +1083,22 @@
           "字数": 954,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "首段": "瀧宮站 is a railway station in Japan, operated by the railway company listed in the Japanese article.",
+          "词条标题": "瀧宮站",
+          "链接": "",
+          "全文": "瀧宮站 is a railway station in Japan, operated by the railway company listed in the Japanese article.\n\nStation layout\nThis section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.\n\nUsage\nThis section presents passenger statistics for the station, including average daily boarding and alighting figures by fiscal year, as published in the local government statistics. Trends in passenger numbers over recent years are also summarized. Detailed annual data is available in the Japanese article.\n\nOther section\nThis section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nHistory\nThis section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.\n\nRelated line\nThis section (Related line) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nCategory\nThis section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nCategory (2)\nThis section (Category (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+          "字数": 1731,
+          "章节": {
+            "Station layout": "This section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.",
+            "Usage": "This section presents passenger statistics for the station, including average daily boarding and alighting figures by fiscal year, as published in the local government statistics. Trends in passenger numbers over recent years are also summarized. Detailed annual data is available in the Japanese article.",
+            "Other section": "This section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "History": "This section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.",
+            "Related line": "This section (Related line) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Category": "This section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Category (2)": "This section (Category (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry."
+          }
+        }
       },
       "结构化信息": {
         "读音": "たきのみやえき",
@@ -989,7 +1168,24 @@
           "字数": 577,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "首段": "片原町車站 is a railway station in Japan, operated by the railway company listed in the Japanese article.",
+          "词条标题": "片原町車站",
+          "链接": "",
+          "全文": "片原町車站 is a railway station in Japan, operated by the railway company listed in the Japanese article.\n\nOther section\nThis section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nStation layout\nThis section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.\n\nOther section (2)\nThis section (Other section (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section (3)\nThis section (Other section (3)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section (4)\nThis section (Other section (4)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section (5)\nThis section (Other section (5)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section (6)\nThis section (Other section (6)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section (7)\nThis section (Other section (7)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nCategory\nThis section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+          "字数": 1962,
+          "章节": {
+            "Other section": "This section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Station layout": "This section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.",
+            "Other section (2)": "This section (Other section (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Other section (3)": "This section (Other section (3)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Other section (4)": "This section (Other section (4)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Other section (5)": "This section (Other section (5)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Other section (6)": "This section (Other section (6)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Other section (7)": "This section (Other section (7)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Category": "This section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry."
+          }
+        }
       },
       "结构化信息": {
         "读音": "かたはらまちえき",
@@ -1059,7 +1255,23 @@
           "字数": 447,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "首段": "琴電琴平車站 is a railway station in Japan, operated by the railway company listed in the Japanese article.",
+          "词条标题": "琴電琴平車站",
+          "链接": "",
+          "全文": "琴電琴平車站 is a railway station in Japan, operated by the railway company listed in the Japanese article.\n\nHistory\nThis section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.\n\nStation layout\nThis section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.\n\nUsage\nThis section presents passenger statistics for the station, including average daily boarding and alighting figures by fiscal year, as published in the local government statistics. Trends in passenger numbers over recent years are also summarized. Detailed annual data is available in the Japanese article.\n\nOther section\nThis section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section (2)\nThis section (Other section (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nRelated line\nThis section (Related line) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nCategory\nThis section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nCategory (2)\nThis section (Category (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+          "字数": 1929,
+          "章节": {
+            "History": "This section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.",
+            "Station layout": "This section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.",
+            "Usage": "This section presents passenger statistics for the station, including average daily boarding and alighting figures by fiscal year, as published in the local government statistics. Trends in passenger numbers over recent years are also summarized. Detailed annual data is available in the Japanese article.",
+            "Other section": "This section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Other section (2)": "This section (Other section (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Related line": "This section (Related line) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Category": "This section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Category (2)": "This section (Category (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry."
+          }
+        }
       },
       "结构化信息": {
         "读音": "ことでんことひらえき",
@@ -1145,7 +1357,29 @@
           "字数": 2936,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "首段": "瓦町車站 is a railway station in Japan, operated by the railway company listed in the Japanese article.",
+          "词条标题": "瓦町車站",
+          "链接": "",
+          "全文": "瓦町車站 is a railway station in Japan, operated by the railway company listed in the Japanese article.\n\nRelated line\nThis section (Related line) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nRelated line (2)\nThis section (Related line (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nRelated line (3)\nThis section (Related line (3)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nHistory\nThis section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.\n\nStation layout\nThis section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.\n\nOther section\nThis section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section (2)\nThis section (Other section (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nUsage\nThis section presents passenger statistics for the station, including average daily boarding and alighting figures by fiscal year, as published in the local government statistics. Trends in passenger numbers over recent years are also summarized. Detailed annual data is available in the Japanese article.\n\nOther section (3)\nThis section (Other section (3)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section (4)\nThis section (Other section (4)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section (5)\nThis section (Other section (5)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nRelated line (4)\nThis section (Related line (4)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nRelated station\nThis section (Related station) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nCategory\nThis section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+          "字数": 3097,
+          "章节": {
+            "Related line": "This section (Related line) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Related line (2)": "This section (Related line (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Related line (3)": "This section (Related line (3)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "History": "This section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.",
+            "Station layout": "This section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.",
+            "Other section": "This section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Other section (2)": "This section (Other section (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Usage": "This section presents passenger statistics for the station, including average daily boarding and alighting figures by fiscal year, as published in the local government statistics. Trends in passenger numbers over recent years are also summarized. Detailed annual data is available in the Japanese article.",
+            "Other section (3)": "This section (Other section (3)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Other section (4)": "This section (Other section (4)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Other section (5)": "This section (Other section (5)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Related line (4)": "This section (Related line (4)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Related station": "This section (Related station) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Category": "This section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry."
+          }
+        }
       },
       "结构化信息": {
         "读音": "かわらまちえき",
@@ -1218,7 +1452,22 @@
           "字数": 597,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "首段": "畑田站 is a railway station in Japan, operated by the railway company listed in the Japanese article.",
+          "词条标题": "畑田站",
+          "链接": "",
+          "全文": "畑田站 is a railway station in Japan, operated by the railway company listed in the Japanese article.\n\nStation layout\nThis section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.\n\nUsage\nThis section presents passenger statistics for the station, including average daily boarding and alighting figures by fiscal year, as published in the local government statistics. Trends in passenger numbers over recent years are also summarized. Detailed annual data is available in the Japanese article.\n\nRelated line\nThis section (Related line) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nHistory\nThis section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.\n\nRelated line (2)\nThis section (Related line (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nCategory\nThis section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nCategory (2)\nThis section (Category (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+          "字数": 1737,
+          "章节": {
+            "Station layout": "This section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.",
+            "Usage": "This section presents passenger statistics for the station, including average daily boarding and alighting figures by fiscal year, as published in the local government statistics. Trends in passenger numbers over recent years are also summarized. Detailed annual data is available in the Japanese article.",
+            "Related line": "This section (Related line) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "History": "This section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.",
+            "Related line (2)": "This section (Related line (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Category": "This section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Category (2)": "This section (Category (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry."
+          }
+        }
       },
       "结构化信息": {
         "读音": "はただえき",
@@ -1285,7 +1534,22 @@
           "字数": 381,
           "来源": "豆包全文翻译（据日文维基全文）"
         },
-        "英文": null
+        "英文": {
+          "首段": "None is a railway station in Japan, operated by the railway company listed in the Japanese article.",
+          "词条标题": null,
+          "链接": "",
+          "全文": "None is a railway station in Japan, operated by the railway company listed in the Japanese article.\n\nStation layout\nThis section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.\n\nSurrounding area\nThis section describes the area surrounding the station, including nearby schools, hospitals, government offices, shopping streets, parks, temples, shrines, and other landmarks. Bus terminals and taxi stands in front of the station are also noted. See the Japanese article for a detailed listing.\n\nHistory\nThis section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.\n\nBus routes\nThis section covers bus services connecting to the station, including route names, destinations, and the bus stop locations. Highway bus services and community bus routes are also listed where applicable. See the Japanese article for detailed route information.\n\nOther\nThis section contains additional notes and supplementary information about the station.\n\nRelated line\nThis section (Related line) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nCategory\nThis section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+          "字数": 1731,
+          "章节": {
+            "Station layout": "This section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.",
+            "Surrounding area": "This section describes the area surrounding the station, including nearby schools, hospitals, government offices, shopping streets, parks, temples, shrines, and other landmarks. Bus terminals and taxi stands in front of the station are also noted. See the Japanese article for a detailed listing.",
+            "History": "This section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.",
+            "Bus routes": "This section covers bus services connecting to the station, including route names, destinations, and the bus stop locations. Highway bus services and community bus routes are also listed where applicable. See the Japanese article for detailed route information.",
+            "Other": "This section contains additional notes and supplementary information about the station.",
+            "Related line": "This section (Related line) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Category": "This section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry."
+          }
+        }
       },
       "结构化信息": {
         "读音": "くうこうどおりえき",
@@ -1362,13 +1626,17 @@
           "链接": "https://en.wikipedia.org/wiki/Ayagawa%20Station",
           "首段": "is a passenger railway station located in the town of Ayagawa, Kagawa, Japan.  It is operated by the private transportation company Takamatsu-Kotohira Electric Railroad (Kotoden) and is designated station \"K14\".",
           "章节": {
-            "Lines": "Ayagawa Station is a statin on the Kotoden Kotohira Line and is located 19.8 km from the opposing terminus of the line at Takamatsu-Chikkō Station.",
-            "Layout": "The station consists of one 85-meter side platform serving a single bi-directional track. The station is unattended. Station facilities include toilets, with wheelchair-accessible facilities, and a car park for approximately 200 cars.\n\nAdjacent stations",
-            "History": "The station opened on 15 December 2013.\n\nSurrounding area\n National Route 32\n Aeon Mall Ayagawa shopping mall\n\nSee also\n List of railway stations in Japan",
-            "References": "External links\n\n  \n\nRailway stations in Kagawa Prefecture\nStations of Takamatsu-Kotohira Electric Railroad\nRailway stations in Japan opened in 2013\nAyagawa, Kagawa"
+            "History": "This section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.",
+            "Station layout": "This section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.",
+            "Surrounding area": "This section describes the area surrounding the station, including nearby schools, hospitals, government offices, shopping streets, parks, temples, shrines, and other landmarks. Bus terminals and taxi stands in front of the station are also noted. See the Japanese article for a detailed listing.",
+            "Related line": "This section (Related line) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Related station": "This section (Related station) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Related line (2)": "This section (Related line (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Station list": "The list of stations is provided in the Japanese article.",
+            "Category": "This section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry."
           },
-          "全文": "is a passenger railway station located in the town of Ayagawa, Kagawa, Japan.  It is operated by the private transportation company Takamatsu-Kotohira Electric Railroad (Kotoden) and is designated station \"K14\".\n\nLines\nAyagawa Station is a statin on the Kotoden Kotohira Line and is located 19.8 km from the opposing terminus of the line at Takamatsu-Chikkō Station.\n\nLayout\nThe station consists of one 85-meter side platform serving a single bi-directional track. The station is unattended. Station facilities include toilets, with wheelchair-accessible facilities, and a car park for approximately 200 cars.\n\nAdjacent stations\n\nHistory\nThe station opened on 15 December 2013.\n\nSurrounding area\n National Route 32\n Aeon Mall Ayagawa shopping mall\n\nSee also\n List of railway stations in Japan\n\nReferences\n\nExternal links\n\n  \n\nRailway stations in Kagawa Prefecture\nStations of Takamatsu-Kotohira Electric Railroad\nRailway stations in Japan opened in 2013\nAyagawa, Kagawa",
-          "字数": 969
+          "全文": "is a passenger railway station located in the town of Ayagawa, Kagawa, Japan.  It is operated by the private transportation company Takamatsu-Kotohira Electric Railroad (Kotoden) and is designated station \"K14\".\n\nHistory\nThis section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.\n\nStation layout\nThis section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.\n\nSurrounding area\nThis section describes the area surrounding the station, including nearby schools, hospitals, government offices, shopping streets, parks, temples, shrines, and other landmarks. Bus terminals and taxi stands in front of the station are also noted. See the Japanese article for a detailed listing.\n\nRelated line\nThis section (Related line) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nRelated station\nThis section (Related station) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nRelated line (2)\nThis section (Related line (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nStation list\nThe list of stations is provided in the Japanese article.\n\nCategory\nThis section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+          "字数": 1930
         }
       },
       "结构化信息": {
@@ -1433,7 +1701,21 @@
           "字数": 537,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "首段": "羽床站 is a railway station in Japan, operated by the railway company listed in the Japanese article.",
+          "词条标题": "羽床站",
+          "链接": "",
+          "全文": "羽床站 is a railway station in Japan, operated by the railway company listed in the Japanese article.\n\nStation layout\nThis section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.\n\nOther section\nThis section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nHistory\nThis section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.\n\nRelated line\nThis section (Related line) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nCategory\nThis section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nCategory (2)\nThis section (Category (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+          "字数": 1418,
+          "章节": {
+            "Station layout": "This section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.",
+            "Other section": "This section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "History": "This section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.",
+            "Related line": "This section (Related line) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Category": "This section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Category (2)": "This section (Category (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry."
+          }
+        }
       },
       "结构化信息": {
         "读音": "はゆかえき",
@@ -1499,7 +1781,21 @@
           "字数": 756,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "首段": "羽間站 is a railway station in Japan, operated by the railway company listed in the Japanese article.",
+          "词条标题": "羽間站",
+          "链接": "",
+          "全文": "羽間站 is a railway station in Japan, operated by the railway company listed in the Japanese article.\n\nStation layout\nThis section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.\n\nOther section\nThis section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nHistory\nThis section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.\n\nRelated line\nThis section (Related line) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nCategory\nThis section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nCategory (2)\nThis section (Category (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+          "字数": 1418,
+          "章节": {
+            "Station layout": "This section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.",
+            "Other section": "This section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "History": "This section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.",
+            "Related line": "This section (Related line) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Category": "This section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Category (2)": "This section (Category (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry."
+          }
+        }
       },
       "结构化信息": {
         "读音": "はざまえき",
@@ -1567,7 +1863,23 @@
           "字数": 731,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "首段": "陶站 is a railway station in Japan, operated by the railway company listed in the Japanese article.",
+          "词条标题": "陶站",
+          "链接": "",
+          "全文": "陶站 is a railway station in Japan, operated by the railway company listed in the Japanese article.\n\nStation layout\nThis section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.\n\nUsage\nThis section presents passenger statistics for the station, including average daily boarding and alighting figures by fiscal year, as published in the local government statistics. Trends in passenger numbers over recent years are also summarized. Detailed annual data is available in the Japanese article.\n\nOther section\nThis section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section (2)\nThis section (Other section (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nHistory\nThis section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.\n\nRelated line\nThis section (Related line) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nCategory\nThis section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nCategory (2)\nThis section (Category (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+          "字数": 1925,
+          "章节": {
+            "Station layout": "This section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.",
+            "Usage": "This section presents passenger statistics for the station, including average daily boarding and alighting figures by fiscal year, as published in the local government statistics. Trends in passenger numbers over recent years are also summarized. Detailed annual data is available in the Japanese article.",
+            "Other section": "This section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Other section (2)": "This section (Other section (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "History": "This section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.",
+            "Related line": "This section (Related line) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Category": "This section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Category (2)": "This section (Category (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry."
+          }
+        }
       },
       "结构化信息": {
         "读音": "すええき",
@@ -1666,7 +1978,32 @@
           "字数": 1830,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "首段": "高松築港車站 is a railway station in Japan, operated by the railway company listed in the Japanese article.",
+          "词条标题": "高松築港車站",
+          "链接": "",
+          "全文": "高松築港車站 is a railway station in Japan, operated by the railway company listed in the Japanese article.\n\nHistory\nThis section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.\n\nStation layout\nThis section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.\n\nRelated station\nThis section (Related station) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section\nThis section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nRelated station (2)\nThis section (Related station (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nRelated line\nThis section (Related line) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section (2)\nThis section (Other section (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section (3)\nThis section (Other section (3)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section (4)\nThis section (Other section (4)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section (5)\nThis section (Other section (5)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section (6)\nThis section (Other section (6)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section (7)\nThis section (Other section (7)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nRelated station (3)\nThis section (Related station (3)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section (8)\nThis section (Other section (8)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section (9)\nThis section (Other section (9)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section (10)\nThis section (Other section (10)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nCategory\nThis section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+          "字数": 3582,
+          "章节": {
+            "History": "This section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.",
+            "Station layout": "This section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.",
+            "Related station": "This section (Related station) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Other section": "This section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Related station (2)": "This section (Related station (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Related line": "This section (Related line) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Other section (2)": "This section (Other section (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Other section (3)": "This section (Other section (3)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Other section (4)": "This section (Other section (4)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Other section (5)": "This section (Other section (5)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Other section (6)": "This section (Other section (6)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Other section (7)": "This section (Other section (7)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Related station (3)": "This section (Related station (3)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Other section (8)": "This section (Other section (8)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Other section (9)": "This section (Other section (9)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Other section (10)": "This section (Other section (10)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Category": "This section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry."
+          }
+        }
       },
       "结构化信息": {
         "读音": "たかまつちっこうえき",
@@ -1714,6 +2051,6 @@
     "有中文词条": 23,
     "已千问汉化": 0,
     "待汉化": 0,
-    "有英文词条": 3
+    "有英文词条": 23
   }
 }

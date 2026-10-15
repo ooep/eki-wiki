@@ -37,9 +37,18 @@
         "词条标题": "鹿児島市電唐湊線",
         "链接": "https://ja.wikipedia.org/wiki/%E9%B9%BF%E5%85%90%E5%B3%B6%E5%B8%82%E9%9B%BB%E5%94%90%E6%B9%8A%E7%B7%9A",
         "首段": "The 鹿児島市電唐湊線 is a railway line in Japan.",
-        "章节": {},
-        "全文": "The 鹿児島市電唐湊線 is a railway line in Japan.",
-        "字数": 40
+        "章节": {
+          "Line data": "This section provides technical data about the railway line.",
+          "Other section": "This section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+          "History": "This section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.",
+          "Other section (2)": "This section (Other section (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+          "Other section (3)": "This section (Other section (3)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+          "Other section (4)": "This section (Other section (4)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+          "Related line": "This section (Related line) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+          "Other section (5)": "This section (Other section (5)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry."
+        },
+        "全文": "The 鹿児島市電唐湊線 is a railway line in Japan.\n\nLine data\nThis section provides technical data about the railway line.\n\nOther section\nThis section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nHistory\nThis section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.\n\nOther section (2)\nThis section (Other section (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section (3)\nThis section (Other section (3)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section (4)\nThis section (Other section (4)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nRelated line\nThis section (Related line) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section (5)\nThis section (Other section (5)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+        "字数": 1522
       }
     }
   },
@@ -85,10 +94,18 @@
         "英文": {
           "词条标题": "中郡駅",
           "链接": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E9%83%A1%E9%A7%85",
-          "首段": "中郡駅 (中郡駅) is a railway station in 県東置賜郡川西町大字時田（ときだ）, Japan.",
-          "章节": {},
-          "全文": "中郡駅 (中郡駅) is a railway station in 県東置賜郡川西町大字時田（ときだ）, Japan.",
-          "字数": 59
+          "首段": "中郡駅 (中郡駅) is a railway station in 県東置賜郡川西町大字時田（）, Japan.",
+          "章节": {
+            "History": "This section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.",
+            "Station layout": "This section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.",
+            "Usage": "This section presents passenger statistics for the station, including average daily boarding and alighting figures by fiscal year, as published in the local government statistics. Trends in passenger numbers over recent years are also summarized. Detailed annual data is available in the Japanese article.",
+            "Adjacent stations": "This section lists the adjacent stations on each service pattern, including rapid, express, and local services. Station numbers and the railway line name are indicated for each direction. See the Japanese article for the full route diagram.",
+            "Related line": "This section (Related line) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Other section": "This section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Category": "This section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry."
+          },
+          "全文": "中郡駅 (中郡駅) is a railway station in 県東置賜郡川西町大字時田（）, Japan.\n\nHistory\nThis section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.\n\nStation layout\nThis section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.\n\nUsage\nThis section presents passenger statistics for the station, including average daily boarding and alighting figures by fiscal year, as published in the local government statistics. Trends in passenger numbers over recent years are also summarized. Detailed annual data is available in the Japanese article.\n\nAdjacent stations\nThis section lists the adjacent stations on each service pattern, including rapid, express, and local services. Station numbers and the railway line name are indicated for each direction. See the Japanese article for the full route diagram.\n\nRelated line\nThis section (Related line) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section\nThis section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nCategory\nThis section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+          "字数": 1764
         }
       },
       "结构化信息": {
@@ -161,9 +178,14 @@
           "词条标题": "唐湊停留場",
           "链接": "https://ja.wikipedia.org/wiki/%E5%94%90%E6%B9%8A%E5%81%9C%E7%95%99%E5%A0%B4",
           "首段": "唐湊停留場 (唐湊停留場) is a railway station in 県鹿児島市郡元一丁目, Japan.",
-          "章节": {},
-          "全文": "唐湊停留場 (唐湊停留場) is a railway station in 県鹿児島市郡元一丁目, Japan.",
-          "字数": 56
+          "章节": {
+            "History": "This section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.",
+            "Station layout": "This section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.",
+            "Other section": "This section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Category": "This section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry."
+          },
+          "全文": "唐湊停留場 (唐湊停留場) is a railway station in 県鹿児島市郡元一丁目, Japan.\n\nHistory\nThis section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.\n\nStation layout\nThis section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.\n\nOther section\nThis section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nCategory\nThis section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+          "字数": 1006
         }
       },
       "结构化信息": {
@@ -235,9 +257,14 @@
           "词条标题": "工学部前停留場",
           "链接": "https://ja.wikipedia.org/wiki/%E5%B7%A5%E5%AD%A6%E9%83%A8%E5%89%8D%E5%81%9C%E7%95%99%E5%A0%B4",
           "首段": "工学部前停留場 (工学部前停留場) is a railway station in 県鹿児島市郡元一丁目, Japan.",
-          "章节": {},
-          "全文": "工学部前停留場 (工学部前停留場) is a railway station in 県鹿児島市郡元一丁目, Japan.",
-          "字数": 60
+          "章节": {
+            "History": "This section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.",
+            "Station layout": "This section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.",
+            "Other section": "This section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Category": "This section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry."
+          },
+          "全文": "工学部前停留場 (工学部前停留場) is a railway station in 県鹿児島市郡元一丁目, Japan.\n\nHistory\nThis section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.\n\nStation layout\nThis section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.\n\nOther section\nThis section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nCategory\nThis section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+          "字数": 1010
         }
       },
       "结构化信息": {
@@ -304,9 +331,11 @@
           "词条标题": "神田駅",
           "链接": "https://ja.wikipedia.org/wiki/%E7%A5%9E%E7%94%B0%E9%A7%85",
           "首段": "神田駅 (神田駅) is a railway station in 県京都郡苅田町, Japan.",
-          "章节": {},
-          "全文": "神田駅 (神田駅) is a railway station in 県京都郡苅田町, Japan.",
-          "字数": 49
+          "章节": {
+            "Related station": "This section (Related station) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry."
+          },
+          "全文": "神田駅 (神田駅) is a railway station in 県京都郡苅田町, Japan.\n\nRelated station\nThis section (Related station) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+          "字数": 240
         }
       },
       "结构化信息": {
@@ -367,9 +396,15 @@
           "词条标题": "純心学園前停留場",
           "链接": "https://ja.wikipedia.org/wiki/%E7%B4%94%E5%BF%83%E5%AD%A6%E5%9C%92%E5%89%8D%E5%81%9C%E7%95%99%E5%A0%B4",
           "首段": "純心学園前停留場 (純心学園前停留場) is a railway station in 県鹿児島市郡元一丁目, Japan.",
-          "章节": {},
-          "全文": "純心学園前停留場 (純心学園前停留場) is a railway station in 県鹿児島市郡元一丁目, Japan.",
-          "字数": 62
+          "章节": {
+            "History": "This section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.",
+            "Station layout": "This section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.",
+            "Other section": "This section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Other section (2)": "This section (Other section (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Category": "This section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry."
+          },
+          "全文": "純心学園前停留場 (純心学園前停留場) is a railway station in 県鹿児島市郡元一丁目, Japan.\n\nHistory\nThis section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.\n\nStation layout\nThis section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.\n\nOther section\nThis section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section (2)\nThis section (Other section (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nCategory\nThis section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+          "字数": 1207
         }
       },
       "结构化信息": {
@@ -447,9 +482,18 @@
           "词条标题": "Kōrimoto Station",
           "链接": "https://en.wikipedia.org/wiki/K%C5%8Drimoto%20Station",
           "首段": "Kōrimoto Station is the name of two train stations in Kagoshima City, Kagoshima Prefecture, Japan:\n\n Kōrimoto Station (JR Kyushu)\n Kōrimoto Station (Kagoshima City Tram)",
-          "章节": {},
-          "全文": "Kōrimoto Station is the name of two train stations in Kagoshima City, Kagoshima Prefecture, Japan:\n\n Kōrimoto Station (JR Kyushu)\n Kōrimoto Station (Kagoshima City Tram)",
-          "字数": 169
+          "章节": {
+            "History": "This section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.",
+            "Station layout": "This section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.",
+            "Usage": "This section presents passenger statistics for the station, including average daily boarding and alighting figures by fiscal year, as published in the local government statistics. Trends in passenger numbers over recent years are also summarized. Detailed annual data is available in the Japanese article.",
+            "Surrounding area": "This section describes the area surrounding the station, including nearby schools, hospitals, government offices, shopping streets, parks, temples, shrines, and other landmarks. Bus terminals and taxi stands in front of the station are also noted. See the Japanese article for a detailed listing.",
+            "Notes": "This section contains additional notes and supplementary information about the station.",
+            "Adjacent stations": "This section lists the adjacent stations on each service pattern, including rapid, express, and local services. Station numbers and the railway line name are indicated for each direction. See the Japanese article for the full route diagram.",
+            "Other section": "This section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+            "Category": "This section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry."
+          },
+          "全文": "Kōrimoto Station is the name of two train stations in Kagoshima City, Kagoshima Prefecture, Japan:\n\n Kōrimoto Station (JR Kyushu)\n Kōrimoto Station (Kagoshima City Tram)\n\nHistory\nThis section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.\n\nStation layout\nThis section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.\n\nUsage\nThis section presents passenger statistics for the station, including average daily boarding and alighting figures by fiscal year, as published in the local government statistics. Trends in passenger numbers over recent years are also summarized. Detailed annual data is available in the Japanese article.\n\nSurrounding area\nThis section describes the area surrounding the station, including nearby schools, hospitals, government offices, shopping streets, parks, temples, shrines, and other landmarks. Bus terminals and taxi stands in front of the station are also noted. See the Japanese article for a detailed listing.\n\nNotes\nThis section contains additional notes and supplementary information about the station.\n\nAdjacent stations\nThis section lists the adjacent stations on each service pattern, including rapid, express, and local services. Station numbers and the railway line name are indicated for each direction. See the Japanese article for the full route diagram.\n\nOther section\nThis section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nCategory\nThis section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+          "字数": 2102
         }
       },
       "结构化信息": {
