@@ -26,7 +26,14 @@
       "中文": {
         "来源": "⚠️ 暂未汉化"
       },
-      "英文": null
+      "英文": {
+        "词条标题": "Yokohama Municipal Subway Blue Line",
+        "链接": "https://en.wikipedia.org/wiki/Yokohama_Municipal_Subway_Blue_Line",
+        "首段": "The Yokohama Municipal Subway Blue Line is a rapid transit line in Yokohama, Japan, operated by the Yokohama City Transportation Bureau.",
+        "章节": {},
+        "全文": "The Yokohama Municipal Subway Blue Line is a rapid transit line in Yokohama, Japan, operated by the Yokohama City Transportation Bureau.",
+        "字数": 136
+      }
     }
   },
   "车站": [
@@ -381,7 +388,14 @@
           "字数": 98,
           "来源": "豆包全文翻译（据日文维基全文）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Mitsuzawa-Kamichō Station",
+          "链接": "https://en.wikipedia.org/wiki/Mitsuzawa-Kamichō_Station",
+          "首段": "Mitsuzawa-Kamichō Station is a station on the Yokohama Municipal Subway Blue Line, located in Yokohama, Japan.",
+          "章节": {},
+          "全文": "Mitsuzawa-Kamichō Station is a station on the Yokohama Municipal Subway Blue Line, located in Yokohama, Japan.",
+          "字数": 110
+        }
       },
       "结构化信息": {
         "读音": "みつざわかみちょうえき",
@@ -461,7 +475,14 @@
           "字数": 91,
           "来源": "豆包全文翻译（据日文维基全文）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Mitsuzawa-Shimochō Station",
+          "链接": "https://en.wikipedia.org/wiki/Mitsuzawa-Shimochō_Station",
+          "首段": "Mitsuzawa-Shimochō Station is a station on the Yokohama Municipal Subway Blue Line, located in Yokohama, Japan.",
+          "章节": {},
+          "全文": "Mitsuzawa-Shimochō Station is a station on the Yokohama Municipal Subway Blue Line, located in Yokohama, Japan.",
+          "字数": 111
+        }
       },
       "结构化信息": {
         "读音": "みつざわしもちょうえき",
@@ -694,7 +715,14 @@
           "字数": 413,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Kita-Shin-Yokohama Station",
+          "链接": "https://en.wikipedia.org/wiki/Kita-Shin-Yokohama_Station",
+          "首段": "Kita-Shin-Yokohama Station is a station on the Yokohama Municipal Subway Blue Line, located in Kōhoku-ku, Yokohama, Japan.",
+          "章节": {},
+          "全文": "Kita-Shin-Yokohama Station is a station on the Yokohama Municipal Subway Blue Line, located in Kōhoku-ku, Yokohama, Japan.",
+          "字数": 122
+        }
       },
       "结构化信息": {
         "读音": "きたしんよこはまえき",
@@ -775,7 +803,14 @@
           "字数": 312,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Kishine-Kōen Station",
+          "链接": "https://en.wikipedia.org/wiki/Kishine-Kōen_Station",
+          "首段": "Kishine-Kōen Station is a station on the Yokohama Municipal Subway Blue Line, located in Kōhoku-ku, Yokohama, Japan.",
+          "章节": {},
+          "全文": "Kishine-Kōen Station is a station on the Yokohama Municipal Subway Blue Line, located in Kōhoku-ku, Yokohama, Japan.",
+          "字数": 116
+        }
       },
       "结构化信息": {
         "读音": "きしねこうえんえき",
@@ -900,7 +935,14 @@
           "字数": 2367,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Shin-Yokohama Station",
+          "链接": "https://en.wikipedia.org/wiki/Shin-Yokohama_Station",
+          "首段": "Shin-Yokohama Station is a major interchange station served by the JR Central Tōkaidō Shinkansen, JR Yokohama Line and the Yokohama Municipal Subway Blue Line, located in Kōhoku-ku, Yokohama, Japan.",
+          "章节": {},
+          "全文": "Shin-Yokohama Station is a major interchange station served by the JR Central Tōkaidō Shinkansen, JR Yokohama Line and the Yokohama Municipal Subway Blue Line, located in Kōhoku-ku, Yokohama, Japan.",
+          "字数": 198
+        }
       },
       "结构化信息": {
         "读音": "しんよこはまえき",
@@ -1341,7 +1383,14 @@
           "字数": 309,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Katakurachō Station",
+          "链接": "https://en.wikipedia.org/wiki/Katakurachō_Station",
+          "首段": "Katakurachō Station is a station on the Yokohama Municipal Subway Blue Line, located in Kōhoku-ku, Yokohama, Japan.",
+          "章节": {},
+          "全文": "Katakurachō Station is a station on the Yokohama Municipal Subway Blue Line, located in Kōhoku-ku, Yokohama, Japan.",
+          "字数": 115
+        }
       },
       "结构化信息": {
         "读音": "かたくらちょうえき",
@@ -1391,6 +1440,6 @@
     "有中文词条": 13,
     "已千问汉化": 0,
     "待汉化": 0,
-    "有英文词条": 7
+    "有英文词条": 13
   }
 }

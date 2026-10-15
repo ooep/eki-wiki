@@ -301,7 +301,14 @@
           "字数": 2264,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Shin-Sugita Station",
+          "链接": "https://en.wikipedia.org/wiki/Shin-Sugita_Station",
+          "首段": "Shin-Sugita Station is an interchange station on the JR East Negishi Line and the Kanazawa Seaside Line, located in Isogo-ku, Yokohama, Japan.",
+          "章节": {},
+          "全文": "Shin-Sugita Station is an interchange station on the JR East Negishi Line and the Kanazawa Seaside Line, located in Isogo-ku, Yokohama, Japan.",
+          "字数": 142
+        }
       },
       "结构化信息": {
         "读音": "しんすぎたえき",
@@ -752,6 +759,6 @@
     "有中文词条": 6,
     "已千问汉化": 0,
     "待汉化": 0,
-    "有英文词条": 5
+    "有英文词条": 6
   }
 }

@@ -35,7 +35,14 @@
       "中文": {
         "来源": "⚠️ 暂未汉化"
       },
-      "英文": null
+      "英文": {
+        "词条标题": "Kōnan Line",
+        "链接": "https://en.wikipedia.org/wiki/Kōnan_Line",
+        "首段": "The Kōnan Line is a railway line in Aomori Prefecture, Japan, operated by the Kōnan Railway, connecting Hirosaki Station to Kuroishi Station.",
+        "章节": {},
+        "全文": "The Kōnan Line is a railway line in Aomori Prefecture, Japan, operated by the Kōnan Railway, connecting Hirosaki Station to Kuroishi Station.",
+        "字数": 141
+      }
     }
   },
   "车站": [
@@ -415,7 +422,14 @@
           "字数": 670,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Hirosaki-Higashi-Kōgyō-mae Station",
+          "链接": "https://en.wikipedia.org/wiki/Hirosaki-Higashi-Kōgyō-mae_Station",
+          "首段": "Hirosaki-Higashi-Kōgyō-mae Station is a station on the Kōnan Railway Kōnan Line, located in Hirosaki, Aomori Prefecture, Japan.",
+          "章节": {},
+          "全文": "Hirosaki-Higashi-Kōgyō-mae Station is a station on the Kōnan Railway Kōnan Line, located in Hirosaki, Aomori Prefecture, Japan.",
+          "字数": 127
+        }
       },
       "结构化信息": {
         "读音": "ひろさきひがしこうまええき",
@@ -472,7 +486,14 @@
           "字数": 67,
           "来源": "豆包全文翻译（据日文维基全文）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Niisato Station",
+          "链接": "https://en.wikipedia.org/wiki/Niisato_Station",
+          "首段": "Niisato Station is a station on the Kōnan Railway Kōnan Line, located in Hirosaki, Aomori Prefecture, Japan.",
+          "章节": {},
+          "全文": "Niisato Station is a station on the Kōnan Railway Kōnan Line, located in Hirosaki, Aomori Prefecture, Japan.",
+          "字数": 108
+        }
       },
       "结构化信息": {
         "读音": null,
@@ -616,7 +637,14 @@
           "字数": 807,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Tsugaru-Onoe Station",
+          "链接": "https://en.wikipedia.org/wiki/Tsugaru-Onoe_Station",
+          "首段": "Tsugaru-Onoe Station is a station on the Kōnan Railway Kōnan Line, located in Aomori Prefecture, Japan.",
+          "章节": {},
+          "全文": "Tsugaru-Onoe Station is a station on the Kōnan Railway Kōnan Line, located in Aomori Prefecture, Japan.",
+          "字数": 103
+        }
       },
       "结构化信息": {
         "读音": "つがるおのええき",
@@ -687,7 +715,14 @@
           "字数": 253,
           "来源": "豆包全文翻译（据日文维基全文）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Tanbō Station",
+          "链接": "https://en.wikipedia.org/wiki/Tanbō_Station",
+          "首段": "Tanbō Station is a station on the Kōnan Railway Kōnan Line, located in Aomori Prefecture, Japan.",
+          "章节": {},
+          "全文": "Tanbō Station is a station on the Kōnan Railway Kōnan Line, located in Aomori Prefecture, Japan.",
+          "字数": 96
+        }
       },
       "结构化信息": {
         "读音": "たんぼアートえき",
@@ -999,6 +1034,6 @@
     "有中文词条": 13,
     "已千问汉化": 0,
     "待汉化": 0,
-    "有英文词条": 9
+    "有英文词条": 13
   }
 }

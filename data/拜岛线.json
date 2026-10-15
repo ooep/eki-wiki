@@ -44,7 +44,14 @@
       "中文": {
         "来源": "⚠️ 暂未汉化"
       },
-      "英文": null
+      "英文": {
+        "词条标题": "Seibu Haijima Line",
+        "链接": "https://en.wikipedia.org/wiki/Seibu_Haijima_Line",
+        "首段": "The Seibu Haijima Line is a railway line in Tokyo, Japan, operated by Seibu Railway, connecting Kodaira Station to Haijima Station.",
+        "章节": {},
+        "全文": "The Seibu Haijima Line is a railway line in Tokyo, Japan, operated by Seibu Railway, connecting Kodaira Station to Haijima Station.",
+        "字数": 131
+      }
     }
   },
   "车站": [
@@ -505,7 +512,14 @@
           "字数": 385,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Higashi-Yamatoshi Station",
+          "链接": "https://en.wikipedia.org/wiki/Higashi-Yamatoshi_Station",
+          "首段": "Higashi-Yamatoshi Station is a station on the Seibu Haijima Line, located in Higashiyamato, Tokyo, Japan.",
+          "章节": {},
+          "全文": "Higashi-Yamatoshi Station is a station on the Seibu Haijima Line, located in Higashiyamato, Tokyo, Japan.",
+          "字数": 105
+        }
       },
       "结构化信息": {
         "读音": "ひがしやまとしえき",
@@ -581,7 +595,14 @@
           "字数": 645,
           "来源": "豆包全文翻译（据日文维基全文）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Musashi-Yamato Station",
+          "链接": "https://en.wikipedia.org/wiki/Musashi-Yamato_Station",
+          "首段": "Musashi-Yamato Station is a station on the Seibu Haijima Line, located in Tachikawa, Tokyo, Japan.",
+          "章节": {},
+          "全文": "Musashi-Yamato Station is a station on the Seibu Haijima Line, located in Tachikawa, Tokyo, Japan.",
+          "字数": 98
+        }
       },
       "结构化信息": {
         "读音": "むさしやまとえき",
@@ -669,7 +690,14 @@
           "字数": 859,
           "来源": "豆包全文翻译（据日文维基全文）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Musashi-Sunagawa Station",
+          "链接": "https://en.wikipedia.org/wiki/Musashi-Sunagawa_Station",
+          "首段": "Musashi-Sunagawa Station is a station on the Seibu Haijima Line, located in Tachikawa, Tokyo, Japan.",
+          "章节": {},
+          "全文": "Musashi-Sunagawa Station is a station on the Seibu Haijima Line, located in Tachikawa, Tokyo, Japan.",
+          "字数": 100
+        }
       },
       "结构化信息": {
         "读音": "むさしすながわえき",
@@ -761,7 +789,14 @@
           "字数": 1186,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Tamagawa-Jōsui Station",
+          "链接": "https://en.wikipedia.org/wiki/Tamagawa-Jōsui_Station",
+          "首段": "Tamagawa-Jōsui Station is a station on the Seibu Haijima Line and Seibu Kokubunji Line, located in Kodaira, Tokyo, Japan.",
+          "章节": {},
+          "全文": "Tamagawa-Jōsui Station is a station on the Seibu Haijima Line and Seibu Kokubunji Line, located in Kodaira, Tokyo, Japan.",
+          "字数": 121
+        }
       },
       "结构化信息": {
         "读音": "たまがわじょうすいえき",
@@ -949,7 +984,14 @@
           "字数": 491,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Seibu-Tachikawa Station",
+          "链接": "https://en.wikipedia.org/wiki/Seibu-Tachikawa_Station",
+          "首段": "Seibu-Tachikawa Station is a station on the Seibu Haijima Line, located in Tachikawa, Tokyo, Japan.",
+          "章节": {},
+          "全文": "Seibu-Tachikawa Station is a station on the Seibu Haijima Line, located in Tachikawa, Tokyo, Japan.",
+          "字数": 99
+        }
       },
       "结构化信息": {
         "读音": "せいぶたちかわえき",
@@ -991,6 +1033,6 @@
     "有中文词条": 11,
     "已千问汉化": 1,
     "待汉化": 0,
-    "有英文词条": 6
+    "有英文词条": 11
   }
 }

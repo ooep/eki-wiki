@@ -248,7 +248,14 @@
           "字数": 1906,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Kita-Kamakura Station",
+          "链接": "https://en.wikipedia.org/wiki/Kita-Kamakura_Station",
+          "首段": "Kita-Kamakura Station is a station on the JR East Yokosuka Line and Shōnan-Shinjuku Line, located in Kamakura, Kanagawa Prefecture, Japan.",
+          "章节": {},
+          "全文": "Kita-Kamakura Station is a station on the JR East Yokosuka Line and Shōnan-Shinjuku Line, located in Kamakura, Kanagawa Prefecture, Japan.",
+          "字数": 138
+        }
       },
       "结构化信息": {
         "读音": "きたかまくらえき",
@@ -493,7 +500,14 @@
           "字数": 1251,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Higashi-Zushi Station",
+          "链接": "https://en.wikipedia.org/wiki/Higashi-Zushi_Station",
+          "首段": "Higashi-Zushi Station is a station on the JR East Yokosuka Line, located in Zushi, Kanagawa Prefecture, Japan.",
+          "章节": {},
+          "全文": "Higashi-Zushi Station is a station on the JR East Yokosuka Line, located in Zushi, Kanagawa Prefecture, Japan.",
+          "字数": 110
+        }
       },
       "结构化信息": {
         "读音": "ひがしずしえき",
@@ -1051,6 +1065,6 @@
     "有中文词条": 9,
     "已千问汉化": 0,
     "待汉化": 0,
-    "有英文词条": 7
+    "有英文词条": 9
   }
 }
