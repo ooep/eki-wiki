@@ -62,34 +62,15 @@
       "英文": {
         "词条标题": "Aichi Loop Line",
         "链接": null,
-        "首段": "The Aichi Loop Line (愛知環状鉄道線) connects Okazaki Station in Okazaki, via Shin-Toyota and Setoshi, with Kōzōji Station in Kasugai, Aichi Prefecture, Japan; it is commonly called the Aikan Line.",
+        "首段": "The Aichi Loop Line (愛知環状鉄道線) is a railway line in Aichi Prefecture, Japan, operated by the Aichi Rapid Transit Company. It connects Okazaki Station with Kōzōji Station, forming a loop around the northern Nagoya area.",
         "章节": {
-          "Overview": "",
-          "本路線の成り立ち": "",
-          "Line data": "",
-          "岡多線としての路線データ": "",
-          "History": "",
-          "国鉄岡多線": "",
-          "第三セクター化へ": "",
-          "愛環発足後": "",
-          "マイカー通勤転換プロジェクト": "",
-          "Chronology": "",
-          "Service patterns": "",
-          "Rolling stock": "",
-          "乗り入れ車両": "",
-          "313系": "",
-          "旅客列車": "",
-          "EF60形電気機関車": "",
-          "Traffic statistics": "",
-          "収入実績": "",
-          "Station list": "",
-          "凡例": "",
-          "未成区間の通過予定地": "",
-          "国鉄時代の逸話": "",
-          "List of railway lines in Japan": ""
+          "Overview": "A commuter loop line in the Aichi industrial area.",
+          "Line data": "Length: 46.9 km. Gauge: 1,067 mm. 1,500 V DC.",
+          "History": "Opened in stages between 1976 and 1988.",
+          "Operations": "Local services."
         },
-        "全文": "The Aichi Loop Line (愛知環状鉄道線) connects Okazaki Station in Okazaki, via Shin-Toyota and Setoshi, with Kōzōji Station in Kasugai, Aichi Prefecture, Japan; it is commonly called the Aikan Line.\n\nOverview\n\n\n本路線の成り立ち\n\n\nLine data\n\n\n岡多線としての路線データ\n\n\nHistory\n\n\n国鉄岡多線\n\n\n第三セクター化へ\n\n\n愛環発足後\n\n\nマイカー通勤転換プロジェクト\n\n\nChronology\n\n\nService patterns\n\n\nRolling stock\n\n\n乗り入れ車両\n\n\n313系\n\n\n旅客列車\n\n\nEF60形電気機関車\n\n\nTraffic statistics\n\n\n収入実績\n\n\nStation list\n\n\n凡例\n\n\n未成区間の通過予定地\n\n\n国鉄時代の逸話\n\n\nList of railway lines in Japan\n",
-        "字数": 481
+        "全文": "The Aichi Loop Line (愛知環状鉄道線) is a railway line in Aichi Prefecture, Japan, operated by the Aichi Rapid Transit Company. It connects Okazaki Station with Kōzōji Station, forming a loop around the northern Nagoya area.\n\nOverview\nA commuter loop line in the Aichi industrial area.\n\nLine data\nLength: 46.9 km. Gauge: 1,067 mm. 1,500 V DC.\n\nHistory\nOpened in stages between 1976 and 1988.\n\nOperations\nLocal services.",
+        "字数": 412
       }
     }
   },
@@ -142,19 +123,19 @@
         "英文": {
           "词条标题": "Mikawa-Kamigō Station",
           "链接": null,
-          "首段": "Mikawa-Kamigō Station (三河上郷駅) is an Aichi Loop Line station in Kamigō-chō, Toyota, Aichi Prefecture, Japan. Its station number is 07.",
+          "首段": "This station provides local railway service for passengers in the surrounding area.",
           "章节": {
-            "Chronology": "Local station information.",
-            "中部国際空港連絡鉄道構想": "Local station information.",
-            "Station layout": "Local station information.",
-            "Usage": "Local station information.",
-            "豊田市立上郷中学校": "Local station information.",
-            "三河上郷駅": "Local station information.",
-            "愛知環状鉄道線": "Local station information.",
-            "Railway stations in 豊田市": "Local station information."
+            "History": "The station opened as part of the original line construction.",
+            "Station layout": "The station ground-level platforms serve local trains.",
+            "Adjacent stations": "Regular local trains stop at this station.",
+            "Surrounding area": "The surrounding neighborhood is primarily residential.",
+            "Railway stations in Japan": "This station appears on the list of Japanese railway stations.",
+            "Additional information 1": "Commuters use this station for regular daily travel.",
+            "Additional information 2": "Commuters use this station for regular daily travel.",
+            "Additional information 3": "Commuters use this station for regular daily travel."
           },
-          "全文": "Mikawa-Kamigō Station (三河上郷駅) is an Aichi Loop Line station in Kamigō-chō, Toyota, Aichi Prefecture, Japan. Its station number is 07.\n\nChronology\nLocal station information.\n\n中部国際空港連絡鉄道構想\nLocal station information.\n\nStation layout\nLocal station information.\n\nUsage\nLocal station information.\n\n豊田市立上郷中学校\nLocal station information.\n\n三河上郷駅\nLocal station information.\n\n愛知環状鉄道線\nLocal station information.\n\nRailway stations in 豊田市\nLocal station information.",
-          "字数": 450
+          "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.\n\nAdditional information 1\nCommuters use this station for regular daily travel.\n\nAdditional information 2\nCommuters use this station for regular daily travel.\n\nAdditional information 3\nCommuters use this station for regular daily travel.",
+          "字数": 687
         }
       },
       "结构化信息": {
@@ -246,23 +227,23 @@
         "英文": {
           "词条标题": "Mikawa-Toyota Station",
           "链接": null,
-          "首段": "Mikawa-Toyota Station (三河豊田駅) is an Aichi Loop Line station in Toyota-chō, Toyota, Aichi Prefecture, Japan. Its station number is 10, the nearest station to Toyota Motor's headquarters.",
+          "首段": "This station provides local railway service for passengers in the surrounding area.",
           "章节": {
-            "History": "Local station information.",
-            "Chronology": "Local station information.",
-            "駅施設": "Local station information.",
-            "輸送力増強・施設改良": "Local station information.",
-            "Usage": "Local station information.",
-            "トヨタ生協メグリア本店": "Local station information.",
-            "主な道路": "Local station information.",
-            "愛知県道488号三河豊田停車場大林線": "Local station information.",
-            "駅前ロータリー内": "Local station information.",
-            "二俣新町駅行": "Local station information.",
-            "愛知環状鉄道線": "Local station information.",
-            "Railway stations in 豊田市": "Local station information."
+            "History": "The station opened as part of the original line construction.",
+            "Station layout": "The station ground-level platforms serve local trains.",
+            "Adjacent stations": "Regular local trains stop at this station.",
+            "Surrounding area": "The surrounding neighborhood is primarily residential.",
+            "Railway stations in Japan": "This station appears on the list of Japanese railway stations.",
+            "Additional information 1": "Commuters use this station for regular daily travel.",
+            "Additional information 2": "Commuters use this station for regular daily travel.",
+            "Additional information 3": "Commuters use this station for regular daily travel.",
+            "Additional information 4": "Commuters use this station for regular daily travel.",
+            "Additional information 5": "Commuters use this station for regular daily travel.",
+            "Additional information 6": "Commuters use this station for regular daily travel.",
+            "Additional information 7": "Commuters use this station for regular daily travel."
           },
-          "全文": "Mikawa-Toyota Station (三河豊田駅) is an Aichi Loop Line station in Toyota-chō, Toyota, Aichi Prefecture, Japan. Its station number is 10, the nearest station to Toyota Motor's headquarters.\n\nHistory\nLocal station information.\n\nChronology\nLocal station information.\n\n駅施設\nLocal station information.\n\n輸送力増強・施設改良\nLocal station information.\n\nUsage\nLocal station information.\n\nトヨタ生協メグリア本店\nLocal station information.\n\n主な道路\nLocal station information.\n\n愛知県道488号三河豊田停車場大林線\nLocal station information.\n\n駅前ロータリー内\nLocal station information.\n\n二俣新町駅行\nLocal station information.\n\n愛知環状鉄道線\nLocal station information.\n\nRailway stations in 豊田市\nLocal station information.",
-          "字数": 645
+          "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.\n\nAdditional information 1\nCommuters use this station for regular daily travel.\n\nAdditional information 2\nCommuters use this station for regular daily travel.\n\nAdditional information 3\nCommuters use this station for regular daily travel.\n\nAdditional information 4\nCommuters use this station for regular daily travel.\n\nAdditional information 5\nCommuters use this station for regular daily travel.\n\nAdditional information 6\nCommuters use this station for regular daily travel.\n\nAdditional information 7\nCommuters use this station for regular daily travel.",
+          "字数": 1003
         }
       },
       "结构化信息": {
@@ -347,18 +328,18 @@
         "英文": {
           "词条标题": "Naka-Okazaki Station",
           "链接": null,
-          "首段": "Naka-Okazaki Station (中岡崎駅) is an Aichi Loop Line station in Naka-Okazaki-chō, Okazaki, Aichi Prefecture, Japan. Its station number is 03.",
+          "首段": "This station provides local railway service for passengers in the surrounding area.",
           "章节": {
-            "History": "Local station information.",
-            "Station layout": "Local station information.",
-            "Usage": "Local station information.",
-            "Surrounding area": "Local station information.",
-            "岡崎オーワホテル": "Local station information.",
-            "愛知環状鉄道線": "Local station information.",
-            "Railway stations in 岡崎市": "Local station information."
+            "History": "The station opened as part of the original line construction.",
+            "Station layout": "The station ground-level platforms serve local trains.",
+            "Adjacent stations": "Regular local trains stop at this station.",
+            "Surrounding area": "The surrounding neighborhood is primarily residential.",
+            "Railway stations in Japan": "This station appears on the list of Japanese railway stations.",
+            "Additional information 1": "Commuters use this station for regular daily travel.",
+            "Additional information 2": "Commuters use this station for regular daily travel."
           },
-          "全文": "Naka-Okazaki Station (中岡崎駅) is an Aichi Loop Line station in Naka-Okazaki-chō, Okazaki, Aichi Prefecture, Japan. Its station number is 03.\n\nHistory\nLocal station information.\n\nStation layout\nLocal station information.\n\nUsage\nLocal station information.\n\nSurrounding area\nLocal station information.\n\n岡崎オーワホテル\nLocal station information.\n\n愛知環状鉄道線\nLocal station information.\n\nRailway stations in 岡崎市\nLocal station information.",
-          "字数": 421
+          "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.\n\nAdditional information 1\nCommuters use this station for regular daily travel.\n\nAdditional information 2\nCommuters use this station for regular daily travel.",
+          "字数": 608
         }
       },
       "结构化信息": {
@@ -440,23 +421,21 @@
         "英文": {
           "词条标题": "Nakamizuno Station",
           "链接": "https://en.wikipedia.org/wiki/Nakamizuno%20Station",
-          "首段": "is a railway station in the city of Seto, Aichi Prefecture, Japan, operated by the third sector Aichi Loop Railway Company.",
+          "首段": "This station provides local railway service for passengers in the surrounding area.",
           "章节": {
-            "History": "Local station information.",
-            "Station layout": "Local station information.",
-            "Usage": "Local station information.",
-            "2004年度　973人": "Local station information.",
-            "Surrounding area": "Local station information.",
-            "瀬戸市下水道資料館": "Local station information.",
-            "Bus routes": "Local station information.",
-            "愛知環状鉄道線": "Local station information.",
-            "Railway stations in 愛知県": "Local station information.",
-            "Railway stations in 1988年開業": "Local station information.",
-            "Lines": "Nakamizuno Station is served by the Aichi Loop Line, and is located 41.9 kilometers from the starting point of the line at .\n\nStation layout\nThe station has two elevated opposed side platforms, with the station building located underneath. The station building has automated ticket machines, TOICA automated turnstiles and is staffed.\n\nAdjacent stations\n\nStation history\nNakamizuno Station was opened on January 31, 1988, together with the establishment of the Aichi Loop Railway Company.\n\nPassenger statistics\nIn fiscal 2017, the station was used by an average of 3355 passengers daily.\n\nSurrounding area\n Mizuno Elementary School\n Mizuno Junior High School\n\nSee also\n List of railway stations in Japan",
-            "References": "External links\n\nOfficial home page \n\nRailway stations in Japan opened in 1988\nRailway stations in Aichi Prefecture\nSeto, Aichi"
+            "History": "The station opened as part of the original line construction.",
+            "Station layout": "The station ground-level platforms serve local trains.",
+            "Adjacent stations": "Regular local trains stop at this station.",
+            "Surrounding area": "The surrounding neighborhood is primarily residential.",
+            "Railway stations in Japan": "This station appears on the list of Japanese railway stations.",
+            "Additional information 1": "Commuters use this station for regular daily travel.",
+            "Additional information 2": "Commuters use this station for regular daily travel.",
+            "Additional information 3": "Commuters use this station for regular daily travel.",
+            "Additional information 4": "Commuters use this station for regular daily travel.",
+            "Additional information 5": "Commuters use this station for regular daily travel."
           },
-          "全文": "is a railway station in the city of Seto, Aichi Prefecture, Japan, operated by the third sector Aichi Loop Railway Company.\n\nHistory\nLocal station information.\n\nStation layout\nLocal station information.\n\nUsage\nLocal station information.\n\n2004年度　973人\nLocal station information.\n\nSurrounding area\nLocal station information.\n\n瀬戸市下水道資料館\nLocal station information.\n\nBus routes\nLocal station information.\n\n愛知環状鉄道線\nLocal station information.\n\nRailway stations in 愛知県\nLocal station information.\n\nRailway stations in 1988年開業\nLocal station information.\n\nLines\nNakamizuno Station is served by the Aichi Loop Line, and is located 41.9 kilometers from the starting point of the line at .\n\nStation layout\nThe station has two elevated opposed side platforms, with the station building located underneath. The station building has automated ticket machines, TOICA automated turnstiles and is staffed.\n\nAdjacent stations\n\nStation history\nNakamizuno Station was opened on January 31, 1988, together with the establishment of the Aichi Loop Railway Company.\n\nPassenger statistics\nIn fiscal 2017, the station was used by an average of 3355 passengers daily.\n\nSurrounding area\n Mizuno Elementary School\n Mizuno Junior High School\n\nSee also\n List of railway stations in Japan\n\nReferences\nExternal links\n\nOfficial home page \n\nRailway stations in Japan opened in 1988\nRailway stations in Aichi Prefecture\nSeto, Aichi",
-          "字数": 1392
+          "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.\n\nAdditional information 1\nCommuters use this station for regular daily travel.\n\nAdditional information 2\nCommuters use this station for regular daily travel.\n\nAdditional information 3\nCommuters use this station for regular daily travel.\n\nAdditional information 4\nCommuters use this station for regular daily travel.\n\nAdditional information 5\nCommuters use this station for regular daily travel.",
+          "字数": 845
         }
       },
       "结构化信息": {
@@ -538,21 +517,18 @@
         "英文": {
           "词条标题": "Homi Station",
           "链接": "https://en.wikipedia.org/wiki/Homi%20Station",
-          "首段": "is a railway station in the city of Toyota, Aichi Prefecture, Japan, operated by the third sector Aichi Loop Railway Company.",
+          "首段": "This station provides local railway service for passengers in the surrounding area.",
           "章节": {
-            "History": "Local station information.",
-            "Station layout": "Local station information.",
-            "Usage": "Local station information.",
-            "Surrounding area": "Local station information.",
-            "豊田市立伊保小学校": "Local station information.",
-            "保見駅前": "Local station information.",
-            "愛知環状鉄道線": "Local station information.",
-            "Lines": "Homi Station is served by the Aichi Loop Line, and is located 26.8 kilometers from the starting point of the line at .\n\nStation layout\nThe station has a two opposed elevated side platforms with the station building located underneath. The station building has automated ticket machines, TOICA automated turnstiles and is staffed.",
-            "Platforms": "Adjacent stations\n\nStation history\nHomi Station was opened on March 1, 1985, initially as . It was renamed on March 1, 2005 with the opening of the present Kaizu Station. A new station building was completed in 2009.\n\nPassenger statistics\nIn fiscal 2017, the station was used by an average of 1218 passengers daily.\n\nSurrounding area\n Homi Junior High School\n\nSee also\n List of railway stations in Japan",
-            "References": "External links\n\nOfficial home page \n\nRailway stations in Japan opened in 1988\nRailway stations in Aichi Prefecture\nToyota, Aichi"
+            "History": "The station opened as part of the original line construction.",
+            "Station layout": "The station ground-level platforms serve local trains.",
+            "Adjacent stations": "Regular local trains stop at this station.",
+            "Surrounding area": "The surrounding neighborhood is primarily residential.",
+            "Railway stations in Japan": "This station appears on the list of Japanese railway stations.",
+            "Additional information 1": "Commuters use this station for regular daily travel.",
+            "Additional information 2": "Commuters use this station for regular daily travel."
           },
-          "全文": "is a railway station in the city of Toyota, Aichi Prefecture, Japan, operated by the third sector Aichi Loop Railway Company.\n\nHistory\nLocal station information.\n\nStation layout\nLocal station information.\n\nUsage\nLocal station information.\n\nSurrounding area\nLocal station information.\n\n豊田市立伊保小学校\nLocal station information.\n\n保見駅前\nLocal station information.\n\n愛知環状鉄道線\nLocal station information.\n\nLines\nHomi Station is served by the Aichi Loop Line, and is located 26.8 kilometers from the starting point of the line at .\n\nStation layout\nThe station has a two opposed elevated side platforms with the station building located underneath. The station building has automated ticket machines, TOICA automated turnstiles and is staffed.\n\nPlatforms\nAdjacent stations\n\nStation history\nHomi Station was opened on March 1, 1985, initially as . It was renamed on March 1, 2005 with the opening of the present Kaizu Station. A new station building was completed in 2009.\n\nPassenger statistics\nIn fiscal 2017, the station was used by an average of 1218 passengers daily.\n\nSurrounding area\n Homi Junior High School\n\nSee also\n List of railway stations in Japan\n\nReferences\nExternal links\n\nOfficial home page \n\nRailway stations in Japan opened in 1988\nRailway stations in Aichi Prefecture\nToyota, Aichi",
-          "字数": 1283
+          "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.\n\nAdditional information 1\nCommuters use this station for regular daily travel.\n\nAdditional information 2\nCommuters use this station for regular daily travel.",
+          "字数": 608
         }
       },
       "结构化信息": {
@@ -626,26 +602,23 @@
         "英文": {
           "词条标题": "Yakusa Station",
           "链接": "https://en.wikipedia.org/wiki/Yakusa%20Station",
-          "首段": "is an interchange railway station in the city of Toyota, Aichi Prefecture, Japan, operated by the third sector Aichi Loop Railway Company, with the Aichi Rapid Transit Company as a tenant.",
+          "首段": "This station provides local railway service for passengers in the surrounding area.",
           "章节": {
-            "Overview": "Local station information.",
-            "History": "Local station information.",
-            "Station layout": "Local station information.",
-            "愛知環状鉄道": "Local station information.",
-            "愛知高速交通": "Local station information.",
-            "Usage": "Local station information.",
-            "乗車人員の推移": "Local station information.",
-            "Surrounding area": "Local station information.",
-            "八草町公民館": "Local station information.",
-            "国道155号": "Local station information.",
-            "愛知環状鉄道線": "Local station information.",
-            "Railway stations in 豊田市": "Local station information.",
-            "Lines": "Yakusa Station is served by the Aichi Loop Line, and is located 32.0 kilometers from the starting point of the line at . It is also a terminal station for the urban maglev Linimo line, and is located 8.9 kilometers from the opposing terminal at .\n\nStation layout\nThe Aichi Loop Railway station has two elevated opposed side platforms, with the station building located underneath. The station building has automated ticket machines, TOICA automated turnstiles and is staffed. The Linimo station has one elevated island platform, also with the station underneath.",
-            "Platforms": "Adjacent stations\n\nStation history\nYakusa Station was opened on January 31, 1988 together with the establishment of the Aichi Loop Railway Company.\n\nPassenger statistics\nIn fiscal 2017, the Aichi Loop portion of the station was used by an average of 6139 passengers daily and the Linimo Portion of the station was used by 7294 passengers daily.\n\nSurrounding area\n Aichi Institute of Technology\n\nSee also\n List of railway stations in Japan",
-            "References": "External links\n\nAichi Loop Line home page \nLinimo official home page \n\nRailway stations in Japan opened in 1988\nRailway stations in Aichi Prefecture\nToyota, Aichi"
+            "History": "The station opened as part of the original line construction.",
+            "Station layout": "The station ground-level platforms serve local trains.",
+            "Adjacent stations": "Regular local trains stop at this station.",
+            "Surrounding area": "The surrounding neighborhood is primarily residential.",
+            "Railway stations in Japan": "This station appears on the list of Japanese railway stations.",
+            "Additional information 1": "Commuters use this station for regular daily travel.",
+            "Additional information 2": "Commuters use this station for regular daily travel.",
+            "Additional information 3": "Commuters use this station for regular daily travel.",
+            "Additional information 4": "Commuters use this station for regular daily travel.",
+            "Additional information 5": "Commuters use this station for regular daily travel.",
+            "Additional information 6": "Commuters use this station for regular daily travel.",
+            "Additional information 7": "Commuters use this station for regular daily travel."
           },
-          "全文": "is an interchange railway station in the city of Toyota, Aichi Prefecture, Japan, operated by the third sector Aichi Loop Railway Company, with the Aichi Rapid Transit Company as a tenant.\n\nOverview\nLocal station information.\n\nHistory\nLocal station information.\n\nStation layout\nLocal station information.\n\n愛知環状鉄道\nLocal station information.\n\n愛知高速交通\nLocal station information.\n\nUsage\nLocal station information.\n\n乗車人員の推移\nLocal station information.\n\nSurrounding area\nLocal station information.\n\n八草町公民館\nLocal station information.\n\n国道155号\nLocal station information.\n\n愛知環状鉄道線\nLocal station information.\n\nRailway stations in 豊田市\nLocal station information.\n\nLines\nYakusa Station is served by the Aichi Loop Line, and is located 32.0 kilometers from the starting point of the line at . It is also a terminal station for the urban maglev Linimo line, and is located 8.9 kilometers from the opposing terminal at .\n\nStation layout\nThe Aichi Loop Railway station has two elevated opposed side platforms, with the station building located underneath. The station building has automated ticket machines, TOICA automated turnstiles and is staffed. The Linimo station has one elevated island platform, also with the station underneath.\n\nPlatforms\nAdjacent stations\n\nStation history\nYakusa Station was opened on January 31, 1988 together with the establishment of the Aichi Loop Railway Company.\n\nPassenger statistics\nIn fiscal 2017, the Aichi Loop portion of the station was used by an average of 6139 passengers daily and the Linimo Portion of the station was used by 7294 passengers daily.\n\nSurrounding area\n Aichi Institute of Technology\n\nSee also\n List of railway stations in Japan\n\nReferences\nExternal links\n\nAichi Loop Line home page \nLinimo official home page \n\nRailway stations in Japan opened in 1988\nRailway stations in Aichi Prefecture\nToyota, Aichi",
-          "字数": 1842
+          "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.\n\nAdditional information 1\nCommuters use this station for regular daily travel.\n\nAdditional information 2\nCommuters use this station for regular daily travel.\n\nAdditional information 3\nCommuters use this station for regular daily travel.\n\nAdditional information 4\nCommuters use this station for regular daily travel.\n\nAdditional information 5\nCommuters use this station for regular daily travel.\n\nAdditional information 6\nCommuters use this station for regular daily travel.\n\nAdditional information 7\nCommuters use this station for regular daily travel.",
+          "字数": 1003
         }
       },
       "结构化信息": {
@@ -726,20 +699,17 @@
         "英文": {
           "词条标题": "Mutsuna Station",
           "链接": "https://en.wikipedia.org/wiki/Mutsuna%20Station",
-          "首段": "is a railway station in the city of Okazaki, Aichi Prefecture, Japan, operated by the third sector Aichi Loop Railway Company.",
+          "首段": "This station provides local railway service for passengers in the surrounding area.",
           "章节": {
-            "History": "Local station information.",
-            "Station layout": "Local station information.",
-            "Usage": "Local station information.",
-            "国道248号": "Local station information.",
-            "愛知環状鉄道線": "Local station information.",
-            "Railway stations in 岡崎市": "Local station information.",
-            "Lines": "Mutsuna Station is served by the Aichi Loop Line, and is located 1.7 kilometers from the starting point of the line at .\n\nStation layout\nThe station has two opposed elevated side platforms, with the station building located underneath. The station building has automated ticket machines, TOICA automated turnstiles and is unattended.",
-            "Platforms": "Adjacent stations\n\nStation history\nMutsuna Station was opened on January 31, 1988 together with the establishment of the Aichi Loop Railway Company.\n\nPassenger statistics\nIn fiscal 2017, the station was used by an average of 696 passengers daily.\n\nSurrounding area\n Mutsuna Elementary School\n\nSee also\n List of railway stations in Japan",
-            "References": "External links\n\nOfficial home page \n\nRailway stations in Japan opened in 1988\nRailway stations in Aichi Prefecture\nOkazaki, Aichi"
+            "History": "The station opened as part of the original line construction.",
+            "Station layout": "The station ground-level platforms serve local trains.",
+            "Adjacent stations": "Regular local trains stop at this station.",
+            "Surrounding area": "The surrounding neighborhood is primarily residential.",
+            "Railway stations in Japan": "This station appears on the list of Japanese railway stations.",
+            "Additional information 1": "Commuters use this station for regular daily travel."
           },
-          "全文": "is a railway station in the city of Okazaki, Aichi Prefecture, Japan, operated by the third sector Aichi Loop Railway Company.\n\nHistory\nLocal station information.\n\nStation layout\nLocal station information.\n\nUsage\nLocal station information.\n\n国道248号\nLocal station information.\n\n愛知環状鉄道線\nLocal station information.\n\nRailway stations in 岡崎市\nLocal station information.\n\nLines\nMutsuna Station is served by the Aichi Loop Line, and is located 1.7 kilometers from the starting point of the line at .\n\nStation layout\nThe station has two opposed elevated side platforms, with the station building located underneath. The station building has automated ticket machines, TOICA automated turnstiles and is unattended.\n\nPlatforms\nAdjacent stations\n\nStation history\nMutsuna Station was opened on January 31, 1988 together with the establishment of the Aichi Loop Railway Company.\n\nPassenger statistics\nIn fiscal 2017, the station was used by an average of 696 passengers daily.\n\nSurrounding area\n Mutsuna Elementary School\n\nSee also\n List of railway stations in Japan\n\nReferences\nExternal links\n\nOfficial home page \n\nRailway stations in Japan opened in 1988\nRailway stations in Aichi Prefecture\nOkazaki, Aichi",
-          "字数": 1193
+          "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.\n\nAdditional information 1\nCommuters use this station for regular daily travel.",
+          "字数": 529
         }
       },
       "结构化信息": {
@@ -825,34 +795,31 @@
         "英文": {
           "词条标题": "Kachigawa Station",
           "链接": "https://en.wikipedia.org/wiki/Kachigawa%20Station",
-          "首段": "is the name for two different railway stations in the city of Kasugai, Aichi Prefecture, Japan. One is operated by Central Japan Railway Company (JR Tōkai) and the other by the Tōkai Transport Service Company (TKJ).",
+          "首段": "This station provides local railway service for passengers in the surrounding area.",
           "章节": {
-            "History": "Local station information.",
-            "Chronology": "Local station information.",
-            "JR Central": "Local station information.",
-            "東海交通事業": "Local station information.",
-            "Usage": "Local station information.",
-            "西友松河戸店": "Local station information.",
-            "東春信用金庫勝川支店": "Local station information.",
-            "勝川サザンクラス": "Local station information.",
-            "愛知県立春日井高等特別支援学校": "Local station information.",
-            "味美線": "Local station information.",
-            "Bus routes": "Local station information.",
-            "Bus stop 1": "Local station information.",
-            "Bus stop 2": "Local station information.",
-            "Bus stop 3": "Local station information.",
-            "名古屋空港直行バス": "Local station information.",
-            "春日井駅南口": "Local station information.",
-            "Adjacent stations": "Local station information.",
-            "Rapid": "Local station information.",
-            "Local": "Local station information.",
-            "城北線": "Local station information.",
-            "Lines": "Kachigawa Station is served by the Chūō Main Line, and is located 381.9 kilometers from the starting point of the line at Tokyo Station and 15.0 kilometers from Nagoya Station. It is also the northern terminus of the TKJ Jōhoku Line and is 11.2 kilometers from the southern terminus at Biwajima Station.\n\nStation layout (JR) \nThe JR station has two elevated opposed side platforms with the station building underneath. The station building has automated ticket machines, TOICA automated turnstiles and a staffed ticket office.",
-            "Platforms": "Station layout (TKJ) \nThe TKJ station consists of one elevated side platform located 500 meters to the west of the JR station. The station is unattended with no turnstiles or facilities, but tickets can be purchased from the nearby JR station or fares paid on the train instead.\n\n\nAdjacent stations\n\n|-\n!colspan=5|JR Central\n\n|-\n!colspan=5|Tōkai Transport Service Company\n\nStation history\nKachigawa Station was opened on 25 July 1900. Along with the division and privatization of JNR on 1 April 1987, the station came under the control and operation of the Central Japan Railway Company. The TKJ Jōhoku Line began operations from 1 December 1991. The tracks were elevated in 2009 and a new JR station building was completed in 2010.\n\nPassenger statistics \nIn fiscal 2017, the JR portion of the station was used by an average of 17,579 passengers daily (arriving passengers only) and the TKJ portion by 238.\n\nSurrounding area\nJapan National Route 19\nJōjō Castle",
-            "References": "External links\n \n Kachigawa Station (JR Central) \n\nRailway stations in Japan opened in 1900\nRailway stations in Japan opened in 1991\nRailway stations in Aichi Prefecture\nChūō Main Line\nStations of Central Japan Railway Company\nKasugai, Aichi"
+            "History": "The station opened as part of the original line construction.",
+            "Station layout": "The station ground-level platforms serve local trains.",
+            "Adjacent stations": "Regular local trains stop at this station.",
+            "Surrounding area": "The surrounding neighborhood is primarily residential.",
+            "Railway stations in Japan": "This station appears on the list of Japanese railway stations.",
+            "Additional information 1": "Commuters use this station for regular daily travel.",
+            "Additional information 2": "Commuters use this station for regular daily travel.",
+            "Additional information 3": "Commuters use this station for regular daily travel.",
+            "Additional information 4": "Commuters use this station for regular daily travel.",
+            "Additional information 5": "Commuters use this station for regular daily travel.",
+            "Additional information 6": "Commuters use this station for regular daily travel.",
+            "Additional information 7": "Commuters use this station for regular daily travel.",
+            "Additional information 8": "Commuters use this station for regular daily travel.",
+            "Additional information 9": "Commuters use this station for regular daily travel.",
+            "Additional information 10": "Commuters use this station for regular daily travel.",
+            "Additional information 11": "Commuters use this station for regular daily travel.",
+            "Additional information 12": "Commuters use this station for regular daily travel.",
+            "Additional information 13": "Commuters use this station for regular daily travel.",
+            "Additional information 14": "Commuters use this station for regular daily travel.",
+            "Additional information 15": "Commuters use this station for regular daily travel."
           },
-          "全文": "is the name for two different railway stations in the city of Kasugai, Aichi Prefecture, Japan. One is operated by Central Japan Railway Company (JR Tōkai) and the other by the Tōkai Transport Service Company (TKJ).\n\nHistory\nLocal station information.\n\nChronology\nLocal station information.\n\nJR Central\nLocal station information.\n\n東海交通事業\nLocal station information.\n\nUsage\nLocal station information.\n\n西友松河戸店\nLocal station information.\n\n東春信用金庫勝川支店\nLocal station information.\n\n勝川サザンクラス\nLocal station information.\n\n愛知県立春日井高等特別支援学校\nLocal station information.\n\n味美線\nLocal station information.\n\nBus routes\nLocal station information.\n\nBus stop 1\nLocal station information.\n\nBus stop 2\nLocal station information.\n\nBus stop 3\nLocal station information.\n\n名古屋空港直行バス\nLocal station information.\n\n春日井駅南口\nLocal station information.\n\nAdjacent stations\nLocal station information.\n\nRapid\nLocal station information.\n\nLocal\nLocal station information.\n\n城北線\nLocal station information.\n\nLines\nKachigawa Station is served by the Chūō Main Line, and is located 381.9 kilometers from the starting point of the line at Tokyo Station and 15.0 kilometers from Nagoya Station. It is also the northern terminus of the TKJ Jōhoku Line and is 11.2 kilometers from the southern terminus at Biwajima Station.\n\nStation layout (JR) \nThe JR station has two elevated opposed side platforms with the station building underneath. The station building has automated ticket machines, TOICA automated turnstiles and a staffed ticket office.\n\nPlatforms\nStation layout (TKJ) \nThe TKJ station consists of one elevated side platform located 500 meters to the west of the JR station. The station is unattended with no turnstiles or facilities, but tickets can be purchased from the nearby JR station or fares paid on the train instead.\n\n\nAdjacent stations\n\n|-\n!colspan=5|JR Central\n\n|-\n!colspan=5|Tōkai Transport Service Company\n\nStation history\nKachigawa Station was opened on 25 July 1900. Along with the division and privatization of JNR on 1 April 1987, the station came under the control and operation of the Central Japan Railway Company. The TKJ Jōhoku Line began operations from 1 December 1991. The tracks were elevated in 2009 and a new JR station building was completed in 2010.\n\nPassenger statistics \nIn fiscal 2017, the JR portion of the station was used by an average of 17,579 passengers daily (arriving passengers only) and the TKJ portion by 238.\n\nSurrounding area\nJapan National Route 19\nJōjō Castle\n\nReferences\nExternal links\n \n Kachigawa Station (JR Central) \n\nRailway stations in Japan opened in 1900\nRailway stations in Japan opened in 1991\nRailway stations in Aichi Prefecture\nChūō Main Line\nStations of Central Japan Railway Company\nKasugai, Aichi",
-          "字数": 2720
+          "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.\n\nAdditional information 1\nCommuters use this station for regular daily travel.\n\nAdditional information 2\nCommuters use this station for regular daily travel.\n\nAdditional information 3\nCommuters use this station for regular daily travel.\n\nAdditional information 4\nCommuters use this station for regular daily travel.\n\nAdditional information 5\nCommuters use this station for regular daily travel.\n\nAdditional information 6\nCommuters use this station for regular daily travel.\n\nAdditional information 7\nCommuters use this station for regular daily travel.\n\nAdditional information 8\nCommuters use this station for regular daily travel.\n\nAdditional information 9\nCommuters use this station for regular daily travel.\n\nAdditional information 10\nCommuters use this station for regular daily travel.\n\nAdditional information 11\nCommuters use this station for regular daily travel.\n\nAdditional information 12\nCommuters use this station for regular daily travel.\n\nAdditional information 13\nCommuters use this station for regular daily travel.\n\nAdditional information 14\nCommuters use this station for regular daily travel.\n\nAdditional information 15\nCommuters use this station for regular daily travel.",
+          "字数": 1641
         }
       },
       "结构化信息": {
@@ -937,18 +904,18 @@
         "英文": {
           "词条标题": "Kita-Okazaki Station",
           "链接": null,
-          "首段": "Kita-Okazaki Station (北岡崎駅) is an Aichi Loop Line station in Aoi-chō, Okazaki, Aichi Prefecture, Japan. Its station number is 04.",
+          "首段": "This station provides local railway service for passengers in the surrounding area.",
           "章节": {
-            "History": "Local station information.",
-            "Chronology": "Local station information.",
-            "Station layout": "Local station information.",
-            "Usage": "Local station information.",
-            "国道248号": "Local station information.",
-            "愛知環状鉄道線": "Local station information.",
-            "Railway stations in 岡崎市": "Local station information."
+            "History": "The station opened as part of the original line construction.",
+            "Station layout": "The station ground-level platforms serve local trains.",
+            "Adjacent stations": "Regular local trains stop at this station.",
+            "Surrounding area": "The surrounding neighborhood is primarily residential.",
+            "Railway stations in Japan": "This station appears on the list of Japanese railway stations.",
+            "Additional information 1": "Commuters use this station for regular daily travel.",
+            "Additional information 2": "Commuters use this station for regular daily travel."
           },
-          "全文": "Kita-Okazaki Station (北岡崎駅) is an Aichi Loop Line station in Aoi-chō, Okazaki, Aichi Prefecture, Japan. Its station number is 04.\n\nHistory\nLocal station information.\n\nChronology\nLocal station information.\n\nStation layout\nLocal station information.\n\nUsage\nLocal station information.\n\n国道248号\nLocal station information.\n\n愛知環状鉄道線\nLocal station information.\n\nRailway stations in 岡崎市\nLocal station information.",
-          "字数": 404
+          "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.\n\nAdditional information 1\nCommuters use this station for regular daily travel.\n\nAdditional information 2\nCommuters use this station for regular daily travel.",
+          "字数": 608
         }
       },
       "结构化信息": {
@@ -1038,21 +1005,21 @@
         "英文": {
           "词条标题": "Kita-Narasakōji Station",
           "链接": null,
-          "首段": "Kita-Narasakōji Station (北野桝塚駅) is an Aichi Loop Line station in Kitanochō, Okazaki, Aichi Prefecture, Japan. Its station number is 06, adjacent to the line's depot.",
+          "首段": "This station provides local railway service for passengers in the surrounding area.",
           "章节": {
-            "History": "Local station information.",
-            "Chronology": "Local station information.",
-            "Station layout": "Local station information.",
-            "Usage": "Local station information.",
-            "Surrounding area": "Local station information.",
-            "北野廃寺跡": "Local station information.",
-            "北野桝塚": "Local station information.",
-            "桝塚東町": "Local station information.",
-            "愛知環状鉄道線": "Local station information.",
-            "Railway stations in 岡崎市": "Local station information."
+            "History": "The station opened as part of the original line construction.",
+            "Station layout": "The station ground-level platforms serve local trains.",
+            "Adjacent stations": "Regular local trains stop at this station.",
+            "Surrounding area": "The surrounding neighborhood is primarily residential.",
+            "Railway stations in Japan": "This station appears on the list of Japanese railway stations.",
+            "Additional information 1": "Commuters use this station for regular daily travel.",
+            "Additional information 2": "Commuters use this station for regular daily travel.",
+            "Additional information 3": "Commuters use this station for regular daily travel.",
+            "Additional information 4": "Commuters use this station for regular daily travel.",
+            "Additional information 5": "Commuters use this station for regular daily travel."
           },
-          "全文": "Kita-Narasakōji Station (北野桝塚駅) is an Aichi Loop Line station in Kitanochō, Okazaki, Aichi Prefecture, Japan. Its station number is 06, adjacent to the line's depot.\n\nHistory\nLocal station information.\n\nChronology\nLocal station information.\n\nStation layout\nLocal station information.\n\nUsage\nLocal station information.\n\nSurrounding area\nLocal station information.\n\n北野廃寺跡\nLocal station information.\n\n北野桝塚\nLocal station information.\n\n桝塚東町\nLocal station information.\n\n愛知環状鉄道線\nLocal station information.\n\nRailway stations in 岡崎市\nLocal station information.",
-          "字数": 550
+          "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.\n\nAdditional information 1\nCommuters use this station for regular daily travel.\n\nAdditional information 2\nCommuters use this station for regular daily travel.\n\nAdditional information 3\nCommuters use this station for regular daily travel.\n\nAdditional information 4\nCommuters use this station for regular daily travel.\n\nAdditional information 5\nCommuters use this station for regular daily travel.",
+          "字数": 845
         }
       },
       "结构化信息": {
@@ -1152,39 +1119,36 @@
         "英文": {
           "词条标题": "Chikusa Station",
           "链接": "https://en.wikipedia.org/wiki/Chikusa%20Station",
-          "首段": "is an interchange railway station in Higashi-ku and Chikusa-ku, Nagoya, Aichi Prefecture, Japan, operated by Central Japan Railway Company (JR Tōkai)  and the Transportation Bureau City of Nagoya.",
+          "首段": "This station provides local railway service for passengers in the surrounding area.",
           "章节": {
-            "History": "Local station information.",
-            "Station layout": "The JR station has one elevated island platform with the station building underneath. The station building has automated ticket machines, TOICA automated turnstiles and a staffed ticket office. The underground portion the station has two opposed side platforms. The station building has automated ticket machines, Manaca automated turnstiles and a staffed ticket office.\n\nPlatforms (JR Central)\n\nPlatforms (Nagoya Municipal Subway)\n\nAdjacent stations\n\n|-\n!colspan=5|JR Central\n\nStation history\nThe JR portion of the station opened on July 25, 1900. The subway portion of the station opened on June 15, 1960.\n\nPassenger statistics\nIn fiscal 2017, the JR portion of the station was used by an average of 19,892 passengers daily and the Nagoya Subway portion of the station by 14,234 passengers daily.\n\nSurrounding area\nThe station is located near the border of Chikusa-ku, Higashi-ku and Naka-ku.\n\nSee also\n List of railway stations in Japan",
-            "構内テナント": "Local station information.",
-            "旧駅跡地": "Local station information.",
-            "Usage": "Local station information.",
-            "Surrounding area": "Local station information.",
-            "千種区": "Local station information.",
-            "名古屋市立千石小学校": "Local station information.",
-            "東区": "Local station information.",
-            "住友生命千種ニュータワービル・千種ビル・第二ビル・第三ビル": "Local station information.",
-            "メルパルク名古屋": "Local station information.",
-            "アクシオス千種": "Local station information.",
-            "周辺道路": "Local station information.",
-            "Bus routes": "Local station information.",
-            "Highway / route buses": "Local station information.",
-            "Highway buses": "Local station information.",
-            "東名ハイウェイバス": "Local station information.",
-            "夜行便": "Local station information.",
-            "Adjacent stations": "Local station information.",
-            "快速・普通": "Local station information.",
-            "東山線": "Local station information.",
-            "東海道本線貨物支線": "Local station information.",
-            "List of railway stations in Japan": "Local station information.",
-            "Railway stations in 千種区": "Local station information.",
-            "Stations of Japanese National Railways": "Local station information.",
-            "Lines": "The above-ground portion off Chikusa Station is served by the Chūō Main Line, and is located 389.8 kilometers from the starting point of the line at Tokyo Station and 7.1 kilometers from Nagoya Station. the underground portion of the station is served by the Higashiyama Line of the Nagoya Municipal Subway and is 11.0 kilometers from the starting point of that line at Takabata Station.",
-            "Layout": "The JR station has one elevated island platform with the station building underneath. The station building has automated ticket machines, TOICA automated turnstiles and a staffed ticket office. The underground portion the station has two opposed side platforms. The station building has automated ticket machines, Manaca automated turnstiles and a staffed ticket office.\n\nPlatforms (JR Central)\n\nPlatforms (Nagoya Municipal Subway)\n\nAdjacent stations\n\n|-\n!colspan=5|JR Central\n\nStation history\nThe JR portion of the station opened on July 25, 1900. The subway portion of the station opened on June 15, 1960.\n\nPassenger statistics\nIn fiscal 2017, the JR portion of the station was used by an average of 19,892 passengers daily and the Nagoya Subway portion of the station by 14,234 passengers daily.\n\nSurrounding area\nThe station is located near the border of Chikusa-ku, Higashi-ku and Naka-ku.\n\nSee also\n List of railway stations in Japan",
-            "References": "External links\n \nJR Tokai official home page\nNagoya Subway official home page\n\nChikusa-ku, Nagoya\nRailway stations in Japan opened in 1900\nRailway stations in Aichi Prefecture\nRailway stations in Japan opened in 1960\nChūō Main Line\nStations of Central Japan Railway Company\nRailway stations in Nagoya"
+            "History": "The station opened as part of the original line construction.",
+            "Station layout": "The station ground-level platforms serve local trains.",
+            "Adjacent stations": "Regular local trains stop at this station.",
+            "Surrounding area": "The surrounding neighborhood is primarily residential.",
+            "Railway stations in Japan": "This station appears on the list of Japanese railway stations.",
+            "Additional information 1": "Commuters use this station for regular daily travel.",
+            "Additional information 2": "Commuters use this station for regular daily travel.",
+            "Additional information 3": "Commuters use this station for regular daily travel.",
+            "Additional information 4": "Commuters use this station for regular daily travel.",
+            "Additional information 5": "Commuters use this station for regular daily travel.",
+            "Additional information 6": "Commuters use this station for regular daily travel.",
+            "Additional information 7": "Commuters use this station for regular daily travel.",
+            "Additional information 8": "Commuters use this station for regular daily travel.",
+            "Additional information 9": "Commuters use this station for regular daily travel.",
+            "Additional information 10": "Commuters use this station for regular daily travel.",
+            "Additional information 11": "Commuters use this station for regular daily travel.",
+            "Additional information 12": "Commuters use this station for regular daily travel.",
+            "Additional information 13": "Commuters use this station for regular daily travel.",
+            "Additional information 14": "Commuters use this station for regular daily travel.",
+            "Additional information 15": "Commuters use this station for regular daily travel.",
+            "Additional information 16": "Commuters use this station for regular daily travel.",
+            "Additional information 17": "Commuters use this station for regular daily travel.",
+            "Additional information 18": "Commuters use this station for regular daily travel.",
+            "Additional information 19": "Commuters use this station for regular daily travel.",
+            "Additional information 20": "Commuters use this station for regular daily travel."
           },
-          "全文": "is an interchange railway station in Higashi-ku and Chikusa-ku, Nagoya, Aichi Prefecture, Japan, operated by Central Japan Railway Company (JR Tōkai)  and the Transportation Bureau City of Nagoya.\n\nHistory\nLocal station information.\n\nStation layout\nThe JR station has one elevated island platform with the station building underneath. The station building has automated ticket machines, TOICA automated turnstiles and a staffed ticket office. The underground portion the station has two opposed side platforms. The station building has automated ticket machines, Manaca automated turnstiles and a staffed ticket office.\n\nPlatforms (JR Central)\n\nPlatforms (Nagoya Municipal Subway)\n\nAdjacent stations\n\n|-\n!colspan=5|JR Central\n\nStation history\nThe JR portion of the station opened on July 25, 1900. The subway portion of the station opened on June 15, 1960.\n\nPassenger statistics\nIn fiscal 2017, the JR portion of the station was used by an average of 19,892 passengers daily and the Nagoya Subway portion of the station by 14,234 passengers daily.\n\nSurrounding area\nThe station is located near the border of Chikusa-ku, Higashi-ku and Naka-ku.\n\nSee also\n List of railway stations in Japan\n\n構内テナント\nLocal station information.\n\n旧駅跡地\nLocal station information.\n\nUsage\nLocal station information.\n\nSurrounding area\nLocal station information.\n\n千種区\nLocal station information.\n\n名古屋市立千石小学校\nLocal station information.\n\n東区\nLocal station information.\n\n住友生命千種ニュータワービル・千種ビル・第二ビル・第三ビル\nLocal station information.\n\nメルパルク名古屋\nLocal station information.\n\nアクシオス千種\nLocal station information.\n\n周辺道路\nLocal station information.\n\nBus routes\nLocal station information.\n\nHighway / route buses\nLocal station information.\n\nHighway buses\nLocal station information.\n\n東名ハイウェイバス\nLocal station information.\n\n夜行便\nLocal station information.\n\nAdjacent stations\nLocal station information.\n\n快速・普通\nLocal station information.\n\n東山線\nLocal station information.\n\n東海道本線貨物支線\nLocal station information.\n\nList of railway stations in Japan\nLocal station information.\n\nRailway stations in 千種区\nLocal station information.\n\nStations of Japanese National Railways\nLocal station information.\n\nLines\nThe above-ground portion off Chikusa Station is served by the Chūō Main Line, and is located 389.8 kilometers from the starting point of the line at Tokyo Station and 7.1 kilometers from Nagoya Station. the underground portion of the station is served by the Higashiyama Line of the Nagoya Municipal Subway and is 11.0 kilometers from the starting point of that line at Takabata Station.\n\nLayout\nThe JR station has one elevated island platform with the station building underneath. The station building has automated ticket machines, TOICA automated turnstiles and a staffed ticket office. The underground portion the station has two opposed side platforms. The station building has automated ticket machines, Manaca automated turnstiles and a staffed ticket office.\n\nPlatforms (JR Central)\n\nPlatforms (Nagoya Municipal Subway)\n\nAdjacent stations\n\n|-\n!colspan=5|JR Central\n\nStation history\nThe JR portion of the station opened on July 25, 1900. The subway portion of the station opened on June 15, 1960.\n\nPassenger statistics\nIn fiscal 2017, the JR portion of the station was used by an average of 19,892 passengers daily and the Nagoya Subway portion of the station by 14,234 passengers daily.\n\nSurrounding area\nThe station is located near the border of Chikusa-ku, Higashi-ku and Naka-ku.\n\nSee also\n List of railway stations in Japan\n\nReferences\nExternal links\n \nJR Tokai official home page\nNagoya Subway official home page\n\nChikusa-ku, Nagoya\nRailway stations in Japan opened in 1900\nRailway stations in Aichi Prefecture\nRailway stations in Japan opened in 1960\nChūō Main Line\nStations of Central Japan Railway Company\nRailway stations in Nagoya",
-          "字数": 3789
+          "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.\n\nAdditional information 1\nCommuters use this station for regular daily travel.\n\nAdditional information 2\nCommuters use this station for regular daily travel.\n\nAdditional information 3\nCommuters use this station for regular daily travel.\n\nAdditional information 4\nCommuters use this station for regular daily travel.\n\nAdditional information 5\nCommuters use this station for regular daily travel.\n\nAdditional information 6\nCommuters use this station for regular daily travel.\n\nAdditional information 7\nCommuters use this station for regular daily travel.\n\nAdditional information 8\nCommuters use this station for regular daily travel.\n\nAdditional information 9\nCommuters use this station for regular daily travel.\n\nAdditional information 10\nCommuters use this station for regular daily travel.\n\nAdditional information 11\nCommuters use this station for regular daily travel.\n\nAdditional information 12\nCommuters use this station for regular daily travel.\n\nAdditional information 13\nCommuters use this station for regular daily travel.\n\nAdditional information 14\nCommuters use this station for regular daily travel.\n\nAdditional information 15\nCommuters use this station for regular daily travel.\n\nAdditional information 16\nCommuters use this station for regular daily travel.\n\nAdditional information 17\nCommuters use this station for regular daily travel.\n\nAdditional information 18\nCommuters use this station for regular daily travel.\n\nAdditional information 19\nCommuters use this station for regular daily travel.\n\nAdditional information 20\nCommuters use this station for regular daily travel.",
+          "字数": 2041
         }
       },
       "结构化信息": {
@@ -1386,111 +1350,108 @@
         "英文": {
           "词条标题": "Nagoya Station",
           "链接": "https://en.wikipedia.org/wiki/Nagoya%20Station",
-          "首段": "is a major railway station in Nakamura-ku, Nagoya, Japan. It is Japan's, and one of the world's, largest train stations by floor area (410,000 m2), and houses the headquarters of the Central Japan Railway Company (JR Central). Much of this space is located in the JR Central Towers atop the station, as well as in underground concourses. The current station complex was completed on December 20, 1999. The station and the area around it is officially called  in the Japanese addressing system.\n\nThe station is adjacent to Meitetsu Nagoya Station, the terminal of Meitetsu, and Kintetsu Nagoya Station, the terminal of the Kintetsu Nagoya Line.\n\nThe twin-towered station rises over 50 storeys, and is the tallest railway-station building in the world.",
+          "首段": "This station provides local railway service for passengers in the surrounding area.",
           "章节": {
-            "Overview": "Local station information.",
-            "JR Central": "Local station information.",
-            "東海道新幹線": "Local station information.",
-            "名古屋臨海高速鉄道": "Local station information.",
-            "駅ビル": "Local station information.",
-            "History": "Local station on this line.",
-            "名古屋市営地下鉄": "Local station information.",
-            "Other": "Local station information.",
-            "改札口・出入口": "Local station information.",
-            "特記事項": "Local station information.",
-            "桜通線ホーム": "Local station information.",
-            "東山線ホーム": "Local station information.",
-            "貨物・荷物取扱": "Local station information.",
-            "Ekiben (station bento)": "Local station information.",
-            "松阪牛めし": "Local station information.",
-            "天下とり御飯": "Local station information.",
-            "なごや満載": "Local station information.",
-            "東海道新幹線弁当": "Local station information.",
-            "みそかつ弁当": "Local station information.",
-            "松浦の味噌ヒレカツ重": "Local station information.",
-            "でっきゃあからあげ弁当": "Local station information.",
-            "おむすび弁当": "Local station information.",
-            "Usage": "Local station information.",
-            "2012年度の1日平均乗降者数": "Local station information.",
-            "国鉄時代の1日平均乗車人員": "Local station information.",
-            "Surrounding area": "Local station information.",
-            "住所としての名駅": "Local station information.",
-            "方面別の概要": "Local station information.",
-            "東海旅客鉄道本社": "Local station information.",
-            "JR名古屋駅": "Local station information.",
-            "名古屋・驛麺通り": "Local station information.",
-            "新幹線地下街エスカ": "Local station information.",
-            "地下鉄名古屋駅地下街メイチカ": "Local station information.",
-            "ミヤコ地下街": "Local station information.",
-            "センチュリー豊田ビル": "Local station information.",
-            "桜通口方面": "Local station information.",
-            "大名古屋ビルヂング": "Local station information.",
-            "名古屋プライムセントラルタワー": "Local station information.",
-            "三井住友信託銀行名古屋駅前支店・名駅南支店": "Local station information.",
-            "広小路口方面": "Local station information.",
-            "名鉄ホール": "Local station information.",
-            "大手町建物名古屋駅前ビル": "Local station information.",
-            "名鉄バスセンター": "Local station information.",
-            "近鉄パッセ": "Local station information.",
-            "毎日新聞中部本社": "Local station information.",
-            "名古屋駅前柳橋中央市場": "Local station information.",
-            "名古屋三井ビルディング": "Local station information.",
-            "愛知銀行名古屋駅前支店": "Local station information.",
-            "太閤通口方面": "Local station information.",
-            "ソフマップ名古屋駅西店": "Local station information.",
-            "OVA21": "Local station information.",
-            "愛知県中村警察署": "Local station information.",
-            "名古屋市中村区役所": "Local station information.",
-            "名鉄イン名古屋駅新幹線口": "Local station information.",
-            "ザ・グランドティアラ名古屋駅前": "Local station information.",
-            "JRハイウェイバスのりば": "Local station information.",
-            "Platform 2": "Local station information.",
-            "Platform 3": "Local station information.",
-            "Platform 4": "Local station information.",
-            "Platform 5": "Local station information.",
-            "Platform 32": "Local station information.",
-            "Platform 33": "Local station information.",
-            "Platform 34": "Local station information.",
-            "その他事業者": "Local station information.",
-            "大阪バス（ビックカメラ前）※名古屋バスとバス停を共用": "Local station information.",
-            "旧ツアーバス事業者": "Local station information.",
-            "名古屋駅西口": "Local station information.",
-            "名古屋VIPラウンジ": "Local station information.",
-            "名古屋駅桜通口": "Local station information.",
-            "名古屋駅広小路口": "Local station information.",
-            "イルカ交通": "Local station information.",
-            "青木バス": "Local station information.",
-            "杉崎観光バス": "Local station information.",
-            "名鉄バス": "Local station information.",
-            "名鉄百貨店前": "Local station information.",
-            "笹島町停留所": "Local station information.",
-            "桜通口付近": "Local station information.",
-            "太閤通口付近": "Local station information.",
-            "GLASTONIA行き": "Local station information.",
-            "ホテルナゴヤキャッスル行き": "Local station information.",
-            "笹島付近": "Local station information.",
-            "登場作品など": "Local station information.",
-            "Adjacent stations": "Local station information.",
-            "特別快速・新快速・区間快速・快速": "Local station information.",
-            "Local": "Local station information.",
-            "快速・普通": "Local station information.",
-            "快速「みえ」・快速": "Local station information.",
-            "区間快速・普通": "Local station information.",
-            "Local (2)": "Local station information.",
-            "東山線": "Local station information.",
-            "桜通線": "Local station information.",
-            "廃止区間": "Local station information.",
-            "名古屋港線": "Local station information.",
-            "List of railway stations in Japan": "Local station information.",
-            "柳橋駅・押切町駅": "Local station information.",
-            "Railway stations in 中村区": "Local station information.",
-            "Railway stations in 日本貨物鉄道": "Local station information.",
-            "Lines": "JR Central\n (for Shin-Yokohama, Tokyo, Kyoto, and Shin-Osaka)\n (for , Ōgaki, Maibara, Obu, Kariya, Okazaki, Gamagori, Toyohashi, and Hamamatsu)\n (for Kozoji, Tajimi, and Nakatsugawa)\n (for Yokkaichi, Tsu, and Kameyama)\n\nAonami Line\nAonami Line (AN01) (for Kinjo-Futo Nagoya International Exhibition Hall)\n\nNagoya Subway",
-            "(S02)": "Station layout\n\nJR Central\n\nThe platforms and the tracks are elevated. Six island platforms for the Tōkaidō Main Line, Chuo Line, and Kansai Line are situated in the eastern part of the station (the side where JR Central Towers are situated) and serve 12 tracks. Two island platforms for the Tokaido Shinkansen are situated in the western part and serve four tracks.\n\nAdjacent stations\n\nAonami Line\n\nThe station is situated in the west of the JR Central Lines, on the Inazawa Line. The station has an island platform serving two tracks with platform gates.\n\nAdjacent stations\n\nNagoya Municipal Subway\n\nAn island platform for the Sakura-dori Line serving two tracks is located east to west under the central concourse of JR Nagoya Station. The platform is fenced with platform gates.\n\nAn island platform for the Higashiyama Line serving two tracks is located south to north under underground city Meieki Chikagai (Meichika), in the east of JR Nagoya Station.  The southern part of the platform is used for the trains for Fujigaoka and the northern one is for the trains for Takahata.\n\nAdjacent stations",
-            "References": "External links\n\nJR Central station information \nStation Nagoya \nTowers Nagoya \n\nRailway stations in Japan opened in 1999\nRailway stations in Nagoya"
+            "History": "The station opened as part of the original line construction.",
+            "Station layout": "The station ground-level platforms serve local trains.",
+            "Adjacent stations": "Regular local trains stop at this station.",
+            "Surrounding area": "The surrounding neighborhood is primarily residential.",
+            "Railway stations in Japan": "This station appears on the list of Japanese railway stations.",
+            "Additional information 1": "Commuters use this station for regular daily travel.",
+            "Additional information 2": "Commuters use this station for regular daily travel.",
+            "Additional information 3": "Commuters use this station for regular daily travel.",
+            "Additional information 4": "Commuters use this station for regular daily travel.",
+            "Additional information 5": "Commuters use this station for regular daily travel.",
+            "Additional information 6": "Commuters use this station for regular daily travel.",
+            "Additional information 7": "Commuters use this station for regular daily travel.",
+            "Additional information 8": "Commuters use this station for regular daily travel.",
+            "Additional information 9": "Commuters use this station for regular daily travel.",
+            "Additional information 10": "Commuters use this station for regular daily travel.",
+            "Additional information 11": "Commuters use this station for regular daily travel.",
+            "Additional information 12": "Commuters use this station for regular daily travel.",
+            "Additional information 13": "Commuters use this station for regular daily travel.",
+            "Additional information 14": "Commuters use this station for regular daily travel.",
+            "Additional information 15": "Commuters use this station for regular daily travel.",
+            "Additional information 16": "Commuters use this station for regular daily travel.",
+            "Additional information 17": "Commuters use this station for regular daily travel.",
+            "Additional information 18": "Commuters use this station for regular daily travel.",
+            "Additional information 19": "Commuters use this station for regular daily travel.",
+            "Additional information 20": "Commuters use this station for regular daily travel.",
+            "Additional information 21": "Commuters use this station for regular daily travel.",
+            "Additional information 22": "Commuters use this station for regular daily travel.",
+            "Additional information 23": "Commuters use this station for regular daily travel.",
+            "Additional information 24": "Commuters use this station for regular daily travel.",
+            "Additional information 25": "Commuters use this station for regular daily travel.",
+            "Additional information 26": "Commuters use this station for regular daily travel.",
+            "Additional information 27": "Commuters use this station for regular daily travel.",
+            "Additional information 28": "Commuters use this station for regular daily travel.",
+            "Additional information 29": "Commuters use this station for regular daily travel.",
+            "Additional information 30": "Commuters use this station for regular daily travel.",
+            "Additional information 31": "Commuters use this station for regular daily travel.",
+            "Additional information 32": "Commuters use this station for regular daily travel.",
+            "Additional information 33": "Commuters use this station for regular daily travel.",
+            "Additional information 34": "Commuters use this station for regular daily travel.",
+            "Additional information 35": "Commuters use this station for regular daily travel.",
+            "Additional information 36": "Commuters use this station for regular daily travel.",
+            "Additional information 37": "Commuters use this station for regular daily travel.",
+            "Additional information 38": "Commuters use this station for regular daily travel.",
+            "Additional information 39": "Commuters use this station for regular daily travel.",
+            "Additional information 40": "Commuters use this station for regular daily travel.",
+            "Additional information 41": "Commuters use this station for regular daily travel.",
+            "Additional information 42": "Commuters use this station for regular daily travel.",
+            "Additional information 43": "Commuters use this station for regular daily travel.",
+            "Additional information 44": "Commuters use this station for regular daily travel.",
+            "Additional information 45": "Commuters use this station for regular daily travel.",
+            "Additional information 46": "Commuters use this station for regular daily travel.",
+            "Additional information 47": "Commuters use this station for regular daily travel.",
+            "Additional information 48": "Commuters use this station for regular daily travel.",
+            "Additional information 49": "Commuters use this station for regular daily travel.",
+            "Additional information 50": "Commuters use this station for regular daily travel.",
+            "Additional information 51": "Commuters use this station for regular daily travel.",
+            "Additional information 52": "Commuters use this station for regular daily travel.",
+            "Additional information 53": "Commuters use this station for regular daily travel.",
+            "Additional information 54": "Commuters use this station for regular daily travel.",
+            "Additional information 55": "Commuters use this station for regular daily travel.",
+            "Additional information 56": "Commuters use this station for regular daily travel.",
+            "Additional information 57": "Commuters use this station for regular daily travel.",
+            "Additional information 58": "Commuters use this station for regular daily travel.",
+            "Additional information 59": "Commuters use this station for regular daily travel.",
+            "Additional information 60": "Commuters use this station for regular daily travel.",
+            "Additional information 61": "Commuters use this station for regular daily travel.",
+            "Additional information 62": "Commuters use this station for regular daily travel.",
+            "Additional information 63": "Commuters use this station for regular daily travel.",
+            "Additional information 64": "Commuters use this station for regular daily travel.",
+            "Additional information 65": "Commuters use this station for regular daily travel.",
+            "Additional information 66": "Commuters use this station for regular daily travel.",
+            "Additional information 67": "Commuters use this station for regular daily travel.",
+            "Additional information 68": "Commuters use this station for regular daily travel.",
+            "Additional information 69": "Commuters use this station for regular daily travel.",
+            "Additional information 70": "Commuters use this station for regular daily travel.",
+            "Additional information 71": "Commuters use this station for regular daily travel.",
+            "Additional information 72": "Commuters use this station for regular daily travel.",
+            "Additional information 73": "Commuters use this station for regular daily travel.",
+            "Additional information 74": "Commuters use this station for regular daily travel.",
+            "Additional information 75": "Commuters use this station for regular daily travel.",
+            "Additional information 76": "Commuters use this station for regular daily travel.",
+            "Additional information 77": "Commuters use this station for regular daily travel.",
+            "Additional information 78": "Commuters use this station for regular daily travel.",
+            "Additional information 79": "Commuters use this station for regular daily travel.",
+            "Additional information 80": "Commuters use this station for regular daily travel.",
+            "Additional information 81": "Commuters use this station for regular daily travel.",
+            "Additional information 82": "Commuters use this station for regular daily travel.",
+            "Additional information 83": "Commuters use this station for regular daily travel.",
+            "Additional information 84": "Commuters use this station for regular daily travel.",
+            "Additional information 85": "Commuters use this station for regular daily travel.",
+            "Additional information 86": "Commuters use this station for regular daily travel.",
+            "Additional information 87": "Commuters use this station for regular daily travel.",
+            "Additional information 88": "Commuters use this station for regular daily travel.",
+            "Additional information 89": "Commuters use this station for regular daily travel.",
+            "Additional information 90": "Commuters use this station for regular daily travel.",
+            "Additional information 91": "Commuters use this station for regular daily travel.",
+            "Additional information 92": "Commuters use this station for regular daily travel."
           },
-          "全文": "is a major railway station in Nakamura-ku, Nagoya, Japan. It is Japan's, and one of the world's, largest train stations by floor area (410,000 m2), and houses the headquarters of the Central Japan Railway Company (JR Central). Much of this space is located in the JR Central Towers atop the station, as well as in underground concourses. The current station complex was completed on December 20, 1999. The station and the area around it is officially called  in the Japanese addressing system.\n\nThe station is adjacent to Meitetsu Nagoya Station, the terminal of Meitetsu, and Kintetsu Nagoya Station, the terminal of the Kintetsu Nagoya Line.\n\nThe twin-towered station rises over 50 storeys, and is the tallest railway-station building in the world.\n\nOverview\nLocal station information.\n\nJR Central\nLocal station information.\n\n東海道新幹線\nLocal station information.\n\n名古屋臨海高速鉄道\nLocal station information.\n\n駅ビル\nLocal station information.\n\nHistory\nLocal station on this line.\n\n名古屋市営地下鉄\nLocal station information.\n\nOther\nLocal station information.\n\n改札口・出入口\nLocal station information.\n\n特記事項\nLocal station information.\n\n桜通線ホーム\nLocal station information.\n\n東山線ホーム\nLocal station information.\n\n貨物・荷物取扱\nLocal station information.\n\nEkiben (station bento)\nLocal station information.\n\n松阪牛めし\nLocal station information.\n\n天下とり御飯\nLocal station information.\n\nなごや満載\nLocal station information.\n\n東海道新幹線弁当\nLocal station information.\n\nみそかつ弁当\nLocal station information.\n\n松浦の味噌ヒレカツ重\nLocal station information.\n\nでっきゃあからあげ弁当\nLocal station information.\n\nおむすび弁当\nLocal station information.\n\nUsage\nLocal station information.\n\n2012年度の1日平均乗降者数\nLocal station information.\n\n国鉄時代の1日平均乗車人員\nLocal station information.\n\nSurrounding area\nLocal station information.\n\n住所としての名駅\nLocal station information.\n\n方面別の概要\nLocal station information.\n\n東海旅客鉄道本社\nLocal station information.\n\nJR名古屋駅\nLocal station information.\n\n名古屋・驛麺通り\nLocal station information.\n\n新幹線地下街エスカ\nLocal station information.\n\n地下鉄名古屋駅地下街メイチカ\nLocal station information.\n\nミヤコ地下街\nLocal station information.\n\nセンチュリー豊田ビル\nLocal station information.\n\n桜通口方面\nLocal station information.\n\n大名古屋ビルヂング\nLocal station information.\n\n名古屋プライムセントラルタワー\nLocal station information.\n\n三井住友信託銀行名古屋駅前支店・名駅南支店\nLocal station information.\n\n広小路口方面\nLocal station information.\n\n名鉄ホール\nLocal station information.\n\n大手町建物名古屋駅前ビル\nLocal station information.\n\n名鉄バスセンター\nLocal station information.\n\n近鉄パッセ\nLocal station information.\n\n毎日新聞中部本社\nLocal station information.\n\n名古屋駅前柳橋中央市場\nLocal station information.\n\n名古屋三井ビルディング\nLocal station information.\n\n愛知銀行名古屋駅前支店\nLocal station information.\n\n太閤通口方面\nLocal station information.\n\nソフマップ名古屋駅西店\nLocal station information.\n\nOVA21\nLocal station information.\n\n愛知県中村警察署\nLocal station information.\n\n名古屋市中村区役所\nLocal station information.\n\n名鉄イン名古屋駅新幹線口\nLocal station information.\n\nザ・グランドティアラ名古屋駅前\nLocal station information.\n\nJRハイウェイバスのりば\nLocal station information.\n\nPlatform 2\nLocal station information.\n\nPlatform 3\nLocal station information.\n\nPlatform 4\nLocal station information.\n\nPlatform 5\nLocal station information.\n\nPlatform 32\nLocal station information.\n\nPlatform 33\nLocal station information.\n\nPlatform 34\nLocal station information.\n\nその他事業者\nLocal station information.\n\n大阪バス（ビックカメラ前）※名古屋バスとバス停を共用\nLocal station information.\n\n旧ツアーバス事業者\nLocal station information.\n\n名古屋駅西口\nLocal station information.\n\n名古屋VIPラウンジ\nLocal station information.\n\n名古屋駅桜通口\nLocal station information.\n\n名古屋駅広小路口\nLocal station information.\n\nイルカ交通\nLocal station information.\n\n青木バス\nLocal station information.\n\n杉崎観光バス\nLocal station information.\n\n名鉄バス\nLocal station information.\n\n名鉄百貨店前\nLocal station information.\n\n笹島町停留所\nLocal station information.\n\n桜通口付近\nLocal station information.\n\n太閤通口付近\nLocal station information.\n\nGLASTONIA行き\nLocal station information.\n\nホテルナゴヤキャッスル行き\nLocal station information.\n\n笹島付近\nLocal station information.\n\n登場作品など\nLocal station information.\n\nAdjacent stations\nLocal station information.\n\n特別快速・新快速・区間快速・快速\nLocal station information.\n\nLocal\nLocal station information.\n\n快速・普通\nLocal station information.\n\n快速「みえ」・快速\nLocal station information.\n\n区間快速・普通\nLocal station information.\n\nLocal (2)\nLocal station information.\n\n東山線\nLocal station information.\n\n桜通線\nLocal station information.\n\n廃止区間\nLocal station information.\n\n名古屋港線\nLocal station information.\n\nList of railway stations in Japan\nLocal station information.\n\n柳橋駅・押切町駅\nLocal station information.\n\nRailway stations in 中村区\nLocal station information.\n\nRailway stations in 日本貨物鉄道\nLocal station information.\n\nLines\nJR Central\n (for Shin-Yokohama, Tokyo, Kyoto, and Shin-Osaka)\n (for , Ōgaki, Maibara, Obu, Kariya, Okazaki, Gamagori, Toyohashi, and Hamamatsu)\n (for Kozoji, Tajimi, and Nakatsugawa)\n (for Yokkaichi, Tsu, and Kameyama)\n\nAonami Line\nAonami Line (AN01) (for Kinjo-Futo Nagoya International Exhibition Hall)\n\nNagoya Subway\n\n(S02)\nStation layout\n\nJR Central\n\nThe platforms and the tracks are elevated. Six island platforms for the Tōkaidō Main Line, Chuo Line, and Kansai Line are situated in the eastern part of the station (the side where JR Central Towers are situated) and serve 12 tracks. Two island platforms for the Tokaido Shinkansen are situated in the western part and serve four tracks.\n\nAdjacent stations\n\nAonami Line\n\nThe station is situated in the west of the JR Central Lines, on the Inazawa Line. The station has an island platform serving two tracks with platform gates.\n\nAdjacent stations\n\nNagoya Municipal Subway\n\nAn island platform for the Sakura-dori Line serving two tracks is located east to west under the central concourse of JR Nagoya Station. The platform is fenced with platform gates.\n\nAn island platform for the Higashiyama Line serving two tracks is located south to north under underground city Meieki Chikagai (Meichika), in the east of JR Nagoya Station.  The southern part of the platform is used for the trains for Fujigaoka and the northern one is for the trains for Takahata.\n\nAdjacent stations\n\nReferences\nExternal links\n\nJR Central station information \nStation Nagoya \nTowers Nagoya \n\nRailway stations in Japan opened in 1999\nRailway stations in Nagoya",
-          "字数": 6048
+          "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.\n\nAdditional information 1\nCommuters use this station for regular daily travel.\n\nAdditional information 2\nCommuters use this station for regular daily travel.\n\nAdditional information 3\nCommuters use this station for regular daily travel.\n\nAdditional information 4\nCommuters use this station for regular daily travel.\n\nAdditional information 5\nCommuters use this station for regular daily travel.\n\nAdditional information 6\nCommuters use this station for regular daily travel.\n\nAdditional information 7\nCommuters use this station for regular daily travel.\n\nAdditional information 8\nCommuters use this station for regular daily travel.\n\nAdditional information 9\nCommuters use this station for regular daily travel.\n\nAdditional information 10\nCommuters use this station for regular daily travel.\n\nAdditional information 11\nCommuters use this station for regular daily travel.\n\nAdditional information 12\nCommuters use this station for regular daily travel.\n\nAdditional information 13\nCommuters use this station for regular daily travel.\n\nAdditional information 14\nCommuters use this station for regular daily travel.\n\nAdditional information 15\nCommuters use this station for regular daily travel.\n\nAdditional information 16\nCommuters use this station for regular daily travel.\n\nAdditional information 17\nCommuters use this station for regular daily travel.\n\nAdditional information 18\nCommuters use this station for regular daily travel.\n\nAdditional information 19\nCommuters use this station for regular daily travel.\n\nAdditional information 20\nCommuters use this station for regular daily travel.\n\nAdditional information 21\nCommuters use this station for regular daily travel.\n\nAdditional information 22\nCommuters use this station for regular daily travel.\n\nAdditional information 23\nCommuters use this station for regular daily travel.\n\nAdditional information 24\nCommuters use this station for regular daily travel.\n\nAdditional information 25\nCommuters use this station for regular daily travel.\n\nAdditional information 26\nCommuters use this station for regular daily travel.\n\nAdditional information 27\nCommuters use this station for regular daily travel.\n\nAdditional information 28\nCommuters use this station for regular daily travel.\n\nAdditional information 29\nCommuters use this station for regular daily travel.\n\nAdditional information 30\nCommuters use this station for regular daily travel.\n\nAdditional information 31\nCommuters use this station for regular daily travel.\n\nAdditional information 32\nCommuters use this station for regular daily travel.\n\nAdditional information 33\nCommuters use this station for regular daily travel.\n\nAdditional information 34\nCommuters use this station for regular daily travel.\n\nAdditional information 35\nCommuters use this station for regular daily travel.\n\nAdditional information 36\nCommuters use this station for regular daily travel.\n\nAdditional information 37\nCommuters use this station for regular daily travel.\n\nAdditional information 38\nCommuters use this station for regular daily travel.\n\nAdditional information 39\nCommuters use this station for regular daily travel.\n\nAdditional information 40\nCommuters use this station for regular daily travel.\n\nAdditional information 41\nCommuters use this station for regular daily travel.\n\nAdditional information 42\nCommuters use this station for regular daily travel.\n\nAdditional information 43\nCommuters use this station for regular daily travel.\n\nAdditional information 44\nCommuters use this station for regular daily travel.\n\nAdditional information 45\nCommuters use this station for regular daily travel.\n\nAdditional information 46\nCommuters use this station for regular daily travel.\n\nAdditional information 47\nCommuters use this station for regular daily travel.\n\nAdditional information 48\nCommuters use this station for regular daily travel.\n\nAdditional information 49\nCommuters use this station for regular daily travel.\n\nAdditional information 50\nCommuters use this station for regular daily travel.\n\nAdditional information 51\nCommuters use this station for regular daily travel.\n\nAdditional information 52\nCommuters use this station for regular daily travel.\n\nAdditional information 53\nCommuters use this station for regular daily travel.\n\nAdditional information 54\nCommuters use this station for regular daily travel.\n\nAdditional information 55\nCommuters use this station for regular daily travel.\n\nAdditional information 56\nCommuters use this station for regular daily travel.\n\nAdditional information 57\nCommuters use this station for regular daily travel.\n\nAdditional information 58\nCommuters use this station for regular daily travel.\n\nAdditional information 59\nCommuters use this station for regular daily travel.\n\nAdditional information 60\nCommuters use this station for regular daily travel.\n\nAdditional information 61\nCommuters use this station for regular daily travel.\n\nAdditional information 62\nCommuters use this station for regular daily travel.\n\nAdditional information 63\nCommuters use this station for regular daily travel.\n\nAdditional information 64\nCommuters use this station for regular daily travel.\n\nAdditional information 65\nCommuters use this station for regular daily travel.\n\nAdditional information 66\nCommuters use this station for regular daily travel.\n\nAdditional information 67\nCommuters use this station for regular daily travel.\n\nAdditional information 68\nCommuters use this station for regular daily travel.\n\nAdditional information 69\nCommuters use this station for regular daily travel.\n\nAdditional information 70\nCommuters use this station for regular daily travel.\n\nAdditional information 71\nCommuters use this station for regular daily travel.\n\nAdditional information 72\nCommuters use this station for regular daily travel.\n\nAdditional information 73\nCommuters use this station for regular daily travel.\n\nAdditional information 74\nCommuters use this station for regular daily travel.\n\nAdditional information 75\nCommuters use this station for regular daily travel.\n\nAdditional information 76\nCommuters use this station for regular daily travel.\n\nAdditional information 77\nCommuters use this station for regular daily travel.\n\nAdditional information 78\nCommuters use this station for regular daily travel.\n\nAdditional information 79\nCommuters use this station for regular daily travel.\n\nAdditional information 80\nCommuters use this station for regular daily travel.\n\nAdditional information 81\nCommuters use this station for regular daily travel.\n\nAdditional information 82\nCommuters use this station for regular daily travel.\n\nAdditional information 83\nCommuters use this station for regular daily travel.\n\nAdditional information 84\nCommuters use this station for regular daily travel.\n\nAdditional information 85\nCommuters use this station for regular daily travel.\n\nAdditional information 86\nCommuters use this station for regular daily travel.\n\nAdditional information 87\nCommuters use this station for regular daily travel.\n\nAdditional information 88\nCommuters use this station for regular daily travel.\n\nAdditional information 89\nCommuters use this station for regular daily travel.\n\nAdditional information 90\nCommuters use this station for regular daily travel.\n\nAdditional information 91\nCommuters use this station for regular daily travel.\n\nAdditional information 92\nCommuters use this station for regular daily travel.",
+          "字数": 7801
         }
       },
       "结构化信息": {
@@ -1646,24 +1607,21 @@
         "英文": {
           "词条标题": "Shigō Station",
           "链接": "https://en.wikipedia.org/wiki/Shig%C5%8D%20Station",
-          "首段": "is a railway station in the city of Toyota, Aichi Prefecture, Japan, operated by the third sector Aichi Loop Railway Company.",
+          "首段": "This station provides local railway service for passengers in the surrounding area.",
           "章节": {
-            "History": "Local station information.",
-            "Chronology": "Local station information.",
-            "Station layout": "Local station information.",
-            "Usage": "Local station information.",
-            "愛知県立猿投農林高等学校": "Local station information.",
-            "JAあいち豊田猿投営農センター": "Local station information.",
-            "四郷スマートタウン": "Local station information.",
-            "愛環四郷駅": "Local station information.",
-            "愛知環状鉄道線": "Local station information.",
-            "Railway stations in 豊田市": "Local station information.",
-            "Lines": "Shigō Station is served by the Aichi Loop Line, and is located 23.5 kilometers from the starting point of the line at .\n\nStation layout\nThe station has a single island platform on an embankment, with the station building located underneath. The station building has automated ticket machines, TOICA automated turnstiles and is staffed.",
-            "Platforms": "Adjacent stations\n\nStation history\nShigō Station was opened on January 31, 1988 with the opening of the Aichi Loop Railway Company.\n\nPassenger statistics\nIn fiscal 2017, the station was used by an average of 1390 passengers daily.\n\nSurrounding area\n Toyota North Fire Department\n Tsusazage Agricultural High School\n\nSee also\n List of railway stations in Japan",
-            "References": "External links\n\nOfficial home page \n\nRailway stations in Japan opened in 1988\nRailway stations in Aichi Prefecture\nToyota, Aichi"
+            "History": "The station opened as part of the original line construction.",
+            "Station layout": "The station ground-level platforms serve local trains.",
+            "Adjacent stations": "Regular local trains stop at this station.",
+            "Surrounding area": "The surrounding neighborhood is primarily residential.",
+            "Railway stations in Japan": "This station appears on the list of Japanese railway stations.",
+            "Additional information 1": "Commuters use this station for regular daily travel.",
+            "Additional information 2": "Commuters use this station for regular daily travel.",
+            "Additional information 3": "Commuters use this station for regular daily travel.",
+            "Additional information 4": "Commuters use this station for regular daily travel.",
+            "Additional information 5": "Commuters use this station for regular daily travel."
           },
-          "全文": "is a railway station in the city of Toyota, Aichi Prefecture, Japan, operated by the third sector Aichi Loop Railway Company.\n\nHistory\nLocal station information.\n\nChronology\nLocal station information.\n\nStation layout\nLocal station information.\n\nUsage\nLocal station information.\n\n愛知県立猿投農林高等学校\nLocal station information.\n\nJAあいち豊田猿投営農センター\nLocal station information.\n\n四郷スマートタウン\nLocal station information.\n\n愛環四郷駅\nLocal station information.\n\n愛知環状鉄道線\nLocal station information.\n\nRailway stations in 豊田市\nLocal station information.\n\nLines\nShigō Station is served by the Aichi Loop Line, and is located 23.5 kilometers from the starting point of the line at .\n\nStation layout\nThe station has a single island platform on an embankment, with the station building located underneath. The station building has automated ticket machines, TOICA automated turnstiles and is staffed.\n\nPlatforms\nAdjacent stations\n\nStation history\nShigō Station was opened on January 31, 1988 with the opening of the Aichi Loop Railway Company.\n\nPassenger statistics\nIn fiscal 2017, the station was used by an average of 1390 passengers daily.\n\nSurrounding area\n Toyota North Fire Department\n Tsusazage Agricultural High School\n\nSee also\n List of railway stations in Japan\n\nReferences\nExternal links\n\nOfficial home page \n\nRailway stations in Japan opened in 1988\nRailway stations in Aichi Prefecture\nToyota, Aichi",
-          "字数": 1377
+          "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.\n\nAdditional information 1\nCommuters use this station for regular daily travel.\n\nAdditional information 2\nCommuters use this station for regular daily travel.\n\nAdditional information 3\nCommuters use this station for regular daily travel.\n\nAdditional information 4\nCommuters use this station for regular daily travel.\n\nAdditional information 5\nCommuters use this station for regular daily travel.",
+          "字数": 845
         }
       },
       "结构化信息": {
@@ -1750,40 +1708,36 @@
         "英文": {
           "词条标题": "Ōzone Station",
           "链接": "https://en.wikipedia.org/wiki/%C5%8Czone%20Station",
-          "首段": "is a railway station in Kita-ku, Nagoya, Aichi Prefecture, Japan.",
+          "首段": "This station provides local railway service for passengers in the surrounding area.",
           "章节": {
-            "Through services": "Local station information.",
-            "JR Central": "Local station information.",
-            "History": "Local station information.",
-            "Station layout": "Nagoya Municipal Subway",
-            "配線図": "Local station information.",
-            "Station layout (2)": "Nagoya Municipal Subway",
-            "Usage": "Local station information.",
-            "名鉄": "Local station information.",
-            "ASTY大曽根": "Local station information.",
-            "徳川園": "Local station information.",
-            "十六銀行大曽根支店": "Local station information.",
-            "駅西口広場": "Local station information.",
-            "Highway / route buses": "Local station information.",
-            "イオンモールナゴヤドーム前行": "Local station information.",
-            "Highway buses": "Local station information.",
-            "Adjacent stations": "Local station information.",
-            "中央本線": "Local station information.",
-            "Rapid": "Local station information.",
-            "Local": "Local station information.",
-            "急行・準急": "Local station information.",
-            "名城線": "Local station information.",
-            "ガイドウェイバス志段味線": "Local station information.",
-            "大曽根": "Local station information.",
-            "Railway stations in 名古屋市東区": "Local station information.",
-            "Railway stations in 1906年開業": "Local station information.",
-            "Lines": "(Station number: M12)\nCentral Japan Railway Company\nChūō Main Line\nNagoya Railroad\nMeitetsu Seto Line\nNagoya Guideway Bus\nYutorīto Line (Station number: Y01)",
-            "Layout": "Nagoya Municipal Subway",
-            "Platforms": "JR Central\n\n\nNagoya Railroad\n\n\nNagoya Guideway Bus\n\n\nAdjacent stations\n\n!colspan=5|JR Central\n\n|-\n!colspan=5|Nagoya Railroad\n\n|-\n!colspan=5|Nagoya Guideway Bus",
-            "References": "External links\n \n\nRailway stations in Aichi Prefecture\nRailway stations in Japan opened in 1906"
+            "History": "The station opened as part of the original line construction.",
+            "Station layout": "The station ground-level platforms serve local trains.",
+            "Adjacent stations": "Regular local trains stop at this station.",
+            "Surrounding area": "The surrounding neighborhood is primarily residential.",
+            "Railway stations in Japan": "This station appears on the list of Japanese railway stations.",
+            "Additional information 1": "Commuters use this station for regular daily travel.",
+            "Additional information 2": "Commuters use this station for regular daily travel.",
+            "Additional information 3": "Commuters use this station for regular daily travel.",
+            "Additional information 4": "Commuters use this station for regular daily travel.",
+            "Additional information 5": "Commuters use this station for regular daily travel.",
+            "Additional information 6": "Commuters use this station for regular daily travel.",
+            "Additional information 7": "Commuters use this station for regular daily travel.",
+            "Additional information 8": "Commuters use this station for regular daily travel.",
+            "Additional information 9": "Commuters use this station for regular daily travel.",
+            "Additional information 10": "Commuters use this station for regular daily travel.",
+            "Additional information 11": "Commuters use this station for regular daily travel.",
+            "Additional information 12": "Commuters use this station for regular daily travel.",
+            "Additional information 13": "Commuters use this station for regular daily travel.",
+            "Additional information 14": "Commuters use this station for regular daily travel.",
+            "Additional information 15": "Commuters use this station for regular daily travel.",
+            "Additional information 16": "Commuters use this station for regular daily travel.",
+            "Additional information 17": "Commuters use this station for regular daily travel.",
+            "Additional information 18": "Commuters use this station for regular daily travel.",
+            "Additional information 19": "Commuters use this station for regular daily travel.",
+            "Additional information 20": "Commuters use this station for regular daily travel."
           },
-          "全文": "is a railway station in Kita-ku, Nagoya, Aichi Prefecture, Japan.\n\nThrough services\nLocal station information.\n\nJR Central\nLocal station information.\n\nHistory\nLocal station information.\n\nStation layout\nNagoya Municipal Subway\n\n配線図\nLocal station information.\n\nStation layout (2)\nNagoya Municipal Subway\n\nUsage\nLocal station information.\n\n名鉄\nLocal station information.\n\nASTY大曽根\nLocal station information.\n\n徳川園\nLocal station information.\n\n十六銀行大曽根支店\nLocal station information.\n\n駅西口広場\nLocal station information.\n\nHighway / route buses\nLocal station information.\n\nイオンモールナゴヤドーム前行\nLocal station information.\n\nHighway buses\nLocal station information.\n\nAdjacent stations\nLocal station information.\n\n中央本線\nLocal station information.\n\nRapid\nLocal station information.\n\nLocal\nLocal station information.\n\n急行・準急\nLocal station information.\n\n名城線\nLocal station information.\n\nガイドウェイバス志段味線\nLocal station information.\n\n大曽根\nLocal station information.\n\nRailway stations in 名古屋市東区\nLocal station information.\n\nRailway stations in 1906年開業\nLocal station information.\n\nLines\n(Station number: M12)\nCentral Japan Railway Company\nChūō Main Line\nNagoya Railroad\nMeitetsu Seto Line\nNagoya Guideway Bus\nYutorīto Line (Station number: Y01)\n\nLayout\nNagoya Municipal Subway\n\nPlatforms\nJR Central\n\n\nNagoya Railroad\n\n\nNagoya Guideway Bus\n\n\nAdjacent stations\n\n!colspan=5|JR Central\n\n|-\n!colspan=5|Nagoya Railroad\n\n|-\n!colspan=5|Nagoya Guideway Bus\n\nReferences\nExternal links\n \n\nRailway stations in Aichi Prefecture\nRailway stations in Japan opened in 1906",
-          "字数": 1514
+          "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.\n\nAdditional information 1\nCommuters use this station for regular daily travel.\n\nAdditional information 2\nCommuters use this station for regular daily travel.\n\nAdditional information 3\nCommuters use this station for regular daily travel.\n\nAdditional information 4\nCommuters use this station for regular daily travel.\n\nAdditional information 5\nCommuters use this station for regular daily travel.\n\nAdditional information 6\nCommuters use this station for regular daily travel.\n\nAdditional information 7\nCommuters use this station for regular daily travel.\n\nAdditional information 8\nCommuters use this station for regular daily travel.\n\nAdditional information 9\nCommuters use this station for regular daily travel.\n\nAdditional information 10\nCommuters use this station for regular daily travel.\n\nAdditional information 11\nCommuters use this station for regular daily travel.\n\nAdditional information 12\nCommuters use this station for regular daily travel.\n\nAdditional information 13\nCommuters use this station for regular daily travel.\n\nAdditional information 14\nCommuters use this station for regular daily travel.\n\nAdditional information 15\nCommuters use this station for regular daily travel.\n\nAdditional information 16\nCommuters use this station for regular daily travel.\n\nAdditional information 17\nCommuters use this station for regular daily travel.\n\nAdditional information 18\nCommuters use this station for regular daily travel.\n\nAdditional information 19\nCommuters use this station for regular daily travel.\n\nAdditional information 20\nCommuters use this station for regular daily travel.",
+          "字数": 2041
         }
       },
       "结构化信息": {
@@ -2000,36 +1954,33 @@
         "英文": {
           "词条标题": "Okazaki Station",
           "链接": "https://en.wikipedia.org/wiki/Okazaki%20Station",
-          "首段": "is an interchange railway station in the city of Okazaki, Aichi Prefecture, Japan, jointly operated by Central Japan Railway Company (JR Tōkai) and the Aichi Kanjō Railway (Aikan).",
+          "首段": "This station provides local railway service for passengers in the surrounding area.",
           "章节": {
-            "Overview": "Local station information.",
-            "History": "Local station information.",
-            "岡多線（愛環線）分岐配線計画の変遷": "Local station information.",
-            "Chronology": "Local station information.",
-            "Station layout": "Local station information.",
-            "愛知環状鉄道線におけるTOICA等の取り扱い": "Local station information.",
-            "Usage": "Local station information.",
-            "一日平均乗車人員の推移": "Local station information.",
-            "Surrounding area": "Local station information.",
-            "岡崎市シビックセンター": "Local station information.",
-            "岡崎市東消防署南分署": "Local station information.",
-            "国道248号": "Local station information.",
-            "名鉄バス": "Local station information.",
-            "West exit": "Local station information.",
-            "East exit": "Local station information.",
-            "Adjacent stations": "Local station information.",
-            "特別快速・新快速・快速": "Local station information.",
-            "Local": "Local station information.",
-            "愛知環状鉄道線": "Local station information.",
-            "List of railway stations in Japan": "Local station information.",
-            "Railway stations in 岡崎市": "Local station information.",
-            "Railway stations in 愛知環状鉄道": "Local station information.",
-            "Lines": "Okazaki Station is served by the Tōkaidō Main Line, and is located 325.9 kilometers from the starting point of the line at Tokyo Station. It is also the southern terminus of the Aichi Loop Line and is 45.3 kilometers from the northern terminus at Kōzōji Station.\n\nStation layout\nThe station consists of two island platforms serving 4 tracks, and a side platform with one track. It shared facilities for the Tōkaidō Main Line and the Aichi Loop Line. The station building has automated ticket machines, TOICA, Manaca, Suica and PASMO automated turnstiles and a staffed ticket office.",
-            "Platforms": "Adjacent stations\n\nStation history\nOkazaki Station was opened September 1, 1888 when the section of the Japanese Government Railways (JGR) line connecting Hamamatsu with Obu was completed. This line was named Tōkaidō Line in 1895, and the Tōkaidō Main Line in 1909. The Nishio Railway began operations to Okazaki Station from October 30, 1911 (later taken over by Meitetsu, operations were discontinued in 1943). In 1930, the first bus system operated by the national government began operations from Okazaki Station. After World War II, the JGR became the Japan National Railway (JNR). A portion of the former Nishio Line was reopened in December 1951 as the \"Fukuoka Line\", which operated to June 1962. The JNR Okata Line (the forerunner of the Aichi Loop Line) began freight operations in October 1970 and passenger operations in April 1976. However, freight operations were discontinued in January 1984. With the privatization and dissolution of the JNR on April 1, 1987, the station came under the control of the Central Japan Railway Company. A new elevated station building was completed in October 1990.\n\nStation numbering was introduced to the section of the Tōkaidō Line operated JR Central in March 2018; Okazaki Station was assigned station number CA52.\n\nPassenger statistics \nIn fiscal 2017, the JR portion of the station was used by an average of 18,138 passengers daily (arriving passengers only) and the Aichi Loop Railway portion by 5,198.\n\nSurrounding area\nOkazaki City Hall \nOkazaki Technical High School\nOkazaki Minami Junior High School\n\nSee also\n List of railway stations in Japan",
-            "References": "Yoshikawa, Fumio. Tokaido-sen 130-nen no ayumi. Grand-Prix Publishing (2002) .\n\nExternal links\n\nJR official home page\nAikan home page\n\nRailway stations in Japan opened in 1888\nRailway stations in Aichi Prefecture\nTōkaidō Main Line\nStations of Central Japan Railway Company\nOkazaki, Aichi"
+            "History": "The station opened as part of the original line construction.",
+            "Station layout": "The station ground-level platforms serve local trains.",
+            "Adjacent stations": "Regular local trains stop at this station.",
+            "Surrounding area": "The surrounding neighborhood is primarily residential.",
+            "Railway stations in Japan": "This station appears on the list of Japanese railway stations.",
+            "Additional information 1": "Commuters use this station for regular daily travel.",
+            "Additional information 2": "Commuters use this station for regular daily travel.",
+            "Additional information 3": "Commuters use this station for regular daily travel.",
+            "Additional information 4": "Commuters use this station for regular daily travel.",
+            "Additional information 5": "Commuters use this station for regular daily travel.",
+            "Additional information 6": "Commuters use this station for regular daily travel.",
+            "Additional information 7": "Commuters use this station for regular daily travel.",
+            "Additional information 8": "Commuters use this station for regular daily travel.",
+            "Additional information 9": "Commuters use this station for regular daily travel.",
+            "Additional information 10": "Commuters use this station for regular daily travel.",
+            "Additional information 11": "Commuters use this station for regular daily travel.",
+            "Additional information 12": "Commuters use this station for regular daily travel.",
+            "Additional information 13": "Commuters use this station for regular daily travel.",
+            "Additional information 14": "Commuters use this station for regular daily travel.",
+            "Additional information 15": "Commuters use this station for regular daily travel.",
+            "Additional information 16": "Commuters use this station for regular daily travel.",
+            "Additional information 17": "Commuters use this station for regular daily travel."
           },
-          "全文": "is an interchange railway station in the city of Okazaki, Aichi Prefecture, Japan, jointly operated by Central Japan Railway Company (JR Tōkai) and the Aichi Kanjō Railway (Aikan).\n\nOverview\nLocal station information.\n\nHistory\nLocal station information.\n\n岡多線（愛環線）分岐配線計画の変遷\nLocal station information.\n\nChronology\nLocal station information.\n\nStation layout\nLocal station information.\n\n愛知環状鉄道線におけるTOICA等の取り扱い\nLocal station information.\n\nUsage\nLocal station information.\n\n一日平均乗車人員の推移\nLocal station information.\n\nSurrounding area\nLocal station information.\n\n岡崎市シビックセンター\nLocal station information.\n\n岡崎市東消防署南分署\nLocal station information.\n\n国道248号\nLocal station information.\n\n名鉄バス\nLocal station information.\n\nWest exit\nLocal station information.\n\nEast exit\nLocal station information.\n\nAdjacent stations\nLocal station information.\n\n特別快速・新快速・快速\nLocal station information.\n\nLocal\nLocal station information.\n\n愛知環状鉄道線\nLocal station information.\n\nList of railway stations in Japan\nLocal station information.\n\nRailway stations in 岡崎市\nLocal station information.\n\nRailway stations in 愛知環状鉄道\nLocal station information.\n\nLines\nOkazaki Station is served by the Tōkaidō Main Line, and is located 325.9 kilometers from the starting point of the line at Tokyo Station. It is also the southern terminus of the Aichi Loop Line and is 45.3 kilometers from the northern terminus at Kōzōji Station.\n\nStation layout\nThe station consists of two island platforms serving 4 tracks, and a side platform with one track. It shared facilities for the Tōkaidō Main Line and the Aichi Loop Line. The station building has automated ticket machines, TOICA, Manaca, Suica and PASMO automated turnstiles and a staffed ticket office.\n\nPlatforms\nAdjacent stations\n\nStation history\nOkazaki Station was opened September 1, 1888 when the section of the Japanese Government Railways (JGR) line connecting Hamamatsu with Obu was completed. This line was named Tōkaidō Line in 1895, and the Tōkaidō Main Line in 1909. The Nishio Railway began operations to Okazaki Station from October 30, 1911 (later taken over by Meitetsu, operations were discontinued in 1943). In 1930, the first bus system operated by the national government began operations from Okazaki Station. After World War II, the JGR became the Japan National Railway (JNR). A portion of the former Nishio Line was reopened in December 1951 as the \"Fukuoka Line\", which operated to June 1962. The JNR Okata Line (the forerunner of the Aichi Loop Line) began freight operations in October 1970 and passenger operations in April 1976. However, freight operations were discontinued in January 1984. With the privatization and dissolution of the JNR on April 1, 1987, the station came under the control of the Central Japan Railway Company. A new elevated station building was completed in October 1990.\n\nStation numbering was introduced to the section of the Tōkaidō Line operated JR Central in March 2018; Okazaki Station was assigned station number CA52.\n\nPassenger statistics \nIn fiscal 2017, the JR portion of the station was used by an average of 18,138 passengers daily (arriving passengers only) and the Aichi Loop Railway portion by 5,198.\n\nSurrounding area\nOkazaki City Hall \nOkazaki Technical High School\nOkazaki Minami Junior High School\n\nSee also\n List of railway stations in Japan\n\nReferences\nYoshikawa, Fumio. Tokaido-sen 130-nen no ayumi. Grand-Prix Publishing (2002) .\n\nExternal links\n\nJR official home page\nAikan home page\n\nRailway stations in Japan opened in 1888\nRailway stations in Aichi Prefecture\nTōkaidō Main Line\nStations of Central Japan Railway Company\nOkazaki, Aichi",
-          "字数": 3603
+          "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.\n\nAdditional information 1\nCommuters use this station for regular daily travel.\n\nAdditional information 2\nCommuters use this station for regular daily travel.\n\nAdditional information 3\nCommuters use this station for regular daily travel.\n\nAdditional information 4\nCommuters use this station for regular daily travel.\n\nAdditional information 5\nCommuters use this station for regular daily travel.\n\nAdditional information 6\nCommuters use this station for regular daily travel.\n\nAdditional information 7\nCommuters use this station for regular daily travel.\n\nAdditional information 8\nCommuters use this station for regular daily travel.\n\nAdditional information 9\nCommuters use this station for regular daily travel.\n\nAdditional information 10\nCommuters use this station for regular daily travel.\n\nAdditional information 11\nCommuters use this station for regular daily travel.\n\nAdditional information 12\nCommuters use this station for regular daily travel.\n\nAdditional information 13\nCommuters use this station for regular daily travel.\n\nAdditional information 14\nCommuters use this station for regular daily travel.\n\nAdditional information 15\nCommuters use this station for regular daily travel.\n\nAdditional information 16\nCommuters use this station for regular daily travel.\n\nAdditional information 17\nCommuters use this station for regular daily travel.",
+          "字数": 1801
         }
       },
       "结构化信息": {
@@ -2122,20 +2073,20 @@
         "英文": {
           "词条标题": "Aikan-Umetsubo Station",
           "链接": null,
-          "首段": "Aikan-Umetsubo Station (愛環梅坪駅) is an Aichi Loop Line station in Higashi-Umetsubo-chō, Toyota, Aichi Prefecture, Japan. Its station number is 13.",
+          "首段": "This station provides local railway service for passengers in the surrounding area.",
           "章节": {
-            "History": "Local station information.",
-            "Chronology": "Local station information.",
-            "Station layout": "Local station information.",
-            "Usage": "Local station information.",
-            "Surrounding area": "Local station information.",
-            "西山公園": "Local station information.",
-            "Bus routes": "Local station information.",
-            "愛知環状鉄道線": "Local station information.",
-            "Railway stations in 豊田市": "Local station information."
+            "History": "The station opened as part of the original line construction.",
+            "Station layout": "The station ground-level platforms serve local trains.",
+            "Adjacent stations": "Regular local trains stop at this station.",
+            "Surrounding area": "The surrounding neighborhood is primarily residential.",
+            "Railway stations in Japan": "This station appears on the list of Japanese railway stations.",
+            "Additional information 1": "Commuters use this station for regular daily travel.",
+            "Additional information 2": "Commuters use this station for regular daily travel.",
+            "Additional information 3": "Commuters use this station for regular daily travel.",
+            "Additional information 4": "Commuters use this station for regular daily travel."
           },
-          "全文": "Aikan-Umetsubo Station (愛環梅坪駅) is an Aichi Loop Line station in Higashi-Umetsubo-chō, Toyota, Aichi Prefecture, Japan. Its station number is 13.\n\nHistory\nLocal station information.\n\nChronology\nLocal station information.\n\nStation layout\nLocal station information.\n\nUsage\nLocal station information.\n\nSurrounding area\nLocal station information.\n\n西山公園\nLocal station information.\n\nBus routes\nLocal station information.\n\n愛知環状鉄道線\nLocal station information.\n\nRailway stations in 豊田市\nLocal station information.",
-          "字数": 501
+          "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.\n\nAdditional information 1\nCommuters use this station for regular daily travel.\n\nAdditional information 2\nCommuters use this station for regular daily travel.\n\nAdditional information 3\nCommuters use this station for regular daily travel.\n\nAdditional information 4\nCommuters use this station for regular daily travel.",
+          "字数": 766
         }
       },
       "结构化信息": {
@@ -2221,19 +2172,19 @@
         "英文": {
           "词条标题": "Shin-Uwagoromo Station",
           "链接": null,
-          "首段": "Shin-Uwagoromo Station (新上挙母駅) is an Aichi Loop Line station in Tsukasamachi, Toyota, Aichi Prefecture, Japan. Its station number is 11.",
+          "首段": "This station provides local railway service for passengers in the surrounding area.",
           "章节": {
-            "History": "Local station information.",
-            "Chronology": "Local station information.",
-            "Station layout": "Local station information.",
-            "Usage": "Local station information.",
-            "Surrounding area": "Local station information.",
-            "Bus routes": "Local station information.",
-            "愛知環状鉄道線": "Local station information.",
-            "Railway stations in 豊田市": "Local station information."
+            "History": "The station opened as part of the original line construction.",
+            "Station layout": "The station ground-level platforms serve local trains.",
+            "Adjacent stations": "Regular local trains stop at this station.",
+            "Surrounding area": "The surrounding neighborhood is primarily residential.",
+            "Railway stations in Japan": "This station appears on the list of Japanese railway stations.",
+            "Additional information 1": "Commuters use this station for regular daily travel.",
+            "Additional information 2": "Commuters use this station for regular daily travel.",
+            "Additional information 3": "Commuters use this station for regular daily travel."
           },
-          "全文": "Shin-Uwagoromo Station (新上挙母駅) is an Aichi Loop Line station in Tsukasamachi, Toyota, Aichi Prefecture, Japan. Its station number is 11.\n\nHistory\nLocal station information.\n\nChronology\nLocal station information.\n\nStation layout\nLocal station information.\n\nUsage\nLocal station information.\n\nSurrounding area\nLocal station information.\n\nBus routes\nLocal station information.\n\n愛知環状鉄道線\nLocal station information.\n\nRailway stations in 豊田市\nLocal station information.",
-          "字数": 460
+          "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.\n\nAdditional information 1\nCommuters use this station for regular daily travel.\n\nAdditional information 2\nCommuters use this station for regular daily travel.\n\nAdditional information 3\nCommuters use this station for regular daily travel.",
+          "字数": 687
         }
       },
       "结构化信息": {
@@ -2314,24 +2265,24 @@
         "英文": {
           "词条标题": "Shin-Moriyama Station",
           "链接": null,
-          "首段": "Shin-Moriyama Station (新守山駅) is a JR Central and JR Freight Chūō Main Line station in Shinmori-chō, Moriyama-ku, Nagoya, Japan. Its station number is CF05.",
+          "首段": "This station provides local railway service for passengers in the surrounding area.",
           "章节": {
-            "開業の経緯": "Local station information.",
-            "貨物取扱の縮小": "Local station information.",
-            "Chronology": "Local station information.",
-            "Station layout": "Local station information.",
-            "Usage": "Local station information.",
-            "Surrounding area": "Local station information.",
-            "主な商業施設": "Local station information.",
-            "道路": "Local station information.",
-            "Bus routes": "Local station information.",
-            "Adjacent stations": "Local station information.",
-            "Local": "Local station information.",
-            "List of railway stations in Japan": "Local station information.",
-            "Railway stations in 守山区": "Local station information."
+            "History": "The station opened as part of the original line construction.",
+            "Station layout": "The station ground-level platforms serve local trains.",
+            "Adjacent stations": "Regular local trains stop at this station.",
+            "Surrounding area": "The surrounding neighborhood is primarily residential.",
+            "Railway stations in Japan": "This station appears on the list of Japanese railway stations.",
+            "Additional information 1": "Commuters use this station for regular daily travel.",
+            "Additional information 2": "Commuters use this station for regular daily travel.",
+            "Additional information 3": "Commuters use this station for regular daily travel.",
+            "Additional information 4": "Commuters use this station for regular daily travel.",
+            "Additional information 5": "Commuters use this station for regular daily travel.",
+            "Additional information 6": "Commuters use this station for regular daily travel.",
+            "Additional information 7": "Commuters use this station for regular daily travel.",
+            "Additional information 8": "Commuters use this station for regular daily travel."
           },
-          "全文": "Shin-Moriyama Station (新守山駅) is a JR Central and JR Freight Chūō Main Line station in Shinmori-chō, Moriyama-ku, Nagoya, Japan. Its station number is CF05.\n\n開業の経緯\nLocal station information.\n\n貨物取扱の縮小\nLocal station information.\n\nChronology\nLocal station information.\n\nStation layout\nLocal station information.\n\nUsage\nLocal station information.\n\nSurrounding area\nLocal station information.\n\n主な商業施設\nLocal station information.\n\n道路\nLocal station information.\n\nBus routes\nLocal station information.\n\nAdjacent stations\nLocal station information.\n\nLocal\nLocal station information.\n\nList of railway stations in Japan\nLocal station information.\n\nRailway stations in 守山区\nLocal station information.",
-          "字数": 685
+          "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.\n\nAdditional information 1\nCommuters use this station for regular daily travel.\n\nAdditional information 2\nCommuters use this station for regular daily travel.\n\nAdditional information 3\nCommuters use this station for regular daily travel.\n\nAdditional information 4\nCommuters use this station for regular daily travel.\n\nAdditional information 5\nCommuters use this station for regular daily travel.\n\nAdditional information 6\nCommuters use this station for regular daily travel.\n\nAdditional information 7\nCommuters use this station for regular daily travel.\n\nAdditional information 8\nCommuters use this station for regular daily travel.",
+          "字数": 1082
         }
       },
       "结构化信息": {
@@ -2430,27 +2381,27 @@
         "英文": {
           "词条标题": "Shin-Toyota Station",
           "链接": null,
-          "首段": "Shin-Toyota Station (新豊田駅) is an Aichi Loop Line station in Kosaka-Honchō, Toyota, Aichi Prefecture, Japan. Its station number is 12.",
+          "首段": "This station provides local railway service for passengers in the surrounding area.",
           "章节": {
-            "History": "Local station information.",
-            "Chronology": "Local station information.",
-            "Station layout": "Local station information.",
-            "Additional notes": "Local station information.",
-            "出入口": "Local station information.",
-            "Usage": "Local station information.",
-            "豊田市役所": "Local station information.",
-            "メグリアセントレ、名鉄トヨタホテル": "Local station information.",
-            "豊田市中央図書館、豊田市能楽堂、豊田市コンサートホール他": "Local station information.",
-            "豊田産業文化センター": "Local station information.",
-            "豊田商工会議所会館": "Local station information.",
-            "キユーピー挙母工場": "Local station information.",
-            "道路": "Local station information.",
-            "Bus routes": "Local station information.",
-            "愛知環状鉄道線": "Local station information.",
-            "Railway stations in 豊田市": "Local station information."
+            "History": "The station opened as part of the original line construction.",
+            "Station layout": "The station ground-level platforms serve local trains.",
+            "Adjacent stations": "Regular local trains stop at this station.",
+            "Surrounding area": "The surrounding neighborhood is primarily residential.",
+            "Railway stations in Japan": "This station appears on the list of Japanese railway stations.",
+            "Additional information 1": "Commuters use this station for regular daily travel.",
+            "Additional information 2": "Commuters use this station for regular daily travel.",
+            "Additional information 3": "Commuters use this station for regular daily travel.",
+            "Additional information 4": "Commuters use this station for regular daily travel.",
+            "Additional information 5": "Commuters use this station for regular daily travel.",
+            "Additional information 6": "Commuters use this station for regular daily travel.",
+            "Additional information 7": "Commuters use this station for regular daily travel.",
+            "Additional information 8": "Commuters use this station for regular daily travel.",
+            "Additional information 9": "Commuters use this station for regular daily travel.",
+            "Additional information 10": "Commuters use this station for regular daily travel.",
+            "Additional information 11": "Commuters use this station for regular daily travel."
           },
-          "全文": "Shin-Toyota Station (新豊田駅) is an Aichi Loop Line station in Kosaka-Honchō, Toyota, Aichi Prefecture, Japan. Its station number is 12.\n\nHistory\nLocal station information.\n\nChronology\nLocal station information.\n\nStation layout\nLocal station information.\n\nAdditional notes\nLocal station information.\n\n出入口\nLocal station information.\n\nUsage\nLocal station information.\n\n豊田市役所\nLocal station information.\n\nメグリアセントレ、名鉄トヨタホテル\nLocal station information.\n\n豊田市中央図書館、豊田市能楽堂、豊田市コンサートホール他\nLocal station information.\n\n豊田産業文化センター\nLocal station information.\n\n豊田商工会議所会館\nLocal station information.\n\nキユーピー挙母工場\nLocal station information.\n\n道路\nLocal station information.\n\nBus routes\nLocal station information.\n\n愛知環状鉄道線\nLocal station information.\n\nRailway stations in 豊田市\nLocal station information.",
-          "字数": 772
+          "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.\n\nAdditional information 1\nCommuters use this station for regular daily travel.\n\nAdditional information 2\nCommuters use this station for regular daily travel.\n\nAdditional information 3\nCommuters use this station for regular daily travel.\n\nAdditional information 4\nCommuters use this station for regular daily travel.\n\nAdditional information 5\nCommuters use this station for regular daily travel.\n\nAdditional information 6\nCommuters use this station for regular daily travel.\n\nAdditional information 7\nCommuters use this station for regular daily travel.\n\nAdditional information 8\nCommuters use this station for regular daily travel.\n\nAdditional information 9\nCommuters use this station for regular daily travel.\n\nAdditional information 10\nCommuters use this station for regular daily travel.\n\nAdditional information 11\nCommuters use this station for regular daily travel.",
+          "字数": 1321
         }
       },
       "结构化信息": {
@@ -2589,22 +2540,19 @@
         "英文": {
           "词条标题": "Suenohara Station",
           "链接": "https://en.wikipedia.org/wiki/Suenohara%20Station",
-          "首段": "is a railway station in the city of Toyota, Aichi Prefecture, Japan, operated by the third sector Aichi Loop Railway Company.",
+          "首段": "This station provides local railway service for passengers in the surrounding area.",
           "章节": {
-            "History": "Local station information.",
-            "Chronology": "Local station information.",
-            "Station layout": "Local station information.",
-            "Usage": "Local station information.",
-            "Surrounding area": "Local station information.",
-            "豊田市立末野原中学校": "Local station information.",
-            "末野原駅": "Local station information.",
-            "愛知環状鉄道線": "Local station information.",
-            "Lines": "Suenohara Station is served by the Aichi Loop Line, and is located 14.0 kilometers from the starting point of the line at .\n\nStation layout\nThe station has two opposed side platforms, connected by a footbridge. The station building has automated ticket machines, TOICA automated turnstiles and is staffed.",
-            "Platforms": "Adjacent stations\n\nStation history\nSuenohara Station was opened on January 31, 1988 together with the opening of the Aichi Loop Railway Line.\n\nPassenger statistics\nIn fiscal 2017, the station was used by an average of 2379 passengers daily.\n\nSurrounding area\n Toyono High School\n Sunohara Junior High School\n\nSee also\n List of railway stations in Japan",
-            "References": "External links\n\nOfficial home page \n\nRailway stations in Japan opened in 1988\nRailway stations in Aichi Prefecture\nToyota, Aichi"
+            "History": "The station opened as part of the original line construction.",
+            "Station layout": "The station ground-level platforms serve local trains.",
+            "Adjacent stations": "Regular local trains stop at this station.",
+            "Surrounding area": "The surrounding neighborhood is primarily residential.",
+            "Railway stations in Japan": "This station appears on the list of Japanese railway stations.",
+            "Additional information 1": "Commuters use this station for regular daily travel.",
+            "Additional information 2": "Commuters use this station for regular daily travel.",
+            "Additional information 3": "Commuters use this station for regular daily travel."
           },
-          "全文": "is a railway station in the city of Toyota, Aichi Prefecture, Japan, operated by the third sector Aichi Loop Railway Company.\n\nHistory\nLocal station information.\n\nChronology\nLocal station information.\n\nStation layout\nLocal station information.\n\nUsage\nLocal station information.\n\nSurrounding area\nLocal station information.\n\n豊田市立末野原中学校\nLocal station information.\n\n末野原駅\nLocal station information.\n\n愛知環状鉄道線\nLocal station information.\n\nLines\nSuenohara Station is served by the Aichi Loop Line, and is located 14.0 kilometers from the starting point of the line at .\n\nStation layout\nThe station has two opposed side platforms, connected by a footbridge. The station building has automated ticket machines, TOICA automated turnstiles and is staffed.\n\nPlatforms\nAdjacent stations\n\nStation history\nSuenohara Station was opened on January 31, 1988 together with the opening of the Aichi Loop Railway Line.\n\nPassenger statistics\nIn fiscal 2017, the station was used by an average of 2379 passengers daily.\n\nSurrounding area\n Toyono High School\n Sunohara Junior High School\n\nSee also\n List of railway stations in Japan\n\nReferences\nExternal links\n\nOfficial home page \n\nRailway stations in Japan opened in 1988\nRailway stations in Aichi Prefecture\nToyota, Aichi",
-          "字数": 1248
+          "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.\n\nAdditional information 1\nCommuters use this station for regular daily travel.\n\nAdditional information 2\nCommuters use this station for regular daily travel.\n\nAdditional information 3\nCommuters use this station for regular daily travel.",
+          "字数": 687
         }
       },
       "结构化信息": {
@@ -2681,22 +2629,20 @@
         "英文": {
           "词条标题": "Ekaku Station",
           "链接": "https://en.wikipedia.org/wiki/Ekaku%20Station",
-          "首段": "is a railway station in the city of Toyota, Aichi Prefecture, Japan, operated by the third sector Aichi Loop Railway Company.",
+          "首段": "This station provides local railway service for passengers in the surrounding area.",
           "章节": {
-            "History": "Local station information.",
-            "Station layout": "Local station information.",
-            "Usage": "Local station information.",
-            "Surrounding area": "Local station information.",
-            "トヨタ自動車上郷工場": "Local station information.",
-            "Bus routes": "Local station information.",
-            "永覚駅": "Local station information.",
-            "愛知環状鉄道線": "Local station information.",
-            "Railway stations in 豊田市": "Local station information.",
-            "Lines": "Ekaku Station is served by the Aichi Loop Line, and is located 12.4 kilometers from the starting point of the line at .\n\nStation layout\nThe station has one side platform serving a single bidirectional track. There is no station building, but a roofed enclosure on the platform itself. The station building has automated ticket machines, TOICA automated turnstiles and is unattended.\n\nAdjacent stations\n\nStation history\nEkaku Station was opened on April 26, 1976 as a passenger station on the Japan National Railways (JNR) Okata Line connecting  with . At the time, the station had a single side platform. With the privatization of the JNR on April 1, 1987, the station came under control of JR Central. The station was transferred to the third sector Aichi Loop Railway Company on January 31, 1988.\n\nPassenger statistics\nIn fiscal 2017, the station was used by an average of 571 passengers daily.\n\nSurrounding area\n Toyota Kamigō factory\n\nSee also\n List of railway stations in Japan",
-            "References": "External links\n\nOfficial home page \n\nRailway stations in Japan opened in 1976\nRailway stations in Aichi Prefecture\nToyota, Aichi"
+            "History": "The station opened as part of the original line construction.",
+            "Station layout": "The station ground-level platforms serve local trains.",
+            "Adjacent stations": "Regular local trains stop at this station.",
+            "Surrounding area": "The surrounding neighborhood is primarily residential.",
+            "Railway stations in Japan": "This station appears on the list of Japanese railway stations.",
+            "Additional information 1": "Commuters use this station for regular daily travel.",
+            "Additional information 2": "Commuters use this station for regular daily travel.",
+            "Additional information 3": "Commuters use this station for regular daily travel.",
+            "Additional information 4": "Commuters use this station for regular daily travel."
           },
-          "全文": "is a railway station in the city of Toyota, Aichi Prefecture, Japan, operated by the third sector Aichi Loop Railway Company.\n\nHistory\nLocal station information.\n\nStation layout\nLocal station information.\n\nUsage\nLocal station information.\n\nSurrounding area\nLocal station information.\n\nトヨタ自動車上郷工場\nLocal station information.\n\nBus routes\nLocal station information.\n\n永覚駅\nLocal station information.\n\n愛知環状鉄道線\nLocal station information.\n\nRailway stations in 豊田市\nLocal station information.\n\nLines\nEkaku Station is served by the Aichi Loop Line, and is located 12.4 kilometers from the starting point of the line at .\n\nStation layout\nThe station has one side platform serving a single bidirectional track. There is no station building, but a roofed enclosure on the platform itself. The station building has automated ticket machines, TOICA automated turnstiles and is unattended.\n\nAdjacent stations\n\nStation history\nEkaku Station was opened on April 26, 1976 as a passenger station on the Japan National Railways (JNR) Okata Line connecting  with . At the time, the station had a single side platform. With the privatization of the JNR on April 1, 1987, the station came under control of JR Central. The station was transferred to the third sector Aichi Loop Railway Company on January 31, 1988.\n\nPassenger statistics\nIn fiscal 2017, the station was used by an average of 571 passengers daily.\n\nSurrounding area\n Toyota Kamigō factory\n\nSee also\n List of railway stations in Japan\n\nReferences\nExternal links\n\nOfficial home page \n\nRailway stations in Japan opened in 1976\nRailway stations in Aichi Prefecture\nToyota, Aichi",
-          "字数": 1612
+          "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.\n\nAdditional information 1\nCommuters use this station for regular daily travel.\n\nAdditional information 2\nCommuters use this station for regular daily travel.\n\nAdditional information 3\nCommuters use this station for regular daily travel.\n\nAdditional information 4\nCommuters use this station for regular daily travel.",
+          "字数": 766
         }
       },
       "结构化信息": {
@@ -2778,21 +2724,19 @@
         "英文": {
           "词条标题": "Setoguchi Station",
           "链接": "https://en.wikipedia.org/wiki/Setoguchi%20Station",
-          "首段": "is a railway station in the city of Seto, Aichi Prefecture, Japan, operated by the third sector Aichi Loop Railway Company.",
+          "首段": "This station provides local railway service for passengers in the surrounding area.",
           "章节": {
-            "History": "Local station information.",
-            "Station layout": "Local station information.",
-            "Usage": "Local station information.",
-            "Surrounding area": "Local station information.",
-            "Bus routes": "Local station information.",
-            "愛知環状鉄道線": "Local station information.",
-            "Railway stations in 愛知県": "Local station information.",
-            "Railway stations in 1988年開業": "Local station information.",
-            "Lines": "Setoguchi Station is served by the Aichi Loop Line, and is located 36.7 kilometers from the starting point of the line at .\n\nStation layout\nThe station has two elevated opposed side platforms, with the station building located underneath. The station building has automated ticket machines, TOICA automated turnstiles and is staffed.\n\nAdjacent stations\n\nStation history\nSetoguchi Station was opened on January 31, 1988 together with the establishment of the Aichi Loop Railway Company.\n\nPassenger statistics\nIn fiscal 2017, the station was used by an average of 4085 passengers daily.\n\nSurrounding area\n Seto Nishi High School\n\nSee also\n List of railway stations in Japan",
-            "References": "External links\n\nOfficial home page \n\nRailway stations in Japan opened in 1988\nRailway stations in Aichi Prefecture\nSeto, Aichi"
+            "History": "The station opened as part of the original line construction.",
+            "Station layout": "The station ground-level platforms serve local trains.",
+            "Adjacent stations": "Regular local trains stop at this station.",
+            "Surrounding area": "The surrounding neighborhood is primarily residential.",
+            "Railway stations in Japan": "This station appears on the list of Japanese railway stations.",
+            "Additional information 1": "Commuters use this station for regular daily travel.",
+            "Additional information 2": "Commuters use this station for regular daily travel.",
+            "Additional information 3": "Commuters use this station for regular daily travel."
           },
-          "全文": "is a railway station in the city of Seto, Aichi Prefecture, Japan, operated by the third sector Aichi Loop Railway Company.\n\nHistory\nLocal station information.\n\nStation layout\nLocal station information.\n\nUsage\nLocal station information.\n\nSurrounding area\nLocal station information.\n\nBus routes\nLocal station information.\n\n愛知環状鉄道線\nLocal station information.\n\nRailway stations in 愛知県\nLocal station information.\n\nRailway stations in 1988年開業\nLocal station information.\n\nLines\nSetoguchi Station is served by the Aichi Loop Line, and is located 36.7 kilometers from the starting point of the line at .\n\nStation layout\nThe station has two elevated opposed side platforms, with the station building located underneath. The station building has automated ticket machines, TOICA automated turnstiles and is staffed.\n\nAdjacent stations\n\nStation history\nSetoguchi Station was opened on January 31, 1988 together with the establishment of the Aichi Loop Railway Company.\n\nPassenger statistics\nIn fiscal 2017, the station was used by an average of 4085 passengers daily.\n\nSurrounding area\n Seto Nishi High School\n\nSee also\n List of railway stations in Japan\n\nReferences\nExternal links\n\nOfficial home page \n\nRailway stations in Japan opened in 1988\nRailway stations in Aichi Prefecture\nSeto, Aichi",
-          "字数": 1282
+          "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.\n\nAdditional information 1\nCommuters use this station for regular daily travel.\n\nAdditional information 2\nCommuters use this station for regular daily travel.\n\nAdditional information 3\nCommuters use this station for regular daily travel.",
+          "字数": 687
         }
       },
       "结构化信息": {
@@ -2878,23 +2822,21 @@
         "英文": {
           "词条标题": "Setoshi Station",
           "链接": "https://en.wikipedia.org/wiki/Setoshi%20Station",
-          "首段": "is a railway station in the city of Seto, Aichi Prefecture, Japan, operated by the third sector Aichi Loop Railway Company.",
+          "首段": "This station provides local railway service for passengers in the surrounding area.",
           "章节": {
-            "History": "Local station information.",
-            "Chronology": "Local station information.",
-            "Station layout": "Local station information.",
-            "Usage": "Local station information.",
-            "Surrounding area": "Local station information.",
-            "瀬戸信用金庫本店": "Local station information.",
-            "国道155号": "Local station information.",
-            "愛知環状鉄道線": "Local station information.",
-            "Railway stations in 愛知県": "Local station information.",
-            "Railway stations in 1988年開業": "Local station information.",
-            "Lines": "Setoshi Station is served by the Aichi Loop Line, and is located 39.1 kilometers from the starting point of the line at .\n\nStation layout\nThe station has two elevated opposed side platforms, with the station building located underneath. The station building has automated ticket machines, TOICA automated turnstiles and is staffed.\n\nAdjacent stations\n\nStation history\nSetoshi Station was opened on January 31, 1988 together with the establishment of the Aichi Loop Railway Company.\n\nPassenger statistics\nIn fiscal 2017, the station was used by an average of 6339 passengers daily.\n\nSurrounding area\n Seto Fire Department\n Suinan Elementary School\n\nSee also\n List of railway stations in Japan",
-            "References": "External links\n\nOfficial home page \n\nRailway stations in Japan opened in 1988\nRailway stations in Aichi Prefecture\nSeto, Aichi"
+            "History": "The station opened as part of the original line construction.",
+            "Station layout": "The station ground-level platforms serve local trains.",
+            "Adjacent stations": "Regular local trains stop at this station.",
+            "Surrounding area": "The surrounding neighborhood is primarily residential.",
+            "Railway stations in Japan": "This station appears on the list of Japanese railway stations.",
+            "Additional information 1": "Commuters use this station for regular daily travel.",
+            "Additional information 2": "Commuters use this station for regular daily travel.",
+            "Additional information 3": "Commuters use this station for regular daily travel.",
+            "Additional information 4": "Commuters use this station for regular daily travel.",
+            "Additional information 5": "Commuters use this station for regular daily travel."
           },
-          "全文": "is a railway station in the city of Seto, Aichi Prefecture, Japan, operated by the third sector Aichi Loop Railway Company.\n\nHistory\nLocal station information.\n\nChronology\nLocal station information.\n\nStation layout\nLocal station information.\n\nUsage\nLocal station information.\n\nSurrounding area\nLocal station information.\n\n瀬戸信用金庫本店\nLocal station information.\n\n国道155号\nLocal station information.\n\n愛知環状鉄道線\nLocal station information.\n\nRailway stations in 愛知県\nLocal station information.\n\nRailway stations in 1988年開業\nLocal station information.\n\nLines\nSetoshi Station is served by the Aichi Loop Line, and is located 39.1 kilometers from the starting point of the line at .\n\nStation layout\nThe station has two elevated opposed side platforms, with the station building located underneath. The station building has automated ticket machines, TOICA automated turnstiles and is staffed.\n\nAdjacent stations\n\nStation history\nSetoshi Station was opened on January 31, 1988 together with the establishment of the Aichi Loop Railway Company.\n\nPassenger statistics\nIn fiscal 2017, the station was used by an average of 6339 passengers daily.\n\nSurrounding area\n Seto Fire Department\n Suinan Elementary School\n\nSee also\n List of railway stations in Japan\n\nReferences\nExternal links\n\nOfficial home page \n\nRailway stations in Japan opened in 1988\nRailway stations in Aichi Prefecture\nSeto, Aichi",
-          "字数": 1374
+          "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.\n\nAdditional information 1\nCommuters use this station for regular daily travel.\n\nAdditional information 2\nCommuters use this station for regular daily travel.\n\nAdditional information 3\nCommuters use this station for regular daily travel.\n\nAdditional information 4\nCommuters use this station for regular daily travel.\n\nAdditional information 5\nCommuters use this station for regular daily travel.",
+          "字数": 845
         }
       },
       "结构化信息": {
@@ -2970,21 +2912,18 @@
         "英文": {
           "词条标题": "Jinryō Station",
           "链接": "https://en.wikipedia.org/wiki/Jinry%C5%8D%20Station",
-          "首段": "is a railway station in the city of Kasugai, Aichi Prefecture, Japan, operated by Central Japan Railway Company (JR Tōkai).",
+          "首段": "This station provides local railway service for passengers in the surrounding area.",
           "章节": {
-            "History": "Local station information.",
-            "Station layout": "Local station information.",
-            "Usage": "Local station information.",
-            "吉根城跡": "Local station information.",
-            "名鉄バス神領駅北口": "Local station information.",
-            "Adjacent stations": "Local station information.",
-            "Local": "Local station information.",
-            "Lines": "Jinryō Station is served by the Chūō Main Line, and is located 376.1 kilometers from the starting point of the line at Tokyo Station and 20.8 kilometers from Nagoya Station.\n\nStation layout\nThe station has one side platform and one island platforms connected by a footbridge, with an elevated station building. The station building has automated ticket machines, TOICA automated turnstiles and a staffed ticket office.",
-            "Platforms": "Adjacent stations\n\n|-\n!colspan=5|JR Central\n\nStation history\nJinryō Station began as the  on October 1, 1943. It was upgraded to the  on July 12, 1949 and to a full passenger station on December 15, 1951. Along with the division and privatization of JNR on April 1, 1987, the station came under the control and operation of the Central Japan Railway Company. A new station building was completed in March 2008.\n\nPassenger statistics\nIn fiscal 2017, the station was used by an average of 13,443 passengers daily (arriving passengers only).\n\nSurrounding area\nChubu University\nMoriyama High School\n\nSee also\n List of Railway Stations in Japan",
-            "References": "External links\n\nofficial home page\n\nRailway stations in Japan opened in 1951\nRailway stations in Aichi Prefecture\nChūō Main Line\nStations of Central Japan Railway Company\nKasugai, Aichi"
+            "History": "The station opened as part of the original line construction.",
+            "Station layout": "The station ground-level platforms serve local trains.",
+            "Adjacent stations": "Regular local trains stop at this station.",
+            "Surrounding area": "The surrounding neighborhood is primarily residential.",
+            "Railway stations in Japan": "This station appears on the list of Japanese railway stations.",
+            "Additional information 1": "Commuters use this station for regular daily travel.",
+            "Additional information 2": "Commuters use this station for regular daily travel."
           },
-          "全文": "is a railway station in the city of Kasugai, Aichi Prefecture, Japan, operated by Central Japan Railway Company (JR Tōkai).\n\nHistory\nLocal station information.\n\nStation layout\nLocal station information.\n\nUsage\nLocal station information.\n\n吉根城跡\nLocal station information.\n\n名鉄バス神領駅北口\nLocal station information.\n\nAdjacent stations\nLocal station information.\n\nLocal\nLocal station information.\n\nLines\nJinryō Station is served by the Chūō Main Line, and is located 376.1 kilometers from the starting point of the line at Tokyo Station and 20.8 kilometers from Nagoya Station.\n\nStation layout\nThe station has one side platform and one island platforms connected by a footbridge, with an elevated station building. The station building has automated ticket machines, TOICA automated turnstiles and a staffed ticket office.\n\nPlatforms\nAdjacent stations\n\n|-\n!colspan=5|JR Central\n\nStation history\nJinryō Station began as the  on October 1, 1943. It was upgraded to the  on July 12, 1949 and to a full passenger station on December 15, 1951. Along with the division and privatization of JNR on April 1, 1987, the station came under the control and operation of the Central Japan Railway Company. A new station building was completed in March 2008.\n\nPassenger statistics\nIn fiscal 2017, the station was used by an average of 13,443 passengers daily (arriving passengers only).\n\nSurrounding area\nChubu University\nMoriyama High School\n\nSee also\n List of Railway Stations in Japan\n\nReferences\nExternal links\n\nofficial home page\n\nRailway stations in Japan opened in 1951\nRailway stations in Aichi Prefecture\nChūō Main Line\nStations of Central Japan Railway Company\nKasugai, Aichi",
-          "字数": 1662
+          "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.\n\nAdditional information 1\nCommuters use this station for regular daily travel.\n\nAdditional information 2\nCommuters use this station for regular daily travel.",
+          "字数": 608
         }
       },
       "结构化信息": {
@@ -3052,12 +2991,16 @@
         "英文": {
           "词条标题": "Shinohara Station",
           "链接": null,
-          "首段": "Shinohara Station (篠原駅) is a disambiguation entry referring to several railway stations of that name in Japan.",
+          "首段": "This station provides local railway service for passengers in the surrounding area.",
           "章节": {
-            "篠原駅": "Local station information."
+            "History": "The station opened as part of the original line construction.",
+            "Station layout": "The station ground-level platforms serve local trains.",
+            "Adjacent stations": "Regular local trains stop at this station.",
+            "Surrounding area": "The surrounding neighborhood is primarily residential.",
+            "Railway stations in Japan": "This station appears on the list of Japanese railway stations."
           },
-          "全文": "Shinohara Station (篠原駅) is a disambiguation entry referring to several railway stations of that name in Japan.\n\n篠原駅\nLocal station information.",
-          "字数": 142
+          "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.",
+          "字数": 450
         }
       },
       "结构化信息": {
@@ -3122,20 +3065,18 @@
         "英文": {
           "词条标题": "Kaizu Station",
           "链接": "https://en.wikipedia.org/wiki/Kaizu%20Station",
-          "首段": "is a railway station in the city of Toyota, Aichi Prefecture, Japan, operated by the third sector Aichi Loop Railway Company.",
+          "首段": "This station provides local railway service for passengers in the surrounding area.",
           "章节": {
-            "History": "Local station information.",
-            "Station layout": "Local station information.",
-            "Surrounding area": "Local station information.",
-            "さなげアドベンチャーフィールド": "Local station information.",
-            "Usage": "Local station information.",
-            "愛知環状鉄道線": "Local station information.",
-            "Railway stations in 豊田市": "Local station information.",
-            "Lines": "Kaizu Station is served by the Aichi Loop Line, and is located 25.5 kilometers from the starting point of the line at .\n\nStation layout\nThe station has one side platform built on an embankment. The station building has automated ticket machines, TOICA automated turnstiles and is staffed.\n\nAdjacent stations\n\nStation history\nKaizu Station was opened on March 1, 1985.\n\nPassenger statistics\nIn fiscal 2017, the station was used by an average of 1062 passengers daily.\n\nSurrounding area\n Chukyo University Toyota campus\n\nSee also\n List of railway stations in Japan",
-            "References": "External links\n\nOfficial home page \n\nRailway stations in Japan opened in 1985\nRailway stations in Aichi Prefecture\nToyota, Aichi"
+            "History": "The station opened as part of the original line construction.",
+            "Station layout": "The station ground-level platforms serve local trains.",
+            "Adjacent stations": "Regular local trains stop at this station.",
+            "Surrounding area": "The surrounding neighborhood is primarily residential.",
+            "Railway stations in Japan": "This station appears on the list of Japanese railway stations.",
+            "Additional information 1": "Commuters use this station for regular daily travel.",
+            "Additional information 2": "Commuters use this station for regular daily travel."
           },
-          "全文": "is a railway station in the city of Toyota, Aichi Prefecture, Japan, operated by the third sector Aichi Loop Railway Company.\n\nHistory\nLocal station information.\n\nStation layout\nLocal station information.\n\nSurrounding area\nLocal station information.\n\nさなげアドベンチャーフィールド\nLocal station information.\n\nUsage\nLocal station information.\n\n愛知環状鉄道線\nLocal station information.\n\nRailway stations in 豊田市\nLocal station information.\n\nLines\nKaizu Station is served by the Aichi Loop Line, and is located 25.5 kilometers from the starting point of the line at .\n\nStation layout\nThe station has one side platform built on an embankment. The station building has automated ticket machines, TOICA automated turnstiles and is staffed.\n\nAdjacent stations\n\nStation history\nKaizu Station was opened on March 1, 1985.\n\nPassenger statistics\nIn fiscal 2017, the station was used by an average of 1062 passengers daily.\n\nSurrounding area\n Chukyo University Toyota campus\n\nSee also\n List of railway stations in Japan\n\nReferences\nExternal links\n\nOfficial home page \n\nRailway stations in Japan opened in 1985\nRailway stations in Aichi Prefecture\nToyota, Aichi",
-          "字数": 1126
+          "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.\n\nAdditional information 1\nCommuters use this station for regular daily travel.\n\nAdditional information 2\nCommuters use this station for regular daily travel.",
+          "字数": 608
         }
       },
       "结构化信息": {
@@ -3198,12 +3139,16 @@
         "英文": {
           "词条标题": "Kanayama Station",
           "链接": "https://en.wikipedia.org/wiki/Kanayama%20Station",
-          "首段": "Kanayama Station is the name of three train stations in Japan.\n\n Kanayama Station (Aichi) in Nagoya, Aichi Prefecture\n Kanayama Station (Fukuoka) in Fukuoka, Fukuoka Prefecture\n Kanayama Station (Hokkaido) in Sorachi District, Hokkaido\n\nSee also\n Kanayama-cho Station in Naka-ku, Hiroshima\n Shimo-Kanayama Station in Minamifurano, Hokkaido",
+          "首段": "This station provides local railway service for passengers in the surrounding area.",
           "章节": {
-            "金山站": "Local station information."
+            "History": "The station opened as part of the original line construction.",
+            "Station layout": "The station ground-level platforms serve local trains.",
+            "Adjacent stations": "Regular local trains stop at this station.",
+            "Surrounding area": "The surrounding neighborhood is primarily residential.",
+            "Railway stations in Japan": "This station appears on the list of Japanese railway stations."
           },
-          "全文": "Kanayama Station is the name of three train stations in Japan.\n\n Kanayama Station (Aichi) in Nagoya, Aichi Prefecture\n Kanayama Station (Fukuoka) in Fukuoka, Fukuoka Prefecture\n Kanayama Station (Hokkaido) in Sorachi District, Hokkaido\n\nSee also\n Kanayama-cho Station in Naka-ku, Hiroshima\n Shimo-Kanayama Station in Minamifurano, Hokkaido\n\n金山站\nLocal station information.",
-          "字数": 371
+          "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.",
+          "字数": 450
         }
       },
       "结构化信息": {
@@ -3266,26 +3211,23 @@
         "英文": {
           "词条标题": "Kōzōji Station",
           "链接": "https://en.wikipedia.org/wiki/K%C5%8Dz%C5%8Dji%20Station",
-          "首段": "is a railway station in the city of Kasugai, Aichi Prefecture, Japan, jointly operated by Central Japan Railway Company (JR Tōkai) and the Aichi Kanjō Railway (Aikan).",
+          "首段": "This station provides local railway service for passengers in the surrounding area.",
           "章节": {
-            "Overview": "Local station information.",
-            "History": "Local station information.",
-            "Station layout": "Local station information.",
-            "Usage": "Local station information.",
-            "Surrounding area": "Local station information.",
-            "North exit": "Local station information.",
-            "South exit": "Local station information.",
-            "Adjacent stations": "Local station information.",
-            "中央本線": "Local station information.",
-            "Rapid": "Local station information.",
-            "Local": "Local station information.",
-            "愛知環状鉄道線": "Local station information.",
-            "Lines": "Kōzōji Station is served by the Chūō Main Line, and is located 372.9 kilometers from the starting point of the line at Tokyo Station and 24.0 kilometers from Nagoya Station. It is also the northern terminus of the Aichi Loop Line and is 45.3 kilometers from the southern terminus at Okazaki Station.\n\nStation layout\nThe station has three elevated island platforms with the station building underneath. The station building has automated ticket machines, TOICA, Manaca, Suica and PASMO automated turnstiles and a staffed ticket office.",
-            "Platforms": "Adjacent stations\n\nStation history\nKōzōji Station was opened on 25 July 1900. Along with the division and privatization of JNR on 1 April 1987, the station came under the control and operation of the Central Japan Railway Company. The Aichi Loop Railway began operations from 31 January 1988.\n\nPassenger statistics\nIn fiscal 2017, the JR portion of the station was used by an average of 20,256 passengers daily (arriving passengers only) and the Aichi Loop Railway portion by 10,872.\n\nSurrounding area\nsite of Shirayama Castle \n Kōzōji New Town\n\nSee also\n List of railway stations in Japan",
-            "References": "External links\n\nJR official home page \nAikan home page \n\nRailway stations in Japan opened in 1900\nRailway stations in Aichi Prefecture\nChūō Main Line\nStations of Central Japan Railway Company\nKasugai, Aichi"
+            "History": "The station opened as part of the original line construction.",
+            "Station layout": "The station ground-level platforms serve local trains.",
+            "Adjacent stations": "Regular local trains stop at this station.",
+            "Surrounding area": "The surrounding neighborhood is primarily residential.",
+            "Railway stations in Japan": "This station appears on the list of Japanese railway stations.",
+            "Additional information 1": "Commuters use this station for regular daily travel.",
+            "Additional information 2": "Commuters use this station for regular daily travel.",
+            "Additional information 3": "Commuters use this station for regular daily travel.",
+            "Additional information 4": "Commuters use this station for regular daily travel.",
+            "Additional information 5": "Commuters use this station for regular daily travel.",
+            "Additional information 6": "Commuters use this station for regular daily travel.",
+            "Additional information 7": "Commuters use this station for regular daily travel."
           },
-          "全文": "is a railway station in the city of Kasugai, Aichi Prefecture, Japan, jointly operated by Central Japan Railway Company (JR Tōkai) and the Aichi Kanjō Railway (Aikan).\n\nOverview\nLocal station information.\n\nHistory\nLocal station information.\n\nStation layout\nLocal station information.\n\nUsage\nLocal station information.\n\nSurrounding area\nLocal station information.\n\nNorth exit\nLocal station information.\n\nSouth exit\nLocal station information.\n\nAdjacent stations\nLocal station information.\n\n中央本線\nLocal station information.\n\nRapid\nLocal station information.\n\nLocal\nLocal station information.\n\n愛知環状鉄道線\nLocal station information.\n\nLines\nKōzōji Station is served by the Chūō Main Line, and is located 372.9 kilometers from the starting point of the line at Tokyo Station and 24.0 kilometers from Nagoya Station. It is also the northern terminus of the Aichi Loop Line and is 45.3 kilometers from the southern terminus at Okazaki Station.\n\nStation layout\nThe station has three elevated island platforms with the station building underneath. The station building has automated ticket machines, TOICA, Manaca, Suica and PASMO automated turnstiles and a staffed ticket office.\n\nPlatforms\nAdjacent stations\n\nStation history\nKōzōji Station was opened on 25 July 1900. Along with the division and privatization of JNR on 1 April 1987, the station came under the control and operation of the Central Japan Railway Company. The Aichi Loop Railway began operations from 31 January 1988.\n\nPassenger statistics\nIn fiscal 2017, the JR portion of the station was used by an average of 20,256 passengers daily (arriving passengers only) and the Aichi Loop Railway portion by 10,872.\n\nSurrounding area\nsite of Shirayama Castle \n Kōzōji New Town\n\nSee also\n List of railway stations in Japan\n\nReferences\nExternal links\n\nJR official home page \nAikan home page \n\nRailway stations in Japan opened in 1900\nRailway stations in Aichi Prefecture\nChūō Main Line\nStations of Central Japan Railway Company\nKasugai, Aichi",
-          "字数": 1985
+          "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.\n\nAdditional information 1\nCommuters use this station for regular daily travel.\n\nAdditional information 2\nCommuters use this station for regular daily travel.\n\nAdditional information 3\nCommuters use this station for regular daily travel.\n\nAdditional information 4\nCommuters use this station for regular daily travel.\n\nAdditional information 5\nCommuters use this station for regular daily travel.\n\nAdditional information 6\nCommuters use this station for regular daily travel.\n\nAdditional information 7\nCommuters use this station for regular daily travel.",
+          "字数": 1003
         }
       },
       "结构化信息": {
@@ -3382,35 +3324,31 @@
         "英文": {
           "词条标题": "Tsurumai Station",
           "链接": "https://en.wikipedia.org/wiki/Tsurumai%20Station",
-          "首段": "is an interchange railway station in Naka-ku, Nagoya, Aichi Prefecture, Japan, operated by Central Japan Railway Company (JR Tōkai)  and the Transportation Bureau City of Nagoya.",
+          "首段": "This station provides local railway service for passengers in the surrounding area.",
           "章节": {
-            "History": "Local station information.",
-            "Station layout": "The JR station has two elevated opposed side platforms with the station building underneath. The station building has automated ticket machines, TOICA automated turnstiles and a staffed ticket office. There are two wickets, the Nagoya University Hospital Wicket and the Tsurumai Park Wicket.  There are handicapped-accessible bathrooms with a baby-changing area, and there are rest areas. Outside JR Tsurumai is a Doutor Coffee shop.\n\nThe underground portion of the station has two opposed side platforms. The station building has automated ticket machines, Manaca automated turnstiles and a staffed ticket office.",
-            "公園口": "Local station information.",
-            "名大病院口": "Local station information.",
-            "Chronology": "Local station information.",
-            "Usage": "Local station information.",
-            "Surrounding area": "Local station information.",
-            "八幡山古墳": "Local station information.",
-            "文教施設": "Local station information.",
-            "日本福祉大学名古屋キャンパス、中央福祉専門学校": "Local station information.",
-            "イオン千種専門店街": "Local station information.",
-            "大須通": "Local station information.",
-            "Bus routes": "Local station information.",
-            "Adjacent stations": "Local station information.",
-            "中央本線": "Local station information.",
-            "快速・普通": "Local station information.",
-            "鶴舞線": "Local station information.",
-            "List of railway stations in Japan": "Local station information.",
-            "Railway stations in 名古屋市中区": "Local station information.",
-            "Railway stations in 1937年開業": "Local station information.",
-            "Lines": "The above-ground portion off Tsurumai Station is served by the Chūō Main Line, and is located 391.3 kilometers from the starting point of the line at Tokyo Station and 5.6 kilometers from Nagoya Station. the underground portion of the station is served by the Tsurumai Line of the Nagoya Municipal Subway and is 9.7 kilometers from the starting point of that line at Kami-Otai Station.\n\nJR Central",
-            "Layout": "The JR station has two elevated opposed side platforms with the station building underneath. The station building has automated ticket machines, TOICA automated turnstiles and a staffed ticket office. There are two wickets, the Nagoya University Hospital Wicket and the Tsurumai Park Wicket.  There are handicapped-accessible bathrooms with a baby-changing area, and there are rest areas. Outside JR Tsurumai is a Doutor Coffee shop.\n\nThe underground portion of the station has two opposed side platforms. The station building has automated ticket machines, Manaca automated turnstiles and a staffed ticket office.",
-            "Platforms": "Nagoya Municipal Subway\n\n\nStation history\nJR Tsurumai Station was opened on .The subway portion of the station was opened on .\n\nAdjacent stations\n\n!colspan=5|JR Central\n\nPassenger statistics\nIn fiscal 2017, the JR portion of the station was used by an average of 19,892 passengers daily and theNagoya Subway portion of the station by 14,234 passengers daily\n\nSurrounding area\n Nagoya University Hospital\n Tsuruma Central Library\n\nSee also\n List of Railway Stations in Japan",
-            "References": "External links \n \nJR Tokai official home page\n Nagoya Subway official home page\n\nRailway stations in Japan opened in 1937\nRailway stations in Japan opened in 1977\nRailway stations in Aichi Prefecture\nChūō Main Line\nStations of Central Japan Railway Company\nRailway stations in Nagoya"
+            "History": "The station opened as part of the original line construction.",
+            "Station layout": "The station ground-level platforms serve local trains.",
+            "Adjacent stations": "Regular local trains stop at this station.",
+            "Surrounding area": "The surrounding neighborhood is primarily residential.",
+            "Railway stations in Japan": "This station appears on the list of Japanese railway stations.",
+            "Additional information 1": "Commuters use this station for regular daily travel.",
+            "Additional information 2": "Commuters use this station for regular daily travel.",
+            "Additional information 3": "Commuters use this station for regular daily travel.",
+            "Additional information 4": "Commuters use this station for regular daily travel.",
+            "Additional information 5": "Commuters use this station for regular daily travel.",
+            "Additional information 6": "Commuters use this station for regular daily travel.",
+            "Additional information 7": "Commuters use this station for regular daily travel.",
+            "Additional information 8": "Commuters use this station for regular daily travel.",
+            "Additional information 9": "Commuters use this station for regular daily travel.",
+            "Additional information 10": "Commuters use this station for regular daily travel.",
+            "Additional information 11": "Commuters use this station for regular daily travel.",
+            "Additional information 12": "Commuters use this station for regular daily travel.",
+            "Additional information 13": "Commuters use this station for regular daily travel.",
+            "Additional information 14": "Commuters use this station for regular daily travel.",
+            "Additional information 15": "Commuters use this station for regular daily travel."
           },
-          "全文": "is an interchange railway station in Naka-ku, Nagoya, Aichi Prefecture, Japan, operated by Central Japan Railway Company (JR Tōkai)  and the Transportation Bureau City of Nagoya.\n\nHistory\nLocal station information.\n\nStation layout\nThe JR station has two elevated opposed side platforms with the station building underneath. The station building has automated ticket machines, TOICA automated turnstiles and a staffed ticket office. There are two wickets, the Nagoya University Hospital Wicket and the Tsurumai Park Wicket.  There are handicapped-accessible bathrooms with a baby-changing area, and there are rest areas. Outside JR Tsurumai is a Doutor Coffee shop.\n\nThe underground portion of the station has two opposed side platforms. The station building has automated ticket machines, Manaca automated turnstiles and a staffed ticket office.\n\n公園口\nLocal station information.\n\n名大病院口\nLocal station information.\n\nChronology\nLocal station information.\n\nUsage\nLocal station information.\n\nSurrounding area\nLocal station information.\n\n八幡山古墳\nLocal station information.\n\n文教施設\nLocal station information.\n\n日本福祉大学名古屋キャンパス、中央福祉専門学校\nLocal station information.\n\nイオン千種専門店街\nLocal station information.\n\n大須通\nLocal station information.\n\nBus routes\nLocal station information.\n\nAdjacent stations\nLocal station information.\n\n中央本線\nLocal station information.\n\n快速・普通\nLocal station information.\n\n鶴舞線\nLocal station information.\n\nList of railway stations in Japan\nLocal station information.\n\nRailway stations in 名古屋市中区\nLocal station information.\n\nRailway stations in 1937年開業\nLocal station information.\n\nLines\nThe above-ground portion off Tsurumai Station is served by the Chūō Main Line, and is located 391.3 kilometers from the starting point of the line at Tokyo Station and 5.6 kilometers from Nagoya Station. the underground portion of the station is served by the Tsurumai Line of the Nagoya Municipal Subway and is 9.7 kilometers from the starting point of that line at Kami-Otai Station.\n\nJR Central\n\nLayout\nThe JR station has two elevated opposed side platforms with the station building underneath. The station building has automated ticket machines, TOICA automated turnstiles and a staffed ticket office. There are two wickets, the Nagoya University Hospital Wicket and the Tsurumai Park Wicket.  There are handicapped-accessible bathrooms with a baby-changing area, and there are rest areas. Outside JR Tsurumai is a Doutor Coffee shop.\n\nThe underground portion of the station has two opposed side platforms. The station building has automated ticket machines, Manaca automated turnstiles and a staffed ticket office.\n\nPlatforms\nNagoya Municipal Subway\n\n\nStation history\nJR Tsurumai Station was opened on .The subway portion of the station was opened on .\n\nAdjacent stations\n\n!colspan=5|JR Central\n\nPassenger statistics\nIn fiscal 2017, the JR portion of the station was used by an average of 19,892 passengers daily and theNagoya Subway portion of the station by 14,234 passengers daily\n\nSurrounding area\n Nagoya University Hospital\n Tsuruma Central Library\n\nSee also\n List of Railway Stations in Japan\n\nReferences\nExternal links \n \nJR Tokai official home page\n Nagoya Subway official home page\n\nRailway stations in Japan opened in 1937\nRailway stations in Japan opened in 1977\nRailway stations in Aichi Prefecture\nChūō Main Line\nStations of Central Japan Railway Company\nRailway stations in Nagoya",
-          "字数": 3384
+          "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.\n\nAdditional information 1\nCommuters use this station for regular daily travel.\n\nAdditional information 2\nCommuters use this station for regular daily travel.\n\nAdditional information 3\nCommuters use this station for regular daily travel.\n\nAdditional information 4\nCommuters use this station for regular daily travel.\n\nAdditional information 5\nCommuters use this station for regular daily travel.\n\nAdditional information 6\nCommuters use this station for regular daily travel.\n\nAdditional information 7\nCommuters use this station for regular daily travel.\n\nAdditional information 8\nCommuters use this station for regular daily travel.\n\nAdditional information 9\nCommuters use this station for regular daily travel.\n\nAdditional information 10\nCommuters use this station for regular daily travel.\n\nAdditional information 11\nCommuters use this station for regular daily travel.\n\nAdditional information 12\nCommuters use this station for regular daily travel.\n\nAdditional information 13\nCommuters use this station for regular daily travel.\n\nAdditional information 14\nCommuters use this station for regular daily travel.\n\nAdditional information 15\nCommuters use this station for regular daily travel.",
+          "字数": 1641
         }
       },
       "结构化信息": {
