@@ -60,9 +60,31 @@
         "词条标题": "Tenryū Hamanako Line",
         "链接": "https://en.wikipedia.org/wiki/Tenryū_Hamanako_Line",
         "首段": "The Tenryū Hamanako Line is a railway line in western Shizuoka Prefecture, Japan, operated by the Tenryū Hamanako Railroad, connecting Kakegawa Station to Shinjohara Station.",
-        "章节": {},
-        "全文": "The Tenryū Hamanako Line is a railway line in western Shizuoka Prefecture, Japan, operated by the Tenryū Hamanako Railroad, connecting Kakegawa Station to Shinjohara Station.",
-        "字数": 174
+        "章节": {
+          "路線データ": "管轄（事業種別）：天竜浜名湖鉄道（第一種鉄道事業者）\n 路 Line距離（営業キロ）：67.7km\n 軌間：1067mm\n  Station数：39 Station（起終点 Station含む）\n 複 Line区間：なし（全 Line単 Line）\n 電化区間：なし（全 Line非電化）\n 閉塞方式：特殊自動閉塞（軌道回路検知式）\n 保安装置：ATS-ST\n 最高速度：80km/h\n IC乗車カード対応区間：なし",
+          "Operations": "定期列車は全て各 Stationに停車する普通列車で、ワンマン運転が行われている。単 Lineかつローカル Lineであるために、完全な等間隔運行ではないが、昼間はほぼ1時間に1本の割合で列車が運行されている。全 Lineを通して運転される列車のほか、天竜二俣 Station発着列車、朝夕には掛川 Station - 遠州森 Station間、掛川 Station - 西鹿島 Station間、天竜二俣 Station - 宮口 Station間、金指 Station - 新所原 Station間、夜間には掛川 Station発金指 Stationおよび西鹿島 Station発天竜二俣 Station行きの区間運転列車が設定されている。\n\nかつては快速列車の設定もあり1996年3月16日改正で2往復が新設されたが、1往復への減便を経て2000年3月26日改正でclosedされた。以後、定期ダイヤにおける快速列車の設定はなく、後述する臨時列車などで運行されるに留まっている。\n\n国鉄二俣 Line時代はキハ20形気動車1両または2両編成でおおむね2時間に1本の割合の運転であった。また一部の列車は東海道本 Lineに乗り入れ豊橋 Stationまでの直通運転を実施しており、新所原 Stationの西側にかつて二俣 Lineの下り列車が立体交差で東海道本 Lineに合流するための跨 Line橋があったが、第三セクター鉄道転換後は東海道本 Lineへの直通列車はなく、跨 Line橋も撤去されている。\n\nなお、全 Lineの Line路検測を実施する際は、東海道本 Lineの静岡県内区間を運営するJR東海の軌道試験車キヤ95が乗り入れる。",
+          "臨時列車": "2000年3月26日改正からトロッコ列車「そよかぜ号」が遠州森 Station - 三ヶ日 Station間（2003年からは天竜二俣 Station - 三ヶ日 Station間）を走っていた。同列車は貨車改造のトロッコ車両2両と上り方向にレールバス1両を連結した3両編成で、動力車はレールバスのみであった。終着 Stationでのレールバスの機回しを避けるため、トロッコ車両の下り側は制御付き運転台となっており、下り列車の場合トロッコ車両を先頭にして、後のレールバスを操縦する方式（ペンデルツーク）を採用していた。しかし、トロッコ車両の台枠に亀裂が発見されたことから2007fiscal yearより運行を中止し、後に廃車、解体された。\n\n2017年3月4日改正からは季節列車「井の国号」の運転が開始された（運転開始日は3月18日）。運転日は春休み中の土休日やゴールデンウィーク、お盆期間などの繁忙期。下りは掛川 Station発新所原 Station行き区間快速として運転され、天竜二俣 Station - 新所原 Station間は各 Stationに停車する。上りは新所原 Station発天竜二俣 Station行きの普通列車として運転される。",
+          "輸送実績": "天竜浜名湖 Lineの近年の輸送実績を下表に記す。輸送量は減少している。\n表中、輸送 people員の単位は万 people。輸送 people員はfiscal yearでの値。表中、最高値を赤色で、最高値を記録したfiscal year以降の最低値を青色で、1987年(1987)以降の最高値を記録したfiscal year以前の最低値を緑色で囲んで表記している。",
+          "収入実績": "天竜浜名湖 Lineの近年の収入実績を下表に記す。旅客運賃収入は1996年(1996)以降減少している。運輸雑収についてはfiscal yearによる変動が大きい。\n表中、収入の単位は千円。数値はfiscal yearでの値。表中、最高値を赤色で、最高値を記録したfiscal year以降の最低値を青色で、1987年(1987)以降の最高値を記録したfiscal year以前の最低値を緑色で囲んで表記している。",
+          "History": "元来は、掛川 Stationから遠江二俣、三河大野を経て岐阜県東濃地方の大井（現在の恵那）に至る鉄道（改正鉄道敷設法別表第63号）「遠美 Line」として計画されたが、軍事上の要請から、浜名湖付近で海岸部を通る東海道本 Lineが敵軍の攻撃により不通になった際のバイパスとするため、遠江二俣と新所原（法律の条文上は豊橋）の間を改正鉄道敷設法別表に第63号ノ2として1933年(1933)に追加した上で建設された。また、天竜二俣付近では、1929年(1929) - 1935年(1935)に存在した光明電気鉄道 Lineの廃 Line跡を転用して建設を行っている。当初、東 Line・西 Lineとして部分開通し、その後全 Line開通となる。部分開通の時には、1150形、C10形蒸気機関車が入 Lineしていたが、全通時には8620形になり、1960年(1960)頃に全機C58形に置き変わっている。\n\n 1935年(1935)4月17日 - 二俣 Line 掛川 Station - 遠江森 Station間（12.9 km）Opened.遠江桜木 Station（現在の桜木 Station）、原谷 Station、遠江森 Station（現在の遠州森 Station）Opened.\n 1936年(1936)12月1日 - 二俣西 Line 新所原 Station - 三ヶ日 Station間（12.1 km）Opened.知波田 Station、尾奈 Station、三ヶ日 StationOpened.二俣 Lineを二俣東 Lineにrenamed。\n 1938年(1938)4月1日 - 二俣西 Line 三ヶ日 Station - 金指 Station間（13.8 km）extensionOpened.都筑 Station、佐久米 Station（現在の浜名湖佐久米 Station）、西気賀 Station、気賀 Station、金指 StationOpened.\n 1940年(1940)6月1日 - 遠江森 Station - 金指 Station間（29.1 km）extensionopenedにより掛川 Station - 新所原 Station間全通。二俣東 Lineが新規opened区間及び二俣西 Lineを編入して二俣 Lineにrenamed。遠江一宮 Station、敷地 Station、野部 Station（現在の豊岡 Station）、遠江二俣 Station（現在の天竜二俣 Station）、西鹿島 Station、岩水寺 Station、宮口 Station、都田 StationOpened.\n 1953年(1953)7月8日 - 東都筑仮停車場Opened.\n 1954年(1954)10月10日 - 西掛川 StationOpened.\n 1955年(1955)\n5月6日 - 寸座 StationOpened.東都筑仮停車場を Stationに変更して東都筑 StationOpened.\n 6月1日 - 上野部 StationOpened.\n 1956年(1956)\n 5月10日 - 細谷 StationOpened.\n 12月15日 - 二俣本町 StationOpened.\n 1958年(1958)11月1日 - 遠州鉄道の気動車が西鹿島 Station - 遠江二俣 Station間に乗り入れ開始。\n 1960年(1960)4月20日 - 戸綿 StationOpened.\n 1961年(1961)5月16日 - 遠州鉄道の気動車の乗り入れ区間を遠江森 Stationまで延長 \n 1966年(1966)10月1日 - 遠州鉄道の気動車乗り入れclosed。\n 1971年(1971)3月31日 - 蒸気機関車 (SL) を全廃して無煙化。\n 1984年(1984)6月22日 - 第2次closed対象特定地方交通 Lineとしてclosed承認。\n 1985年(1985)3月14日 - 貨物営業をclosed。\n 1987年(1987)3月15日 - 国鉄二俣 Line（67.9 km）closed。天竜浜名湖鉄道 天竜浜名湖 Lineとして掛川 Station - 新所原 Station間（67.7km）Opened.気賀高校前 Station（現・岡地 Station）、アスモ前 StationOpened.遠江桜木 Stationを桜木 Stationに、遠江森 Stationを遠州森 Stationに、野部 Stationを豊岡 Stationに、遠江二俣 Stationを天竜二俣 Stationに、佐久米 Stationを浜名湖佐久米 Stationにそれぞれrenamed。\n 1988年(1988)3月13日 - 掛川 Station - 金指 Station間を電子閉塞に切り替え。いこいの広場 Station、原田 Station、円田 Station、浜松大学前 Station（現・常葉大学前 Station）、奥浜名湖 StationOpened.\n 1989年(1989)3月11日 - 金指 Station - 新所原 Station間の電子閉塞切り替えにより全 Line電子閉塞化。タブレット閉塞closed。\n 1996年(1996)3月18日 - 掛川市役所前 Station、フルーツパーク StationOpened.\n 2009年(2009)4月1日 - 大森 StationOpened.\n2013年(2013)4月1日 - 浜松大学前 Stationを常葉大学前 Stationにrenamed。\n 2015年(2015)3月14日 - 森町病院前 StationOpened.気賀高校前 Stationを岡地 Stationにrenamed。天竜二俣 Station - 新所原 Station間を電子符号照査式から軌道回路検知式に切換。\n 2016年(2016)8月27日 - 台湾鉄路管理局の集集 Lineとの姉妹鉄道協定が締結される。同日から2017年(2017)12月31日まで、「1日乗車券の相互無償提供」を実施。一方の有効期間内の使用済み「1日乗車券」をもう一方の鉄道の指定窓口に持参すると、「1日フリー乗車券」と無償で交換できる。\n 2020年(2020)7月1日 - 全通80周年を記念して「天浜 Line全 Line乗り放題純金フリーきっぷ」と記念カードの受注開始。",
+          "迂回路として": "前記の通り、天浜 Line（二俣 Line）が建設された当時、東海道本 Lineは海岸 Line近くを走り、天竜川や浜名湖の鉄橋が攻撃されることも想定されたため、迂回路として海岸から距離のある現在のルートが選定された。その迂回路としての役割を実際に果たしたこともある。\n 1944年(1944)12月に東南海地震で東海道本 Lineが大きな被害を受けた際に、復旧するまで列車が当 Lineを通った。\n 1945年(1945)7月24日に東海道本 Lineが空襲によって不通となった際に、列車3本が当 Lineに迂回した。\n 1945年(1945)7月30日に浜松 Station周辺が浜松空襲と同時に行われた艦砲射撃で不通となった際に、軍用列車や本 Line列車5本が当 Lineに迂回した。",
+          "気動車": "キハ20形 - 1980年以降\n キハ17形 - 1980年以前\n キハ800形 - 遠州鉄道からの乗り入れ気動車\n 二俣 Line時代の末期はキハ20形のみであった。",
+          "駅一覧・接続路 Line": "全 Station静岡県に所在。\nカッコ内は旧国鉄二俣 Line時代の Station名。*印は天竜浜名湖鉄道転換後の新設 Station。\n Stationの愛称（副 Station名）は2023年5月19日現在。天竜二俣 Stationの副 Station名はNHK大河ドラマ「どうする家康」の放映に合わせたもので、2023年12月末までの予定。\n途中 Stationは、遠州森 Station、天竜二俣 Station、金指 Station、三ヶ日 Station以外は無 people Station、有 people Stationで Station員が応対する営業時間は7 - 16時。\n Line路（全 Line単 Line） … ◇・∨：列車交換可能、｜：列車交換不可\n\n遠江一宮 Station - 敷地 Station間で袋井市を通過するが、同市内に Stationは存在しない。",
+          "過去の接続路 Line": "金指 Station：遠州鉄道奥山 Line",
+          "新駅設置計画": "西掛川 Station - 桜木 Station間にあったアピタ掛川店（現・MEGAドン・キホーテUNY掛川店）付近において、掛川市は新 Station設置の計画を立てている。2017fiscal yearに工事を着手し、同店の増床に合わせて2018fiscal year内の完成を目指していたが、アピタのドン・キホーテ傘下入りに伴い、MEGAドン・キホーテUNYへの転換・改装にとどめられ、新 Station計画は停滞しており、白紙になったとみられている。",
+          "信号": "信号機には腕木式信号機が国鉄時代に使用されていたが、転換後に色灯式信号機に交換された。出発・場内・遠方信号機は、原則として二灯式が採用されている。ただし例外として新所原 Station場内信号機は三灯式が採用されている。\n\nかつて使用されていた腕木式信号機の一部は、天竜二俣 Stationなどで保存されており、主信号機の他遠方信号機も一部で見られる。",
+          "文化財": "以下の建造物・施設が国の登録有形文化財に登録されている。1998年に5件、2011年に31件の一括登録（鉄道施設では、若桜鉄道若桜 Lineとわたらせ渓谷鐵道わたらせ渓谷 Lineに次ぐ三例目）が行われた。",
+          "登録有形文化財": "利木隧道（尾奈 Station - 知波田 Station間）",
+          "気賀駅上屋及びプラットホーム": "気賀町高架橋（気賀 Station - 岡地 Station間）",
+          "天浜線が登場する作品": "アニメ\nサザエさん - オープニングで使用された。",
+          "漫画": "シュート! - 大島司作のサッカー漫画で、掛川市内の路 Lineが登場。\n鉄子の旅 - 二俣本町 Station、宮口 Station、気賀 Station、西気賀 Station、浜名湖佐久米 Station、都筑 Stationが登場する。作者菊池直恵、旅の案内 people横見浩彦。\nテツぼん - 原作：高橋遠州、作画：永松潔。『ビッグコミックス』連載のテツちゃんの国会議員の活躍する漫画。2013年23号に原谷 Stationのボランティアや文化財の天竜二俣 Stationと周辺施設が登場する。\nゆるキャン△ - あfろ作の漫画。浜名湖佐久米 Station、気賀 Stationの描写が登場する。アニメ化、実写ドラマ化作品においても登場した。\nドラマ\nウォーターボーイズ2 - ドラマの中で「姫乃」となっている Stationは、原谷 Stationである。\n僕だけのマドンナ - 最終回でヒロインの片岡するみ（長谷川京子）が東京を離れ旅をするシーンで出てくる車両は当 LineのTH3000形だった。\n西村京太郎トラベルミステリー56 生死を分ける転車台\nリーガルV〜元弁護士・小鳥遊翔子〜 3話",
+          "CM": "2001年・コカコーラ（No Reason! キャンペーン） - 撮影に三ヶ日 Stationのホームが使用された。",
+          "旅番組・バラエティ番組": "鶴瓶の家族に乾杯（NHK総合テレビ） - 2017年1月16日放送「おんな城主 直虎SP 柴咲コウ 静岡県浜松市ぶっつけ本番旅」\nはくがぁる（テレビ朝日） - 2017年3月5日放送「ローカル Lineで行くテツかわいい旅学」\n昼めし旅 〜あなたのご飯見せてください!〜（テレビ東京）\n太川蛭子の旅バラ（テレビ東京） - 2019年8月22日放送「太川・蛭子のローカル鉄道寄り道旅 夏の浜名湖」\n出川哲朗の充電させてもらえませんか?（テレビ東京）\n六角精児の呑み鉄本 Line・日本旅（NHK BSプレミアム） - 2018年12月1日放送「秋・天竜浜名湖鉄道を呑む!」\n中井精也のてつたび（NHK BSプレミアム） - 2020年12月11日放送、第49回「静岡 深まる秋を探して」\n友近・礼二の妄想トレイン（BS日テレ） - 2021年11月22日放送、第57回「天竜浜名湖鉄道で行く浜名湖満喫の旅」\n乗り鉄おすすめ!鉄道トラベラーズ（MONDO21（現・MONDO TV））\n新・みんなの鉄道（フジテレビONE・フジテレビNEXT）#31\n鉄道発見伝 鉄兄ちゃん藤田大介アナが行く!（日テレプラス） - 第74話「日本の原風景に出逢う天竜浜名湖鉄道」初回放送：2019年11月26日\nなど\n\nコラボレーション \n地元住民以外の需要を開拓するため、以下のようなコレボレーション企画による集客を図っている。「天浜 Lineが登場する作品」も参照。",
+          "『ゆるキャン△』のラッピング列車運行や一日乗車券・グッズ販売": "当 Lineが舞台のモチーフとなった『シン・エヴァンゲリオン劇場版』の聖地巡礼",
+          "日本の鉄道路線一覧": "明知鉄道明知 Line - 改正鉄道敷設法別表第63号「掛川から遠江二俣、三河大野を経て大井に至る鉄道」の大井（恵那）側にあたる鉄道。"
+        },
+        "全文": "The Tenryū Hamanako Line is a railway line in western Shizuoka Prefecture, Japan, operated by the Tenryū Hamanako Railroad, connecting Kakegawa Station to Shinjohara Station.\n\n路線データ\n管轄（事業種別）：天竜浜名湖鉄道（第一種鉄道事業者）\n 路 Line距離（営業キロ）：67.7km\n 軌間：1067mm\n  Station数：39 Station（起終点 Station含む）\n 複 Line区間：なし（全 Line単 Line）\n 電化区間：なし（全 Line非電化）\n 閉塞方式：特殊自動閉塞（軌道回路検知式）\n 保安装置：ATS-ST\n 最高速度：80km/h\n IC乗車カード対応区間：なし\n\nOperations\n定期列車は全て各 Stationに停車する普通列車で、ワンマン運転が行われている。単 Lineかつローカル Lineであるために、完全な等間隔運行ではないが、昼間はほぼ1時間に1本の割合で列車が運行されている。全 Lineを通して運転される列車のほか、天竜二俣 Station発着列車、朝夕には掛川 Station - 遠州森 Station間、掛川 Station - 西鹿島 Station間、天竜二俣 Station - 宮口 Station間、金指 Station - 新所原 Station間、夜間には掛川 Station発金指 Stationおよび西鹿島 Station発天竜二俣 Station行きの区間運転列車が設定されている。\n\nかつては快速列車の設定もあり1996年3月16日改正で2往復が新設されたが、1往復への減便を経て2000年3月26日改正でclosedされた。以後、定期ダイヤにおける快速列車の設定はなく、後述する臨時列車などで運行されるに留まっている。\n\n国鉄二俣 Line時代はキハ20形気動車1両または2両編成でおおむね2時間に1本の割合の運転であった。また一部の列車は東海道本 Lineに乗り入れ豊橋 Stationまでの直通運転を実施しており、新所原 Stationの西側にかつて二俣 Lineの下り列車が立体交差で東海道本 Lineに合流するための跨 Line橋があったが、第三セクター鉄道転換後は東海道本 Lineへの直通列車はなく、跨 Line橋も撤去されている。\n\nなお、全 Lineの Line路検測を実施する際は、東海道本 Lineの静岡県内区間を運営するJR東海の軌道試験車キヤ95が乗り入れる。\n\n臨時列車\n2000年3月26日改正からトロッコ列車「そよかぜ号」が遠州森 Station - 三ヶ日 Station間（2003年からは天竜二俣 Station - 三ヶ日 Station間）を走っていた。同列車は貨車改造のトロッコ車両2両と上り方向にレールバス1両を連結した3両編成で、動力車はレールバスのみであった。終着 Stationでのレールバスの機回しを避けるため、トロッコ車両の下り側は制御付き運転台となっており、下り列車の場合トロッコ車両を先頭にして、後のレールバスを操縦する方式（ペンデルツーク）を採用していた。しかし、トロッコ車両の台枠に亀裂が発見されたことから2007fiscal yearより運行を中止し、後に廃車、解体された。\n\n2017年3月4日改正からは季節列車「井の国号」の運転が開始された（運転開始日は3月18日）。運転日は春休み中の土休日やゴールデンウィーク、お盆期間などの繁忙期。下りは掛川 Station発新所原 Station行き区間快速として運転され、天竜二俣 Station - 新所原 Station間は各 Stationに停車する。上りは新所原 Station発天竜二俣 Station行きの普通列車として運転される。\n\n輸送実績\n天竜浜名湖 Lineの近年の輸送実績を下表に記す。輸送量は減少している。\n表中、輸送 people員の単位は万 people。輸送 people員はfiscal yearでの値。表中、最高値を赤色で、最高値を記録したfiscal year以降の最低値を青色で、1987年(1987)以降の最高値を記録したfiscal year以前の最低値を緑色で囲んで表記している。\n\n収入実績\n天竜浜名湖 Lineの近年の収入実績を下表に記す。旅客運賃収入は1996年(1996)以降減少している。運輸雑収についてはfiscal yearによる変動が大きい。\n表中、収入の単位は千円。数値はfiscal yearでの値。表中、最高値を赤色で、最高値を記録したfiscal year以降の最低値を青色で、1987年(1987)以降の最高値を記録したfiscal year以前の最低値を緑色で囲んで表記している。\n\nHistory\n元来は、掛川 Stationから遠江二俣、三河大野を経て岐阜県東濃地方の大井（現在の恵那）に至る鉄道（改正鉄道敷設法別表第63号）「遠美 Line」として計画されたが、軍事上の要請から、浜名湖付近で海岸部を通る東海道本 Lineが敵軍の攻撃により不通になった際のバイパスとするため、遠江二俣と新所原（法律の条文上は豊橋）の間を改正鉄道敷設法別表に第63号ノ2として1933年(1933)に追加した上で建設された。また、天竜二俣付近では、1929年(1929) - 1935年(1935)に存在した光明電気鉄道 Lineの廃 Line跡を転用して建設を行っている。当初、東 Line・西 Lineとして部分開通し、その後全 Line開通となる。部分開通の時には、1150形、C10形蒸気機関車が入 Lineしていたが、全通時には8620形になり、1960年(1960)頃に全機C58形に置き変わっている。\n\n 1935年(1935)4月17日 - 二俣 Line 掛川 Station - 遠江森 Station間（12.9 km）Opened.遠江桜木 Station（現在の桜木 Station）、原谷 Station、遠江森 Station（現在の遠州森 Station）Opened.\n 1936年(1936)12月1日 - 二俣西 Line 新所原 Station - 三ヶ日 Station間（12.1 km）Opened.知波田 Station、尾奈 Station、三ヶ日 StationOpened.二俣 Lineを二俣東 Lineにrenamed。\n 1938年(1938)4月1日 - 二俣西 Line 三ヶ日 Station - 金指 Station間（13.8 km）extensionOpened.都筑 Station、佐久米 Station（現在の浜名湖佐久米 Station）、西気賀 Station、気賀 Station、金指 StationOpened.\n 1940年(1940)6月1日 - 遠江森 Station - 金指 Station間（29.1 km）extensionopenedにより掛川 Station - 新所原 Station間全通。二俣東 Lineが新規opened区間及び二俣西 Lineを編入して二俣 Lineにrenamed。遠江一宮 Station、敷地 Station、野部 Station（現在の豊岡 Station）、遠江二俣 Station（現在の天竜二俣 Station）、西鹿島 Station、岩水寺 Station、宮口 Station、都田 StationOpened.\n 1953年(1953)7月8日 - 東都筑仮停車場Opened.\n 1954年(1954)10月10日 - 西掛川 StationOpened.\n 1955年(1955)\n5月6日 - 寸座 StationOpened.東都筑仮停車場を Stationに変更して東都筑 StationOpened.\n 6月1日 - 上野部 StationOpened.\n 1956年(1956)\n 5月10日 - 細谷 StationOpened.\n 12月15日 - 二俣本町 StationOpened.\n 1958年(1958)11月1日 - 遠州鉄道の気動車が西鹿島 Station - 遠江二俣 Station間に乗り入れ開始。\n 1960年(1960)4月20日 - 戸綿 StationOpened.\n 1961年(1961)5月16日 - 遠州鉄道の気動車の乗り入れ区間を遠江森 Stationまで延長 \n 1966年(1966)10月1日 - 遠州鉄道の気動車乗り入れclosed。\n 1971年(1971)3月31日 - 蒸気機関車 (SL) を全廃して無煙化。\n 1984年(1984)6月22日 - 第2次closed対象特定地方交通 Lineとしてclosed承認。\n 1985年(1985)3月14日 - 貨物営業をclosed。\n 1987年(1987)3月15日 - 国鉄二俣 Line（67.9 km）closed。天竜浜名湖鉄道 天竜浜名湖 Lineとして掛川 Station - 新所原 Station間（67.7km）Opened.気賀高校前 Station（現・岡地 Station）、アスモ前 StationOpened.遠江桜木 Stationを桜木 Stationに、遠江森 Stationを遠州森 Stationに、野部 Stationを豊岡 Stationに、遠江二俣 Stationを天竜二俣 Stationに、佐久米 Stationを浜名湖佐久米 Stationにそれぞれrenamed。\n 1988年(1988)3月13日 - 掛川 Station - 金指 Station間を電子閉塞に切り替え。いこいの広場 Station、原田 Station、円田 Station、浜松大学前 Station（現・常葉大学前 Station）、奥浜名湖 StationOpened.\n 1989年(1989)3月11日 - 金指 Station - 新所原 Station間の電子閉塞切り替えにより全 Line電子閉塞化。タブレット閉塞closed。\n 1996年(1996)3月18日 - 掛川市役所前 Station、フルーツパーク StationOpened.\n 2009年(2009)4月1日 - 大森 StationOpened.\n2013年(2013)4月1日 - 浜松大学前 Stationを常葉大学前 Stationにrenamed。\n 2015年(2015)3月14日 - 森町病院前 StationOpened.気賀高校前 Stationを岡地 Stationにrenamed。天竜二俣 Station - 新所原 Station間を電子符号照査式から軌道回路検知式に切換。\n 2016年(2016)8月27日 - 台湾鉄路管理局の集集 Lineとの姉妹鉄道協定が締結される。同日から2017年(2017)12月31日まで、「1日乗車券の相互無償提供」を実施。一方の有効期間内の使用済み「1日乗車券」をもう一方の鉄道の指定窓口に持参すると、「1日フリー乗車券」と無償で交換できる。\n 2020年(2020)7月1日 - 全通80周年を記念して「天浜 Line全 Line乗り放題純金フリーきっぷ」と記念カードの受注開始。\n\n迂回路として\n前記の通り、天浜 Line（二俣 Line）が建設された当時、東海道本 Lineは海岸 Line近くを走り、天竜川や浜名湖の鉄橋が攻撃されることも想定されたため、迂回路として海岸から距離のある現在のルートが選定された。その迂回路としての役割を実際に果たしたこともある。\n 1944年(1944)12月に東南海地震で東海道本 Lineが大きな被害を受けた際に、復旧するまで列車が当 Lineを通った。\n 1945年(1945)7月24日に東海道本 Lineが空襲によって不通となった際に、列車3本が当 Lineに迂回した。\n 1945年(1945)7月30日に浜松 Station周辺が浜松空襲と同時に行われた艦砲射撃で不通となった際に、軍用列車や本 Line列車5本が当 Lineに迂回した。\n\n気動車\nキハ20形 - 1980年以降\n キハ17形 - 1980年以前\n キハ800形 - 遠州鉄道からの乗り入れ気動車\n 二俣 Line時代の末期はキハ20形のみであった。\n\n駅一覧・接続路 Line\n全 Station静岡県に所在。\nカッコ内は旧国鉄二俣 Line時代の Station名。*印は天竜浜名湖鉄道転換後の新設 Station。\n Stationの愛称（副 Station名）は2023年5月19日現在。天竜二俣 Stationの副 Station名はNHK大河ドラマ「どうする家康」の放映に合わせたもので、2023年12月末までの予定。\n途中 Stationは、遠州森 Station、天竜二俣 Station、金指 Station、三ヶ日 Station以外は無 people Station、有 people Stationで Station員が応対する営業時間は7 - 16時。\n Line路（全 Line単 Line） … ◇・∨：列車交換可能、｜：列車交換不可\n\n遠江一宮 Station - 敷地 Station間で袋井市を通過するが、同市内に Stationは存在しない。\n\n過去の接続路 Line\n金指 Station：遠州鉄道奥山 Line\n\n新駅設置計画\n西掛川 Station - 桜木 Station間にあったアピタ掛川店（現・MEGAドン・キホーテUNY掛川店）付近において、掛川市は新 Station設置の計画を立てている。2017fiscal yearに工事を着手し、同店の増床に合わせて2018fiscal year内の完成を目指していたが、アピタのドン・キホーテ傘下入りに伴い、MEGAドン・キホーテUNYへの転換・改装にとどめられ、新 Station計画は停滞しており、白紙になったとみられている。\n\n信号\n信号機には腕木式信号機が国鉄時代に使用されていたが、転換後に色灯式信号機に交換された。出発・場内・遠方信号機は、原則として二灯式が採用されている。ただし例外として新所原 Station場内信号機は三灯式が採用されている。\n\nかつて使用されていた腕木式信号機の一部は、天竜二俣 Stationなどで保存されており、主信号機の他遠方信号機も一部で見られる。\n\n文化財\n以下の建造物・施設が国の登録有形文化財に登録されている。1998年に5件、2011年に31件の一括登録（鉄道施設では、若桜鉄道若桜 Lineとわたらせ渓谷鐵道わたらせ渓谷 Lineに次ぐ三例目）が行われた。\n\n登録有形文化財\n利木隧道（尾奈 Station - 知波田 Station間）\n\n気賀駅上屋及びプラットホーム\n気賀町高架橋（気賀 Station - 岡地 Station間）\n\n天浜線が登場する作品\nアニメ\nサザエさん - オープニングで使用された。\n\n漫画\nシュート! - 大島司作のサッカー漫画で、掛川市内の路 Lineが登場。\n鉄子の旅 - 二俣本町 Station、宮口 Station、気賀 Station、西気賀 Station、浜名湖佐久米 Station、都筑 Stationが登場する。作者菊池直恵、旅の案内 people横見浩彦。\nテツぼん - 原作：高橋遠州、作画：永松潔。『ビッグコミックス』連載のテツちゃんの国会議員の活躍する漫画。2013年23号に原谷 Stationのボランティアや文化財の天竜二俣 Stationと周辺施設が登場する。\nゆるキャン△ - あfろ作の漫画。浜名湖佐久米 Station、気賀 Stationの描写が登場する。アニメ化、実写ドラマ化作品においても登場した。\nドラマ\nウォーターボーイズ2 - ドラマの中で「姫乃」となっている Stationは、原谷 Stationである。\n僕だけのマドンナ - 最終回でヒロインの片岡するみ（長谷川京子）が東京を離れ旅をするシーンで出てくる車両は当 LineのTH3000形だった。\n西村京太郎トラベルミステリー56 生死を分ける転車台\nリーガルV〜元弁護士・小鳥遊翔子〜 3話\n\nCM\n2001年・コカコーラ（No Reason! キャンペーン） - 撮影に三ヶ日 Stationのホームが使用された。\n\n旅番組・バラエティ番組\n鶴瓶の家族に乾杯（NHK総合テレビ） - 2017年1月16日放送「おんな城主 直虎SP 柴咲コウ 静岡県浜松市ぶっつけ本番旅」\nはくがぁる（テレビ朝日） - 2017年3月5日放送「ローカル Lineで行くテツかわいい旅学」\n昼めし旅 〜あなたのご飯見せてください!〜（テレビ東京）\n太川蛭子の旅バラ（テレビ東京） - 2019年8月22日放送「太川・蛭子のローカル鉄道寄り道旅 夏の浜名湖」\n出川哲朗の充電させてもらえませんか?（テレビ東京）\n六角精児の呑み鉄本 Line・日本旅（NHK BSプレミアム） - 2018年12月1日放送「秋・天竜浜名湖鉄道を呑む!」\n中井精也のてつたび（NHK BSプレミアム） - 2020年12月11日放送、第49回「静岡 深まる秋を探して」\n友近・礼二の妄想トレイン（BS日テレ） - 2021年11月22日放送、第57回「天竜浜名湖鉄道で行く浜名湖満喫の旅」\n乗り鉄おすすめ!鉄道トラベラーズ（MONDO21（現・MONDO TV））\n新・みんなの鉄道（フジテレビONE・フジテレビNEXT）#31\n鉄道発見伝 鉄兄ちゃん藤田大介アナが行く!（日テレプラス） - 第74話「日本の原風景に出逢う天竜浜名湖鉄道」初回放送：2019年11月26日\nなど\n\nコラボレーション \n地元住民以外の需要を開拓するため、以下のようなコレボレーション企画による集客を図っている。「天浜 Lineが登場する作品」も参照。\n\n『ゆるキャン△』のラッピング列車運行や一日乗車券・グッズ販売\n当 Lineが舞台のモチーフとなった『シン・エヴァンゲリオン劇場版』の聖地巡礼\n\n日本の鉄道路線一覧\n明知鉄道明知 Line - 改正鉄道敷設法別表第63号「掛川から遠江二俣、三河大野を経て大井に至る鉄道」の大井（恵那）側にあたる鉄道。",
+        "字数": 7706
       }
     }
   },
@@ -109,9 +131,18 @@
           "词条标题": "Ikoinohiroba Station",
           "链接": "https://en.wikipedia.org/wiki/Ikoinohiroba%20Station",
           "首段": "is a train station on the Tenryū Hamanako Line in Kakegawa, Shizuoka Prefecture, Japan. It is  by rail from the terminus of the line at Kakegawa Station.",
-          "章节": {},
-          "全文": "is a train station on the Tenryū Hamanako Line in Kakegawa, Shizuoka Prefecture, Japan. It is  by rail from the terminus of the line at Kakegawa Station.",
-          "字数": 153
+          "章节": {
+            "History": "1988年(1988)3月13日：天竜浜名湖鉄道の StationとしてOpened.",
+            "Station layout": "side platforman island platform layoutを有する地上 Station。ホームは Line路の東側にあり、その上に待合室がある。通常は無 people Stationであるが、掛川市営球場で全国高等学校野球選手権大会の県大会が開催されるときには、臨時で Station員が配置される。\n\n西隣の細谷 Stationまでは500mしか離れておらず、道路も並行している。",
+            "Usage": "近年のboarding passengersは以下の通りである。 Station付近には住宅が少ないものの朝夕は周辺事業所などの定期通勤者が利用する。",
+            "Surrounding area": " Stationの周囲は平坦で建物が少ない。 Station出口前の細い道を約100m南下すると県道40号掛川天竜 Lineに出られる。この地点には学習塾も入居する5階建てワンルームマンションが目印のように立地している。\n\n東方500m付近の丘陵地帯にはいこいの広場が広がり、 Station前にある県道の交差点よりアクセス道路が通じている。 Station西側には田が広がる。",
+            "昭和パックス掛川工場": "トダックス本社（リフォーム業者）",
+            "静岡県教育委員会静西教育事務所": "This is a Wikipedia category section for 静岡県教育委員会静西教育事務所.",
+            "NPO法人プライドサポートセンター": "花峰庵たかやま - 懐石料理店",
+            "天竜浜名湖 Line": "桜木 Station - いこいの広場 Station - 細谷 Station"
+          },
+          "全文": "is a train station on the Tenryū Hamanako Line in Kakegawa, Shizuoka Prefecture, Japan. It is  by rail from the terminus of the line at Kakegawa Station.\n\nHistory\n1988年(1988)3月13日：天竜浜名湖鉄道の StationとしてOpened.\n\nStation layout\nside platforman island platform layoutを有する地上 Station。ホームは Line路の東側にあり、その上に待合室がある。通常は無 people Stationであるが、掛川市営球場で全国高等学校野球選手権大会の県大会が開催されるときには、臨時で Station員が配置される。\n\n西隣の細谷 Stationまでは500mしか離れておらず、道路も並行している。\n\nUsage\n近年のboarding passengersは以下の通りである。 Station付近には住宅が少ないものの朝夕は周辺事業所などの定期通勤者が利用する。\n\nSurrounding area\n Stationの周囲は平坦で建物が少ない。 Station出口前の細い道を約100m南下すると県道40号掛川天竜 Lineに出られる。この地点には学習塾も入居する5階建てワンルームマンションが目印のように立地している。\n\n東方500m付近の丘陵地帯にはいこいの広場が広がり、 Station前にある県道の交差点よりアクセス道路が通じている。 Station西側には田が広がる。\n\n昭和パックス掛川工場\nトダックス本社（リフォーム業者）\n\n静岡県教育委員会静西教育事務所\nThis is a Wikipedia category section for 静岡県教育委員会静西教育事務所.\n\nNPO法人プライドサポートセンター\n花峰庵たかやま - 懐石料理店\n\n天竜浜名湖 Line\n桜木 Station - いこいの広場 Station - 細谷 Station",
+          "字数": 906
         }
       },
       "结构化信息": {
@@ -185,10 +216,14 @@
             "Former": "Jacob Marshall – drums, percussion, piano (2001–2021)\n Mark Padgett – bass guitar (2002–2007, 2010–2015)\n Rob Sweitzer – keyboards (2002–2007, 2010–2015)\n William Clark – bass (2001–2002)\n Jake Clemons – saxophone (now of the E Street Band)\n\nRelated projects\n Before forming Mae, Dave Elkins was a co-founder and lead vocalist for the indie band \"Sky's the Limit\". Two songs that Elkins originally wrote for Sky's the Limit have been recorded and released by Mae – \"Skyline Drive\", on Destination: Beautiful, and \"Tisbury Lane\", on Destination: B-Sides.\n After Mae finished their final tour, Dave Elkins began a new project called Schematic.\n Jacob Marshall has formed the band River James with members of the band Army of Me.\n In the fall of 2014, Mae keyboardist Rob Sweitzer announced a crowd-funding project for a solo record of his own, titled \"M29\", under the act name My God, It's Full of Stars.",
             "Albums": "EPs and B-sides",
             "DVDs": "From Toledo to Tokyo (Astorya Entertainment, 2005)\n The Everglow: Special Edition DVD (Tooth & Nail Records, 2006)\n Destination: Beautiful Five Year Anniversary (Mae Recording Company, 2008)\n (M)orning (Cell Records, 2009)\n (A)fternoon (Cell Records, 2010)\n (E)vening (Cell Records, 2011)\n\nCompilation appearances\n \"Take Action! Vol. 4\" (2004, contributed \"Embers and Envelopes\")\n Happy Christmas Vol. 4 (2005, contributed \"Carol of the Bells\")\n Punk Goes 90's (2006, contributed \"March of the Pigs\")\n\nSong of the Month\nThroughout 2009, Mae released 'Songs of the Month' (proceeds benefiting Habitat for Humanity and Donorschoose.org), with the first four tracks going onto the (M)orning EP, the second set of four going onto the (A)fternoon EP, and the final four on the (E)vening EP:\n\n January: \"The House that Fire Built\"\n February: \"Boomerang\"\n March: \"A Melody, The Memory\"\n April: \"Night/Day\"\n May: \"Over and Over\"\n June: \"The Cure\"\n July: \"The Fight Song\"\n August: \"In Pieces\"\n September: \"I Just Needed You To Know\"\n October: \"Seasons\"\n †November: \"Sleep Well\"\n †December: \"Bloom\"\n† - Release delayed due to the theft of Mae's instruments and gear in Philadelphia",
-            "References": "External links\n Mae Official Website.\n Mae on PureVolume Contains MP3s, a biography, show dates and photos.\n Mae on Virb\n Video interview with Mae for AbsolutePunk.net\n This Is Schematic\n Interview with Mae for FussMagazine.com\n Interview with Dave Elkins for freshZIVE.com\n\n2001 establishments in Virginia\nAmerican emo musical groups\nCapitol Records artists\nEqual Vision Records artists\nMusical groups disestablished in 2011\nMusical groups established in 2001\nMusical groups reestablished in 2013\nMusicians from Norfolk, Virginia\nTooth & Nail Records artists\nMusical groups from Virginia\nAmerican musical quintets"
+            "References": "External links\n Mae Official Website.\n Mae on PureVolume Contains MP3s, a biography, show dates and photos.\n Mae on Virb\n Video interview with Mae for AbsolutePunk.net\n This Is Schematic\n Interview with Mae for FussMagazine.com\n Interview with Dave Elkins for freshZIVE.com\n\n2001 establishments in Virginia\nAmerican emo musical groups\nCapitol Records artists\nEqual Vision Records artists\nMusical groups disestablished in 2011\nMusical groups established in 2001\nMusical groups reestablished in 2013\nMusicians from Norfolk, Virginia\nTooth & Nail Records artists\nMusical groups from Virginia\nAmerican musical quintets",
+            "Station layout": "side platforman island platform layoutを有する地上 Station。無 people Stationである。\n\n目の前のデンソー湖西製作所に入るためには従業員証が必要である。",
+            "Usage": "近年のboarding passengersは以下の通りである。",
+            "Surrounding area": "デンソー湖西製作所（旧・アスモ株式会社本社）",
+            "天竜浜名湖 Line": "大森 Station - アスモ前 Station - 新所原 Station"
           },
-          "全文": "Mae (stylized mae) is an American rock band that formed in Norfolk, Virginia in 2001. The band's name is an acronym for \"Multisensory Aesthetic Experience\", based on a course taken by drummer Jacob Marshall while a student at Old Dominion University.\n\nHistory\n\nEarly years with Tooth and Nail (2001–2006) \nJacob Marshall and Dave Elkins began what would become Mae by writing their first song, \"Embers and Envelopes\", in Marshall's living room. The band signed with Tooth and Nail Records and released their first album, Destination: Beautiful, in 2003. They released their second full-length album, The Everglow, in 2005. The band toured extensively to promote it, and also performed on the Vans Warped Tour. Mae re-released The Everglow in 2006, adding three new songs and a two-hour DVD.\n\nMove to Capitol, Singularity, and (m)(a)(e) EPs (2006–2012) \nLater in 2006, the band signed to Capitol Records for their third full-length album. Mae began recording the album in the fall of 2006, working with producer Howard Benson (who has produced albums for Saosin, My Chemical Romance, Blindside, and Relient K). The album, titled Singularity, was released on August 14, 2007. On June 19, 2007, the band released the first single from Singularity, \"Sometimes I Can't Make It Alone\".\n\nOn September 24, 2007 Padgett and Sweitzer parted ways with Mae. The following year, Mae announced that they had split ways with Capitol Records. They also stated that they would embark on a new, experimental project, releasing one new song for each month of 2009. Each song would be available to download on their website for a minimum donation of $1, with proceeds going to humanitarian projects of Mae's choosing. Additionally, they would be compiling the monthly songs into three separate EPs entitled (m)orning, (a)fternoon and (e)vening, respectively.\n\nIn July 2009, Mae announced they were starting their own label called \"Cell Records\" through which they would release their three-EP set. In order to get in-store distribution Mae returned to their original label Tooth and Nail Records and signed a distribution agreement with the label. The (m)orning EP was released in stores and online on September 22, 2009. There was a limited edition scratch-and-sniff disk that was only available on their spring US tour and which was scented like the ocean (the band encouraged members in the crowd of their live shows to smell the disc during their song \"The Ocean\"). Mae released the (a)fternoon EP in stores and online March 30, 2010. The final EP, (e)vening, was initially available in a limited edition on the band's \"Goodbye, Goodnight\" tour. The EP was then released in stores and online on March 8, 2011 bundled with a DVD of their hometown farewell show filmed at The NorVa in Norfolk, Virginia. The farewell show features 20 songs, with songs from each of their full-length records and their three most recent EPs.\n\nOn May 7, 2010 word began spreading of Mark Padgett and Rob Sweitzer rejoining Mae for their upcoming fall tour. On June 19, 2010, Mae played a show in Singapore, the first show since 2007 that included both Mark Padgett and Rob Sweitzer. On June 22, 2010, Mae's Dave Elkins confirmed on the band's forums that Mark Padgett and Rob Sweitzer had reunited with Mae. On June 28, 2010 Mae announced that their upcoming \"Goodbye, Goodnight\" Tour would be their last for the foreseeable future, marking their indefinite hiatus. On August 23, 2010, the newly reunited Mae including Mark Padgett and Rob Sweitzer played their first show back home in the US at Eureka College in Eureka, Illinois, evidently gearing up for the Goodbye, Goodnight tour. On Saturday November 27, 2010, the band played what was billed as its last show at The NorVa. The show was filmed to be released on DVD. What were believed at the time to be Mae's actual final performances consisted of two shows played on February 23 and 24, 2011 at the Shibuya and Shinsaibashi locations of Club Quattro in Japan. However, in late December 2011, the band announced on its website that it would play eight shows in the UK and Europe as part of the Goodbye, Goodnight tour from January 3–10, 2012.\n\nContinued touring, return to Tooth & Nail, Multisensory Aesthetic Experience, and signing to Equal Vision (2012–present) \nOn February 21–23, 2013, Mae played a three show tour to commemorate the 10-year anniversary of the band's album Destination: Beautiful. Two shows took place in Virginia Beach, Virginia and one in Nashville, Tennessee. The shows consisted of the band playing their first album in its entirety. At the second Virginia Beach show, current E Street Band saxophonist and early Mae member Jacob Clemons made a guest appearance on the band's song \"Tisbury Lane\" during encore.\n\nOn June 7, 2014 Mae played an online show via stageit. During the concert it was announced that Mae would be reuniting in 2015 to complete a reunion tour in commemoration of the 10-year anniversary of The Everglow. They also confirmed that they were re-recording several songs for a pressing of Destination: B-Sides on vinyl rumored to be released via Spartan Records late in the summer of 2014.\n\nMultisensory Aesthetic Experience, and was released on November 30, 2018 through the band's original record company, Tooth & Nail Records. The inspiration for this album came after the band had created a large-scale virtual reality experience at the Forbes Under30 Summit in Jerusalem. The event took place at the historic Tower of David. Dave Elkins recalled,“We performed in front of 650/700 people who all took their smartphones, put them in these cardboard viewfinders and all the visuals that they were seeing were in virtual reality 360 [which] were accommodating the music that we had written and recorded just to accommodate this experience.”\n\nOn June 26, 2018 Mae announced a fall 2018 tour which included \"MAE Day\" in select cities. The \"MAE Day\" event consisted of a short video, discussion with the band, listening party, shared meal, VR experience, and additional multi-sensory experiences. On November 27, 2018 Mae announced via a Facebook post an early 2019 tour on the west coast, with the final dates in Japan. In November 2019, the band announced on a Facebook post the \"Multisensory Aesthetic (360) Experience\", a partnership with TriBeCa Film Institute. On August 24, 2021, Jacob Marshall announced his departure from the band via Mae's Facebook page.\n\nIn September of 2023, Mae signed with Equal Vision Records.\n\nMembers\nCurrent\n Dave Elkins – lead vocals, guitar (2001–present)\n Zach Gehring – guitar (2003–present)\n\nTouring musicians\n Josiah Schlater – bass (from the bands Tokyo and Color)\n Robert Smith – keyboard (from the bands Tokyo and Musicplayer)\n David Pogge – bass (for the (a)fternoon tour)\n Tyler Strickland – guitar (for the (a)fternoon tour)\n Matt Beck – guitar (initial tour, replaced by member Zach Gehring)\n Drew Smyser – bass and backing vocals (2017, 2023-present, from the band Whistler Lane)\n Geoffrey Mutchnik - keyboard (2018-2021)\n Kipp Wilde - keyboard (2017-2018, 2021–present, from the band Windsor Drive)\n Patrick Ryan – bass and guitar (mid 2017–2021)\n Josh Grigsby - drums (2021–present, from the band Houston Calls)\n Aaron Lachman - bass (2022)\n\nFormer\n Jacob Marshall – drums, percussion, piano (2001–2021)\n Mark Padgett – bass guitar (2002–2007, 2010–2015)\n Rob Sweitzer – keyboards (2002–2007, 2010–2015)\n William Clark – bass (2001–2002)\n Jake Clemons – saxophone (now of the E Street Band)\n\nRelated projects\n Before forming Mae, Dave Elkins was a co-founder and lead vocalist for the indie band \"Sky's the Limit\". Two songs that Elkins originally wrote for Sky's the Limit have been recorded and released by Mae – \"Skyline Drive\", on Destination: Beautiful, and \"Tisbury Lane\", on Destination: B-Sides.\n After Mae finished their final tour, Dave Elkins began a new project called Schematic.\n Jacob Marshall has formed the band River James with members of the band Army of Me.\n In the fall of 2014, Mae keyboardist Rob Sweitzer announced a crowd-funding project for a solo record of his own, titled \"M29\", under the act name My God, It's Full of Stars.\n\nDiscography\n\nAlbums\n\nEPs and B-sides\n\nSingles\n\nDVDs\n From Toledo to Tokyo (Astorya Entertainment, 2005)\n The Everglow: Special Edition DVD (Tooth & Nail Records, 2006)\n Destination: Beautiful Five Year Anniversary (Mae Recording Company, 2008)\n (M)orning (Cell Records, 2009)\n (A)fternoon (Cell Records, 2010)\n (E)vening (Cell Records, 2011)\n\nCompilation appearances\n \"Take Action! Vol. 4\" (2004, contributed \"Embers and Envelopes\")\n Happy Christmas Vol. 4 (2005, contributed \"Carol of the Bells\")\n Punk Goes 90's (2006, contributed \"March of the Pigs\")\n\nSong of the Month\nThroughout 2009, Mae released 'Songs of the Month' (proceeds benefiting Habitat for Humanity and Donorschoose.org), with the first four tracks going onto the (M)orning EP, the second set of four going onto the (A)fternoon EP, and the final four on the (E)vening EP:\n\n January: \"The House that Fire Built\"\n February: \"Boomerang\"\n March: \"A Melody, The Memory\"\n April: \"Night/Day\"\n May: \"Over and Over\"\n June: \"The Cure\"\n July: \"The Fight Song\"\n August: \"In Pieces\"\n September: \"I Just Needed You To Know\"\n October: \"Seasons\"\n †November: \"Sleep Well\"\n †December: \"Bloom\"\n† - Release delayed due to the theft of Mae's instruments and gear in Philadelphia\n\nReferences\n\nExternal links\n Mae Official Website.\n Mae on PureVolume Contains MP3s, a biography, show dates and photos.\n Mae on Virb\n Video interview with Mae for AbsolutePunk.net\n This Is Schematic\n Interview with Mae for FussMagazine.com\n Interview with Dave Elkins for freshZIVE.com\n\n2001 establishments in Virginia\nAmerican emo musical groups\nCapitol Records artists\nEqual Vision Records artists\nMusical groups disestablished in 2011\nMusical groups established in 2001\nMusical groups reestablished in 2013\nMusicians from Norfolk, Virginia\nTooth & Nail Records artists\nMusical groups from Virginia\nAmerican musical quintets",
-          "字数": 10019
+          "全文": "Mae (stylized mae) is an American rock band that formed in Norfolk, Virginia in 2001. The band's name is an acronym for \"Multisensory Aesthetic Experience\", based on a course taken by drummer Jacob Marshall while a student at Old Dominion University.\n\nHistory\nEarly years with Tooth and Nail (2001–2006) \nJacob Marshall and Dave Elkins began what would become Mae by writing their first song, \"Embers and Envelopes\", in Marshall's living room. The band signed with Tooth and Nail Records and released their first album, Destination: Beautiful, in 2003. They released their second full-length album, The Everglow, in 2005. The band toured extensively to promote it, and also performed on the Vans Warped Tour. Mae re-released The Everglow in 2006, adding three new songs and a two-hour DVD.\n\nMove to Capitol, Singularity, and (m)(a)(e) EPs (2006–2012) \nLater in 2006, the band signed to Capitol Records for their third full-length album. Mae began recording the album in the fall of 2006, working with producer Howard Benson (who has produced albums for Saosin, My Chemical Romance, Blindside, and Relient K). The album, titled Singularity, was released on August 14, 2007. On June 19, 2007, the band released the first single from Singularity, \"Sometimes I Can't Make It Alone\".\n\nOn September 24, 2007 Padgett and Sweitzer parted ways with Mae. The following year, Mae announced that they had split ways with Capitol Records. They also stated that they would embark on a new, experimental project, releasing one new song for each month of 2009. Each song would be available to download on their website for a minimum donation of $1, with proceeds going to humanitarian projects of Mae's choosing. Additionally, they would be compiling the monthly songs into three separate EPs entitled (m)orning, (a)fternoon and (e)vening, respectively.\n\nIn July 2009, Mae announced they were starting their own label called \"Cell Records\" through which they would release their three-EP set. In order to get in-store distribution Mae returned to their original label Tooth and Nail Records and signed a distribution agreement with the label. The (m)orning EP was released in stores and online on September 22, 2009. There was a limited edition scratch-and-sniff disk that was only available on their spring US tour and which was scented like the ocean (the band encouraged members in the crowd of their live shows to smell the disc during their song \"The Ocean\"). Mae released the (a)fternoon EP in stores and online March 30, 2010. The final EP, (e)vening, was initially available in a limited edition on the band's \"Goodbye, Goodnight\" tour. The EP was then released in stores and online on March 8, 2011 bundled with a DVD of their hometown farewell show filmed at The NorVa in Norfolk, Virginia. The farewell show features 20 songs, with songs from each of their full-length records and their three most recent EPs.\n\nOn May 7, 2010 word began spreading of Mark Padgett and Rob Sweitzer rejoining Mae for their upcoming fall tour. On June 19, 2010, Mae played a show in Singapore, the first show since 2007 that included both Mark Padgett and Rob Sweitzer. On June 22, 2010, Mae's Dave Elkins confirmed on the band's forums that Mark Padgett and Rob Sweitzer had reunited with Mae. On June 28, 2010 Mae announced that their upcoming \"Goodbye, Goodnight\" Tour would be their last for the foreseeable future, marking their indefinite hiatus. On August 23, 2010, the newly reunited Mae including Mark Padgett and Rob Sweitzer played their first show back home in the US at Eureka College in Eureka, Illinois, evidently gearing up for the Goodbye, Goodnight tour. On Saturday November 27, 2010, the band played what was billed as its last show at The NorVa. The show was filmed to be released on DVD. What were believed at the time to be Mae's actual final performances consisted of two shows played on February 23 and 24, 2011 at the Shibuya and Shinsaibashi locations of Club Quattro in Japan. However, in late December 2011, the band announced on its website that it would play eight shows in the UK and Europe as part of the Goodbye, Goodnight tour from January 3–10, 2012.\n\nContinued touring, return to Tooth & Nail, Multisensory Aesthetic Experience, and signing to Equal Vision (2012–present) \nOn February 21–23, 2013, Mae played a three show tour to commemorate the 10-year anniversary of the band's album Destination: Beautiful. Two shows took place in Virginia Beach, Virginia and one in Nashville, Tennessee. The shows consisted of the band playing their first album in its entirety. At the second Virginia Beach show, current E Street Band saxophonist and early Mae member Jacob Clemons made a guest appearance on the band's song \"Tisbury Lane\" during encore.\n\nOn June 7, 2014 Mae played an online show via stageit. During the concert it was announced that Mae would be reuniting in 2015 to complete a reunion tour in commemoration of the 10-year anniversary of The Everglow. They also confirmed that they were re-recording several songs for a pressing of Destination: B-Sides on vinyl rumored to be released via Spartan Records late in the summer of 2014.\n\nMultisensory Aesthetic Experience, and was released on November 30, 2018 through the band's original record company, Tooth & Nail Records. The inspiration for this album came after the band had created a large-scale virtual reality experience at the Forbes Under30 Summit in Jerusalem. The event took place at the historic Tower of David. Dave Elkins recalled,“We performed in front of 650/700 people who all took their smartphones, put them in these cardboard viewfinders and all the visuals that they were seeing were in virtual reality 360 [which] were accommodating the music that we had written and recorded just to accommodate this experience.”\n\nOn June 26, 2018 Mae announced a fall 2018 tour which included \"MAE Day\" in select cities. The \"MAE Day\" event consisted of a short video, discussion with the band, listening party, shared meal, VR experience, and additional multi-sensory experiences. On November 27, 2018 Mae announced via a Facebook post an early 2019 tour on the west coast, with the final dates in Japan. In November 2019, the band announced on a Facebook post the \"Multisensory Aesthetic (360) Experience\", a partnership with TriBeCa Film Institute. On August 24, 2021, Jacob Marshall announced his departure from the band via Mae's Facebook page.\n\nIn September of 2023, Mae signed with Equal Vision Records.\n\nCurrent\nDave Elkins – lead vocals, guitar (2001–present)\n Zach Gehring – guitar (2003–present)\n\nTouring musicians\n Josiah Schlater – bass (from the bands Tokyo and Color)\n Robert Smith – keyboard (from the bands Tokyo and Musicplayer)\n David Pogge – bass (for the (a)fternoon tour)\n Tyler Strickland – guitar (for the (a)fternoon tour)\n Matt Beck – guitar (initial tour, replaced by member Zach Gehring)\n Drew Smyser – bass and backing vocals (2017, 2023-present, from the band Whistler Lane)\n Geoffrey Mutchnik - keyboard (2018-2021)\n Kipp Wilde - keyboard (2017-2018, 2021–present, from the band Windsor Drive)\n Patrick Ryan – bass and guitar (mid 2017–2021)\n Josh Grigsby - drums (2021–present, from the band Houston Calls)\n Aaron Lachman - bass (2022)\n\nFormer\nJacob Marshall – drums, percussion, piano (2001–2021)\n Mark Padgett – bass guitar (2002–2007, 2010–2015)\n Rob Sweitzer – keyboards (2002–2007, 2010–2015)\n William Clark – bass (2001–2002)\n Jake Clemons – saxophone (now of the E Street Band)\n\nRelated projects\n Before forming Mae, Dave Elkins was a co-founder and lead vocalist for the indie band \"Sky's the Limit\". Two songs that Elkins originally wrote for Sky's the Limit have been recorded and released by Mae – \"Skyline Drive\", on Destination: Beautiful, and \"Tisbury Lane\", on Destination: B-Sides.\n After Mae finished their final tour, Dave Elkins began a new project called Schematic.\n Jacob Marshall has formed the band River James with members of the band Army of Me.\n In the fall of 2014, Mae keyboardist Rob Sweitzer announced a crowd-funding project for a solo record of his own, titled \"M29\", under the act name My God, It's Full of Stars.\n\nAlbums\nEPs and B-sides\n\nDVDs\nFrom Toledo to Tokyo (Astorya Entertainment, 2005)\n The Everglow: Special Edition DVD (Tooth & Nail Records, 2006)\n Destination: Beautiful Five Year Anniversary (Mae Recording Company, 2008)\n (M)orning (Cell Records, 2009)\n (A)fternoon (Cell Records, 2010)\n (E)vening (Cell Records, 2011)\n\nCompilation appearances\n \"Take Action! Vol. 4\" (2004, contributed \"Embers and Envelopes\")\n Happy Christmas Vol. 4 (2005, contributed \"Carol of the Bells\")\n Punk Goes 90's (2006, contributed \"March of the Pigs\")\n\nSong of the Month\nThroughout 2009, Mae released 'Songs of the Month' (proceeds benefiting Habitat for Humanity and Donorschoose.org), with the first four tracks going onto the (M)orning EP, the second set of four going onto the (A)fternoon EP, and the final four on the (E)vening EP:\n\n January: \"The House that Fire Built\"\n February: \"Boomerang\"\n March: \"A Melody, The Memory\"\n April: \"Night/Day\"\n May: \"Over and Over\"\n June: \"The Cure\"\n July: \"The Fight Song\"\n August: \"In Pieces\"\n September: \"I Just Needed You To Know\"\n October: \"Seasons\"\n †November: \"Sleep Well\"\n †December: \"Bloom\"\n† - Release delayed due to the theft of Mae's instruments and gear in Philadelphia\n\nReferences\nExternal links\n Mae Official Website.\n Mae on PureVolume Contains MP3s, a biography, show dates and photos.\n Mae on Virb\n Video interview with Mae for AbsolutePunk.net\n This Is Schematic\n Interview with Mae for FussMagazine.com\n Interview with Dave Elkins for freshZIVE.com\n\n2001 establishments in Virginia\nAmerican emo musical groups\nCapitol Records artists\nEqual Vision Records artists\nMusical groups disestablished in 2011\nMusical groups established in 2001\nMusical groups reestablished in 2013\nMusicians from Norfolk, Virginia\nTooth & Nail Records artists\nMusical groups from Virginia\nAmerican musical quintets\n\nStation layout\nside platforman island platform layoutを有する地上 Station。無 people Stationである。\n\n目の前のデンソー湖西製作所に入るためには従業員証が必要である。\n\nUsage\n近年のboarding passengersは以下の通りである。\n\nSurrounding area\nデンソー湖西製作所（旧・アスモ株式会社本社）\n\n天竜浜名湖 Line\n大森 Station - アスモ前 Station - 新所原 Station",
+          "字数": 10239
         }
       },
       "结构化信息": {
@@ -257,9 +292,16 @@
           "词条标题": "Ōi Station",
           "链接": "https://en.wikipedia.org/wiki/Ōi_Station",
           "首段": "Ōi Station is a station on the Tenryū Hamanako Line, located in Shizuoka Prefecture, Japan.",
-          "章节": {},
-          "全文": "Ōi Station is a station on the Tenryū Hamanako Line, located in Shizuoka Prefecture, Japan.",
-          "字数": 91
+          "章节": {
+            "History": "1996年(1996)3月18日：Opened.\n 2019年(2019)9月15日：はままつフルーツパーク時之栖で開催のイベント「KATANA Meeting 2019」にちなみ、当日限定で「KATANA Station」にrenamed。\n 2021年(2021)12月3日：「KATANA」の販売元であるスズキ二輪が Station名ネーミングライツを取得し、副 Station名を付した「フルーツパーク（KATANA） Station」とすることを発表。期間は2021年12月7日から2024年3月31日まで。",
+            "Station layout": "side platforman island platform layoutを有する地上 Station。ホーム東寄りに三角屋根の Station舎を有する。\n\n無 people Stationであるが、利用者が多いゴールデンウィークや夏休み期間中には、臨時の Station員が配置されることがある。",
+            "Usage": "近年のboarding passengersは以下の通りである。",
+            "Surrounding area": "周辺にはほとんど住宅はない。林などが多い。 Stationの新所原寄りすぐのところに都田川がある。\n 遠鉄バス46・46-ﾃ都田 Line「天浜 Lineフルーツパーク Station」停留所：常葉大学東門経由浜松 Station行、テクノ中経由浜松 Station行（フルーツパーク行は降車できるが、乗車はできない）\n はままつフルーツパーク時之栖（徒歩8分ほど）",
+            "天竜浜名湖 Line": "宮口 Station - フルーツパーク Station - 都田 Station",
+            "Railway stations in 浜松市北区": "This is a Wikipedia category section for Railway stations in 浜松市北区."
+          },
+          "全文": "Ōi Station is a station on the Tenryū Hamanako Line, located in Shizuoka Prefecture, Japan.\n\nHistory\n1996年(1996)3月18日：Opened.\n 2019年(2019)9月15日：はままつフルーツパーク時之栖で開催のイベント「KATANA Meeting 2019」にちなみ、当日限定で「KATANA Station」にrenamed。\n 2021年(2021)12月3日：「KATANA」の販売元であるスズキ二輪が Station名ネーミングライツを取得し、副 Station名を付した「フルーツパーク（KATANA） Station」とすることを発表。期間は2021年12月7日から2024年3月31日まで。\n\nStation layout\nside platforman island platform layoutを有する地上 Station。ホーム東寄りに三角屋根の Station舎を有する。\n\n無 people Stationであるが、利用者が多いゴールデンウィークや夏休み期間中には、臨時の Station員が配置されることがある。\n\nUsage\n近年のboarding passengersは以下の通りである。\n\nSurrounding area\n周辺にはほとんど住宅はない。林などが多い。 Stationの新所原寄りすぐのところに都田川がある。\n 遠鉄バス46・46-ﾃ都田 Line「天浜 Lineフルーツパーク Station」停留所：常葉大学東門経由浜松 Station行、テクノ中経由浜松 Station行（フルーツパーク行は降車できるが、乗車はできない）\n はままつフルーツパーク時之栖（徒歩8分ほど）\n\n天竜浜名湖 Line\n宮口 Station - フルーツパーク Station - 都田 Station\n\nRailway stations in 浜松市北区\nThis is a Wikipedia category section for Railway stations in 浜松市北区.",
+          "字数": 919
         }
       },
       "结构化信息": {
@@ -330,9 +372,19 @@
           "词条标题": "Mikkabi Station",
           "链接": "https://en.wikipedia.org/wiki/Mikkabi%20Station",
           "首段": "is a railway station in Kita-ku, Hamamatsu,  Shizuoka Prefecture, Japan, operated by the third sector Tenryū Hamanako Railroad.",
-          "章节": {},
-          "全文": "is a railway station in Kita-ku, Hamamatsu,  Shizuoka Prefecture, Japan, operated by the third sector Tenryū Hamanako Railroad.",
-          "字数": 127
+          "章节": {
+            "History": "1936年(1936)12月1日：国鉄二俣西 Lineの Stationとしてopened、当時は新所原からの終点であった。旅客・貨物の取扱を開始。\n 1938年(1938)4月1日：二俣西 Lineが金指 Stationまでextension、途中 Stationとなる。\n 1970年(1970)6月1日：貨物の取扱をclosed。\n 1984年(1984)2月1日：荷物扱いclosed。\n 1987年(1987)3月15日：第三セクター転換により、天竜浜名湖鉄道の Stationとなる。\n 2011年(2011)1月26日：本屋が国の登録有形文化財として登録される。",
+            "Station layout": "an island platform layoutのホームを有する地上 Station、business-consignment Stationである。\n 本屋が、国の登録有形文化財として登録されている。レンタサイクルが用意されている。\n\nのりば",
+            "Usage": "静岡県統計年鑑によれば、2018fiscal yearのboarding passengersはdaily average191 peopleで天浜 Lineの Stationの中で6番目に多い。\n\n近年のboarding passengersは以下の通りである。",
+            "Surrounding area": "北区三ヶ日町の中心 Station。 Stationの真北に三ヶ日の市街地がある。",
+            "Bus routes": "浜松市三ヶ日地域バス（三ヶ日オレンジふれあいバス）南 Line・北 Line「三ヶ日 Station」停留所 - 総合福祉センター行（循環）\n 遠鉄バス40気賀三ヶ日 Line「東天王」停留所 - 浜松 Station行（気賀 Station前に寄らず）、三ヶ日車庫行",
+            "Appearances in media": "コカ・コーラCM（桑田佳祐『白い恋 people達』） - CM撮影時にはセットで屋根が建てられた",
+            "天竜浜名湖 Line": "都筑 Station - 三ヶ日 Station - 奥浜名湖 Station",
+            "Railway stations in 浜松市北区": "This is a Wikipedia category section for Railway stations in 浜松市北区.",
+            "Railway stations in 1936年開業": "This is a Wikipedia category section for Railway stations in 1936年開業."
+          },
+          "全文": "is a railway station in Kita-ku, Hamamatsu,  Shizuoka Prefecture, Japan, operated by the third sector Tenryū Hamanako Railroad.\n\nHistory\n1936年(1936)12月1日：国鉄二俣西 Lineの Stationとしてopened、当時は新所原からの終点であった。旅客・貨物の取扱を開始。\n 1938年(1938)4月1日：二俣西 Lineが金指 Stationまでextension、途中 Stationとなる。\n 1970年(1970)6月1日：貨物の取扱をclosed。\n 1984年(1984)2月1日：荷物扱いclosed。\n 1987年(1987)3月15日：第三セクター転換により、天竜浜名湖鉄道の Stationとなる。\n 2011年(2011)1月26日：本屋が国の登録有形文化財として登録される。\n\nStation layout\nan island platform layoutのホームを有する地上 Station、business-consignment Stationである。\n 本屋が、国の登録有形文化財として登録されている。レンタサイクルが用意されている。\n\nのりば\n\nUsage\n静岡県統計年鑑によれば、2018fiscal yearのboarding passengersはdaily average191 peopleで天浜 Lineの Stationの中で6番目に多い。\n\n近年のboarding passengersは以下の通りである。\n\nSurrounding area\n北区三ヶ日町の中心 Station。 Stationの真北に三ヶ日の市街地がある。\n\nBus routes\n浜松市三ヶ日地域バス（三ヶ日オレンジふれあいバス）南 Line・北 Line「三ヶ日 Station」停留所 - 総合福祉センター行（循環）\n 遠鉄バス40気賀三ヶ日 Line「東天王」停留所 - 浜松 Station行（気賀 Station前に寄らず）、三ヶ日車庫行\n\nAppearances in media\nコカ・コーラCM（桑田佳祐『白い恋 people達』） - CM撮影時にはセットで屋根が建てられた\n\n天竜浜名湖 Line\n都筑 Station - 三ヶ日 Station - 奥浜名湖 Station\n\nRailway stations in 浜松市北区\nThis is a Wikipedia category section for Railway stations in 浜松市北区.\n\nRailway stations in 1936年開業\nThis is a Wikipedia category section for Railway stations in 1936年開業.",
+          "字数": 1230
         }
       },
       "结构化信息": {
@@ -406,9 +458,16 @@
           "词条标题": "Kaminobe Station",
           "链接": "https://en.wikipedia.org/wiki/Kaminobe%20Station",
           "首段": "is a railway station in the city of Iwata, Shizuoka Prefecture, Japan, operated by the third sector Tenryū Hamanako Railroad.",
-          "章节": {},
-          "全文": "is a railway station in the city of Iwata, Shizuoka Prefecture, Japan, operated by the third sector Tenryū Hamanako Railroad.",
-          "字数": 125
+          "章节": {
+            "History": "かつて、この付近には光明電気鉄道の神田公園前 Stationが置かれていたといわれている。",
+            "Chronology": "1955年(1955)6月1日：国鉄二俣 Lineの Station（旅客 Station）としてOpened.気動車の旅客のみを取り扱う Station員無配置 Station。\n 1961年(1961)5月16日：遠州鉄道の気動車が、西鹿島 Stationから当 Station経由で遠江森 Stationまで乗り入れ。\n 1966年(1966)10月1日：遠州鉄道の気動車の乗り入れclosed。\n 1987年(1987)3月15日：二俣 Lineが第三セクター鉄道に転換され、天竜浜名湖鉄道の Stationとなる。\n 2021年(2021)12月7日： Stationの近くにあるシルクロード・ミュージアムを運営する浜名梱包輸送が Station名ネーミングライツを取得し、副 Station名を付した「上野部（シルクロード上野部） Station」とすることを発表。期間は2021年12月7日から2024年3月31日まで。",
+            "Station layout": "side platforman island platform layoutを有する地上 Station。opened当時から Station舎はなく無 people Stationで、かつてはホーム上に待合室があった。2018年頃に改修され、現在は簡易的な屋根がついた待合スペースが設けられている。地元の peopleにより当 Stationはきれいに整備されており、ホームには「天竜川に一番近い Station」という看板や、蒸気機関車を描いたユニークな Station名標などが設置されていたが、2021年に副 Station名が設定された際に図柄が更新されている。",
+            "Usage": "「浜松市統計書」によれば、2006fiscal yearのboarding passengersはdaily average5 peopleで、天竜浜名湖 Lineの Stationの中で最も少ない。\nなお、同統計による2005fiscal yearのboarding passengersはdaily average3 people、「掛川市統計書」による2004fiscal yearのboarding passengersはdaily average5 people。\n\n近年のboarding passengersは以下の通りである。",
+            "Surrounding area": "磐田市デマンド型乗り合いタクシー「お助け号」豊岡 Line「天浜 Line上野部 Station」乗合所（磐田市豊岡地区の住民のみ利用可能・事前予約制）\n 恩流山妙満寺（日蓮宗）\n 神谷山天龍院（曹洞宗）",
+            "天竜浜名湖 Line": "豊岡 Station - 上野部 Station - 天竜二俣 Station"
+          },
+          "全文": "is a railway station in the city of Iwata, Shizuoka Prefecture, Japan, operated by the third sector Tenryū Hamanako Railroad.\n\nHistory\nかつて、この付近には光明電気鉄道の神田公園前 Stationが置かれていたといわれている。\n\nChronology\n1955年(1955)6月1日：国鉄二俣 Lineの Station（旅客 Station）としてOpened.気動車の旅客のみを取り扱う Station員無配置 Station。\n 1961年(1961)5月16日：遠州鉄道の気動車が、西鹿島 Stationから当 Station経由で遠江森 Stationまで乗り入れ。\n 1966年(1966)10月1日：遠州鉄道の気動車の乗り入れclosed。\n 1987年(1987)3月15日：二俣 Lineが第三セクター鉄道に転換され、天竜浜名湖鉄道の Stationとなる。\n 2021年(2021)12月7日： Stationの近くにあるシルクロード・ミュージアムを運営する浜名梱包輸送が Station名ネーミングライツを取得し、副 Station名を付した「上野部（シルクロード上野部） Station」とすることを発表。期間は2021年12月7日から2024年3月31日まで。\n\nStation layout\nside platforman island platform layoutを有する地上 Station。opened当時から Station舎はなく無 people Stationで、かつてはホーム上に待合室があった。2018年頃に改修され、現在は簡易的な屋根がついた待合スペースが設けられている。地元の peopleにより当 Stationはきれいに整備されており、ホームには「天竜川に一番近い Station」という看板や、蒸気機関車を描いたユニークな Station名標などが設置されていたが、2021年に副 Station名が設定された際に図柄が更新されている。\n\nUsage\n「浜松市統計書」によれば、2006fiscal yearのboarding passengersはdaily average5 peopleで、天竜浜名湖 Lineの Stationの中で最も少ない。\nなお、同統計による2005fiscal yearのboarding passengersはdaily average3 people、「掛川市統計書」による2004fiscal yearのboarding passengersはdaily average5 people。\n\n近年のboarding passengersは以下の通りである。\n\nSurrounding area\n磐田市デマンド型乗り合いタクシー「お助け号」豊岡 Line「天浜 Line上野部 Station」乗合所（磐田市豊岡地区の住民のみ利用可能・事前予約制）\n 恩流山妙満寺（日蓮宗）\n 神谷山天龍院（曹洞宗）\n\n天竜浜名湖 Line\n豊岡 Station - 上野部 Station - 天竜二俣 Station",
+          "字数": 1365
         }
       },
       "结构化信息": {
@@ -485,9 +544,18 @@
           "词条标题": "Futamata-Hommachi Station",
           "链接": "https://en.wikipedia.org/wiki/Futamata-Hommachi_Station",
           "首段": "Futamata-Hommachi Station is a station on the Tenryū Hamanako Line, located in Tenryū Ward, Hamamatsu, Shizuoka Prefecture, Japan.",
-          "章节": {},
-          "全文": "Futamata-Hommachi Station is a station on the Tenryū Hamanako Line, located in Tenryū Ward, Hamamatsu, Shizuoka Prefecture, Japan.",
-          "字数": 130
+          "章节": {
+            "History": "1956年(1956)12月15日：国鉄二俣 Lineの StationとしてOpened.\n 1958年(1958)11月1日：遠州鉄道の気動車が西鹿島 Stationから当 Station経由で遠江二俣 Stationまで乗り入れ。\n 1966年(1966)10月1日：遠州鉄道の気動車乗り入れがclosed。\n 1987年(1987)3月15日：二俣 Lineが第三セクター鉄道に転換され、天竜浜名湖鉄道の Stationとなる。\n 2022年(2022)4月1日：オンラインストア「Second Stage」を運営するハマニ化成が Station名ネーミングライツを取得し、副 Station名を付した「二俣本町（セカンドステージ ハマニ） Station」とすることを発表。期間は2022年4月1日から2024年3月31日まで。",
+            "Station layout": "築堤上にisland platforman island platform layoutを有する高架 Station。無 people Stationであるが、ホームから階段を下りると Station舎がある。西側は待合室、東側は Station員事務室であったが、天竜浜名湖鉄道の Station舎利用策により、その東側半分に飲食店(手打ち蕎麦店)が入居していた。飲食店は経営者の健康上の理由によって2018年10月に閉店している。その後は改装の上、沿 Line旅行の観光拠点となる1日2 people1組限定の宿泊施設、 Station舎ホテルINN MY LIFEとして2019年5月にオープンした。\n\n Station舎と築堤の間のスペースに、独立した建物のrestroom、駐輪場がある。",
+            "Usage": "近年のboarding passengersは以下の通りである。",
+            "Surrounding area": "二俣地区の南東の外れにある天竜二俣 Stationに比べ、二俣地区中心部に近い。住宅が多く、商店もある。",
+            "天竜郵便局": "静岡県立天竜高等学校二俣校舎（旧・天竜林業高等学校）\n 浜松市天竜区役所（旧・天竜市役所）",
+            "Bus routes": "「城下通」bus stop（ Stationから徒歩約4分）\n 遠鉄バス - 秋葉 Line、鹿島 Line",
+            "天竜浜名湖 Line": "天竜二俣 Station - 二俣本町 Station - 西鹿島 Station",
+            "Railway stations in 天竜区": "This is a Wikipedia category section for Railway stations in 天竜区."
+          },
+          "全文": "Futamata-Hommachi Station is a station on the Tenryū Hamanako Line, located in Tenryū Ward, Hamamatsu, Shizuoka Prefecture, Japan.\n\nHistory\n1956年(1956)12月15日：国鉄二俣 Lineの StationとしてOpened.\n 1958年(1958)11月1日：遠州鉄道の気動車が西鹿島 Stationから当 Station経由で遠江二俣 Stationまで乗り入れ。\n 1966年(1966)10月1日：遠州鉄道の気動車乗り入れがclosed。\n 1987年(1987)3月15日：二俣 Lineが第三セクター鉄道に転換され、天竜浜名湖鉄道の Stationとなる。\n 2022年(2022)4月1日：オンラインストア「Second Stage」を運営するハマニ化成が Station名ネーミングライツを取得し、副 Station名を付した「二俣本町（セカンドステージ ハマニ） Station」とすることを発表。期間は2022年4月1日から2024年3月31日まで。\n\nStation layout\n築堤上にisland platforman island platform layoutを有する高架 Station。無 people Stationであるが、ホームから階段を下りると Station舎がある。西側は待合室、東側は Station員事務室であったが、天竜浜名湖鉄道の Station舎利用策により、その東側半分に飲食店(手打ち蕎麦店)が入居していた。飲食店は経営者の健康上の理由によって2018年10月に閉店している。その後は改装の上、沿 Line旅行の観光拠点となる1日2 people1組限定の宿泊施設、 Station舎ホテルINN MY LIFEとして2019年5月にオープンした。\n\n Station舎と築堤の間のスペースに、独立した建物のrestroom、駐輪場がある。\n\nUsage\n近年のboarding passengersは以下の通りである。\n\nSurrounding area\n二俣地区の南東の外れにある天竜二俣 Stationに比べ、二俣地区中心部に近い。住宅が多く、商店もある。\n\n天竜郵便局\n静岡県立天竜高等学校二俣校舎（旧・天竜林業高等学校）\n 浜松市天竜区役所（旧・天竜市役所）\n\nBus routes\n「城下通」bus stop（ Stationから徒歩約4分）\n 遠鉄バス - 秋葉 Line、鹿島 Line\n\n天竜浜名湖 Line\n天竜二俣 Station - 二俣本町 Station - 西鹿島 Station\n\nRailway stations in 天竜区\nThis is a Wikipedia category section for Railway stations in 天竜区.",
+          "字数": 1251
         }
       },
       "结构化信息": {
@@ -558,9 +626,16 @@
           "词条标题": "Enden Station",
           "链接": "https://en.wikipedia.org/wiki/Enden%20Station",
           "首段": "is a railway station in the town of Mori, Shizuoka Prefecture, Japan, operated by the third sector Tenryū Hamanako Railroad.",
-          "章节": {},
-          "全文": "is a railway station in the town of Mori, Shizuoka Prefecture, Japan, operated by the third sector Tenryū Hamanako Railroad.",
-          "字数": 124
+          "章节": {
+            "History": "1988年(1988)3月13日：天竜浜名湖鉄道の StationとしてOpened.",
+            "Station layout": "side platforman island platform layoutを有する地上 Station。無 people Stationで Station舎は無い。 Station北側が高く、南側が低い斜面上にある。",
+            "Usage": "近年のboarding passengersは以下の通りである。",
+            "Surrounding area": "住宅が多い。また、北西には遠州森町パーキングエリアおよびスマートインターチェンジがある。",
+            "天竜浜名湖 Line": "森町病院前 Station - 円田 Station - 遠江一宮 Station",
+            "静岡県森町の交通": "This is a Wikipedia category section for 静岡県森町の交通."
+          },
+          "全文": "is a railway station in the town of Mori, Shizuoka Prefecture, Japan, operated by the third sector Tenryū Hamanako Railroad.\n\nHistory\n1988年(1988)3月13日：天竜浜名湖鉄道の StationとしてOpened.\n\nStation layout\nside platforman island platform layoutを有する地上 Station。無 people Stationで Station舎は無い。 Station北側が高く、南側が低い斜面上にある。\n\nUsage\n近年のboarding passengersは以下の通りである。\n\nSurrounding area\n住宅が多い。また、北西には遠州森町パーキングエリアおよびスマートインターチェンジがある。\n\n天竜浜名湖 Line\n森町病院前 Station - 円田 Station - 遠江一宮 Station\n\n静岡県森町の交通\nThis is a Wikipedia category section for 静岡県森町の交通.",
+          "字数": 521
         }
       },
       "结构化信息": {
@@ -686,9 +761,18 @@
           "词条标题": "Haranoya Station",
           "链接": "https://en.wikipedia.org/wiki/Haranoya%20Station",
           "首段": "is a train station on the Tenryū Hamanako Line in Kakegawa, Shizuoka Prefecture, Japan. It is 5.9 rail kilometers from the terminus of the line at Kakegawa Station.\n\nStation history\nHaranoya Station was established on April 17, 1935 as a station on the Japan National Railway Futamata line. Scheduled freight services were discontinued from August 1962. After the privatization of JNR on March 15, 1987, the station came under the control of the Tenryū Hamanako Line. It was used as a set for , a Japanese television drama series on Fuji Television in 2004.",
-          "章节": {},
-          "全文": "is a train station on the Tenryū Hamanako Line in Kakegawa, Shizuoka Prefecture, Japan. It is 5.9 rail kilometers from the terminus of the line at Kakegawa Station.\n\nStation history\nHaranoya Station was established on April 17, 1935 as a station on the Japan National Railway Futamata line. Scheduled freight services were discontinued from August 1962. After the privatization of JNR on March 15, 1987, the station came under the control of the Tenryū Hamanako Line. It was used as a set for , a Japanese television drama series on Fuji Television in 2004.",
-          "字数": 557
+          "章节": {
+            "History": "1935年(1935)4月17日：掛川 Station - 遠江森 Station（現・遠州森 Station）間の開通により、国鉄二俣 Lineの Station（一般 Station）としてOpened.\n 1962年(1962)8月21日：貨物の取扱をclosed（旅客 Stationとなる）。\n 1987年(1987)3月15日：二俣 Lineが第三セクター鉄道に転換し、天竜浜名湖鉄道の Stationとなる。\n 2009年(2009)11月1日：無 people Station化。\n 2011年(2011)1月26日： Station舎（本屋）が登録有形文化財に登録される。",
+            "Station layout": "opposed side platformsan island platform layoutを有する地上 Station。無 people Stationで、木造の Station舎がある。 Station舎（本屋）は、国の登録有形文化財として登録されている。\n\nのりば",
+            "Usage": "近年のboarding passengersは以下の通りである。",
+            "原谷警察官駐在所": "永川商店（精肉店）",
+            "洋菓子コンパル・原田園": "かけがわ西の市（農産物直売所）",
+            "原谷親水公園": "加茂荘・加茂花菖蒲園 （最寄は隣の原田 Stationであるが、菖蒲シーズンは当 Stationから無料送迎を行っている。電話予約要）",
+            "天竜浜名湖 Line": "細谷 Station - 原谷 Station - 原田 Station",
+            "Railway stations in 掛川市": "This is a Wikipedia category section for Railway stations in 掛川市."
+          },
+          "全文": "is a train station on the Tenryū Hamanako Line in Kakegawa, Shizuoka Prefecture, Japan. It is 5.9 rail kilometers from the terminus of the line at Kakegawa Station.\n\nStation history\nHaranoya Station was established on April 17, 1935 as a station on the Japan National Railway Futamata line. Scheduled freight services were discontinued from August 1962. After the privatization of JNR on March 15, 1987, the station came under the control of the Tenryū Hamanako Line. It was used as a set for , a Japanese television drama series on Fuji Television in 2004.\n\nHistory\n1935年(1935)4月17日：掛川 Station - 遠江森 Station（現・遠州森 Station）間の開通により、国鉄二俣 Lineの Station（一般 Station）としてOpened.\n 1962年(1962)8月21日：貨物の取扱をclosed（旅客 Stationとなる）。\n 1987年(1987)3月15日：二俣 Lineが第三セクター鉄道に転換し、天竜浜名湖鉄道の Stationとなる。\n 2009年(2009)11月1日：無 people Station化。\n 2011年(2011)1月26日： Station舎（本屋）が登録有形文化財に登録される。\n\nStation layout\nopposed side platformsan island platform layoutを有する地上 Station。無 people Stationで、木造の Station舎がある。 Station舎（本屋）は、国の登録有形文化財として登録されている。\n\nのりば\n\nUsage\n近年のboarding passengersは以下の通りである。\n\n原谷警察官駐在所\n永川商店（精肉店）\n\n洋菓子コンパル・原田園\nかけがわ西の市（農産物直売所）\n\n原谷親水公園\n加茂荘・加茂花菖蒲園 （最寄は隣の原田 Stationであるが、菖蒲シーズンは当 Stationから無料送迎を行っている。電話予約要）\n\n天竜浜名湖 Line\n細谷 Station - 原谷 Station - 原田 Station\n\nRailway stations in 掛川市\nThis is a Wikipedia category section for Railway stations in 掛川市.",
+          "字数": 1320
         }
       },
       "结构化信息": {
@@ -754,9 +838,11 @@
           "词条标题": "Ōmori Station",
           "链接": "https://en.wikipedia.org/wiki/%C5%8Cmori%20Station",
           "首段": "Ōmori Station or Omori Station may refer to several railway stations in Japan:\n\n Ōmori Station (Tokyo) (大森駅) in Tokyo\n Omori Station (Shizuoka) (尾盛駅) of Ōigawa Railway in Shizuoka Prefecture\n Ōmori Station (Shizuoka) (大森駅) of Tenryū Hamanako Railroad in Shizuoka Prefecture\n Ōmori-Kinjōgakuin-mae Station (大森・金城学院前駅) in Aichi Prefecture (called Ōmori Station until 1992)",
-          "章节": {},
-          "全文": "Ōmori Station or Omori Station may refer to several railway stations in Japan:\n\n Ōmori Station (Tokyo) (大森駅) in Tokyo\n Omori Station (Shizuoka) (尾盛駅) of Ōigawa Railway in Shizuoka Prefecture\n Ōmori Station (Shizuoka) (大森駅) of Tenryū Hamanako Railroad in Shizuoka Prefecture\n Ōmori-Kinjōgakuin-mae Station (大森・金城学院前駅) in Aichi Prefecture (called Ōmori Station until 1992)",
-          "字数": 370
+          "章节": {
+            "一覧": "大森 Station (東京都) - 東京都大田区にある東日本旅客鉄道東海道本 Lineの Station。\n 大森 Station (静岡県) - 静岡県湖西市にある天竜浜名湖鉄道天竜浜名湖 Lineの Station。\n 大森 Station (北海道) - 北海道中川郡池田町にあった北海道ちほく高原鉄道ふるさと銀河 Lineの Station。\n 愛知県名古屋市守山区にある名鉄瀬戸 Lineの大森・金城学院前 Stationの旧称。\n 千葉県千葉市中央区にある京成千原 Lineの大森台 Stationの建設時の仮称。\n 羽後大森 Station - 秋田県平鹿郡大森町にあった羽後交通横荘 Lineの Station。"
+          },
+          "全文": "Ōmori Station or Omori Station may refer to several railway stations in Japan:\n\n Ōmori Station (Tokyo) (大森駅) in Tokyo\n Omori Station (Shizuoka) (尾盛駅) of Ōigawa Railway in Shizuoka Prefecture\n Ōmori Station (Shizuoka) (大森駅) of Tenryū Hamanako Railroad in Shizuoka Prefecture\n Ōmori-Kinjōgakuin-mae Station (大森・金城学院前駅) in Aichi Prefecture (called Ōmori Station until 1992)\n\n一覧\n大森 Station (東京都) - 東京都大田区にある東日本旅客鉄道東海道本 Lineの Station。\n 大森 Station (静岡県) - 静岡県湖西市にある天竜浜名湖鉄道天竜浜名湖 Lineの Station。\n 大森 Station (北海道) - 北海道中川郡池田町にあった北海道ちほく高原鉄道ふるさと銀河 Lineの Station。\n 愛知県名古屋市守山区にある名鉄瀬戸 Lineの大森・金城学院前 Stationの旧称。\n 千葉県千葉市中央区にある京成千原 Lineの大森台 Stationの建設時の仮称。\n 羽後大森 Station - 秋田県平鹿郡大森町にあった羽後交通横荘 Lineの Station。",
+          "字数": 690
         }
       },
       "结构化信息": {
@@ -830,9 +916,24 @@
           "词条标题": "Tenryū-Futamata Station",
           "链接": "https://en.wikipedia.org/wiki/Tenryū-Futamata_Station",
           "首段": "Tenryū-Futamata Station is a station on the Tenryū Hamanako Line, located in Tenryū Ward, Hamamatsu, Shizuoka Prefecture, Japan.",
-          "章节": {},
-          "全文": "Tenryū-Futamata Station is a station on the Tenryū Hamanako Line, located in Tenryū Ward, Hamamatsu, Shizuoka Prefecture, Japan.",
-          "字数": 128
+          "章节": {
+            "History": "openedを機に天竜川の筏（木材流送用）を引き入れるため貯木場が建設された。そして引込 Lineを設け木材の貨物輸送を行っていた。\n\nなお、1930 - 1935年にはこの Stationからやや離れた二俣本町 Station寄りの場所に、光明電気鉄道の二俣口 Stationが置かれていた。現在もプラットホームの跡が残されている。また同 Stationより北寄りに離れた場所には、同 Stationを起点とする予定であった佐久間 Line（未成 Line）のトンネルが残されているが、入口は封鎖されている。",
+            "Chronology": "1940年(1940)6月1日：国有鉄道二俣 Line遠江森 Station - 金指 Station間の開通時に、遠江二俣 Station（とおとうみふたまたえき）としてopened（一般 Station）。同時に遠江二俣機関区をopened。\n 1958年(1958)11月1日：遠州鉄道の気動車が西鹿島 Stationから当 Stationまで乗り入れ。\n 1966年(1966)10月1日：遠州鉄道の気動車乗り入れclosed。\n 1982年(1982)11月1日：貨物の取扱をclosed（旅客 Stationとなる）。二俣 Lineの Stationで最後まで貨物の取扱を行っていた。\n 1984年(1984)2月1日：荷物扱いclosed。\n 1987年(1987)3月15日：二俣 Lineが第三セクター鉄道に転換され、天竜浜名湖鉄道の Stationとなる。同時に天竜二俣 Stationにrenamed。\n 1998年(1998)12月11日：機関車転車台、機関車扇形車庫、運転区事務室、運転区浴場、運転区休憩所が登録有形文化財として登録される（官報での告示は12月25日）。\n 2011年(2011)1月26日：本屋、上り上屋およびプラットホーム、下り上屋およびプラットホーム、敷地内の揚水機室、高架貯水槽が登録有形文化財として登録される。\n 2021年(2021)\n 3月：アニメ映画『シン・エヴァンゲリオン劇場版』公開。登場する「第3村」が当 Stationをモデルにしており、聖地巡礼で来訪するファンが増えたほか、天竜浜名湖鉄道などによるツアーやグッズ販売などのコラボレーション企画が始まる。\n 8月1日 - 9月26日： Station名看板の表記を期間限定で「第3村」に変更。\n 11月17日 - 2022年(2022)1月31日：再度、 Station名看板の表記を期間限定で「第3村」に変更。\n 2023年(2023)\n 3月19日、NHK大河ドラマ『どうする家康』の放送を機に、副 Station名を「どうして！？信康」とする。副 Station名看板の設置は12月末までの予定。。",
+            "Station layout": "an island platform layoutのホームを有する地上 Stationであり、直営 Stationで、opened当時からの瓦葺き木造の Station舎がある。\n\n Station舎よりの1番 Lineは上り列車専用、2番 Lineは下り列車専用、3番 Lineは主に下り列車が使用するが、上り方にも出発信号機があるため、上下両方向の列車が入 Line可能な配 Lineとなっている。以前は Station舎の東側にan island platform layoutの貨物ホームが設置されていたが、1982年に使用停止となり撤去された。また構内には長い有効長を持つ広い留置 Lineがあったが、国鉄時代の貨物輸送closedや第三セクター移管などによって遊休地となっていたため、車両の留置に必要な部分を残して住宅地として売却されている。\n\nticket gate外で売店・みやげ物屋「てんはまや」とラーメン屋「ホームラン軒」が営業している。てんはまやでは天竜浜名湖鉄道のオリジナルグッズや各種コラボレーショングッズの販売もしている。\n\n Station構内で足こぎミニトロッコ（数十メートル乗って走れる）、腕木式信号機やタブレットキャッチャーなどを展示している。\n\n「本屋」「上り上屋およびプラットホーム」「下り上屋およびプラットホーム」と、敷地内の「揚水機室」「高架貯水槽」が国の登録有形文化財として登録されている。\n\nのりば",
+            "車両基地": " Station東側に天竜浜名湖鉄道の車両基地（機関区）を併設しており、夜間滞泊の基地としても使われている。全車が両運転台のディーゼルカーとなった現在でも、蒸気機関車時代の扇形庫と転車台がそのまま使用されている。",
+            "文化財": "当 Stationでは以下の施設が文化財などの登録・認定を受けている（車両基地のものも含む）。",
+            "登録有形文化財・近代化産業遺産": "機関車転車台 - この転車台と車両基地に併設した鉄道歴史館を巡るツアーが開催されている（転車台・鉄道歴史館はツアー以外では見学不可）。",
+            "Station meals": "主な Station弁は下記の通り。\n 鰻どんこ弁当（土曜・休日発売）\n まいたけ弁当（土曜・休日発売）",
+            "Usage": "。\n\n近年のboarding passengersは以下の通りである。",
+            "Surrounding area": "天浜 Lineの拠点 Stationであるが、天竜区の二俣市街地の南東にあり、住宅・商店が点在する程度である。二俣市街地は隣の二俣本町 Stationの方が近い。",
+            "天竜警察署": "機関車公園 -  Stationの北側に位置し、蒸気機関車のC58形389号機を静態保存。\n 阿蔵 Station前広場 - 旧国鉄キハ20形気動車とナハネ20形寝台客車を展示。",
+            "Bus routes": "遠鉄バスの「天竜二俣 Station」停留所があり、進行方向により Station前ロータリーまたは Station前の道路上にのりばがある。",
+            "天竜浜名湖 Line": "上野部 Station - 天竜二俣 Station - 二俣本町 Station",
+            "List of railway stations in Japan": "天竜 Line - 佐久間 Lineの先行路 Lineとしてopenedされた国鉄バス路 Line。その後は遠州鉄道を経て、現在は水窪タクシーに引き継がれている。\n 中部の Station百選 - 当 Stationも選定されている（第1回）。\n シン・エヴァンゲリオン劇場版 - 車両基地がニアサードインパクトの避難民村「第3村」として登場する。",
+            "Railway stations in 天竜区": "This is a Wikipedia category section for Railway stations in 天竜区."
+          },
+          "全文": "Tenryū-Futamata Station is a station on the Tenryū Hamanako Line, located in Tenryū Ward, Hamamatsu, Shizuoka Prefecture, Japan.\n\nHistory\nopenedを機に天竜川の筏（木材流送用）を引き入れるため貯木場が建設された。そして引込 Lineを設け木材の貨物輸送を行っていた。\n\nなお、1930 - 1935年にはこの Stationからやや離れた二俣本町 Station寄りの場所に、光明電気鉄道の二俣口 Stationが置かれていた。現在もプラットホームの跡が残されている。また同 Stationより北寄りに離れた場所には、同 Stationを起点とする予定であった佐久間 Line（未成 Line）のトンネルが残されているが、入口は封鎖されている。\n\nChronology\n1940年(1940)6月1日：国有鉄道二俣 Line遠江森 Station - 金指 Station間の開通時に、遠江二俣 Station（とおとうみふたまたえき）としてopened（一般 Station）。同時に遠江二俣機関区をopened。\n 1958年(1958)11月1日：遠州鉄道の気動車が西鹿島 Stationから当 Stationまで乗り入れ。\n 1966年(1966)10月1日：遠州鉄道の気動車乗り入れclosed。\n 1982年(1982)11月1日：貨物の取扱をclosed（旅客 Stationとなる）。二俣 Lineの Stationで最後まで貨物の取扱を行っていた。\n 1984年(1984)2月1日：荷物扱いclosed。\n 1987年(1987)3月15日：二俣 Lineが第三セクター鉄道に転換され、天竜浜名湖鉄道の Stationとなる。同時に天竜二俣 Stationにrenamed。\n 1998年(1998)12月11日：機関車転車台、機関車扇形車庫、運転区事務室、運転区浴場、運転区休憩所が登録有形文化財として登録される（官報での告示は12月25日）。\n 2011年(2011)1月26日：本屋、上り上屋およびプラットホーム、下り上屋およびプラットホーム、敷地内の揚水機室、高架貯水槽が登録有形文化財として登録される。\n 2021年(2021)\n 3月：アニメ映画『シン・エヴァンゲリオン劇場版』公開。登場する「第3村」が当 Stationをモデルにしており、聖地巡礼で来訪するファンが増えたほか、天竜浜名湖鉄道などによるツアーやグッズ販売などのコラボレーション企画が始まる。\n 8月1日 - 9月26日： Station名看板の表記を期間限定で「第3村」に変更。\n 11月17日 - 2022年(2022)1月31日：再度、 Station名看板の表記を期間限定で「第3村」に変更。\n 2023年(2023)\n 3月19日、NHK大河ドラマ『どうする家康』の放送を機に、副 Station名を「どうして！？信康」とする。副 Station名看板の設置は12月末までの予定。。\n\nStation layout\nan island platform layoutのホームを有する地上 Stationであり、直営 Stationで、opened当時からの瓦葺き木造の Station舎がある。\n\n Station舎よりの1番 Lineは上り列車専用、2番 Lineは下り列車専用、3番 Lineは主に下り列車が使用するが、上り方にも出発信号機があるため、上下両方向の列車が入 Line可能な配 Lineとなっている。以前は Station舎の東側にan island platform layoutの貨物ホームが設置されていたが、1982年に使用停止となり撤去された。また構内には長い有効長を持つ広い留置 Lineがあったが、国鉄時代の貨物輸送closedや第三セクター移管などによって遊休地となっていたため、車両の留置に必要な部分を残して住宅地として売却されている。\n\nticket gate外で売店・みやげ物屋「てんはまや」とラーメン屋「ホームラン軒」が営業している。てんはまやでは天竜浜名湖鉄道のオリジナルグッズや各種コラボレーショングッズの販売もしている。\n\n Station構内で足こぎミニトロッコ（数十メートル乗って走れる）、腕木式信号機やタブレットキャッチャーなどを展示している。\n\n「本屋」「上り上屋およびプラットホーム」「下り上屋およびプラットホーム」と、敷地内の「揚水機室」「高架貯水槽」が国の登録有形文化財として登録されている。\n\nのりば\n\n車両基地\n Station東側に天竜浜名湖鉄道の車両基地（機関区）を併設しており、夜間滞泊の基地としても使われている。全車が両運転台のディーゼルカーとなった現在でも、蒸気機関車時代の扇形庫と転車台がそのまま使用されている。\n\n文化財\n当 Stationでは以下の施設が文化財などの登録・認定を受けている（車両基地のものも含む）。\n\n登録有形文化財・近代化産業遺産\n機関車転車台 - この転車台と車両基地に併設した鉄道歴史館を巡るツアーが開催されている（転車台・鉄道歴史館はツアー以外では見学不可）。\n\nStation meals\n主な Station弁は下記の通り。\n 鰻どんこ弁当（土曜・休日発売）\n まいたけ弁当（土曜・休日発売）\n\nUsage\n。\n\n近年のboarding passengersは以下の通りである。\n\nSurrounding area\n天浜 Lineの拠点 Stationであるが、天竜区の二俣市街地の南東にあり、住宅・商店が点在する程度である。二俣市街地は隣の二俣本町 Stationの方が近い。\n\n天竜警察署\n機関車公園 -  Stationの北側に位置し、蒸気機関車のC58形389号機を静態保存。\n 阿蔵 Station前広場 - 旧国鉄キハ20形気動車とナハネ20形寝台客車を展示。\n\nBus routes\n遠鉄バスの「天竜二俣 Station」停留所があり、進行方向により Station前ロータリーまたは Station前の道路上にのりばがある。\n\n天竜浜名湖 Line\n上野部 Station - 天竜二俣 Station - 二俣本町 Station\n\nList of railway stations in Japan\n天竜 Line - 佐久間 Lineの先行路 Lineとしてopenedされた国鉄バス路 Line。その後は遠州鉄道を経て、現在は水窪タクシーに引き継がれている。\n 中部の Station百選 - 当 Stationも選定されている（第1回）。\n シン・エヴァンゲリオン劇場版 - 車両基地がニアサードインパクトの避難民村「第3村」として登場する。\n\nRailway stations in 天竜区\nThis is a Wikipedia category section for Railway stations in 天竜区.",
+          "字数": 2954
         }
       },
       "结构化信息": {
@@ -918,9 +1019,17 @@
           "词条标题": "Okuhamanako Station",
           "链接": "https://en.wikipedia.org/wiki/Okuhamanako%20Station",
           "首段": "is a railway station in Kita-ku, Hamamatsu,  Shizuoka Prefecture, Japan, operated by the third sector Tenryū Hamanako Railroad.",
-          "章节": {},
-          "全文": "is a railway station in Kita-ku, Hamamatsu,  Shizuoka Prefecture, Japan, operated by the third sector Tenryū Hamanako Railroad.",
-          "字数": 127
+          "章节": {
+            "History": "1988年(1988)3月13日：Opened.\n 2022年(2022)4月1日：長坂養蜂場が Station名ネーミングライツを取得し、マスコットキャラクターの「ぶんぶん」から命名された副 Station名を付した「奥浜名湖（ぶんぶんに出会えるまち） Station」とすることを発表。期間は2022年4月1日から2024年3月31日まで。",
+            "Station layout": "side platforman island platform layoutの地上 Station。無 people Stationである。",
+            "Usage": "近年のboarding passengersは以下の通りである。",
+            "Surrounding area": "住宅はやや多い。",
+            "浜名湖レークサイドプラザ": "浜松市三ヶ日地域バス（三ヶ日オレンジふれあいバス） 南 Line「ぬえしろ」停留所 - 総合福祉センター行（循環）",
+            "天竜浜名湖 Line": "三ヶ日 Station - 奥浜名湖 Station - 尾奈 Station",
+            "Railway stations in 浜松市北区": "This is a Wikipedia category section for Railway stations in 浜松市北区."
+          },
+          "全文": "is a railway station in Kita-ku, Hamamatsu,  Shizuoka Prefecture, Japan, operated by the third sector Tenryū Hamanako Railroad.\n\nHistory\n1988年(1988)3月13日：Opened.\n 2022年(2022)4月1日：長坂養蜂場が Station名ネーミングライツを取得し、マスコットキャラクターの「ぶんぶん」から命名された副 Station名を付した「奥浜名湖（ぶんぶんに出会えるまち） Station」とすることを発表。期間は2022年4月1日から2024年3月31日まで。\n\nStation layout\nside platforman island platform layoutの地上 Station。無 people Stationである。\n\nUsage\n近年のboarding passengersは以下の通りである。\n\nSurrounding area\n住宅はやや多い。\n\n浜名湖レークサイドプラザ\n浜松市三ヶ日地域バス（三ヶ日オレンジふれあいバス） 南 Line「ぬえしろ」停留所 - 総合福祉センター行（循環）\n\n天竜浜名湖 Line\n三ヶ日 Station - 奥浜名湖 Station - 尾奈 Station\n\nRailway stations in 浜松市北区\nThis is a Wikipedia category section for Railway stations in 浜松市北区.",
+          "字数": 682
         }
       },
       "结构化信息": {
@@ -995,9 +1104,19 @@
           "词条标题": "Miyaguchi Station",
           "链接": "https://en.wikipedia.org/wiki/Miyaguchi%20Station",
           "首段": "is a railway station in Hamakita-ku, Hamamatsu,  Shizuoka Prefecture, Japan, operated by the third sector Tenryū Hamanako Railroad.",
-          "章节": {},
-          "全文": "is a railway station in Hamakita-ku, Hamamatsu,  Shizuoka Prefecture, Japan, operated by the third sector Tenryū Hamanako Railroad.",
-          "字数": 131
+          "章节": {
+            "History": "opened前の1924年から1937年まで、現在の遠州鉄道浜北 Stationとの間を結ぶ軽便鉄道を運営していた西遠軌道の宮口 Stationが当 Stationの南に置かれていたが、二俣 Lineopened前に全 Lineclosedとなっている。",
+            "Chronology": "1940年(1940)6月1日：遠江森 Station - 金指 Station間の開通時に、国有鉄道二俣 Lineの StationとしてOpened.\n 1962年(1962)6月15日：貨物の取扱をclosed。\n 1987年(1987)3月15日：二俣 Lineが第三セクター鉄道に転換され、天竜浜名湖鉄道の Stationとなる。\n 2011年(2011)1月26日：「本屋および上りプラットホーム」および「待合所および下りプラットホーム」が登録有形文化財として登録される。",
+            "Station layout": "opposed side platformsan island platform layoutを有する地上 Station。無 people Stationだが、 Station舎がある。\n\n「本屋および上りプラットホーム」、「待合所および下りプラットホーム」が、国の登録有形文化財として登録されている。\n\n Station構内には飲食店「はままつ８８」が入居している。\n\nのりば",
+            "Usage": "近年のboarding passengersは以下の通りである。",
+            "Surrounding area": "宮口の市街の東はずれに位置しており、住宅が少しある。\n あらたまの湯 -  Stationから北方徒歩30分。",
+            "浜松市立麁玉中学校": "浜松市浜北コミュニティバス 宮口 Stationbus stop（火、金曜日運行、年末年始は運休）",
+            "天竜浜名湖 Line": "岩水寺 Station - 宮口 Station - フルーツパーク Station",
+            "Railway stations in 浜松市": "This is a Wikipedia category section for Railway stations in 浜松市.",
+            "Railway stations in 1940年開業": "This is a Wikipedia category section for Railway stations in 1940年開業."
+          },
+          "全文": "is a railway station in Hamakita-ku, Hamamatsu,  Shizuoka Prefecture, Japan, operated by the third sector Tenryū Hamanako Railroad.\n\nHistory\nopened前の1924年から1937年まで、現在の遠州鉄道浜北 Stationとの間を結ぶ軽便鉄道を運営していた西遠軌道の宮口 Stationが当 Stationの南に置かれていたが、二俣 Lineopened前に全 Lineclosedとなっている。\n\nChronology\n1940年(1940)6月1日：遠江森 Station - 金指 Station間の開通時に、国有鉄道二俣 Lineの StationとしてOpened.\n 1962年(1962)6月15日：貨物の取扱をclosed。\n 1987年(1987)3月15日：二俣 Lineが第三セクター鉄道に転換され、天竜浜名湖鉄道の Stationとなる。\n 2011年(2011)1月26日：「本屋および上りプラットホーム」および「待合所および下りプラットホーム」が登録有形文化財として登録される。\n\nStation layout\nopposed side platformsan island platform layoutを有する地上 Station。無 people Stationだが、 Station舎がある。\n\n「本屋および上りプラットホーム」、「待合所および下りプラットホーム」が、国の登録有形文化財として登録されている。\n\n Station構内には飲食店「はままつ８８」が入居している。\n\nのりば\n\nUsage\n近年のboarding passengersは以下の通りである。\n\nSurrounding area\n宮口の市街の東はずれに位置しており、住宅が少しある。\n あらたまの湯 -  Stationから北方徒歩30分。\n\n浜松市立麁玉中学校\n浜松市浜北コミュニティバス 宮口 Stationbus stop（火、金曜日運行、年末年始は運休）\n\n天竜浜名湖 Line\n岩水寺 Station - 宮口 Station - フルーツパーク Station\n\nRailway stations in 浜松市\nThis is a Wikipedia category section for Railway stations in 浜松市.\n\nRailway stations in 1940年開業\nThis is a Wikipedia category section for Railway stations in 1940年開業.",
+          "字数": 1150
         }
       },
       "结构化信息": {
@@ -1077,9 +1196,17 @@
           "词条标题": "Sunza Station",
           "链接": "https://en.wikipedia.org/wiki/Sunza%20Station",
           "首段": "is a railway station in Kita-ku, Hamamatsu,  Shizuoka Prefecture, Japan, operated by the third sector Tenryū Hamanako Railroad.",
-          "章节": {},
-          "全文": "is a railway station in Kita-ku, Hamamatsu,  Shizuoka Prefecture, Japan, operated by the third sector Tenryū Hamanako Railroad.",
-          "字数": 127
+          "章节": {
+            "History": "1955年(1955)5月6日：国鉄二俣 Lineの StationとしてOpened.\n 1987年(1987)3月15日：第三セクター鉄道に転換され天竜浜名湖鉄道の Stationとなる。",
+            "Station layout": "side platforman island platform layoutの地上 Station。無 people Stationで、ホーム上には待合室がある。 Stationは浜名湖に向かっての斜面上にある。",
+            "Usage": "近年のboarding passengersは以下の通りである。",
+            "Surrounding area": "住宅は少ない。\n 浜名湖（面している）",
+            "国道362号": "遠鉄バス40気賀三ヶ日 Line「寸座西」停留所 - 浜松 Station行（気賀 Station前に寄らず）、三ヶ日車庫行",
+            "天竜浜名湖 Line": "西気賀 Station - 寸座 Station - 浜名湖佐久米 Station",
+            "Railway stations in 浜松市北区": "This is a Wikipedia category section for Railway stations in 浜松市北区."
+          },
+          "全文": "is a railway station in Kita-ku, Hamamatsu,  Shizuoka Prefecture, Japan, operated by the third sector Tenryū Hamanako Railroad.\n\nHistory\n1955年(1955)5月6日：国鉄二俣 Lineの StationとしてOpened.\n 1987年(1987)3月15日：第三セクター鉄道に転換され天竜浜名湖鉄道の Stationとなる。\n\nStation layout\nside platforman island platform layoutの地上 Station。無 people Stationで、ホーム上には待合室がある。 Stationは浜名湖に向かっての斜面上にある。\n\nUsage\n近年のboarding passengersは以下の通りである。\n\nSurrounding area\n住宅は少ない。\n 浜名湖（面している）\n\n国道362号\n遠鉄バス40気賀三ヶ日 Line「寸座西」停留所 - 浜松 Station行（気賀 Station前に寄らず）、三ヶ日車庫行\n\n天竜浜名湖 Line\n西気賀 Station - 寸座 Station - 浜名湖佐久米 Station\n\nRailway stations in 浜松市北区\nThis is a Wikipedia category section for Railway stations in 浜松市北区.",
+          "字数": 654
         }
       },
       "结构化信息": {
@@ -1150,9 +1277,16 @@
           "词条标题": "Ona Station",
           "链接": "https://en.wikipedia.org/wiki/Ona%20Station",
           "首段": "is a railway station in Kita-ku, Hamamatsu,  Shizuoka Prefecture, Japan, operated by the third sector Tenryū Hamanako Railroad.",
-          "章节": {},
-          "全文": "is a railway station in Kita-ku, Hamamatsu,  Shizuoka Prefecture, Japan, operated by the third sector Tenryū Hamanako Railroad.",
-          "字数": 127
+          "章节": {
+            "History": "1936年(1936)12月1日：国鉄二俣西 Line（後の二俣 Line）新所原 Station - 三ヶ日 Station間開通と同時にOpened.\n 1962年(1962)8月21日：opened時から行われていた貨物の取扱をclosed。\n 1970年(1970)6月1日：手荷物・小荷物の取扱をclosed。同時に Station員無配置 Stationとなる。\n 1987年(1987)3月15日：二俣 Lineが天竜浜名湖鉄道に転換され、同社の Stationとなる。\n 2022年(2022)8月26日：ホテル「リステル浜名湖」を運営する長治観光が Station名ネーミングライツを取得し、副 Station名を付した「尾奈（湖面すれすれ 三ケ日温泉リステル） Station」とすることを発表。期間は2022年8月26日から2025年3月31日まで。",
+            "Station layout": "side platforman island platform layoutを有し、築堤上に位置する高架 Station。無 people Stationである。 Station舎は階段を上がった2階が待合室となっている。\n\n Stationのrestroomは、大きな魚籠から浜名湖特産のうなぎが顔を出しているというユニークな建物である。",
+            "Usage": "近年のboarding passengersは以下の通りである。",
+            "三ヶ日下尾奈簡易郵便局": "浜松市三ヶ日地域バス（三ヶ日オレンジふれあいバス） 南 Line「尾奈」停留所 - 総合福祉センター行（循環）",
+            "天竜浜名湖 Line": "奥浜名湖 Station - 尾奈 Station - 知波田 Station",
+            "Railway stations in 浜松市北区": "This is a Wikipedia category section for Railway stations in 浜松市北区."
+          },
+          "全文": "is a railway station in Kita-ku, Hamamatsu,  Shizuoka Prefecture, Japan, operated by the third sector Tenryū Hamanako Railroad.\n\nHistory\n1936年(1936)12月1日：国鉄二俣西 Line（後の二俣 Line）新所原 Station - 三ヶ日 Station間開通と同時にOpened.\n 1962年(1962)8月21日：opened時から行われていた貨物の取扱をclosed。\n 1970年(1970)6月1日：手荷物・小荷物の取扱をclosed。同時に Station員無配置 Stationとなる。\n 1987年(1987)3月15日：二俣 Lineが天竜浜名湖鉄道に転換され、同社の Stationとなる。\n 2022年(2022)8月26日：ホテル「リステル浜名湖」を運営する長治観光が Station名ネーミングライツを取得し、副 Station名を付した「尾奈（湖面すれすれ 三ケ日温泉リステル） Station」とすることを発表。期間は2022年8月26日から2025年3月31日まで。\n\nStation layout\nside platforman island platform layoutを有し、築堤上に位置する高架 Station。無 people Stationである。 Station舎は階段を上がった2階が待合室となっている。\n\n Stationのrestroomは、大きな魚籠から浜名湖特産のうなぎが顔を出しているというユニークな建物である。\n\nUsage\n近年のboarding passengersは以下の通りである。\n\n三ヶ日下尾奈簡易郵便局\n浜松市三ヶ日地域バス（三ヶ日オレンジふれあいバス） 南 Line「尾奈」停留所 - 総合福祉センター行（循環）\n\n天竜浜名湖 Line\n奥浜名湖 Station - 尾奈 Station - 知波田 Station\n\nRailway stations in 浜松市北区\nThis is a Wikipedia category section for Railway stations in 浜松市北区.",
+          "字数": 966
         }
       },
       "结构化信息": {
@@ -1222,8 +1356,8 @@
             "Lines": "Okaji Station is served by the Tenryū Hamanako Line, and is located 43.5 kilometers from the starting point of the line at Kakegawa Station.\n\nStation layout\nThe station has single side platform and no station building. It is unattended.\n\nAdjacent stations\n\n|-\n!colspan=5|Tenryū Hamanako Railroad\n\nStation history\nThe station, originally called , was established on March 15, 1987, the date the former Futamata Line of the Japanese National Railways was succeeded by the Tenryū Hamanako Railroad as its Tenryū Hamanako Line. The station was used by students of nearby Kiga High School, from which the station took the name.\n\nBecause the high school was to be closed, the station name was changed to the present one on March 14, 2015, concurrently with the opening of Morimachibyōin-mae Station.\n\nPassenger statistics\nIn fiscal 2016, the station was used by an average of 24 passengers daily (boarding passengers only).\n\nSurrounding area\nJapan National Route 362\n\nSee also\n List of Railway Stations in Japan",
             "References": "External links\n\n  Tenryū Hamanako Railroad Station information \n \n\nRailway stations in Shizuoka Prefecture\nRailway stations in Japan opened in 1987\nStations of Tenryū Hamanako Railroad\nRailway stations in Hamamatsu"
           },
-          "全文": "is a railway station in Kita-ku, Hamamatsu,  Shizuoka Prefecture, Japan, operated by the third sector Tenryū Hamanako Railroad.\n\nLines\nOkaji Station is served by the Tenryū Hamanako Line, and is located 43.5 kilometers from the starting point of the line at Kakegawa Station.\n\nStation layout\nThe station has single side platform and no station building. It is unattended.\n\nAdjacent stations\n\n|-\n!colspan=5|Tenryū Hamanako Railroad\n\nStation history\nThe station, originally called , was established on March 15, 1987, the date the former Futamata Line of the Japanese National Railways was succeeded by the Tenryū Hamanako Railroad as its Tenryū Hamanako Line. The station was used by students of nearby Kiga High School, from which the station took the name.\n\nBecause the high school was to be closed, the station name was changed to the present one on March 14, 2015, concurrently with the opening of Morimachibyōin-mae Station.\n\nPassenger statistics\nIn fiscal 2016, the station was used by an average of 24 passengers daily (boarding passengers only).\n\nSurrounding area\nJapan National Route 362\n\nSee also\n List of Railway Stations in Japan\n\nReferences\n\nExternal links\n\n  Tenryū Hamanako Railroad Station information \n \n\nRailway stations in Shizuoka Prefecture\nRailway stations in Japan opened in 1987\nStations of Tenryū Hamanako Railroad\nRailway stations in Hamamatsu",
-          "字数": 1368
+          "全文": "is a railway station in Kita-ku, Hamamatsu,  Shizuoka Prefecture, Japan, operated by the third sector Tenryū Hamanako Railroad.\n\nLines\nOkaji Station is served by the Tenryū Hamanako Line, and is located 43.5 kilometers from the starting point of the line at Kakegawa Station.\n\nStation layout\nThe station has single side platform and no station building. It is unattended.\n\nAdjacent stations\n\n|-\n!colspan=5|Tenryū Hamanako Railroad\n\nStation history\nThe station, originally called , was established on March 15, 1987, the date the former Futamata Line of the Japanese National Railways was succeeded by the Tenryū Hamanako Railroad as its Tenryū Hamanako Line. The station was used by students of nearby Kiga High School, from which the station took the name.\n\nBecause the high school was to be closed, the station name was changed to the present one on March 14, 2015, concurrently with the opening of Morimachibyōin-mae Station.\n\nPassenger statistics\nIn fiscal 2016, the station was used by an average of 24 passengers daily (boarding passengers only).\n\nSurrounding area\nJapan National Route 362\n\nSee also\n List of Railway Stations in Japan\n\nReferences\nExternal links\n\n  Tenryū Hamanako Railroad Station information \n \n\nRailway stations in Shizuoka Prefecture\nRailway stations in Japan opened in 1987\nStations of Tenryū Hamanako Railroad\nRailway stations in Hamamatsu",
+          "字数": 1367
         }
       },
       "结构化信息": {
@@ -1285,9 +1419,18 @@
           "词条标题": "Gansuiji Station",
           "链接": "https://en.wikipedia.org/wiki/Gansuiji%20Station",
           "首段": "is a railway station in Hamakita-ku, Hamamatsu,  Shizuoka Prefecture, Japan, operated by the third sector Tenryū Hamanako Railroad.",
-          "章节": {},
-          "全文": "is a railway station in Hamakita-ku, Hamamatsu,  Shizuoka Prefecture, Japan, operated by the third sector Tenryū Hamanako Railroad.",
-          "字数": 131
+          "章节": {
+            "History": "1940年(1940)6月1日：遠江森 Station - 金指 Station間の開通時に、国鉄二俣 Lineの StationとしてOpened.\n 1970年(1970)6月1日：手荷物・小荷物の取扱をclosed。同時に Station員無配置 Stationとなる。\n 1973年(1973)4月1日：貨物（同 Station接続専用 Line発着車扱貨物）の取扱をclosed。\n 1987年(1987)3月15日：第三セクター鉄道に転換され、天竜浜名湖鉄道の Stationとなる。\n 2011年(2011)1月26日：待合所およびプラットホームが登録有形文化財として登録される。",
+            "Station layout": "side platforman island platform layoutを有する地上 Station。無 people Stationで、 Station舎はない。（国鉄二俣 Line時代はan island platform layoutで天浜 Lineに移行される際に、片側1 Lineclosed）\n\n待合所およびプラットホームが、国の登録有形文化財として登録されている。",
+            "Usage": "近年のboarding passengersは以下の通りである。",
+            "Surrounding area": "住宅がやや多い。\n 岩水寺 -  Stationから北方徒歩10分。\n 遠州鉄道鉄道 Line 遠州岩水寺 Station",
+            "国道152号": "国道362号 -  Stationから北に徒歩約6分のところに浜松市浜北コミュニティバス赤佐中瀬 Line「泉」停留所がある。月・木曜日運行（年末年始は運休）。",
+            "天竜浜名湖 Line": "西鹿島 Station - 岩水寺 Station - 宮口 Station",
+            "Railway stations in 浜松市": "This is a Wikipedia category section for Railway stations in 浜松市.",
+            "Railway stations in 1940年開業": "This is a Wikipedia category section for Railway stations in 1940年開業."
+          },
+          "全文": "is a railway station in Hamakita-ku, Hamamatsu,  Shizuoka Prefecture, Japan, operated by the third sector Tenryū Hamanako Railroad.\n\nHistory\n1940年(1940)6月1日：遠江森 Station - 金指 Station間の開通時に、国鉄二俣 Lineの StationとしてOpened.\n 1970年(1970)6月1日：手荷物・小荷物の取扱をclosed。同時に Station員無配置 Stationとなる。\n 1973年(1973)4月1日：貨物（同 Station接続専用 Line発着車扱貨物）の取扱をclosed。\n 1987年(1987)3月15日：第三セクター鉄道に転換され、天竜浜名湖鉄道の Stationとなる。\n 2011年(2011)1月26日：待合所およびプラットホームが登録有形文化財として登録される。\n\nStation layout\nside platforman island platform layoutを有する地上 Station。無 people Stationで、 Station舎はない。（国鉄二俣 Line時代はan island platform layoutで天浜 Lineに移行される際に、片側1 Lineclosed）\n\n待合所およびプラットホームが、国の登録有形文化財として登録されている。\n\nUsage\n近年のboarding passengersは以下の通りである。\n\nSurrounding area\n住宅がやや多い。\n 岩水寺 -  Stationから北方徒歩10分。\n 遠州鉄道鉄道 Line 遠州岩水寺 Station\n\n国道152号\n国道362号 -  Stationから北に徒歩約6分のところに浜松市浜北コミュニティバス赤佐中瀬 Line「泉」停留所がある。月・木曜日運行（年末年始は運休）。\n\n天竜浜名湖 Line\n西鹿島 Station - 岩水寺 Station - 宮口 Station\n\nRailway stations in 浜松市\nThis is a Wikipedia category section for Railway stations in 浜松市.\n\nRailway stations in 1940年開業\nThis is a Wikipedia category section for Railway stations in 1940年開業.",
+          "字数": 1096
         }
       },
       "结构化信息": {
@@ -1362,9 +1505,16 @@
           "词条标题": "Tokohadaigakumae Station",
           "链接": "https://en.wikipedia.org/wiki/Tokohadaigakumae%20Station",
           "首段": "is a railway station in Kita-ku, Hamamatsu,  Shizuoka Prefecture, Japan, operated by the third sector Tenryū Hamanako Railroad.",
-          "章节": {},
-          "全文": "is a railway station in Kita-ku, Hamamatsu,  Shizuoka Prefecture, Japan, operated by the third sector Tenryū Hamanako Railroad.",
-          "字数": 127
+          "章节": {
+            "History": "1988年(1988)3月13日：天竜浜名湖鉄道の浜松大学前 Station（はままつだいがくまええき）としてOpened.\n 2013年(2013)4月1日：浜松大学の名称変更に伴い常葉大学前 Stationに改名。",
+            "Station layout": "side platforman island platform layoutを有する地上 Stationの無 people Station。",
+            "Usage": "近年のboarding passengersは以下の通りである。",
+            "Surrounding area": "田畑が多く、住宅は少ない。ホームから常葉大学浜松キャンパスが見えるが、500メートルほどの距離がある。他にいくつかの神社がある。",
+            "天竜浜名湖 Line": "都田 Station - 常葉大学前 Station - 金指 Station",
+            "Railway stations in 浜松市北区": "This is a Wikipedia category section for Railway stations in 浜松市北区."
+          },
+          "全文": "is a railway station in Kita-ku, Hamamatsu,  Shizuoka Prefecture, Japan, operated by the third sector Tenryū Hamanako Railroad.\n\nHistory\n1988年(1988)3月13日：天竜浜名湖鉄道の浜松大学前 Station（はままつだいがくまええき）としてOpened.\n 2013年(2013)4月1日：浜松大学の名称変更に伴い常葉大学前 Stationに改名。\n\nStation layout\nside platforman island platform layoutを有する地上 Stationの無 people Station。\n\nUsage\n近年のboarding passengersは以下の通りである。\n\nSurrounding area\n田畑が多く、住宅は少ない。ホームから常葉大学浜松キャンパスが見えるが、500メートルほどの距離がある。他にいくつかの神社がある。\n\n天竜浜名湖 Line\n都田 Station - 常葉大学前 Station - 金指 Station\n\nRailway stations in 浜松市北区\nThis is a Wikipedia category section for Railway stations in 浜松市北区.",
+          "字数": 603
         }
       },
       "结构化信息": {
@@ -1442,9 +1592,19 @@
           "词条标题": "Towata Station",
           "链接": "https://en.wikipedia.org/wiki/Towata%20Station",
           "首段": "is a railway station in the town of Mori, Shizuoka Prefecture, Japan, operated by the third sector Tenryū Hamanako Railroad.",
-          "章节": {},
-          "全文": "is a railway station in the town of Mori, Shizuoka Prefecture, Japan, operated by the third sector Tenryū Hamanako Railroad.",
-          "字数": 124
+          "章节": {
+            "History": "1960年(1960)4月20日：国鉄二俣 Lineの Station（旅客 Station）としてOpened.気動車の旅客のみを取り扱う Station員無配置 Station。\n 1987年(1987)3月15日：二俣 Lineが第三セクター鉄道に転換、天竜浜名湖鉄道の Stationとなる。\n 2009年(2009)11月1日：無 people Station化。",
+            "Station layout": "side platforman island platform layoutを有し、築堤上に位置する高架 Station。無 people Stationで、ホーム上に待合室がある。\n\n一時期飲料の自動販売機が設置されていたが、現在は撤去されている。\n\nrestroomはかつては Station待合室真下あたりに設置されていたが、現在は新所原方の高架下に設置されている。",
+            "Usage": "近年のboarding passengersは以下の通りである。",
+            "Surrounding area": "静岡県道58号袋井春野 Line沿いにある戸綿集落の中に位置する当 Stationは、西側を流れる太田川を挟んで森市街と向き合う立地にあり、周囲に中小商店などが点在している。特徴的なものでは茶葉販売業者が3者ある。治郎柿原木など森市街の一部は遠州森 Stationより当 Stationが最寄りである。",
+            "平和堂薬局": "みのる屋 - 惣菜",
+            "茶どころ": "絵本cafe miron",
+            "Bus routes": " Stationをくぐる静岡県道58号 Line沿いに戸綿停留所がある。\n 秋葉バスサービス 秋葉中遠 Line・秋葉 Line\n 遠州森町 気多（けた）方面 -  Line路北側のりば（90m）\n 袋井 Station方面 -  Line路南側のりば（180m）\n\n1962年9月20日まで通っていた軌道静岡鉄道秋葉 Lineの事実上の代替交通である。なお、同 Lineの最寄り停留場は「戸綿口」（ Station南側）、「森川橋」（ Station北側）といい、どちらも当 Stationから少し離れて存在していた。",
+            "天竜浜名湖 Line": "原田 Station - 戸綿 Station - 遠州森 Station",
+            "静岡県森町の交通": "This is a Wikipedia category section for 静岡県森町の交通."
+          },
+          "全文": "is a railway station in the town of Mori, Shizuoka Prefecture, Japan, operated by the third sector Tenryū Hamanako Railroad.\n\nHistory\n1960年(1960)4月20日：国鉄二俣 Lineの Station（旅客 Station）としてOpened.気動車の旅客のみを取り扱う Station員無配置 Station。\n 1987年(1987)3月15日：二俣 Lineが第三セクター鉄道に転換、天竜浜名湖鉄道の Stationとなる。\n 2009年(2009)11月1日：無 people Station化。\n\nStation layout\nside platforman island platform layoutを有し、築堤上に位置する高架 Station。無 people Stationで、ホーム上に待合室がある。\n\n一時期飲料の自動販売機が設置されていたが、現在は撤去されている。\n\nrestroomはかつては Station待合室真下あたりに設置されていたが、現在は新所原方の高架下に設置されている。\n\nUsage\n近年のboarding passengersは以下の通りである。\n\nSurrounding area\n静岡県道58号袋井春野 Line沿いにある戸綿集落の中に位置する当 Stationは、西側を流れる太田川を挟んで森市街と向き合う立地にあり、周囲に中小商店などが点在している。特徴的なものでは茶葉販売業者が3者ある。治郎柿原木など森市街の一部は遠州森 Stationより当 Stationが最寄りである。\n\n平和堂薬局\nみのる屋 - 惣菜\n\n茶どころ\n絵本cafe miron\n\nBus routes\n Stationをくぐる静岡県道58号 Line沿いに戸綿停留所がある。\n 秋葉バスサービス 秋葉中遠 Line・秋葉 Line\n 遠州森町 気多（けた）方面 -  Line路北側のりば（90m）\n 袋井 Station方面 -  Line路南側のりば（180m）\n\n1962年9月20日まで通っていた軌道静岡鉄道秋葉 Lineの事実上の代替交通である。なお、同 Lineの最寄り停留場は「戸綿口」（ Station南側）、「森川橋」（ Station北側）といい、どちらも当 Stationから少し離れて存在していた。\n\n天竜浜名湖 Line\n原田 Station - 戸綿 Station - 遠州森 Station\n\n静岡県森町の交通\nThis is a Wikipedia category section for 静岡県森町の交通.",
+          "字数": 1154
         }
       },
       "结构化信息": {
@@ -1531,9 +1691,30 @@
           "词条标题": "Kakegawa Station",
           "链接": "https://en.wikipedia.org/wiki/Kakegawa_Station",
           "首段": "Kakegawa Station is an interchange station on the JR Central Tōkaidō Main Line and the Tenryū Hamanako Line, located in Kakegawa, Shizuoka Prefecture, Japan.",
-          "章节": {},
-          "全文": "Kakegawa Station is an interchange station on the JR Central Tōkaidō Main Line and the Tenryū Hamanako Line, located in Kakegawa, Shizuoka Prefecture, Japan.",
-          "字数": 157
+          "章节": {
+            "Overview": "東海道新幹 Lineは、国鉄分割民営化直後の1988年(1988)に当 Station新設時から各 Station停車の「こだま」のみが停車する。東海道新幹 Line内では同じ1988年openedの新富士 Stationと三河安城 Stationも「こだま」のみの停車であるが、当 Stationがその中では利用者数は一番多く「ひかり」が一部停車する岐阜羽島 Stationと米原 Station（JR東海分のみ）を上回っている。\n\n天竜浜名湖 Lineは日本国有鉄道（国鉄）二俣 Lineを転換したもので、当 Stationを起点とする。東海道本 Lineの運行形態の詳細は「東海道 Line (静岡地区)」を参照。\n\n東海道本 LineにはCA27の Station番号が設定されている。JR掛川 Stationの事務管コードは、▲520123となっている。",
+            "History": "1889年(1889)4月16日：官設鉄道静岡 Station - 浜松 Station間が開通し、Opened.\n 1895年(1895)4月1日： Line路名称制定。東海道 Line（1909年に東海道本 Lineにrenamed）の所属となる。\n 1935年(1935)4月17日：二俣 Lineが遠江森 Stationまで開通し接続 Stationとなる。\n 1940年(1940)6月：木造の現 Station舎に改築（2代目）。\n 1984年(1984)1月21日：貨物の取扱をclosed。\n 1985年(1985)3月14日：荷物の取扱をclosed。\n 1987年(1987)\n 2月15日：みどりの窓口opened。\n 3月15日：二俣 Lineが第三セクター化、天竜浜名湖鉄道に転換。\n 4月1日：国鉄分割民営化により、東海道本 Lineの StationはJR東海に承継される。\n 1988年(1988)3月13日：東海道新幹 Lineの StationがOpened.\n 1992年(1992)11月28日：自動ticket gate機を導入。\n 2002年(2002)6月11日：FIFA（国際サッカー連盟）主催2002サッカーワールドカップ の帰宅客輸送のための当 Station始発の深夜新幹 Line「特別号」を運転。\n 2008年(2008)3月1日：ICカード「TOICA」の利用が可能となる。天浜 Line用のticket gate口からもTOICAで退場することが可能になる。\n 2010年(2010)2月1日： Stationに多機能restroom・elevator・escalatorなどのバリアフリーと高架の連絡通路の使用開始。\n 2012年(2012)12月：北口の木造 Station舎の耐震化工事に伴い、仮設 Station舎の建設を開始する。\n 2013年(2013)\n 3月20日：仮設 Station舎による客扱いを開始する。\n 5月13日： Station舎の解体工事を開始する。\n 7月： Station舎新築工事を開始する。\n 2014年(2014)1月26日：新 Station舎による客扱いを開始する。",
+            "JR東海": "新幹 Lineはopposed side platformsan island platform layoutを有する高架 Stationで、中央の2 Lineは通過 Line（本 Line）となっている。在来 Lineはside platforman island platform layout、island platforman island platform layoutの合計an island platform layoutのホームを有する地上 Stationである。3番 Lineと4番 Lineとの間には留置 Lineがある。\n\nticket gateは北口（表口）、南口（新幹 Line口）および乗換口（新幹 Lineと在来 Lineの中間ticket gate）があり、各ticket gateと在来 Lineホームは地下通路と跨 Line橋で結ばれている。南口からは新幹 Line構内に直接入出場できる。\n\n当時の掛川市長だった榛村純一が木の文化を大切にするという姿勢をとっていたため、新幹 Lineの Stationをopenedした際にも、1940年(1940)に建築された北口の木造 Station舎がそのまま使用され続けてきたが、一方で Station舎の耐震化がなされてこなかったことから、掛川市では Station舎を建替えの上で元の木造 Station舎の資材を利用して外観を復元する工法による耐震化工事を2012年(2012)12月から開始、2014年(2014)1月に Station舎の供用を再開した。\n\n Station長・ Station員配置 Station（直営 Station）である。管理 Stationとして、菊川 Stationを管理している。\n\nJR全 Lineきっぷうりばは北口 Station舎に併設されたJR東海ツアーズ内と南口ticket gate傍にある。新幹 Line特急券の自動券売機は、北口、南口、新幹 Line乗換口ticket gate付近に設置されている。\n\n Station舎東側に Line路下を通る自由通路があり、ticket gate内を通らずに南北を往来できる。新幹 Line高架下にはジェイアール東海静岡開発の運営する商業施設「アスティ掛川」があり、土産物売店、カフェなどがある。\n\nのりば \n\n（出典：JR東海: Station構内図）\n\n新幹 Lineのホームは、13号車 - 16号車の停車位置には屋根がついていない。なお、この新幹 Line掛川 Station新設時の「こだま」号は12両編成が存在していた（16両編成になったのは1989年）。\n\n当 Stationは他の新幹 Line停車 Stationより Stationに進入する側の待避 Lineの距離が長く、下りは約700 m、上りは約1200 mある。これは、新幹 Line Station建設時に、少しでも待避列車を早く待避 Lineに進入させ、後続の通過列車への影響を抑え、列車の増発やスピードアップを図れるよう設計されたものである。そのため、待避列車が待避 Lineへ分岐した後、ホームへ到着するまでの間に、後続列車が本 Lineを通過する事象も見られる。",
+            "天竜浜名湖鉄道": "頭端式platforms serving tracksを有する地上 Stationである。JR東海とは別ticket gateである。天浜 Line Station舎内から東海道本 Line1番 LineへのJRの簡易型自動ticket gate（TOICA対応）も存在する。JRへの乗換客で、JR Lineの乗車券を所持していない場合は天浜 Lineの券売機でJR Lineの乗車券（近距離切符）を購入して入場することができる。\n\nなお、JR Lineと Line路が繋がっており、甲種車両（新型車両）の引渡しが行われるほか、検測車（キヤ95）が天竜浜名湖 Lineに入 Lineする際も当 Stationを経由する。\n\nのりば \n\n天竜浜名湖鉄道が国鉄二俣 Lineだった時代は、ホーム番号が Station舎から近い順から4番 Line、3番 Line…と付けられていた。",
+            "Station meals": "主な Station弁は下記の通り。",
+            "浜の釜めし": "This is a Wikipedia category section for 浜の釜めし.",
+            "Usage": "『静岡県統計年鑑』及び『掛川市統計書』によると、近年のdaily averageboarding passengersは以下の通りである。",
+            "North exit": "城下町・宿場町から発達した古くからの商店街・繁華街である。平成期以降は掛川市役所のrelocated、大型スーパーマーケット（ジャスコ・ユニー）の撤退に代表される郊外化により、行政・商業の中心地としての機能は低下しており、2009年に掛川市中心市街地活性化基本計画が中心市街地活性化法に基づき認定された。ユニー跡地は現在は駐車場になっており、掛川 Station前東街区第一種市街地再開発事業として再開発ビルが計画されている。\n\n旧東海道沿い中町・連雀・仁藤商店街は片側式アーケードになっており、アーケードを抜けてからも商店街が続いている。旧東海道から逆川までの掛川城大手門を含む一帯の商店街は、白壁瓦屋根風の建屋が並ぶ城下町を模した造りとなっている。\n\n 連雀南地区再開発ビル「みらいふ掛川」\n\n「掛川 Station前」停留所または「掛川 Station北口」停留所にて、以下の路 Lineバスが発着する。",
+            "South exit": "北口に比べ比較的近年になって区画整理された住宅街である。南口は新幹 Line Stationopenedに伴い整備され、以後はホテルや駐車場が増えた。\n\n\n「掛川 Station南口前」停留所または「掛川 Station南口」停留所にて、以下の路 Lineバスや高速バスが発着する。",
+            "Bus routes": "北口、南口ともに Stationを出てすぐは一般自家用車とタクシーの乗り入れるロータリーになっており、北口のbus stopはロータリー外縁、南口のbus stopはロータリー南側の道路上バスカットとその対面に設置されている。\n\n以下の定期バス路 Lineの他、つま恋やエコパのイベント等、また横須賀地区で開催される遠州横須賀三熊野神社大祭の際に臨時シャトルバスが当 Station - 会場間に運行される。",
+            "掛川バスサービス": "市街地循環 Line南回り：中東遠総合医療センター・掛川年金事務所・市役所・希望の丘方面\n ジーネット\n 掛川大須賀 Line：とうもんの里・横須賀高校方面",
+            "静岡空港シャトルタクシー": "静岡空港（予約制）",
+            "JR東海バス": "ドリーム静岡・浜松号：横浜 Station (YCAT)・東京 Station・新木場 Station方面",
+            "JR東海バス・西日本JRバス": "京阪神ドリーム静岡号：京都 Station・大阪 Station・湊町BT・三宮BT方面",
+            "Adjacent stations": "※新幹 Lineの隣の停車 Stationは各列車記事を、東海道本 Lineの「ホームライナー静岡」「ホームライナー浜松」の隣の停車 Stationは東海道 Line (静岡地区)を、それぞれ参照のこと。\n 東海旅客鉄道（JR東海）",
+            "東海道新幹 Line": "静岡 Station - 掛川 Station - 浜松 Station",
+            "東海道本 Line": "菊川 Station (CA26) - 掛川 Station (CA27) - 愛野 Station (CA28)",
+            "天竜浜名湖 Line": "掛川 Station - 掛川市役所前 Station",
+            "Railway stations in 掛川市": "This is a Wikipedia category section for Railway stations in 掛川市.",
+            "JNR railway stations": "This is a Wikipedia category section for JNR railway stations."
+          },
+          "全文": "Kakegawa Station is an interchange station on the JR Central Tōkaidō Main Line and the Tenryū Hamanako Line, located in Kakegawa, Shizuoka Prefecture, Japan.\n\nOverview\n東海道新幹 Lineは、国鉄分割民営化直後の1988年(1988)に当 Station新設時から各 Station停車の「こだま」のみが停車する。東海道新幹 Line内では同じ1988年openedの新富士 Stationと三河安城 Stationも「こだま」のみの停車であるが、当 Stationがその中では利用者数は一番多く「ひかり」が一部停車する岐阜羽島 Stationと米原 Station（JR東海分のみ）を上回っている。\n\n天竜浜名湖 Lineは日本国有鉄道（国鉄）二俣 Lineを転換したもので、当 Stationを起点とする。東海道本 Lineの運行形態の詳細は「東海道 Line (静岡地区)」を参照。\n\n東海道本 LineにはCA27の Station番号が設定されている。JR掛川 Stationの事務管コードは、▲520123となっている。\n\nHistory\n1889年(1889)4月16日：官設鉄道静岡 Station - 浜松 Station間が開通し、Opened.\n 1895年(1895)4月1日： Line路名称制定。東海道 Line（1909年に東海道本 Lineにrenamed）の所属となる。\n 1935年(1935)4月17日：二俣 Lineが遠江森 Stationまで開通し接続 Stationとなる。\n 1940年(1940)6月：木造の現 Station舎に改築（2代目）。\n 1984年(1984)1月21日：貨物の取扱をclosed。\n 1985年(1985)3月14日：荷物の取扱をclosed。\n 1987年(1987)\n 2月15日：みどりの窓口opened。\n 3月15日：二俣 Lineが第三セクター化、天竜浜名湖鉄道に転換。\n 4月1日：国鉄分割民営化により、東海道本 Lineの StationはJR東海に承継される。\n 1988年(1988)3月13日：東海道新幹 Lineの StationがOpened.\n 1992年(1992)11月28日：自動ticket gate機を導入。\n 2002年(2002)6月11日：FIFA（国際サッカー連盟）主催2002サッカーワールドカップ の帰宅客輸送のための当 Station始発の深夜新幹 Line「特別号」を運転。\n 2008年(2008)3月1日：ICカード「TOICA」の利用が可能となる。天浜 Line用のticket gate口からもTOICAで退場することが可能になる。\n 2010年(2010)2月1日： Stationに多機能restroom・elevator・escalatorなどのバリアフリーと高架の連絡通路の使用開始。\n 2012年(2012)12月：北口の木造 Station舎の耐震化工事に伴い、仮設 Station舎の建設を開始する。\n 2013年(2013)\n 3月20日：仮設 Station舎による客扱いを開始する。\n 5月13日： Station舎の解体工事を開始する。\n 7月： Station舎新築工事を開始する。\n 2014年(2014)1月26日：新 Station舎による客扱いを開始する。\n\nJR東海\n新幹 Lineはopposed side platformsan island platform layoutを有する高架 Stationで、中央の2 Lineは通過 Line（本 Line）となっている。在来 Lineはside platforman island platform layout、island platforman island platform layoutの合計an island platform layoutのホームを有する地上 Stationである。3番 Lineと4番 Lineとの間には留置 Lineがある。\n\nticket gateは北口（表口）、南口（新幹 Line口）および乗換口（新幹 Lineと在来 Lineの中間ticket gate）があり、各ticket gateと在来 Lineホームは地下通路と跨 Line橋で結ばれている。南口からは新幹 Line構内に直接入出場できる。\n\n当時の掛川市長だった榛村純一が木の文化を大切にするという姿勢をとっていたため、新幹 Lineの Stationをopenedした際にも、1940年(1940)に建築された北口の木造 Station舎がそのまま使用され続けてきたが、一方で Station舎の耐震化がなされてこなかったことから、掛川市では Station舎を建替えの上で元の木造 Station舎の資材を利用して外観を復元する工法による耐震化工事を2012年(2012)12月から開始、2014年(2014)1月に Station舎の供用を再開した。\n\n Station長・ Station員配置 Station（直営 Station）である。管理 Stationとして、菊川 Stationを管理している。\n\nJR全 Lineきっぷうりばは北口 Station舎に併設されたJR東海ツアーズ内と南口ticket gate傍にある。新幹 Line特急券の自動券売機は、北口、南口、新幹 Line乗換口ticket gate付近に設置されている。\n\n Station舎東側に Line路下を通る自由通路があり、ticket gate内を通らずに南北を往来できる。新幹 Line高架下にはジェイアール東海静岡開発の運営する商業施設「アスティ掛川」があり、土産物売店、カフェなどがある。\n\nのりば \n\n（出典：JR東海: Station構内図）\n\n新幹 Lineのホームは、13号車 - 16号車の停車位置には屋根がついていない。なお、この新幹 Line掛川 Station新設時の「こだま」号は12両編成が存在していた（16両編成になったのは1989年）。\n\n当 Stationは他の新幹 Line停車 Stationより Stationに進入する側の待避 Lineの距離が長く、下りは約700 m、上りは約1200 mある。これは、新幹 Line Station建設時に、少しでも待避列車を早く待避 Lineに進入させ、後続の通過列車への影響を抑え、列車の増発やスピードアップを図れるよう設計されたものである。そのため、待避列車が待避 Lineへ分岐した後、ホームへ到着するまでの間に、後続列車が本 Lineを通過する事象も見られる。\n\n天竜浜名湖鉄道\n頭端式platforms serving tracksを有する地上 Stationである。JR東海とは別ticket gateである。天浜 Line Station舎内から東海道本 Line1番 LineへのJRの簡易型自動ticket gate（TOICA対応）も存在する。JRへの乗換客で、JR Lineの乗車券を所持していない場合は天浜 Lineの券売機でJR Lineの乗車券（近距離切符）を購入して入場することができる。\n\nなお、JR Lineと Line路が繋がっており、甲種車両（新型車両）の引渡しが行われるほか、検測車（キヤ95）が天竜浜名湖 Lineに入 Lineする際も当 Stationを経由する。\n\nのりば \n\n天竜浜名湖鉄道が国鉄二俣 Lineだった時代は、ホーム番号が Station舎から近い順から4番 Line、3番 Line…と付けられていた。\n\nStation meals\n主な Station弁は下記の通り。\n\n浜の釜めし\nThis is a Wikipedia category section for 浜の釜めし.\n\nUsage\n『静岡県統計年鑑』及び『掛川市統計書』によると、近年のdaily averageboarding passengersは以下の通りである。\n\nNorth exit\n城下町・宿場町から発達した古くからの商店街・繁華街である。平成期以降は掛川市役所のrelocated、大型スーパーマーケット（ジャスコ・ユニー）の撤退に代表される郊外化により、行政・商業の中心地としての機能は低下しており、2009年に掛川市中心市街地活性化基本計画が中心市街地活性化法に基づき認定された。ユニー跡地は現在は駐車場になっており、掛川 Station前東街区第一種市街地再開発事業として再開発ビルが計画されている。\n\n旧東海道沿い中町・連雀・仁藤商店街は片側式アーケードになっており、アーケードを抜けてからも商店街が続いている。旧東海道から逆川までの掛川城大手門を含む一帯の商店街は、白壁瓦屋根風の建屋が並ぶ城下町を模した造りとなっている。\n\n 連雀南地区再開発ビル「みらいふ掛川」\n\n「掛川 Station前」停留所または「掛川 Station北口」停留所にて、以下の路 Lineバスが発着する。\n\nSouth exit\n北口に比べ比較的近年になって区画整理された住宅街である。南口は新幹 Line Stationopenedに伴い整備され、以後はホテルや駐車場が増えた。\n\n\n「掛川 Station南口前」停留所または「掛川 Station南口」停留所にて、以下の路 Lineバスや高速バスが発着する。\n\nBus routes\n北口、南口ともに Stationを出てすぐは一般自家用車とタクシーの乗り入れるロータリーになっており、北口のbus stopはロータリー外縁、南口のbus stopはロータリー南側の道路上バスカットとその対面に設置されている。\n\n以下の定期バス路 Lineの他、つま恋やエコパのイベント等、また横須賀地区で開催される遠州横須賀三熊野神社大祭の際に臨時シャトルバスが当 Station - 会場間に運行される。\n\n掛川バスサービス\n市街地循環 Line南回り：中東遠総合医療センター・掛川年金事務所・市役所・希望の丘方面\n ジーネット\n 掛川大須賀 Line：とうもんの里・横須賀高校方面\n\n静岡空港シャトルタクシー\n静岡空港（予約制）\n\nJR東海バス\nドリーム静岡・浜松号：横浜 Station (YCAT)・東京 Station・新木場 Station方面\n\nJR東海バス・西日本JRバス\n京阪神ドリーム静岡号：京都 Station・大阪 Station・湊町BT・三宮BT方面\n\nAdjacent stations\n※新幹 Lineの隣の停車 Stationは各列車記事を、東海道本 Lineの「ホームライナー静岡」「ホームライナー浜松」の隣の停車 Stationは東海道 Line (静岡地区)を、それぞれ参照のこと。\n 東海旅客鉄道（JR東海）\n\n東海道新幹 Line\n静岡 Station - 掛川 Station - 浜松 Station\n\n東海道本 Line\n菊川 Station (CA26) - 掛川 Station (CA27) - 愛野 Station (CA28)\n\n天竜浜名湖 Line\n掛川 Station - 掛川市役所前 Station\n\nRailway stations in 掛川市\nThis is a Wikipedia category section for Railway stations in 掛川市.\n\nJNR railway stations\nThis is a Wikipedia category section for JNR railway stations.",
+          "字数": 4928
         }
       },
       "结构化信息": {
@@ -1629,9 +1810,22 @@
           "词条标题": "Kakegawa-Shiyakusho-mae Station",
           "链接": "https://en.wikipedia.org/wiki/Kakegawa-Shiyakusho-mae_Station",
           "首段": "Kakegawa-Shiyakusho-mae Station is a station on the Tenryū Hamanako Line, located in Kakegawa, Shizuoka Prefecture, Japan.",
-          "章节": {},
-          "全文": "Kakegawa-Shiyakusho-mae Station is a station on the Tenryū Hamanako Line, located in Kakegawa, Shizuoka Prefecture, Japan.",
-          "字数": 122
+          "章节": {
+            "History": "1996年(1996)3月18日：天竜浜名湖鉄道の StationとしてOpened.",
+            "Station layout": "side platforman island platform layoutを有する地上 Station。終日無 people Station。ホーム有効長は55m（3両分）ある。",
+            "Usage": "近年のboarding passengersは以下の通りである。当 Station付近住民の利用の他、NECなど当 Station付近への通勤客も見られる。 Station勢圏の一部は Station間距離が短い隣の西掛川 Stationと重複する。",
+            "Surrounding area": "東経138度 Line上に位置する当 Stationは Station前にNECプラットフォームズ並びに新開トランスポートシステムズ（STS）の事業所が広がり、その横の高台には名称の由来となった掛川市役所の入口がある。\n\n周辺地区は下俣、長谷1丁目、中央高町、中央3丁目など。工場の他には低層の住宅が軒を連ねる。かつては一帯に茶畑が見られたが、市役所のrelocatedに伴い区画整理され、住宅地が造成された。\n\nバス乗り場はないが、市役所敷地内にbus stop留所がある。そのバス路 Lineは掛川 Station方面を結び、天竜浜名湖 Lineを補完している。\n\n Line路南側（市役所方面）",
+            "新開トランスポートシステムズ掛川事業所": "NECプラットフォームズ掛川事業所（旧NECアクセステクニカ）",
+            "掛川市役所本庁舎": "市役所bus stop留所 - 掛川市自主運行バス市街地循環 Line\n 北回り（掛川北病院方面行き）\n 南回り（掛川 Station方面行き）\n 掛川市役所本庁舎南館（教育委員会）",
+            "思惟の森": "水質保全パビリオン（下水処理場）\n 掛川市浄化センター管理棟（掛川市上下水道部）",
+            "掛川市水道事業所": "生物循環パビリオン（屎尿処理施設）",
+            "資生堂企業資料館": "資生堂アートハウス（美術館） - 東京の資生堂ギャラリー「椿会展」「現代工藝展」などに出品された美術品などを収蔵",
+            "東名高速道路小笠パーキングエリア": " Line路北側（中央3丁目方面） \n北側に出口はないため北側へは掛川方の踏切を渡る必要がある。",
+            "天竜浜名湖 Line": "掛川 Station - 掛川市役所前 Station - 西掛川 Station",
+            "掛川市役所": "This is a Wikipedia category section for 掛川市役所."
+          },
+          "全文": "Kakegawa-Shiyakusho-mae Station is a station on the Tenryū Hamanako Line, located in Kakegawa, Shizuoka Prefecture, Japan.\n\nHistory\n1996年(1996)3月18日：天竜浜名湖鉄道の StationとしてOpened.\n\nStation layout\nside platforman island platform layoutを有する地上 Station。終日無 people Station。ホーム有効長は55m（3両分）ある。\n\nUsage\n近年のboarding passengersは以下の通りである。当 Station付近住民の利用の他、NECなど当 Station付近への通勤客も見られる。 Station勢圏の一部は Station間距離が短い隣の西掛川 Stationと重複する。\n\nSurrounding area\n東経138度 Line上に位置する当 Stationは Station前にNECプラットフォームズ並びに新開トランスポートシステムズ（STS）の事業所が広がり、その横の高台には名称の由来となった掛川市役所の入口がある。\n\n周辺地区は下俣、長谷1丁目、中央高町、中央3丁目など。工場の他には低層の住宅が軒を連ねる。かつては一帯に茶畑が見られたが、市役所のrelocatedに伴い区画整理され、住宅地が造成された。\n\nバス乗り場はないが、市役所敷地内にbus stop留所がある。そのバス路 Lineは掛川 Station方面を結び、天竜浜名湖 Lineを補完している。\n\n Line路南側（市役所方面）\n\n新開トランスポートシステムズ掛川事業所\nNECプラットフォームズ掛川事業所（旧NECアクセステクニカ）\n\n掛川市役所本庁舎\n市役所bus stop留所 - 掛川市自主運行バス市街地循環 Line\n 北回り（掛川北病院方面行き）\n 南回り（掛川 Station方面行き）\n 掛川市役所本庁舎南館（教育委員会）\n\n思惟の森\n水質保全パビリオン（下水処理場）\n 掛川市浄化センター管理棟（掛川市上下水道部）\n\n掛川市水道事業所\n生物循環パビリオン（屎尿処理施設）\n\n資生堂企業資料館\n資生堂アートハウス（美術館） - 東京の資生堂ギャラリー「椿会展」「現代工藝展」などに出品された美術品などを収蔵\n\n東名高速道路小笠パーキングエリア\n Line路北側（中央3丁目方面） \n北側に出口はないため北側へは掛川方の踏切を渡る必要がある。\n\n天竜浜名湖 Line\n掛川 Station - 掛川市役所前 Station - 西掛川 Station\n\n掛川市役所\nThis is a Wikipedia category section for 掛川市役所.",
+          "字数": 1207
         }
       },
       "结构化信息": {
@@ -1713,9 +1907,15 @@
           "词条标题": "Shikiji Station",
           "链接": "https://en.wikipedia.org/wiki/Shikiji%20Station",
           "首段": "is a railway station in the city of Iwata, Shizuoka Prefecture, Japan, operated by the third sector Tenryū Hamanako Railroad.",
-          "章节": {},
-          "全文": "is a railway station in the city of Iwata, Shizuoka Prefecture, Japan, operated by the third sector Tenryū Hamanako Railroad.",
-          "字数": 125
+          "章节": {
+            "History": "1940年(1940)4月1日：遠江森 Station - 金指 Station間の開通時に、鉄道省二俣 Lineの Stationとしてopenedする（一般 Station）。\n 1961年(1961)5月17日：遠州鉄道の気動車が西鹿島 Stationから当 Station経由で遠江森 Stationまで乗り入れる。\n 1962年(1962)8月21日：貨物の取扱をclosedし、旅客 Stationとなる。\n 1966年(1966)10月1日：遠州鉄道からの気動車乗り入れをclosedする。\n 1970年(1970)6月1日：手荷物・小荷物の取扱をclosed。無 people Stationとなる。\n 1987年(1987)3月15日：二俣 Lineが第三セクター鉄道に転換し、天竜浜名湖鉄道の Stationとなる。\n2012年(2012)5月14日： Station舎内に豊岡敷地簡易郵便局がOpened.",
+            "Station layout": "side platforman island platform layoutを有する地上 Station。 Station舎はあるが、無 people Stationである。\n\n Station舎側に貨物用引き込み Line撤去の跡がある。\n\n Station舎内に豊岡敷地簡易郵便局が併設されている。",
+            "Usage": "近年のboarding passengersは以下の通りである。",
+            "Surrounding area": "磐田市デマンド型乗り合いタクシー「お助け号」豊岡 Line「天浜 Line敷地 Station」乗合所（磐田市豊岡地区の住民のみ利用可能・事前予約制）",
+            "天竜浜名湖 Line": "遠江一宮 Station - 敷地 Station - 豊岡 Station"
+          },
+          "全文": "is a railway station in the city of Iwata, Shizuoka Prefecture, Japan, operated by the third sector Tenryū Hamanako Railroad.\n\nHistory\n1940年(1940)4月1日：遠江森 Station - 金指 Station間の開通時に、鉄道省二俣 Lineの Stationとしてopenedする（一般 Station）。\n 1961年(1961)5月17日：遠州鉄道の気動車が西鹿島 Stationから当 Station経由で遠江森 Stationまで乗り入れる。\n 1962年(1962)8月21日：貨物の取扱をclosedし、旅客 Stationとなる。\n 1966年(1966)10月1日：遠州鉄道からの気動車乗り入れをclosedする。\n 1970年(1970)6月1日：手荷物・小荷物の取扱をclosed。無 people Stationとなる。\n 1987年(1987)3月15日：二俣 Lineが第三セクター鉄道に転換し、天竜浜名湖鉄道の Stationとなる。\n2012年(2012)5月14日： Station舎内に豊岡敷地簡易郵便局がOpened.\n\nStation layout\nside platforman island platform layoutを有する地上 Station。 Station舎はあるが、無 people Stationである。\n\n Station舎側に貨物用引き込み Line撤去の跡がある。\n\n Station舎内に豊岡敷地簡易郵便局が併設されている。\n\nUsage\n近年のboarding passengersは以下の通りである。\n\nSurrounding area\n磐田市デマンド型乗り合いタクシー「お助け号」豊岡 Line「天浜 Line敷地 Station」乗合所（磐田市豊岡地区の住民のみ利用可能・事前予約制）\n\n天竜浜名湖 Line\n遠江一宮 Station - 敷地 Station - 豊岡 Station",
+          "字数": 902
         }
       },
       "结构化信息": {
@@ -1797,9 +1997,25 @@
           "词条标题": "Shinjohara Station",
           "链接": "https://en.wikipedia.org/wiki/Shinjohara_Station",
           "首段": "Shinjohara Station is a station on the JR Central Tōkaidō Main Line and the Tenryū Hamanako Line, located in Kosai, Shizuoka Prefecture, Japan.",
-          "章节": {},
-          "全文": "Shinjohara Station is a station on the JR Central Tōkaidō Main Line and the Tenryū Hamanako Line, located in Kosai, Shizuoka Prefecture, Japan.",
-          "字数": 143
+          "章节": {
+            "Overview": "静岡県最西端の Stationである。JR東海管内の東海道本 Lineの起点、かつ静岡県最東端の Stationである熱海 Stationまでの営業キロは177.8kmに及ぶ。\n\nJR東海の境界 Stationにあたり、当 Station以東浜松方面は静岡支社の管轄となり、上り場内信号機から豊橋方面が東海鉄道事業本部直轄エリアとなる。\n\n天竜浜名湖 Lineの前身は日本国有鉄道（国鉄）二俣 Lineで、1987年3月14日までの間、二俣 Lineの一部列車（末期はキハ20形気動車）が豊橋 Stationまで直通運転を行っていた。\n\n構内に静岡県と愛知県の境があり、以前はホームに「県境の Station」と記された看板があった。県境はホーム西端よりさらに豊橋側を横切っている。",
+            "History": "1936年(1936)\n 2月13日：東海道本 Lineの鷲津 - 二川間に新所原仮信号場opened。\n 12月1日：二俣西 Lineが新所原 - 三ヶ日で開通すると同時に Stationに昇格、新所原 StationOpened.一般 Station。\n 1940年(1940)6月1日： Line路名称改定。二俣西 Lineが二俣 Lineの一部となる。\n 1971年(1971)4月26日：貨物の取扱をclosed。\n 1984年(1984)2月1日：荷物の取扱をclosed。\n 1987年(1987)\n 3月15日：二俣 Lineが第三セクター化、天竜浜名湖鉄道に転換。\n 4月1日：国鉄分割民営化に伴い、国鉄の Stationは東海旅客鉄道（JR東海）の Stationとなる。\n 2008年(2008)3月1日：JR東海の StationでICカード「TOICA」の利用が可能となる。\n 2016年(2016)11月27日：JR東海の Stationで橋上 Station舎及び南北自由通路の供用を開始。",
+            "Station layout": "かつてはan island platform layoutだったが、二俣 Lineの経営移管に伴い天竜浜名湖鉄道天浜 Line Station舎が分離新設され、旧1番 Lineが天浜 Lineとなり、旧2番 Lineはclosed（東側は保 Line車両の留置 Line、西側は撤去）されフェンスが設置されている。天浜 Lineの西端には、JR東海東海道本 Lineへの渡り Lineが設けられている。\n2015年2月7日まで、西側のJR東海東海道本 Lineの Station舎は青基調の平屋建てで、天浜 Lineとの連絡ticket gate（TOICA対応簡易型自動ticket gate）もあった。東側の天浜 Lineは白基調の2階建てである。 Station改良工事に伴いJR東海の Station舎は解体されており、その西側に設けられた仮設 Station舎が2015年2月8日から2016年11月26日まで、利用し、これにより、JR東海と天竜浜名湖鉄道の Station舎が別々となった。\n\nJR東海は北口のみであったことから、2012年から橋上 Station舎・南北自由通路の建設、 Station前広場の整備などが一体となった「新所原 Station周辺整備事業」が開始された。この事業により2016年11月27日よりに橋上 Station舎が完成、南北自由通路の供用を開始した。\n\n二俣 Lineからの直通列車が東海道本 Lineを跨いでいたガーダー橋橋脚と築堤が残されている。但し東海道本 Line上を跨いでいた橋は撤去されている。",
+            "JR東海": "side platforman island platform layoutとisland platforman island platform layout、計an island platform layoutのホームを有する地上 Station。南側の3番 Lineはほとんど使用されておらず、2021年3月改正ダイヤ時点では18:54発豊橋行のみ3番 Lineに入 Lineしている。ホームには発車標はなく、ベンチと自動販売機が設置されている。以前は待合室や植え込みがあったが、撤去された。互いのホームは跨 Line橋で連絡している。\n\n東海交通事業社員が業務を担当するbusiness-consignment Stationで、鷲津 Stationが当 Stationを管理している。昼間でも窓口をsuspendedする時間帯がある。JR全 Lineきっぷうりば・自動ticket gate機設置 Station。\n\nのりば \n\n（出典：JR東海: Station構内図）",
+            "天竜浜名湖鉄道": "side platforman island platform layoutを有する地上 Station。直営 Stationである。自動券売機が1台設置されている。\n\n Station舎内でうなぎ屋が日中に営業しており、待合室とホーム側の窓口で Station弁（うな丼）を販売している（昼食時間帯以外は、注文を受けてから調理する）。また、ticket gate口隣にイートインスペースがある。",
+            "Usage": "『静岡県統計年鑑』によると、近年のdaily averageboarding passengersは以下の通りである。",
+            "Surrounding area": " Stationができるまでは、旧新所村の入会地の原野で Station名の由来になる。ほとんど開発されなかったが、1980年代後半以降、 Station周辺は住宅地や商業地の開発が進み、隣接 Stationの二川 Station周辺よりも賑やかである。\n\n Station南側は土地区画整理事業が行われ、また併せて橋上 Station舎が完成、 Stationの南北間は自由通路がopenedされたことで往来がしやすくなった。\n\n愛知県道・静岡県道3号豊橋湖西 Lineは Station前から200mほどで愛知県豊橋市に至り、利用圏に含まれる。",
+            "レンゴー豊橋工場": "有楽製菓豊橋夢工場（直売店併設）",
+            "Bus routes": "湖西市コミュニティバス「コーちゃんバス」\n白須賀岡崎 Line：JA白須賀支店・おんやど白須賀・湖西病院方面\n岡崎循環 Line：岡崎小学校東・大森 Station・神座・湖西病院方面\n岡崎鷲津 Line：浜名病院・アメニティプラザ・鷲津 Station・湖西病院方面\nかつては遠鉄バス新所原 Lineが Station周辺を通っていた。",
+            "Adjacent stations": "東海旅客鉄道（JR東海）",
+            "東海道本 Line": "特別快速・新快速・快速・区間快速・普通（快速は上りのみ、新快速は下りのみ運転）\n\n 鷲津 Station (CA39) - 新所原 Station (CA40) - 二川 Station (CA41)",
+            "天竜浜名湖 Line": "アスモ前 Station - 新所原 Station",
+            "日本の都道府県の東西南北端の駅の一覧": "東海道 Line (静岡地区)",
+            "Railway stations in 静岡県": "This is a Wikipedia category section for Railway stations in 静岡県.",
+            "Railway stations in 1936年開業": "This is a Wikipedia category section for Railway stations in 1936年開業."
+          },
+          "全文": "Shinjohara Station is a station on the JR Central Tōkaidō Main Line and the Tenryū Hamanako Line, located in Kosai, Shizuoka Prefecture, Japan.\n\nOverview\n静岡県最西端の Stationである。JR東海管内の東海道本 Lineの起点、かつ静岡県最東端の Stationである熱海 Stationまでの営業キロは177.8kmに及ぶ。\n\nJR東海の境界 Stationにあたり、当 Station以東浜松方面は静岡支社の管轄となり、上り場内信号機から豊橋方面が東海鉄道事業本部直轄エリアとなる。\n\n天竜浜名湖 Lineの前身は日本国有鉄道（国鉄）二俣 Lineで、1987年3月14日までの間、二俣 Lineの一部列車（末期はキハ20形気動車）が豊橋 Stationまで直通運転を行っていた。\n\n構内に静岡県と愛知県の境があり、以前はホームに「県境の Station」と記された看板があった。県境はホーム西端よりさらに豊橋側を横切っている。\n\nHistory\n1936年(1936)\n 2月13日：東海道本 Lineの鷲津 - 二川間に新所原仮信号場opened。\n 12月1日：二俣西 Lineが新所原 - 三ヶ日で開通すると同時に Stationに昇格、新所原 StationOpened.一般 Station。\n 1940年(1940)6月1日： Line路名称改定。二俣西 Lineが二俣 Lineの一部となる。\n 1971年(1971)4月26日：貨物の取扱をclosed。\n 1984年(1984)2月1日：荷物の取扱をclosed。\n 1987年(1987)\n 3月15日：二俣 Lineが第三セクター化、天竜浜名湖鉄道に転換。\n 4月1日：国鉄分割民営化に伴い、国鉄の Stationは東海旅客鉄道（JR東海）の Stationとなる。\n 2008年(2008)3月1日：JR東海の StationでICカード「TOICA」の利用が可能となる。\n 2016年(2016)11月27日：JR東海の Stationで橋上 Station舎及び南北自由通路の供用を開始。\n\nStation layout\nかつてはan island platform layoutだったが、二俣 Lineの経営移管に伴い天竜浜名湖鉄道天浜 Line Station舎が分離新設され、旧1番 Lineが天浜 Lineとなり、旧2番 Lineはclosed（東側は保 Line車両の留置 Line、西側は撤去）されフェンスが設置されている。天浜 Lineの西端には、JR東海東海道本 Lineへの渡り Lineが設けられている。\n2015年2月7日まで、西側のJR東海東海道本 Lineの Station舎は青基調の平屋建てで、天浜 Lineとの連絡ticket gate（TOICA対応簡易型自動ticket gate）もあった。東側の天浜 Lineは白基調の2階建てである。 Station改良工事に伴いJR東海の Station舎は解体されており、その西側に設けられた仮設 Station舎が2015年2月8日から2016年11月26日まで、利用し、これにより、JR東海と天竜浜名湖鉄道の Station舎が別々となった。\n\nJR東海は北口のみであったことから、2012年から橋上 Station舎・南北自由通路の建設、 Station前広場の整備などが一体となった「新所原 Station周辺整備事業」が開始された。この事業により2016年11月27日よりに橋上 Station舎が完成、南北自由通路の供用を開始した。\n\n二俣 Lineからの直通列車が東海道本 Lineを跨いでいたガーダー橋橋脚と築堤が残されている。但し東海道本 Line上を跨いでいた橋は撤去されている。\n\nJR東海\nside platforman island platform layoutとisland platforman island platform layout、計an island platform layoutのホームを有する地上 Station。南側の3番 Lineはほとんど使用されておらず、2021年3月改正ダイヤ時点では18:54発豊橋行のみ3番 Lineに入 Lineしている。ホームには発車標はなく、ベンチと自動販売機が設置されている。以前は待合室や植え込みがあったが、撤去された。互いのホームは跨 Line橋で連絡している。\n\n東海交通事業社員が業務を担当するbusiness-consignment Stationで、鷲津 Stationが当 Stationを管理している。昼間でも窓口をsuspendedする時間帯がある。JR全 Lineきっぷうりば・自動ticket gate機設置 Station。\n\nのりば \n\n（出典：JR東海: Station構内図）\n\n天竜浜名湖鉄道\nside platforman island platform layoutを有する地上 Station。直営 Stationである。自動券売機が1台設置されている。\n\n Station舎内でうなぎ屋が日中に営業しており、待合室とホーム側の窓口で Station弁（うな丼）を販売している（昼食時間帯以外は、注文を受けてから調理する）。また、ticket gate口隣にイートインスペースがある。\n\nUsage\n『静岡県統計年鑑』によると、近年のdaily averageboarding passengersは以下の通りである。\n\nSurrounding area\n Stationができるまでは、旧新所村の入会地の原野で Station名の由来になる。ほとんど開発されなかったが、1980年代後半以降、 Station周辺は住宅地や商業地の開発が進み、隣接 Stationの二川 Station周辺よりも賑やかである。\n\n Station南側は土地区画整理事業が行われ、また併せて橋上 Station舎が完成、 Stationの南北間は自由通路がopenedされたことで往来がしやすくなった。\n\n愛知県道・静岡県道3号豊橋湖西 Lineは Station前から200mほどで愛知県豊橋市に至り、利用圏に含まれる。\n\nレンゴー豊橋工場\n有楽製菓豊橋夢工場（直売店併設）\n\nBus routes\n湖西市コミュニティバス「コーちゃんバス」\n白須賀岡崎 Line：JA白須賀支店・おんやど白須賀・湖西病院方面\n岡崎循環 Line：岡崎小学校東・大森 Station・神座・湖西病院方面\n岡崎鷲津 Line：浜名病院・アメニティプラザ・鷲津 Station・湖西病院方面\nかつては遠鉄バス新所原 Lineが Station周辺を通っていた。\n\nAdjacent stations\n東海旅客鉄道（JR東海）\n\n東海道本 Line\n特別快速・新快速・快速・区間快速・普通（快速は上りのみ、新快速は下りのみ運転）\n\n 鷲津 Station (CA39) - 新所原 Station (CA40) - 二川 Station (CA41)\n\n天竜浜名湖 Line\nアスモ前 Station - 新所原 Station\n\n日本の都道府県の東西南北端の駅の一覧\n東海道 Line (静岡地区)\n\nRailway stations in 静岡県\nThis is a Wikipedia category section for Railway stations in 静岡県.\n\nRailway stations in 1936年開業\nThis is a Wikipedia category section for Railway stations in 1936年開業.",
+          "字数": 3293
         }
       },
       "结构化信息": {
@@ -1886,9 +2102,17 @@
           "词条标题": "Higashi-Tsuzuki Station",
           "链接": "https://en.wikipedia.org/wiki/Higashi-Tsuzuki_Station",
           "首段": "Higashi-Tsuzuki Station is a station on the Tenryū Hamanako Line, located in Hamamatsu, Shizuoka Prefecture, Japan.",
-          "章节": {},
-          "全文": "Higashi-Tsuzuki Station is a station on the Tenryū Hamanako Line, located in Hamamatsu, Shizuoka Prefecture, Japan.",
-          "字数": 115
+          "章节": {
+            "History": "1953年(1953)7月8日：日本国有鉄道二俣 Lineの仮停車場としてOpened.\n 1955年(1955)5月6日： Stationに昇格。\n 1987年(1987)3月15日：天竜浜名湖鉄道に転換。",
+            "Station layout": "side platforman island platform layoutの地上 Station。無 people Stationで、ホーム上に待合室がある。周囲よりホームの位置は高く、スロープはない。\n\n Station前にみかんの形をしたrestroomがある。",
+            "Usage": "近年のboarding passengersは以下の通りである。",
+            "Surrounding area": "隣の都築 Stationにかけて都築の中心部で商店などが点在する。 Station南方・南西方には浜名湖畔の保養施設・行楽施設が集まり、当 Stationは奥浜名湖観光の拠点の一つにもなっている。また、東名高速道路三ヶ日インターチェンジに近いことから、高速バス関係施設や工場などが立地している。",
+            "はまなこ病院": "遠鉄バス40気賀三ヶ日 Line「東都筑」停留所 - 浜松 Station行（気賀 Station前に寄らず）、三ヶ日車庫行",
+            "天竜浜名湖 Line": "浜名湖佐久米 Station - 東都筑 Station - 都筑 Station",
+            "Railway stations in 浜松市北区": "This is a Wikipedia category section for Railway stations in 浜松市北区."
+          },
+          "全文": "Higashi-Tsuzuki Station is a station on the Tenryū Hamanako Line, located in Hamamatsu, Shizuoka Prefecture, Japan.\n\nHistory\n1953年(1953)7月8日：日本国有鉄道二俣 Lineの仮停車場としてOpened.\n 1955年(1955)5月6日： Stationに昇格。\n 1987年(1987)3月15日：天竜浜名湖鉄道に転換。\n\nStation layout\nside platforman island platform layoutの地上 Station。無 people Stationで、ホーム上に待合室がある。周囲よりホームの位置は高く、スロープはない。\n\n Station前にみかんの形をしたrestroomがある。\n\nUsage\n近年のboarding passengersは以下の通りである。\n\nSurrounding area\n隣の都築 Stationにかけて都築の中心部で商店などが点在する。 Station南方・南西方には浜名湖畔の保養施設・行楽施設が集まり、当 Stationは奥浜名湖観光の拠点の一つにもなっている。また、東名高速道路三ヶ日インターチェンジに近いことから、高速バス関係施設や工場などが立地している。\n\nはまなこ病院\n遠鉄バス40気賀三ヶ日 Line「東都筑」停留所 - 浜松 Station行（気賀 Station前に寄らず）、三ヶ日車庫行\n\n天竜浜名湖 Line\n浜名湖佐久米 Station - 東都筑 Station - 都筑 Station\n\nRailway stations in 浜松市北区\nThis is a Wikipedia category section for Railway stations in 浜松市北区.",
+          "字数": 806
         }
       },
       "结构化信息": {
@@ -2007,9 +2231,16 @@
           "词条标题": "Morimachi-Byōin-mae Station",
           "链接": "https://en.wikipedia.org/wiki/Morimachi-Byōin-mae_Station",
           "首段": "Morimachi-Byōin-mae Station is a station on the Tenryū Hamanako Line, located in Morimachi, Shizuoka Prefecture, Japan.",
-          "章节": {},
-          "全文": "Morimachi-Byōin-mae Station is a station on the Tenryū Hamanako Line, located in Morimachi, Shizuoka Prefecture, Japan.",
-          "字数": 119
+          "章节": {
+            "History": "当 Stationは公立森町病院への最寄 Stationとして、また森町文化会館などの公共施設が集積しており、利便性向上を図って森町が天竜浜名湖鉄道に設置を要望した請願 Stationである。総事業費は約1億5,000万円。",
+            "Chronology": "2015年(2015)3月14日：天竜浜名湖 Lineの新 Stationとして遠州森 - 円田間に新設Opened.",
+            "Station layout": "side platforman island platform layoutを有する地上 Station。無 people Stationであり、木造の待合室が設けられている。ホームの有効長は約40m。\n\n Station南側には駐車場（24台分）および駐輪場（20台分）とrestroomが設けられている。",
+            "Usage": "近年のboarding passengersは以下の通りである。（2014fiscal yearはopenedからfiscal year末までの18日間の利用 people数）",
+            "天竜浜名湖 Line": "遠州森 Station - 森町病院前 Station - 円田 Station",
+            "静岡県森町の交通": "This is a Wikipedia category section for 静岡県森町の交通."
+          },
+          "全文": "Morimachi-Byōin-mae Station is a station on the Tenryū Hamanako Line, located in Morimachi, Shizuoka Prefecture, Japan.\n\nHistory\n当 Stationは公立森町病院への最寄 Stationとして、また森町文化会館などの公共施設が集積しており、利便性向上を図って森町が天竜浜名湖鉄道に設置を要望した請願 Stationである。総事業費は約1億5,000万円。\n\nChronology\n2015年(2015)3月14日：天竜浜名湖 Lineの新 Stationとして遠州森 - 円田間に新設Opened.\n\nStation layout\nside platforman island platform layoutを有する地上 Station。無 people Stationであり、木造の待合室が設けられている。ホームの有効長は約40m。\n\n Station南側には駐車場（24台分）および駐輪場（20台分）とrestroomが設けられている。\n\nUsage\n近年のboarding passengersは以下の通りである。（2014fiscal yearはopenedからfiscal year末までの18日間の利用 people数）\n\n天竜浜名湖 Line\n遠州森 Station - 森町病院前 Station - 円田 Station\n\n静岡県森町の交通\nThis is a Wikipedia category section for 静岡県森町の交通.",
+          "字数": 694
         }
       },
       "结构化信息": {
@@ -2086,9 +2317,19 @@
           "词条标题": "Kiga Station",
           "链接": "https://en.wikipedia.org/wiki/Kiga%20Station",
           "首段": "is a railway station in Kita-ku, Hamamatsu,  Shizuoka Prefecture, Japan, operated by the third sector Tenryū Hamanako Railroad.",
-          "章节": {},
-          "全文": "is a railway station in Kita-ku, Hamamatsu,  Shizuoka Prefecture, Japan, operated by the third sector Tenryū Hamanako Railroad.",
-          "字数": 127
+          "章节": {
+            "History": "1938年(1938)4月1日：国鉄二俣西 Lineの StationとしてOpened.旅客・貨物の取扱を開始。\n 1970年(1970)6月1日：貨物の取扱をclosed。\n 1987年(1987)3月15日：二俣 Lineの第三セクター化で天竜浜名湖鉄道の Stationとなる。\n 2009年(2009)11月1日：無 people化。\n 2011年(2011)1月26日：本屋、上屋およびプラットホームが登録有形文化財として登録される。\n 2022年(2022)6月8日：『AKB48✕天浜 Line』コラボ企画として、AKB48メンバーの村山彩希が命名した「てあらいうがい消どく Station」を副 Station名として付けられる（～9月30日）。",
+            "Station layout": "side platforman island platform layoutの地上 Station。無 people Stationである。かつてはan island platform layoutの交換 Stationで、ホーム上屋に面影が残る。北西寄りに木造モルタル建の Station舎を有し、 Station舎には飲食店「中華屋 貴長」が入居している。\n\n気賀町高架橋、気賀 Station本屋、気賀 Station上屋およびプラットホームの3施設が、国の登録有形文化財として登録されている。",
+            "Usage": "近年のboarding passengersは以下の通りである。",
+            "Surrounding area": "住宅が多い。\n 浜松市北区役所（旧 細江町役場）",
+            "気賀関所": "浜松市姫街道と銅鐸の歴史民俗資料館 - 姫街道という名前が文献に登場するのは幕末近くになってから。もともと姫街道は、本坂峠を越える道だったことから「本坂通」と呼ばれ、古代から存在していたと伝えられている。寛永年間（1624年 - 1644年）に入ると、本街道である東海道を利用する peopleが増えて、本坂通は徐々に寂れて行くことになるが、宝永の大地震をきっかけに再び往来数が激増した。以後は、参勤交代の大名行列も本坂通を通るようになった。",
+            "Bus routes": "当 Stationすぐ裏手には遠鉄バスの細江営業所が立地する。\n\n最寄りbus stopは気賀 Station前であり、発着するバスは以下の通り。\n\n 40気賀三ヶ日 Lineのうち三ヶ日発着系統は、かつて朝一本だけ存在した気賀 Station前発三ヶ日車庫ゆきを除いて当bus stopを通らないため、当 Stationより徒歩数分の片町bus stopもしくは本陣前公園bus stopからとなる。\n かつては上表の各系統や前述した気賀 Station前発三ヶ日車庫ゆき以外にも舘山寺気賀 Lineや朝一本の浜名湖レークサイドプラザ発舘山寺温泉ゆきの遠鉄バスが気賀 Station前bus stopを発着していた。特に後者は気賀 Station前bus stopを始終点とはせず、気賀 Station前の次はこの便専用の遠鉄細江営業所bus stopに停車していた。",
+            "天竜浜名湖 Line": "岡地 Station - 気賀 Station - 西気賀 Station",
+            "Railway stations in 浜松市北区": "This is a Wikipedia category section for Railway stations in 浜松市北区.",
+            "Railway stations in 1938年開業": "This is a Wikipedia category section for Railway stations in 1938年開業."
+          },
+          "全文": "is a railway station in Kita-ku, Hamamatsu,  Shizuoka Prefecture, Japan, operated by the third sector Tenryū Hamanako Railroad.\n\nHistory\n1938年(1938)4月1日：国鉄二俣西 Lineの StationとしてOpened.旅客・貨物の取扱を開始。\n 1970年(1970)6月1日：貨物の取扱をclosed。\n 1987年(1987)3月15日：二俣 Lineの第三セクター化で天竜浜名湖鉄道の Stationとなる。\n 2009年(2009)11月1日：無 people化。\n 2011年(2011)1月26日：本屋、上屋およびプラットホームが登録有形文化財として登録される。\n 2022年(2022)6月8日：『AKB48✕天浜 Line』コラボ企画として、AKB48メンバーの村山彩希が命名した「てあらいうがい消どく Station」を副 Station名として付けられる（～9月30日）。\n\nStation layout\nside platforman island platform layoutの地上 Station。無 people Stationである。かつてはan island platform layoutの交換 Stationで、ホーム上屋に面影が残る。北西寄りに木造モルタル建の Station舎を有し、 Station舎には飲食店「中華屋 貴長」が入居している。\n\n気賀町高架橋、気賀 Station本屋、気賀 Station上屋およびプラットホームの3施設が、国の登録有形文化財として登録されている。\n\nUsage\n近年のboarding passengersは以下の通りである。\n\nSurrounding area\n住宅が多い。\n 浜松市北区役所（旧 細江町役場）\n\n気賀関所\n浜松市姫街道と銅鐸の歴史民俗資料館 - 姫街道という名前が文献に登場するのは幕末近くになってから。もともと姫街道は、本坂峠を越える道だったことから「本坂通」と呼ばれ、古代から存在していたと伝えられている。寛永年間（1624年 - 1644年）に入ると、本街道である東海道を利用する peopleが増えて、本坂通は徐々に寂れて行くことになるが、宝永の大地震をきっかけに再び往来数が激増した。以後は、参勤交代の大名行列も本坂通を通るようになった。\n\nBus routes\n当 Stationすぐ裏手には遠鉄バスの細江営業所が立地する。\n\n最寄りbus stopは気賀 Station前であり、発着するバスは以下の通り。\n\n 40気賀三ヶ日 Lineのうち三ヶ日発着系統は、かつて朝一本だけ存在した気賀 Station前発三ヶ日車庫ゆきを除いて当bus stopを通らないため、当 Stationより徒歩数分の片町bus stopもしくは本陣前公園bus stopからとなる。\n かつては上表の各系統や前述した気賀 Station前発三ヶ日車庫ゆき以外にも舘山寺気賀 Lineや朝一本の浜名湖レークサイドプラザ発舘山寺温泉ゆきの遠鉄バスが気賀 Station前bus stopを発着していた。特に後者は気賀 Station前bus stopを始終点とはせず、気賀 Station前の次はこの便専用の遠鉄細江営業所bus stopに停車していた。\n\n天竜浜名湖 Line\n岡地 Station - 気賀 Station - 西気賀 Station\n\nRailway stations in 浜松市北区\nThis is a Wikipedia category section for Railway stations in 浜松市北区.\n\nRailway stations in 1938年開業\nThis is a Wikipedia category section for Railway stations in 1938年開業.",
+          "字数": 1689
         }
       },
       "结构化信息": {
@@ -2166,9 +2407,18 @@
           "词条标题": "Hamanako-Sakume Station",
           "链接": "https://en.wikipedia.org/wiki/Hamanako-Sakume_Station",
           "首段": "Hamanako-Sakume Station is a station on the Tenryū Hamanako Line, located in Hamana Ward, Hamamatsu, Shizuoka Prefecture, Japan.",
-          "章节": {},
-          "全文": "Hamanako-Sakume Station is a station on the Tenryū Hamanako Line, located in Hamana Ward, Hamamatsu, Shizuoka Prefecture, Japan.",
-          "字数": 128
+          "章节": {
+            "History": "1938年(1938)4月1日：国鉄二俣西 Line（後の二俣 Line）金指 - 三ヶ日間extension時に佐久米 Station（さくめえき）としてOpened.旅客・貨物の取扱を開始。\n 1962年(1962)8月21日：貨物の取扱をclosed。\n 1970年(1970)6月1日：手荷物・小荷物の取扱をclosed。同時に Station員無配置 Stationとなる。\n 1987年(1987)3月15日：二俣 Lineが天竜浜名湖鉄道に転換され同社の Stationとなる。同時に浜名湖佐久米 Stationにrenamed。\n 2022年(2022)6月8日：『AKB48✕天浜 Line』コラボ企画として、AKB48メンバーの大盛真歩が命名した「恋の着地点」が副 Station名として設定される。期間は9月30日まで。\n 2023年(2023)5月19日： 副 Station名に「本を読もう　沢渡あまね」を採用。作家の沢渡あまねが代表を務める「あまねキャリア」が命名権を購入、命名した。期間は2025年3月末まで。",
+            "Station layout": "side platforman island platform layoutの地上 Station。無 people Stationだが、喫茶店「かとれあ」が入居している。 Stationは浜名湖の目の前（ Station舎反対側がすぐ湖）であるが、岸からすぐの湖上には東名高速道路が通っているため、見晴らしは良くない。冬は多数のユリカモメが間近で飛び交い、バードウォッチングで賑わう。\n\n Station前に牛の形のrestroomがある。",
+            "Usage": "近年のboarding passengersは以下の通りである。",
+            "Surrounding area": "浜名湖が目の前である。住宅は少ない。",
+            "国道362号": "東名高速道路 浜名湖SA\n 東名ハイウェイバス 浜名湖バスストップ\n 遠鉄バス40気賀三ヶ日 Line「佐久米」停留所 - 浜松 Station行（気賀 Station前に寄らず）、三ヶ日車庫行",
+            "天竜浜名湖 Line": "寸座 Station - 浜名湖佐久米 Station - 東都筑 Station",
+            "List of railway stations in Japan": "ゆるキャン△ - あfろ原作の漫画作品。単行本第5巻収録の原作第27話・第28話（アニメ版2期第3話）にて当 Stationの描写が登場する。",
+            "Railway stations in 浜松市北区": "This is a Wikipedia category section for Railway stations in 浜松市北区."
+          },
+          "全文": "Hamanako-Sakume Station is a station on the Tenryū Hamanako Line, located in Hamana Ward, Hamamatsu, Shizuoka Prefecture, Japan.\n\nHistory\n1938年(1938)4月1日：国鉄二俣西 Line（後の二俣 Line）金指 - 三ヶ日間extension時に佐久米 Station（さくめえき）としてOpened.旅客・貨物の取扱を開始。\n 1962年(1962)8月21日：貨物の取扱をclosed。\n 1970年(1970)6月1日：手荷物・小荷物の取扱をclosed。同時に Station員無配置 Stationとなる。\n 1987年(1987)3月15日：二俣 Lineが天竜浜名湖鉄道に転換され同社の Stationとなる。同時に浜名湖佐久米 Stationにrenamed。\n 2022年(2022)6月8日：『AKB48✕天浜 Line』コラボ企画として、AKB48メンバーの大盛真歩が命名した「恋の着地点」が副 Station名として設定される。期間は9月30日まで。\n 2023年(2023)5月19日： 副 Station名に「本を読もう　沢渡あまね」を採用。作家の沢渡あまねが代表を務める「あまねキャリア」が命名権を購入、命名した。期間は2025年3月末まで。\n\nStation layout\nside platforman island platform layoutの地上 Station。無 people Stationだが、喫茶店「かとれあ」が入居している。 Stationは浜名湖の目の前（ Station舎反対側がすぐ湖）であるが、岸からすぐの湖上には東名高速道路が通っているため、見晴らしは良くない。冬は多数のユリカモメが間近で飛び交い、バードウォッチングで賑わう。\n\n Station前に牛の形のrestroomがある。\n\nUsage\n近年のboarding passengersは以下の通りである。\n\nSurrounding area\n浜名湖が目の前である。住宅は少ない。\n\n国道362号\n東名高速道路 浜名湖SA\n 東名ハイウェイバス 浜名湖バスストップ\n 遠鉄バス40気賀三ヶ日 Line「佐久米」停留所 - 浜松 Station行（気賀 Station前に寄らず）、三ヶ日車庫行\n\n天竜浜名湖 Line\n寸座 Station - 浜名湖佐久米 Station - 東都筑 Station\n\nList of railway stations in Japan\nゆるキャン△ - あfろ原作の漫画作品。単行本第5巻収録の原作第27話・第28話（アニメ版2期第3話）にて当 Stationの描写が登場する。\n\nRailway stations in 浜松市北区\nThis is a Wikipedia category section for Railway stations in 浜松市北区.",
+          "字数": 1285
         }
       },
       "结构化信息": {
@@ -2239,9 +2489,16 @@
           "词条标题": "Chibata Station",
           "链接": "https://en.wikipedia.org/wiki/Chibata%20Station",
           "首段": "is a railway station in the city of Kosai, Shizuoka Prefecture, Japan, operated by the third sector Tenryū Hamanako Railroad.",
-          "章节": {},
-          "全文": "is a railway station in the city of Kosai, Shizuoka Prefecture, Japan, operated by the third sector Tenryū Hamanako Railroad.",
-          "字数": 125
+          "章节": {
+            "History": "1936年(1936)12月1日：国鉄二俣西 Line（後の二俣 Line）新所原 Station～三ヶ日 Station間開通と同時にOpened.\n 1962年(1962)8月21日：opened時から行われていた貨物の取扱をclosed。\n 1970年(1970)6月1日：手荷物・小荷物の取扱をclosed。同時に Station員無配置 Stationとなる。\n 1987年(1987)3月15日：二俣 Lineが天竜浜名湖鉄道に転換され、同社の Stationとなる。\n 1989年(1989)12月：知波田 Station歯科医院Opened.\n 2022年(2022)2月1日：Hamanoが Station名ネーミングライツを取得し、副 Station名を付した「知波田（Hamano Station） Station」とすることを発表。期間は2022年2月1日から2024年3月31日まで。",
+            "Station layout": "opposed side platformsan island platform layoutの地上 Station。無 people Stationである。 Station舎はコンクリート製で、歯科医院がテナントに入っている。\n\nのりば",
+            "Usage": "近年のboarding passengersは以下の通りである。",
+            "Surrounding area": "住宅がやや多い。",
+            "国道301号": "湖西市コミュニティバス「コーちゃんバス」知波田入出 Line「知波田 Station」停留所 - 湖西病院行",
+            "天竜浜名湖 Line": "尾奈 Station - 知波田 Station - 大森 Station"
+          },
+          "全文": "is a railway station in the city of Kosai, Shizuoka Prefecture, Japan, operated by the third sector Tenryū Hamanako Railroad.\n\nHistory\n1936年(1936)12月1日：国鉄二俣西 Line（後の二俣 Line）新所原 Station～三ヶ日 Station間開通と同時にOpened.\n 1962年(1962)8月21日：opened時から行われていた貨物の取扱をclosed。\n 1970年(1970)6月1日：手荷物・小荷物の取扱をclosed。同時に Station員無配置 Stationとなる。\n 1987年(1987)3月15日：二俣 Lineが天竜浜名湖鉄道に転換され、同社の Stationとなる。\n 1989年(1989)12月：知波田 Station歯科医院Opened.\n 2022年(2022)2月1日：Hamanoが Station名ネーミングライツを取得し、副 Station名を付した「知波田（Hamano Station） Station」とすることを発表。期間は2022年2月1日から2024年3月31日まで。\n\nStation layout\nopposed side platformsan island platform layoutの地上 Station。無 people Stationである。 Station舎はコンクリート製で、歯科医院がテナントに入っている。\n\nのりば\n\nUsage\n近年のboarding passengersは以下の通りである。\n\nSurrounding area\n住宅がやや多い。\n\n国道301号\n湖西市コミュニティバス「コーちゃんバス」知波田入出 Line「知波田 Station」停留所 - 湖西病院行\n\n天竜浜名湖 Line\n尾奈 Station - 知波田 Station - 大森 Station",
+          "字数": 856
         }
       },
       "结构化信息": {
@@ -2378,9 +2635,22 @@
           "词条标题": "Nishi-Kakegawa Station",
           "链接": "https://en.wikipedia.org/wiki/Nishi-Kakegawa_Station",
           "首段": "Nishi-Kakegawa Station is a station on the Tenryū Hamanako Line, located in Kakegawa, Shizuoka Prefecture, Japan.",
-          "章节": {},
-          "全文": "Nishi-Kakegawa Station is a station on the Tenryū Hamanako Line, located in Kakegawa, Shizuoka Prefecture, Japan.",
-          "字数": 113
+          "章节": {
+            "History": "1954年(1954)10月10日：国鉄二俣 Lineの Station（旅客 Station）としてOpened.\n 1987年(1987)3月15日：二俣 Lineが第三セクター鉄道に転換され、天竜浜名湖鉄道の Stationとなる。",
+            "Station layout": " Line路の南側にside platforman island platform layoutを有する地上 Station。無 people Stationである。ファミリーマート掛川鳥居店横の築堤上にあり、二階の高さに該当する。 Station出口とホームの間は階段で結ばれており、 Line路をくぐる旧東海道と接続している。\n\nホーム中程に待合室がある。構内restroomはないが、 Station出口前にあるつくし公園内に公衆restroomがある。また、築堤に沿う形で駐輪場が整備されている。",
+            "Usage": "近年のboarding passengersは以下の通りである。主要 Stationまで近い土地柄のため Station勢圏は狭いものの people気飲食店も抱える Station付近の商業集積地や福祉施設などのアクセス Stationとしても利用されており、比較的利用が多い。 Station勢圏は隣の掛川市役所前 Stationと一部重複する。",
+            "Surrounding area": "旧東海道（静岡県道253号掛川袋井 Line）が交差する位置にあり、古くからの住宅が多い。長谷（橘町）、大池（鳥居町、末広町）など。\n\n Station西側にはショッピングセンターや家電量販店、飲食店等のロードサイド型店舗が点在する。\n\n Line路北側（鳥居町方面）\n出口から天竜浜名湖 Lineのガードをくぐると北側に出られる。",
+            "バロー（旧オカノ）掛川店": "This is a Wikipedia category section for バロー（旧オカノ）掛川店.",
+            "特別養護老人ホームかけがわ苑": "エバーグリーン掛川（デイサービス）\n\n Line路南側（橘町、末広町方面）",
+            "掛川勤労福祉会館": "MEGAドン・キホーテUNY掛川店（旧アピタ掛川店）",
+            "Bus routes": " Stationに案内はないが、付近に3停留所ある。\n（出口前）",
+            "橘町バス停留所": "掛川市自主運行バス市街地循環 Line北回り（掛川北病院方面行き）",
+            "鳥居町バス停留所": "掛川バスサービス桜木 Line（掛川 Station前 - 坂下・ねむの木美術館前）",
+            "天竜浜名湖 Line": "掛川市役所前 Station - 西掛川 Station - 桜木 Station",
+            "Railway stations in 掛川市": "This is a Wikipedia category section for Railway stations in 掛川市."
+          },
+          "全文": "Nishi-Kakegawa Station is a station on the Tenryū Hamanako Line, located in Kakegawa, Shizuoka Prefecture, Japan.\n\nHistory\n1954年(1954)10月10日：国鉄二俣 Lineの Station（旅客 Station）としてOpened.\n 1987年(1987)3月15日：二俣 Lineが第三セクター鉄道に転換され、天竜浜名湖鉄道の Stationとなる。\n\nStation layout\n Line路の南側にside platforman island platform layoutを有する地上 Station。無 people Stationである。ファミリーマート掛川鳥居店横の築堤上にあり、二階の高さに該当する。 Station出口とホームの間は階段で結ばれており、 Line路をくぐる旧東海道と接続している。\n\nホーム中程に待合室がある。構内restroomはないが、 Station出口前にあるつくし公園内に公衆restroomがある。また、築堤に沿う形で駐輪場が整備されている。\n\nUsage\n近年のboarding passengersは以下の通りである。主要 Stationまで近い土地柄のため Station勢圏は狭いものの people気飲食店も抱える Station付近の商業集積地や福祉施設などのアクセス Stationとしても利用されており、比較的利用が多い。 Station勢圏は隣の掛川市役所前 Stationと一部重複する。\n\nSurrounding area\n旧東海道（静岡県道253号掛川袋井 Line）が交差する位置にあり、古くからの住宅が多い。長谷（橘町）、大池（鳥居町、末広町）など。\n\n Station西側にはショッピングセンターや家電量販店、飲食店等のロードサイド型店舗が点在する。\n\n Line路北側（鳥居町方面）\n出口から天竜浜名湖 Lineのガードをくぐると北側に出られる。\n\nバロー（旧オカノ）掛川店\nThis is a Wikipedia category section for バロー（旧オカノ）掛川店.\n\n特別養護老人ホームかけがわ苑\nエバーグリーン掛川（デイサービス）\n\n Line路南側（橘町、末広町方面）\n\n掛川勤労福祉会館\nMEGAドン・キホーテUNY掛川店（旧アピタ掛川店）\n\nBus routes\n Stationに案内はないが、付近に3停留所ある。\n（出口前）\n\n橘町バス停留所\n掛川市自主運行バス市街地循環 Line北回り（掛川北病院方面行き）\n\n鳥居町バス停留所\n掛川バスサービス桜木 Line（掛川 Station前 - 坂下・ねむの木美術館前）\n\n天竜浜名湖 Line\n掛川市役所前 Station - 西掛川 Station - 桜木 Station\n\nRailway stations in 掛川市\nThis is a Wikipedia category section for Railway stations in 掛川市.",
+          "字数": 1325
         }
       },
       "结构化信息": {
@@ -2459,9 +2729,18 @@
           "词条标题": "Nishi-Kiga Station",
           "链接": "https://en.wikipedia.org/wiki/Nishi-Kiga_Station",
           "首段": "Nishi-Kiga Station is a station on the Tenryū Hamanako Line, located in Hamamatsu, Shizuoka Prefecture, Japan.",
-          "章节": {},
-          "全文": "Nishi-Kiga Station is a station on the Tenryū Hamanako Line, located in Hamamatsu, Shizuoka Prefecture, Japan.",
-          "字数": 110
+          "章节": {
+            "History": "1938年(1938)4月1日：国鉄二俣西 Line（のちの二俣 Line）の StationとしてOpened.旅客・貨物の取扱を開始。\n 1962年(1962)8月21日：貨物の取扱をclosed。\n 1987年(1987)3月15日：二俣 Lineの第三セクター化で天竜浜名湖鉄道の Stationとなる。\n 2011年(2011)1月26日：本屋および待合所が登録有形文化財として登録される。\n 2022年(2022)3月1日：遠州信用金庫が Station名ネーミングライツを取得し、マスコットキャラクターの「えんちゃん」と Stationの近くのプリンス岬から命名された副 Station名を付した「西気賀（えんちゃんプリンス岬） Station」とすることを発表。期間は2022年3月1日から2024年3月31日まで。",
+            "Station layout": "opposed side platformsan island platform layoutの地上 Station。無 people Stationであるが、 Station舎には洋食店「グリル八雲」が入っている。構内踏切を挟んで斜向かいに上下ホームが位置し、列車交換が行われる。\n\n本屋および待合所が、国の登録有形文化財として登録されている。\n\nのりば",
+            "Usage": "近年のboarding passengersは以下の通りである。",
+            "Surrounding area": "浜名湖（引佐細江）\n 五味半島 - 明仁上皇が皇太子の頃、別荘があったことから、先端部を俗に「プリンス岬」と称する。",
+            "西気賀郵便局": "国道362号 - 姫街道",
+            "天竜浜名湖 Line": "気賀 Station - 西気賀 Station - 寸座 Station",
+            "Railway stations in 浜松市北区": "This is a Wikipedia category section for Railway stations in 浜松市北区.",
+            "Railway stations in 1938年開業": "This is a Wikipedia category section for Railway stations in 1938年開業."
+          },
+          "全文": "Nishi-Kiga Station is a station on the Tenryū Hamanako Line, located in Hamamatsu, Shizuoka Prefecture, Japan.\n\nHistory\n1938年(1938)4月1日：国鉄二俣西 Line（のちの二俣 Line）の StationとしてOpened.旅客・貨物の取扱を開始。\n 1962年(1962)8月21日：貨物の取扱をclosed。\n 1987年(1987)3月15日：二俣 Lineの第三セクター化で天竜浜名湖鉄道の Stationとなる。\n 2011年(2011)1月26日：本屋および待合所が登録有形文化財として登録される。\n 2022年(2022)3月1日：遠州信用金庫が Station名ネーミングライツを取得し、マスコットキャラクターの「えんちゃん」と Stationの近くのプリンス岬から命名された副 Station名を付した「西気賀（えんちゃんプリンス岬） Station」とすることを発表。期間は2022年3月1日から2024年3月31日まで。\n\nStation layout\nopposed side platformsan island platform layoutの地上 Station。無 people Stationであるが、 Station舎には洋食店「グリル八雲」が入っている。構内踏切を挟んで斜向かいに上下ホームが位置し、列車交換が行われる。\n\n本屋および待合所が、国の登録有形文化財として登録されている。\n\nのりば\n\nUsage\n近年のboarding passengersは以下の通りである。\n\nSurrounding area\n浜名湖（引佐細江）\n 五味半島 - 明仁上皇が皇太子の頃、別荘があったことから、先端部を俗に「プリンス岬」と称する。\n\n西気賀郵便局\n国道362号 - 姫街道\n\n天竜浜名湖 Line\n気賀 Station - 西気賀 Station - 寸座 Station\n\nRailway stations in 浜松市北区\nThis is a Wikipedia category section for Railway stations in 浜松市北区.\n\nRailway stations in 1938年開業\nThis is a Wikipedia category section for Railway stations in 1938年開業.",
+          "字数": 1063
         }
       },
       "结构化信息": {
@@ -2533,9 +2812,19 @@
           "词条标题": "Nishi-Kajima Station",
           "链接": "https://en.wikipedia.org/wiki/Nishi-Kajima_Station",
           "首段": "Nishi-Kajima Station is a station on the Tenryū Hamanako Line, located in Hamamatsu, Shizuoka Prefecture, Japan.",
-          "章节": {},
-          "全文": "Nishi-Kajima Station is a station on the Tenryū Hamanako Line, located in Hamamatsu, Shizuoka Prefecture, Japan.",
-          "字数": 112
+          "章节": {
+            "Origin of the station name": "最初の鹿島 Stationはopened時に磐田郡二俣町大字鹿島に設置されたのが由来。その後、二俣町の中心 Stationとして遠州二俣 Stationとrenamedされるが、国鉄二俣 Lineが建設されることになったために現在の場所にrelocatedした。この際、二俣 Lineが二俣町の中心部に遠江二俣 Station（現：天竜二俣 Station）を設置することになったため、鹿島地区の西側に当たる場所にrelocatedしたことにより遠州二俣 Stationから現在の西鹿島 Stationにrenamedされた。鹿島地区は元々大きな集落だったが、その後鹿島・南鹿島・上島などと地区が細かく割り振られたため、 Station所在地は南鹿島になっている。\n\n「鹿島」の地名は鹿が天竜川の中洲に向かって渡っていったと言う伝説に由来する。",
+            "Chronology": "1909年(1909)12月6日：大日本軌道浜松支社鹿島 Lineの鹿島 StationとしてOpened.\n 1923年(1923)4月1日：遠州二俣 Stationにrenamed。\n 1938年(1938)3月1日：国鉄二俣 Line建設に伴い、約400m南へrelocatedし西鹿島 Stationにrenamed。\n 1940年(1940)6月1日：国鉄二俣 Lineが開通。両 Lineの接続 Stationとなる。\n 1943年(1943)11月1日：遠州鉄道の管轄となる。\n 1945年終戦後？：遠鉄の本社機能が一時的にrelocated配置（1946年5月31日まで）。\n 1958年(1958)11月1日：遠鉄の気動車が国鉄二俣 Lineの遠江二俣 Stationまで乗り入れ開始。\n 1966年(1966)10月1日：遠鉄気動車の二俣 Line乗り入れがclosed。\n 1970年(1970)6月1日：国鉄 Stationでの貨物取扱をclosed。\n 1971年(1971)4月1日：国鉄 Station部分の敷地・ Station舎が遠鉄に譲渡される。国鉄の Station業務も遠鉄に委託。\n 1977年(1977)\n 12月1日： Station前バスターミナル完成。\n 12月23日：遠鉄の電車工場・車庫を遠州西ヶ崎 Stationから移設。\n 1979年(1979)4月13日頃： Station舎改築。自動列車発車時刻表示器設置。\n 1987年(1987)3月15日：国鉄二俣 Lineが第三セクター（天竜浜名湖鉄道）に転換され、国鉄の Stationは天竜浜名湖鉄道の Stationとなる。\n 2000年(2000)：中部の Station百選に選定される。\n 2009年(2009)3月30日：売店が閉店する。\n 2021年(2021)11月8日：『シン・エヴァンゲリオン劇場版』とのコラボ企画で Stationの天竜浜名湖鉄道連絡通路にアニメ装飾を実施（2022年5月31日まで）。",
+            "Station layout": "遠鉄はopposed side platformsan island platform layout（2番 Lineは短く、車両2両分の長さしかない）、天竜浜名湖鉄道はside platforman island platform layoutをそれぞれ有する地上 Station。\n\n遠鉄と天竜浜名湖鉄道の共同使用 Stationである。 Station構内の東側に Station舎、北寄りに遠鉄の車両基地（西鹿島工場・車庫）がある。遠鉄は直営 Stationであり、列車別ticket gateである。天竜浜名湖鉄道は無 people Station（事実上の遠鉄への簡易委託 Station）扱いである。遠鉄の窓口で天竜浜名湖鉄道の乗車券も購入することが可能で、自動券売機も各社ごとに設置されているが、ticket gateや集札は遠鉄 Lineの列車のみであるため天竜浜名湖鉄道の列車は車内精算となる。\n\n売店(キヨスク)があったが2009年3月30日をもって閉店した。\n\nのりば \n\n 各ホームは地下道で結ばれている。\n 地下道には天竜浜名湖 Line乗り換え客用に遠鉄 Line入出場用のナイスパス簡易ticket gate機が設置されている。\n\n 遠州鉄道の車両工場が遠州西ヶ崎 Stationからrelocatedする以前は、国鉄二俣 Lineのホームは島式2面ホームだった（relocated後は一面に改められ、使用されなくなった片面はフェンスで仕切られている）。",
+            "Usage": "遠州鉄道西鹿島 Stationの2019fiscal year（2019度）のboarding passengersは522,401 people（全18 Station中5位）、降車 people員は528,861 people（同5位）である。\n\n天竜浜名湖鉄道西鹿島 Stationの2019fiscal yearのboarding passengersは97,438 people（全38 Station中5位）、降車 people員は101,711 people（同5位）である。\n\n1980fiscal year（1980度）以降のboarding passengersおよび降車 people員は次の表のとおりである。",
+            "Surrounding area": "住宅や商店が多く、タクシー乗り場がある。天竜区の他浜北区からの利用客も多い。",
+            "Bus routes": "当 Station前はバスターミナルとなっている。停留所名は西鹿島 Station。\n\n 冬季間の特定日に定期的に運行される秋葉神社上社ゆき以外の、たこ直をはじめとする各種臨時バスは割愛。\n 西鹿島 Stationに発着する遠鉄バスは、西鹿島 Stationを始終点とするものとしないものがある。特に多くの路 Lineが鹿島 Lineに直通するような形で運行されていることが特筆できる。",
+            "鉄道 Line": "遠州岩水寺 Station（ET17） - 西鹿島 Station（ET18）",
+            "天竜浜名湖 Line": "二俣本町 Station - 西鹿島 Station - 岩水寺 Station",
+            "Railway stations in 天竜区": "This is a Wikipedia category section for Railway stations in 天竜区."
+          },
+          "全文": "Nishi-Kajima Station is a station on the Tenryū Hamanako Line, located in Hamamatsu, Shizuoka Prefecture, Japan.\n\nOrigin of the station name\n最初の鹿島 Stationはopened時に磐田郡二俣町大字鹿島に設置されたのが由来。その後、二俣町の中心 Stationとして遠州二俣 Stationとrenamedされるが、国鉄二俣 Lineが建設されることになったために現在の場所にrelocatedした。この際、二俣 Lineが二俣町の中心部に遠江二俣 Station（現：天竜二俣 Station）を設置することになったため、鹿島地区の西側に当たる場所にrelocatedしたことにより遠州二俣 Stationから現在の西鹿島 Stationにrenamedされた。鹿島地区は元々大きな集落だったが、その後鹿島・南鹿島・上島などと地区が細かく割り振られたため、 Station所在地は南鹿島になっている。\n\n「鹿島」の地名は鹿が天竜川の中洲に向かって渡っていったと言う伝説に由来する。\n\nChronology\n1909年(1909)12月6日：大日本軌道浜松支社鹿島 Lineの鹿島 StationとしてOpened.\n 1923年(1923)4月1日：遠州二俣 Stationにrenamed。\n 1938年(1938)3月1日：国鉄二俣 Line建設に伴い、約400m南へrelocatedし西鹿島 Stationにrenamed。\n 1940年(1940)6月1日：国鉄二俣 Lineが開通。両 Lineの接続 Stationとなる。\n 1943年(1943)11月1日：遠州鉄道の管轄となる。\n 1945年終戦後？：遠鉄の本社機能が一時的にrelocated配置（1946年5月31日まで）。\n 1958年(1958)11月1日：遠鉄の気動車が国鉄二俣 Lineの遠江二俣 Stationまで乗り入れ開始。\n 1966年(1966)10月1日：遠鉄気動車の二俣 Line乗り入れがclosed。\n 1970年(1970)6月1日：国鉄 Stationでの貨物取扱をclosed。\n 1971年(1971)4月1日：国鉄 Station部分の敷地・ Station舎が遠鉄に譲渡される。国鉄の Station業務も遠鉄に委託。\n 1977年(1977)\n 12月1日： Station前バスターミナル完成。\n 12月23日：遠鉄の電車工場・車庫を遠州西ヶ崎 Stationから移設。\n 1979年(1979)4月13日頃： Station舎改築。自動列車発車時刻表示器設置。\n 1987年(1987)3月15日：国鉄二俣 Lineが第三セクター（天竜浜名湖鉄道）に転換され、国鉄の Stationは天竜浜名湖鉄道の Stationとなる。\n 2000年(2000)：中部の Station百選に選定される。\n 2009年(2009)3月30日：売店が閉店する。\n 2021年(2021)11月8日：『シン・エヴァンゲリオン劇場版』とのコラボ企画で Stationの天竜浜名湖鉄道連絡通路にアニメ装飾を実施（2022年5月31日まで）。\n\nStation layout\n遠鉄はopposed side platformsan island platform layout（2番 Lineは短く、車両2両分の長さしかない）、天竜浜名湖鉄道はside platforman island platform layoutをそれぞれ有する地上 Station。\n\n遠鉄と天竜浜名湖鉄道の共同使用 Stationである。 Station構内の東側に Station舎、北寄りに遠鉄の車両基地（西鹿島工場・車庫）がある。遠鉄は直営 Stationであり、列車別ticket gateである。天竜浜名湖鉄道は無 people Station（事実上の遠鉄への簡易委託 Station）扱いである。遠鉄の窓口で天竜浜名湖鉄道の乗車券も購入することが可能で、自動券売機も各社ごとに設置されているが、ticket gateや集札は遠鉄 Lineの列車のみであるため天竜浜名湖鉄道の列車は車内精算となる。\n\n売店(キヨスク)があったが2009年3月30日をもって閉店した。\n\nのりば \n\n 各ホームは地下道で結ばれている。\n 地下道には天竜浜名湖 Line乗り換え客用に遠鉄 Line入出場用のナイスパス簡易ticket gate機が設置されている。\n\n 遠州鉄道の車両工場が遠州西ヶ崎 Stationからrelocatedする以前は、国鉄二俣 Lineのホームは島式2面ホームだった（relocated後は一面に改められ、使用されなくなった片面はフェンスで仕切られている）。\n\nUsage\n遠州鉄道西鹿島 Stationの2019fiscal year（2019度）のboarding passengersは522,401 people（全18 Station中5位）、降車 people員は528,861 people（同5位）である。\n\n天竜浜名湖鉄道西鹿島 Stationの2019fiscal yearのboarding passengersは97,438 people（全38 Station中5位）、降車 people員は101,711 people（同5位）である。\n\n1980fiscal year（1980度）以降のboarding passengersおよび降車 people員は次の表のとおりである。\n\nSurrounding area\n住宅や商店が多く、タクシー乗り場がある。天竜区の他浜北区からの利用客も多い。\n\nBus routes\n当 Station前はバスターミナルとなっている。停留所名は西鹿島 Station。\n\n 冬季間の特定日に定期的に運行される秋葉神社上社ゆき以外の、たこ直をはじめとする各種臨時バスは割愛。\n 西鹿島 Stationに発着する遠鉄バスは、西鹿島 Stationを始終点とするものとしないものがある。特に多くの路 Lineが鹿島 Lineに直通するような形で運行されていることが特筆できる。\n\n鉄道 Line\n遠州岩水寺 Station（ET17） - 西鹿島 Station（ET18）\n\n天竜浜名湖 Line\n二俣本町 Station - 西鹿島 Station - 岩水寺 Station\n\nRailway stations in 天竜区\nThis is a Wikipedia category section for Railway stations in 天竜区.",
+          "字数": 2830
         }
       },
       "结构化信息": {
@@ -2670,9 +2959,19 @@
           "词条标题": "Enshū-Mori Station",
           "链接": "https://en.wikipedia.org/wiki/Enshū-Mori_Station",
           "首段": "Enshū-Mori Station is a station on the Tenryū Hamanako Line, located in Morimachi, Shizuoka Prefecture, Japan.",
-          "章节": {},
-          "全文": "Enshū-Mori Station is a station on the Tenryū Hamanako Line, located in Morimachi, Shizuoka Prefecture, Japan.",
-          "字数": 110
+          "章节": {
+            "History": "1935年(1935)4月17日：国鉄二俣 Lineが掛川 Stationから開通、その終着 Stationの遠江森 Station（とおとうみもりえき）としてOpened.一般 Station。\n 1940年(1940)6月1日：二俣 Lineが金指 Stationまでextension。\n 1961年(1961)5月16日：遠州鉄道の気動車が西鹿島 Stationから当 Stationまで乗り入れ。\n 1966年(1966)10月1日：遠州鉄道の気動車乗り入れclosed。\n 1970年(1970)6月1日：貨物の取扱をclosed（旅客 Stationとなる）。\n 1987年(1987)3月15日：二俣 Lineが第三セクター鉄道に転換、天竜浜名湖鉄道の Stationとなる。同時に、遠州森 Stationにrenamed。\n 2011年(2011)1月26日： Station舎（本屋）および上りプラットホームが登録有形文化財として登録される。\n 2019年(2019)12月24日：ヤマハ発動機の電動アシスト自転車「PAS」（パス）ラッピング列車の出発式開催に伴い、一時的に「PAS Station」へ名称変更。\n 2022年(2022)4月1日：ヤマハモーターエレクトロニクスが Station名ネーミングライツを取得し、副 Station名を付した「遠州森（PASのふるさと森町） Station」とすることを発表。期間は2022年4月1日から2024年3月31日まで。",
+            "Station layout": "an island platform layoutのホームを有する地上 Station。やや高いところに位置する。business-consignment Stationで、古い木造の Station舎を有する。 Station舎（本屋）および上りプラットホームは、国の登録有形文化財として登録されている。\n\nのりば",
+            "Usage": "近年のboarding passengersは以下の通りである。",
+            "Surrounding area": "住宅や商店がある。",
+            "Bus routes": "森町営バスは Station前、秋葉バスサービスのbus stopは Station前の静岡銀行の前にある。\n 秋葉バスサービス - 秋葉中遠 Line\n 磐田市・袋井市・森町自主運行バス磐田 Line（運行は秋葉バスサービス、土日祝日・お盆休み・年末年始は運休）\n 森町営バス - 吉川 Line",
+            "天竜浜名湖 Line": "戸綿 Station - 遠州森 Station - 森町病院前 Station",
+            "List of railway stations in Japan": "森 Station (曖昧さ回避)",
+            "静岡県森町の交通": "This is a Wikipedia category section for 静岡県森町の交通.",
+            "Railway stations in 1935年開業": "This is a Wikipedia category section for Railway stations in 1935年開業."
+          },
+          "全文": "Enshū-Mori Station is a station on the Tenryū Hamanako Line, located in Morimachi, Shizuoka Prefecture, Japan.\n\nHistory\n1935年(1935)4月17日：国鉄二俣 Lineが掛川 Stationから開通、その終着 Stationの遠江森 Station（とおとうみもりえき）としてOpened.一般 Station。\n 1940年(1940)6月1日：二俣 Lineが金指 Stationまでextension。\n 1961年(1961)5月16日：遠州鉄道の気動車が西鹿島 Stationから当 Stationまで乗り入れ。\n 1966年(1966)10月1日：遠州鉄道の気動車乗り入れclosed。\n 1970年(1970)6月1日：貨物の取扱をclosed（旅客 Stationとなる）。\n 1987年(1987)3月15日：二俣 Lineが第三セクター鉄道に転換、天竜浜名湖鉄道の Stationとなる。同時に、遠州森 Stationにrenamed。\n 2011年(2011)1月26日： Station舎（本屋）および上りプラットホームが登録有形文化財として登録される。\n 2019年(2019)12月24日：ヤマハ発動機の電動アシスト自転車「PAS」（パス）ラッピング列車の出発式開催に伴い、一時的に「PAS Station」へ名称変更。\n 2022年(2022)4月1日：ヤマハモーターエレクトロニクスが Station名ネーミングライツを取得し、副 Station名を付した「遠州森（PASのふるさと森町） Station」とすることを発表。期間は2022年4月1日から2024年3月31日まで。\n\nStation layout\nan island platform layoutのホームを有する地上 Station。やや高いところに位置する。business-consignment Stationで、古い木造の Station舎を有する。 Station舎（本屋）および上りプラットホームは、国の登録有形文化財として登録されている。\n\nのりば\n\nUsage\n近年のboarding passengersは以下の通りである。\n\nSurrounding area\n住宅や商店がある。\n\nBus routes\n森町営バスは Station前、秋葉バスサービスのbus stopは Station前の静岡銀行の前にある。\n 秋葉バスサービス - 秋葉中遠 Line\n 磐田市・袋井市・森町自主運行バス磐田 Line（運行は秋葉バスサービス、土日祝日・お盆休み・年末年始は運休）\n 森町営バス - 吉川 Line\n\n天竜浜名湖 Line\n戸綿 Station - 遠州森 Station - 森町病院前 Station\n\nList of railway stations in Japan\n森 Station (曖昧さ回避)\n\n静岡県森町の交通\nThis is a Wikipedia category section for 静岡県森町の交通.\n\nRailway stations in 1935年開業\nThis is a Wikipedia category section for Railway stations in 1935年開業.",
+          "字数": 1438
         }
       },
       "结构化信息": {
@@ -2746,9 +3045,16 @@
           "词条标题": "Tōtōmi-Ichinomiya Station",
           "链接": "https://en.wikipedia.org/wiki/Tōtōmi-Ichinomiya_Station",
           "首段": "Tōtōmi-Ichinomiya Station is a station on the Tenryū Hamanako Line, located in Iwata, Shizuoka Prefecture, Japan.",
-          "章节": {},
-          "全文": "Tōtōmi-Ichinomiya Station is a station on the Tenryū Hamanako Line, located in Iwata, Shizuoka Prefecture, Japan.",
-          "字数": 113
+          "章节": {
+            "History": "1940年(1940)6月1日：遠江森 Station - 金指 Station間の開通時に、国鉄二俣 Lineの Station（一般 Station）としてOpened.\n 1961年(1961)5月16日：遠州鉄道の気動車が、西鹿島 Stationから当 Station経由で遠江森 Stationまで乗り入れ。\n 1962年(1962)8月21日：貨物の取扱をclosed（旅客 Stationとなる）。\n 1966年(1966)10月1日：遠州鉄道の気動車乗り入れclosed。\n 1970年(1970)6月1日：手荷物・小荷物の取扱をclosed。同時に Station員無配置 Stationとなる。\n 1987年(1987)3月15日：二俣 Lineが第三セクター鉄道に転換、天竜浜名湖鉄道の Stationとなる。\n 2011年(2011)1月26日： Station舎（本屋）が登録有形文化財として登録される。\n 2022年(2022)6月8日：『AKB48✕天浜 Line』コラボ企画として、AKB48メンバーの谷口めぐが命名した「独り言だよ Station」を副 Station名とする（～9月30日（予定））。",
+            "Station layout": "opposed side platformsan island platform layoutを有する地上 Station。木造 Station舎を有する無 people Stationである。 Station舎（本屋）は国の登録有形文化財として登録されている。\n\n Station舎には手打ち蕎麦屋（百々や）が入居している。\n\nのりば",
+            "Usage": "近年のboarding passengersは以下の通りである。",
+            "Surrounding area": " Station南側は丘、北側に住宅と田んぼがある。",
+            "天竜浜名湖 Line": "円田 Station - 遠江一宮 Station - 敷地 Station",
+            "静岡県森町の交通": "This is a Wikipedia category section for 静岡県森町の交通."
+          },
+          "全文": "Tōtōmi-Ichinomiya Station is a station on the Tenryū Hamanako Line, located in Iwata, Shizuoka Prefecture, Japan.\n\nHistory\n1940年(1940)6月1日：遠江森 Station - 金指 Station間の開通時に、国鉄二俣 Lineの Station（一般 Station）としてOpened.\n 1961年(1961)5月16日：遠州鉄道の気動車が、西鹿島 Stationから当 Station経由で遠江森 Stationまで乗り入れ。\n 1962年(1962)8月21日：貨物の取扱をclosed（旅客 Stationとなる）。\n 1966年(1966)10月1日：遠州鉄道の気動車乗り入れclosed。\n 1970年(1970)6月1日：手荷物・小荷物の取扱をclosed。同時に Station員無配置 Stationとなる。\n 1987年(1987)3月15日：二俣 Lineが第三セクター鉄道に転換、天竜浜名湖鉄道の Stationとなる。\n 2011年(2011)1月26日： Station舎（本屋）が登録有形文化財として登録される。\n 2022年(2022)6月8日：『AKB48✕天浜 Line』コラボ企画として、AKB48メンバーの谷口めぐが命名した「独り言だよ Station」を副 Station名とする（～9月30日（予定））。\n\nStation layout\nopposed side platformsan island platform layoutを有する地上 Station。木造 Station舎を有する無 people Stationである。 Station舎（本屋）は国の登録有形文化財として登録されている。\n\n Station舎には手打ち蕎麦屋（百々や）が入居している。\n\nのりば\n\nUsage\n近年のboarding passengersは以下の通りである。\n\nSurrounding area\n Station南側は丘、北側に住宅と田んぼがある。\n\n天竜浜名湖 Line\n円田 Station - 遠江一宮 Station - 敷地 Station\n\n静岡県森町の交通\nThis is a Wikipedia category section for 静岡県森町の交通.",
+          "字数": 1023
         }
       },
       "结构化信息": {
@@ -2824,9 +3130,17 @@
           "词条标题": "Miyakoda Station",
           "链接": "https://en.wikipedia.org/wiki/Miyakoda%20Station",
           "首段": "is a railway station in Kita-ku, Hamamatsu,  Shizuoka Prefecture, Japan, operated by the third sector Tenryū Hamanako Railroad.",
-          "章节": {},
-          "全文": "is a railway station in Kita-ku, Hamamatsu,  Shizuoka Prefecture, Japan, operated by the third sector Tenryū Hamanako Railroad.",
-          "字数": 127
+          "章节": {
+            "History": "1940年(1940)6月1日：遠江森 Station - 金指 Station間の開通時に、国鉄二俣 Lineの Station（一般 Station）としてOpened.\n 1970年(1970)6月1日：貨物の取扱をclosed（旅客 Stationとなる）。同時に Station員無配置 Stationとなる。\n 1987年(1987)3月15日：二俣 Lineが第三セクター鉄道に転換され、天竜浜名湖鉄道の Stationとなる。",
+            "Station layout": "side platforman island platform layoutを有する地上 Station。無 people Stationであるが Station舎があり、その中には薬局が入居していた。ドロフィーズ（※都田建設のブランド名）によって「 Stationカフェ」にリニューアルされ、同カフェは2015年(2015)5月11日にopenedした。同年、はままつ広告景観賞の部門賞とグッドデザイン賞を受賞している。\n\n元はopposed side platformsan island platform layoutを有していたが、片方のホーム・ Line路は使われていない。",
+            "Usage": "近年のboarding passengersは以下の通りである。",
+            "Surrounding area": "商店はあるが、住宅はさほど多くない。",
+            "都田駅前": "遠鉄バス-56萩丘都田 Line（テクノ・中央署経由浜松 Station行）、46・46-テ都田 Line（常葉大学・葵町経由浜松 Station行（平日開校日のみ運行）、テクノ・葵町経由浜松 Station行）",
+            "天竜浜名湖 Line": "フルーツパーク Station - 都田 Station - 常葉大学前 Station",
+            "Railway stations in 浜松市北区": "This is a Wikipedia category section for Railway stations in 浜松市北区."
+          },
+          "全文": "is a railway station in Kita-ku, Hamamatsu,  Shizuoka Prefecture, Japan, operated by the third sector Tenryū Hamanako Railroad.\n\nHistory\n1940年(1940)6月1日：遠江森 Station - 金指 Station間の開通時に、国鉄二俣 Lineの Station（一般 Station）としてOpened.\n 1970年(1970)6月1日：貨物の取扱をclosed（旅客 Stationとなる）。同時に Station員無配置 Stationとなる。\n 1987年(1987)3月15日：二俣 Lineが第三セクター鉄道に転換され、天竜浜名湖鉄道の Stationとなる。\n\nStation layout\nside platforman island platform layoutを有する地上 Station。無 people Stationであるが Station舎があり、その中には薬局が入居していた。ドロフィーズ（※都田建設のブランド名）によって「 Stationカフェ」にリニューアルされ、同カフェは2015年(2015)5月11日にopenedした。同年、はままつ広告景観賞の部門賞とグッドデザイン賞を受賞している。\n\n元はopposed side platformsan island platform layoutを有していたが、片方のホーム・ Line路は使われていない。\n\nUsage\n近年のboarding passengersは以下の通りである。\n\nSurrounding area\n商店はあるが、住宅はさほど多くない。\n\n都田駅前\n遠鉄バス-56萩丘都田 Line（テクノ・中央署経由浜松 Station行）、46・46-テ都田 Line（常葉大学・葵町経由浜松 Station行（平日開校日のみ運行）、テクノ・葵町経由浜松 Station行）\n\n天竜浜名湖 Line\nフルーツパーク Station - 都田 Station - 常葉大学前 Station\n\nRailway stations in 浜松市北区\nThis is a Wikipedia category section for Railway stations in 浜松市北区.",
+          "字数": 1009
         }
       },
       "结构化信息": {
@@ -2903,9 +3217,17 @@
           "词条标题": "Tsuzuki Station",
           "链接": "https://en.wikipedia.org/wiki/Tsuzuki%20Station",
           "首段": "is a railway station in Kita-ku, Hamamatsu,  Shizuoka Prefecture, Japan, operated by the third sector Tenryū Hamanako Railroad.",
-          "章节": {},
-          "全文": "is a railway station in Kita-ku, Hamamatsu,  Shizuoka Prefecture, Japan, operated by the third sector Tenryū Hamanako Railroad.",
-          "字数": 127
+          "章节": {
+            "History": "かつては貨物営業も行っていたため、分岐 Line跡が残っている。また現在パンの店であるところのテナントには、かつて魚屋が入っていた。\n 1938年(1938)4月1日：国鉄二俣西 Line（後の二俣 Line） 三ヶ日 Station〜金指 Station間開通と同時にOpened.旅客・貨物の取扱を開始。\n 1962年(1962)8月21日：貨物の取扱をclosed。\n 1970年(1970)6月1日：手荷物・小荷物の取扱をclosed。同時に Station員無配置 Stationとなる。\n 1987年(1987)3月15日：第三セクター鉄道に転換され、天竜浜名湖鉄道の Stationとなる。",
+            "Station layout": "side platforman island platform layoutの地上 Station。周囲とホームとの段差はない。無 people Stationであるが、 Station舎にはパンの店が入居している。\n\n旧二俣 Line時代は、opposed side platformsan island platform layoutであった。\n\n Station前に象の形をしたrestroomがある。",
+            "Usage": "近年のboarding passengersは以下の通りである。",
+            "Surrounding area": "住宅は多くない。",
+            "東名高速道路": "遠鉄バス40気賀三ヶ日 Line「野地」停留所 - 浜松 Station行（気賀 Station前に寄らず）、三ヶ日車庫行",
+            "天竜浜名湖 Line": "東都筑 Station - 都筑 Station - 三ヶ日 Station",
+            "Railway stations in 浜松市北区": "This is a Wikipedia category section for Railway stations in 浜松市北区."
+          },
+          "全文": "is a railway station in Kita-ku, Hamamatsu,  Shizuoka Prefecture, Japan, operated by the third sector Tenryū Hamanako Railroad.\n\nHistory\nかつては貨物営業も行っていたため、分岐 Line跡が残っている。また現在パンの店であるところのテナントには、かつて魚屋が入っていた。\n 1938年(1938)4月1日：国鉄二俣西 Line（後の二俣 Line） 三ヶ日 Station〜金指 Station間開通と同時にOpened.旅客・貨物の取扱を開始。\n 1962年(1962)8月21日：貨物の取扱をclosed。\n 1970年(1970)6月1日：手荷物・小荷物の取扱をclosed。同時に Station員無配置 Stationとなる。\n 1987年(1987)3月15日：第三セクター鉄道に転換され、天竜浜名湖鉄道の Stationとなる。\n\nStation layout\nside platforman island platform layoutの地上 Station。周囲とホームとの段差はない。無 people Stationであるが、 Station舎にはパンの店が入居している。\n\n旧二俣 Line時代は、opposed side platformsan island platform layoutであった。\n\n Station前に象の形をしたrestroomがある。\n\nUsage\n近年のboarding passengersは以下の通りである。\n\nSurrounding area\n住宅は多くない。\n\n東名高速道路\n遠鉄バス40気賀三ヶ日 Line「野地」停留所 - 浜松 Station行（気賀 Station前に寄らず）、三ヶ日車庫行\n\n天竜浜名湖 Line\n東都筑 Station - 都筑 Station - 三ヶ日 Station\n\nRailway stations in 浜松市北区\nThis is a Wikipedia category section for Railway stations in 浜松市北区.",
+          "字数": 943
         }
       },
       "结构化信息": {
@@ -2985,9 +3307,21 @@
           "词条标题": "Kanasashi Station",
           "链接": "https://en.wikipedia.org/wiki/Kanasashi%20Station",
           "首段": "is a railway station in Kita-ku, Hamamatsu,  Shizuoka Prefecture, Japan, operated by the third sector Tenryū Hamanako Railroad.",
-          "章节": {},
-          "全文": "is a railway station in Kita-ku, Hamamatsu,  Shizuoka Prefecture, Japan, operated by the third sector Tenryū Hamanako Railroad.",
-          "字数": 127
+          "章节": {
+            "History": "当 Stationは浜松軽便鉄道の Stationとしてopenedした。同社 Lineは1914年に当 Stationから元城 Stationまでopenedし、南は遠鉄浜松 Station、北は奥山 Stationまで路 Lineを延長した。1915年に浜松軽便鉄道は浜松鉄道に社名を変更し、その後遠州鉄道に合併し、路 Lineは奥山 Lineとなった。しかし奥山 Lineは1964年に全 Lineがclosedされた。\n\n1938年に国有鉄道二俣西 Line（後に二俣 Lineにrenamed）が当 Stationに乗り入れ、浜松鉄道と交差することになった。このような場合、通常は新たにopenedした Lineが昔からの Lineをガード等で跨ぐのだが、二俣 Lineが東海道本 Lineの非常時迂回 Lineと考えられていたためか、浜松鉄道がガードを作って二俣 Lineを越えることとなった。このガードはコンクリート製のもので、奥山 Lineclosed後も2021年に撤去されるまで当 Station西方に残っていた。",
+            "遠州鉄道": "1914年(1914)11月30日：浜松軽便鉄道（後の浜松鉄道）の StationがOpened.\n 1915年(1915)12月28日：気賀 Station（後の気賀口 Station）までextensionOpened.\n 1947年(1947)5月1日：遠州鉄道が浜松鉄道を吸収合併、同社奥山 Lineの Stationとなる。\n 1964年(1964)11月1日：奥山 Lineの遠鉄浜松 - 気賀口間廃 Lineに伴いclosed。\n\n 奥山 Line（廃 Line）\n 祝田 Station - 金指 Station - 岡地 Station",
+            "天竜浜名湖鉄道": "1938年(1938)4月1日：二俣西 Line（後の二俣 Line）が三ヶ日 Stationからextension、終着 StationとしてがOpened.一般 Station。\n 1985年(1985)3月14日：貨物の取扱をclosed。\n 1987年(1987)3月15日：二俣 Lineが第三セクター鉄道に転換され、天竜浜名湖鉄道の Stationとなる。\n 2011年(2011)1月26日：高架貯水槽、上屋およびプラットホームが登録有形文化財として登録される。",
+            "Station layout": "island platforman island platform layoutを有する地上 Station。北西寄りに Station舎がある。 Stationの南側には保 Line車両などを留置する側 Lineがあり、 Stationの西側で分岐する。1964年までは南寄りに、遠州鉄道奥山 Line（前述）のホームがあり、連絡する跨 Line橋も存在した。夜間滞泊の運用もある。有 people Stationである。\n\n高架貯水槽、上屋およびプラットホームが、国の登録有形文化財として登録されている。\n\nのりば",
+            "Freight handling": "かつて Station北側の山を通り抜けた引佐町井伊谷に磐城セメント(その後住友セメント→住友大阪セメント）浜松工場へ続く専用 Line（工場の跡地はスズキ精密工業→スズキ部品製造）が分岐していた。ここからは製造品であるセメントが、佐久間ダムなどの天竜川水系のダムの資材として発送されていた。また、 Station南東にはJA静岡経済連のサイロ施設への専用 Lineが続いており、こちらには知多 Station、食品南 Stationから飼料が到着していた。いずれの専用 Lineも1985年(1985)までにclosedとなり同時に貨物の取扱もclosedとなった。二俣 Line内では最後まで貨物取扱を行っていた。",
+            "Usage": "近年のboarding passengersは以下の通りである。",
+            "Surrounding area": " Stationの周辺は住宅地である。",
+            "国道362号": "遠鉄バス43引佐 Line・45奥山 Line「金指 Station」停留所 -  Stationから北に150mほど歩いた国道362号上にある。43・45浜松 Station行、43気賀 Station前行、45奥山行。\n 浜松市自主運行バス いなさみどりバス\n 「つつじ Line（事前登録·事前予約要）」金指 Stationbus stop - 竹平bus stopで新城市営バス本長篠 Station行に接続\n 「なおとら Line」金指 Stationbus stop（事前登録・事前予約要）",
+            "天竜浜名湖 Line": "常葉大学前 Station - 金指 Station - 岡地 Station",
+            "Railway stations in 浜松市北区": "This is a Wikipedia category section for Railway stations in 浜松市北区.",
+            "Railway stations in 1914年開業": "This is a Wikipedia category section for Railway stations in 1914年開業."
+          },
+          "全文": "is a railway station in Kita-ku, Hamamatsu,  Shizuoka Prefecture, Japan, operated by the third sector Tenryū Hamanako Railroad.\n\nHistory\n当 Stationは浜松軽便鉄道の Stationとしてopenedした。同社 Lineは1914年に当 Stationから元城 Stationまでopenedし、南は遠鉄浜松 Station、北は奥山 Stationまで路 Lineを延長した。1915年に浜松軽便鉄道は浜松鉄道に社名を変更し、その後遠州鉄道に合併し、路 Lineは奥山 Lineとなった。しかし奥山 Lineは1964年に全 Lineがclosedされた。\n\n1938年に国有鉄道二俣西 Line（後に二俣 Lineにrenamed）が当 Stationに乗り入れ、浜松鉄道と交差することになった。このような場合、通常は新たにopenedした Lineが昔からの Lineをガード等で跨ぐのだが、二俣 Lineが東海道本 Lineの非常時迂回 Lineと考えられていたためか、浜松鉄道がガードを作って二俣 Lineを越えることとなった。このガードはコンクリート製のもので、奥山 Lineclosed後も2021年に撤去されるまで当 Station西方に残っていた。\n\n遠州鉄道\n1914年(1914)11月30日：浜松軽便鉄道（後の浜松鉄道）の StationがOpened.\n 1915年(1915)12月28日：気賀 Station（後の気賀口 Station）までextensionOpened.\n 1947年(1947)5月1日：遠州鉄道が浜松鉄道を吸収合併、同社奥山 Lineの Stationとなる。\n 1964年(1964)11月1日：奥山 Lineの遠鉄浜松 - 気賀口間廃 Lineに伴いclosed。\n\n 奥山 Line（廃 Line）\n 祝田 Station - 金指 Station - 岡地 Station\n\n天竜浜名湖鉄道\n1938年(1938)4月1日：二俣西 Line（後の二俣 Line）が三ヶ日 Stationからextension、終着 StationとしてがOpened.一般 Station。\n 1985年(1985)3月14日：貨物の取扱をclosed。\n 1987年(1987)3月15日：二俣 Lineが第三セクター鉄道に転換され、天竜浜名湖鉄道の Stationとなる。\n 2011年(2011)1月26日：高架貯水槽、上屋およびプラットホームが登録有形文化財として登録される。\n\nStation layout\nisland platforman island platform layoutを有する地上 Station。北西寄りに Station舎がある。 Stationの南側には保 Line車両などを留置する側 Lineがあり、 Stationの西側で分岐する。1964年までは南寄りに、遠州鉄道奥山 Line（前述）のホームがあり、連絡する跨 Line橋も存在した。夜間滞泊の運用もある。有 people Stationである。\n\n高架貯水槽、上屋およびプラットホームが、国の登録有形文化財として登録されている。\n\nのりば\n\nFreight handling\nかつて Station北側の山を通り抜けた引佐町井伊谷に磐城セメント(その後住友セメント→住友大阪セメント）浜松工場へ続く専用 Line（工場の跡地はスズキ精密工業→スズキ部品製造）が分岐していた。ここからは製造品であるセメントが、佐久間ダムなどの天竜川水系のダムの資材として発送されていた。また、 Station南東にはJA静岡経済連のサイロ施設への専用 Lineが続いており、こちらには知多 Station、食品南 Stationから飼料が到着していた。いずれの専用 Lineも1985年(1985)までにclosedとなり同時に貨物の取扱もclosedとなった。二俣 Line内では最後まで貨物取扱を行っていた。\n\nUsage\n近年のboarding passengersは以下の通りである。\n\nSurrounding area\n Stationの周辺は住宅地である。\n\n国道362号\n遠鉄バス43引佐 Line・45奥山 Line「金指 Station」停留所 -  Stationから北に150mほど歩いた国道362号上にある。43・45浜松 Station行、43気賀 Station前行、45奥山行。\n 浜松市自主運行バス いなさみどりバス\n 「つつじ Line（事前登録·事前予約要）」金指 Stationbus stop - 竹平bus stopで新城市営バス本長篠 Station行に接続\n 「なおとら Line」金指 Stationbus stop（事前登録・事前予約要）\n\n天竜浜名湖 Line\n常葉大学前 Station - 金指 Station - 岡地 Station\n\nRailway stations in 浜松市北区\nThis is a Wikipedia category section for Railway stations in 浜松市北区.\n\nRailway stations in 1914年開業\nThis is a Wikipedia category section for Railway stations in 1914年開業.",
+          "字数": 2324
         }
       },
       "结构化信息": {

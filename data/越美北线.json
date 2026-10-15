@@ -61,9 +61,27 @@
         "词条标题": "越美北线",
         "链接": "https://ja.wikipedia.org/wiki/%E8%B6%8A%E7%BE%8E%E5%8C%97%E7%B7%9A",
         "首段": "The 越美北线 is a railway line in Japan.",
-        "章节": {},
-        "全文": "The 越美北线 is a railway line in Japan.",
-        "字数": 36
+        "章节": {
+          "Overview": "越美北 Lineは福井 Stationと岐阜県の美濃太田 Stationの間を岐阜県郡上市白鳥町石徹白（旧福井県大野郡石徹白村）を経由して結ぶ鉄道、越美 Lineの一部として建設された。福井県側はJRの路 Lineとして残っているが、岐阜県側は長良川鉄道越美南 Lineとなった。両県を結ぶ計画は果たせず、日本国有鉄道（国鉄）時代は、国鉄バスが大野市の大野三番から越美南 Lineの美濃白鳥 Station間で先行路 Lineとして大野 Lineを運行し（ただし石徹白は経由せず国道158号経由）、国鉄分割民営化後はジェイアール東海バスが九頭竜湖 Stationから先を引き継ぎ美濃白鳥 Stationとの間で季節運行を行っていた（「名金急行 Line#大野 Line」を参照）が、2002年(2002)にclosedされた。現在は福井市と大野市間の都市間輸送や九頭竜湖方面への行楽路 Lineとなっている。\n\n大野市へは1974年(1974)まで京福電気鉄道越前本 Line（現在のえちぜん鉄道勝山永平寺 Line）が大野三番の京福大野 Stationまで通じていたが、以後は越美北 Lineが唯一の鉄道路 Lineとなっている。\n\nなお、国鉄時代は北陸本 Line福井 Station - 越前花堂 Station間にある貨物 Stationの南福井 Stationを起点とし、南福井 Station - 越前花堂 Station間は北陸本 Lineとの重複区間だった。これは越美北 Lineの部分opened後に、越前花堂 Stationに北陸本 Lineのプラットホームができたことに加え、南福井 Station構内で越美北 Lineの Line路が分岐していることに由来していた。国鉄分割民営化後は越前花堂 Stationが起点とされ重複区間は解消されたが、現在でも越美北 Lineの越前花堂 Stationは北陸本 Lineから分岐したところに位置しており、その分岐部分が南福井 Station構内扱いであることも変わっていない。\n\n1960年(1960)に最初の区間がopenedした際、すでに同名となる Stationが存在していたため、福井県北部の旧国名である「越前」を冠した Stationが多い。\n\n全区間を金沢支社の福井地域鉄道部が管轄している。福井県内の旅客 Lineで唯一の非電化路 Lineである。また、福井県内にあるJR Lineの中で唯一、他府県に乗り入れていない路 Lineである。\n\n越前大野 Station - 九頭竜湖 Station間の閉塞方式はスタフ閉塞式である。2020年現在スタフ閉塞式を採用しているJR Lineは他に名松 Lineの家城 Station - 伊勢奥津 Station間だけである。\n\n2024年春に予定される北陸新幹 Line敦賀extension後は、北陸本 Lineがハピラインふくいに経営分離されるため、当路 Lineは大湊 Line・七尾 Lineとともに他のJR Lineと接続しない孤立路 Lineとなる見込みである。",
+          "路線データ": "管轄（事業種別）：西日本旅客鉄道（第一種鉄道事業者）\n 路 Line距離（営業キロ）：52.5 km\n 軌間：1,067 mm\n  Station数：22（起終点 Station含む）\n 全 Stationが越美北 Line所属 Stationで、越前花堂 Stationも歴史的経緯から北陸本 Lineではなく越美北 Lineの所属である。\n 複 Line区間：なし（全 Line単 Line）\n 電化区間：なし（全 Line非電化）\n 閉塞方式：\n 越前花堂 Station - 越前大野 Station間：特殊自動閉塞式（軌道回路検知式）\n 越前大野 Station - 九頭竜湖 Station間：スタフ閉塞式\n 運転指令所：越前大野 Station（美山 StationをRC制御）",
+          "最高速度": "越前花堂 Station - 越前東郷 Station間：80km/h\n 越前東郷 Station - 越前大野 Station間：75km/h\n 越前大野 Station - 勝原 Station間：65km/h\n 勝原 Station - 九頭竜湖 Station間：85km/h",
+          "平均通過人員": "1987fiscal year：772 people/日\n2013fiscal year：493 people/日\n2014fiscal year：463 people/日\n2015fiscal year：458 people/日\n2016fiscal year：423 people/日\n2017fiscal year：373 people/日\n2018fiscal year：378 people/日\n2019fiscal year：399 people/日\n2020fiscal year：260 people/日\n2021fiscal year : 295 people/日",
+          "Operations": "臨時列車をのぞいて普通列車のみ運転されている。越前花堂 Stationを始発・終着とする列車はなく、全列車が福井 Stationまで乗り入れている。1日に福井 Station - 越前大野 Station間は下り8本・上り7本、越前大野 Station - 九頭竜湖 Station間は下り4本・上り5本の運転で、後者の区間では4時間以上間隔が開く時間帯がある。原則としてワンマン運転が実施されているが、イベント時は車掌も乗務している。\n\n月に一度、水曜日に昼間時間帯の列車が運休となる月もあり、2011fiscal year（2011度）以降は振替輸送（越前花堂 Stationなどの一部 Stationを除いてバス代行）が実施されるようになった。\n\n2001年(2001)3月3日のダイヤ改正までは福井 Station - 越前大野 Station間で快速運転を行う列車があったが、定期列車としてはclosedされた。closed前日時点での福井 Station - 越前大野 Station間の途中停車 Stationは越前東郷 Station・市波 Station・美山 Station・越前大宮 Station・北大野 Stationであった。\n\nなお、九頭竜新緑まつりが開かれる5月中旬の土曜日・日曜日と九頭竜紅葉まつりが開かれる10月の最終土曜日・日曜日には快速列車が運転される場合があるが、運転本数や区間、停車 Stationは年によって異なる。\n\n臨時列車「おくえつ」 \n1980年(1980)10月から1997年(1997)1月まで、ゴールデンウイークや九頭竜新緑まつりが開かれる5月中旬の土曜日・日曜日、お盆休み、九頭竜紅葉まつりが開かれる10月の最終土曜日・日曜日、年末年始を中心に臨時快速列車「おくえつ」が運行された。快速列車として最後の運転となった日時点の停車 Stationは次のとおりであった。\n\n 福井 Station - （越前花堂 Station） - 越前東郷 Station - 市波 Station - 美山 Station - 越前大野 Station - （越前田野 Station） - （越前富田 Station） - （下唯野 Station） - （柿ケ島 Station） - 勝原 Station - （越前下山 Station） - 九頭竜湖 Station",
+          "（　）は上り列車のみ停車": "2007年(2007)6月30日と7月1日には全 Lineでの運転再開を記念して、臨時普通列車「おくえつ」がそれぞれ福井 Station - 越前大野 Station間で1往復運転された。",
+          "使用車両": "現在は全列車がキハ120形で運転されている。基本的に単行（1両編成）で運転されるが、福井 Station - 越前大野 Station間ではラッシュ時の一部列車は2両編成で運転されている。2020年3月のダイヤ改正まで平日朝の上り1本は3両編成で運転されていた。\n\n車体塗装はもともと白地に緑のグラデーションのブロックパターンであったが、2010年に当 Lineで運用される5両のうち3両がopened50周年を記念したラッピング車両となり、それ以外の車両は2011年に朱色5号に塗装変更された。2014年に「一乗谷 DISCOVERY PROJECT」のラッピング車両が2両が登場した。また、2018年から2019年に渡り大野市の観光PRの一環として、大野市の観光名所がラッピングされた車両が登場。2020年時点で越前大野城号、恐竜化石号、夢のかけはし号の3両が運行されている。\n\n2011年4月1日から、冬季以外も正式に年間を通じて客用ドアの開閉は手動による半自動ドア扱いとなった。\n\n過去には専用カラーのキハ52形が使用されていた時期もあり、本路 Lineからの撤退後に大糸 Lineに転じて使用された。",
+          "乗車制度の特例": "越美北 Lineが北陸本 Lineから（営業扱い上）分岐する越前花堂 Stationには大阪・名古屋・米原方面の北陸本 Line特急列車は停車しないため、越前花堂 Stationを通過する列車と越美北 Lineの六条 Station以遠との間を福井 Stationで途中下車せずに（福井 Stationのticket gate内で）乗り継ぐ場合に限り、北陸本 Lineの越前花堂 Station - 福井 Station間の往復の営業キロを含めず、越前花堂 Stationにて乗り継いだものとみなして運賃計算キロを求め運賃を算出する特例がある。敦賀・武生方面の北陸本 Line普通列車と越美北 Lineの六条 Station以遠とを乗り継ぐときは、双方の列車とも越前花堂 Stationに停車するのでこの特例は適用されない（運賃#分岐 Station通過の特例を参照）。",
+          "History": "越前花堂 Station - 勝原 Station間では1960年のopened時に実キロの1.6倍の擬制キロを採用し割増運賃が適用されたが（翌1961年4月6日の運賃改定で1.3倍に軽減）、翌年5月に国鉄新 Line建設に対し補助金が出ることになったため擬制キロによる割増運賃はclosedされた。\n\n1972年に勝原 Station - 九頭竜湖 Station間がextensionopenedしたが、土木技術の進歩で長大トンネルの掘削が可能になったことを受けた当時の国鉄は、路 Lineをなるべく直 Line化して建設費を軽減したため、川沿いを走る Line路から一変して、荒島トンネル（勝原 Station - 越前下山 Station間）・下山トンネル（越前下山 Station - 九頭竜湖 Station間）が直 Line的に山を貫いている。",
+          "Chronology": "1956年(1956)6月13日：福井 Station - 越前朝日 Station（九頭竜湖 Stationのopened前の仮称）で建設に着手。\n 1960年(1960)12月15日：南福井 Station - 勝原 Station間 (43.1km) がopenedし、越前花堂 Station・六条 Station・越前東郷 Station・一乗谷 Station・市波 Station・小和清水 Station・美山 Station・越前薬師 Station・越前大宮 Station・計石 Station・牛ケ原 Station・越前大野 Station・越前富田 Station・下唯野 Station・柿ケ島 Station・勝原 StationがOpened.南福井 Station - 越前大野 Station間で貨物営業が開始。\n 1964年(1964)5月20日：足羽 Station・越前高田 Station・越前田野 StationがOpened.\n 1965年(1965)10月15日：越前大野 Station - 勝原 Station間で貨物営業が開始。\n 1968年(1968)\n 3月25日：北大野 StationがOpened.\n 10月1日：越前富田 Station - 勝原 Station間の貨物営業がclosed。\n 1972年(1972)12月15日：勝原 Station - 九頭竜湖 Station間 (10.2km) がextensionopenedし全通。\n 1973年(1973)\n4月1日：越前大野 Station - 越前富田 Station間の貨物営業がclosed。\n5月31日：蒸気機関車運転終了\n 1982年(1982)11月15日：南福井 Station - 越前大野 Station間の貨物営業がclosedされ、全 Lineの貨物営業がclosed。\n 1987年(1987)4月1日：国鉄分割民営化により西日本旅客鉄道が継承。起点を越前花堂 Stationに変更 (-0.8km)。\n 1990年(1990)6月1日：金沢支社の管轄から越前大野鉄道部の管轄になる。ワンマン運転開始。\n 1992年(1992)\n 5月3日：キハ120形が運転開始。\n 9月1日：快速列車が運転開始。\n 1995年(1995)9月12日：「九頭竜 Line」の愛称が使用開始。\n 2001年(2001)3月3日：快速列車がclosed。\n 2004年(2004)\n 7月18日：集中豪雨（20047月福井豪雨）により橋梁が流失し全 Lineが不通となる。\n 7月20日：越前大野 - 九頭竜湖間で運行再開。\n 9月11日：越前花堂 Station - 一乗谷 Station間、美山 Station - 越前大野 Station間で運行再開。\n 2007年(2007)6月30日：一乗谷 Station - 美山 Station間で運行再開。\n 2008年(2008)6月1日：越前大野鉄道部がclosedされ、全 Lineで福井地域鉄道部管轄になる。\n 2018年(2018)3月10日：沿 Lineの国道158号が雪崩（2018豪雪）のため通行止めとなり、越美北 Lineで臨時列車を12日まで運行\n 2020年(2020)3月14日：ダイヤ改正で福井始発の特急「ダイナスター」1号との接続を図るため、越前大野始発を12分繰り上げ。\n 2023年(2023)\n 7月13日：大雨による盛土の流出、 Line路への土砂流入により全 Line運休。 \n 7月18日：福井 Station - 越前大野 Station間で代行バス運行開始。\n 7月20日：越前花堂 Station - 美山 Station間で運転再開。代行バス運行区間を美山 Station - 越前大野 Station間に変更。\n 7月29日：美山 Station - 九頭竜湖 Station間で運転再開。28日限りで代行バス運行終了。",
+          "2004年の水害およびその状況": "2004年7月18日の福井豪雨で、九頭竜川水系足羽川に架かる7つのうち5つの橋梁（第1・3・4・5・7足羽川橋梁）が流失し、越前花堂 Station - 越前大野 Station間が不通となった。全 Lineの復旧には数年を要し、新 Line建設と同程度の費用がかかるとされ、路 Line存続が危ぶまれた。",
+          "復旧工事": "福井県とJR西日本は、復旧に向けて2005年6月27日に工事協定を締結した。総工費は40億円にものぼった。橋梁復旧にはそのうちおよそ34億円を占め、約20億円は国、約10億円は県、JR西日本は約4億円をそれぞれ負担した。\n\n2005年10月17日に復旧工事に着手し、2006年9月頃に橋脚が完成、2007年1月には橋桁の設置が完了した。2007年3月6日、JR西日本金沢支社は同年6月30日に一乗谷 Station - 美山 Station間の運転を再開すると発表した。同年6月24日から25日にかけて Line路切替工事を行って、営業運転の合間に試運転が行われ、同年6月30日、豪雨災害発生以来3年ぶりに全 Line復旧した。\n\n橋脚は従来4 - 5本あったものを最低で1本に減らすなどして、河積阻害率を低下させている。架け替えた橋のうち、第1・4・5・7橋梁はトラス橋になった。流失しなかった第2・6橋梁は色が塗り替えられている。\n\n水害から丸一年となる2005年7月18日には、当時の美山町獺ケ口（現在の福井市獺ケ口町）地係の「ごっつぉさん亭」入口に、崩壊した第7足羽川橋梁の橋脚と橋桁を基に作られたモニュメント「福井豪雨の記憶」が完成し、除幕された。また福井県立歴史博物館では、メモリアル展示「水害の記憶」として、被災したレールが被災した自動車と共に展示された。",
+          "代行バス": "不通区間のうち橋梁流失のあった区間を除く、越前花堂 Station - 一乗谷 Station間、美山 Station - 越前大野 Station間は2004年9月11日に運行再開した。代行バスは一乗谷 Stationにバスの乗り入れができないため、越前東郷 Station - 美山 Station間で運行されていた。\n\n代行バスについては、不通となった当初は京福バスで運行されていたが、不通期間が長期化することや京福バスとしても要員の都合もあり、2005年6月13日から子会社である西日本ジェイアールバスへ変更された。\n変更に当たって西日本ジェイアールバスは、美山 Station構内に金沢営業所美山派出所をopenedし、車両を7台配置した。配置された7台の内、6台はいすゞ・キュービックで、残る1台はいすゞ・ジャーニーKであった。内6台は2005年3月に閉所となった水口営業所の車両であった。同時にバスポールも西日本ジェイアールバス仕様に変更された。\n\nまた、2005年にNHKBShi・BS2で放送された『列島縦断 鉄道乗りつくしの旅〜JR20000km全 Line走破〜』春編では、関口知宏が2005年4月30日のゴールである九頭竜湖 Stationを目指して列車代行バスに乗車し、番組で豪雨災害のことが簡単に紹介された。",
+          "運用車両": "越美北 Lineはキハ120形を使用し、通常5両が運用されているが、豪雨当日は福井発の始発列車のみ運転されたため、大野側（越前大野鉄道部）には車両が3両 (201,202,205) が残ったものの、福井側（福井地域鉄道部）には2両 (203,204) しか残らなかった。\n\nそのため、鳥取鉄道部から急遽廃車前提で後藤総合車両所に留置中であったキハ58形2両 (1042,1047) とキハ28形1両 (2466) が福井側の応援に入り、平日朝の通勤時間帯において運用された（夜の時間帯でも運行はしている）。\n\n2005年4月からはワンマン改造されている高岡鉄道部のキハ58-1114とキハ28-2360（高岡の前は小浜鉄道部の配置）に変更した。これは加古川 Line電化で高岡鉄道部に気動車が転属したことによる玉突きの転属である。塗装はエンジ色のままで変更はない。先頭車の方向幕には「福井⇔一乗谷」と書かれた紙を貼った。\n\nさらに、2007年4月からは、「リバイバル能登路」に使用した金沢総合車両所のキハ28-2119とキハ58-596（いずれもワンマン非改造）に変更した。3か月程度の運用であることから、先頭の方向幕は「普通」のみを掲出し、サボには「急行 EXPRESS」「能登路 NOTOJI」のシールが貼られたままであった。この車両は、試運転開始の同年6月25日から運用を外れ、同年6月30日と7月1日に運転された越美北 Line全 Line復旧記念臨時列車「おくえつ」に運用後返却された。\n\n2006年5月19日、全般検査と便所設置工事を実施するために福井側で運用されているキハ120-203をトレーラーで越前大野 Stationに搬入し、6月20日に大野側で運用されていたキハ120-205を搬出して金沢総合車両所に回送した。クレーンで搬入出をする様子は滅多にないことであり、地元の新聞やテレビでも大きく取り上げられた。\n\n順次トレーラーでの搬入出を行い、2006年末には福井側にキハ120-201と203、大野側にキハ120-202、204、205（すべて検査・便所施工済）という構成になった。",
+          "Station list": "便宜上、越前花堂側の全列車が直通する福井 Stationからの区間を記載する。\n  Station名 … （貨）：貨物専用 Station（越美北 Lineの貨物取扱はなし）\n 全列車普通列車（全 Stationに停車）\n 累計営業キロは越前花堂 Stationからのもの。\n  Line路（越美北 Lineは全 Line単 Line） … ◇・∨：列車交換可、｜：列車交換不可、∥：複 Line（北陸本 Line内）",
+          "全駅福井県内に所在": "越美北 Line内での直営 Stationは越前大野 Stationのみで、簡易委託 Stationも九頭竜湖 Stationのみである。それ以外の20 Stationはすべて無 people Stationである。",
+          "大野 Line": "美祢 Line、山口 Line、山陰本 Line - 水害による橋梁流出等（美祢 Lineは2010年、山口 Line・山陰本 Lineは2013年）からの復旧に際し、越美北 Lineと同様のスキームを導入している"
+        },
+        "全文": "The 越美北线 is a railway line in Japan.\n\nOverview\n越美北 Lineは福井 Stationと岐阜県の美濃太田 Stationの間を岐阜県郡上市白鳥町石徹白（旧福井県大野郡石徹白村）を経由して結ぶ鉄道、越美 Lineの一部として建設された。福井県側はJRの路 Lineとして残っているが、岐阜県側は長良川鉄道越美南 Lineとなった。両県を結ぶ計画は果たせず、日本国有鉄道（国鉄）時代は、国鉄バスが大野市の大野三番から越美南 Lineの美濃白鳥 Station間で先行路 Lineとして大野 Lineを運行し（ただし石徹白は経由せず国道158号経由）、国鉄分割民営化後はジェイアール東海バスが九頭竜湖 Stationから先を引き継ぎ美濃白鳥 Stationとの間で季節運行を行っていた（「名金急行 Line#大野 Line」を参照）が、2002年(2002)にclosedされた。現在は福井市と大野市間の都市間輸送や九頭竜湖方面への行楽路 Lineとなっている。\n\n大野市へは1974年(1974)まで京福電気鉄道越前本 Line（現在のえちぜん鉄道勝山永平寺 Line）が大野三番の京福大野 Stationまで通じていたが、以後は越美北 Lineが唯一の鉄道路 Lineとなっている。\n\nなお、国鉄時代は北陸本 Line福井 Station - 越前花堂 Station間にある貨物 Stationの南福井 Stationを起点とし、南福井 Station - 越前花堂 Station間は北陸本 Lineとの重複区間だった。これは越美北 Lineの部分opened後に、越前花堂 Stationに北陸本 Lineのプラットホームができたことに加え、南福井 Station構内で越美北 Lineの Line路が分岐していることに由来していた。国鉄分割民営化後は越前花堂 Stationが起点とされ重複区間は解消されたが、現在でも越美北 Lineの越前花堂 Stationは北陸本 Lineから分岐したところに位置しており、その分岐部分が南福井 Station構内扱いであることも変わっていない。\n\n1960年(1960)に最初の区間がopenedした際、すでに同名となる Stationが存在していたため、福井県北部の旧国名である「越前」を冠した Stationが多い。\n\n全区間を金沢支社の福井地域鉄道部が管轄している。福井県内の旅客 Lineで唯一の非電化路 Lineである。また、福井県内にあるJR Lineの中で唯一、他府県に乗り入れていない路 Lineである。\n\n越前大野 Station - 九頭竜湖 Station間の閉塞方式はスタフ閉塞式である。2020年現在スタフ閉塞式を採用しているJR Lineは他に名松 Lineの家城 Station - 伊勢奥津 Station間だけである。\n\n2024年春に予定される北陸新幹 Line敦賀extension後は、北陸本 Lineがハピラインふくいに経営分離されるため、当路 Lineは大湊 Line・七尾 Lineとともに他のJR Lineと接続しない孤立路 Lineとなる見込みである。\n\n路線データ\n管轄（事業種別）：西日本旅客鉄道（第一種鉄道事業者）\n 路 Line距離（営業キロ）：52.5 km\n 軌間：1,067 mm\n  Station数：22（起終点 Station含む）\n 全 Stationが越美北 Line所属 Stationで、越前花堂 Stationも歴史的経緯から北陸本 Lineではなく越美北 Lineの所属である。\n 複 Line区間：なし（全 Line単 Line）\n 電化区間：なし（全 Line非電化）\n 閉塞方式：\n 越前花堂 Station - 越前大野 Station間：特殊自動閉塞式（軌道回路検知式）\n 越前大野 Station - 九頭竜湖 Station間：スタフ閉塞式\n 運転指令所：越前大野 Station（美山 StationをRC制御）\n\n最高速度\n越前花堂 Station - 越前東郷 Station間：80km/h\n 越前東郷 Station - 越前大野 Station間：75km/h\n 越前大野 Station - 勝原 Station間：65km/h\n 勝原 Station - 九頭竜湖 Station間：85km/h\n\n平均通過人員\n1987fiscal year：772 people/日\n2013fiscal year：493 people/日\n2014fiscal year：463 people/日\n2015fiscal year：458 people/日\n2016fiscal year：423 people/日\n2017fiscal year：373 people/日\n2018fiscal year：378 people/日\n2019fiscal year：399 people/日\n2020fiscal year：260 people/日\n2021fiscal year : 295 people/日\n\nOperations\n臨時列車をのぞいて普通列車のみ運転されている。越前花堂 Stationを始発・終着とする列車はなく、全列車が福井 Stationまで乗り入れている。1日に福井 Station - 越前大野 Station間は下り8本・上り7本、越前大野 Station - 九頭竜湖 Station間は下り4本・上り5本の運転で、後者の区間では4時間以上間隔が開く時間帯がある。原則としてワンマン運転が実施されているが、イベント時は車掌も乗務している。\n\n月に一度、水曜日に昼間時間帯の列車が運休となる月もあり、2011fiscal year（2011度）以降は振替輸送（越前花堂 Stationなどの一部 Stationを除いてバス代行）が実施されるようになった。\n\n2001年(2001)3月3日のダイヤ改正までは福井 Station - 越前大野 Station間で快速運転を行う列車があったが、定期列車としてはclosedされた。closed前日時点での福井 Station - 越前大野 Station間の途中停車 Stationは越前東郷 Station・市波 Station・美山 Station・越前大宮 Station・北大野 Stationであった。\n\nなお、九頭竜新緑まつりが開かれる5月中旬の土曜日・日曜日と九頭竜紅葉まつりが開かれる10月の最終土曜日・日曜日には快速列車が運転される場合があるが、運転本数や区間、停車 Stationは年によって異なる。\n\n臨時列車「おくえつ」 \n1980年(1980)10月から1997年(1997)1月まで、ゴールデンウイークや九頭竜新緑まつりが開かれる5月中旬の土曜日・日曜日、お盆休み、九頭竜紅葉まつりが開かれる10月の最終土曜日・日曜日、年末年始を中心に臨時快速列車「おくえつ」が運行された。快速列車として最後の運転となった日時点の停車 Stationは次のとおりであった。\n\n 福井 Station - （越前花堂 Station） - 越前東郷 Station - 市波 Station - 美山 Station - 越前大野 Station - （越前田野 Station） - （越前富田 Station） - （下唯野 Station） - （柿ケ島 Station） - 勝原 Station - （越前下山 Station） - 九頭竜湖 Station\n\n（　）は上り列車のみ停車\n2007年(2007)6月30日と7月1日には全 Lineでの運転再開を記念して、臨時普通列車「おくえつ」がそれぞれ福井 Station - 越前大野 Station間で1往復運転された。\n\n使用車両\n現在は全列車がキハ120形で運転されている。基本的に単行（1両編成）で運転されるが、福井 Station - 越前大野 Station間ではラッシュ時の一部列車は2両編成で運転されている。2020年3月のダイヤ改正まで平日朝の上り1本は3両編成で運転されていた。\n\n車体塗装はもともと白地に緑のグラデーションのブロックパターンであったが、2010年に当 Lineで運用される5両のうち3両がopened50周年を記念したラッピング車両となり、それ以外の車両は2011年に朱色5号に塗装変更された。2014年に「一乗谷 DISCOVERY PROJECT」のラッピング車両が2両が登場した。また、2018年から2019年に渡り大野市の観光PRの一環として、大野市の観光名所がラッピングされた車両が登場。2020年時点で越前大野城号、恐竜化石号、夢のかけはし号の3両が運行されている。\n\n2011年4月1日から、冬季以外も正式に年間を通じて客用ドアの開閉は手動による半自動ドア扱いとなった。\n\n過去には専用カラーのキハ52形が使用されていた時期もあり、本路 Lineからの撤退後に大糸 Lineに転じて使用された。\n\n乗車制度の特例\n越美北 Lineが北陸本 Lineから（営業扱い上）分岐する越前花堂 Stationには大阪・名古屋・米原方面の北陸本 Line特急列車は停車しないため、越前花堂 Stationを通過する列車と越美北 Lineの六条 Station以遠との間を福井 Stationで途中下車せずに（福井 Stationのticket gate内で）乗り継ぐ場合に限り、北陸本 Lineの越前花堂 Station - 福井 Station間の往復の営業キロを含めず、越前花堂 Stationにて乗り継いだものとみなして運賃計算キロを求め運賃を算出する特例がある。敦賀・武生方面の北陸本 Line普通列車と越美北 Lineの六条 Station以遠とを乗り継ぐときは、双方の列車とも越前花堂 Stationに停車するのでこの特例は適用されない（運賃#分岐 Station通過の特例を参照）。\n\nHistory\n越前花堂 Station - 勝原 Station間では1960年のopened時に実キロの1.6倍の擬制キロを採用し割増運賃が適用されたが（翌1961年4月6日の運賃改定で1.3倍に軽減）、翌年5月に国鉄新 Line建設に対し補助金が出ることになったため擬制キロによる割増運賃はclosedされた。\n\n1972年に勝原 Station - 九頭竜湖 Station間がextensionopenedしたが、土木技術の進歩で長大トンネルの掘削が可能になったことを受けた当時の国鉄は、路 Lineをなるべく直 Line化して建設費を軽減したため、川沿いを走る Line路から一変して、荒島トンネル（勝原 Station - 越前下山 Station間）・下山トンネル（越前下山 Station - 九頭竜湖 Station間）が直 Line的に山を貫いている。\n\nChronology\n1956年(1956)6月13日：福井 Station - 越前朝日 Station（九頭竜湖 Stationのopened前の仮称）で建設に着手。\n 1960年(1960)12月15日：南福井 Station - 勝原 Station間 (43.1km) がopenedし、越前花堂 Station・六条 Station・越前東郷 Station・一乗谷 Station・市波 Station・小和清水 Station・美山 Station・越前薬師 Station・越前大宮 Station・計石 Station・牛ケ原 Station・越前大野 Station・越前富田 Station・下唯野 Station・柿ケ島 Station・勝原 StationがOpened.南福井 Station - 越前大野 Station間で貨物営業が開始。\n 1964年(1964)5月20日：足羽 Station・越前高田 Station・越前田野 StationがOpened.\n 1965年(1965)10月15日：越前大野 Station - 勝原 Station間で貨物営業が開始。\n 1968年(1968)\n 3月25日：北大野 StationがOpened.\n 10月1日：越前富田 Station - 勝原 Station間の貨物営業がclosed。\n 1972年(1972)12月15日：勝原 Station - 九頭竜湖 Station間 (10.2km) がextensionopenedし全通。\n 1973年(1973)\n4月1日：越前大野 Station - 越前富田 Station間の貨物営業がclosed。\n5月31日：蒸気機関車運転終了\n 1982年(1982)11月15日：南福井 Station - 越前大野 Station間の貨物営業がclosedされ、全 Lineの貨物営業がclosed。\n 1987年(1987)4月1日：国鉄分割民営化により西日本旅客鉄道が継承。起点を越前花堂 Stationに変更 (-0.8km)。\n 1990年(1990)6月1日：金沢支社の管轄から越前大野鉄道部の管轄になる。ワンマン運転開始。\n 1992年(1992)\n 5月3日：キハ120形が運転開始。\n 9月1日：快速列車が運転開始。\n 1995年(1995)9月12日：「九頭竜 Line」の愛称が使用開始。\n 2001年(2001)3月3日：快速列車がclosed。\n 2004年(2004)\n 7月18日：集中豪雨（20047月福井豪雨）により橋梁が流失し全 Lineが不通となる。\n 7月20日：越前大野 - 九頭竜湖間で運行再開。\n 9月11日：越前花堂 Station - 一乗谷 Station間、美山 Station - 越前大野 Station間で運行再開。\n 2007年(2007)6月30日：一乗谷 Station - 美山 Station間で運行再開。\n 2008年(2008)6月1日：越前大野鉄道部がclosedされ、全 Lineで福井地域鉄道部管轄になる。\n 2018年(2018)3月10日：沿 Lineの国道158号が雪崩（2018豪雪）のため通行止めとなり、越美北 Lineで臨時列車を12日まで運行\n 2020年(2020)3月14日：ダイヤ改正で福井始発の特急「ダイナスター」1号との接続を図るため、越前大野始発を12分繰り上げ。\n 2023年(2023)\n 7月13日：大雨による盛土の流出、 Line路への土砂流入により全 Line運休。 \n 7月18日：福井 Station - 越前大野 Station間で代行バス運行開始。\n 7月20日：越前花堂 Station - 美山 Station間で運転再開。代行バス運行区間を美山 Station - 越前大野 Station間に変更。\n 7月29日：美山 Station - 九頭竜湖 Station間で運転再開。28日限りで代行バス運行終了。\n\n2004年の水害およびその状況\n2004年7月18日の福井豪雨で、九頭竜川水系足羽川に架かる7つのうち5つの橋梁（第1・3・4・5・7足羽川橋梁）が流失し、越前花堂 Station - 越前大野 Station間が不通となった。全 Lineの復旧には数年を要し、新 Line建設と同程度の費用がかかるとされ、路 Line存続が危ぶまれた。\n\n復旧工事\n福井県とJR西日本は、復旧に向けて2005年6月27日に工事協定を締結した。総工費は40億円にものぼった。橋梁復旧にはそのうちおよそ34億円を占め、約20億円は国、約10億円は県、JR西日本は約4億円をそれぞれ負担した。\n\n2005年10月17日に復旧工事に着手し、2006年9月頃に橋脚が完成、2007年1月には橋桁の設置が完了した。2007年3月6日、JR西日本金沢支社は同年6月30日に一乗谷 Station - 美山 Station間の運転を再開すると発表した。同年6月24日から25日にかけて Line路切替工事を行って、営業運転の合間に試運転が行われ、同年6月30日、豪雨災害発生以来3年ぶりに全 Line復旧した。\n\n橋脚は従来4 - 5本あったものを最低で1本に減らすなどして、河積阻害率を低下させている。架け替えた橋のうち、第1・4・5・7橋梁はトラス橋になった。流失しなかった第2・6橋梁は色が塗り替えられている。\n\n水害から丸一年となる2005年7月18日には、当時の美山町獺ケ口（現在の福井市獺ケ口町）地係の「ごっつぉさん亭」入口に、崩壊した第7足羽川橋梁の橋脚と橋桁を基に作られたモニュメント「福井豪雨の記憶」が完成し、除幕された。また福井県立歴史博物館では、メモリアル展示「水害の記憶」として、被災したレールが被災した自動車と共に展示された。\n\n代行バス\n不通区間のうち橋梁流失のあった区間を除く、越前花堂 Station - 一乗谷 Station間、美山 Station - 越前大野 Station間は2004年9月11日に運行再開した。代行バスは一乗谷 Stationにバスの乗り入れができないため、越前東郷 Station - 美山 Station間で運行されていた。\n\n代行バスについては、不通となった当初は京福バスで運行されていたが、不通期間が長期化することや京福バスとしても要員の都合もあり、2005年6月13日から子会社である西日本ジェイアールバスへ変更された。\n変更に当たって西日本ジェイアールバスは、美山 Station構内に金沢営業所美山派出所をopenedし、車両を7台配置した。配置された7台の内、6台はいすゞ・キュービックで、残る1台はいすゞ・ジャーニーKであった。内6台は2005年3月に閉所となった水口営業所の車両であった。同時にバスポールも西日本ジェイアールバス仕様に変更された。\n\nまた、2005年にNHKBShi・BS2で放送された『列島縦断 鉄道乗りつくしの旅〜JR20000km全 Line走破〜』春編では、関口知宏が2005年4月30日のゴールである九頭竜湖 Stationを目指して列車代行バスに乗車し、番組で豪雨災害のことが簡単に紹介された。\n\n運用車両\n越美北 Lineはキハ120形を使用し、通常5両が運用されているが、豪雨当日は福井発の始発列車のみ運転されたため、大野側（越前大野鉄道部）には車両が3両 (201,202,205) が残ったものの、福井側（福井地域鉄道部）には2両 (203,204) しか残らなかった。\n\nそのため、鳥取鉄道部から急遽廃車前提で後藤総合車両所に留置中であったキハ58形2両 (1042,1047) とキハ28形1両 (2466) が福井側の応援に入り、平日朝の通勤時間帯において運用された（夜の時間帯でも運行はしている）。\n\n2005年4月からはワンマン改造されている高岡鉄道部のキハ58-1114とキハ28-2360（高岡の前は小浜鉄道部の配置）に変更した。これは加古川 Line電化で高岡鉄道部に気動車が転属したことによる玉突きの転属である。塗装はエンジ色のままで変更はない。先頭車の方向幕には「福井⇔一乗谷」と書かれた紙を貼った。\n\nさらに、2007年4月からは、「リバイバル能登路」に使用した金沢総合車両所のキハ28-2119とキハ58-596（いずれもワンマン非改造）に変更した。3か月程度の運用であることから、先頭の方向幕は「普通」のみを掲出し、サボには「急行 EXPRESS」「能登路 NOTOJI」のシールが貼られたままであった。この車両は、試運転開始の同年6月25日から運用を外れ、同年6月30日と7月1日に運転された越美北 Line全 Line復旧記念臨時列車「おくえつ」に運用後返却された。\n\n2006年5月19日、全般検査と便所設置工事を実施するために福井側で運用されているキハ120-203をトレーラーで越前大野 Stationに搬入し、6月20日に大野側で運用されていたキハ120-205を搬出して金沢総合車両所に回送した。クレーンで搬入出をする様子は滅多にないことであり、地元の新聞やテレビでも大きく取り上げられた。\n\n順次トレーラーでの搬入出を行い、2006年末には福井側にキハ120-201と203、大野側にキハ120-202、204、205（すべて検査・便所施工済）という構成になった。\n\nStation list\n便宜上、越前花堂側の全列車が直通する福井 Stationからの区間を記載する。\n  Station名 … （貨）：貨物専用 Station（越美北 Lineの貨物取扱はなし）\n 全列車普通列車（全 Stationに停車）\n 累計営業キロは越前花堂 Stationからのもの。\n  Line路（越美北 Lineは全 Line単 Line） … ◇・∨：列車交換可、｜：列車交換不可、∥：複 Line（北陸本 Line内）\n\n全駅福井県内に所在\n越美北 Line内での直営 Stationは越前大野 Stationのみで、簡易委託 Stationも九頭竜湖 Stationのみである。それ以外の20 Stationはすべて無 people Stationである。\n\n大野 Line\n美祢 Line、山口 Line、山陰本 Line - 水害による橋梁流出等（美祢 Lineは2010年、山口 Line・山陰本 Lineは2013年）からの復旧に際し、越美北 Lineと同様のスキームを導入している",
+        "字数": 8982
       }
     }
   },
@@ -109,9 +127,15 @@
           "词条标题": "一乗谷駅",
           "链接": "https://ja.wikipedia.org/wiki/%E4%B8%80%E4%B9%97%E8%B0%B7%E9%A7%85",
           "首段": "一乗谷駅 (一乗谷駅) is a railway station in 県福井市安波賀中島町, Japan.",
-          "章节": {},
-          "全文": "一乗谷駅 (一乗谷駅) is a railway station in 県福井市安波賀中島町, Japan.",
-          "字数": 54
+          "章节": {
+            "History": "1960年(1960)12月15日：越美北 Lineが勝原 Stationまでopenedした際に設置。 Station員無配置 Station。\n 1987年(1987)4月1日：国鉄分割民営化により西日本旅客鉄道の Stationとなる。\n 2004年(2004)\n 7月18日：豪雨により越美北 Line全 Line運転suspended。\n 9月11日：越前花堂 Station - 当 Station間で運転再開。当 Stationに相当する代行バス乗り場は約1km北西の天神橋南詰だった。\n 2007年(2007)6月30日：当 Station - 美山 Station間で運転再開。",
+            "Station layout": "九頭竜湖方面に向かって左側にside platforman island platform layoutを有する地上 Station（停留所）。\n\n福井地域鉄道部管理の無 people Stationで、opened時から簡易なホームと待合所のみとなっている。\n\n本来は停留所であるために折返し運転ができないが、2004年の豪雨災害後の部分再開時に当 Stationが福井方面からの折返し Stationとなることから暫定的に出発信号が設置された。全 Line再開前の信号切替工事で出発信号は撤去され、再び折返しができなくなった。",
+            "Surrounding area": " Station前は農地や民家となっている。 Stationから細い道を通ると福井県道31号篠尾勝山 Lineへ出る。\n 一乗谷朝倉氏遺跡（国指定特別史跡）",
+            "Adjacent stations": "西日本旅客鉄道（JR西日本）\n 九頭竜 Line（越美北 Line）\n 越前東郷 Station - 一乗谷 Station - 越前高田 Station",
+            "Railway stations in 福井市": "This is a Wikipedia category section for Railway stations in 福井市."
+          },
+          "全文": "一乗谷駅 (一乗谷駅) is a railway station in 県福井市安波賀中島町, Japan.\n\nHistory\n1960年(1960)12月15日：越美北 Lineが勝原 Stationまでopenedした際に設置。 Station員無配置 Station。\n 1987年(1987)4月1日：国鉄分割民営化により西日本旅客鉄道の Stationとなる。\n 2004年(2004)\n 7月18日：豪雨により越美北 Line全 Line運転suspended。\n 9月11日：越前花堂 Station - 当 Station間で運転再開。当 Stationに相当する代行バス乗り場は約1km北西の天神橋南詰だった。\n 2007年(2007)6月30日：当 Station - 美山 Station間で運転再開。\n\nStation layout\n九頭竜湖方面に向かって左側にside platforman island platform layoutを有する地上 Station（停留所）。\n\n福井地域鉄道部管理の無 people Stationで、opened時から簡易なホームと待合所のみとなっている。\n\n本来は停留所であるために折返し運転ができないが、2004年の豪雨災害後の部分再開時に当 Stationが福井方面からの折返し Stationとなることから暫定的に出発信号が設置された。全 Line再開前の信号切替工事で出発信号は撤去され、再び折返しができなくなった。\n\nSurrounding area\n Station前は農地や民家となっている。 Stationから細い道を通ると福井県道31号篠尾勝山 Lineへ出る。\n 一乗谷朝倉氏遺跡（国指定特別史跡）\n\nAdjacent stations\n西日本旅客鉄道（JR西日本）\n 九頭竜 Line（越美北 Line）\n 越前東郷 Station - 一乗谷 Station - 越前高田 Station\n\nRailway stations in 福井市\nThis is a Wikipedia category section for Railway stations in 福井市.",
+          "字数": 929
         }
       },
       "结构化信息": {
@@ -183,9 +207,16 @@
           "词条标题": "Shimoyuino Station",
           "链接": "https://ja.wikipedia.org/wiki/%E4%B8%8B%E5%94%AF%E9%87%8E%E9%A7%85",
           "首段": "Shimoyuino Station (下唯野駅) is a railway station in 県大野市下唯野, Japan.",
-          "章节": {},
-          "全文": "Shimoyuino Station (下唯野駅) is a railway station in 県大野市下唯野, Japan.",
-          "字数": 65
+          "章节": {
+            "Overview": "福井地域鉄道部が管理している無 people Stationで、自動券売機等の設備はない。",
+            "History": "1960年(1960)12月15日：越美北 Lineが勝原 Stationまで開通すると同時にOpened.旅客営業のみ取り扱う Station員無配置 Station。\n 1987年(1987)4月1日：国鉄分割民営化により西日本旅客鉄道の Stationとなる。\n 2004年(2004)\n 7月18日：豪雨により越美北 Line全 Line運行suspendedとなり、当 Stationも営業suspended。\n 7月20日：越前大野 Station - 九頭竜湖 Station間で列車の運行を再開したため、当 Stationも営業再開。",
+            "Station layout": "九頭竜湖方面に向かって左側にside platforman island platform layoutをもつ地上 Station（停留所）。 Stationの設備としては簡単なホームと待合所のみがあり、越前大野寄りの出入口から直接ホームに入る形である。",
+            "国道158号": "中部縦貫自動車道 荒島インターチェンジ",
+            "Adjacent stations": "西日本旅客鉄道（JR西日本）\n 九頭竜 Line（越美北 Line）\n 越前富田 Station - 下唯野 Station - 柿ケ島 Station",
+            "Railway stations in 大野市": "This is a Wikipedia category section for Railway stations in 大野市."
+          },
+          "全文": "Shimoyuino Station (下唯野駅) is a railway station in 県大野市下唯野, Japan.\n\nOverview\n福井地域鉄道部が管理している無 people Stationで、自動券売機等の設備はない。\n\nHistory\n1960年(1960)12月15日：越美北 Lineが勝原 Stationまで開通すると同時にOpened.旅客営業のみ取り扱う Station員無配置 Station。\n 1987年(1987)4月1日：国鉄分割民営化により西日本旅客鉄道の Stationとなる。\n 2004年(2004)\n 7月18日：豪雨により越美北 Line全 Line運行suspendedとなり、当 Stationも営業suspended。\n 7月20日：越前大野 Station - 九頭竜湖 Station間で列車の運行を再開したため、当 Stationも営業再開。\n\nStation layout\n九頭竜湖方面に向かって左側にside platforman island platform layoutをもつ地上 Station（停留所）。 Stationの設備としては簡単なホームと待合所のみがあり、越前大野寄りの出入口から直接ホームに入る形である。\n\n国道158号\n中部縦貫自動車道 荒島インターチェンジ\n\nAdjacent stations\n西日本旅客鉄道（JR西日本）\n 九頭竜 Line（越美北 Line）\n 越前富田 Station - 下唯野 Station - 柿ケ島 Station\n\nRailway stations in 大野市\nThis is a Wikipedia category section for Railway stations in 大野市.",
+          "字数": 765
         }
       },
       "结构化信息": {
@@ -272,9 +303,23 @@
           "词条标题": "Kuzuryūko Station",
           "链接": "https://ja.wikipedia.org/wiki/%E4%B9%9D%E9%A0%AD%E7%AB%9C%E6%B9%96%E9%A7%85",
           "首段": "Kuzuryūko Station (九頭竜湖駅) is a railway station in 県大野市朝日, Japan.",
-          "章节": {},
-          "全文": "Kuzuryūko Station (九頭竜湖駅) is a railway station in 県大野市朝日, Japan.",
-          "字数": 64
+          "章节": {
+            "History": "1972年(1972)12月15日：越美北 Lineが勝原 Stationからextensionし、その終着としてOpened.旅客営業のみ。\n 1987年(1987)\n 4月1日：国鉄分割民営化により西日本旅客鉄道の Stationとなる。\n 10月：初代 Station舎（ブロック塀造）からログハウス風の現在の Station舎に改築。\n 2004年(2004)\n 7月18日：集中豪雨（20047月福井豪雨）により営業suspended。\n 7月20日：越前大野 Stationまでの運行再開に伴い営業再開。\n 2007年(2007)6月30日：集中豪雨から3年ぶりの全 Line運転再開。\n 時期未定：簡易委託を解除し、無 people化〈予定〉。",
+            "Station layout": "車止めに向かって右側に単式an island platform layoutホームを有する地上 Station。引き上げ Lineと保守車両用の横取 Lineがある。この Stationでの夜間停泊はなく、早朝の始発列車は越前大野 Stationから回送（2021年3月12日までは、営業列車）され、反対に当 Station着の最終列車は越前大野行き最終列車となる。\n\n福井県最東端の Stationであり旧和泉村の代表 Stationである。当初の Station名は「越前朝日 Station」を計画していた（後述）。ログハウス風の Station舎を持ち、特産物直売所や観光案内所がある道の Station九頭竜（和泉ふれあい会館）が隣接している。\n\n福井地域鉄道部が管理し、道の Station九頭竜の指定管理者である「福井和泉リゾート」（旧法 people名は有限会社いずみ）が窓口業務を受託する簡易委託 Stationである。終着 Stationではあるが、乗降は無 people Station同様に扱われており、下車時はきっぷまたは整理券と運賃を車内の運賃箱に入れるか運転士に渡し、定期乗車券・青春18きっぷ・北陸おでかけパスなどは運転士に提示する。 Station舎内に自動券売機はないため、乗車券は窓口が営業中には購入できるが、不在の時間帯は乗車時に整理券を発行し下車時に精算となる。一部の時間帯ですべてのドアが開く。\n\nなお、JR西日本金沢支社は2030fiscal year（2030度）までに、当 Stationの簡易委託をclosedし、無 people Stationへ移行する方針を示している（実施時期は未定）。",
+            "輸送実績": "福井県統計年鑑デジタルアーカイブより。（1990年以降はデータなし）",
+            "Surrounding area": "道の Station九頭竜 -  Station舎に隣接。",
+            "歴史の里笛資料館": "大野市役所 住民振興室 - 旧和泉村役場の後身にあたる市窓口。",
+            "九頭竜スキー場": "中部縦貫自動車道 九頭竜インターチェンジ",
+            "大野市営バス前坂 Line": "1日7往復の運行。このうち、6時 - 7時台と15時 - 16時台のは平日のみ運行、10時 - 14時台と18時台の4往復は毎日運行だが乗車1時間前までに要予約（デマンド運行）、かつ11月21日 - 4月19日は日曜・祝日・正月三が日は運休。\n 当路 Lineを終点の家族旅行村停留所まで乗車したのち、県道127号 Lineを東に8km歩くと白鳥交通石徹白 Line（下在所停留所）に乗り継げ、長良川鉄道北濃 Stationや美濃白鳥 Stationに出ることが可能。但し、石徹白 Lineは平日・土曜日のみ運行で1日3往復のみ、かつ日中の1往復は乗車1時間前までに要予約のデマンド運行となっている。また、徒歩区間は緩やかな上り坂となっている。",
+            "大野市営バス和泉 Line": "越前大野 Stationに行く路 Lineであるが、平日午前1往復のみの運行となっている。",
+            "大野市営バス中竜 Line": "中竜方面に1日8.5往復運行されているが、経由地違いの便が存在する。一部便は要予約（デマンド運行）。1月1日 - 1月3日は運休。",
+            "Other": "列島縦断 鉄道乗りつくしの旅〜JR20000km全 Line走破〜春編のゴール（2005年4月29日、スタートは鹿児島県の枕崎 Station、同 Stationからの中継の放送は5月17日）、そして秋編（同年9月26日、ゴールは北海道の根室 Station）のスタート地点となった。\n\n本来はここから国鉄越美南 Lineの北濃 Station（当時の岐阜県郡上郡白鳥町、現在の郡上市）までの鉄道が建設され、美濃太田 Station（岐阜県美濃加茂市）と福井 Stationを結ぶ越美 Lineの中間 Stationとなるはずであったが、越美南 Lineの長良川鉄道移管などで実現しなかった。また、同 Lineの美濃白鳥 Station（当時の白鳥町）との間には国鉄バスによって大野 Lineが運行されていたが、ジェイアール東海バスへの移管後季節運行を経て、2002年10月1日に大野 Lineはclosedされた。美濃白鳥 Stationまでは国道158号経由でも約30kmの道程であり、タクシーで移動すると10,000円程度の運賃となるため、遠回りとなるが県道127号経由で大野市営バスと白鳥交通バスを乗り継ぐコースをとることも可能（#バス路 Lineを参照）。但し、いずれのルートも冬季は途中の一部区間で通行止めとなるため冬季の移動は不可である。\n\n国鉄バス時代は旧村名から越前朝日 Stationという自動車 Stationで、越美北 Lineopened前の仮称でもあった。opened時に観光目的も兼ね九頭竜湖から Station名とした、なお、九頭竜ダムからは Stationとの直 Line距離で約3キロメートルに位置している。\n\n常備券タイプの青春18きっぷが2016年(2016)冬季まで販売されていた（販売終了時、福井県内では当 Stationも含め6 Stationで販売）。かつては枚数限定のうえ、ストラップなどオマケがついてくることから people気が高く、大概、早く売り切れた。最近ではオマケは付かない。以前は青春18きっぷの通信販売も行っていたが、JRの都合により2009年冬季で終了した。",
+            "Adjacent stations": "西日本旅客鉄道（JR西日本）\n 九頭竜 Line（越美北 Line）\n 越前下山 Station - 九頭竜湖 Station",
+            "List of railway stations in Japan": "中部の Station百選 - 第2回（2000年）認定25 Stationのひとつ。",
+            "Railway stations in 大野市": "This is a Wikipedia category section for Railway stations in 大野市."
+          },
+          "全文": "Kuzuryūko Station (九頭竜湖駅) is a railway station in 県大野市朝日, Japan.\n\nHistory\n1972年(1972)12月15日：越美北 Lineが勝原 Stationからextensionし、その終着としてOpened.旅客営業のみ。\n 1987年(1987)\n 4月1日：国鉄分割民営化により西日本旅客鉄道の Stationとなる。\n 10月：初代 Station舎（ブロック塀造）からログハウス風の現在の Station舎に改築。\n 2004年(2004)\n 7月18日：集中豪雨（20047月福井豪雨）により営業suspended。\n 7月20日：越前大野 Stationまでの運行再開に伴い営業再開。\n 2007年(2007)6月30日：集中豪雨から3年ぶりの全 Line運転再開。\n 時期未定：簡易委託を解除し、無 people化〈予定〉。\n\nStation layout\n車止めに向かって右側に単式an island platform layoutホームを有する地上 Station。引き上げ Lineと保守車両用の横取 Lineがある。この Stationでの夜間停泊はなく、早朝の始発列車は越前大野 Stationから回送（2021年3月12日までは、営業列車）され、反対に当 Station着の最終列車は越前大野行き最終列車となる。\n\n福井県最東端の Stationであり旧和泉村の代表 Stationである。当初の Station名は「越前朝日 Station」を計画していた（後述）。ログハウス風の Station舎を持ち、特産物直売所や観光案内所がある道の Station九頭竜（和泉ふれあい会館）が隣接している。\n\n福井地域鉄道部が管理し、道の Station九頭竜の指定管理者である「福井和泉リゾート」（旧法 people名は有限会社いずみ）が窓口業務を受託する簡易委託 Stationである。終着 Stationではあるが、乗降は無 people Station同様に扱われており、下車時はきっぷまたは整理券と運賃を車内の運賃箱に入れるか運転士に渡し、定期乗車券・青春18きっぷ・北陸おでかけパスなどは運転士に提示する。 Station舎内に自動券売機はないため、乗車券は窓口が営業中には購入できるが、不在の時間帯は乗車時に整理券を発行し下車時に精算となる。一部の時間帯ですべてのドアが開く。\n\nなお、JR西日本金沢支社は2030fiscal year（2030度）までに、当 Stationの簡易委託をclosedし、無 people Stationへ移行する方針を示している（実施時期は未定）。\n\n輸送実績\n福井県統計年鑑デジタルアーカイブより。（1990年以降はデータなし）\n\nSurrounding area\n道の Station九頭竜 -  Station舎に隣接。\n\n歴史の里笛資料館\n大野市役所 住民振興室 - 旧和泉村役場の後身にあたる市窓口。\n\n九頭竜スキー場\n中部縦貫自動車道 九頭竜インターチェンジ\n\n大野市営バス前坂 Line\n1日7往復の運行。このうち、6時 - 7時台と15時 - 16時台のは平日のみ運行、10時 - 14時台と18時台の4往復は毎日運行だが乗車1時間前までに要予約（デマンド運行）、かつ11月21日 - 4月19日は日曜・祝日・正月三が日は運休。\n 当路 Lineを終点の家族旅行村停留所まで乗車したのち、県道127号 Lineを東に8km歩くと白鳥交通石徹白 Line（下在所停留所）に乗り継げ、長良川鉄道北濃 Stationや美濃白鳥 Stationに出ることが可能。但し、石徹白 Lineは平日・土曜日のみ運行で1日3往復のみ、かつ日中の1往復は乗車1時間前までに要予約のデマンド運行となっている。また、徒歩区間は緩やかな上り坂となっている。\n\n大野市営バス和泉 Line\n越前大野 Stationに行く路 Lineであるが、平日午前1往復のみの運行となっている。\n\n大野市営バス中竜 Line\n中竜方面に1日8.5往復運行されているが、経由地違いの便が存在する。一部便は要予約（デマンド運行）。1月1日 - 1月3日は運休。\n\nOther\n列島縦断 鉄道乗りつくしの旅〜JR20000km全 Line走破〜春編のゴール（2005年4月29日、スタートは鹿児島県の枕崎 Station、同 Stationからの中継の放送は5月17日）、そして秋編（同年9月26日、ゴールは北海道の根室 Station）のスタート地点となった。\n\n本来はここから国鉄越美南 Lineの北濃 Station（当時の岐阜県郡上郡白鳥町、現在の郡上市）までの鉄道が建設され、美濃太田 Station（岐阜県美濃加茂市）と福井 Stationを結ぶ越美 Lineの中間 Stationとなるはずであったが、越美南 Lineの長良川鉄道移管などで実現しなかった。また、同 Lineの美濃白鳥 Station（当時の白鳥町）との間には国鉄バスによって大野 Lineが運行されていたが、ジェイアール東海バスへの移管後季節運行を経て、2002年10月1日に大野 Lineはclosedされた。美濃白鳥 Stationまでは国道158号経由でも約30kmの道程であり、タクシーで移動すると10,000円程度の運賃となるため、遠回りとなるが県道127号経由で大野市営バスと白鳥交通バスを乗り継ぐコースをとることも可能（#バス路 Lineを参照）。但し、いずれのルートも冬季は途中の一部区間で通行止めとなるため冬季の移動は不可である。\n\n国鉄バス時代は旧村名から越前朝日 Stationという自動車 Stationで、越美北 Lineopened前の仮称でもあった。opened時に観光目的も兼ね九頭竜湖から Station名とした、なお、九頭竜ダムからは Stationとの直 Line距離で約3キロメートルに位置している。\n\n常備券タイプの青春18きっぷが2016年(2016)冬季まで販売されていた（販売終了時、福井県内では当 Stationも含め6 Stationで販売）。かつては枚数限定のうえ、ストラップなどオマケがついてくることから people気が高く、大概、早く売り切れた。最近ではオマケは付かない。以前は青春18きっぷの通信販売も行っていたが、JRの都合により2009年冬季で終了した。\n\nAdjacent stations\n西日本旅客鉄道（JR西日本）\n 九頭竜 Line（越美北 Line）\n 越前下山 Station - 九頭竜湖 Station\n\nList of railway stations in Japan\n中部の Station百選 - 第2回（2000年）認定25 Stationのひとつ。\n\nRailway stations in 大野市\nThis is a Wikipedia category section for Railway stations in 大野市.",
+          "字数": 2956
         }
       },
       "结构化信息": {
@@ -352,9 +397,16 @@
           "词条标题": "六条駅",
           "链接": "https://ja.wikipedia.org/wiki/%E5%85%AD%E6%9D%A1%E9%A7%85",
           "首段": "六条駅 (六条駅) is a railway station in 県福井市天王町, Japan.",
-          "章节": {},
-          "全文": "六条駅 (六条駅) is a railway station in 県福井市天王町, Japan.",
-          "字数": 49
+          "章节": {
+            "History": "1960年(1960)12月15日：越美北 Lineが勝原 Stationまでopenedした際に設置。 Station員無配置 Station。\n 1987年(1987)4月1日：国鉄分割民営化により西日本旅客鉄道の Stationとなる。\n 2004年(2004)\n 7月18日：豪雨により越美北 Line全 Line運転suspended。\n 9月11日：当 Stationを含む越前花堂 Station - 一乗谷 Station間の運転が再開される。",
+            "Station layout": "九頭竜湖方面に向かって右側にside platforman island platform layoutを有する地上 Station（停留所）。opened当初から簡易なホームと待合所のみを持ち、九頭竜湖寄りの出入口から直接ホームに入る形。福井地域鉄道部管理の無 people Stationとなっており、自動券売機は設置されていない。一部の時間帯で全てのドアが開く。",
+            "上六条公園": "福井県 ふるさと文学館",
+            "Other": "「（漢数字）条 Station」は京都府京都市に存在するが、「六条 Station」は京都市に存在せず福井市のみ存在する。",
+            "Adjacent stations": "西日本旅客鉄道（JR西日本）\n 九頭竜 Line（越美北 Line）\n 越前花堂 Station - 六条 Station - 足羽 Station",
+            "Railway stations in 福井市": "This is a Wikipedia category section for Railway stations in 福井市."
+          },
+          "全文": "六条駅 (六条駅) is a railway station in 県福井市天王町, Japan.\n\nHistory\n1960年(1960)12月15日：越美北 Lineが勝原 Stationまでopenedした際に設置。 Station員無配置 Station。\n 1987年(1987)4月1日：国鉄分割民営化により西日本旅客鉄道の Stationとなる。\n 2004年(2004)\n 7月18日：豪雨により越美北 Line全 Line運転suspended。\n 9月11日：当 Stationを含む越前花堂 Station - 一乗谷 Station間の運転が再開される。\n\nStation layout\n九頭竜湖方面に向かって右側にside platforman island platform layoutを有する地上 Station（停留所）。opened当初から簡易なホームと待合所のみを持ち、九頭竜湖寄りの出入口から直接ホームに入る形。福井地域鉄道部管理の無 people Stationとなっており、自動券売機は設置されていない。一部の時間帯で全てのドアが開く。\n\n上六条公園\n福井県 ふるさと文学館\n\nOther\n「（漢数字）条 Station」は京都府京都市に存在するが、「六条 Station」は京都市に存在せず福井市のみ存在する。\n\nAdjacent stations\n西日本旅客鉄道（JR西日本）\n 九頭竜 Line（越美北 Line）\n 越前花堂 Station - 六条 Station - 足羽 Station\n\nRailway stations in 福井市\nThis is a Wikipedia category section for Railway stations in 福井市.",
+          "字数": 763
         }
       },
       "结构化信息": {
@@ -429,9 +481,16 @@
           "词条标题": "Kadohara Station",
           "链接": "https://ja.wikipedia.org/wiki/%E5%8B%9D%E5%8E%9F%E9%A7%85",
           "首段": "Kadohara Station (勝原駅) is a railway station in 県大野市西勝原, Japan.",
-          "章节": {},
-          "全文": "Kadohara Station (勝原駅) is a railway station in 県大野市西勝原, Japan.",
-          "字数": 62
+          "章节": {
+            "Overview": "福井地域鉄道部が管理している無 people Stationで、自動券売機などの設備もない。1972年まで越美北 Lineの終着 Stationであった。\n\n Line路脇の「勝原 Stationのハナモモ」が有名で、春には白やピンクの花が咲き、「桃源郷」とも称されている。 Station周辺では植樹活動も行われている。",
+            "History": "1960年(1960)12月15日：日本国有鉄道越美北 Lineが開通すると同時に、その終着として設置。 Station員無配置 Station。\n 1965年(1965)10月15日：貨物の取扱を開始。\n 1968年(1968)10月1日：貨物の取扱をclosed。\n 1972年(1972)12月15日：越美北 Lineが九頭竜湖 Stationまでextensionし、途中 Stationとなる。\n 1987年(1987)4月1日：国鉄分割民営化により西日本旅客鉄道の Stationになる。\n 2004年(2004)\n 7月18日：豪雨により越美北 Line全 Lineが運行suspendedとなり、当 Stationも営業suspended。\n 7月20日：越前大野 Station - 九頭竜湖 Station間で列車の運行を再開したため、当 Stationも営業再開。",
+            "Station layout": "九頭竜湖方面に向かって右側にside platforman island platform layoutを有する地上 Station（停留所）。保守用の側 Line（旧機回し Line）が引かれている。\n\nかつて終着 Stationだったころの名残で、 Station舎や保 Line員の詰所などが残っている。終着 Stationであった頃に構内に設けられていたSL用の転車台の跡地は、五箇公民館となっている。",
+            "国道158号": "中部縦貫自動車道 勝原インターチェンジ",
+            "Adjacent stations": "西日本旅客鉄道（JR西日本）\n 九頭竜 Line（越美北 Line）\n 柿ケ島 Station - 勝原 Station - 越前下山 Station",
+            "Railway stations in 大野市": "This is a Wikipedia category section for Railway stations in 大野市."
+          },
+          "全文": "Kadohara Station (勝原駅) is a railway station in 県大野市西勝原, Japan.\n\nOverview\n福井地域鉄道部が管理している無 people Stationで、自動券売機などの設備もない。1972年まで越美北 Lineの終着 Stationであった。\n\n Line路脇の「勝原 Stationのハナモモ」が有名で、春には白やピンクの花が咲き、「桃源郷」とも称されている。 Station周辺では植樹活動も行われている。\n\nHistory\n1960年(1960)12月15日：日本国有鉄道越美北 Lineが開通すると同時に、その終着として設置。 Station員無配置 Station。\n 1965年(1965)10月15日：貨物の取扱を開始。\n 1968年(1968)10月1日：貨物の取扱をclosed。\n 1972年(1972)12月15日：越美北 Lineが九頭竜湖 Stationまでextensionし、途中 Stationとなる。\n 1987年(1987)4月1日：国鉄分割民営化により西日本旅客鉄道の Stationになる。\n 2004年(2004)\n 7月18日：豪雨により越美北 Line全 Lineが運行suspendedとなり、当 Stationも営業suspended。\n 7月20日：越前大野 Station - 九頭竜湖 Station間で列車の運行を再開したため、当 Stationも営業再開。\n\nStation layout\n九頭竜湖方面に向かって右側にside platforman island platform layoutを有する地上 Station（停留所）。保守用の側 Line（旧機回し Line）が引かれている。\n\nかつて終着 Stationだったころの名残で、 Station舎や保 Line員の詰所などが残っている。終着 Stationであった頃に構内に設けられていたSL用の転車台の跡地は、五箇公民館となっている。\n\n国道158号\n中部縦貫自動車道 勝原インターチェンジ\n\nAdjacent stations\n西日本旅客鉄道（JR西日本）\n 九頭竜 Line（越美北 Line）\n 柿ケ島 Station - 勝原 Station - 越前下山 Station\n\nRailway stations in 大野市\nThis is a Wikipedia category section for Railway stations in 大野市.",
+          "字数": 1073
         }
       },
       "结构化信息": {
@@ -508,9 +567,18 @@
           "词条标题": "北大野駅",
           "链接": "https://ja.wikipedia.org/wiki/%E5%8C%97%E5%A4%A7%E9%87%8E%E9%A7%85",
           "首段": "北大野駅 (北大野駅) is a railway station in 県大野市中野, Japan.",
-          "章节": {},
-          "全文": "北大野駅 (北大野駅) is a railway station in 県大野市中野, Japan.",
-          "字数": 50
+          "章节": {
+            "Overview": "福井地域鉄道部が管理している無 people Stationで、自動券売機等の設備はない。大野市中心部の北西に位置している。",
+            "History": "勝原 Stationまでのopenedの後に新しく設置された。",
+            "Chronology": "1968年(1968)3月25日：越美北 Lineの牛ヶ原 Station - 越前大野 Station間に新設Opened.建設費全額地元負担の請願 Stationで、opened当初から無 people Stationである。\n 1987年(1987)4月1日：国鉄分割民営化により西日本旅客鉄道の Stationとなる。\n 2004年(2004)\n 7月18日：豪雨により越美北 Line全 Line運転suspended。\n 9月11日：美山 Station - 越前大野 Station間で列車の運行を再開。\n 同年9月10日まで設置されていた代行バス乗り場は、水落町市営駐車場の前にあった。",
+            "Station layout": "九頭竜湖方面に向かって右側にside platforman island platform layoutを有する地上 Station（停留所）。opened当初から簡単なホームと待合所のみを備える。 Station前には公衆便所あり。",
+            "Surrounding area": "当 Stationと越前大野 Stationとの間の沿 Lineが、大野市の中心部である。",
+            "大野市立陽明中学校": "近畿地方整備局 九頭竜川ダム統合管理事務所\n まちなか循環バス（ゆう・ゆうバス） 北ルート 北大野 Station口bus stop",
+            "Adjacent stations": "西日本旅客鉄道（JR西日本）\n 九頭竜 Line（越美北 Line）\n 牛ケ原 Station - 北大野 Station - 越前大野 Station",
+            "Railway stations in 大野市": "This is a Wikipedia category section for Railway stations in 大野市."
+          },
+          "全文": "北大野駅 (北大野駅) is a railway station in 県大野市中野, Japan.\n\nOverview\n福井地域鉄道部が管理している無 people Stationで、自動券売機等の設備はない。大野市中心部の北西に位置している。\n\nHistory\n勝原 Stationまでのopenedの後に新しく設置された。\n\nChronology\n1968年(1968)3月25日：越美北 Lineの牛ヶ原 Station - 越前大野 Station間に新設Opened.建設費全額地元負担の請願 Stationで、opened当初から無 people Stationである。\n 1987年(1987)4月1日：国鉄分割民営化により西日本旅客鉄道の Stationとなる。\n 2004年(2004)\n 7月18日：豪雨により越美北 Line全 Line運転suspended。\n 9月11日：美山 Station - 越前大野 Station間で列車の運行を再開。\n 同年9月10日まで設置されていた代行バス乗り場は、水落町市営駐車場の前にあった。\n\nStation layout\n九頭竜湖方面に向かって右側にside platforman island platform layoutを有する地上 Station（停留所）。opened当初から簡単なホームと待合所のみを備える。 Station前には公衆便所あり。\n\nSurrounding area\n当 Stationと越前大野 Stationとの間の沿 Lineが、大野市の中心部である。\n\n大野市立陽明中学校\n近畿地方整備局 九頭竜川ダム統合管理事務所\n まちなか循環バス（ゆう・ゆうバス） 北ルート 北大野 Station口bus stop\n\nAdjacent stations\n西日本旅客鉄道（JR西日本）\n 九頭竜 Line（越美北 Line）\n 牛ケ原 Station - 北大野 Station - 越前大野 Station\n\nRailway stations in 大野市\nThis is a Wikipedia category section for Railway stations in 大野市.",
+          "字数": 941
         }
       },
       "结构化信息": {
@@ -585,9 +653,14 @@
           "词条标题": "小和清水駅",
           "链接": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E5%92%8C%E6%B8%85%E6%B0%B4%E9%A7%85",
           "首段": "小和清水駅 (小和清水駅) is a railway station in 県福井市小和清水町, Japan.",
-          "章节": {},
-          "全文": "小和清水駅 (小和清水駅) is a railway station in 県福井市小和清水町, Japan.",
-          "字数": 55
+          "章节": {
+            "History": "1960年(1960)12月15日：越美北 Lineが勝原 Stationまでopenedした際に設置。 Station員無配置 Station。\n 1987年(1987)4月1日：国鉄分割民営化により西日本旅客鉄道の Stationとなる。\n 2004年(2004)7月18日：豪雨により越美北 Line全 Line運転suspended。\n 2007年(2007)6月30日：最後まで不通だった、当 Stationを含む一乗谷 Station - 美山 Station間が運行再開。この間、代行バスの乗り場は国道158号（旧道）の奈良瀬交差点付近に置かれていた。",
+            "Station layout": "九頭竜湖方面に向かって右側にside platforman island platform layoutを有する地上 Station（停留所）。opened当初からの無 people Stationで、設備としては簡易なホームと待合所があるのみとなっており、九頭竜湖寄りの出入口から直接ホームに入る形である。自動券売機は設置されていない。福井地域鉄道部管理。",
+            "Adjacent stations": "西日本旅客鉄道（JR西日本）\n 九頭竜 Line（越美北 Line）\n 市波 Station - 小和清水 Station - 美山 Station",
+            "Railway stations in 福井市": "This is a Wikipedia category section for Railway stations in 福井市."
+          },
+          "全文": "小和清水駅 (小和清水駅) is a railway station in 県福井市小和清水町, Japan.\n\nHistory\n1960年(1960)12月15日：越美北 Lineが勝原 Stationまでopenedした際に設置。 Station員無配置 Station。\n 1987年(1987)4月1日：国鉄分割民営化により西日本旅客鉄道の Stationとなる。\n 2004年(2004)7月18日：豪雨により越美北 Line全 Line運転suspended。\n 2007年(2007)6月30日：最後まで不通だった、当 Stationを含む一乗谷 Station - 美山 Station間が運行再開。この間、代行バスの乗り場は国道158号（旧道）の奈良瀬交差点付近に置かれていた。\n\nStation layout\n九頭竜湖方面に向かって右側にside platforman island platform layoutを有する地上 Station（停留所）。opened当初からの無 people Stationで、設備としては簡易なホームと待合所があるのみとなっており、九頭竜湖寄りの出入口から直接ホームに入る形である。自動券売機は設置されていない。福井地域鉄道部管理。\n\nAdjacent stations\n西日本旅客鉄道（JR西日本）\n 九頭竜 Line（越美北 Line）\n 市波 Station - 小和清水 Station - 美山 Station\n\nRailway stations in 福井市\nThis is a Wikipedia category section for Railway stations in 福井市.",
+          "字数": 729
         }
       },
       "结构化信息": {
@@ -658,9 +731,14 @@
           "词条标题": "Ichinami Station",
           "链接": "https://ja.wikipedia.org/wiki/%E5%B8%82%E6%B3%A2%E9%A7%85",
           "首段": "Ichinami Station (市波駅) is a railway station in 県福井市市波町, Japan.",
-          "章节": {},
-          "全文": "Ichinami Station (市波駅) is a railway station in 県福井市市波町, Japan.",
-          "字数": 62
+          "章节": {
+            "History": "1960年(1960)12月15日：越美北 Lineが勝原 Stationまでopenedした際に設置。 Station員無配置 Station。\n 1987年(1987)4月1日：国鉄分割民営化により西日本旅客鉄道の Stationとなる。\n 2004年(2004)7月18日：豪雨により越美北 Line全 Line運転suspended。\n 2007年(2007)6月30日：最後まで不通だった、当 Stationを含む一乗谷 Station - 美山 Station間が運行再開。この間、代行バスの乗り場は Station前に置かれていた。",
+            "Station layout": "九頭竜湖方面に向かって右側にside platforman island platform layoutを有する地上 Station（停留所）。opened当初からの無 people Stationで、設備としては簡易なホームと待合所があるのみ。九頭竜湖寄りに設けられた出入口から直接ホームに入る形になっている。自動券売機は設置されていない。福井地域鉄道部管理。",
+            "Adjacent stations": "西日本旅客鉄道（JR西日本）\n 九頭竜 Line（越美北 Line）\n 越前高田 Station - 市波 Station - 小和清水 Station",
+            "Railway stations in 福井市": "This is a Wikipedia category section for Railway stations in 福井市."
+          },
+          "全文": "Ichinami Station (市波駅) is a railway station in 県福井市市波町, Japan.\n\nHistory\n1960年(1960)12月15日：越美北 Lineが勝原 Stationまでopenedした際に設置。 Station員無配置 Station。\n 1987年(1987)4月1日：国鉄分割民営化により西日本旅客鉄道の Stationとなる。\n 2004年(2004)7月18日：豪雨により越美北 Line全 Line運転suspended。\n 2007年(2007)6月30日：最後まで不通だった、当 Stationを含む一乗谷 Station - 美山 Station間が運行再開。この間、代行バスの乗り場は Station前に置かれていた。\n\nStation layout\n九頭竜湖方面に向かって右側にside platforman island platform layoutを有する地上 Station（停留所）。opened当初からの無 people Stationで、設備としては簡易なホームと待合所があるのみ。九頭竜湖寄りに設けられた出入口から直接ホームに入る形になっている。自動券売機は設置されていない。福井地域鉄道部管理。\n\nAdjacent stations\n西日本旅客鉄道（JR西日本）\n 九頭竜 Line（越美北 Line）\n 越前高田 Station - 市波 Station - 小和清水 Station\n\nRailway stations in 福井市\nThis is a Wikipedia category section for Railway stations in 福井市.",
+          "字数": 730
         }
       },
       "结构化信息": {
@@ -734,10 +812,17 @@
         "英文": {
           "词条标题": "Kakigashima Station",
           "链接": "https://ja.wikipedia.org/wiki/%E6%9F%BF%E3%82%B1%E5%B3%B6%E9%A7%85",
-          "首段": "Kakigashima Station (柿ケ島駅) is a railway station in 県大野市柿ヶ島, Japan.",
-          "章节": {},
-          "全文": "Kakigashima Station (柿ケ島駅) is a railway station in 県大野市柿ヶ島, Japan.",
-          "字数": 66
+          "首段": "Kakigashima Station (柿島, ) is a railway station on the 西日本旅客鉄道（JR西日本）越美北線（九頭竜線）, located in 福井県大野市柿島, Japan.",
+          "章节": {
+            "Overview": "福井地域鉄道部が管理している無 people Stationで、自動券売機等の設備もない。大野市街地の東部にあり、大野方面から九頭竜川を渡ってすぐに Stationがある。",
+            "History": "1960年(1960)12月15日：越美北 Lineが勝原 Stationまで開通する同時にOpened.旅客営業のみ取り扱う Station員無配置 Station。\n 1987年(1987)4月1日：国鉄分割民営化により西日本旅客鉄道の Stationとなる。\n 2004年(2004)\n 7月18日：豪雨により越美北 Line全 Line運行suspendedとなり、当 Stationも営業suspended。\n 7月20日：越前大野 Stationと九頭竜湖 Stationで列車の運行を再開したため、当 Stationも営業再開。",
+            "Station layout": "九頭竜湖方面に向かって左側にside platforman island platform layoutを有する地上 Station（停留所）。地上 Stationではあるものの、ホームは盛土上にある。opened当初から簡単なホームと待合所のみを備える。",
+            "Surrounding area": "第一九頭竜川橋梁のすぐ近くにあるが、向こう岸を通る国道158号へ通り抜ける道は無い。国道へは福井県道239号上唯野西屋勝山 Lineを経由しないと行くことが出来ない。",
+            "Adjacent stations": "西日本旅客鉄道（JR西日本）\n 九頭竜 Line（越美北 Line）\n 下唯野 Station - 柿ケ島 Station - 勝原 Station",
+            "Railway stations in 大野市": "This is a Wikipedia category section for Railway stations in 大野市."
+          },
+          "全文": "Kakigashima Station (柿島, ) is a railway station on the 西日本旅客鉄道（JR西日本）越美北線（九頭竜線）, located in 福井県大野市柿島, Japan.\n\nOverview\n福井地域鉄道部が管理している無 people Stationで、自動券売機等の設備もない。大野市街地の東部にあり、大野方面から九頭竜川を渡ってすぐに Stationがある。\n\nHistory\n1960年(1960)12月15日：越美北 Lineが勝原 Stationまで開通する同時にOpened.旅客営業のみ取り扱う Station員無配置 Station。\n 1987年(1987)4月1日：国鉄分割民営化により西日本旅客鉄道の Stationとなる。\n 2004年(2004)\n 7月18日：豪雨により越美北 Line全 Line運行suspendedとなり、当 Stationも営業suspended。\n 7月20日：越前大野 Stationと九頭竜湖 Stationで列車の運行を再開したため、当 Stationも営業再開。\n\nStation layout\n九頭竜湖方面に向かって左側にside platforman island platform layoutを有する地上 Station（停留所）。地上 Stationではあるものの、ホームは盛土上にある。opened当初から簡単なホームと待合所のみを備える。\n\nSurrounding area\n第一九頭竜川橋梁のすぐ近くにあるが、向こう岸を通る国道158号へ通り抜ける道は無い。国道へは福井県道239号上唯野西屋勝山 Lineを経由しないと行くことが出来ない。\n\nAdjacent stations\n西日本旅客鉄道（JR西日本）\n 九頭竜 Line（越美北 Line）\n 下唯野 Station - 柿ケ島 Station - 勝原 Station\n\nRailway stations in 大野市\nThis is a Wikipedia category section for Railway stations in 大野市.",
+          "字数": 918
         }
       },
       "结构化信息": {
@@ -806,10 +891,15 @@
         "英文": {
           "词条标题": "Ushigahara Station",
           "链接": "https://ja.wikipedia.org/wiki/%E7%89%9B%E3%82%B1%E5%8E%9F%E9%A7%85",
-          "首段": "Ushigahara Station (牛ケ原駅) is a railway station in 県大野市牛ケ原, Japan.",
-          "章节": {},
-          "全文": "Ushigahara Station (牛ケ原駅) is a railway station in 県大野市牛ケ原, Japan.",
-          "字数": 65
+          "首段": "Ushigahara Station (牛原, ) is a railway station on the 西日本旅客鉄道（JR西日本）越美北線（九頭竜線）, located in 福井県大野市牛原, Japan.",
+          "章节": {
+            "History": "1960年(1960)12月15日：越美北 Lineが勝原 Stationまでopenedすると同時に設置。 Station員無配置 Station。\n 1987年(1987)4月1日：国鉄分割民営化により西日本旅客鉄道の Stationとなる。\n 2004年(2004)\n 7月18日：豪雨により越美北 Line全 Line運転suspended。\n 9月11日：美山 Station - 越前大野 Station間で列車の運行を再開。代行バス乗り場はJA乾側支所の前にあった。",
+            "Station layout": "九頭竜湖方面に向かって右側にside platforman island platform layoutを有する地上 Station（停留所）。opened当初から簡単なホームと待合所のみを備えており、九頭竜湖寄りの出入口から直接ホームに入る形となっている。\n\n福井地域鉄道部が管理している無 people Station。",
+            "Adjacent stations": "西日本旅客鉄道（JR西日本）\n 九頭竜 Line（越美北 Line）\n 計石 Station - 牛ケ原 Station - 北大野 Station",
+            "Railway stations in 大野市": "This is a Wikipedia category section for Railway stations in 大野市."
+          },
+          "全文": "Ushigahara Station (牛原, ) is a railway station on the 西日本旅客鉄道（JR西日本）越美北線（九頭竜線）, located in 福井県大野市牛原, Japan.\n\nHistory\n1960年(1960)12月15日：越美北 Lineが勝原 Stationまでopenedすると同時に設置。 Station員無配置 Station。\n 1987年(1987)4月1日：国鉄分割民営化により西日本旅客鉄道の Stationとなる。\n 2004年(2004)\n 7月18日：豪雨により越美北 Line全 Line運転suspended。\n 9月11日：美山 Station - 越前大野 Station間で列車の運行を再開。代行バス乗り場はJA乾側支所の前にあった。\n\nStation layout\n九頭竜湖方面に向かって右側にside platforman island platform layoutを有する地上 Station（停留所）。opened当初から簡単なホームと待合所のみを備えており、九頭竜湖寄りの出入口から直接ホームに入る形となっている。\n\n福井地域鉄道部が管理している無 people Station。\n\nAdjacent stations\n西日本旅客鉄道（JR西日本）\n 九頭竜 Line（越美北 Line）\n 計石 Station - 牛ケ原 Station - 北大野 Station\n\nRailway stations in 大野市\nThis is a Wikipedia category section for Railway stations in 大野市.",
+          "字数": 721
         }
       },
       "结构化信息": {
@@ -918,9 +1008,53 @@
           "词条标题": "Fukui Station",
           "链接": "https://en.wikipedia.org/wiki/Fukui%20Station",
           "首段": "Fukui Station is the name of multiple train stations in Japan.\n\n Fukui Station (Fukui) - (福井駅) in Fukui Prefecture\n Fukui Station (Okayama) - (福井駅) in Okayama Prefecture\n Fukui Station (Tochigi) - (福居駅) in Tochigi Prefecture",
-          "章节": {},
-          "全文": "Fukui Station is the name of multiple train stations in Japan.\n\n Fukui Station (Fukui) - (福井駅) in Fukui Prefecture\n Fukui Station (Okayama) - (福井駅) in Okayama Prefecture\n Fukui Station (Tochigi) - (福居駅) in Tochigi Prefecture",
-          "字数": 224
+          "章节": {
+            "国鉄・JR西日本": "1896年(1896)7月15日：官設鉄道の北陸 Lineとして敦賀 Station - 福井 Station間がopenedした際に一般 Stationとしてopenedする。当時は終着 Stationであった。\n 1897年(1897)9月20日：官設鉄道が小松 Stationまでextensionし、途中 Stationとなる。\n 1909年(1909)10月12日： Line路名称「北陸本 Line」が制定され、北陸本 Lineの所属 Stationとなる。\n 1952年(1952)12月1日：貨物の取り扱い業務の一部を新設の南福井 Stationに移管。\n 1953年(1953)3月：3代目の Station舎に改築、福井ステーションビルが完成。\n 1956年(1956)12月15日：九頭竜 Lineが福井 Station - 勝原 Station間でOpened.\n 1959年(1959)2月1日：貨物の取り扱いを全廃（旅客 Stationとなる）。\n 1986年(1986)11月1日：荷物の取り扱いをclosed。\n 1987年(1987)4月1日：国鉄分割民営化により西日本旅客鉄道（JR西日本）の Stationとなる。\n 1990年(1990)12月25日：ハープの接近メロディを導入する。2000年の北陸 LineCTC化まで採用。\n 1996年(1996)7月10日：福井 Station付近連続立体交差事業の起工式。\n 1998年(1998)6月：仮 Line敷設工事開始。\n 1999年(1999)12月20日：北陸本 Line（上り Line）が仮 Lineに移行。\n 2000年(2000)6月5日：北陸本 Line（下り Line）が仮 Lineに移行。全 Lineの仮 Line切り替え完了。\n 2005年(2005)\n 2月27日： Station舎新築に先立ち福井ステーションビルが閉店。\n 4月18日： Station付近高架化が完成し、新 Station舎および商業施設の「プリズム福井」がOpened.\n 6月4日：北陸新幹 Line福井 Station部工事着工。\n 2007年(2007)4月19日：福井 Station東口のAOSSAがOpened.\n 2009年(2009)2月19日：北陸新幹 Lineの福井 Station周辺部分が完成。えちぜん鉄道の高架化まではえちぜん鉄道が暫定的に使用する。\n 2017年(2017)3月13日：発車メロディを葉加瀬太郎作曲の「悠久の一乗谷」に変更。\n 2018年(2018)\n 3月27日：福井 Station西口広場にバスのりばがOpened.\n 9月8日：自動ticket gate機の供用開始。\n 9月15日 - 交通系ICカード「ICOCA」の利用が可能（北陸本 Line内のみで、越美北 Line六条 - 九頭竜湖間は使用できない）となる。\n 2020年(2020)10月5日：北陸新幹 Line Station舎の工事着工。\n 2023年(2023)5月28日：北陸新幹 Lineopenedを見据えた Station商業施設の再開発のため、「プリズム福井」が営業終了。\n 2024年(2024)3月16日：北陸新幹 Lineの金沢 Station - 敦賀 Station間extensionopenedに伴い、新幹 Line福井 StationがOpened.また北陸本 Lineのハピラインふくいへの移管に伴い、在来 Line福井 Stationを同社へ移管（予定）。",
+            "京福電鉄・えちぜん鉄道": "1929年(1929)\n 9月21日：京都電燈越前電気鉄道 Lineの福井 StationとしてOpened.\n 11月20日：三国芦原電鉄が当 Station乗り入れを開始。\n 1942年(1942)3月2日：京都電燈越前電気鉄道 Lineを京福電気鉄道が譲受け、同社の越前本 Lineとする。\n 1996年(1996)3月：福井 Station付近連続立体交差事業により、仮 Line敷設工事開始。\n 1997年(1997)3月23日：京福電鉄の Line路を仮 Lineに移行、仮設 Stationの営業を開始。\n 2001年(2001)6月24日：京福電鉄が列車正面衝突事故のため運休。\n 2003年(2003)\n 2月1日：施設譲渡に伴い、えちぜん鉄道の Stationになる。\n 7月20日：運行を再開。\n 2015年(2015)9月27日：北陸新幹 Lineの高架を使用して、当 Station - 福井口 Station間を仮高架化。\n 2018年(2018)6月24日：えちぜん鉄道高架橋での営業運転を開始。",
+            "福武電鉄・福井鉄道": "1933年(1933)10月15日：福武電気鉄道（現在の福井鉄道）の福井停車場前停留場としてOpened.\n 1972年(1972)10月12日：無 people化される。\n 2016年(2016)3月27日：JR福井 Station西口広場へextensionし、福井 Station前停留場から福井 Station停留場へrenamed。\n 2023年(2023)4月14日：この日をもってハピリン別棟の福井市観光案内所「ウェルカムセンター」で行っていた乗車券発売を終了し、再び無 people化。",
+            "JR西日本": "「福井県統計年鑑」と「福井市統計書」によると、2019年(2019)度のJR西日本のdaily averageboarding passengersは10,301people.。ここ数年は増加傾向にあり、福井県内の Stationおよび北陸本 Lineの途中 Stationでは最も多い。",
+            "Station layout": "JR西日本金沢支社が管理する直営 Stationで、 Station舎内には北陸本 Lineの南今庄 Station - 牛ノ谷 Station間の全 Stationと越美北 Line（九頭竜 Line）の全 Stationの統括管理および運営を行う福井地域鉄道部が置かれている。\n\n優等列車を含めたすべての定期旅客列車が停車するほか、当 Station折り返しの普通列車も多く設定されている。\n\n2階に設置されたan island platform layoutのホームを持つ高架 Stationである。優等列車は通常1番・5番のりばから発車する。2番のりばは、3番のりばの越前花堂方の切り欠き部分にあり、架 Lineが張られていない。ホーム屋根には、「越前海岸の岩」「九頭竜川の河岸段丘」をイメージした天窓が付けられている。\n\nticket gate内には有 people店舗がない。事務管コードは▲541430を使用する。\n\nJR福井 Stationの東側隣接地にあり、island platforman island platform layoutを持つ高架 Stationである。\n\n京福電鉄時代の1996年に鉄道高架化工事が着工され、1997年から2015年まで地上の仮ホームでの営業、2015年から2018年まで北陸新幹 Lineの高架上に設けられた仮ホームでの営業となっていた。\n\n待合室にはコインロッカーと、有料の自動コーヒーメーカーが設置されている。ticket gate前のベンチはかつての地下道へつながる通路の跡地である。\n\n1997年に地上の仮 Stationに移行する以前は、旅客ホームと本 Lineのほか、複数の電留 Lineがあった。高架化工事に伴い用地が縮小され、地上の仮 Stationは、ホームに接する2本の本 Lineの Line路終端部がホームを外れた Station舎両側まで延び、電留 Lineとなる構造・配 Lineとなっていた。電留 Lineと本 Line部分との境界には入換信号機が建植されており、電留 Line部分には2両編成各1本が収容できた。この配 Lineは2018年に完成した高架 Stationにおいても踏襲されており、2本の本 Lineの Line路終端部はホームを外れた先まで延び、電留 Lineとなっている。\n\nのりば",
+            "Departure melody": "2017年より、演奏家の葉加瀬太郎が作曲したバイオリン曲「悠久の一乗谷」が発車メロディに使用されている。\n\nのりば",
+            "太陽光発電装置の設置": " Station舎屋根上には地球温暖化防止の取り組みとして、京セラが製造した太陽光発電装置（ソーラーパネル）が設置されている。",
+            "自動改札機の導入": "自動ticket gate機は2018年7月24日未明に設置され、運用開始まではカバーがかけられていた。9月8日に磁気券に限定して運用が開始し、9月15日からは交通系ICカード（ICOCAなど）のエリア拡大に伴い交通系ICカードの使用が可能となった。九頭竜 Line（六条 - 九頭竜湖）では利用できない。\n\n自動ticket gate機は6通路設置されており、有 people通路が1通路ある。なお、北陸新幹 Line金沢opened後のJR西日本管内「2府16県」で自動ticket gate機や交通系ICカードが導入されるのは福井県が最後だった。\n\nコンコース \nelevatorやescalator（昇りのみ）も設置されていて、1階のticket gate口と中2階のコンコース～2階のホームを結んでいる。elevatorは福井県内の Stationでは小浜 Lineの上中 Stationに続いて導入され、escalatorに至っては福井県内の Stationでは初めて導入された。\nみどりの窓口・自動券売機・自動ticket gate機・コンビニ・化粧室が設置されており、みどりの窓口にはe5489優先窓口が設置されている。\n\nticket gate前には西口の入り口から飲食店の「今庄そば」・ Station弁販売店・旅行代理店の順にテナントが軒を連ねている。\n\n1階のticket gate内に待合室があり、中2階のコンコースには化粧室が設置されている。かつてはセブン-イレブン キヨスクもあったが、北陸新幹 Lineのりばとの連絡通路に転用するため閉鎖された。\n\nタイムカプセル \n\n1階階段横には北陸新幹 Lineに関連するタイムカプセルが2個設置されている。どちらも新幹 Lineopenedに合わせて開封される予定。",
+            "福井県設置のタイムカプセル": "容器はE2系型。西側に設置。",
+            "JR西日本設置のタイムカプセル": "容器は恐竜の卵型。東側に設置。",
+            "Station building": " Station高架下の施設は南北に延びている。コンコースを挟んで南側にショッピングゾーンの「プリズム福井」がある。\n\n出入口は、県庁や市内バス乗り場側が西口、えちぜん鉄道や高速バス乗り場側が東口で、高架opened後は西口・東口両側からコンコースへ通じ、地平面での東西間通り抜けが可能になっている。\n\nなお、プリズム福井内にも平面の自由通路が1か所設けられている。\n\n※なお現在プリズム福井は北陸新幹 Lineopenedを見据えた Station商業施設の再開発のため、2023年5月28日に営業を終了している。",
+            "新幹線 Station": "2005年6月に建設が開始され、2009年2月にホーム800メートル分が完成した。県庁所在地の Stationにも関わらず通過 Lineや待避 Lineのないisland platforman island platform layout \"のみ\" の構造である。これは新幹 Lineopened60年とフル規格の全国103 Station (2024年3月時点) において、史上初および全国最少の設備数となる（島式an island platform layoutは福井 Station以外には静岡県の三島 Stationがあるが、こちらは車両所の増設 Stationでan island platform layout+2通過 Line+各種18 Lineを持つ。当初と構造が異なる理由は、えちぜん鉄道の項も参照）。\n\nホーム長は312mで、12両編成のE7系・W7系が停車できる構造となっている。当初の計画では3階建てのan island platform layoutだったが、景観問題や福井 Stationに接続する当時の京福電気鉄道 (えちぜん鉄道の前身）の複数の衝突事故と存続closed問題などで実現出来なかった。最終的には2階建てに変更され、新幹 Line部分が在来 Lineとえちぜん鉄道に挟まれる配置となり、新幹 Line Station舎が幅半分のan island platform layoutでホーム金沢方が急カーブの Line路となった。そのため、安全性と利便性（構造上の問題を解決するための特例等）に関する要望が出された。景観的には Station以北は2階建て高さの高架橋に収まったが、 Station南部のおよそ6kmは実質3階建て高さの高架路 Lineが続く。費用的にはホームのみ半額になったが、 Station以北が2重高架橋1路 Lineから単式高架橋2路 Line（新幹 Lineとえちぜん鉄道 Line）に拡幅されたため、数万㎡の新規用地取得と2倍の基礎工事費など2路 Line合計では大きな増額となった。\n\n新幹 Line Stationデザインは市内産の笏谷石を使用して「和」を演出し、外観に関しては一乗谷朝倉氏遺跡や永平寺の唐門がモデルとなっている。ホームの天井・床も木調にする。両ホームに設置されるホームドア（可動式安全柵）には、福井県立恐竜博物館など福井の名所の写真が展示されている。\n\n外観は2021年8月にほぼ完成した状態となっており、 Station舎は2022年8月25日に工事が完了。また、新幹 Line Stationのopenedに合わせ、東口を「一乗谷口」、西口を「福井城址口」となることが発表された。\n\nのりば",
+            "旧駅舎時代": "西口に大きな中央ticket gate口があり、現在の金沢 Stationと同様に Station構内（東口）と Stationビル内にもそれぞれticket gate口が設置されていた。\n\n Stationビルは「福井ステーションビル」と称し、 Stationビルのticket gateについては Stationビルの営業時間内にのみ利用可能となっていた。ステーションビル内には宿泊施設｢福井ステーションビルホテル｣も所在していた。\n\nまた、 Station舎内の通り抜けは一切できない構造のため、反対側に連絡する際はticket gate外にある地下道を通る必要があった。\n\nまた、ホームでは当地の名産品の一つ「ハープ」を使用した接近・発車メロディが採用されていた。JR西日本管内の北陸地方主要 Stationでは1980年代後半から1990年代初頭にかけて富山・金沢・福井の順に、所在地とゆかりのある楽曲などをメロディに採用する取り組みが行われていた。この楽曲を作曲したのは当地出身でハープ奏者の雨田光示で、1990年12月25日から2000年2月8日の北陸 LineCTC化まで10年間採用されていた。採用当初は2曲が用意されていたが、使用終了時点では1曲のみが使用されていた。",
+            "えちぜん鉄道": "近年の推移は以下のとおりである。\n\n 勝山永平寺 Line（三国芦原 Line直通含む）",
+            "高架化計画": "当初の計画案では、 Stationを3階建てとし、2階に京福電気鉄道（現在のえちぜん鉄道）が乗り入れ、3階に新幹 Lineが乗り入れる予定だったが。景観問題と度重なる衝突事故による京福路 Lineの存続closed問題を勘案した結果、2階建てで決着した。その後、先行的に新幹 Lineホームを竣工させ、そこに京福電気鉄道を乗り入れさせて暫定的に高架化することが考えられたが、北陸新幹 Lineの着工が具体化すると、今度は新幹 Lineとえちぜん鉄道がそれぞれ単 Lineで高架 Stationに乗り入れる案が浮上した。この案では、三国芦原 Lineは高架化せず、LRT化した上で福井鉄道に乗り入れるとされた。\n\nしかし、2011年に北陸新幹 Lineを金沢 Station - 敦賀 Station間で着工されることが決まると、途中 Stationとなる当 Stationを単 Lineとするには難があることから、結局えちぜん鉄道の福井 Stationは現在 Line（当初計画の仮 Line）の位置に独立して設置されることとなった。この計画では、まず北陸新幹 Lineの高架を完成させ、そこにえちぜん鉄道を乗り入れさせる。その上で現在 Lineの位置に高架 Stationを建設するもので、2015年9月27日に仮 Lineへrelocatedした。2018年6月24日にえちぜん鉄道高架橋での営業運転を開始した。\n\nホームは当初、1番 Lineが勝山永平寺 Line、2番 Lineが三国芦原 Lineになっていたが、勝山と三国港の位置関係を考えて順序が入れ替わった。その後、新福井 Station - 福井口 Station間が単 Lineになると、番 Line・方面の区別がなくなった。",
+            "福井鉄道": "福井 Station停留場は、JR福井 Station西口広場にある福井鉄道福武 Lineの電停。この電停は、福武 Line本 Lineの福井城址大名町停留場からの分岐 Line（ヒゲ Line）に設けられており、an island platform layoutの構造である。なお一部の列車は当電停で終着とならず、福井城址大名町に戻って継続運行されるので、設備上は終着 Stationでありながら運行上は途中 Stationにも分類される珍しい形態となっている。\n\n2016年3月27日、路 Lineを143メートル延長し西口 Station前広場に移設、同時に福井 Station前停留場から福井 Station停留場へrenamedした。\n\nのりば",
+            "Station meals": "主な Station弁は下記の通り。",
+            "かにうなぎ福めし": "This is a Wikipedia category section for かにうなぎ福めし.",
+            "おとなの焼き鯖寿し": "北前廻船丼 かに・いくら",
+            "越前贅かにいなり": "This is a Wikipedia category section for 越前贅かにいなり.",
+            "金沢牛おこわ": "秋きのこと松茸の里弁当（9 - 11月）",
+            "Surrounding area": " Station表（西口側）は福井県内最大の繁華街で再開発が進んでおり、2016年には高層再開発ビルのハピリンがopenedしている。\n商店街とホテルのほか、福井では唯一の百貨店（西武福井店）がありオフィスビルが建ち並ぶ。バスターミナルは Station西側300mから500mの路上に市内バス乗り場、西側約600mの福井県繊協ビル1階に郊外バス乗り場（京福バスターミナル）があったが、2010年3月31日で営業を終了し、「市内バス乗り場」に集約されたのち、2016年3月27日の西口交通広場の使用開始によって、福井鉄道の軌道 Lineextensionと同時に同広場のバス乗降場へrelocatedし、各交通機関相互の乗継の利便性が大幅に高まった。また Station前広場に恐竜像が置かれ、西口側の Stationの壁面に恐竜のラッピングが施されるなどして、福井県の観光資源である恐竜をPRしている。\n\n Station裏（東口側）は住宅街となっているが、2000年代に入ってからは東口においても再開発が進められており、西口同様ビジネスホテル（ホテルエコノ福井 Station前など）がある。2007年4月19日に再開発ビル「AOSSA」（ground level・second basement level建て）がオープンしており、商業施設および県民会館や福井市立桜木図書館などの公共施設が入っている。2009年5月22日には交通広場の整備に伴い高速バス乗降場が移設openedし、新たな一面をのぞかせつつある。",
+            "West exit": "西口には福井城址をはじめとする史跡や、福井県庁・福井県警察本部（福井城址内）・福井市役所などの各種公共機関、福井銀行本店などの金融機関、宿泊施設が多く軒を連ねる。また、老舗百貨店を前身とする西武福井店やシネコンなどの商業施設も西口側に集積しており、「片町」と呼ばれる歓楽街も西口側にある。",
+            "East exit": "東口側は高層ビルがほとんどなく、住宅街となっている。",
+            "高速路線バス・空港連絡バス・特急バス": "かつて高速路 Lineは、西口から約600m離れた京福バスターミナルより発車していたが、。また2013年の高速路 Lineバス制度発足に伴い、旧高速ツアーバスから転換した路 Lineが同交通広場外に新設した停留場を使用している。",
+            "福井駅東口停留場": "東口正面方向に1番のりば、ロータリー沿って入口方向へ2番、3番と続く。4番のりばは3番のりばから南約50m、木田橋通り路上のAOSSA東中央玄関付近にある。",
+            "Platform 1": "ドリーム福井号・青春ドリーム福井号（京福バス・福井鉄道・JRバス関東）\n 福井 - 東京 Line「昼特急」（京福バス・福井鉄道）\n 北陸道特急バス 福井⇔名古屋（京福バス・福井鉄道・JR東海バス・名鉄バス）\n 永平寺ライナー 福井⇔永平寺（京福バス）\n スキージャム勝山 直行バス（京福バス）※12月中旬〜翌年4月上旬運行",
+            "Platform 2": "福井⇔大阪梅田（京福バス・福井鉄道・阪急観光バス）\n 福井⇔小松空港（京福バス）\n 朝倉・永平寺ダイレクトパス 福井⇔永平寺（福井交通）",
+            "Platform 3": "北陸道青春昼特急大阪号 金沢⇔福井⇔京都・大阪（西日本JRバス）\n 北陸ドリーム四国号 富山発着・福井⇔徳島・高松・高知（西日本JRバス・JR四国バス） ※運休中\n 百万石ドリーム広島号  富山発着・福井⇔岡山・広島（西日本JRバス・中国JRバス）",
+            "Platform 4": "WILLER EXPRESS ※運休中\n 東京ディズニーランド・新宿⇔福井（WILLER EXPRESS）\n 東京ディズニーランド・池袋⇔福井（WILLER EXPRESS）\n オリオンバス 東京ディズニーランド・東京 Station・新宿⇔福井（オー・ティー・ビー、大野観光自動車）\n キラキラ号 海老名(福井発便のみ)・横浜・新宿⇔福井（桜交通）\n 杉崎高速バス 横浜・東京 Station・大宮⇔福井（杉崎観光バス、武井観光）\n 中日本ハイウェイバス 小松発着・福井⇔東京 Station・東京ディズニーランド（中日本ツアーバス）",
+            "無料バス": "定期運行する無料バスは、東口交通広場の観光バス乗降場（3番のりばの後方）を発着する。\n フレンドリーバス　福井 Station東口⇔福井市美術館・福井県生活学習館・福井県立図書館（福井県）\n 福井けいりん送迎バス（京福バス）\n ボートレース三国送迎バス（京福バス）",
+            "Local bus routes": "一般路 Lineバスは、いずれも西口交通広場バスのりばを起終点または経由地としており、福井市内一円、および一部隣接市町の主要地へ向かう。",
+            "福井駅停留場": "2016年の福井鉄道extensionの際にバスターミナルをopened、のりばを6か所設けている。路 Lineバス専用ロータリー入口寄りから降車場、1番のりば（JR Station玄関至近）…6番のりば（福井鉄道電停車止至近）の順となっている。ただし、☆の系統の降車場は約150m北の福井県道128号福井停車場米松 Line（お泉水通り、ホテルルートイン付近）路上。\n\n 1番のりば 京福バス（北東・東方面）\n 36 県立病院丸岡 Line ☆\n 37 大学病院 Line☆\n 38 大和田大学病院 Line\n 39 大和田丸岡 Line\n 51 済生会問屋団地 Line（上北野先回り）☆\n 52 済生会問屋団地 Line（済生会病院先回り）☆\n 57 心臓センター・町屋 Line\n 2番のりば 京福バス（北・北東方面）\n 20 幾久・新田塚 Line（町屋町先回り）\n 21 幾久・新田塚 Line（福井大学前先回り）☆\n 23 福井総合クリニック Line\n 24 福井総合クリニック Line\n 25 エンゼルランド Line\n 26 福井総合病院 Line\n 27 大学病院・新田塚 Line\n 28 運転者教育センター Line\n 31 丸岡 Line\n 32 丸岡 Line☆\n 3番のりば 京福バス（北西方面）\n 10 越前海岸ブルーライン Line\n 11 大安寺 Line（福井総合病院行 / 剣大谷止）\n 12 学園 Line\n 13 桜ヶ丘団地 Line\n 15 越前海岸ブルーライン Line\n 16 川西・三国 Line\n 17 越前海岸ブルーライン Line快速\n 18 学園 Line快速（福井高校前行：次停留場「 Station前大通り（2番）」のみ停車）\n 4番のりば 京福バス（西・南西方面）\n 70 運動公園 Line（道守高校先回り）\n 74 清水グリーンライン Line - 一部便は終点「清水プラント3」より72 天王、73 Cネット福井、79 織田へ直通\n 76 西田中・宿堂 Line（天王止 / 宿堂行）\n 78 茱崎 Line\n 5番のりば 京福バス（東・南・南東・南西方面）、福井鉄道\n 55 大野 Line\n 59 大野 Line\n 60 羽水高校 Line\n 62 一乗谷東郷 Line（浄教寺行 / 鹿俣行）☆\n 71 運動公園 Line（ベル前先回り）\n 福鉄バス福浦 Line（かれい崎行 / 田原町行）\n 6番のりば 京福バス「すまいるバス」\n 北方面 田原 - 文京方面\n 東方面 城東 - 日之出方面\n 西方面 照手 - 足羽方面\n 南方面 木田・板垣方面",
+            "福井駅行到着便のみ": "京福バス 30 高木 Line",
+            "Adjacent stations": "※当 Stationに停車する特急「サンダーバード」・「しらさぎ」・「ダイナスター」（当 Station始発・終着）・「おはようエクスプレス」（平日下りのみ運転）・「おやすみエクスプレス」（平日上りのみ運転）の隣の停車 Stationは各列車記事を参照のこと。\n\n 西日本旅客鉄道（JR西日本）",
+            "北陸本 Line": "越前花堂 Station -（貨）南福井 Station - 福井 Station - 森田 Station\n JR西日本からハピラインふくいへの移管後、当 Station - 森田 Station間に新 Stationが設置される予定となっている。\n 九頭竜 Line（越美北 Line、ただし越前花堂 Stationまでは北陸本 Line）\n 福井 Station -（貨）南福井 Station - 越前花堂 Station",
+            "快速（上り到着列車のみ）・普通": "福井 Station (E1) - 新福井 Station (E2)",
+            "急行・臨時急行・普通": "福井城址大名町 Station (F21) - 福井 Station停留場 (F22)",
+            "建設中の路 Line": "西日本旅客鉄道（JR西日本）",
+            "北陸新幹 Line": "芦原温泉 Station - 福井 Station - 越前たけふ Station",
+            "三国 Line": "上牧 Station・水無瀬 Station・大山崎 Station - いずれも阪急電鉄京都本 Lineの Station。一時opened前の東海道新幹 Lineの高架を借用して営業。\n  Stationスタンプ - 1931、日本で最初にスタンプが設置された。",
+            "Railway stations in 福井市": "This is a Wikipedia category section for Railway stations in 福井市.",
+            "JNR railway stations": "This is a Wikipedia category section for JNR railway stations."
+          },
+          "全文": "Fukui Station is the name of multiple train stations in Japan.\n\n Fukui Station (Fukui) - (福井駅) in Fukui Prefecture\n Fukui Station (Okayama) - (福井駅) in Okayama Prefecture\n Fukui Station (Tochigi) - (福居駅) in Tochigi Prefecture\n\n国鉄・JR西日本\n1896年(1896)7月15日：官設鉄道の北陸 Lineとして敦賀 Station - 福井 Station間がopenedした際に一般 Stationとしてopenedする。当時は終着 Stationであった。\n 1897年(1897)9月20日：官設鉄道が小松 Stationまでextensionし、途中 Stationとなる。\n 1909年(1909)10月12日： Line路名称「北陸本 Line」が制定され、北陸本 Lineの所属 Stationとなる。\n 1952年(1952)12月1日：貨物の取り扱い業務の一部を新設の南福井 Stationに移管。\n 1953年(1953)3月：3代目の Station舎に改築、福井ステーションビルが完成。\n 1956年(1956)12月15日：九頭竜 Lineが福井 Station - 勝原 Station間でOpened.\n 1959年(1959)2月1日：貨物の取り扱いを全廃（旅客 Stationとなる）。\n 1986年(1986)11月1日：荷物の取り扱いをclosed。\n 1987年(1987)4月1日：国鉄分割民営化により西日本旅客鉄道（JR西日本）の Stationとなる。\n 1990年(1990)12月25日：ハープの接近メロディを導入する。2000年の北陸 LineCTC化まで採用。\n 1996年(1996)7月10日：福井 Station付近連続立体交差事業の起工式。\n 1998年(1998)6月：仮 Line敷設工事開始。\n 1999年(1999)12月20日：北陸本 Line（上り Line）が仮 Lineに移行。\n 2000年(2000)6月5日：北陸本 Line（下り Line）が仮 Lineに移行。全 Lineの仮 Line切り替え完了。\n 2005年(2005)\n 2月27日： Station舎新築に先立ち福井ステーションビルが閉店。\n 4月18日： Station付近高架化が完成し、新 Station舎および商業施設の「プリズム福井」がOpened.\n 6月4日：北陸新幹 Line福井 Station部工事着工。\n 2007年(2007)4月19日：福井 Station東口のAOSSAがOpened.\n 2009年(2009)2月19日：北陸新幹 Lineの福井 Station周辺部分が完成。えちぜん鉄道の高架化まではえちぜん鉄道が暫定的に使用する。\n 2017年(2017)3月13日：発車メロディを葉加瀬太郎作曲の「悠久の一乗谷」に変更。\n 2018年(2018)\n 3月27日：福井 Station西口広場にバスのりばがOpened.\n 9月8日：自動ticket gate機の供用開始。\n 9月15日 - 交通系ICカード「ICOCA」の利用が可能（北陸本 Line内のみで、越美北 Line六条 - 九頭竜湖間は使用できない）となる。\n 2020年(2020)10月5日：北陸新幹 Line Station舎の工事着工。\n 2023年(2023)5月28日：北陸新幹 Lineopenedを見据えた Station商業施設の再開発のため、「プリズム福井」が営業終了。\n 2024年(2024)3月16日：北陸新幹 Lineの金沢 Station - 敦賀 Station間extensionopenedに伴い、新幹 Line福井 StationがOpened.また北陸本 Lineのハピラインふくいへの移管に伴い、在来 Line福井 Stationを同社へ移管（予定）。\n\n京福電鉄・えちぜん鉄道\n1929年(1929)\n 9月21日：京都電燈越前電気鉄道 Lineの福井 StationとしてOpened.\n 11月20日：三国芦原電鉄が当 Station乗り入れを開始。\n 1942年(1942)3月2日：京都電燈越前電気鉄道 Lineを京福電気鉄道が譲受け、同社の越前本 Lineとする。\n 1996年(1996)3月：福井 Station付近連続立体交差事業により、仮 Line敷設工事開始。\n 1997年(1997)3月23日：京福電鉄の Line路を仮 Lineに移行、仮設 Stationの営業を開始。\n 2001年(2001)6月24日：京福電鉄が列車正面衝突事故のため運休。\n 2003年(2003)\n 2月1日：施設譲渡に伴い、えちぜん鉄道の Stationになる。\n 7月20日：運行を再開。\n 2015年(2015)9月27日：北陸新幹 Lineの高架を使用して、当 Station - 福井口 Station間を仮高架化。\n 2018年(2018)6月24日：えちぜん鉄道高架橋での営業運転を開始。\n\n福武電鉄・福井鉄道\n1933年(1933)10月15日：福武電気鉄道（現在の福井鉄道）の福井停車場前停留場としてOpened.\n 1972年(1972)10月12日：無 people化される。\n 2016年(2016)3月27日：JR福井 Station西口広場へextensionし、福井 Station前停留場から福井 Station停留場へrenamed。\n 2023年(2023)4月14日：この日をもってハピリン別棟の福井市観光案内所「ウェルカムセンター」で行っていた乗車券発売を終了し、再び無 people化。\n\nJR西日本\n「福井県統計年鑑」と「福井市統計書」によると、2019年(2019)度のJR西日本のdaily averageboarding passengersは10,301people.。ここ数年は増加傾向にあり、福井県内の Stationおよび北陸本 Lineの途中 Stationでは最も多い。\n\nStation layout\nJR西日本金沢支社が管理する直営 Stationで、 Station舎内には北陸本 Lineの南今庄 Station - 牛ノ谷 Station間の全 Stationと越美北 Line（九頭竜 Line）の全 Stationの統括管理および運営を行う福井地域鉄道部が置かれている。\n\n優等列車を含めたすべての定期旅客列車が停車するほか、当 Station折り返しの普通列車も多く設定されている。\n\n2階に設置されたan island platform layoutのホームを持つ高架 Stationである。優等列車は通常1番・5番のりばから発車する。2番のりばは、3番のりばの越前花堂方の切り欠き部分にあり、架 Lineが張られていない。ホーム屋根には、「越前海岸の岩」「九頭竜川の河岸段丘」をイメージした天窓が付けられている。\n\nticket gate内には有 people店舗がない。事務管コードは▲541430を使用する。\n\nJR福井 Stationの東側隣接地にあり、island platforman island platform layoutを持つ高架 Stationである。\n\n京福電鉄時代の1996年に鉄道高架化工事が着工され、1997年から2015年まで地上の仮ホームでの営業、2015年から2018年まで北陸新幹 Lineの高架上に設けられた仮ホームでの営業となっていた。\n\n待合室にはコインロッカーと、有料の自動コーヒーメーカーが設置されている。ticket gate前のベンチはかつての地下道へつながる通路の跡地である。\n\n1997年に地上の仮 Stationに移行する以前は、旅客ホームと本 Lineのほか、複数の電留 Lineがあった。高架化工事に伴い用地が縮小され、地上の仮 Stationは、ホームに接する2本の本 Lineの Line路終端部がホームを外れた Station舎両側まで延び、電留 Lineとなる構造・配 Lineとなっていた。電留 Lineと本 Line部分との境界には入換信号機が建植されており、電留 Line部分には2両編成各1本が収容できた。この配 Lineは2018年に完成した高架 Stationにおいても踏襲されており、2本の本 Lineの Line路終端部はホームを外れた先まで延び、電留 Lineとなっている。\n\nのりば\n\nDeparture melody\n2017年より、演奏家の葉加瀬太郎が作曲したバイオリン曲「悠久の一乗谷」が発車メロディに使用されている。\n\nのりば\n\n太陽光発電装置の設置\n Station舎屋根上には地球温暖化防止の取り組みとして、京セラが製造した太陽光発電装置（ソーラーパネル）が設置されている。\n\n自動改札機の導入\n自動ticket gate機は2018年7月24日未明に設置され、運用開始まではカバーがかけられていた。9月8日に磁気券に限定して運用が開始し、9月15日からは交通系ICカード（ICOCAなど）のエリア拡大に伴い交通系ICカードの使用が可能となった。九頭竜 Line（六条 - 九頭竜湖）では利用できない。\n\n自動ticket gate機は6通路設置されており、有 people通路が1通路ある。なお、北陸新幹 Line金沢opened後のJR西日本管内「2府16県」で自動ticket gate機や交通系ICカードが導入されるのは福井県が最後だった。\n\nコンコース \nelevatorやescalator（昇りのみ）も設置されていて、1階のticket gate口と中2階のコンコース～2階のホームを結んでいる。elevatorは福井県内の Stationでは小浜 Lineの上中 Stationに続いて導入され、escalatorに至っては福井県内の Stationでは初めて導入された。\nみどりの窓口・自動券売機・自動ticket gate機・コンビニ・化粧室が設置されており、みどりの窓口にはe5489優先窓口が設置されている。\n\nticket gate前には西口の入り口から飲食店の「今庄そば」・ Station弁販売店・旅行代理店の順にテナントが軒を連ねている。\n\n1階のticket gate内に待合室があり、中2階のコンコースには化粧室が設置されている。かつてはセブン-イレブン キヨスクもあったが、北陸新幹 Lineのりばとの連絡通路に転用するため閉鎖された。\n\nタイムカプセル \n\n1階階段横には北陸新幹 Lineに関連するタイムカプセルが2個設置されている。どちらも新幹 Lineopenedに合わせて開封される予定。\n\n福井県設置のタイムカプセル\n容器はE2系型。西側に設置。\n\nJR西日本設置のタイムカプセル\n容器は恐竜の卵型。東側に設置。\n\nStation building\n Station高架下の施設は南北に延びている。コンコースを挟んで南側にショッピングゾーンの「プリズム福井」がある。\n\n出入口は、県庁や市内バス乗り場側が西口、えちぜん鉄道や高速バス乗り場側が東口で、高架opened後は西口・東口両側からコンコースへ通じ、地平面での東西間通り抜けが可能になっている。\n\nなお、プリズム福井内にも平面の自由通路が1か所設けられている。\n\n※なお現在プリズム福井は北陸新幹 Lineopenedを見据えた Station商業施設の再開発のため、2023年5月28日に営業を終了している。\n\n新幹線 Station\n2005年6月に建設が開始され、2009年2月にホーム800メートル分が完成した。県庁所在地の Stationにも関わらず通過 Lineや待避 Lineのないisland platforman island platform layout \"のみ\" の構造である。これは新幹 Lineopened60年とフル規格の全国103 Station (2024年3月時点) において、史上初および全国最少の設備数となる（島式an island platform layoutは福井 Station以外には静岡県の三島 Stationがあるが、こちらは車両所の増設 Stationでan island platform layout+2通過 Line+各種18 Lineを持つ。当初と構造が異なる理由は、えちぜん鉄道の項も参照）。\n\nホーム長は312mで、12両編成のE7系・W7系が停車できる構造となっている。当初の計画では3階建てのan island platform layoutだったが、景観問題や福井 Stationに接続する当時の京福電気鉄道 (えちぜん鉄道の前身）の複数の衝突事故と存続closed問題などで実現出来なかった。最終的には2階建てに変更され、新幹 Line部分が在来 Lineとえちぜん鉄道に挟まれる配置となり、新幹 Line Station舎が幅半分のan island platform layoutでホーム金沢方が急カーブの Line路となった。そのため、安全性と利便性（構造上の問題を解決するための特例等）に関する要望が出された。景観的には Station以北は2階建て高さの高架橋に収まったが、 Station南部のおよそ6kmは実質3階建て高さの高架路 Lineが続く。費用的にはホームのみ半額になったが、 Station以北が2重高架橋1路 Lineから単式高架橋2路 Line（新幹 Lineとえちぜん鉄道 Line）に拡幅されたため、数万㎡の新規用地取得と2倍の基礎工事費など2路 Line合計では大きな増額となった。\n\n新幹 Line Stationデザインは市内産の笏谷石を使用して「和」を演出し、外観に関しては一乗谷朝倉氏遺跡や永平寺の唐門がモデルとなっている。ホームの天井・床も木調にする。両ホームに設置されるホームドア（可動式安全柵）には、福井県立恐竜博物館など福井の名所の写真が展示されている。\n\n外観は2021年8月にほぼ完成した状態となっており、 Station舎は2022年8月25日に工事が完了。また、新幹 Line Stationのopenedに合わせ、東口を「一乗谷口」、西口を「福井城址口」となることが発表された。\n\nのりば\n\n旧駅舎時代\n西口に大きな中央ticket gate口があり、現在の金沢 Stationと同様に Station構内（東口）と Stationビル内にもそれぞれticket gate口が設置されていた。\n\n Stationビルは「福井ステーションビル」と称し、 Stationビルのticket gateについては Stationビルの営業時間内にのみ利用可能となっていた。ステーションビル内には宿泊施設｢福井ステーションビルホテル｣も所在していた。\n\nまた、 Station舎内の通り抜けは一切できない構造のため、反対側に連絡する際はticket gate外にある地下道を通る必要があった。\n\nまた、ホームでは当地の名産品の一つ「ハープ」を使用した接近・発車メロディが採用されていた。JR西日本管内の北陸地方主要 Stationでは1980年代後半から1990年代初頭にかけて富山・金沢・福井の順に、所在地とゆかりのある楽曲などをメロディに採用する取り組みが行われていた。この楽曲を作曲したのは当地出身でハープ奏者の雨田光示で、1990年12月25日から2000年2月8日の北陸 LineCTC化まで10年間採用されていた。採用当初は2曲が用意されていたが、使用終了時点では1曲のみが使用されていた。\n\nえちぜん鉄道\n近年の推移は以下のとおりである。\n\n 勝山永平寺 Line（三国芦原 Line直通含む）\n\n高架化計画\n当初の計画案では、 Stationを3階建てとし、2階に京福電気鉄道（現在のえちぜん鉄道）が乗り入れ、3階に新幹 Lineが乗り入れる予定だったが。景観問題と度重なる衝突事故による京福路 Lineの存続closed問題を勘案した結果、2階建てで決着した。その後、先行的に新幹 Lineホームを竣工させ、そこに京福電気鉄道を乗り入れさせて暫定的に高架化することが考えられたが、北陸新幹 Lineの着工が具体化すると、今度は新幹 Lineとえちぜん鉄道がそれぞれ単 Lineで高架 Stationに乗り入れる案が浮上した。この案では、三国芦原 Lineは高架化せず、LRT化した上で福井鉄道に乗り入れるとされた。\n\nしかし、2011年に北陸新幹 Lineを金沢 Station - 敦賀 Station間で着工されることが決まると、途中 Stationとなる当 Stationを単 Lineとするには難があることから、結局えちぜん鉄道の福井 Stationは現在 Line（当初計画の仮 Line）の位置に独立して設置されることとなった。この計画では、まず北陸新幹 Lineの高架を完成させ、そこにえちぜん鉄道を乗り入れさせる。その上で現在 Lineの位置に高架 Stationを建設するもので、2015年9月27日に仮 Lineへrelocatedした。2018年6月24日にえちぜん鉄道高架橋での営業運転を開始した。\n\nホームは当初、1番 Lineが勝山永平寺 Line、2番 Lineが三国芦原 Lineになっていたが、勝山と三国港の位置関係を考えて順序が入れ替わった。その後、新福井 Station - 福井口 Station間が単 Lineになると、番 Line・方面の区別がなくなった。\n\n福井鉄道\n福井 Station停留場は、JR福井 Station西口広場にある福井鉄道福武 Lineの電停。この電停は、福武 Line本 Lineの福井城址大名町停留場からの分岐 Line（ヒゲ Line）に設けられており、an island platform layoutの構造である。なお一部の列車は当電停で終着とならず、福井城址大名町に戻って継続運行されるので、設備上は終着 Stationでありながら運行上は途中 Stationにも分類される珍しい形態となっている。\n\n2016年3月27日、路 Lineを143メートル延長し西口 Station前広場に移設、同時に福井 Station前停留場から福井 Station停留場へrenamedした。\n\nのりば\n\nStation meals\n主な Station弁は下記の通り。\n\nかにうなぎ福めし\nThis is a Wikipedia category section for かにうなぎ福めし.\n\nおとなの焼き鯖寿し\n北前廻船丼 かに・いくら\n\n越前贅かにいなり\nThis is a Wikipedia category section for 越前贅かにいなり.\n\n金沢牛おこわ\n秋きのこと松茸の里弁当（9 - 11月）\n\nSurrounding area\n Station表（西口側）は福井県内最大の繁華街で再開発が進んでおり、2016年には高層再開発ビルのハピリンがopenedしている。\n商店街とホテルのほか、福井では唯一の百貨店（西武福井店）がありオフィスビルが建ち並ぶ。バスターミナルは Station西側300mから500mの路上に市内バス乗り場、西側約600mの福井県繊協ビル1階に郊外バス乗り場（京福バスターミナル）があったが、2010年3月31日で営業を終了し、「市内バス乗り場」に集約されたのち、2016年3月27日の西口交通広場の使用開始によって、福井鉄道の軌道 Lineextensionと同時に同広場のバス乗降場へrelocatedし、各交通機関相互の乗継の利便性が大幅に高まった。また Station前広場に恐竜像が置かれ、西口側の Stationの壁面に恐竜のラッピングが施されるなどして、福井県の観光資源である恐竜をPRしている。\n\n Station裏（東口側）は住宅街となっているが、2000年代に入ってからは東口においても再開発が進められており、西口同様ビジネスホテル（ホテルエコノ福井 Station前など）がある。2007年4月19日に再開発ビル「AOSSA」（ground level・second basement level建て）がオープンしており、商業施設および県民会館や福井市立桜木図書館などの公共施設が入っている。2009年5月22日には交通広場の整備に伴い高速バス乗降場が移設openedし、新たな一面をのぞかせつつある。\n\nWest exit\n西口には福井城址をはじめとする史跡や、福井県庁・福井県警察本部（福井城址内）・福井市役所などの各種公共機関、福井銀行本店などの金融機関、宿泊施設が多く軒を連ねる。また、老舗百貨店を前身とする西武福井店やシネコンなどの商業施設も西口側に集積しており、「片町」と呼ばれる歓楽街も西口側にある。\n\nEast exit\n東口側は高層ビルがほとんどなく、住宅街となっている。\n\n高速路線バス・空港連絡バス・特急バス\nかつて高速路 Lineは、西口から約600m離れた京福バスターミナルより発車していたが、。また2013年の高速路 Lineバス制度発足に伴い、旧高速ツアーバスから転換した路 Lineが同交通広場外に新設した停留場を使用している。\n\n福井駅東口停留場\n東口正面方向に1番のりば、ロータリー沿って入口方向へ2番、3番と続く。4番のりばは3番のりばから南約50m、木田橋通り路上のAOSSA東中央玄関付近にある。\n\nPlatform 1\nドリーム福井号・青春ドリーム福井号（京福バス・福井鉄道・JRバス関東）\n 福井 - 東京 Line「昼特急」（京福バス・福井鉄道）\n 北陸道特急バス 福井⇔名古屋（京福バス・福井鉄道・JR東海バス・名鉄バス）\n 永平寺ライナー 福井⇔永平寺（京福バス）\n スキージャム勝山 直行バス（京福バス）※12月中旬〜翌年4月上旬運行\n\nPlatform 2\n福井⇔大阪梅田（京福バス・福井鉄道・阪急観光バス）\n 福井⇔小松空港（京福バス）\n 朝倉・永平寺ダイレクトパス 福井⇔永平寺（福井交通）\n\nPlatform 3\n北陸道青春昼特急大阪号 金沢⇔福井⇔京都・大阪（西日本JRバス）\n 北陸ドリーム四国号 富山発着・福井⇔徳島・高松・高知（西日本JRバス・JR四国バス） ※運休中\n 百万石ドリーム広島号  富山発着・福井⇔岡山・広島（西日本JRバス・中国JRバス）\n\nPlatform 4\nWILLER EXPRESS ※運休中\n 東京ディズニーランド・新宿⇔福井（WILLER EXPRESS）\n 東京ディズニーランド・池袋⇔福井（WILLER EXPRESS）\n オリオンバス 東京ディズニーランド・東京 Station・新宿⇔福井（オー・ティー・ビー、大野観光自動車）\n キラキラ号 海老名(福井発便のみ)・横浜・新宿⇔福井（桜交通）\n 杉崎高速バス 横浜・東京 Station・大宮⇔福井（杉崎観光バス、武井観光）\n 中日本ハイウェイバス 小松発着・福井⇔東京 Station・東京ディズニーランド（中日本ツアーバス）\n\n無料バス\n定期運行する無料バスは、東口交通広場の観光バス乗降場（3番のりばの後方）を発着する。\n フレンドリーバス　福井 Station東口⇔福井市美術館・福井県生活学習館・福井県立図書館（福井県）\n 福井けいりん送迎バス（京福バス）\n ボートレース三国送迎バス（京福バス）\n\nLocal bus routes\n一般路 Lineバスは、いずれも西口交通広場バスのりばを起終点または経由地としており、福井市内一円、および一部隣接市町の主要地へ向かう。\n\n福井駅停留場\n2016年の福井鉄道extensionの際にバスターミナルをopened、のりばを6か所設けている。路 Lineバス専用ロータリー入口寄りから降車場、1番のりば（JR Station玄関至近）…6番のりば（福井鉄道電停車止至近）の順となっている。ただし、☆の系統の降車場は約150m北の福井県道128号福井停車場米松 Line（お泉水通り、ホテルルートイン付近）路上。\n\n 1番のりば 京福バス（北東・東方面）\n 36 県立病院丸岡 Line ☆\n 37 大学病院 Line☆\n 38 大和田大学病院 Line\n 39 大和田丸岡 Line\n 51 済生会問屋団地 Line（上北野先回り）☆\n 52 済生会問屋団地 Line（済生会病院先回り）☆\n 57 心臓センター・町屋 Line\n 2番のりば 京福バス（北・北東方面）\n 20 幾久・新田塚 Line（町屋町先回り）\n 21 幾久・新田塚 Line（福井大学前先回り）☆\n 23 福井総合クリニック Line\n 24 福井総合クリニック Line\n 25 エンゼルランド Line\n 26 福井総合病院 Line\n 27 大学病院・新田塚 Line\n 28 運転者教育センター Line\n 31 丸岡 Line\n 32 丸岡 Line☆\n 3番のりば 京福バス（北西方面）\n 10 越前海岸ブルーライン Line\n 11 大安寺 Line（福井総合病院行 / 剣大谷止）\n 12 学園 Line\n 13 桜ヶ丘団地 Line\n 15 越前海岸ブルーライン Line\n 16 川西・三国 Line\n 17 越前海岸ブルーライン Line快速\n 18 学園 Line快速（福井高校前行：次停留場「 Station前大通り（2番）」のみ停車）\n 4番のりば 京福バス（西・南西方面）\n 70 運動公園 Line（道守高校先回り）\n 74 清水グリーンライン Line - 一部便は終点「清水プラント3」より72 天王、73 Cネット福井、79 織田へ直通\n 76 西田中・宿堂 Line（天王止 / 宿堂行）\n 78 茱崎 Line\n 5番のりば 京福バス（東・南・南東・南西方面）、福井鉄道\n 55 大野 Line\n 59 大野 Line\n 60 羽水高校 Line\n 62 一乗谷東郷 Line（浄教寺行 / 鹿俣行）☆\n 71 運動公園 Line（ベル前先回り）\n 福鉄バス福浦 Line（かれい崎行 / 田原町行）\n 6番のりば 京福バス「すまいるバス」\n 北方面 田原 - 文京方面\n 東方面 城東 - 日之出方面\n 西方面 照手 - 足羽方面\n 南方面 木田・板垣方面\n\n福井駅行到着便のみ\n京福バス 30 高木 Line\n\nAdjacent stations\n※当 Stationに停車する特急「サンダーバード」・「しらさぎ」・「ダイナスター」（当 Station始発・終着）・「おはようエクスプレス」（平日下りのみ運転）・「おやすみエクスプレス」（平日上りのみ運転）の隣の停車 Stationは各列車記事を参照のこと。\n\n 西日本旅客鉄道（JR西日本）\n\n北陸本 Line\n越前花堂 Station -（貨）南福井 Station - 福井 Station - 森田 Station\n JR西日本からハピラインふくいへの移管後、当 Station - 森田 Station間に新 Stationが設置される予定となっている。\n 九頭竜 Line（越美北 Line、ただし越前花堂 Stationまでは北陸本 Line）\n 福井 Station -（貨）南福井 Station - 越前花堂 Station\n\n快速（上り到着列車のみ）・普通\n福井 Station (E1) - 新福井 Station (E2)\n\n急行・臨時急行・普通\n福井城址大名町 Station (F21) - 福井 Station停留場 (F22)\n\n建設中の路 Line\n西日本旅客鉄道（JR西日本）\n\n北陸新幹 Line\n芦原温泉 Station - 福井 Station - 越前たけふ Station\n\n三国 Line\n上牧 Station・水無瀬 Station・大山崎 Station - いずれも阪急電鉄京都本 Lineの Station。一時opened前の東海道新幹 Lineの高架を借用して営業。\n  Stationスタンプ - 1931、日本で最初にスタンプが設置された。\n\nRailway stations in 福井市\nThis is a Wikipedia category section for Railway stations in 福井市.\n\nJNR railway stations\nThis is a Wikipedia category section for JNR railway stations.",
+          "字数": 12018
         }
       },
       "结构化信息": {
@@ -1023,9 +1157,16 @@
           "词条标题": "Miyama Station",
           "链接": "https://ja.wikipedia.org/wiki/%E7%BE%8E%E5%B1%B1%E9%A7%85",
           "首段": "Miyama Station (美山駅) is a railway station in 県福井市境寺町, Japan.",
-          "章节": {},
-          "全文": "Miyama Station (美山駅) is a railway station in 県福井市境寺町, Japan.",
-          "字数": 60
+          "章节": {
+            "History": "1960年(1960)12月15日：越美北 Lineが勝原 Stationまでopenedした際に設置。\n 1987年(1987)4月1日：国鉄分割民営化により西日本旅客鉄道の Stationになる。\n 1992年(1992)： Station員配置をclosedし、無 people Stationとなる\n 2004年(2004)\n 7月18日：豪雨により越美北 Line全 Line運転suspended。\n 9月11日：当 Station - 越前大野 Station間で列車の運行を再開。以降当 Stationから一乗谷 Stationまでの運行の再開まで、越前東郷 Stationゆきの代行バスが Station前に発着した。また、2005年6月より西日本ジェイアールバスが代行バスの運行を担当するにあたって、 Station敷地内の倉庫及び道路向かいの土地を利用し、金沢営業所美山派出所をopenedしていた。\n 2007年(2007)6月30日：当 Station - 一乗谷 Station間の復旧が完了して福井側と接続、3年ぶりに越美北 Lineの全面運行を再開。",
+            "Station layout": "island platforman island platform layoutを有し、列車交換が可能な地上 Station。かつては越前東郷 Stationとよく似た Station舎があったが、現在は「美山観光ターミナル」と合築の新しい簡易 Station舎が建っている。ホームへの出入りは福井寄りの構内踏切による。福井地域鉄道部管理の無 people Stationとなっており、自動券売機は設置されていない。\n\n現在の Station舎は2代目で、越美北 Lineopened当初の Station舎を撤去後、ローソンがJR西日本金沢支社の誘致によって新 Station舎「美山観光ターミナル」の隣の駐車場内にopenedしたものの、国道158号の奈良瀬境寺バイパスが開通したため現道とバイパスの合流地点である越前薬師 Station周辺にrelocatedし、更地となった。\n\nのりば \n\n※案内上ののりば番号は設定されていない。",
+            "上宇坂郵便局": "福井市役所美山連絡所（旧・美山町役場）",
+            "福井市美山中学校": "国道158号（現道）",
+            "Adjacent stations": "西日本旅客鉄道（JR西日本）\n 九頭竜 Line（越美北 Line）\n 小和清水 Station - 美山 Station - 越前薬師 Station",
+            "Railway stations in 福井市": "This is a Wikipedia category section for Railway stations in 福井市."
+          },
+          "全文": "Miyama Station (美山駅) is a railway station in 県福井市境寺町, Japan.\n\nHistory\n1960年(1960)12月15日：越美北 Lineが勝原 Stationまでopenedした際に設置。\n 1987年(1987)4月1日：国鉄分割民営化により西日本旅客鉄道の Stationになる。\n 1992年(1992)： Station員配置をclosedし、無 people Stationとなる\n 2004年(2004)\n 7月18日：豪雨により越美北 Line全 Line運転suspended。\n 9月11日：当 Station - 越前大野 Station間で列車の運行を再開。以降当 Stationから一乗谷 Stationまでの運行の再開まで、越前東郷 Stationゆきの代行バスが Station前に発着した。また、2005年6月より西日本ジェイアールバスが代行バスの運行を担当するにあたって、 Station敷地内の倉庫及び道路向かいの土地を利用し、金沢営業所美山派出所をopenedしていた。\n 2007年(2007)6月30日：当 Station - 一乗谷 Station間の復旧が完了して福井側と接続、3年ぶりに越美北 Lineの全面運行を再開。\n\nStation layout\nisland platforman island platform layoutを有し、列車交換が可能な地上 Station。かつては越前東郷 Stationとよく似た Station舎があったが、現在は「美山観光ターミナル」と合築の新しい簡易 Station舎が建っている。ホームへの出入りは福井寄りの構内踏切による。福井地域鉄道部管理の無 people Stationとなっており、自動券売機は設置されていない。\n\n現在の Station舎は2代目で、越美北 Lineopened当初の Station舎を撤去後、ローソンがJR西日本金沢支社の誘致によって新 Station舎「美山観光ターミナル」の隣の駐車場内にopenedしたものの、国道158号の奈良瀬境寺バイパスが開通したため現道とバイパスの合流地点である越前薬師 Station周辺にrelocatedし、更地となった。\n\nのりば \n\n※案内上ののりば番号は設定されていない。\n\n上宇坂郵便局\n福井市役所美山連絡所（旧・美山町役場）\n\n福井市美山中学校\n国道158号（現道）\n\nAdjacent stations\n西日本旅客鉄道（JR西日本）\n 九頭竜 Line（越美北 Line）\n 小和清水 Station - 美山 Station - 越前薬師 Station\n\nRailway stations in 福井市\nThis is a Wikipedia category section for Railway stations in 福井市.",
+          "字数": 1234
         }
       },
       "结构化信息": {
@@ -1099,9 +1240,16 @@
           "词条标题": "Hakariishi Station",
           "链接": "https://ja.wikipedia.org/wiki/%E8%A8%88%E7%9F%B3%E9%A7%85",
           "首段": "Hakariishi Station (計石駅) is a railway station in 県福井市計石町, Japan.",
-          "章节": {},
-          "全文": "Hakariishi Station (計石駅) is a railway station in 県福井市計石町, Japan.",
-          "字数": 64
+          "章节": {
+            "Overview": "福井地域鉄道部が管理している無 people Stationで、自動券売機等は設置されていない。\n\n起点の越前花堂 Stationから延々と続いてきた福井市内に属する Stationは当 Stationが最後で、福井市の最も東部に位置している（旧美山町が福井市に編入合併される前は同町に属する最後の Stationでもあった）。",
+            "History": "1960年(1960)12月15日：越美北 Lineが勝原 Stationまでopenedした際に設置。 Station員無配置 Station。\n 1987年(1987)4月1日：国鉄分割民営化により西日本旅客鉄道の Stationとなる。\n 2004年(2004)\n 7月18日：豪雨により越美北 Line全 Line運転suspended。\n 9月11日：美山 Station - 越前大野 Station間で列車の運行を再開。\n 同年9月10日まで設置されていた代行バス乗り場は、京福バス計石停留所であった。",
+            "Station layout": "九頭竜湖方面に向かって右側にside platforman island platform layoutを有する地上 Station（停留所）。opened当初から簡単なホームと待合所のみを備えており、福井寄りの出入口から直接ホームに入る形である。",
+            "Surrounding area": "当 Station付近は、越美北 Line（九頭竜 Line）の横を国道158号が並行する。 Station付近は田が多いが、民家が点在している。",
+            "Adjacent stations": "西日本旅客鉄道（JR西日本）\n 九頭竜 Line（越美北 Line）\n 越前大宮 Station - 計石 Station - 牛ケ原 Station",
+            "Railway stations in 福井市": "This is a Wikipedia category section for Railway stations in 福井市."
+          },
+          "全文": "Hakariishi Station (計石駅) is a railway station in 県福井市計石町, Japan.\n\nOverview\n福井地域鉄道部が管理している無 people Stationで、自動券売機等は設置されていない。\n\n起点の越前花堂 Stationから延々と続いてきた福井市内に属する Stationは当 Stationが最後で、福井市の最も東部に位置している（旧美山町が福井市に編入合併される前は同町に属する最後の Stationでもあった）。\n\nHistory\n1960年(1960)12月15日：越美北 Lineが勝原 Stationまでopenedした際に設置。 Station員無配置 Station。\n 1987年(1987)4月1日：国鉄分割民営化により西日本旅客鉄道の Stationとなる。\n 2004年(2004)\n 7月18日：豪雨により越美北 Line全 Line運転suspended。\n 9月11日：美山 Station - 越前大野 Station間で列車の運行を再開。\n 同年9月10日まで設置されていた代行バス乗り場は、京福バス計石停留所であった。\n\nStation layout\n九頭竜湖方面に向かって右側にside platforman island platform layoutを有する地上 Station（停留所）。opened当初から簡単なホームと待合所のみを備えており、福井寄りの出入口から直接ホームに入る形である。\n\nSurrounding area\n当 Station付近は、越美北 Line（九頭竜 Line）の横を国道158号が並行する。 Station付近は田が多いが、民家が点在している。\n\nAdjacent stations\n西日本旅客鉄道（JR西日本）\n 九頭竜 Line（越美北 Line）\n 越前大宮 Station - 計石 Station - 牛ケ原 Station\n\nRailway stations in 福井市\nThis is a Wikipedia category section for Railway stations in 福井市.",
+          "字数": 926
         }
       },
       "结构化信息": {
@@ -1175,9 +1323,16 @@
           "词条标题": "越前下山駅",
           "链接": "https://ja.wikipedia.org/wiki/%E8%B6%8A%E5%89%8D%E4%B8%8B%E5%B1%B1%E9%A7%85",
           "首段": "越前下山駅 (越前下山駅) is a railway station in 県大野市下山, Japan.",
-          "章节": {},
-          "全文": "越前下山駅 (越前下山駅) is a railway station in 県大野市下山, Japan.",
-          "字数": 52
+          "章节": {
+            "History": "1972年(1972)12月15日：越美北 Lineの勝原 Station - 九頭竜湖 Station間extensionと同時にOpened.旅客営業のみ。\n 1987年(1987)4月1日：国鉄分割民営化により西日本旅客鉄道の Stationとなる。\n 2004年(2004)\n 7月18日：豪雨により越美北 Line全 Line運行suspended。\n 7月20日：越前大野 Station - 九頭竜湖 Station間で列車の運行を再開。",
+            "Station layout": "九頭竜湖方面に向かって右側にside platforman island platform layoutを有する地上 Station（停留所）。opened当初から簡単なホームと待合所のみを備える。福井地域鉄道部管理の無 people Stationとなっており、自動券売機等の設備もない。ホームは周辺の道路よりも高い位置にあるため、入る際には坂を上ることになる。\n\n九頭竜湖 Station側に登りとなる勾配上にホームがあるため、積雪時には九頭竜湖行きは通過扱いとなる場合がある。福井行きは当 Stationに停車するため特別に折り返し列車への乗車を認めている。",
+            "Surrounding area": "九頭竜温泉 - 「平成の湯」の無料バスが列車到着時刻にあわせて当 Stationに客を迎えに来る。",
+            "国道158号": "中部縦貫自動車道 下山インターチェンジ",
+            "Adjacent stations": "西日本旅客鉄道（JR西日本）\n 九頭竜 Line（越美北 Line）\n 勝原 Station - 越前下山 Station - 九頭竜湖 Station",
+            "Railway stations in 大野市": "This is a Wikipedia category section for Railway stations in 大野市."
+          },
+          "全文": "越前下山駅 (越前下山駅) is a railway station in 県大野市下山, Japan.\n\nHistory\n1972年(1972)12月15日：越美北 Lineの勝原 Station - 九頭竜湖 Station間extensionと同時にOpened.旅客営業のみ。\n 1987年(1987)4月1日：国鉄分割民営化により西日本旅客鉄道の Stationとなる。\n 2004年(2004)\n 7月18日：豪雨により越美北 Line全 Line運行suspended。\n 7月20日：越前大野 Station - 九頭竜湖 Station間で列車の運行を再開。\n\nStation layout\n九頭竜湖方面に向かって右側にside platforman island platform layoutを有する地上 Station（停留所）。opened当初から簡単なホームと待合所のみを備える。福井地域鉄道部管理の無 people Stationとなっており、自動券売機等の設備もない。ホームは周辺の道路よりも高い位置にあるため、入る際には坂を上ることになる。\n\n九頭竜湖 Station側に登りとなる勾配上にホームがあるため、積雪時には九頭竜湖行きは通過扱いとなる場合がある。福井行きは当 Stationに停車するため特別に折り返し列車への乗車を認めている。\n\nSurrounding area\n九頭竜温泉 - 「平成の湯」の無料バスが列車到着時刻にあわせて当 Stationに客を迎えに来る。\n\n国道158号\n中部縦貫自動車道 下山インターチェンジ\n\nAdjacent stations\n西日本旅客鉄道（JR西日本）\n 九頭竜 Line（越美北 Line）\n 勝原 Station - 越前下山 Station - 九頭竜湖 Station\n\nRailway stations in 大野市\nThis is a Wikipedia category section for Railway stations in 大野市.",
+          "字数": 870
         }
       },
       "结构化信息": {
@@ -1248,9 +1403,14 @@
           "词条标题": "越前大宮駅",
           "链接": "https://ja.wikipedia.org/wiki/%E8%B6%8A%E5%89%8D%E5%A4%A7%E5%AE%AE%E9%A7%85",
           "首段": "越前大宮駅 (越前大宮駅) is a railway station in 県福井市大宮町, Japan.",
-          "章节": {},
-          "全文": "越前大宮駅 (越前大宮駅) is a railway station in 県福井市大宮町, Japan.",
-          "字数": 53
+          "章节": {
+            "History": "1960年(1960)12月15日：越美北 Lineが勝原 Stationまでopenedした際に設置。 Station員無配置 Station。\n 1987年(1987)4月1日：国鉄分割民営化により西日本旅客鉄道の Stationとなる。\n 2004年(2004)\n 7月18日：豪雨により越美北 Line全 Line運転suspended。\n 9月11日：美山 Station - 越前大野 Station間で列車の運行を再開。\n 2004年(2004)9月10日まで設置されていた代行バス乗り場は京福バス大宮停留所であった。",
+            "Station layout": "九頭竜湖方面に向かって左側にside platforman island platform layoutをもつ地上 Station（停留所）。opened当初からの無 people Stationで、設備としては簡易なホームと待合所があるのみとなっており、福井寄りの出入口から直接ホームに入る形である。自動券売機等の設置はない。福井地域鉄道部管理。",
+            "Adjacent stations": "西日本旅客鉄道（JR西日本）\n 九頭竜 Line（越美北 Line）\n 越前薬師 Station - 越前大宮 Station - 計石 Station",
+            "Railway stations in 福井市": "This is a Wikipedia category section for Railway stations in 福井市."
+          },
+          "全文": "越前大宮駅 (越前大宮駅) is a railway station in 県福井市大宮町, Japan.\n\nHistory\n1960年(1960)12月15日：越美北 Lineが勝原 Stationまでopenedした際に設置。 Station員無配置 Station。\n 1987年(1987)4月1日：国鉄分割民営化により西日本旅客鉄道の Stationとなる。\n 2004年(2004)\n 7月18日：豪雨により越美北 Line全 Line運転suspended。\n 9月11日：美山 Station - 越前大野 Station間で列車の運行を再開。\n 2004年(2004)9月10日まで設置されていた代行バス乗り場は京福バス大宮停留所であった。\n\nStation layout\n九頭竜湖方面に向かって左側にside platforman island platform layoutをもつ地上 Station（停留所）。opened当初からの無 people Stationで、設備としては簡易なホームと待合所があるのみとなっており、福井寄りの出入口から直接ホームに入る形である。自動券売機等の設置はない。福井地域鉄道部管理。\n\nAdjacent stations\n西日本旅客鉄道（JR西日本）\n 九頭竜 Line（越美北 Line）\n 越前薬師 Station - 越前大宮 Station - 計石 Station\n\nRailway stations in 福井市\nThis is a Wikipedia category section for Railway stations in 福井市.",
+          "字数": 707
         }
       },
       "结构化信息": {
@@ -1334,9 +1494,21 @@
           "词条标题": "越前大野駅",
           "链接": "https://ja.wikipedia.org/wiki/%E8%B6%8A%E5%89%8D%E5%A4%A7%E9%87%8E%E9%A7%85",
           "首段": "越前大野駅 (越前大野駅) is a railway station in 県大野市弥生町, Japan.",
-          "章节": {},
-          "全文": "越前大野駅 (越前大野駅) is a railway station in 県大野市弥生町, Japan.",
-          "字数": 53
+          "章节": {
+            "History": "1960年(1960)12月15日：日本国有鉄道越美北 Lineが勝原 Stationまで開通すると同時にOpened.旅客・貨物の取扱を開始。\n 福島県の大野 Stationが既にopenedしていたため、｢越前｣が付いた。\n 1982年(1982)11月15日：貨物の取扱をclosed。\n 1987年(1987)4月1日：国鉄分割民営化により西日本旅客鉄道の Stationとなる。\n 2004年(2004)\n 7月18日：豪雨により越美北 Line全 Line運行suspendedとなり、当 Stationも営業suspended。\n 7月20日：当 Stationから九頭竜湖 Stationの間で列車の運行が再開され、当 Stationも営業再開。 \n 9月11日：美山 Stationから当 Stationの間で列車の運行を再開。\n 代行バス乗り場は Station前に置かれた。\n 2007年(2007)6月30日：最後まで不通だった一乗谷 Station - 美山 Station間の復旧により、3年ぶりに越美北 Line全面再開。\n 2008年(2008)6月1日：当 Stationに置かれていた越前大野鉄道部がclosedされ、福井地域鉄道部管轄となる。\n 2014年(2014)2月26日：この日をもってキヨスク閉店。\n 2022年(2022)\n 3月11日：この日をもってみどりの窓口が営業終了。\n 3月12日：みどりの券売機プラスを導入。",
+            "Station layout": "island platforman island platform layoutと側 Line数本を有し、列車交換が可能な地上 Stationである。コンクリート平屋の Station舎を備える。2003年、 Stationの玄関前に木造平屋「やすらぎ空間」を増設した。 Station舎からホームへは九頭竜湖寄りの構内踏切で連絡している。\n\n福井地域鉄道部管理の直営 Stationで、みどりの券売機プラスが設置されている。大野市の代表する Stationで、当路 Line内では唯一 Station員が配置されている（ただし、北陸本 Line区間の福井 Stationは有 people)。2008年5月31日までは越美北 Lineの運営・管理を行う越前大野鉄道部が当 Stationに置かれていたが、翌日の組織改正により同鉄道部は福井地域鉄道部に統合される形でclosedされている。当路 Line単独の距離としては、越前花堂 Stationからおよそ5分の3（全体で52.5km）に位置する。\n\n当 Station以南に列車交換できる Stationがないため、当 Station - 九頭竜湖 Station間はJRでは数少なく、JR西日本管内では唯一のスタフ閉塞区間となっている。\n\nのりば \n\n上表の路 Line名は旅客案内上の名称（愛称）で表記している。\n\nかつてより列車運転指令上では1番のりばが「上り本 Line」、2番のりばが「下り本 Line」となっているが、2番のりばが上下双方向の入 Line・出発に対応しており、かつ構内踏切を干渉しない Line路配置になっていることもあるためか、通常は両方向とも2番のりばに停車する（福井方面からの折り返し列車含む）。\n\nまた、当 Stationで分割を行う列車もあり、朝10時台に当 Stationまで2両で運転される九頭竜湖行きの列車は2両目が切り離されて折り返しの福井行きとなる（2021年10月のダイヤ改正でclosed）。",
+            "乗降客数": "2011fiscal year : 640( people/日)\n 2012fiscal year : 625\n 2013fiscal year : 628\n 2014fiscal year : 582\n 2015fiscal year : 570\n 2016fiscal year : 514\n 2017fiscal year : 461\n 2018fiscal year : 468\n 2019fiscal year : 460",
+            "Surrounding area": "2011年3月から Station前広場再整備の工事に着手し、約8か月の工事を経て、10月22日に新しい Station前広場の供用を開始した。",
+            "京福バス「越前大野駅」停留所": "46 勝山・大野 Line：福井勝山総合病院・坂東島（勝山市）\n 55・59 大野 Line：福井 Station\n 46 勝山・大野 Line、55・59 大野 Line：ヴィオ",
+            "大野市営バス": "和泉 Line：九頭竜湖 Station\n 道の Station Line：道の Station",
+            "ゆう・ゆうバス": "北ルート：文化会館・大野警察署・北大野 Station口・大野市役所方面（循環）\n 南ルート：大野市役所・大野高校前・篠座・神明町・美里町方面（循環）",
+            "小山・木本堀兼 Line": "勝山・大野ライン：勝山 Station",
+            "Adjacent stations": "西日本旅客鉄道（JR西日本）\n 九頭竜 Line（越美北 Line）\n 北大野 Station - 越前大野 Station - 越前田野 Station",
+            "List of railway stations in Japan": "中部の Station百選 - 第3回（2001年）認定25 Stationのひとつ。\n 相模大野 Station - 当 Stationと同じく、福島県の大野 Stationと区別するために神奈川県の旧国名「相模」をつけた。\n 京福大野 Station - 当 Stationのopened以前から大野市内に設置されていた京福電気鉄道越前本 Lineの Station。福島県の大野 Stationと区別するために社名を冠した。",
+            "Railway stations in 大野市": "This is a Wikipedia category section for Railway stations in 大野市."
+          },
+          "全文": "越前大野駅 (越前大野駅) is a railway station in 県大野市弥生町, Japan.\n\nHistory\n1960年(1960)12月15日：日本国有鉄道越美北 Lineが勝原 Stationまで開通すると同時にOpened.旅客・貨物の取扱を開始。\n 福島県の大野 Stationが既にopenedしていたため、｢越前｣が付いた。\n 1982年(1982)11月15日：貨物の取扱をclosed。\n 1987年(1987)4月1日：国鉄分割民営化により西日本旅客鉄道の Stationとなる。\n 2004年(2004)\n 7月18日：豪雨により越美北 Line全 Line運行suspendedとなり、当 Stationも営業suspended。\n 7月20日：当 Stationから九頭竜湖 Stationの間で列車の運行が再開され、当 Stationも営業再開。 \n 9月11日：美山 Stationから当 Stationの間で列車の運行を再開。\n 代行バス乗り場は Station前に置かれた。\n 2007年(2007)6月30日：最後まで不通だった一乗谷 Station - 美山 Station間の復旧により、3年ぶりに越美北 Line全面再開。\n 2008年(2008)6月1日：当 Stationに置かれていた越前大野鉄道部がclosedされ、福井地域鉄道部管轄となる。\n 2014年(2014)2月26日：この日をもってキヨスク閉店。\n 2022年(2022)\n 3月11日：この日をもってみどりの窓口が営業終了。\n 3月12日：みどりの券売機プラスを導入。\n\nStation layout\nisland platforman island platform layoutと側 Line数本を有し、列車交換が可能な地上 Stationである。コンクリート平屋の Station舎を備える。2003年、 Stationの玄関前に木造平屋「やすらぎ空間」を増設した。 Station舎からホームへは九頭竜湖寄りの構内踏切で連絡している。\n\n福井地域鉄道部管理の直営 Stationで、みどりの券売機プラスが設置されている。大野市の代表する Stationで、当路 Line内では唯一 Station員が配置されている（ただし、北陸本 Line区間の福井 Stationは有 people)。2008年5月31日までは越美北 Lineの運営・管理を行う越前大野鉄道部が当 Stationに置かれていたが、翌日の組織改正により同鉄道部は福井地域鉄道部に統合される形でclosedされている。当路 Line単独の距離としては、越前花堂 Stationからおよそ5分の3（全体で52.5km）に位置する。\n\n当 Station以南に列車交換できる Stationがないため、当 Station - 九頭竜湖 Station間はJRでは数少なく、JR西日本管内では唯一のスタフ閉塞区間となっている。\n\nのりば \n\n上表の路 Line名は旅客案内上の名称（愛称）で表記している。\n\nかつてより列車運転指令上では1番のりばが「上り本 Line」、2番のりばが「下り本 Line」となっているが、2番のりばが上下双方向の入 Line・出発に対応しており、かつ構内踏切を干渉しない Line路配置になっていることもあるためか、通常は両方向とも2番のりばに停車する（福井方面からの折り返し列車含む）。\n\nまた、当 Stationで分割を行う列車もあり、朝10時台に当 Stationまで2両で運転される九頭竜湖行きの列車は2両目が切り離されて折り返しの福井行きとなる（2021年10月のダイヤ改正でclosed）。\n\n乗降客数\n2011fiscal year : 640( people/日)\n 2012fiscal year : 625\n 2013fiscal year : 628\n 2014fiscal year : 582\n 2015fiscal year : 570\n 2016fiscal year : 514\n 2017fiscal year : 461\n 2018fiscal year : 468\n 2019fiscal year : 460\n\nSurrounding area\n2011年3月から Station前広場再整備の工事に着手し、約8か月の工事を経て、10月22日に新しい Station前広場の供用を開始した。\n\n京福バス「越前大野駅」停留所\n46 勝山・大野 Line：福井勝山総合病院・坂東島（勝山市）\n 55・59 大野 Line：福井 Station\n 46 勝山・大野 Line、55・59 大野 Line：ヴィオ\n\n大野市営バス\n和泉 Line：九頭竜湖 Station\n 道の Station Line：道の Station\n\nゆう・ゆうバス\n北ルート：文化会館・大野警察署・北大野 Station口・大野市役所方面（循環）\n 南ルート：大野市役所・大野高校前・篠座・神明町・美里町方面（循環）\n\n小山・木本堀兼 Line\n勝山・大野ライン：勝山 Station\n\nAdjacent stations\n西日本旅客鉄道（JR西日本）\n 九頭竜 Line（越美北 Line）\n 北大野 Station - 越前大野 Station - 越前田野 Station\n\nList of railway stations in Japan\n中部の Station百選 - 第3回（2001年）認定25 Stationのひとつ。\n 相模大野 Station - 当 Stationと同じく、福島県の大野 Stationと区別するために神奈川県の旧国名「相模」をつけた。\n 京福大野 Station - 当 Stationのopened以前から大野市内に設置されていた京福電気鉄道越前本 Lineの Station。福島県の大野 Stationと区別するために社名を冠した。\n\nRailway stations in 大野市\nThis is a Wikipedia category section for Railway stations in 大野市.",
+          "字数": 2600
         }
       },
       "结构化信息": {
@@ -1410,9 +1582,14 @@
           "词条标题": "越前富田駅",
           "链接": "https://ja.wikipedia.org/wiki/%E8%B6%8A%E5%89%8D%E5%AF%8C%E7%94%B0%E9%A7%85",
           "首段": "越前富田駅 (越前富田駅) is a railway station in 県大野市上野, Japan.",
-          "章节": {},
-          "全文": "越前富田駅 (越前富田駅) is a railway station in 県大野市上野, Japan.",
-          "字数": 52
+          "章节": {
+            "History": "1960年(1960)12月15日：越美北 Lineが勝原 Stationまで開通すると同時にOpened.旅客及び貨物の取扱を開始。 Station員無配置 Station。\n 1973年(1973)4月1日：貨物の取扱をclosed。\n 1987年(1987)4月1日：国鉄分割民営化により西日本旅客鉄道の Stationとなる。\n 2004年(2004)\n 7月18日：豪雨により越美北 Line全 Line運行suspendedとなり、当 Stationも営業suspended。\n 7月20日：越前大野 Station - 九頭竜湖 Station間で列車の運行が再開され、当 Stationも営業再開。",
+            "Station layout": "九頭竜湖方面に向かって左側に単式an island platform layoutのホームを持つ地上 Station（停留所）。opened当時から簡易なホームと待合所のみであった。福井地域鉄道部管理の無 people Stationであり、自動券売機等の設備はない。",
+            "Adjacent stations": "西日本旅客鉄道（JR西日本）\n 九頭竜 Line（越美北 Line）\n 越前田野 Station - 越前富田 Station - 下唯野 Station",
+            "Railway stations in 大野市": "This is a Wikipedia category section for Railway stations in 大野市."
+          },
+          "全文": "越前富田駅 (越前富田駅) is a railway station in 県大野市上野, Japan.\n\nHistory\n1960年(1960)12月15日：越美北 Lineが勝原 Stationまで開通すると同時にOpened.旅客及び貨物の取扱を開始。 Station員無配置 Station。\n 1973年(1973)4月1日：貨物の取扱をclosed。\n 1987年(1987)4月1日：国鉄分割民営化により西日本旅客鉄道の Stationとなる。\n 2004年(2004)\n 7月18日：豪雨により越美北 Line全 Line運行suspendedとなり、当 Stationも営業suspended。\n 7月20日：越前大野 Station - 九頭竜湖 Station間で列車の運行が再開され、当 Stationも営業再開。\n\nStation layout\n九頭竜湖方面に向かって左側に単式an island platform layoutのホームを持つ地上 Station（停留所）。opened当時から簡易なホームと待合所のみであった。福井地域鉄道部管理の無 people Stationであり、自動券売機等の設備はない。\n\nAdjacent stations\n西日本旅客鉄道（JR西日本）\n 九頭竜 Line（越美北 Line）\n 越前田野 Station - 越前富田 Station - 下唯野 Station\n\nRailway stations in 大野市\nThis is a Wikipedia category section for Railway stations in 大野市.",
+          "字数": 708
         }
       },
       "结构化信息": {
@@ -1486,10 +1663,18 @@
         "英文": {
           "词条标题": "越前東郷駅",
           "链接": "https://ja.wikipedia.org/wiki/%E8%B6%8A%E5%89%8D%E6%9D%B1%E9%83%B7%E9%A7%85",
-          "首段": "越前東郷駅 (越前東郷駅) is a railway station in 県福井市東郷二ケ町, Japan.",
-          "章节": {},
-          "全文": "越前東郷駅 (越前東郷駅) is a railway station in 県福井市東郷二ケ町, Japan.",
-          "字数": 55
+          "首段": "(越前東郷, ) is a railway station on the 西日本旅客鉄道（JR西日本）越美北線（九頭竜線）, located in 福井県福井市東郷二町, Japan.",
+          "章节": {
+            "History": "1960年(1960)12月15日：越美北 Lineが勝原 Stationまでopenedした際に設置。 Station員無配置 Station。\n 1984年(1984)4月1日：無 people化。\n 1987年(1987)4月1日：国鉄分割民営化により西日本旅客鉄道の Stationとなる。\n 2004年(2004)\n 7月18日：豪雨により越美北 Line全 Line運転suspended。\n 9月11日：当 Stationを含む越前花堂 Station - 一乗谷 Station間の運転が再開される。同時にbusiness-consignment Stationとなる（暫定的）。\n 一乗谷 Stationへの代行バスの乗り入れが出来ないため、列車から代行バスへの乗り換えは当 Stationで行う。\n 2007年(2007)6月30日：最後まで不通だった一乗谷 Station - 美山 Station間の営業再開、よって豪雨から3年ぶりに全面開通。代行バスの運転終了。\n 2008年(2008)4月1日：再度無 people化。\n 2022年(2022)11月27日： Station舎のリニューアルが完成し、記念式典を実施。",
+            "Station layout": "地上 Station。元々はisland platforman island platform layoutであり朝に通学輸送で福井ー越前東郷の区間運転の列車の設定もあったが、JR化後に Station舎側1 Line（旧上り Line）を保 Line車両の留置 Lineに転用したため、現在はan island platform layoutで交換不能 Station（停留所）。\n\n有 people Station時代の Station舎がそのまま使われている。CTC化までは Station員が終日配置されていた（ただし末期は運転要員のみ）。豪雨災害からの部分復旧がなされた2004年9月11日から2008年3月31日まではbusiness-consignment Station（ジェイアール西日本金沢メンテックに委託）であったが、現在は再び無 people Stationとなった。自動券売機も設置されている（ただし、2009年10月時点では設置されていなかった）。\n\n2022年11月に Station舎がリニューアルされた。福井地域鉄道部管理。一部の時間帯で全てのドアが開く。",
+            "福井市東体育館・福井市役所東足羽連絡所": "槇山城跡 - 当 Stationより徒歩約25分",
+            "Bus routes": "福井市が運行するコミュニティバスが Station前を発着する。",
+            "東郷おつくねバス": "せせらぎ号（※月曜・木曜と第1土曜・第3土曜に運行）\n あさくら水の Station 行\n まきやま号（※火曜・金曜と第2土曜・第4土曜に運行）\n 上東郷杵と臼 行\n\n 酒生いきいきバス（※冬季の平日のみ運行）\n 左回り（東郷ルート）\n 前波口 行\n 右回り（東郷ルート）\n 高尾口 行",
+            "Adjacent stations": "西日本旅客鉄道（JR西日本）\n 九頭竜 Line（越美北 Line）\n 足羽 Station - 越前東郷 Station - 一乗谷 Station",
+            "Railway stations in 福井市": "This is a Wikipedia category section for Railway stations in 福井市."
+          },
+          "全文": "(越前東郷, ) is a railway station on the 西日本旅客鉄道（JR西日本）越美北線（九頭竜線）, located in 福井県福井市東郷二町, Japan.\n\nHistory\n1960年(1960)12月15日：越美北 Lineが勝原 Stationまでopenedした際に設置。 Station員無配置 Station。\n 1984年(1984)4月1日：無 people化。\n 1987年(1987)4月1日：国鉄分割民営化により西日本旅客鉄道の Stationとなる。\n 2004年(2004)\n 7月18日：豪雨により越美北 Line全 Line運転suspended。\n 9月11日：当 Stationを含む越前花堂 Station - 一乗谷 Station間の運転が再開される。同時にbusiness-consignment Stationとなる（暫定的）。\n 一乗谷 Stationへの代行バスの乗り入れが出来ないため、列車から代行バスへの乗り換えは当 Stationで行う。\n 2007年(2007)6月30日：最後まで不通だった一乗谷 Station - 美山 Station間の営業再開、よって豪雨から3年ぶりに全面開通。代行バスの運転終了。\n 2008年(2008)4月1日：再度無 people化。\n 2022年(2022)11月27日： Station舎のリニューアルが完成し、記念式典を実施。\n\nStation layout\n地上 Station。元々はisland platforman island platform layoutであり朝に通学輸送で福井ー越前東郷の区間運転の列車の設定もあったが、JR化後に Station舎側1 Line（旧上り Line）を保 Line車両の留置 Lineに転用したため、現在はan island platform layoutで交換不能 Station（停留所）。\n\n有 people Station時代の Station舎がそのまま使われている。CTC化までは Station員が終日配置されていた（ただし末期は運転要員のみ）。豪雨災害からの部分復旧がなされた2004年9月11日から2008年3月31日まではbusiness-consignment Station（ジェイアール西日本金沢メンテックに委託）であったが、現在は再び無 people Stationとなった。自動券売機も設置されている（ただし、2009年10月時点では設置されていなかった）。\n\n2022年11月に Station舎がリニューアルされた。福井地域鉄道部管理。一部の時間帯で全てのドアが開く。\n\n福井市東体育館・福井市役所東足羽連絡所\n槇山城跡 - 当 Stationより徒歩約25分\n\nBus routes\n福井市が運行するコミュニティバスが Station前を発着する。\n\n東郷おつくねバス\nせせらぎ号（※月曜・木曜と第1土曜・第3土曜に運行）\n あさくら水の Station 行\n まきやま号（※火曜・金曜と第2土曜・第4土曜に運行）\n 上東郷杵と臼 行\n\n 酒生いきいきバス（※冬季の平日のみ運行）\n 左回り（東郷ルート）\n 前波口 行\n 右回り（東郷ルート）\n 高尾口 行\n\nAdjacent stations\n西日本旅客鉄道（JR西日本）\n 九頭竜 Line（越美北 Line）\n 足羽 Station - 越前東郷 Station - 一乗谷 Station\n\nRailway stations in 福井市\nThis is a Wikipedia category section for Railway stations in 福井市.",
+          "字数": 1568
         }
       },
       "结构化信息": {
@@ -1563,9 +1748,14 @@
           "词条标题": "越前田野駅",
           "链接": "https://ja.wikipedia.org/wiki/%E8%B6%8A%E5%89%8D%E7%94%B0%E9%87%8E%E9%A7%85",
           "首段": "越前田野駅 (越前田野駅) is a railway station in 県大野市田野, Japan.",
-          "章节": {},
-          "全文": "越前田野駅 (越前田野駅) is a railway station in 県大野市田野, Japan.",
-          "字数": 52
+          "章节": {
+            "History": "1964年(1964)5月20日：越美北 Lineの越前大野 Station - 越前富田 Station間に新設Opened.旅客営業のみの無 people Station。\n 1987年(1987)4月1日：国鉄分割民営化により西日本旅客鉄道の Stationとなる。\n 2004年(2004)\n 7月18日：豪雨により越美北 Line全 Line運行suspendedとなり、当 Stationも営業suspended。\n 7月20日：越前大野 Station - 九頭竜湖 Station間で列車の運行が再開され、当 Stationも営業再開。",
+            "Station layout": "九頭竜湖方面に向かって右側にside platforman island platform layoutを有する地上 Station（停留所）。opened当時から簡単なホームと待合所のみを持つ構造となっており、越前大野寄りの出入口から直接ホームに入る形になっている。福井地域鉄道部管理の無 people Stationであり、自動券売機等の設備もない。",
+            "Adjacent stations": "西日本旅客鉄道（JR西日本）\n 九頭竜 Line（越美北 Line）\n 越前大野 Station - 越前田野 Station - 越前富田 Station",
+            "Railway stations in 大野市": "This is a Wikipedia category section for Railway stations in 大野市."
+          },
+          "全文": "越前田野駅 (越前田野駅) is a railway station in 県大野市田野, Japan.\n\nHistory\n1964年(1964)5月20日：越美北 Lineの越前大野 Station - 越前富田 Station間に新設Opened.旅客営業のみの無 people Station。\n 1987年(1987)4月1日：国鉄分割民営化により西日本旅客鉄道の Stationとなる。\n 2004年(2004)\n 7月18日：豪雨により越美北 Line全 Line運行suspendedとなり、当 Stationも営業suspended。\n 7月20日：越前大野 Station - 九頭竜湖 Station間で列車の運行が再開され、当 Stationも営業再開。\n\nStation layout\n九頭竜湖方面に向かって右側にside platforman island platform layoutを有する地上 Station（停留所）。opened当時から簡単なホームと待合所のみを持つ構造となっており、越前大野寄りの出入口から直接ホームに入る形になっている。福井地域鉄道部管理の無 people Stationであり、自動券売機等の設備もない。\n\nAdjacent stations\n西日本旅客鉄道（JR西日本）\n 九頭竜 Line（越美北 Line）\n 越前大野 Station - 越前田野 Station - 越前富田 Station\n\nRailway stations in 大野市\nThis is a Wikipedia category section for Railway stations in 大野市.",
+          "字数": 721
         }
       },
       "结构化信息": {
@@ -1647,9 +1837,21 @@
           "词条标题": "越前花堂駅",
           "链接": "https://ja.wikipedia.org/wiki/%E8%B6%8A%E5%89%8D%E8%8A%B1%E5%A0%82%E9%A7%85",
           "首段": "越前花堂駅 (越前花堂駅) is a railway station in 県福井市花堂中一丁目, Japan.",
-          "章节": {},
-          "全文": "越前花堂駅 (越前花堂駅) is a railway station in 県福井市花堂中一丁目, Japan.",
-          "字数": 56
+          "章节": {
+            "Overview": "当 Stationは越美北 Lineopened時に旅客 Stationとしてopenedした。1968年10月1日のダイヤ改正（いわゆるヨンサントオ）の際に、北陸本 Lineホームが増設されている。そのような経緯から、当 Stationの所属路 Lineは北陸本 Lineではなくopened当初の所属路 Lineである越美北 Lineとなっている。しかし、現在はかつての分岐 Stationであった南福井 Station（貨物 Station）から当 Stationまでの区間が「越美北 Lineと北陸本 Lineの重複区間」という扱いから「北陸本 Line単独区間」に変更されており、営業上では当 Stationで本来の所属 Lineたる越美北 Lineが枝 Lineとして北陸本 Lineに接続しているような形となった。",
+            "Through services": "当 Stationには北陸本 Lineと越美北 Line（九頭竜 Line）が乗り入れている。越美北 Lineは Line路名称上では当 Stationが起点であるが、越美北 Lineの列車はすべて北陸本 Lineを経由して福井 Stationまで運転される。\n\nなお、北陸新幹 Lineの金沢 Station - 敦賀 Station間のopened後、北陸本 Lineが経営分離されることに伴い、同 Lineの Stationはハピラインふくいに移管される予定となっている。",
+            "Chronology": "1960年(1960)12月15日：日本国有鉄道の越美北 Lineが勝原 Stationまでのopenedと同時に Stationopened（旅客 Station）。 Station員無配置 Station。\n 1968年(1968)\n 9月25日： Station舎を新設。\n 10月1日：ダイヤ改正に伴い、北陸本 Lineのホームを設置。\n 1984年(1984)4月1日：無 people Station化。\n 1987年(1987)4月1日：国鉄分割民営化により西日本旅客鉄道の Stationとなる。越美北 Lineの起点が南福井 Stationから当 Stationに変更される。\n 2018年(2018)9月15日：ICカード「ICOCA」の利用が可能となる（越美北 Line六条 Station以東は対象外）。\n 2024年(2024)3月16日：北陸新幹 Lineの金沢 Station - 敦賀 Station間openedに伴い、北陸本 Lineの StationがJR西日本からハピラインふくいになる予定。",
+            "Notes": "越美北 Lineの起点 Stationであるが、上記のように北陸本 Lineのホームは越美北 Lineの部分opened後にopenedされたため、国鉄分割民営化までは隣接する貨物 Stationの南福井 Stationが同 Lineの起点となっていた。現在も実際の Line路分岐部分は南福井 Station構内に含まれているため、運転取り扱い上では同 Stationを北陸本 Lineと越美北 Lineの境界と扱っている。",
+            "Station layout": "北陸本 Lineはopposed side platformsan island platform layout、九頭竜 Lineはside platforman island platform layout、合計an island platform layoutのホームを有する地上 Stationである。\n\n Station構内には化粧室・屋内待合室・簡易型自動券売機・ICカード専用の簡易ticket gate機などが設置されている。\n\n北陸本 Lineのホームに対して九頭竜 Lineのホームが扇形に開いている。 Station舎は北陸 Line下りホーム側にあり、北陸 Line上りホームへは跨 Line橋を渡って移動、さらに九頭竜 Lineホームへはその北陸 Line上りホームから連絡通路を通ることになる。\n\n当 Stationは無 people Stationであるが、平日朝の時間帯に限り、JR西日本の Station係員が派遣され、ticket gate業務を行っている。 九頭竜 Lineは、一部の時間帯で全てのドアが開く。\n\nのりば",
+            "Additional notes": "北陸本 Lineホームにはのりば番号が設定されている。その一方で九頭竜 Lineホームののりば番号は制定されておらず、旅客案内上では「九頭竜 Lineのりば」と呼称されている。\n 。",
+            "Surrounding area": " Station北方に南福井 Station（貨物 Station）があることから、周辺は運送会社が多い。また、北陸本 Lineを挟んで東側にJR西日本金沢支社福井地域鉄道部福井運転センターがある。ちなみに、福井鉄道福武 Lineの花堂 Stationは西方約300mの所にある。",
+            "Adjacent stations": "西日本旅客鉄道（JR西日本）\n 九頭竜 Line（越美北 Line、福井 - 当 Station間は北陸本 Line） \n 福井 Station - （貨）南福井 Station - 越前花堂 Station - 六条 Station",
+            "北陸本 Line": "大土呂 Station - 越前花堂 Station - （貨）南福井 Station - 福井 Station",
+            "List of railway stations in Japan": "北山形 Station - 当 Station同様、幹 Lineの Stationが後からopenedしている。",
+            "Railway stations in 福井市": "This is a Wikipedia category section for Railway stations in 福井市."
+          },
+          "全文": "越前花堂駅 (越前花堂駅) is a railway station in 県福井市花堂中一丁目, Japan.\n\nOverview\n当 Stationは越美北 Lineopened時に旅客 Stationとしてopenedした。1968年10月1日のダイヤ改正（いわゆるヨンサントオ）の際に、北陸本 Lineホームが増設されている。そのような経緯から、当 Stationの所属路 Lineは北陸本 Lineではなくopened当初の所属路 Lineである越美北 Lineとなっている。しかし、現在はかつての分岐 Stationであった南福井 Station（貨物 Station）から当 Stationまでの区間が「越美北 Lineと北陸本 Lineの重複区間」という扱いから「北陸本 Line単独区間」に変更されており、営業上では当 Stationで本来の所属 Lineたる越美北 Lineが枝 Lineとして北陸本 Lineに接続しているような形となった。\n\nThrough services\n当 Stationには北陸本 Lineと越美北 Line（九頭竜 Line）が乗り入れている。越美北 Lineは Line路名称上では当 Stationが起点であるが、越美北 Lineの列車はすべて北陸本 Lineを経由して福井 Stationまで運転される。\n\nなお、北陸新幹 Lineの金沢 Station - 敦賀 Station間のopened後、北陸本 Lineが経営分離されることに伴い、同 Lineの Stationはハピラインふくいに移管される予定となっている。\n\nChronology\n1960年(1960)12月15日：日本国有鉄道の越美北 Lineが勝原 Stationまでのopenedと同時に Stationopened（旅客 Station）。 Station員無配置 Station。\n 1968年(1968)\n 9月25日： Station舎を新設。\n 10月1日：ダイヤ改正に伴い、北陸本 Lineのホームを設置。\n 1984年(1984)4月1日：無 people Station化。\n 1987年(1987)4月1日：国鉄分割民営化により西日本旅客鉄道の Stationとなる。越美北 Lineの起点が南福井 Stationから当 Stationに変更される。\n 2018年(2018)9月15日：ICカード「ICOCA」の利用が可能となる（越美北 Line六条 Station以東は対象外）。\n 2024年(2024)3月16日：北陸新幹 Lineの金沢 Station - 敦賀 Station間openedに伴い、北陸本 Lineの StationがJR西日本からハピラインふくいになる予定。\n\nNotes\n越美北 Lineの起点 Stationであるが、上記のように北陸本 Lineのホームは越美北 Lineの部分opened後にopenedされたため、国鉄分割民営化までは隣接する貨物 Stationの南福井 Stationが同 Lineの起点となっていた。現在も実際の Line路分岐部分は南福井 Station構内に含まれているため、運転取り扱い上では同 Stationを北陸本 Lineと越美北 Lineの境界と扱っている。\n\nStation layout\n北陸本 Lineはopposed side platformsan island platform layout、九頭竜 Lineはside platforman island platform layout、合計an island platform layoutのホームを有する地上 Stationである。\n\n Station構内には化粧室・屋内待合室・簡易型自動券売機・ICカード専用の簡易ticket gate機などが設置されている。\n\n北陸本 Lineのホームに対して九頭竜 Lineのホームが扇形に開いている。 Station舎は北陸 Line下りホーム側にあり、北陸 Line上りホームへは跨 Line橋を渡って移動、さらに九頭竜 Lineホームへはその北陸 Line上りホームから連絡通路を通ることになる。\n\n当 Stationは無 people Stationであるが、平日朝の時間帯に限り、JR西日本の Station係員が派遣され、ticket gate業務を行っている。 九頭竜 Lineは、一部の時間帯で全てのドアが開く。\n\nのりば\n\nAdditional notes\n北陸本 Lineホームにはのりば番号が設定されている。その一方で九頭竜 Lineホームののりば番号は制定されておらず、旅客案内上では「九頭竜 Lineのりば」と呼称されている。\n 。\n\nSurrounding area\n Station北方に南福井 Station（貨物 Station）があることから、周辺は運送会社が多い。また、北陸本 Lineを挟んで東側にJR西日本金沢支社福井地域鉄道部福井運転センターがある。ちなみに、福井鉄道福武 Lineの花堂 Stationは西方約300mの所にある。\n\nAdjacent stations\n西日本旅客鉄道（JR西日本）\n 九頭竜 Line（越美北 Line、福井 - 当 Station間は北陸本 Line） \n 福井 Station - （貨）南福井 Station - 越前花堂 Station - 六条 Station\n\n北陸本 Line\n大土呂 Station - 越前花堂 Station - （貨）南福井 Station - 福井 Station\n\nList of railway stations in Japan\n北山形 Station - 当 Station同様、幹 Lineの Stationが後からopenedしている。\n\nRailway stations in 福井市\nThis is a Wikipedia category section for Railway stations in 福井市.",
+          "字数": 2540
         }
       },
       "结构化信息": {
@@ -1724,9 +1926,14 @@
           "词条标题": "越前薬師駅",
           "链接": "https://ja.wikipedia.org/wiki/%E8%B6%8A%E5%89%8D%E8%96%AC%E5%B8%AB%E9%A7%85",
           "首段": "越前薬師駅 (越前薬師駅) is a railway station in 県福井市薬師町, Japan.",
-          "章节": {},
-          "全文": "越前薬師駅 (越前薬師駅) is a railway station in 県福井市薬師町, Japan.",
-          "字数": 53
+          "章节": {
+            "History": "1960年(1960)12月15日：越美北 Lineが勝原 Stationまでopenedした際に設置。 Station員無配置 Station。\n 1987年(1987)4月1日：国鉄分割民営化により西日本旅客鉄道の Stationとなる。\n 2004年(2004)\n 7月18日：豪雨により越美北 Line全 Line運転suspended。\n 9月11日：美山 Station - 越前大野 Station間で列車の運行を再開。\n 同年9月10日まで設置されていた代行バス乗り場は、京福バス薬師停留所であった。",
+            "Station layout": "九頭竜湖方面に向かって左側にside platforman island platform layoutをもつ地上 Station（停留所）。opened当初からの無 people Stationで設備としては簡易なホームと小さな待合所のみがあり、福井寄りの出入口から直接ホームに入る形になっている。自動券売機は設置されていない。福井地域鉄道部管理。",
+            "Adjacent stations": "西日本旅客鉄道（JR西日本）\n 九頭竜 Line（越美北 Line）\n 美山 Station - 越前薬師 Station - 越前大宮 Station",
+            "Railway stations in 福井市": "This is a Wikipedia category section for Railway stations in 福井市."
+          },
+          "全文": "越前薬師駅 (越前薬師駅) is a railway station in 県福井市薬師町, Japan.\n\nHistory\n1960年(1960)12月15日：越美北 Lineが勝原 Stationまでopenedした際に設置。 Station員無配置 Station。\n 1987年(1987)4月1日：国鉄分割民営化により西日本旅客鉄道の Stationとなる。\n 2004年(2004)\n 7月18日：豪雨により越美北 Line全 Line運転suspended。\n 9月11日：美山 Station - 越前大野 Station間で列車の運行を再開。\n 同年9月10日まで設置されていた代行バス乗り場は、京福バス薬師停留所であった。\n\nStation layout\n九頭竜湖方面に向かって左側にside platforman island platform layoutをもつ地上 Station（停留所）。opened当初からの無 people Stationで設備としては簡易なホームと小さな待合所のみがあり、福井寄りの出入口から直接ホームに入る形になっている。自動券売機は設置されていない。福井地域鉄道部管理。\n\nAdjacent stations\n西日本旅客鉄道（JR西日本）\n 九頭竜 Line（越美北 Line）\n 美山 Station - 越前薬師 Station - 越前大宮 Station\n\nRailway stations in 福井市\nThis is a Wikipedia category section for Railway stations in 福井市.",
+          "字数": 700
         }
       },
       "结构化信息": {
@@ -1800,9 +2007,17 @@
           "词条标题": "越前高田駅",
           "链接": "https://ja.wikipedia.org/wiki/%E8%B6%8A%E5%89%8D%E9%AB%98%E7%94%B0%E9%A7%85",
           "首段": "越前高田駅 (越前高田駅) is a railway station in 県福井市高田町, Japan.",
-          "章节": {},
-          "全文": "越前高田駅 (越前高田駅) is a railway station in 県福井市高田町, Japan.",
-          "字数": 53
+          "章节": {
+            "History": "勝原までの開通後に新設された Stationである。",
+            "Chronology": "1964年(1964)5月20日：越美北 Lineの一乗谷 Station - 市波 Station間に新設Opened.無 people Station。\n 1987年(1987)4月1日：国鉄分割民営化により西日本旅客鉄道の Stationとなる。\n 2004年(2004)7月18日：豪雨により越美北 Line全 Line運転suspended。\n 2007年(2007)6月30日：最後まで不通だった、当 Stationを含む一乗谷 Station - 美山 Station間で3年ぶりに列車運行再開。この間、代行バスの乗り場は高田大橋の対岸のたもとの付近に置かれていた。",
+            "Station layout": "九頭竜湖方面に向かって右側にside platforman island platform layoutを有する地上 Station（停留所）。opened当初からの無 people Stationで、設備としては簡易なホームと待合所があるのみ。九頭竜湖寄りの出入口から直接ホームに入る形になっている。自動券売機は設置されていない。福井地域鉄道部管理。",
+            "国道364号": "高田大橋（国道158号交点）",
+            "Other": " Station改修工事以前の大阪 Station11番 Line（特急ホーム）には永平寺観光の写真パネルがあり、当 Stationの名が併記されていたが、同寺へはJR Stationからの直 Line距離として最寄なだけで、同寺へのバスも連絡していない当 Stationを利用して向かう peopleはまず居ない。同寺への観光メインルートは福井 Stationからえちぜん鉄道とバス、もしくは自動車での直行である（隣の一乗谷 Station近くからは永平寺行きの特急バスがある）。",
+            "Adjacent stations": "西日本旅客鉄道（JR西日本）\n 九頭竜 Line（越美北 Line）\n 一乗谷 Station - 越前高田 Station - 市波 Station",
+            "Railway stations in 福井市": "This is a Wikipedia category section for Railway stations in 福井市."
+          },
+          "全文": "越前高田駅 (越前高田駅) is a railway station in 県福井市高田町, Japan.\n\nHistory\n勝原までの開通後に新設された Stationである。\n\nChronology\n1964年(1964)5月20日：越美北 Lineの一乗谷 Station - 市波 Station間に新設Opened.無 people Station。\n 1987年(1987)4月1日：国鉄分割民営化により西日本旅客鉄道の Stationとなる。\n 2004年(2004)7月18日：豪雨により越美北 Line全 Line運転suspended。\n 2007年(2007)6月30日：最後まで不通だった、当 Stationを含む一乗谷 Station - 美山 Station間で3年ぶりに列車運行再開。この間、代行バスの乗り場は高田大橋の対岸のたもとの付近に置かれていた。\n\nStation layout\n九頭竜湖方面に向かって右側にside platforman island platform layoutを有する地上 Station（停留所）。opened当初からの無 people Stationで、設備としては簡易なホームと待合所があるのみ。九頭竜湖寄りの出入口から直接ホームに入る形になっている。自動券売機は設置されていない。福井地域鉄道部管理。\n\n国道364号\n高田大橋（国道158号交点）\n\nOther\n Station改修工事以前の大阪 Station11番 Line（特急ホーム）には永平寺観光の写真パネルがあり、当 Stationの名が併記されていたが、同寺へはJR Stationからの直 Line距離として最寄なだけで、同寺へのバスも連絡していない当 Stationを利用して向かう peopleはまず居ない。同寺への観光メインルートは福井 Stationからえちぜん鉄道とバス、もしくは自動車での直行である（隣の一乗谷 Station近くからは永平寺行きの特急バスがある）。\n\nAdjacent stations\n西日本旅客鉄道（JR西日本）\n 九頭竜 Line（越美北 Line）\n 一乗谷 Station - 越前高田 Station - 市波 Station\n\nRailway stations in 福井市\nThis is a Wikipedia category section for Railway stations in 福井市.",
+          "字数": 1043
         }
       },
       "结构化信息": {
@@ -1876,9 +2091,15 @@
           "词条标题": "Asuwa Station",
           "链接": "https://ja.wikipedia.org/wiki/%E8%B6%B3%E7%BE%BD%E9%A7%85",
           "首段": "Asuwa Station (足羽駅) is a railway station in 県福井市稲津町, Japan.",
-          "章节": {},
-          "全文": "Asuwa Station (足羽駅) is a railway station in 県福井市稲津町, Japan.",
-          "字数": 59
+          "章节": {
+            "History": "勝原までの開通後に新設された Stationである。",
+            "Chronology": "1964年(1964)5月20日：越美北 Lineの六条 Station - 越前東郷 Station間に新設Opened.無 people Station。\n 1987年(1987)4月1日：国鉄分割民営化により西日本旅客鉄道の Stationとなる。\n 2004年(2004)\n 7月18日：豪雨により越美北 Line全 Line運転suspended。\n 9月11日：当 Stationを含む越前花堂 Station - 一乗谷 Station間の運転が再開される。",
+            "Station layout": "九頭竜湖方面に向かって右側にside platforman island platform layoutを持つ地上 Station（停留所）。opened当初からの無 people Stationで、簡単なホームと小さな待合所のみがある。自動券売機は設置されていない。福井地域鉄道部管理。一部の時間帯で全てのドアが開く。",
+            "Adjacent stations": "西日本旅客鉄道（JR西日本）\n 九頭竜 Line（越美北 Line）\n 六条 Station - 足羽 Station - 越前東郷 Station",
+            "Railway stations in 福井市": "This is a Wikipedia category section for Railway stations in 福井市."
+          },
+          "全文": "Asuwa Station (足羽駅) is a railway station in 県福井市稲津町, Japan.\n\nHistory\n勝原までの開通後に新設された Stationである。\n\nChronology\n1964年(1964)5月20日：越美北 Lineの六条 Station - 越前東郷 Station間に新設Opened.無 people Station。\n 1987年(1987)4月1日：国鉄分割民営化により西日本旅客鉄道の Stationとなる。\n 2004年(2004)\n 7月18日：豪雨により越美北 Line全 Line運転suspended。\n 9月11日：当 Stationを含む越前花堂 Station - 一乗谷 Station間の運転が再開される。\n\nStation layout\n九頭竜湖方面に向かって右側にside platforman island platform layoutを持つ地上 Station（停留所）。opened当初からの無 people Stationで、簡単なホームと小さな待合所のみがある。自動券売機は設置されていない。福井地域鉄道部管理。一部の時間帯で全てのドアが開く。\n\nAdjacent stations\n西日本旅客鉄道（JR西日本）\n 九頭竜 Line（越美北 Line）\n 六条 Station - 足羽 Station - 越前東郷 Station\n\nRailway stations in 福井市\nThis is a Wikipedia category section for Railway stations in 福井市.",
+          "字数": 706
         }
       },
       "结构化信息": {

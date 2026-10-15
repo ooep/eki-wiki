@@ -58,9 +58,30 @@
         "词条标题": "Sangi Line",
         "链接": "https://en.wikipedia.org/wiki/Sangi_Line",
         "首段": "The Sangi Line (三岐線, Sangi-sen) is a railway line in Mie Prefecture, Japan, operated by Sangi Railway. It connects Tomida Station in Yokkaichi with Nishi-Fujiwara Station in Inabe. The section between Tomida and Sigi-Asake signal station is freight-only; passenger trains run via the Kintetsu connection from Kintetsu-Tomida Station.",
-        "章节": {},
-        "全文": "The Sangi Line (三岐線, Sangi-sen) is a railway line in Mie Prefecture, Japan, operated by Sangi Railway. It connects Tomida Station in Yokkaichi with Nishi-Fujiwara Station in Inabe. The section between Tomida and Sigi-Asake signal station is freight-only; passenger trains run via the Kintetsu connection from Kintetsu-Tomida Station.",
-        "字数": 333
+        "章节": {
+          "Overview": "全 Line単 Lineの電化路 Lineである。旅客輸送を行っているほか、富田 Station - 東藤原 Station間でセメントを中心とした貨物輸送を行っている。日本においてJR以外でセメント輸送を行う鉄道事業者は三岐鉄道のほかにもあったが、西武鉄道が1996年(1996)に、秩父鉄道と樽見鉄道が2006年(2006)にセメント輸送をclosedして以降は本路 Lineのみとなっている。\n\n旅客列車には、西武鉄道の中古車両が黄色とオレンジ色のカラーリングを施され使用されている。貨物輸送の割合が大きいが、通学・生活路 Lineとして、また鈴鹿山脈へのハイキングの足などとして旅客輸送の比率も高まっている。",
+          "路線データ": "路 Line距離（営業キロ）：\n 三岐 Line：富田 - 西藤原間 26.5km（富田 - 三岐朝明間1.0kmは貨物営業のみ）\n 近鉄連絡 Line：三岐朝明信号場 - 近鉄富田間 1.1km\n 軌間：1067mm\n  Station数：三岐 Line15 Station、近鉄連絡 Line1 Station（いずれも起終点 Station含む）\n 複 Line区間：なし（全 Line単 Line）\n 電化区間：全 Line（直流1500V）\n 最急勾配：25パーミル（伊勢治田 - 東藤原間、東藤原 - 西野尻間）\n 最小曲 Line半径：200メートル。\n 閉塞方式：自動閉塞式\n 最高速度：70km/h\n IC乗車カード対応区間：なし",
+          "History": "当路 Lineは鉄道敷設法別表75項「三重県四日市ヨリ岐阜県関ケ原ヲ経テ滋賀県木ノ本ニ至ル鉄道」の一部を形成し、「三岐鉄道」という社名も三重県四日市と岐阜県大垣市上石津を経て、関ヶ原とを結ぶことを目指したことによるものであった。\n\n1928年藤原鉄道に対し四日市市 - 関ヶ原町間他の鉄道敷設免許状が下付され、三岐鉄道に名称を改め会社を設立。社長は三重県の実業家伊藤伝七が就任し、取締役には浅野セメント（浅野財閥）から専務取締役の浅野良三、金子喜代太が、浅野財閥系の鶴見臨港鉄道から取締役の山田胖が、小野田セメントから専務取締役の狩野宗三が名を連ねた（浅野セメント・小野田セメントとも現在の太平洋セメントの前身）。\n\n1931年7月23日に富田 - 東藤原間がopenedし、同年12月23日に東藤原 - 西藤原間がextensionopenedしたものの、1937年に西藤原 - 関ヶ原間の免許が失効し、富田 - 西藤原間が建設されただけにとどまった。\n\n近鉄連絡 Line建設前は旅客列車も国鉄富田 Station発着であったが、近鉄富田 Stationまで歩いて移動する乗客が多かった。近鉄連絡 Line建設には富田 Station前の商店街が反対したが、完成後も国鉄富田 Stationへの旅客列車を運行することで妥協した。しかし、近鉄富田 Station利用客の多さは歴然で、1985年(1985)に旅客列車は近鉄富田 Station発着に統一された。",
+          "Chronology": "1883年(1883) 稲葉三右衛門が、四日市 - 関ヶ原間を結ぶ勢江鉄道建設申請書を提出するも認可されず。\n 1927年(1927)\n 3月 浅野セメントが藤原鉄道、小野田セメントが員弁鉄道として鉄道敷設免許を申請。\n 11月 藤原鉄道として計画を一本化して鉄道敷設免許申請。\n 1928年(1928)\n 6月9日 藤原鉄道に対し鉄道免許状下付（四日市市 - 不破郡関ケ原町間、四日市市 - 三重郡塩浜村間、員弁郡大長村 - 三重郡富田町間、三重郡三重村 - 同郡川島村間）。\n 9月20日 三岐鉄道株式会社設立。\n 1931年(1931)\n 7月23日 富田 - 東藤原間がOpened.\n 12月23日 東藤原 - 西藤原間がextensionOpened.\n1932年(1932)12月 小野田セメント藤原工場操業開始。翌年1月よりセメント出荷\n1935年(1935)\n6月26日 鉄道免許取消（四日市起点1.1km-保々間及び連絡 Line 指定ノ期限マテニ竣工セサルタメ）。\n12月13日 起業closed（許可）（四日市 - 四日市起点1.1km間、三重郡常磐村 - 同郡川島村間）。\n1937年(1937)12月2日 鉄道免許失効（員弁郡西藤原村 - 不破郡関ケ原町間 指定ノ期限マテニ工事施工認可申請ヲ為ササルタメ）。\n 1950年(1950)10月30日 富田 - 大矢知間に三岐朝明 StationOpened.\n 1952年(1952)12月1日 富田 Stationから国鉄四日市 Stationまで旅客列車直通運転開始。\n 1954年(1954)3月29日 全 Line電化され、貨物列車で電気機関車を使用開始。\n 1956年(1956)12月25日 電車運転開始。\n 1964年(1964)10月1日 富田 Stationから国鉄四日市 Stationまでの旅客列車直通運転closed。\n 1965年(1965)\n7月1日 三岐朝明 - 富田間に富田西口 StationOpened.\n8月21日 萱生 Stationを暁学園前 Stationにrenamed。\n 1968年(1968)6月1日 三里 Stationを宇賀渓口 Stationにrenamed。\n 1970年(1970)6月25日 近鉄富田 - 三岐朝明間の近鉄連絡 LineがOpened.\n 1974年(1974)4月1日 富田・近鉄富田 - 東藤原間がCTC化。\n 1985年(1985)\n 3月14日 富田 - 三岐朝明間の旅客営業をsuspended、富田西口 Stationclosed。\n 5月16日 貨物列車のワンマン運転開始。\n 1986年(1986)3月25日 大井田 Stationを移設し大安 Stationにrenamed。宇賀渓口 Stationを三里 Stationにrenamed。\n 1988年(1988)1月7日 旅客列車のワンマン運転開始。\n 1989年(1989)\n 4月1日 旅客車両の冷房化開始。三岐朝明 Stationをclosed、三岐朝明信号場に変更。また、朝にのみ運転されていた急行もclosed。\n 1990年(1990)11月2日 炭酸カルシウム・フライアッシュ（石炭灰）の貨物輸送を開始。\n 1994年(1994)12月3日 最高速度が60km/hから70km/hに引き上げられる。。\n 1997年(1997)4月1日 大長 Stationを移設し北勢中央公園口 Stationにrenamed。電車内に自転車を無料で持ち込めるサービスを開始。\n 2001年(2001)7月24日 中部国際空港向けの埋立土砂輸送を開始。\n 2002年(2002)12月21日 中部国際空港向けの埋立土砂輸送を終了。\n 2009年(2009) 完全冷房化。\n 2011年(2011)\n 9月4日 台風12号に伴う大雨で保々 - 北勢中央公園口間の朝明川橋梁が損傷し全 Lineで不通に。\n 9月6日 近鉄富田 - 山城間と三里 - 西藤原 Station間で運転再開。\n 9月7日 山城 - 保々間で運転再開。\n 9月8日 梅戸井 - 三里間で運転再開。\n 11月10日 保々 - 梅戸井間で運転再開し全 Line復旧。\n 2012年(2012)\n 2月8日 東藤原 Station構内で電気機関車が脱 Lineし、伊勢治田 - 西藤原間が不通に。10日運転再開。\n 2月29日 骨材輸送がclosedされ、東藤原 - 富田 - 四日市間で骨材輸送最終記念列車を運転。\n 6月27日 東藤原 Station構内で電気機関車が脱 Lineし、伊勢治田 - 西藤原間が不通に。30日伊勢治田 - 東藤原間が運転再開。\n 11月8日 三里 Station構内で、富田発東藤原行きの普通列車（3両編成）が安全側 Lineに進入し車止めを乗り越えて先頭車両が脱 Line。梅戸井 - 西藤原間が不通に。11日梅戸井 - 東藤原間が運転再開（東藤原 - 西藤原間は引き続きバス代行）。\n 2013年(2013)1月12日 東藤原 - 西藤原間が運転再開。",
+          "Operations": "旅客列車は、1時間あたり朝が3 - 4本、それ以外の時間帯では2本程度（保々 Station - 西藤原 Station間は時間帯によって1本）の運転である。近鉄富田 Station - 保々 Station間の区間運転列車も設定されている。貨物列車が走る兼ね合いもあってパターンダイヤにはなっていない。2013年3月17日のダイヤ変更より若干減便され、昼間に近鉄富田 Station - 保々 Station間の区間列車が復活した。以前は夕方に沿 Lineの学生のために近鉄富田 Station - 保々 Station間に臨時列車が1往復設定されており、この列車は土曜日・休日と春・夏・冬の学校長期休暇期間は運休となっていたが、現在は運転日を指定する列車は設定されていない。すべて各 Stationに停車する普通列車であるが、1989年(1989)まで急行が運転されていた実績もある。\n\n旅客列車・貨物列車ともワンマン運転を行っている。ただし、早朝・夜間（近鉄富田 Station・東藤原 Stationを除く全 Stationが無 peopleになる時間帯）の列車には車掌が乗務している。西野尻 Station以外は有 people Stationであるため車内に運賃箱は設置されていない。\n\n貨物列車の行き違いのため、交換 Stationは180 - 250m程度の有効長をもつ。全交換 Stationで安全側 Lineが整備され、列車の行き違い時には、上下列車が場内信号機により停車せず同時に Station構内に進入できる。終点以外の大半の Station（暁学園前 Station・北勢中央公園口 Station・大安 Station・西野尻 Station以外）で行き違いが可能である。保々 Station・伊勢治田 Station・東藤原 Stationには貨物列車の着発 Lineがあり、貨物列車1本を待避させた上で、旅客列車（または貨物列車）同士の行き違いも可能である。\n\n自転車を電車内に持ち込めるサイクルパス制度があり、近鉄富田 Station以外で利用できる。大矢知 Station - 三里 Station間は土曜・休日の全列車と春・夏・冬の学校長期休暇期間の日中時間帯のみ利用でき、三里 Station - 西藤原 Station間は毎日・全列車で利用できる。",
+          "沿線概況": "三重県北勢地域を走る三岐 Lineは、ほぼ平坦で、トンネルは存在しない。起点である富田 Station周辺には商業施設が多いが、終点西藤原 Stationに向かうにつれて、住宅地、さらに進むと田畑および農村と沿 Line風景は変化する。\n\n三岐 Lineの旅客列車が全列車乗り入れる近鉄富田 Stationは、近鉄名古屋 Lineとの乗換 Stationであり、 Station前には路 Lineバスも発着することから、三岐 Line系統で最も乗降客数が多い Stationである。近鉄富田 Stationを後にした列車は、しばらく近鉄名古屋 Lineと並走し、住宅地の中を進む。関西本 Lineをオーバークロスすると、三岐朝明信号場で、富田 Stationから来る三岐 Lineと合流する。三岐 Lineの起点 Stationは富田 Stationであるが、富田 Station - 三岐朝明信号場間の旅客営業は行われておらず、貨物営業のみとなっている。関西本 Lineを再びオーバークロスすると、大矢知 Station。久留倍官衙遺跡の最寄 Stationである。右手に朝明川と並走しつつ伊坂ダムの最寄 Stationである平津 Stationを過ぎると、水田が広がる。次の暁学園前 Stationはその名の通り、暁学園の最寄 Stationであるため通学客も多いほか、三岐鉄道が開発した住宅地「あかつき台」への最寄 Stationである。暁学園前 Stationの Stationビル「あかつきプラザビル」には三岐鉄道が経営する駄菓子屋も入居している。列車は、朝明川と並走し、住宅地「八千代台」、「あさけが丘」最寄 Stationの山城 Stationに到着する。山城 Stationには、近鉄四日市 Stationやイオンモール東員方面に向かう三岐鉄道バスが乗り入れている。山城 Stationを過ぎると水田が再び広がり、保々 Stationに到着する。保々 Stationには、保々車両区、CTCセンターがあり、三岐 Lineの中枢となる Stationであるため、保々止まりの列車も設定されている。ここまで並走してきた朝明川を渡り、路 Lineは朝明川北岸に進む。北勢中央公園口 Stationは、北勢中央公園の最寄 Stationであるとともに、住宅地「高見台」が近い。次の梅戸井 Stationを過ぎると、図書館が併設された Station舎が特徴的な大安 Stationは宇賀渓の最寄 Stationである。両ヶ池公園の最寄 Stationである三里 Stationから終点西藤原 Stationまでは、終日全列車に自転車を持ち込むことができる。次の丹生川 Stationには貨物鉄道博物館が併設されている。青川を渡ると側 Lineのある伊勢治田 Stationに到着する。伊勢治田 Stationは青川渓の最寄 Stationである。次の東藤原 Stationに太平洋セメント藤原工場が隣接している。東藤原 Stationからはセメントが出荷されており、三岐 Line貨物輸送における一大拠点である。貨物輸送は富田 Stationから同 Stationまでで、ここから先は旅客営業のみとなる。列車はセメント工場の中を通り抜け、セメント採掘現場により削られた山肌が特徴的な藤原岳を左手に見ながら走ると、三岐 Line唯一の無 people Station西野尻 Stationに到着する。藤原町の集落の中に位置する、終点西藤原 Stationには機関車が展示されているほか、乗用鉄道模型のレイアウトがあり、乗車することができるイベントも開催されている。西藤原 Stationは聖宝寺、鈴鹿山脈藤原岳、御池岳登山口も近く、登山シーズンには多くの登山客で賑わう。",
+          "普通乗車券・回数券・定期券": "三岐 Line内有 people Stationでは硬券による入場券・乗車券を発売している。\n 回数券は、普通回数券（10枚分の価格で11枚発券）と、5枚分の価格で6枚発券される昼間割引回数券（平日10 - 16時と、土休日の終日使用可）がある。\n 通勤定期は1・3・6か月定期の3種類がある。通学定期については、1・3・6か月定期と、学期定期として1・2・3学期定期および前・後学期定期（原則として当該学期の始業式から終業式当日まで有効）が設定されている。\n 近鉄名古屋 Line、湯の山 Lineおよび鈴鹿 Lineとの間に連絡定期券（学期定期は設定されていない）が発売されている。\n それ以外の路 Line（近鉄名古屋 Lineを介しての三岐鉄道北勢 Line、JR Line、養老鉄道 Line）との連絡定期券・連絡切符は設定されていない。",
+          "企画乗車券": "2019年10月1日現在。",
+          "1日乗り放題パス": "三岐 Line内1日乗り降り自由の「1日乗り放題パス」に代わり、2009年10月1日より北勢 Lineでも使用が可能な『三岐鉄道1日乗り放題パス』（大 people1200円、小 people600円）が三岐鉄道全 Lineの有 people Stationで発売されている。",
+          "輸送実績": "三岐 Lineおよび近鉄連絡 Lineの輸送実績を下表に記す。2012fiscal year以降、鉄道統計年報においては北勢 Lineと合算されているため、輸送 people員については三重県統計書の数値を用いる。輸送密度は貨物専用区間を含む全営業キロで除されている。\n\n輸送 people員はfiscal yearでの値である。1965年以降における最高値を赤色で、最高値を記録したfiscal year以降の最低値を青色で、最高値を記録したfiscal year以前の最低値を緑色で表記している。\n\n出典：鉄道統計年報（国土交通省鉄道局監修）",
+          "営業成績": "2011年（2011度）までの、三岐 Lineおよび近鉄連絡 Lineの輸送実績を下表に記す（2012fiscal year以降は北勢 Lineと合算されており単独データが存在しない）。\n\n最高値を赤色で、最高値を記録したfiscal year以降の最低値を青色で、最高値を記録したfiscal year以前の最低値を緑色で表記している。\n\n出典：鉄道統計年報（国土交通省鉄道局監修）",
+          "営業区間および駅一覧": "三岐 LineはJR富田 Station - 西藤原 Stationの三岐 Lineおよび三岐朝明信号場 - 近鉄富田 Stationの近鉄連絡 Line（近鉄連絡 Lineの起点は三岐朝明信号場である）から構成されるが、実際は近鉄富田 Station - 西藤原 Station間で旅客営業を、JR富田 Station - 東藤原 Station間で貨物営業を行なっている。便宜上、旅客営業を行なう近鉄富田 Station - 西藤原 Station間と貨物営業のみを行なうJR富田 Station - 三岐朝明信号場間の2区間に分けて記載する。\n\n全 Station・信号場とも三重県に所在。括弧書き（背景色が）の Stationはclosed Station。closed Stationのclosed年はsuspended期間があった場合はsuspended年を記載している。boarding passengersは2006fiscal year（2006度）の値を記している。\n\n富田 Station - 三岐朝明信号場間 \nこの区間は貨物営業のみ。全 Station・信号場とも四日市市に所在。\n\n近鉄富田 Station - 西藤原 Station間 \n近鉄富田 Station - 三岐朝明信号場間は近鉄連絡 Line。同 Line含む近鉄富田 Station - 西藤原 Station間が旅客営業区間。三岐朝明信号場 - 東藤原 Station間が貨物営業区間。\n\n※近鉄富田 Station、東藤原 Station以外は早朝（始発から6:30）と夜間（21:00以降）は無 peopleになる。西野尻 Stationは終日無 people。",
+          "Rolling stock": "かつては複数の鉄道会社からの譲渡車のほか、自社発注車も存在したが、現在は西武鉄道からの譲渡車で統一されている。西武でも黄色を主体とした塗装を採用していたが、これは偶然の一致である。",
+          "電車": "801系 - 元西武701系\n 801F - 1989年移籍。\n 803F - 1992年移籍。2019年4月に西武鉄道時代の赤電塗装に復元された。\n 805F - 1997年移籍。2018年3月に西武鉄道時代の黄色塗装（レモンイエロー）に復元された。\n 101系 - 元西武401系。\n 101F - 1990年移籍。\n 103F - 1991年移籍。\n 105F - 1994年移籍。\n 851系 - 元西武701系。\n 851F - 1995年移籍。 2013年に脱 Line事故でクハ1851を失い、代わりに部品確保用として購入してあった元西武新101系のクハ1238を整備、クハ1881として連結したため編成の前後で顔が異なっている。\n 751系 - 元新101系。\n 751F - 2009年移籍。編成の組換え及び行先表示のLED化がされている。\n\n\n以前は窓周りが緑色、窓上と窓下が紺色という、京成電鉄の青電によく似た塗装だったが、この色が沿 Lineの田園風景と区別がつきにくいという声があり、現在の黄色を主体に、裾のみ朱色という塗り分けになった。\n\n モハ100形・モハ110形・クハ200形 - 1956年の電車運転開始に合わせ移籍。1978年までに全廃。\n モハ100形 - 元日本国有鉄道（国鉄）モハ1620形。\n モハ110形 - 元国鉄モハ1610形。",
+          "電気機関車": "ED45形 - 1954年以降に製造。一部は東武鉄道（東武）からの移籍車両。貨物列車牽引用。\n ED301形 - 1984年移籍。元南海電気鉄道（南海）ED5201形。入換用。\n ED5081形 - 2003年移籍。元東武鉄道ED5080形ED5081・ED5082（ED5081は2014年、ED5082は2011年竣功）。\n\n\n ED22形 - 1956年移籍。元国鉄ED22形。1984年廃車。\n ED5000形 - 1979年移籍。元東武ED5000形。1993年ED45形に編入。\n ED500形 - 2000年移籍。元大井川鉄道ED500形。2002年廃車。\n デキ200形 - 2000年移籍。元秩父鉄道デキ200形。2011年廃車、2013年解体。",
+          "貨車": "（事業用車）\n ワム200形 - ワム229が救援車として残存（籍無）。",
+          "クハ200形": "クハ200 - 元国鉄クハ5600形。\n クハ201 - 1958年移籍。元西武クハ1231形。",
+          "モハ120形・モハ130形・クハ210形": "モハ120 - 122、クハ210・211 - 1959年新造。1983年廃車後高松琴平電気鉄道（琴電）へ譲渡。\n モハ130形 - 1966年新造。1983年廃車後琴電へ譲渡。\n モハ125、クハ215・216 - 1976年移籍。小田急電鉄（小田急）2100形廃車発生品の車体に西武所沢車両工場手持ちの電装品・台車を組み合わせたもの。1991年までに全廃。\n モハ140形 - 1969年移籍。小田急1600形の車体に西武所沢車両工場手持ちの電装品・台車を組み合わせたもの。1980年10月に廃車となった後近江鉄道へ譲渡されモハ203形となる。\n モハ150形 - 西武所沢車両工場で西武311系廃車発生品の台車・電装品を利用して製造。\n モハ150・151 - 1972年新造。新製車体。1992年までに全廃。\n モハ155・156 - 1975年新造。車体は相模鉄道（相鉄）2000系の車体更新発生品。1988年廃車。\n501系 - 1977年移籍。元西武鉄道501系。1995年までに全廃。\n601系 - 1981年移籍。元西武鉄道451系・571系。2009年までに全廃。",
+          "Other": "1952 - 1964年には、国鉄富田 Stationを経由して国鉄四日市 Stationに直通する旅客列車があった。当時非電化だった国鉄四日市 Station直通のために気動車を使用しており、関西本 Line富田浜 - 四日市間には三岐鉄道からの直通列車専用の「午起 Station」も設けられた。\n 富田 Station構内の近鉄名古屋 Lineをアンダークロスする部分には、近鉄富田 Stationへの乗換客の便宜を図って「富田西口 Station」という名のプラットホームがあり（近鉄富田 Stationと同一 Station扱い）、朝の富田行き列車のみ停車していた。このホームは近鉄連絡 Lineopened後も国鉄富田行列車がclosedされるまで使われていた。\n 1983年には、日本テレビ系で放送されていた刑事ドラマ『太陽にほえろ!』571話「誘拐」の名古屋ロケにおいて、三岐 Line電車車内や沿 Lineなどで撮影が行われた。",
+          "日本の鉄道路線一覧": "This is a Wikipedia category section for 日本の鉄道路線一覧."
+        },
+        "全文": "The Sangi Line (三岐線, Sangi-sen) is a railway line in Mie Prefecture, Japan, operated by Sangi Railway. It connects Tomida Station in Yokkaichi with Nishi-Fujiwara Station in Inabe. The section between Tomida and Sigi-Asake signal station is freight-only; passenger trains run via the Kintetsu connection from Kintetsu-Tomida Station.\n\nOverview\n全 Line単 Lineの電化路 Lineである。旅客輸送を行っているほか、富田 Station - 東藤原 Station間でセメントを中心とした貨物輸送を行っている。日本においてJR以外でセメント輸送を行う鉄道事業者は三岐鉄道のほかにもあったが、西武鉄道が1996年(1996)に、秩父鉄道と樽見鉄道が2006年(2006)にセメント輸送をclosedして以降は本路 Lineのみとなっている。\n\n旅客列車には、西武鉄道の中古車両が黄色とオレンジ色のカラーリングを施され使用されている。貨物輸送の割合が大きいが、通学・生活路 Lineとして、また鈴鹿山脈へのハイキングの足などとして旅客輸送の比率も高まっている。\n\n路線データ\n路 Line距離（営業キロ）：\n 三岐 Line：富田 - 西藤原間 26.5km（富田 - 三岐朝明間1.0kmは貨物営業のみ）\n 近鉄連絡 Line：三岐朝明信号場 - 近鉄富田間 1.1km\n 軌間：1067mm\n  Station数：三岐 Line15 Station、近鉄連絡 Line1 Station（いずれも起終点 Station含む）\n 複 Line区間：なし（全 Line単 Line）\n 電化区間：全 Line（直流1500V）\n 最急勾配：25パーミル（伊勢治田 - 東藤原間、東藤原 - 西野尻間）\n 最小曲 Line半径：200メートル。\n 閉塞方式：自動閉塞式\n 最高速度：70km/h\n IC乗車カード対応区間：なし\n\nHistory\n当路 Lineは鉄道敷設法別表75項「三重県四日市ヨリ岐阜県関ケ原ヲ経テ滋賀県木ノ本ニ至ル鉄道」の一部を形成し、「三岐鉄道」という社名も三重県四日市と岐阜県大垣市上石津を経て、関ヶ原とを結ぶことを目指したことによるものであった。\n\n1928年藤原鉄道に対し四日市市 - 関ヶ原町間他の鉄道敷設免許状が下付され、三岐鉄道に名称を改め会社を設立。社長は三重県の実業家伊藤伝七が就任し、取締役には浅野セメント（浅野財閥）から専務取締役の浅野良三、金子喜代太が、浅野財閥系の鶴見臨港鉄道から取締役の山田胖が、小野田セメントから専務取締役の狩野宗三が名を連ねた（浅野セメント・小野田セメントとも現在の太平洋セメントの前身）。\n\n1931年7月23日に富田 - 東藤原間がopenedし、同年12月23日に東藤原 - 西藤原間がextensionopenedしたものの、1937年に西藤原 - 関ヶ原間の免許が失効し、富田 - 西藤原間が建設されただけにとどまった。\n\n近鉄連絡 Line建設前は旅客列車も国鉄富田 Station発着であったが、近鉄富田 Stationまで歩いて移動する乗客が多かった。近鉄連絡 Line建設には富田 Station前の商店街が反対したが、完成後も国鉄富田 Stationへの旅客列車を運行することで妥協した。しかし、近鉄富田 Station利用客の多さは歴然で、1985年(1985)に旅客列車は近鉄富田 Station発着に統一された。\n\nChronology\n1883年(1883) 稲葉三右衛門が、四日市 - 関ヶ原間を結ぶ勢江鉄道建設申請書を提出するも認可されず。\n 1927年(1927)\n 3月 浅野セメントが藤原鉄道、小野田セメントが員弁鉄道として鉄道敷設免許を申請。\n 11月 藤原鉄道として計画を一本化して鉄道敷設免許申請。\n 1928年(1928)\n 6月9日 藤原鉄道に対し鉄道免許状下付（四日市市 - 不破郡関ケ原町間、四日市市 - 三重郡塩浜村間、員弁郡大長村 - 三重郡富田町間、三重郡三重村 - 同郡川島村間）。\n 9月20日 三岐鉄道株式会社設立。\n 1931年(1931)\n 7月23日 富田 - 東藤原間がOpened.\n 12月23日 東藤原 - 西藤原間がextensionOpened.\n1932年(1932)12月 小野田セメント藤原工場操業開始。翌年1月よりセメント出荷\n1935年(1935)\n6月26日 鉄道免許取消（四日市起点1.1km-保々間及び連絡 Line 指定ノ期限マテニ竣工セサルタメ）。\n12月13日 起業closed（許可）（四日市 - 四日市起点1.1km間、三重郡常磐村 - 同郡川島村間）。\n1937年(1937)12月2日 鉄道免許失効（員弁郡西藤原村 - 不破郡関ケ原町間 指定ノ期限マテニ工事施工認可申請ヲ為ササルタメ）。\n 1950年(1950)10月30日 富田 - 大矢知間に三岐朝明 StationOpened.\n 1952年(1952)12月1日 富田 Stationから国鉄四日市 Stationまで旅客列車直通運転開始。\n 1954年(1954)3月29日 全 Line電化され、貨物列車で電気機関車を使用開始。\n 1956年(1956)12月25日 電車運転開始。\n 1964年(1964)10月1日 富田 Stationから国鉄四日市 Stationまでの旅客列車直通運転closed。\n 1965年(1965)\n7月1日 三岐朝明 - 富田間に富田西口 StationOpened.\n8月21日 萱生 Stationを暁学園前 Stationにrenamed。\n 1968年(1968)6月1日 三里 Stationを宇賀渓口 Stationにrenamed。\n 1970年(1970)6月25日 近鉄富田 - 三岐朝明間の近鉄連絡 LineがOpened.\n 1974年(1974)4月1日 富田・近鉄富田 - 東藤原間がCTC化。\n 1985年(1985)\n 3月14日 富田 - 三岐朝明間の旅客営業をsuspended、富田西口 Stationclosed。\n 5月16日 貨物列車のワンマン運転開始。\n 1986年(1986)3月25日 大井田 Stationを移設し大安 Stationにrenamed。宇賀渓口 Stationを三里 Stationにrenamed。\n 1988年(1988)1月7日 旅客列車のワンマン運転開始。\n 1989年(1989)\n 4月1日 旅客車両の冷房化開始。三岐朝明 Stationをclosed、三岐朝明信号場に変更。また、朝にのみ運転されていた急行もclosed。\n 1990年(1990)11月2日 炭酸カルシウム・フライアッシュ（石炭灰）の貨物輸送を開始。\n 1994年(1994)12月3日 最高速度が60km/hから70km/hに引き上げられる。。\n 1997年(1997)4月1日 大長 Stationを移設し北勢中央公園口 Stationにrenamed。電車内に自転車を無料で持ち込めるサービスを開始。\n 2001年(2001)7月24日 中部国際空港向けの埋立土砂輸送を開始。\n 2002年(2002)12月21日 中部国際空港向けの埋立土砂輸送を終了。\n 2009年(2009) 完全冷房化。\n 2011年(2011)\n 9月4日 台風12号に伴う大雨で保々 - 北勢中央公園口間の朝明川橋梁が損傷し全 Lineで不通に。\n 9月6日 近鉄富田 - 山城間と三里 - 西藤原 Station間で運転再開。\n 9月7日 山城 - 保々間で運転再開。\n 9月8日 梅戸井 - 三里間で運転再開。\n 11月10日 保々 - 梅戸井間で運転再開し全 Line復旧。\n 2012年(2012)\n 2月8日 東藤原 Station構内で電気機関車が脱 Lineし、伊勢治田 - 西藤原間が不通に。10日運転再開。\n 2月29日 骨材輸送がclosedされ、東藤原 - 富田 - 四日市間で骨材輸送最終記念列車を運転。\n 6月27日 東藤原 Station構内で電気機関車が脱 Lineし、伊勢治田 - 西藤原間が不通に。30日伊勢治田 - 東藤原間が運転再開。\n 11月8日 三里 Station構内で、富田発東藤原行きの普通列車（3両編成）が安全側 Lineに進入し車止めを乗り越えて先頭車両が脱 Line。梅戸井 - 西藤原間が不通に。11日梅戸井 - 東藤原間が運転再開（東藤原 - 西藤原間は引き続きバス代行）。\n 2013年(2013)1月12日 東藤原 - 西藤原間が運転再開。\n\nOperations\n旅客列車は、1時間あたり朝が3 - 4本、それ以外の時間帯では2本程度（保々 Station - 西藤原 Station間は時間帯によって1本）の運転である。近鉄富田 Station - 保々 Station間の区間運転列車も設定されている。貨物列車が走る兼ね合いもあってパターンダイヤにはなっていない。2013年3月17日のダイヤ変更より若干減便され、昼間に近鉄富田 Station - 保々 Station間の区間列車が復活した。以前は夕方に沿 Lineの学生のために近鉄富田 Station - 保々 Station間に臨時列車が1往復設定されており、この列車は土曜日・休日と春・夏・冬の学校長期休暇期間は運休となっていたが、現在は運転日を指定する列車は設定されていない。すべて各 Stationに停車する普通列車であるが、1989年(1989)まで急行が運転されていた実績もある。\n\n旅客列車・貨物列車ともワンマン運転を行っている。ただし、早朝・夜間（近鉄富田 Station・東藤原 Stationを除く全 Stationが無 peopleになる時間帯）の列車には車掌が乗務している。西野尻 Station以外は有 people Stationであるため車内に運賃箱は設置されていない。\n\n貨物列車の行き違いのため、交換 Stationは180 - 250m程度の有効長をもつ。全交換 Stationで安全側 Lineが整備され、列車の行き違い時には、上下列車が場内信号機により停車せず同時に Station構内に進入できる。終点以外の大半の Station（暁学園前 Station・北勢中央公園口 Station・大安 Station・西野尻 Station以外）で行き違いが可能である。保々 Station・伊勢治田 Station・東藤原 Stationには貨物列車の着発 Lineがあり、貨物列車1本を待避させた上で、旅客列車（または貨物列車）同士の行き違いも可能である。\n\n自転車を電車内に持ち込めるサイクルパス制度があり、近鉄富田 Station以外で利用できる。大矢知 Station - 三里 Station間は土曜・休日の全列車と春・夏・冬の学校長期休暇期間の日中時間帯のみ利用でき、三里 Station - 西藤原 Station間は毎日・全列車で利用できる。\n\n沿線概況\n三重県北勢地域を走る三岐 Lineは、ほぼ平坦で、トンネルは存在しない。起点である富田 Station周辺には商業施設が多いが、終点西藤原 Stationに向かうにつれて、住宅地、さらに進むと田畑および農村と沿 Line風景は変化する。\n\n三岐 Lineの旅客列車が全列車乗り入れる近鉄富田 Stationは、近鉄名古屋 Lineとの乗換 Stationであり、 Station前には路 Lineバスも発着することから、三岐 Line系統で最も乗降客数が多い Stationである。近鉄富田 Stationを後にした列車は、しばらく近鉄名古屋 Lineと並走し、住宅地の中を進む。関西本 Lineをオーバークロスすると、三岐朝明信号場で、富田 Stationから来る三岐 Lineと合流する。三岐 Lineの起点 Stationは富田 Stationであるが、富田 Station - 三岐朝明信号場間の旅客営業は行われておらず、貨物営業のみとなっている。関西本 Lineを再びオーバークロスすると、大矢知 Station。久留倍官衙遺跡の最寄 Stationである。右手に朝明川と並走しつつ伊坂ダムの最寄 Stationである平津 Stationを過ぎると、水田が広がる。次の暁学園前 Stationはその名の通り、暁学園の最寄 Stationであるため通学客も多いほか、三岐鉄道が開発した住宅地「あかつき台」への最寄 Stationである。暁学園前 Stationの Stationビル「あかつきプラザビル」には三岐鉄道が経営する駄菓子屋も入居している。列車は、朝明川と並走し、住宅地「八千代台」、「あさけが丘」最寄 Stationの山城 Stationに到着する。山城 Stationには、近鉄四日市 Stationやイオンモール東員方面に向かう三岐鉄道バスが乗り入れている。山城 Stationを過ぎると水田が再び広がり、保々 Stationに到着する。保々 Stationには、保々車両区、CTCセンターがあり、三岐 Lineの中枢となる Stationであるため、保々止まりの列車も設定されている。ここまで並走してきた朝明川を渡り、路 Lineは朝明川北岸に進む。北勢中央公園口 Stationは、北勢中央公園の最寄 Stationであるとともに、住宅地「高見台」が近い。次の梅戸井 Stationを過ぎると、図書館が併設された Station舎が特徴的な大安 Stationは宇賀渓の最寄 Stationである。両ヶ池公園の最寄 Stationである三里 Stationから終点西藤原 Stationまでは、終日全列車に自転車を持ち込むことができる。次の丹生川 Stationには貨物鉄道博物館が併設されている。青川を渡ると側 Lineのある伊勢治田 Stationに到着する。伊勢治田 Stationは青川渓の最寄 Stationである。次の東藤原 Stationに太平洋セメント藤原工場が隣接している。東藤原 Stationからはセメントが出荷されており、三岐 Line貨物輸送における一大拠点である。貨物輸送は富田 Stationから同 Stationまでで、ここから先は旅客営業のみとなる。列車はセメント工場の中を通り抜け、セメント採掘現場により削られた山肌が特徴的な藤原岳を左手に見ながら走ると、三岐 Line唯一の無 people Station西野尻 Stationに到着する。藤原町の集落の中に位置する、終点西藤原 Stationには機関車が展示されているほか、乗用鉄道模型のレイアウトがあり、乗車することができるイベントも開催されている。西藤原 Stationは聖宝寺、鈴鹿山脈藤原岳、御池岳登山口も近く、登山シーズンには多くの登山客で賑わう。\n\n普通乗車券・回数券・定期券\n三岐 Line内有 people Stationでは硬券による入場券・乗車券を発売している。\n 回数券は、普通回数券（10枚分の価格で11枚発券）と、5枚分の価格で6枚発券される昼間割引回数券（平日10 - 16時と、土休日の終日使用可）がある。\n 通勤定期は1・3・6か月定期の3種類がある。通学定期については、1・3・6か月定期と、学期定期として1・2・3学期定期および前・後学期定期（原則として当該学期の始業式から終業式当日まで有効）が設定されている。\n 近鉄名古屋 Line、湯の山 Lineおよび鈴鹿 Lineとの間に連絡定期券（学期定期は設定されていない）が発売されている。\n それ以外の路 Line（近鉄名古屋 Lineを介しての三岐鉄道北勢 Line、JR Line、養老鉄道 Line）との連絡定期券・連絡切符は設定されていない。\n\n企画乗車券\n2019年10月1日現在。\n\n1日乗り放題パス\n三岐 Line内1日乗り降り自由の「1日乗り放題パス」に代わり、2009年10月1日より北勢 Lineでも使用が可能な『三岐鉄道1日乗り放題パス』（大 people1200円、小 people600円）が三岐鉄道全 Lineの有 people Stationで発売されている。\n\n輸送実績\n三岐 Lineおよび近鉄連絡 Lineの輸送実績を下表に記す。2012fiscal year以降、鉄道統計年報においては北勢 Lineと合算されているため、輸送 people員については三重県統計書の数値を用いる。輸送密度は貨物専用区間を含む全営業キロで除されている。\n\n輸送 people員はfiscal yearでの値である。1965年以降における最高値を赤色で、最高値を記録したfiscal year以降の最低値を青色で、最高値を記録したfiscal year以前の最低値を緑色で表記している。\n\n出典：鉄道統計年報（国土交通省鉄道局監修）\n\n営業成績\n2011年（2011度）までの、三岐 Lineおよび近鉄連絡 Lineの輸送実績を下表に記す（2012fiscal year以降は北勢 Lineと合算されており単独データが存在しない）。\n\n最高値を赤色で、最高値を記録したfiscal year以降の最低値を青色で、最高値を記録したfiscal year以前の最低値を緑色で表記している。\n\n出典：鉄道統計年報（国土交通省鉄道局監修）\n\n営業区間および駅一覧\n三岐 LineはJR富田 Station - 西藤原 Stationの三岐 Lineおよび三岐朝明信号場 - 近鉄富田 Stationの近鉄連絡 Line（近鉄連絡 Lineの起点は三岐朝明信号場である）から構成されるが、実際は近鉄富田 Station - 西藤原 Station間で旅客営業を、JR富田 Station - 東藤原 Station間で貨物営業を行なっている。便宜上、旅客営業を行なう近鉄富田 Station - 西藤原 Station間と貨物営業のみを行なうJR富田 Station - 三岐朝明信号場間の2区間に分けて記載する。\n\n全 Station・信号場とも三重県に所在。括弧書き（背景色が）の Stationはclosed Station。closed Stationのclosed年はsuspended期間があった場合はsuspended年を記載している。boarding passengersは2006fiscal year（2006度）の値を記している。\n\n富田 Station - 三岐朝明信号場間 \nこの区間は貨物営業のみ。全 Station・信号場とも四日市市に所在。\n\n近鉄富田 Station - 西藤原 Station間 \n近鉄富田 Station - 三岐朝明信号場間は近鉄連絡 Line。同 Line含む近鉄富田 Station - 西藤原 Station間が旅客営業区間。三岐朝明信号場 - 東藤原 Station間が貨物営業区間。\n\n※近鉄富田 Station、東藤原 Station以外は早朝（始発から6:30）と夜間（21:00以降）は無 peopleになる。西野尻 Stationは終日無 people。\n\nRolling stock\nかつては複数の鉄道会社からの譲渡車のほか、自社発注車も存在したが、現在は西武鉄道からの譲渡車で統一されている。西武でも黄色を主体とした塗装を採用していたが、これは偶然の一致である。\n\n電車\n801系 - 元西武701系\n 801F - 1989年移籍。\n 803F - 1992年移籍。2019年4月に西武鉄道時代の赤電塗装に復元された。\n 805F - 1997年移籍。2018年3月に西武鉄道時代の黄色塗装（レモンイエロー）に復元された。\n 101系 - 元西武401系。\n 101F - 1990年移籍。\n 103F - 1991年移籍。\n 105F - 1994年移籍。\n 851系 - 元西武701系。\n 851F - 1995年移籍。 2013年に脱 Line事故でクハ1851を失い、代わりに部品確保用として購入してあった元西武新101系のクハ1238を整備、クハ1881として連結したため編成の前後で顔が異なっている。\n 751系 - 元新101系。\n 751F - 2009年移籍。編成の組換え及び行先表示のLED化がされている。\n\n\n以前は窓周りが緑色、窓上と窓下が紺色という、京成電鉄の青電によく似た塗装だったが、この色が沿 Lineの田園風景と区別がつきにくいという声があり、現在の黄色を主体に、裾のみ朱色という塗り分けになった。\n\n モハ100形・モハ110形・クハ200形 - 1956年の電車運転開始に合わせ移籍。1978年までに全廃。\n モハ100形 - 元日本国有鉄道（国鉄）モハ1620形。\n モハ110形 - 元国鉄モハ1610形。\n\n電気機関車\nED45形 - 1954年以降に製造。一部は東武鉄道（東武）からの移籍車両。貨物列車牽引用。\n ED301形 - 1984年移籍。元南海電気鉄道（南海）ED5201形。入換用。\n ED5081形 - 2003年移籍。元東武鉄道ED5080形ED5081・ED5082（ED5081は2014年、ED5082は2011年竣功）。\n\n\n ED22形 - 1956年移籍。元国鉄ED22形。1984年廃車。\n ED5000形 - 1979年移籍。元東武ED5000形。1993年ED45形に編入。\n ED500形 - 2000年移籍。元大井川鉄道ED500形。2002年廃車。\n デキ200形 - 2000年移籍。元秩父鉄道デキ200形。2011年廃車、2013年解体。\n\n貨車\n（事業用車）\n ワム200形 - ワム229が救援車として残存（籍無）。\n\nクハ200形\nクハ200 - 元国鉄クハ5600形。\n クハ201 - 1958年移籍。元西武クハ1231形。\n\nモハ120形・モハ130形・クハ210形\nモハ120 - 122、クハ210・211 - 1959年新造。1983年廃車後高松琴平電気鉄道（琴電）へ譲渡。\n モハ130形 - 1966年新造。1983年廃車後琴電へ譲渡。\n モハ125、クハ215・216 - 1976年移籍。小田急電鉄（小田急）2100形廃車発生品の車体に西武所沢車両工場手持ちの電装品・台車を組み合わせたもの。1991年までに全廃。\n モハ140形 - 1969年移籍。小田急1600形の車体に西武所沢車両工場手持ちの電装品・台車を組み合わせたもの。1980年10月に廃車となった後近江鉄道へ譲渡されモハ203形となる。\n モハ150形 - 西武所沢車両工場で西武311系廃車発生品の台車・電装品を利用して製造。\n モハ150・151 - 1972年新造。新製車体。1992年までに全廃。\n モハ155・156 - 1975年新造。車体は相模鉄道（相鉄）2000系の車体更新発生品。1988年廃車。\n501系 - 1977年移籍。元西武鉄道501系。1995年までに全廃。\n601系 - 1981年移籍。元西武鉄道451系・571系。2009年までに全廃。\n\nOther\n1952 - 1964年には、国鉄富田 Stationを経由して国鉄四日市 Stationに直通する旅客列車があった。当時非電化だった国鉄四日市 Station直通のために気動車を使用しており、関西本 Line富田浜 - 四日市間には三岐鉄道からの直通列車専用の「午起 Station」も設けられた。\n 富田 Station構内の近鉄名古屋 Lineをアンダークロスする部分には、近鉄富田 Stationへの乗換客の便宜を図って「富田西口 Station」という名のプラットホームがあり（近鉄富田 Stationと同一 Station扱い）、朝の富田行き列車のみ停車していた。このホームは近鉄連絡 Lineopened後も国鉄富田行列車がclosedされるまで使われていた。\n 1983年には、日本テレビ系で放送されていた刑事ドラマ『太陽にほえろ!』571話「誘拐」の名古屋ロケにおいて、三岐 Line電車車内や沿 Lineなどで撮影が行われた。\n\n日本の鉄道路線一覧\nThis is a Wikipedia category section for 日本の鉄道路線一覧.",
+        "字数": 10314
       }
     }
   },
@@ -114,9 +135,21 @@
           "词条标题": "Misato Station",
           "链接": "https://en.wikipedia.org/wiki/Misato%20Station",
           "首段": "Misato Station is the name of three train stations in Japan:\n\n Misato Station (Mie) (三里駅)\n Misato Station (Nagano) (美里駅)\n Misato Station (Saitama) (三郷駅)",
-          "章节": {},
-          "全文": "Misato Station is the name of three train stations in Japan:\n\n Misato Station (Mie) (三里駅)\n Misato Station (Nagano) (美里駅)\n Misato Station (Saitama) (三郷駅)",
-          "字数": 152
+          "章节": {
+            "History": "かつては宇賀渓への三岐鉄道バスが当 Stationを発着していたことから宇賀渓口 Stationと名乗っていた。バスはその後大安 Stationからの発着に変更されたため、以前の三里 Stationに戻されたが、現在は大安 Stationからのバスもsuspendedとなっている。",
+            "Chronology": "1931年(1931)7月23日：三里 StationとしてOpened.\n 1968年(1968)6月1日：宇賀渓口 Stationにrenamed。\n 1986年(1986)3月25日：再度三里 Stationにrenamed。\n 2004年(2004)3月24日： Station舎改築。2階に「博物館 三岐鉄道車輌大図鑑」が開館する（※日曜のみ営業）。\n 2006年(2006)3月26日：2階で営業した、「博物館 三岐鉄道車輌大図鑑」が閉館する。\n 2012年(2012)11月8日：構内で脱 Line事故が発生。",
+            "Station layout": "island platforman island platform layoutを持つ地上 Station。 Station舎とホームは構内踏切で結ばれている。\n\nのりば \n\n※案内上ののりば番号は割り当てられていない。",
+            "Usage": "「三重県統計書」によると、1日の平均boarding passengersは以下の通りである。\n\n 主として通学・通勤用に利用される。\n 三里 Stationの利用状況の変遷を下表に示す。\n 輸送実績（boarding passengers）の単位は peopleであり、fiscal yearでの総計値を示す。fiscal year間の比較に適したデータである。\n boarding and alighting passengers調査結果は任意の1日における値（単位： people)である。調査日の天候・行事等の要因によって変動が大きいのでfiscal year間の比較には注意を要する。\n 表中、最高値を赤色で、最高値を記録したfiscal year以降の最低値を青色で、最高値を記録したfiscal year以前の最低値を緑色で表記している。",
+            "Surrounding area": " Station付近は路地が入り組んでおり、それに沿って民家が建つ。所々に田畑があり、 Station西側には森林もある。 Station東側には商業施設や高速道路のインターチェンジがあり、その東側を員弁川が流れる。ちなみに、かつての Station名の由来となった宇賀渓という渓谷は Station西側にあるが、 Stationからはやや遠い。",
+            "Bus routes": " Station前に「三里 Station」停留所があり、下記の路 Lineが乗り入れる。",
+            "市之原 Line": "阿下喜温泉 行、市之原平 行",
+            "平古 Line": "平古集会所 行",
+            "三里丹生川 Line": "阿下喜温泉 行、イオン大安店 行",
+            "三岐 Line": "大安 Station - 三里 Station - 丹生川 Station",
+            "List of railway stations in Japan": "This is a Wikipedia category section for List of railway stations in Japan."
+          },
+          "全文": "Misato Station is the name of three train stations in Japan:\n\n Misato Station (Mie) (三里駅)\n Misato Station (Nagano) (美里駅)\n Misato Station (Saitama) (三郷駅)\n\nHistory\nかつては宇賀渓への三岐鉄道バスが当 Stationを発着していたことから宇賀渓口 Stationと名乗っていた。バスはその後大安 Stationからの発着に変更されたため、以前の三里 Stationに戻されたが、現在は大安 Stationからのバスもsuspendedとなっている。\n\nChronology\n1931年(1931)7月23日：三里 StationとしてOpened.\n 1968年(1968)6月1日：宇賀渓口 Stationにrenamed。\n 1986年(1986)3月25日：再度三里 Stationにrenamed。\n 2004年(2004)3月24日： Station舎改築。2階に「博物館 三岐鉄道車輌大図鑑」が開館する（※日曜のみ営業）。\n 2006年(2006)3月26日：2階で営業した、「博物館 三岐鉄道車輌大図鑑」が閉館する。\n 2012年(2012)11月8日：構内で脱 Line事故が発生。\n\nStation layout\nisland platforman island platform layoutを持つ地上 Station。 Station舎とホームは構内踏切で結ばれている。\n\nのりば \n\n※案内上ののりば番号は割り当てられていない。\n\nUsage\n「三重県統計書」によると、1日の平均boarding passengersは以下の通りである。\n\n 主として通学・通勤用に利用される。\n 三里 Stationの利用状況の変遷を下表に示す。\n 輸送実績（boarding passengers）の単位は peopleであり、fiscal yearでの総計値を示す。fiscal year間の比較に適したデータである。\n boarding and alighting passengers調査結果は任意の1日における値（単位： people)である。調査日の天候・行事等の要因によって変動が大きいのでfiscal year間の比較には注意を要する。\n 表中、最高値を赤色で、最高値を記録したfiscal year以降の最低値を青色で、最高値を記録したfiscal year以前の最低値を緑色で表記している。\n\nSurrounding area\n Station付近は路地が入り組んでおり、それに沿って民家が建つ。所々に田畑があり、 Station西側には森林もある。 Station東側には商業施設や高速道路のインターチェンジがあり、その東側を員弁川が流れる。ちなみに、かつての Station名の由来となった宇賀渓という渓谷は Station西側にあるが、 Stationからはやや遠い。\n\nBus routes\n Station前に「三里 Station」停留所があり、下記の路 Lineが乗り入れる。\n\n市之原 Line\n阿下喜温泉 行、市之原平 行\n\n平古 Line\n平古集会所 行\n\n三里丹生川 Line\n阿下喜温泉 行、イオン大安店 行\n\n三岐 Line\n大安 Station - 三里 Station - 丹生川 Station\n\nList of railway stations in Japan\nThis is a Wikipedia category section for List of railway stations in Japan.",
+          "字数": 1568
         }
       },
       "结构化信息": {
@@ -196,9 +229,20 @@
           "词条标题": "Nyūgawa Station",
           "链接": "https://en.wikipedia.org/wiki/Ny%C5%ABgawa%20Station",
           "首段": "Nyūgawa Station is the name of two train stations in Japan:\n\n Nyūgawa Station (Ehime) (壬生川駅)\n Nyūgawa Station (Mie) (丹生川駅)",
-          "章节": {},
-          "全文": "Nyūgawa Station is the name of two train stations in Japan:\n\n Nyūgawa Station (Ehime) (壬生川駅)\n Nyūgawa Station (Mie) (丹生川駅)",
-          "字数": 122
+          "章节": {
+            "History": "1931年(1931)7月23日：Opened.",
+            "Station layout": "island platforman island platform layoutを持つ地上 Stationである。 Station舎とホームは構内踏切と通路で結ばれている。\n\nのりば \n\n※案内上ののりば番号は割り当てられていない。",
+            "Notes": "側 Lineには貨物鉄道博物館所属のタム8000形（アタム8000）とト1形（ト15）の2両の貨車が展示されているが、その部分の Line路は本 Lineと切り離されている。",
+            "Usage": "「三重県統計書」によると、1日の平均boarding passengersは以下の通りである。\n\n 丹生川 Stationの利用状況の変遷を下表に示す。\n 輸送実績（boarding passengers）の単位は people/fiscal yearである。\n boarding and alighting passengers調査結果は任意の1日における値（単位： people)である。調査日の天候・行事等の要因によって変動が大きいのでfiscal year間の比較には注意を要する。\n 表中、最高値を赤色で、最高値を記録したfiscal year以降の最低値を青色で、最高値を記録したfiscal year以前の最低値を緑色で表記している。\n\n出典：三重県統計書各fiscal year版",
+            "Surrounding area": "貨物鉄道博物館（毎月第1日曜10:00 - 16:00開館）",
+            "いなべ市立丹生川保育園": "タイムズカーレンタルいなべ店（当 Stationから送迎あり）",
+            "Bus routes": " Station前に「丹生川 Station」停留所があり、下記の路 Lineが乗り入れる。",
+            "三里丹生川 Line": "阿下喜温泉 行、イオン大安店 行",
+            "三岐 Line": "三里 Station - 丹生川 Station - 伊勢治田 Station",
+            "List of railway stations in Japan": "壬生川 Station - 予讃 Line（JR四国）にある同音異字の Station。\n\nゆうかわ"
+          },
+          "全文": "Nyūgawa Station is the name of two train stations in Japan:\n\n Nyūgawa Station (Ehime) (壬生川駅)\n Nyūgawa Station (Mie) (丹生川駅)\n\nHistory\n1931年(1931)7月23日：Opened.\n\nStation layout\nisland platforman island platform layoutを持つ地上 Stationである。 Station舎とホームは構内踏切と通路で結ばれている。\n\nのりば \n\n※案内上ののりば番号は割り当てられていない。\n\nNotes\n側 Lineには貨物鉄道博物館所属のタム8000形（アタム8000）とト1形（ト15）の2両の貨車が展示されているが、その部分の Line路は本 Lineと切り離されている。\n\nUsage\n「三重県統計書」によると、1日の平均boarding passengersは以下の通りである。\n\n 丹生川 Stationの利用状況の変遷を下表に示す。\n 輸送実績（boarding passengers）の単位は people/fiscal yearである。\n boarding and alighting passengers調査結果は任意の1日における値（単位： people)である。調査日の天候・行事等の要因によって変動が大きいのでfiscal year間の比較には注意を要する。\n 表中、最高値を赤色で、最高値を記録したfiscal year以降の最低値を青色で、最高値を記録したfiscal year以前の最低値を緑色で表記している。\n\n出典：三重県統計書各fiscal year版\n\nSurrounding area\n貨物鉄道博物館（毎月第1日曜10:00 - 16:00開館）\n\nいなべ市立丹生川保育園\nタイムズカーレンタルいなべ店（当 Stationから送迎あり）\n\nBus routes\n Station前に「丹生川 Station」停留所があり、下記の路 Lineが乗り入れる。\n\n三里丹生川 Line\n阿下喜温泉 行、イオン大安店 行\n\n三岐 Line\n三里 Station - 丹生川 Station - 伊勢治田 Station\n\nList of railway stations in Japan\n壬生川 Station - 予讃 Line（JR四国）にある同音異字の Station。\n\nゆうかわ",
+          "字数": 1057
         }
       },
       "结构化信息": {
@@ -279,9 +323,20 @@
           "词条标题": "Ise-Hatta Station",
           "链接": "https://ja.wikipedia.org/wiki/伊勢治田駅",
           "首段": "Ise-Hatta Station (伊勢治田駅, Ise-Hatta-eki) is a railway station on the Sangi Railway Sangi Line in Hokusei-chō Higashimura, Inabe, Mie Prefecture, Japan.",
-          "章节": {},
-          "全文": "Ise-Hatta Station (伊勢治田駅, Ise-Hatta-eki) is a railway station on the Sangi Railway Sangi Line in Hokusei-chō Higashimura, Inabe, Mie Prefecture, Japan.",
-          "字数": 151
+          "章节": {
+            "History": "1931年(1931)7月23日：Opened.",
+            "Station layout": "island platforman island platform layoutと貨物本 Line（1 Line）を持つ地上 Station。 Line路の南側にある Station本屋とホームの間に構内踏切がある。\n\nまた、構内の東側には有効長が長いヤードが広がっており、貨物列車の時間調整（列車交換を含む）や貨車の留置に使用される。\n\nのりば \n\n※案内上ののりば番号は割り当てられていない。",
+            "Usage": "「三重県統計書」によると、1日の平均boarding passengersは以下の通りである。\n\n 伊勢治田 Stationの利用状況の変遷を下表に示す。\n 輸送実績（boarding passengers）の単位は peopleであり、fiscal yearでの総計値を示す。fiscal year間の比較に適したデータである。\n boarding and alighting passengers調査結果は任意の1日における値（単位： people)である。調査日の天候・行事等の要因によって変動が大きいのでfiscal year間の比較には注意を要する。\n 表中、最高値を赤色で、最高値を記録したfiscal year以降の最低値を青色で、最高値を記録したfiscal year以前の最低値を緑色で表記している。",
+            "治田簡易郵便局": "いなべ警察署 治田警察官駐在所",
+            "安行寺": "阿下喜 Station - 北勢 Line終着 Station。当 Stationから員弁川を渡って約2km（徒歩約30分）ほど。",
+            "三重県道615号西野尻垣内線": "株式会社入丸（IRIMARU）",
+            "Bus routes": " Station前に「伊勢治田 Station」停留所があり、下記の路 Lineが乗り入れる。",
+            "治田 Line": "阿下喜温泉 行、無正野 行",
+            "三岐 Line": "丹生川 Station - 伊勢治田 Station - 東藤原 Station",
+            "List of railway stations in Japan": "This is a Wikipedia category section for List of railway stations in Japan."
+          },
+          "全文": "Ise-Hatta Station (伊勢治田駅, Ise-Hatta-eki) is a railway station on the Sangi Railway Sangi Line in Hokusei-chō Higashimura, Inabe, Mie Prefecture, Japan.\n\nHistory\n1931年(1931)7月23日：Opened.\n\nStation layout\nisland platforman island platform layoutと貨物本 Line（1 Line）を持つ地上 Station。 Line路の南側にある Station本屋とホームの間に構内踏切がある。\n\nまた、構内の東側には有効長が長いヤードが広がっており、貨物列車の時間調整（列車交換を含む）や貨車の留置に使用される。\n\nのりば \n\n※案内上ののりば番号は割り当てられていない。\n\nUsage\n「三重県統計書」によると、1日の平均boarding passengersは以下の通りである。\n\n 伊勢治田 Stationの利用状況の変遷を下表に示す。\n 輸送実績（boarding passengers）の単位は peopleであり、fiscal yearでの総計値を示す。fiscal year間の比較に適したデータである。\n boarding and alighting passengers調査結果は任意の1日における値（単位： people)である。調査日の天候・行事等の要因によって変動が大きいのでfiscal year間の比較には注意を要する。\n 表中、最高値を赤色で、最高値を記録したfiscal year以降の最低値を青色で、最高値を記録したfiscal year以前の最低値を緑色で表記している。\n\n治田簡易郵便局\nいなべ警察署 治田警察官駐在所\n\n安行寺\n阿下喜 Station - 北勢 Line終着 Station。当 Stationから員弁川を渡って約2km（徒歩約30分）ほど。\n\n三重県道615号西野尻垣内線\n株式会社入丸（IRIMARU）\n\nBus routes\n Station前に「伊勢治田 Station」停留所があり、下記の路 Lineが乗り入れる。\n\n治田 Line\n阿下喜温泉 行、無正野 行\n\n三岐 Line\n丹生川 Station - 伊勢治田 Station - 東藤原 Station\n\nList of railway stations in Japan\nThis is a Wikipedia category section for List of railway stations in Japan.",
+          "字数": 1139
         }
       },
       "结构化信息": {
@@ -354,9 +409,17 @@
           "词条标题": "Hobo Station",
           "链接": "https://en.wikipedia.org/wiki/Hobo%20Station",
           "首段": "Hobo Station may refer to:\n\nHobo Station, Mississippi, a community in the United States\nHobo Station (Mie), a rail station in Japan",
-          "章节": {},
-          "全文": "Hobo Station may refer to:\n\nHobo Station, Mississippi, a community in the United States\nHobo Station (Mie), a rail station in Japan",
-          "字数": 131
+          "章节": {
+            "History": "1931年(1931)7月23日：三重郡保々村に当 StationがOpened.",
+            "Station layout": "island platforman island platform layoutを有する地上 Station。下り Lineのりばの隣に（車庫への）入出庫 Line、上り Lineのりばの隣に貨物待避 Lineがある。\n\nのりば \n\n※案内上ののりば番号は割り当てられていない。",
+            "Notes": "近鉄富田方面は、下り Lineのりばから発車することもできる（折り返し運転用）。\n 貨物待避 Lineは、両方向とも入 Line・発車に対応している。",
+            "Timetable": "定期列車として当 Station - 近鉄富田 Station間の区間運転列車が数本設定されている。過去には当 Station折り返し列車が多く存在したが、2003年(2003)より終点の西藤原 Stationまで延長されている。",
+            "Usage": "「三重県統計書」によると、1日の平均boarding passengersは以下の通りである。",
+            "三岐 Line": "山城 Station - 保々 Station - 北勢中央公園口 Station",
+            "Railway stations in 四日市市": "This is a Wikipedia category section for Railway stations in 四日市市."
+          },
+          "全文": "Hobo Station may refer to:\n\nHobo Station, Mississippi, a community in the United States\nHobo Station (Mie), a rail station in Japan\n\nHistory\n1931年(1931)7月23日：三重郡保々村に当 StationがOpened.\n\nStation layout\nisland platforman island platform layoutを有する地上 Station。下り Lineのりばの隣に（車庫への）入出庫 Line、上り Lineのりばの隣に貨物待避 Lineがある。\n\nのりば \n\n※案内上ののりば番号は割り当てられていない。\n\nNotes\n近鉄富田方面は、下り Lineのりばから発車することもできる（折り返し運転用）。\n 貨物待避 Lineは、両方向とも入 Line・発車に対応している。\n\nTimetable\n定期列車として当 Station - 近鉄富田 Station間の区間運転列車が数本設定されている。過去には当 Station折り返し列車が多く存在したが、2003年(2003)より終点の西藤原 Stationまで延長されている。\n\nUsage\n「三重県統計書」によると、1日の平均boarding passengersは以下の通りである。\n\n三岐 Line\n山城 Station - 保々 Station - 北勢中央公園口 Station\n\nRailway stations in 四日市市\nThis is a Wikipedia category section for Railway stations in 四日市市.",
+          "字数": 747
         }
       },
       "结构化信息": {
@@ -430,9 +493,16 @@
           "词条标题": "Hokusei Chūō Kōenguchi Station",
           "链接": "https://ja.wikipedia.org/wiki/北勢中央公園口駅",
           "首段": "Hokusei Chūō Kōenguchi Station (北勢中央公園口駅, Hokusei Chūō Kōenguchi-eki) is a railway station on the Sangi Railway Sangi Line in Ichiba-chō, Yokkaichi, Mie Prefecture, Japan. It was selected as one of the second round of Chubu no Eki Hyakusen (Top 100 Stations in the Chubu region).",
-          "章节": {},
-          "全文": "Hokusei Chūō Kōenguchi Station (北勢中央公園口駅, Hokusei Chūō Kōenguchi-eki) is a railway station on the Sangi Railway Sangi Line in Ichiba-chō, Yokkaichi, Mie Prefecture, Japan. It was selected as one of the second round of Chubu no Eki Hyakusen (Top 100 Stations in the Chubu region).",
-          "字数": 279
+          "章节": {
+            "History": "1931年(1931)7月23日：大長 StationとしてOpened.\n 1997年(1997)4月1日：100m富田方面に移動させ、北勢中央公園口 Stationにrenamed。",
+            "Station layout": "side platforman island platform layoutを持つ地上 Station。",
+            "Usage": "「三重県統計書」によると、1日の平均boarding passengersは以下の通りである。",
+            "Surrounding area": "県営北勢中央公園 - 当 Stationから徒歩約20分。\n 高見台（住宅地）\n イオンモール東員 - 当 Stationから徒歩約15分。",
+            "北勢中央公園口 Station": "東員町コミュニティバス（東員町オレンジバス）\n 南北 Line ネオポリス循環（東員 Station経由）",
+            "三岐 Line": "保々 Station - 北勢中央公園口 Station - 梅戸井 Station"
+          },
+          "全文": "Hokusei Chūō Kōenguchi Station (北勢中央公園口駅, Hokusei Chūō Kōenguchi-eki) is a railway station on the Sangi Railway Sangi Line in Ichiba-chō, Yokkaichi, Mie Prefecture, Japan. It was selected as one of the second round of Chubu no Eki Hyakusen (Top 100 Stations in the Chubu region).\n\nHistory\n1931年(1931)7月23日：大長 StationとしてOpened.\n 1997年(1997)4月1日：100m富田方面に移動させ、北勢中央公園口 Stationにrenamed。\n\nStation layout\nside platforman island platform layoutを持つ地上 Station。\n\nUsage\n「三重県統計書」によると、1日の平均boarding passengersは以下の通りである。\n\nSurrounding area\n県営北勢中央公園 - 当 Stationから徒歩約20分。\n 高見台（住宅地）\n イオンモール東員 - 当 Stationから徒歩約15分。\n\n北勢中央公園口 Station\n東員町コミュニティバス（東員町オレンジバス）\n 南北 Line ネオポリス循環（東員 Station経由）\n\n三岐 Line\n保々 Station - 北勢中央公園口 Station - 梅戸井 Station",
+          "字数": 718
         }
       },
       "结构化信息": {
@@ -495,9 +565,11 @@
           "词条标题": "Daian Station",
           "链接": "https://en.wikipedia.org/wiki/Daian_Station",
           "首段": "Daian Station (大安駅, Daian-eki) is the name of multiple railway stations in East Asia, most commonly Daian Station (Mie) on the Sangi Railway Sangi Line in Inabe, Mie Prefecture, Japan.",
-          "章节": {},
-          "全文": "Daian Station (大安駅, Daian-eki) is the name of multiple railway stations in East Asia, most commonly Daian Station (Mie) on the Sangi Railway Sangi Line in Inabe, Mie Prefecture, Japan.",
-          "字数": 184
+          "章节": {
+            "大安森林公園 Station": "- 中華 people民共和国吉林省白城市大安市にある中国国鉄通譲 Lineと長白 Lineの Station。\n大安港 Station - 台湾台中県大安郷（現・台中市大安区）にかつて存在した台湾糖業鉄道后甲 Lineの Station。\n（ピョンナムテアンえき） - 朝鮮民主主義 people民共和国平安南道大安郡にある朝鮮民主主義 people民共和国鉄道省大安 Lineの Station。"
+          },
+          "全文": "Daian Station (大安駅, Daian-eki) is the name of multiple railway stations in East Asia, most commonly Daian Station (Mie) on the Sangi Railway Sangi Line in Inabe, Mie Prefecture, Japan.\n\n大安森林公園 Station\n- 中華 people民共和国吉林省白城市大安市にある中国国鉄通譲 Lineと長白 Lineの Station。\n大安港 Station - 台湾台中県大安郷（現・台中市大安区）にかつて存在した台湾糖業鉄道后甲 Lineの Station。\n（ピョンナムテアンえき） - 朝鮮民主主義 people民共和国平安南道大安郡にある朝鮮民主主義 people民共和国鉄道省大安 Lineの Station。",
+          "字数": 401
         }
       },
       "结构化信息": {
@@ -563,9 +635,17 @@
           "词条标题": "Ōyachi Station",
           "链接": "https://en.wikipedia.org/wiki/%C5%8Cyachi%20Station",
           "首段": "Ōyachi Station may refer to:\n\n Ōyachi Station (Hokkaido), a train station in Hokkaido, Japan\n Ōyachi Station (Mie), a train station in Mie Prefecture, Japan",
-          "章节": {},
-          "全文": "Ōyachi Station may refer to:\n\n Ōyachi Station (Hokkaido), a train station in Hokkaido, Japan\n Ōyachi Station (Mie), a train station in Mie Prefecture, Japan",
-          "字数": 156
+          "章节": {
+            "History": "1931年(1931)7月23日：Opened.",
+            "Station layout": "island platforman island platform layoutを持つ地上 Station。簡易委託 Stationとなっている。なお、 Station舎とホームは構内踏切で結ばれている。かつては荷物扱いを行っており、貨物ホームが存在した。\n\nのりば \n\n※案内上ののりば番号は割り当てられていない。",
+            "Notes": " Station名標にはかつて存在した「三岐朝明」の文字が、隣 Stationの表記でかすかに見える。",
+            "Usage": "「三重県統計書」によると、1日の平均boarding passengersは以下の通りである。",
+            "四日市大矢知郵便局": "久留倍官衙遺跡（国指定史跡）",
+            "三岐 Line": "富田 Station - （三岐朝明信号場） - 大矢知 Station - 平津 Station\n 三岐 Line（近鉄連絡 Line）\n 近鉄富田 Station - （三岐朝明信号場） - 大矢知 Station",
+            "Railway stations in 四日市市": "This is a Wikipedia category section for Railway stations in 四日市市."
+          },
+          "全文": "Ōyachi Station may refer to:\n\n Ōyachi Station (Hokkaido), a train station in Hokkaido, Japan\n Ōyachi Station (Mie), a train station in Mie Prefecture, Japan\n\nHistory\n1931年(1931)7月23日：Opened.\n\nStation layout\nisland platforman island platform layoutを持つ地上 Station。簡易委託 Stationとなっている。なお、 Station舎とホームは構内踏切で結ばれている。かつては荷物扱いを行っており、貨物ホームが存在した。\n\nのりば \n\n※案内上ののりば番号は割り当てられていない。\n\nNotes\n Station名標にはかつて存在した「三岐朝明」の文字が、隣 Stationの表記でかすかに見える。\n\nUsage\n「三重県統計書」によると、1日の平均boarding passengersは以下の通りである。\n\n四日市大矢知郵便局\n久留倍官衙遺跡（国指定史跡）\n\n三岐 Line\n富田 Station - （三岐朝明信号場） - 大矢知 Station - 平津 Station\n 三岐 Line（近鉄連絡 Line）\n 近鉄富田 Station - （三岐朝明信号場） - 大矢知 Station\n\nRailway stations in 四日市市\nThis is a Wikipedia category section for Railway stations in 四日市市.",
+          "字数": 717
         }
       },
       "结构化信息": {
@@ -638,9 +718,16 @@
           "词条标题": "Yamajo Station",
           "链接": "https://ja.wikipedia.org/wiki/山城駅",
           "首段": "Yamajo Station (山城駅, Yamajō-eki) is a railway station on the Sangi Railway Sangi Line in Yamajo-chō, Yokkaichi, Mie Prefecture, Japan.",
-          "章节": {},
-          "全文": "Yamajo Station (山城駅, Yamajō-eki) is a railway station on the Sangi Railway Sangi Line in Yamajo-chō, Yokkaichi, Mie Prefecture, Japan.",
-          "字数": 134
+          "章节": {
+            "History": "1931年(1931)7月23日：Opened.\n 2014年(2014)4月16日：不審火と見られる火災により Station舎の休憩室やrestroomなど約50square metersが焼失した。",
+            "Station layout": "island platforman island platform layoutを持つ地上 Station。 Station舎とホームは構内踏切で結ばれている。\n\nのりば \n\n※案内上ののりば番号は割り当てられていない。",
+            "Usage": "「三重県統計書」によると、1日の平均boarding passengersは以下の通りである。",
+            "Other": "当 Stationにはかつてバス車庫があった影響で Station前が広めにとられている。かつてのバス車庫部分は鉄道利用者の駐車場に転用されている。\nバス車庫はJR富田 Stationにある自動車部車庫へrelocatedされている。\nバス・鉄道利用者用の空調付き待合室があるが、利用できるのは Station営業時間と同じ時間に限られ時間外は消灯、施錠される。\n 現在もバスの起終点停留所となっている関係で、折り返しバスが停車するスペースがあり、 Station舎の東寄りはバス運転手専用の休憩スペースとして和室（restroom付）が設けられている。\n火災により Station消失前の Station舎にはバス乗務員用の就寝空間があり、少なくとも平成一桁年代まではticket gateから座敷奥にある積まれた布団を見ることができた（1975代には早朝5時40分頃出発のバスもあった）。\n 山城 Station出発バスはJR富田 Stationにある自動車部車庫から三重県道64号上海老茂福 Line（四日市大学 Lineと途中まで同じ）経由で回送され、山城 Stationでのバス夜間停泊は存在しない。\n かつて近鉄富田発の鉄道到着のほぼ全便（最終列車と朝夕の一部保々止を除く）と山之一色 Lineのバスが2 - 8分の待ち時間で接続されていた時代は Stationの営業時間は近鉄富田 Stationと同様に始発から終発（他 Stationは6:30 - 21:00）であった。\n現在は鉄道とバスとの接続も考慮されておらず、 Stationの営業時間は他 Stationと同様6:50 - 20:30となっている。\n 山城 Stationで三岐鉄道に乗降する peopleが、山城 Stationから八千代台一丁目間を100円で乗車できる乗継割引がある。\nかつてはバス車内の運賃表示器右下に掲示があったがバス車両が四日市大学 Lineと共通になっている関係で掲示がないバスが充当されることも多く知名度が下がっている。",
+            "三岐 Line": "暁学園前 Station - 山城 Station - 保々 Station",
+            "Railway stations in 四日市市": "This is a Wikipedia category section for Railway stations in 四日市市."
+          },
+          "全文": "Yamajo Station (山城駅, Yamajō-eki) is a railway station on the Sangi Railway Sangi Line in Yamajo-chō, Yokkaichi, Mie Prefecture, Japan.\n\nHistory\n1931年(1931)7月23日：Opened.\n 2014年(2014)4月16日：不審火と見られる火災により Station舎の休憩室やrestroomなど約50square metersが焼失した。\n\nStation layout\nisland platforman island platform layoutを持つ地上 Station。 Station舎とホームは構内踏切で結ばれている。\n\nのりば \n\n※案内上ののりば番号は割り当てられていない。\n\nUsage\n「三重県統計書」によると、1日の平均boarding passengersは以下の通りである。\n\nOther\n当 Stationにはかつてバス車庫があった影響で Station前が広めにとられている。かつてのバス車庫部分は鉄道利用者の駐車場に転用されている。\nバス車庫はJR富田 Stationにある自動車部車庫へrelocatedされている。\nバス・鉄道利用者用の空調付き待合室があるが、利用できるのは Station営業時間と同じ時間に限られ時間外は消灯、施錠される。\n 現在もバスの起終点停留所となっている関係で、折り返しバスが停車するスペースがあり、 Station舎の東寄りはバス運転手専用の休憩スペースとして和室（restroom付）が設けられている。\n火災により Station消失前の Station舎にはバス乗務員用の就寝空間があり、少なくとも平成一桁年代まではticket gateから座敷奥にある積まれた布団を見ることができた（1975代には早朝5時40分頃出発のバスもあった）。\n 山城 Station出発バスはJR富田 Stationにある自動車部車庫から三重県道64号上海老茂福 Line（四日市大学 Lineと途中まで同じ）経由で回送され、山城 Stationでのバス夜間停泊は存在しない。\n かつて近鉄富田発の鉄道到着のほぼ全便（最終列車と朝夕の一部保々止を除く）と山之一色 Lineのバスが2 - 8分の待ち時間で接続されていた時代は Stationの営業時間は近鉄富田 Stationと同様に始発から終発（他 Stationは6:30 - 21:00）であった。\n現在は鉄道とバスとの接続も考慮されておらず、 Stationの営業時間は他 Stationと同様6:50 - 20:30となっている。\n 山城 Stationで三岐鉄道に乗降する peopleが、山城 Stationから八千代台一丁目間を100円で乗車できる乗継割引がある。\nかつてはバス車内の運賃表示器右下に掲示があったがバス車両が四日市大学 Lineと共通になっている関係で掲示がないバスが充当されることも多く知名度が下がっている。\n\n三岐 Line\n暁学園前 Station - 山城 Station - 保々 Station\n\nRailway stations in 四日市市\nThis is a Wikipedia category section for Railway stations in 四日市市.",
+          "字数": 1440
         }
       },
       "结构化信息": {
@@ -718,10 +805,14 @@
             "Layout": "The station consists of a single island platform connected to the station building by a level crossing.",
             "Platforms": "Adjacent stations",
             "History": "Heizu Station was opened on July 23, 1931.\n\nPassenger statistics\nIn fiscal 2019, the station was used by an average of 183 passengers daily (boarding passengers only).\n\nSurrounding area\nYokkaichi City Hall Hachigo District Citizen Center\nYokkaichi City Asake Junior High School\nYokkaichi Municipal Hachigo Elementary School\nYokkaichi Municipal Hachigo Nishi Elementary School\nYokkaichi University\n\nSee also\nList of railway stations in Japan",
-            "References": "External links\n\nSangi Railway official home page\n\nRailway stations in Japan opened in 1931\nRailway stations in Mie Prefecture"
+            "References": "External links\n\nSangi Railway official home page\n\nRailway stations in Japan opened in 1931\nRailway stations in Mie Prefecture",
+            "Station layout": "island platforman island platform layoutを持つ地上 Station。 Station舎とホームは構内踏切で結ばれている。\n\nのりば \n\n※案内上ののりば番号は割り当てられていない。",
+            "Usage": "「三重県統計書」によると、1日の平均boarding passengersは以下の通りである。",
+            "三岐 Line": "大矢知 Station - 平津 Station - 暁学園前 Station",
+            "Railway stations in 四日市市": "This is a Wikipedia category section for Railway stations in 四日市市."
           },
-          "全文": "is a passenger railway station located in the city of Yokkaichi, Mie Prefecture, Japan, operated by the private railway operator Sangi Railway.\n\nLines\nHeizu Station is served by the Sangi Line, and is located 4.1 kilometres from the terminus of the line at Kintetsu-Tomida Station.\n\nLayout\nThe station consists of a single island platform connected to the station building by a level crossing.\n\nPlatforms\n\nAdjacent stations\n\nHistory\nHeizu Station was opened on July 23, 1931.\n\nPassenger statistics\nIn fiscal 2019, the station was used by an average of 183 passengers daily (boarding passengers only).\n\nSurrounding area\nYokkaichi City Hall Hachigo District Citizen Center\nYokkaichi City Asake Junior High School\nYokkaichi Municipal Hachigo Elementary School\nYokkaichi Municipal Hachigo Nishi Elementary School\nYokkaichi University\n\nSee also\nList of railway stations in Japan\n\nReferences\n\nExternal links\n\nSangi Railway official home page\n\nRailway stations in Japan opened in 1931\nRailway stations in Mie Prefecture\nYokkaichi",
-          "字数": 1022
+          "全文": "is a passenger railway station located in the city of Yokkaichi, Mie Prefecture, Japan, operated by the private railway operator Sangi Railway.\n\nLines\nHeizu Station is served by the Sangi Line, and is located 4.1 kilometres from the terminus of the line at Kintetsu-Tomida Station.\n\nLayout\nThe station consists of a single island platform connected to the station building by a level crossing.\n\nPlatforms\nAdjacent stations\n\nHistory\nHeizu Station was opened on July 23, 1931.\n\nPassenger statistics\nIn fiscal 2019, the station was used by an average of 183 passengers daily (boarding passengers only).\n\nSurrounding area\nYokkaichi City Hall Hachigo District Citizen Center\nYokkaichi City Asake Junior High School\nYokkaichi Municipal Hachigo Elementary School\nYokkaichi Municipal Hachigo Nishi Elementary School\nYokkaichi University\n\nSee also\nList of railway stations in Japan\n\nReferences\nExternal links\n\nSangi Railway official home page\n\nRailway stations in Japan opened in 1931\nRailway stations in Mie Prefecture\n\nStation layout\nisland platforman island platform layoutを持つ地上 Station。 Station舎とホームは構内踏切で結ばれている。\n\nのりば \n\n※案内上ののりば番号は割り当てられていない。\n\nUsage\n「三重県統計書」によると、1日の平均boarding passengersは以下の通りである。\n\n三岐 Line\n大矢知 Station - 平津 Station - 暁学園前 Station\n\nRailway stations in 四日市市\nThis is a Wikipedia category section for Railway stations in 四日市市.",
+          "字数": 1334
         }
       },
       "结构化信息": {
@@ -795,9 +886,19 @@
           "词条标题": "Akatsuki-Gakuen-mae Station",
           "链接": "https://ja.wikipedia.org/wiki/暁学園前駅",
           "首段": "Akatsuki-Gakuen-mae Station (暁学園前駅, Akatsuki-Gakuen-mae-eki) is a railway station on the Sangi Railway Sangi Line in Nakamura-chō, Yokkaichi, Mie Prefecture, Japan.",
-          "章节": {},
-          "全文": "Akatsuki-Gakuen-mae Station (暁学園前駅, Akatsuki-Gakuen-mae-eki) is a railway station on the Sangi Railway Sangi Line in Nakamura-chō, Yokkaichi, Mie Prefecture, Japan.",
-          "字数": 164
+          "章节": {
+            "History": "1931年(1931)7月23日：萱生 Station（かようえき）としてOpened.\n 1965年(1965)8月21日：暁学園が萱生城跡へ本部relocatedするのに合わせて移設、暁学園前 Stationにrenamed。\n 1988年(1988)3月30日：新 Station舎供用開始。",
+            "Station layout": "side platforman island platform layoutを有する地上 Station。 Station舎は南側に配置されている。",
+            "Usage": "暁学園や三重県立桑名西高等学校に通う生徒の多くが当 Stationを利用するため、利用客は他の Stationに比べ多い。「三重県統計書」によると、1日の平均boarding passengersは以下の通りである。",
+            "Surrounding area": " Station名の通り、徒歩7分程度のところに暁学園があり、毎日多くの学生が乗り降りしている。\n 暁中学校・高等学校（萱生城跡）",
+            "三重県立桑名西高等学校": "四日市大学・四日市看護医療大学（徒歩20 - 30分程度）\n 四日市東インターチェンジ - 東名阪自動車道",
+            "Bus routes": "三岐観光バスが止まっている場合もあるが、暁学園 - 桜地区・大山田地区・笹川地区などの学生専用バスであるため、利用することはできない。",
+            "Features": "定期券を購入できる。ただし購入用紙の発 Stationには既に当 Station名の判子が押されているため当 Stationからの定期券しか買えない。\n 営業時間は6:30 - 21:00。よって、これ以外の時間帯は専用のスロープを通ってホームに入る必要がある。\n  Stationには無料駐車場があり（180台あり、三岐鉄道の Stationの中では最大級）、パークアンドライド・キスアンドライドいずれも可能。\n  Station舎の2階に西藤原 Station前公園でミニSLを運行しているウィステリア鉄道の直営店「鉄道おもちゃ屋」という店があったが、2008年4月いっぱいで閉店になった。\n  Station舎のすぐ隣にある『あかつきプラザ』に三岐鉄道直営の駄菓子屋「ちゃめっぺ」と 四日市あかつき郵便局がある。",
+            "三岐 Line": "平津 Station - 暁学園前 Station - 山城 Station",
+            "Railway stations in 四日市市": "This is a Wikipedia category section for Railway stations in 四日市市."
+          },
+          "全文": "Akatsuki-Gakuen-mae Station (暁学園前駅, Akatsuki-Gakuen-mae-eki) is a railway station on the Sangi Railway Sangi Line in Nakamura-chō, Yokkaichi, Mie Prefecture, Japan.\n\nHistory\n1931年(1931)7月23日：萱生 Station（かようえき）としてOpened.\n 1965年(1965)8月21日：暁学園が萱生城跡へ本部relocatedするのに合わせて移設、暁学園前 Stationにrenamed。\n 1988年(1988)3月30日：新 Station舎供用開始。\n\nStation layout\nside platforman island platform layoutを有する地上 Station。 Station舎は南側に配置されている。\n\nUsage\n暁学園や三重県立桑名西高等学校に通う生徒の多くが当 Stationを利用するため、利用客は他の Stationに比べ多い。「三重県統計書」によると、1日の平均boarding passengersは以下の通りである。\n\nSurrounding area\n Station名の通り、徒歩7分程度のところに暁学園があり、毎日多くの学生が乗り降りしている。\n 暁中学校・高等学校（萱生城跡）\n\n三重県立桑名西高等学校\n四日市大学・四日市看護医療大学（徒歩20 - 30分程度）\n 四日市東インターチェンジ - 東名阪自動車道\n\nBus routes\n三岐観光バスが止まっている場合もあるが、暁学園 - 桜地区・大山田地区・笹川地区などの学生専用バスであるため、利用することはできない。\n\nFeatures\n定期券を購入できる。ただし購入用紙の発 Stationには既に当 Station名の判子が押されているため当 Stationからの定期券しか買えない。\n 営業時間は6:30 - 21:00。よって、これ以外の時間帯は専用のスロープを通ってホームに入る必要がある。\n  Stationには無料駐車場があり（180台あり、三岐鉄道の Stationの中では最大級）、パークアンドライド・キスアンドライドいずれも可能。\n  Station舎の2階に西藤原 Station前公園でミニSLを運行しているウィステリア鉄道の直営店「鉄道おもちゃ屋」という店があったが、2008年4月いっぱいで閉店になった。\n  Station舎のすぐ隣にある『あかつきプラザ』に三岐鉄道直営の駄菓子屋「ちゃめっぺ」と 四日市あかつき郵便局がある。\n\n三岐 Line\n平津 Station - 暁学園前 Station - 山城 Station\n\nRailway stations in 四日市市\nThis is a Wikipedia category section for Railway stations in 四日市市.",
+          "字数": 1272
         }
       },
       "结构化信息": {
@@ -879,9 +980,21 @@
           "词条标题": "Higashi-Fujiwara Station",
           "链接": "https://ja.wikipedia.org/wiki/東藤原駅",
           "首段": "Higashi-Fujiwara Station (東藤原駅, Higashi-Fujiwara-eki) is a railway station on the Sangi Railway Sangi Line in Fujiwara-chō Tōzenji, Inabe, Mie Prefecture, Japan.",
-          "章节": {},
-          "全文": "Higashi-Fujiwara Station (東藤原駅, Higashi-Fujiwara-eki) is a railway station on the Sangi Railway Sangi Line in Fujiwara-chō Tōzenji, Inabe, Mie Prefecture, Japan.",
-          "字数": 161
+          "章节": {
+            "History": "1931年(1931)\n 7月23日：富田 Station - 当 Station間がOpened.\n 12月23日：当 Station - 西藤原 Station間がextensionopened、途中 Stationとなる。\n 2017年(2017)11月27日： Station舎を新築、三岐鉄道では記念の乗車券を販売する。",
+            "Station layout": "island platforman island platform layoutを持つ地上 Station。利用客は少ないが、貨物列車の運転扱いがあるため近鉄富田 Stationを除いた Line内の Stationでは唯一終日 Station員が配置されている。\n\n西側に数本の側 Lineがあり、 Station北側には太平洋セメント藤原工場への専用 Lineがある。 Station前にはホキ5700形貨車（ホキ25767号）が保存されている。\n\nのりば \n\n※案内上ののりば番号は割り当てられていない。",
+            "Notes": "下り Lineは、上り Lineのりば（近鉄富田方面）への入 Line・発車に対応している。\n 貨物列車は両方向（終着・始発）とも、下り Lineのりばを使用する。\n （※側 Lineは機回し・機関車および貨車の留置 Lineとして使用するため、側 Lineで貨物列車の到着・発車作業を行うことはできない）",
+            "Station building": "木造2階建てで洋風のデザインが施され、当 Stationで貨物列車の入換作業を行う作業員のための宿泊スペースを備える。",
+            "貨物輸送": "当 Stationの太平洋セメント藤原工場より、旧・四日市港 Stationにある太平洋セメント藤原工場出荷センターへセメント輸送貨物列車が運行されている。また衣浦臨海鉄道碧南市 Stationとの間に往路は炭酸カルシウム（JERA碧南火力発電所で使用）を、復路はフライアッシュ（石炭灰・碧南火力発電所で発生）を輸送する貨物列車も運行されている。\n\nかつては、膳所 Stationにある太平洋セメント大津サービスステーションや、西浜松 Stationにあるセメントターミナル浜松営業所、坂祝 Stationにある太平洋セメント坂祝サービスステーションへのセメント輸送貨物列車も運行されていたが、前記1箇所は2005年(2005)3月に、後記2箇所は2007年(2007)3月にclosedされている。",
+            "ホキ7500形（セメント専用）16両": "「1985版私有貨車番号表」『トワイライトゾーンMANUAL13』ネコ・パブリッシング、2004年",
+            "Usage": "「三重県統計書」によると、1日の平均boarding passengersは以下の通りである。\n\n 東藤原 Stationの利用状況の変遷を下表に示す。\n 輸送実績（boarding passengers）の単位は peopleであり、fiscal yearでの総計値を示す。fiscal year間の比較に適したデータである。\n boarding and alighting passengers調査結果は任意の1日における値（単位： people)である。調査日の天候・行事等の要因によって変動が大きいのでfiscal year間の比較には注意を要する。\n 表中、最高値を赤色で、最高値を記録したfiscal year以降の最低値を青色で、最高値を記録したfiscal year以前の最低値を緑色で表記している。",
+            "Bus routes": " Station前に「東藤原 Station」停留所があり、下記の路 Lineが乗り入れる。",
+            "坂本 Line": "上坂本 行、マックスバリュ西 行",
+            "三岐 Line": "伊勢治田 Station - 東藤原 Station - 西野尻 Station",
+            "List of railway stations in Japan": "This is a Wikipedia category section for List of railway stations in Japan."
+          },
+          "全文": "Higashi-Fujiwara Station (東藤原駅, Higashi-Fujiwara-eki) is a railway station on the Sangi Railway Sangi Line in Fujiwara-chō Tōzenji, Inabe, Mie Prefecture, Japan.\n\nHistory\n1931年(1931)\n 7月23日：富田 Station - 当 Station間がOpened.\n 12月23日：当 Station - 西藤原 Station間がextensionopened、途中 Stationとなる。\n 2017年(2017)11月27日： Station舎を新築、三岐鉄道では記念の乗車券を販売する。\n\nStation layout\nisland platforman island platform layoutを持つ地上 Station。利用客は少ないが、貨物列車の運転扱いがあるため近鉄富田 Stationを除いた Line内の Stationでは唯一終日 Station員が配置されている。\n\n西側に数本の側 Lineがあり、 Station北側には太平洋セメント藤原工場への専用 Lineがある。 Station前にはホキ5700形貨車（ホキ25767号）が保存されている。\n\nのりば \n\n※案内上ののりば番号は割り当てられていない。\n\nNotes\n下り Lineは、上り Lineのりば（近鉄富田方面）への入 Line・発車に対応している。\n 貨物列車は両方向（終着・始発）とも、下り Lineのりばを使用する。\n （※側 Lineは機回し・機関車および貨車の留置 Lineとして使用するため、側 Lineで貨物列車の到着・発車作業を行うことはできない）\n\nStation building\n木造2階建てで洋風のデザインが施され、当 Stationで貨物列車の入換作業を行う作業員のための宿泊スペースを備える。\n\n貨物輸送\n当 Stationの太平洋セメント藤原工場より、旧・四日市港 Stationにある太平洋セメント藤原工場出荷センターへセメント輸送貨物列車が運行されている。また衣浦臨海鉄道碧南市 Stationとの間に往路は炭酸カルシウム（JERA碧南火力発電所で使用）を、復路はフライアッシュ（石炭灰・碧南火力発電所で発生）を輸送する貨物列車も運行されている。\n\nかつては、膳所 Stationにある太平洋セメント大津サービスステーションや、西浜松 Stationにあるセメントターミナル浜松営業所、坂祝 Stationにある太平洋セメント坂祝サービスステーションへのセメント輸送貨物列車も運行されていたが、前記1箇所は2005年(2005)3月に、後記2箇所は2007年(2007)3月にclosedされている。\n\nホキ7500形（セメント専用）16両\n「1985版私有貨車番号表」『トワイライトゾーンMANUAL13』ネコ・パブリッシング、2004年\n\nUsage\n「三重県統計書」によると、1日の平均boarding passengersは以下の通りである。\n\n 東藤原 Stationの利用状況の変遷を下表に示す。\n 輸送実績（boarding passengers）の単位は peopleであり、fiscal yearでの総計値を示す。fiscal year間の比較に適したデータである。\n boarding and alighting passengers調査結果は任意の1日における値（単位： people)である。調査日の天候・行事等の要因によって変動が大きいのでfiscal year間の比較には注意を要する。\n 表中、最高値を赤色で、最高値を記録したfiscal year以降の最低値を青色で、最高値を記録したfiscal year以前の最低値を緑色で表記している。\n\nBus routes\n Station前に「東藤原 Station」停留所があり、下記の路 Lineが乗り入れる。\n\n坂本 Line\n上坂本 行、マックスバリュ西 行\n\n三岐 Line\n伊勢治田 Station - 東藤原 Station - 西野尻 Station\n\nList of railway stations in Japan\nThis is a Wikipedia category section for List of railway stations in Japan.",
+          "字数": 1886
         }
       },
       "结构化信息": {
@@ -957,9 +1070,17 @@
           "词条标题": "Umedoi Station",
           "链接": "https://en.wikipedia.org/wiki/Umedoi_Station",
           "首段": "Umedoi Station (梅戸井駅, Umedoi-eki) is a railway station on the Sangi Railway Sangi Line in Daian-chō Umedoi, Inabe, Mie Prefecture, Japan.",
-          "章节": {},
-          "全文": "Umedoi Station (梅戸井駅, Umedoi-eki) is a railway station on the Sangi Railway Sangi Line in Daian-chō Umedoi, Inabe, Mie Prefecture, Japan.",
-          "字数": 137
+          "章节": {
+            "History": "1931年(1931)7月23日：Opened.",
+            "Station layout": "island platforman island platform layoutを持つ地上 Station。 Station舎とホームは構内踏切で結ばれている。\n\nのりば \n\n※案内上ののりば番号は割り当てられていない。",
+            "Usage": "「三重県統計書」によると、1日の平均boarding passengersは以下の通りである。",
+            "Bus routes": " Station前に「梅戸井 Station」停留所があり、下記の路 Lineが乗り入れる。",
+            "梅戸井 Line": "阿下喜温泉 行、中尾公園 行",
+            "三岐 Line": "北勢中央公園口 Station - 梅戸井 Station - 大安 Station",
+            "List of railway stations in Japan": "This is a Wikipedia category section for List of railway stations in Japan."
+          },
+          "全文": "Umedoi Station (梅戸井駅, Umedoi-eki) is a railway station on the Sangi Railway Sangi Line in Daian-chō Umedoi, Inabe, Mie Prefecture, Japan.\n\nHistory\n1931年(1931)7月23日：Opened.\n\nStation layout\nisland platforman island platform layoutを持つ地上 Station。 Station舎とホームは構内踏切で結ばれている。\n\nのりば \n\n※案内上ののりば番号は割り当てられていない。\n\nUsage\n「三重県統計書」によると、1日の平均boarding passengersは以下の通りである。\n\nBus routes\n Station前に「梅戸井 Station」停留所があり、下記の路 Lineが乗り入れる。\n\n梅戸井 Line\n阿下喜温泉 行、中尾公園 行\n\n三岐 Line\n北勢中央公園口 Station - 梅戸井 Station - 大安 Station\n\nList of railway stations in Japan\nThis is a Wikipedia category section for List of railway stations in Japan.",
+          "字数": 600
         }
       },
       "结构化信息": {
@@ -1038,9 +1159,20 @@
           "词条标题": "Nishi-Fujiwara Station",
           "链接": "https://ja.wikipedia.org/wiki/西藤原駅",
           "首段": "Nishi-Fujiwara Station (西藤原駅, Nishi-Fujiwara-eki) is a railway station on the Sangi Railway Sangi Line in Fujiwara-chō Ōkaito, Inabe, Mie Prefecture, Japan. It is the terminus of the Sangi Line and the northernmost railway station in Mie Prefecture.",
-          "章节": {},
-          "全文": "Nishi-Fujiwara Station (西藤原駅, Nishi-Fujiwara-eki) is a railway station on the Sangi Railway Sangi Line in Fujiwara-chō Ōkaito, Inabe, Mie Prefecture, Japan. It is the terminus of the Sangi Line and the northernmost railway station in Mie Prefecture.",
-          "字数": 249
+          "章节": {
+            "History": "1931年(1931)12月23日：Opened.\n 1987年(1987)3月：委託化。\n 2001年(2001)\n 4月3日：大阪セメント伊吹工場で保存されていた蒸気機関車102号機がトレーラーで搬入され、47年ぶりの里帰りを果たした。\n 7月23日：「ウィステリア鉄道」オープン。\n 2002年(2002)7月：新 Station舎完成。\n 2015年(2015)3月29日：「ウィステリア鉄道」運行終了。\n 2017年(2017)1月7日：庭園鉄道「桑工ゆめ鉄道」オープン。",
+            "Station layout": "island platforman island platform layoutを持つ地上 Stationであるが、その内1 Lineには車輛が保存されており使われていない。\n\n構内には2001年に三岐 Lineのopened70周年を記念して Station前公園が整備され、三岐鉄道創業時に新造された蒸気機関車E102号機、電気機関車ED22型、ディーゼル機関車DB25号機の車輛3輛が展示されている。また、2017年から「桑工ゆめ鉄道」と名付けられた庭園鉄道が、ボランティアの手により不定期に運行されている。2015年まで運行されていた、庭園鉄道「ウィステリア鉄道」が復活した形となっている。\n\n Station舎は蒸気機関車が客車を連ねている様子を模した新しい建物である。business-consignment Stationであり、簡易郵便局（西藤原簡易郵便局）が併設されている。",
+            "Usage": "「三重県統計書」によると、1日の平均boarding passengersは以下の通りである。\n\n 西藤原 Stationの利用状況の変遷を下表に示す。\n 輸送実績（boarding passengers）の単位は peopleであり、fiscal yearでの総計値を示す。fiscal year間の比較に適したデータである。\n boarding and alighting passengers調査結果は任意の1日における値（単位： people)である。調査日の天候・行事等の要因によって変動が大きいのでfiscal year間の比較には注意を要する。\n 表中、最高値を赤色で、最高値を記録したfiscal year以降の最低値を青色で、最高値を記録したfiscal year以前の最低値を緑色で表記している。",
+            "Surrounding area": "旧・いなべ市役所藤原庁舎（旧・藤原町役場）\n いなべ市役所藤原支所・いなべ市藤原文化センター（藤原図書館、藤原岳自然科学館）",
+            "旧・いなべ市立西藤原小学校": "誓願寺 - 西藤原 Stationのすぐ近くにある寺院。\n 聖宝寺 - 最澄によって平安時代初期に開かれた古刹。本尊は千手観音。紅葉の名所として知られる。",
+            "Bus routes": " Station付近を通る三重県道614号 Lineに停留所が2つあるので、まとめて解説する。",
+            "坂本 Line": "上坂本 行、マックスバリュ西 行\n ※ Stationから左（聖宝寺方面）へ進むと交差点付近にこの停留所がある。\n 上坂本 行、マックスバリュ西 行\n ※ Stationから右（東藤原方面）へ進むと交差点付近にこの停留所がある。",
+            "Other": "当 Stationは三重県の鉄道 Stationの中では最北端に当たる。最東端は加茂 Station、最南端と最西端をかねているのが鵜殿 Stationである。\n 毎週日曜日に公園内では、子供たちの遊び場として本物の1/8スケールのミニ蒸気機関車とミニ新幹 Lineを運行していた。",
+            "三岐 Line": "西野尻 Station - 西藤原 Station",
+            "日本の都道府県の東西南北端の駅の一覧": "This is a Wikipedia category section for 日本の都道府県の東西南北端の駅の一覧."
+          },
+          "全文": "Nishi-Fujiwara Station (西藤原駅, Nishi-Fujiwara-eki) is a railway station on the Sangi Railway Sangi Line in Fujiwara-chō Ōkaito, Inabe, Mie Prefecture, Japan. It is the terminus of the Sangi Line and the northernmost railway station in Mie Prefecture.\n\nHistory\n1931年(1931)12月23日：Opened.\n 1987年(1987)3月：委託化。\n 2001年(2001)\n 4月3日：大阪セメント伊吹工場で保存されていた蒸気機関車102号機がトレーラーで搬入され、47年ぶりの里帰りを果たした。\n 7月23日：「ウィステリア鉄道」オープン。\n 2002年(2002)7月：新 Station舎完成。\n 2015年(2015)3月29日：「ウィステリア鉄道」運行終了。\n 2017年(2017)1月7日：庭園鉄道「桑工ゆめ鉄道」オープン。\n\nStation layout\nisland platforman island platform layoutを持つ地上 Stationであるが、その内1 Lineには車輛が保存されており使われていない。\n\n構内には2001年に三岐 Lineのopened70周年を記念して Station前公園が整備され、三岐鉄道創業時に新造された蒸気機関車E102号機、電気機関車ED22型、ディーゼル機関車DB25号機の車輛3輛が展示されている。また、2017年から「桑工ゆめ鉄道」と名付けられた庭園鉄道が、ボランティアの手により不定期に運行されている。2015年まで運行されていた、庭園鉄道「ウィステリア鉄道」が復活した形となっている。\n\n Station舎は蒸気機関車が客車を連ねている様子を模した新しい建物である。business-consignment Stationであり、簡易郵便局（西藤原簡易郵便局）が併設されている。\n\nUsage\n「三重県統計書」によると、1日の平均boarding passengersは以下の通りである。\n\n 西藤原 Stationの利用状況の変遷を下表に示す。\n 輸送実績（boarding passengers）の単位は peopleであり、fiscal yearでの総計値を示す。fiscal year間の比較に適したデータである。\n boarding and alighting passengers調査結果は任意の1日における値（単位： people)である。調査日の天候・行事等の要因によって変動が大きいのでfiscal year間の比較には注意を要する。\n 表中、最高値を赤色で、最高値を記録したfiscal year以降の最低値を青色で、最高値を記録したfiscal year以前の最低値を緑色で表記している。\n\nSurrounding area\n旧・いなべ市役所藤原庁舎（旧・藤原町役場）\n いなべ市役所藤原支所・いなべ市藤原文化センター（藤原図書館、藤原岳自然科学館）\n\n旧・いなべ市立西藤原小学校\n誓願寺 - 西藤原 Stationのすぐ近くにある寺院。\n 聖宝寺 - 最澄によって平安時代初期に開かれた古刹。本尊は千手観音。紅葉の名所として知られる。\n\nBus routes\n Station付近を通る三重県道614号 Lineに停留所が2つあるので、まとめて解説する。\n\n坂本 Line\n上坂本 行、マックスバリュ西 行\n ※ Stationから左（聖宝寺方面）へ進むと交差点付近にこの停留所がある。\n 上坂本 行、マックスバリュ西 行\n ※ Stationから右（東藤原方面）へ進むと交差点付近にこの停留所がある。\n\nOther\n当 Stationは三重県の鉄道 Stationの中では最北端に当たる。最東端は加茂 Station、最南端と最西端をかねているのが鵜殿 Stationである。\n 毎週日曜日に公園内では、子供たちの遊び場として本物の1/8スケールのミニ蒸気機関車とミニ新幹 Lineを運行していた。\n\n三岐 Line\n西野尻 Station - 西藤原 Station\n\n日本の都道府県の東西南北端の駅の一覧\nThis is a Wikipedia category section for 日本の都道府県の東西南北端の駅の一覧.",
+          "字数": 1902
         }
       },
       "结构化信息": {
@@ -1118,9 +1250,18 @@
           "词条标题": "Nishi-Nojiri Station",
           "链接": "https://ja.wikipedia.org/wiki/西野尻駅",
           "首段": "Nishi-Nojiri Station (西野尻駅, Nishi-Nojiri-eki) is a railway station on the Sangi Railway Sangi Line in Fujiwara-chō Nishi-Nojiri, Inabe, Mie Prefecture, Japan.",
-          "章节": {},
-          "全文": "Nishi-Nojiri Station (西野尻駅, Nishi-Nojiri-eki) is a railway station on the Sangi Railway Sangi Line in Fujiwara-chō Nishi-Nojiri, Inabe, Mie Prefecture, Japan.",
-          "字数": 158
+          "章节": {
+            "History": "1931年(1931)12月23日：Opened.",
+            "Station layout": "side platforman island platform layoutを有する地上 Station。 Line内唯一の終日無 people Stationである。自動券売機は設置されておらず、乗車券なしで当 Stationから乗車の場合無札証明（他社での乗車 Station証明書にほぼ該当）を取る必要がある。逆に当 Stationで下車する場合は運賃や乗車券は回収箱に入れることになる。",
+            "Usage": "「三重県統計書」によると、1日の平均boarding passengersは以下の通りである。",
+            "Surrounding area": " Station表側は畑が広がるが、住宅が点在する。 Station裏側は山となっている。",
+            "Bus routes": " Station前を通る三重県道614号 Lineに「西野尻 Station」停留所があり、下記の路 Lineが発着する。",
+            "坂本 Line": "上坂本 行、マックスバリュ西 行",
+            "三岐 Line": "東藤原 Station - 西野尻 Station - 西藤原 Station",
+            "List of railway stations in Japan": "This is a Wikipedia category section for List of railway stations in Japan."
+          },
+          "全文": "Nishi-Nojiri Station (西野尻駅, Nishi-Nojiri-eki) is a railway station on the Sangi Railway Sangi Line in Fujiwara-chō Nishi-Nojiri, Inabe, Mie Prefecture, Japan.\n\nHistory\n1931年(1931)12月23日：Opened.\n\nStation layout\nside platforman island platform layoutを有する地上 Station。 Line内唯一の終日無 people Stationである。自動券売機は設置されておらず、乗車券なしで当 Stationから乗車の場合無札証明（他社での乗車 Station証明書にほぼ該当）を取る必要がある。逆に当 Stationで下車する場合は運賃や乗車券は回収箱に入れることになる。\n\nUsage\n「三重県統計書」によると、1日の平均boarding passengersは以下の通りである。\n\nSurrounding area\n Station表側は畑が広がるが、住宅が点在する。 Station裏側は山となっている。\n\nBus routes\n Station前を通る三重県道614号 Lineに「西野尻 Station」停留所があり、下記の路 Lineが発着する。\n\n坂本 Line\n上坂本 行、マックスバリュ西 行\n\n三岐 Line\n東藤原 Station - 西野尻 Station - 西藤原 Station\n\nList of railway stations in Japan\nThis is a Wikipedia category section for List of railway stations in Japan.",
+          "字数": 786
         }
       },
       "结构化信息": {
@@ -1205,9 +1346,27 @@
           "词条标题": "Kintetsu-Tomida Station",
           "链接": "https://en.wikipedia.org/wiki/Kintetsu-Tomida_Station",
           "首段": "Kintetsu-Tomida Station (近鉄富田駅, Kintetsu-Tomida-eki) is an interchange station in Tomida 1-chōme, Yokkaichi, Mie Prefecture, Japan, served by Kintetsu (Nagoya Line, E17) and Sangi Railway (Sangi Line).",
-          "章节": {},
-          "全文": "Kintetsu-Tomida Station (近鉄富田駅, Kintetsu-Tomida-eki) is an interchange station in Tomida 1-chōme, Yokkaichi, Mie Prefecture, Japan, served by Kintetsu (Nagoya Line, E17) and Sangi Railway (Sangi Line).",
-          "字数": 201
+          "章节": {
+            "History": "1929年(1929)1月30日：伊勢電気鉄道の四日市 - 桑名間開通時に西富田 StationとしてOpened.\n 1936年(1936)9月15日：参宮急行電鉄が伊勢電気鉄道を合併、参宮急行電鉄名古屋伊勢本 Lineの Stationとなる。\n 1941年(1941)3月15日：大阪電気軌道が参宮急行電鉄を合併、関西急行鉄道の Stationとなる。同時に関急富田 Stationにrenamed。路 Line名が改定され、名古屋 Lineの所属となる。\n 1944年(1944)6月1日：関西急行鉄道が南海鉄道と合併、近畿日本鉄道の Stationとなる。同時に近畿日本富田 Stationにrenamed。\n 1965年(1965)7月1日：三岐鉄道が三岐 Line三岐朝明 - 富田間に近畿日本富田 Stationと同一 Station扱いで富田西口 Stationを新設。\n 1970年(1970)\n 3月1日：近鉄富田 Stationにrenamed。\n 6月25日：三岐鉄道が三岐 Line三岐朝明 Stationから分岐し近鉄富田 Stationに乗り入れる近鉄連絡 LineをOpened.\n 1985年(1985)3月14日：富田西口 Stationclosed。富田 Station発着の旅客列車もclosedされ三岐 Lineの全旅客列車が近鉄富田 Station発着に変更される。\n 2007年(2007)\n 4月1日：PiTaPa使用開始。\n 9月24日：名古屋方面ホームの Station売店が閉店。\n 2008年(2008)11月29日：西口新 Station舎使用開始。\n 2009年(2009)4月6日：西口 Station前広場の整備が完了。",
+            "Through services": "近鉄名古屋 Lineと三岐鉄道三岐 Lineの近鉄連絡 Lineが乗り入れる。近鉄と三岐鉄道は同一ticket gateであり、一部ホームを共有するが、軌間の違いのため直通運転は行えない。\n\nなお、三岐鉄道三岐 Lineの本 Lineは現在のJR関西本 Line富田 Stationに繋がっているが、旅客は列車本数の多い近鉄名古屋 Lineを乗り継ぐことが多いため、乗り換え便宜を図るべく本 Lineから分岐する「近鉄連絡 Line」が建設され当 Stationに乗り入れたものである。1985年に三岐 Line旅客列車は当 Station発着に統一され、富田 Station発着は貨物列車のみとなっている。",
+            "Station layout": "side platforman island platform layoutとisland platforman island platform layout、合計an island platform layoutのホームを持つ地上 Stationである。近鉄 Lineが1・2番 Line、三岐鉄道三岐 Lineが3番 Lineを使用する。近鉄 Lineには待避設備がなく、絶対信号機をもたない棒 Line Stationとなっている。ホーム長は6両編成に対応。 Station舎に接する1番 Lineを除いて、各ホームは地下道による連絡となっている。\n\n近鉄 Lineと三岐鉄道三岐 Lineは当 Stationの北側で富田 Stationを避ける形でJR Lineと立体交差するため、構内からS字曲 Lineと急勾配が連続しており、近鉄 Lineでは当 Stationを通過する全列車が速度制限を受けて走行する。",
+            "西駅舎": "西 Station舎は三岐鉄道が管理する。富田地区はかつて捕鯨を中心とする漁業を行い、今も富田の鯨船行事が残っていることから、ゆかりのあるくじらを模した Station舎となっている。くじらの口に当たる部分から出入りする構造になっている。 Stationの屋根は太陽光発電システムが採用されている。現在の西 Station舎は2008年11月に完成した。",
+            "東駅舎": "東 Station舎は近鉄が管理しており、近鉄名古屋 Line下りホームに接する。",
+            "近鉄": "桑名 Station管理の有 people Stationで、PiTaPa・ICOCA対応の自動ticket gate機および自動精算機（回数券カードおよびICカードのチャージに対応）が設置されている。\n\n自動券売機は東口・西口共に設置されているが、近鉄の乗車券のみ購入可能となっている。\n\n東口 Station舎の窓口では近鉄の特急券および定期券が購入可能である。営業時間は16時～20時。",
+            "三岐鉄道": "三岐鉄道三岐 Lineの乗車券は、西口では出札窓口、東口では時間問わずticket gate窓口で発売される。近鉄の自動ticket gate機には対応しておらず、東口・西口共に有 peopleticket gateによる対応である。\n\n三岐鉄道 LineはICカード非導入。ticket gate内にICカード出入場処理機器が置かれていないため、近鉄 LineのみICカードを使用するつもりであっても一旦ticket gate外に出場する必要がある。\n\nダイヤ\n\n 三岐 Line（近鉄連絡 Line）\n 近鉄富田 Station - （三岐朝明信号場） - 大矢知 Station",
+            "近鉄名古屋 Line": "特急以外の全一般列車が停車する。\n\n日中は急行が毎時3本、準急が毎時2本（近鉄蟹江 Station - 近鉄四日市 Station間各 Station停車）、普通列車は毎時1本の停車本数が確保されている。\n\n前述の通り当 Stationは待避設備がなく、準急・普通列車は隣の川越富洲原 Stationで待避するが、日中は急行の通過待避が行われないため、上り普通列車は近鉄蟹江 Stationまで、上り準急は近鉄名古屋 Station（一部は 近鉄弥富 Station）まで、下り準急・普通は近鉄四日市 Stationまで先行している。ただし平日朝に限り、当 Stationで準急・普通→急行（上りのみ）または急行→準急・普通（下りのみ）への接続を行う列車が数本存在する。",
+            "三岐鉄道三岐 Line": "旅客列車は1時間あたり朝は3本、それ以外は2本程度の運転である。西藤原行きを中心に、日中に保々行きが数本設定されている。",
+            "Passenger statistics at this station": "近年における当 Stationの1日boarding and alighting passengersの調査結果は以下の通り。",
+            "Usage": "「三重県統計書」によると、1日の平均boarding passengersは以下の通りである。近鉄は三岐鉄道からの乗り継ぎ people員を含んでいる。\n\n近鉄富田 Stationの利用状況の変遷を下表に示す。輸送実績（boarding passengers）の単位は people/fiscal yearである。boarding and alighting passengers調査結果は任意の1日における値（単位： people)である。調査日の天候・行事等の要因によって変動が大きいのでfiscal year間の比較には注意を要する。表中、最高値を赤色で、最高値を記録したfiscal year以降の最低値を青色で、最高値を記録したfiscal year以前の最低値を緑色で表記している。",
+            "フレスポ四日市・ヤマナカ四日市富田フランテ館": "富田 Station - 東海旅客鉄道（JR東海）関西本 Line、三岐鉄道三岐 Line本 Line（貨物）。東に約300m。",
+            "三岐鉄道本社": "鳥出神社 - ユネスコ無形文化遺産登録 「鳥出神社の鯨船行事」が8月14日、15日に行われる。\n 十四川の桜並木 -  Stationのすぐ南側を流れる十四川沿いの桜並木。春には桜祭りが行われる。",
+            "Express services": "桑名 Station (E13) - 近鉄富田 Station (E17) - 近鉄四日市 Station (E21)",
+            "準急・普通": "川越富洲原 Station (E16) - 近鉄富田 Station (E17) - 霞ヶ浦 Station (E18)",
+            "Railway stations in 四日市市": "This is a Wikipedia category section for Railway stations in 四日市市.",
+            "Railway stations in 1929年開業": "富田 (四日市市)"
+          },
+          "全文": "Kintetsu-Tomida Station (近鉄富田駅, Kintetsu-Tomida-eki) is an interchange station in Tomida 1-chōme, Yokkaichi, Mie Prefecture, Japan, served by Kintetsu (Nagoya Line, E17) and Sangi Railway (Sangi Line).\n\nHistory\n1929年(1929)1月30日：伊勢電気鉄道の四日市 - 桑名間開通時に西富田 StationとしてOpened.\n 1936年(1936)9月15日：参宮急行電鉄が伊勢電気鉄道を合併、参宮急行電鉄名古屋伊勢本 Lineの Stationとなる。\n 1941年(1941)3月15日：大阪電気軌道が参宮急行電鉄を合併、関西急行鉄道の Stationとなる。同時に関急富田 Stationにrenamed。路 Line名が改定され、名古屋 Lineの所属となる。\n 1944年(1944)6月1日：関西急行鉄道が南海鉄道と合併、近畿日本鉄道の Stationとなる。同時に近畿日本富田 Stationにrenamed。\n 1965年(1965)7月1日：三岐鉄道が三岐 Line三岐朝明 - 富田間に近畿日本富田 Stationと同一 Station扱いで富田西口 Stationを新設。\n 1970年(1970)\n 3月1日：近鉄富田 Stationにrenamed。\n 6月25日：三岐鉄道が三岐 Line三岐朝明 Stationから分岐し近鉄富田 Stationに乗り入れる近鉄連絡 LineをOpened.\n 1985年(1985)3月14日：富田西口 Stationclosed。富田 Station発着の旅客列車もclosedされ三岐 Lineの全旅客列車が近鉄富田 Station発着に変更される。\n 2007年(2007)\n 4月1日：PiTaPa使用開始。\n 9月24日：名古屋方面ホームの Station売店が閉店。\n 2008年(2008)11月29日：西口新 Station舎使用開始。\n 2009年(2009)4月6日：西口 Station前広場の整備が完了。\n\nThrough services\n近鉄名古屋 Lineと三岐鉄道三岐 Lineの近鉄連絡 Lineが乗り入れる。近鉄と三岐鉄道は同一ticket gateであり、一部ホームを共有するが、軌間の違いのため直通運転は行えない。\n\nなお、三岐鉄道三岐 Lineの本 Lineは現在のJR関西本 Line富田 Stationに繋がっているが、旅客は列車本数の多い近鉄名古屋 Lineを乗り継ぐことが多いため、乗り換え便宜を図るべく本 Lineから分岐する「近鉄連絡 Line」が建設され当 Stationに乗り入れたものである。1985年に三岐 Line旅客列車は当 Station発着に統一され、富田 Station発着は貨物列車のみとなっている。\n\nStation layout\nside platforman island platform layoutとisland platforman island platform layout、合計an island platform layoutのホームを持つ地上 Stationである。近鉄 Lineが1・2番 Line、三岐鉄道三岐 Lineが3番 Lineを使用する。近鉄 Lineには待避設備がなく、絶対信号機をもたない棒 Line Stationとなっている。ホーム長は6両編成に対応。 Station舎に接する1番 Lineを除いて、各ホームは地下道による連絡となっている。\n\n近鉄 Lineと三岐鉄道三岐 Lineは当 Stationの北側で富田 Stationを避ける形でJR Lineと立体交差するため、構内からS字曲 Lineと急勾配が連続しており、近鉄 Lineでは当 Stationを通過する全列車が速度制限を受けて走行する。\n\n西駅舎\n西 Station舎は三岐鉄道が管理する。富田地区はかつて捕鯨を中心とする漁業を行い、今も富田の鯨船行事が残っていることから、ゆかりのあるくじらを模した Station舎となっている。くじらの口に当たる部分から出入りする構造になっている。 Stationの屋根は太陽光発電システムが採用されている。現在の西 Station舎は2008年11月に完成した。\n\n東駅舎\n東 Station舎は近鉄が管理しており、近鉄名古屋 Line下りホームに接する。\n\n近鉄\n桑名 Station管理の有 people Stationで、PiTaPa・ICOCA対応の自動ticket gate機および自動精算機（回数券カードおよびICカードのチャージに対応）が設置されている。\n\n自動券売機は東口・西口共に設置されているが、近鉄の乗車券のみ購入可能となっている。\n\n東口 Station舎の窓口では近鉄の特急券および定期券が購入可能である。営業時間は16時～20時。\n\n三岐鉄道\n三岐鉄道三岐 Lineの乗車券は、西口では出札窓口、東口では時間問わずticket gate窓口で発売される。近鉄の自動ticket gate機には対応しておらず、東口・西口共に有 peopleticket gateによる対応である。\n\n三岐鉄道 LineはICカード非導入。ticket gate内にICカード出入場処理機器が置かれていないため、近鉄 LineのみICカードを使用するつもりであっても一旦ticket gate外に出場する必要がある。\n\nダイヤ\n\n 三岐 Line（近鉄連絡 Line）\n 近鉄富田 Station - （三岐朝明信号場） - 大矢知 Station\n\n近鉄名古屋 Line\n特急以外の全一般列車が停車する。\n\n日中は急行が毎時3本、準急が毎時2本（近鉄蟹江 Station - 近鉄四日市 Station間各 Station停車）、普通列車は毎時1本の停車本数が確保されている。\n\n前述の通り当 Stationは待避設備がなく、準急・普通列車は隣の川越富洲原 Stationで待避するが、日中は急行の通過待避が行われないため、上り普通列車は近鉄蟹江 Stationまで、上り準急は近鉄名古屋 Station（一部は 近鉄弥富 Station）まで、下り準急・普通は近鉄四日市 Stationまで先行している。ただし平日朝に限り、当 Stationで準急・普通→急行（上りのみ）または急行→準急・普通（下りのみ）への接続を行う列車が数本存在する。\n\n三岐鉄道三岐 Line\n旅客列車は1時間あたり朝は3本、それ以外は2本程度の運転である。西藤原行きを中心に、日中に保々行きが数本設定されている。\n\nPassenger statistics at this station\n近年における当 Stationの1日boarding and alighting passengersの調査結果は以下の通り。\n\nUsage\n「三重県統計書」によると、1日の平均boarding passengersは以下の通りである。近鉄は三岐鉄道からの乗り継ぎ people員を含んでいる。\n\n近鉄富田 Stationの利用状況の変遷を下表に示す。輸送実績（boarding passengers）の単位は people/fiscal yearである。boarding and alighting passengers調査結果は任意の1日における値（単位： people)である。調査日の天候・行事等の要因によって変動が大きいのでfiscal year間の比較には注意を要する。表中、最高値を赤色で、最高値を記録したfiscal year以降の最低値を青色で、最高値を記録したfiscal year以前の最低値を緑色で表記している。\n\nフレスポ四日市・ヤマナカ四日市富田フランテ館\n富田 Station - 東海旅客鉄道（JR東海）関西本 Line、三岐鉄道三岐 Line本 Line（貨物）。東に約300m。\n\n三岐鉄道本社\n鳥出神社 - ユネスコ無形文化遺産登録 「鳥出神社の鯨船行事」が8月14日、15日に行われる。\n 十四川の桜並木 -  Stationのすぐ南側を流れる十四川沿いの桜並木。春には桜祭りが行われる。\n\nExpress services\n桑名 Station (E13) - 近鉄富田 Station (E17) - 近鉄四日市 Station (E21)\n\n準急・普通\n川越富洲原 Station (E16) - 近鉄富田 Station (E17) - 霞ヶ浦 Station (E18)\n\nRailway stations in 四日市市\nThis is a Wikipedia category section for Railway stations in 四日市市.\n\nRailway stations in 1929年開業\n富田 (四日市市)",
+          "字数": 3786
         }
       },
       "结构化信息": {
