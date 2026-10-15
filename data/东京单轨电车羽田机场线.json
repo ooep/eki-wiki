@@ -142,7 +142,28 @@
           "字数": 322,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Ōi Keibajō-mae Station",
+          "链接": null,
+          "首段": "Ōi Keibajō-mae Station (大井競馬場前駅) is a Tokyo Monorail Haneda Airport Line station located in Katsushima 2-chōme, Shinagawa, Tokyo, Japan. Its station number is MO-03.",
+          "章节": {
+            "History": "",
+            "Station layout": "",
+            "Usage": "",
+            "大井競馬場": "",
+            "品川区八潮地区": "",
+            "品川区立八潮図書館": "",
+            "大井ふ頭中央海浜公園": "",
+            "東京税関大井出張所": "",
+            "東方向": "",
+            "西方向": "",
+            "区間快速・普通": "",
+            "Railway stations in 品川区": "",
+            "Railway stations in 1965年開業": ""
+          },
+          "全文": "Ōi Keibajō-mae Station (大井競馬場前駅) is a Tokyo Monorail Haneda Airport Line station located in Katsushima 2-chōme, Shinagawa, Tokyo, Japan. Its station number is MO-03.\n\nHistory\n\n\nStation layout\n\n\nUsage\n\n\n大井競馬場\n\n\n品川区八潮地区\n\n\n品川区立八潮図書館\n\n\n大井ふ頭中央海浜公園\n\n\n東京税関大井出張所\n\n\n東方向\n\n\n西方向\n\n\n区間快速・普通\n\n\nRailway stations in 品川区\n\n\nRailway stations in 1965年開業\n",
+          "字数": 333
+        }
       },
       "结构化信息": {
         "读音": "おおいけいばじょうまええき",
@@ -270,18 +291,43 @@
           "链接": "https://en.wikipedia.org/wiki/Tenn%C5%8Dzu_Isle_Station",
           "首段": "Tennōzu Isle Station (天王洲アイル駅, Tennōzu-Airu-eki) is a railway station in Shinagawa, Tokyo, Japan, operated by the two private railway operators Tokyo Monorail and Tokyo Waterfront Area Rapid Transit (TWR). It is the easternmost station in Shinagawa, and the surrounding district is commonly known as Tennōzu Isle.",
           "章节": {
-            "Lines": "The station is served by the Tokyo Monorail Haneda Airport Line (station number MO02) and the TWR Rinkai Line (station number R05), and forms an interchange between the two.",
+            "Through services": "",
             "History": "June 19, 1992: The Tokyo Monorail station opens.\nNovember 17, 1999: Selected as one of the 100 top stations in the Kanto region.\nMarch 31, 2001: The Rinkai Line opens between Tokyo Teleport and this station; a south entrance is added to the monorail platform to allow interchange.\nApril 21, 2002: Suica IC cards accepted on the monorail.\nDecember 1, 2002: The Rinkai Line extends from this station to Osaki; Suica accepted on the Rinkai Line.\nDecember 1, 2004: An under-passage connecting the two monorail platforms opens near the south entrance.\nJune 23, 2009: A Kiosk shop opens outside the ticket barriers.\nOctober 21, 2010: The Tokyo Monorail Haneda Line is renamed the Tokyo Monorail Haneda Airport Line.\nJune 20, 2021: Platform doors enter service on the TWR platforms.",
             "Station layout": "Transfer between the two lines requires passengers to leave the station concourse. Two transfer routes are signposted: one between the monorail south exit and Rinkai Line exit A (short, but involves a road crossing), and another between the monorail central exit and Rinkai Line exit B via an underground passage and the covered Sky Walk footbridge (longer, but sheltered).",
+            "東京モノレール": "",
+            "東京臨海高速鉄道": "",
+            "Usage": "Tokyo Monorail: 20,339 daily boardings/alightings in FY2022.\nTWR Rinkai Line: 11,283 daily boardings in FY2021, ranking seventh of the eight Rinkai Line stations.",
+            "Annual daily average boarding/alighting": "",
+            "Annual daily average boarding": "",
+            "Surrounding area": "Before the station was built the area was lined with miscellaneous warehouses; it was redeveloped by Mitsubishi Corporation, Dai-ichi Hotel (now Hankyu Hotel Management) and Ube Industries (now UBE), with the opening of Sea Fort Square. The monorail station itself is located inside the JTB Building (formerly the UBE Building).\nSea Fort Square\nGalaxy Theatre\nShinagawa Tennōzu Post Office\nSphere Tower Tennōzu\nTennōzu Central Tower\nTennōzu Parkside Building (Nomura Real Estate Tennōzu Building, formerly JAL Building)\nNike Employee Store\nTV Tokyo Tennōzu Studio\nTokyo University of Marine Science and Technology Shinagawa Campus\nShinagawa Minami Futō Park\nJERA Shinagawa Thermal Power Station\nWorld City Towers",
+            "品川天王洲郵便局": "",
+            "スフィアタワー天王洲": "",
+            "天王洲セントラルタワー": "",
+            "天王洲パークサイドビル": "",
+            "ナイキエンプロイーストアー": "",
+            "InterFM897": "",
+            "品川南ふ頭公園": "",
+            "ワールドシティタワーズ": "",
+            "Bus routes": "",
+            "Toei Bus": "",
+            "南方向": "",
+            "東方向": "",
+            "西方向": "",
+            "駐車場": "",
+            "Other": "The station is spelled \"Tennōzu Isle\" on the monorail and \"Tennozu Isle\" on the Rinkai Line; the official English name used by the Tennōzu redevelopment council is \"Tennoz Isle\".",
+            "区間快速・普通": "",
+            "通勤快速・快速・各駅停車": "",
+            "映画": "",
+            "Railway stations in 品川区": "",
+            "Railway stations in 東京モノレール": "",
+            "Railway stations in 1992年開業": "",
+            "Lines": "The station is served by the Tokyo Monorail Haneda Airport Line (station number MO02) and the TWR Rinkai Line (station number R05), and forms an interchange between the two.",
             "Tokyo Monorail": "An elevated station with two opposed side platforms serving two tracks. Originally there was only a ticket gate on the Hamamatsucho side; a south gate was added when the station became an interchange with the Rinkai Line. A connecting passage with stairs and elevators between the platforms was added in 2004.",
             "Tokyo Waterfront Area Rapid Transit": "An underground station with one island platform serving two tracks; the platform curves sharply toward Tokyo Teleport. Because construction on the extension to Osaki was delayed, this station opened as the Rinkai Line terminus on March 31, 2001, with only platform 2 in use until November 30, 2002.",
-            "Usage": "Tokyo Monorail: 20,339 daily boardings/alightings in FY2022.\nTWR Rinkai Line: 11,283 daily boardings in FY2021, ranking seventh of the eight Rinkai Line stations.",
-            "Surrounding area": "Before the station was built the area was lined with miscellaneous warehouses; it was redeveloped by Mitsubishi Corporation, Dai-ichi Hotel (now Hankyu Hotel Management) and Ube Industries (now UBE), with the opening of Sea Fort Square. The monorail station itself is located inside the JTB Building (formerly the UBE Building).\nSea Fort Square\nGalaxy Theatre\nShinagawa Tennōzu Post Office\nSphere Tower Tennōzu\nTennōzu Central Tower\nTennōzu Parkside Building (Nomura Real Estate Tennōzu Building, formerly JAL Building)\nNike Employee Store\nTV Tokyo Tennōzu Studio\nTokyo University of Marine Science and Technology Shinagawa Campus\nShinagawa Minami Futō Park\nJERA Shinagawa Thermal Power Station\nWorld City Towers",
-            "Bus services": "Toei Bus services operate from stops in front of the station, including routes 品96 to Shinagawa Station and 井96 to Ōimachi Station East Exit, and route 品98 to the Ōta wholesale market.",
-            "Other": "The station is spelled \"Tennōzu Isle\" on the monorail and \"Tennozu Isle\" on the Rinkai Line; the official English name used by the Tennōzu redevelopment council is \"Tennoz Isle\"."
+            "Bus services": "Toei Bus services operate from stops in front of the station, including routes 品96 to Shinagawa Station and 井96 to Ōimachi Station East Exit, and route 品98 to the Ōta wholesale market."
           },
-          "全文": "Tennōzu Isle Station (天王洲アイル駅, Tennōzu-Airu-eki) is a railway station in Shinagawa, Tokyo, Japan, operated by the two private railway operators Tokyo Monorail and Tokyo Waterfront Area Rapid Transit (TWR). It is the easternmost station in Shinagawa, and the surrounding district is commonly known as Tennōzu Isle.\n\nLines\nThe station is served by the Tokyo Monorail Haneda Airport Line (station number MO02) and the TWR Rinkai Line (station number R05), and forms an interchange between the two.\n\nHistory\nJune 19, 1992: The Tokyo Monorail station opens.\nNovember 17, 1999: Selected as one of the 100 top stations in the Kanto region.\nMarch 31, 2001: The Rinkai Line opens between Tokyo Teleport and this station; a south entrance is added to the monorail platform to allow interchange.\nApril 21, 2002: Suica IC cards accepted on the monorail.\nDecember 1, 2002: The Rinkai Line extends from this station to Osaki; Suica accepted on the Rinkai Line.\nDecember 1, 2004: An under-passage connecting the two monorail platforms opens near the south entrance.\nJune 23, 2009: A Kiosk shop opens outside the ticket barriers.\nOctober 21, 2010: The Tokyo Monorail Haneda Line is renamed the Tokyo Monorail Haneda Airport Line.\nJune 20, 2021: Platform doors enter service on the TWR platforms.\n\nStation layout\nTransfer between the two lines requires passengers to leave the station concourse. Two transfer routes are signposted: one between the monorail south exit and Rinkai Line exit A (short, but involves a road crossing), and another between the monorail central exit and Rinkai Line exit B via an underground passage and the covered Sky Walk footbridge (longer, but sheltered).\n\nTokyo Monorail\nAn elevated station with two opposed side platforms serving two tracks. Originally there was only a ticket gate on the Hamamatsucho side; a south gate was added when the station became an interchange with the Rinkai Line. A connecting passage with stairs and elevators between the platforms was added in 2004.\n\nTokyo Waterfront Area Rapid Transit\nAn underground station with one island platform serving two tracks; the platform curves sharply toward Tokyo Teleport. Because construction on the extension to Osaki was delayed, this station opened as the Rinkai Line terminus on March 31, 2001, with only platform 2 in use until November 30, 2002.\n\nUsage\nTokyo Monorail: 20,339 daily boardings/alightings in FY2022.\nTWR Rinkai Line: 11,283 daily boardings in FY2021, ranking seventh of the eight Rinkai Line stations.\n\nSurrounding area\nBefore the station was built the area was lined with miscellaneous warehouses; it was redeveloped by Mitsubishi Corporation, Dai-ichi Hotel (now Hankyu Hotel Management) and Ube Industries (now UBE), with the opening of Sea Fort Square. The monorail station itself is located inside the JTB Building (formerly the UBE Building).\nSea Fort Square\nGalaxy Theatre\nShinagawa Tennōzu Post Office\nSphere Tower Tennōzu\nTennōzu Central Tower\nTennōzu Parkside Building (Nomura Real Estate Tennōzu Building, formerly JAL Building)\nNike Employee Store\nTV Tokyo Tennōzu Studio\nTokyo University of Marine Science and Technology Shinagawa Campus\nShinagawa Minami Futō Park\nJERA Shinagawa Thermal Power Station\nWorld City Towers\n\nBus services\nToei Bus services operate from stops in front of the station, including routes 品96 to Shinagawa Station and 井96 to Ōimachi Station East Exit, and route 品98 to the Ōta wholesale market.\n\nOther\nThe station is spelled \"Tennōzu Isle\" on the monorail and \"Tennozu Isle\" on the Rinkai Line; the official English name used by the Tennōzu redevelopment council is \"Tennoz Isle\".",
-          "字数": 3617
+          "全文": "Tennōzu Isle Station (天王洲アイル駅, Tennōzu-Airu-eki) is a railway station in Shinagawa, Tokyo, Japan, operated by the two private railway operators Tokyo Monorail and Tokyo Waterfront Area Rapid Transit (TWR). It is the easternmost station in Shinagawa, and the surrounding district is commonly known as Tennōzu Isle.\n\nThrough services\n\n\nHistory\nJune 19, 1992: The Tokyo Monorail station opens.\nNovember 17, 1999: Selected as one of the 100 top stations in the Kanto region.\nMarch 31, 2001: The Rinkai Line opens between Tokyo Teleport and this station; a south entrance is added to the monorail platform to allow interchange.\nApril 21, 2002: Suica IC cards accepted on the monorail.\nDecember 1, 2002: The Rinkai Line extends from this station to Osaki; Suica accepted on the Rinkai Line.\nDecember 1, 2004: An under-passage connecting the two monorail platforms opens near the south entrance.\nJune 23, 2009: A Kiosk shop opens outside the ticket barriers.\nOctober 21, 2010: The Tokyo Monorail Haneda Line is renamed the Tokyo Monorail Haneda Airport Line.\nJune 20, 2021: Platform doors enter service on the TWR platforms.\n\nStation layout\nTransfer between the two lines requires passengers to leave the station concourse. Two transfer routes are signposted: one between the monorail south exit and Rinkai Line exit A (short, but involves a road crossing), and another between the monorail central exit and Rinkai Line exit B via an underground passage and the covered Sky Walk footbridge (longer, but sheltered).\n\n東京モノレール\n\n\n東京臨海高速鉄道\n\n\nUsage\nTokyo Monorail: 20,339 daily boardings/alightings in FY2022.\nTWR Rinkai Line: 11,283 daily boardings in FY2021, ranking seventh of the eight Rinkai Line stations.\n\nAnnual daily average boarding/alighting\n\n\nAnnual daily average boarding\n\n\nSurrounding area\nBefore the station was built the area was lined with miscellaneous warehouses; it was redeveloped by Mitsubishi Corporation, Dai-ichi Hotel (now Hankyu Hotel Management) and Ube Industries (now UBE), with the opening of Sea Fort Square. The monorail station itself is located inside the JTB Building (formerly the UBE Building).\nSea Fort Square\nGalaxy Theatre\nShinagawa Tennōzu Post Office\nSphere Tower Tennōzu\nTennōzu Central Tower\nTennōzu Parkside Building (Nomura Real Estate Tennōzu Building, formerly JAL Building)\nNike Employee Store\nTV Tokyo Tennōzu Studio\nTokyo University of Marine Science and Technology Shinagawa Campus\nShinagawa Minami Futō Park\nJERA Shinagawa Thermal Power Station\nWorld City Towers\n\n品川天王洲郵便局\n\n\nスフィアタワー天王洲\n\n\n天王洲セントラルタワー\n\n\n天王洲パークサイドビル\n\n\nナイキエンプロイーストアー\n\n\nInterFM897\n\n\n品川南ふ頭公園\n\n\nワールドシティタワーズ\n\n\nBus routes\n\n\nToei Bus\n\n\n南方向\n\n\n東方向\n\n\n西方向\n\n\n駐車場\n\n\nOther\nThe station is spelled \"Tennōzu Isle\" on the monorail and \"Tennozu Isle\" on the Rinkai Line; the official English name used by the Tennōzu redevelopment council is \"Tennoz Isle\".\n\n区間快速・普通\n\n\n通勤快速・快速・各駅停車\n\n\n映画\n\n\nRailway stations in 品川区\n\n\nRailway stations in 東京モノレール\n\n\nRailway stations in 1992年開業\n\n\nLines\nThe station is served by the Tokyo Monorail Haneda Airport Line (station number MO02) and the TWR Rinkai Line (station number R05), and forms an interchange between the two.\n\nTokyo Monorail\nAn elevated station with two opposed side platforms serving two tracks. Originally there was only a ticket gate on the Hamamatsucho side; a south gate was added when the station became an interchange with the Rinkai Line. A connecting passage with stairs and elevators between the platforms was added in 2004.\n\nTokyo Waterfront Area Rapid Transit\nAn underground station with one island platform serving two tracks; the platform curves sharply toward Tokyo Teleport. Because construction on the extension to Osaki was delayed, this station opened as the Rinkai Line terminus on March 31, 2001, with only platform 2 in use until November 30, 2002.\n\nBus services\nToei Bus services operate from stops in front of the station, including routes 品96 to Shinagawa Station and 井96 to Ōimachi Station East Exit, and route 品98 to the Ōta wholesale market.",
+          "字数": 4000
         }
       },
       "结构化信息": {
@@ -395,12 +441,34 @@
           "链接": "https://en.wikipedia.org/wiki/Tenk%C5%ABbashi%20Station",
           "首段": "is a railway station in Ōta, Tokyo, Japan, operated jointly by Tokyo Monorail and the private railway operator Keikyu. It is named after a nearby pedestrian bridge that was completed in 1993.",
           "章节": {
-            "Lines": "Keikyu Airport Line (station number KK15)\nTokyo Monorail Haneda Airport Line (station number MO07)\n\nTenkūbashi Station is served by the 6.5 km Keikyū Airport Line from  to , and lies 3.3 km from the starting point of the line at Keikyū Kamata. It is also served by the 17.8 km Tokyo Monorail Haneda Airport Line from  in central Tokyo to , and lies 12.6 km from the northern terminus of the line at Monorail Hamamatsuchō. Only \"Local\" all-stations services stop at this station.\n\nStation layout\nEach of the Keikyu and Tokyo Monorail sections of the station has two side platforms serving two tracks. Both lines are underground.",
+            "京浜急行電鉄": "",
+            "東京モノレール": "",
             "History": "The station replaced two earlier stations: the original , which served as the southern terminal station of the Keikyu Airport Line from 1956 to 1991 (but was located a considerable distance from the terminal and only had local service to Kamata), and the former Tokyo Monorail , which opened on 17 September 1964 underneath the domestic terminal at Haneda Airport and was the main rapid transit access between Haneda and downtown Tokyo.\n\nThe new \"Big Bird\" domestic terminal at Haneda Airport opened on a new site in 1993, requiring an extension of both lines. Keikyu closed its airport access line in January 1991 and opened a new  at the present site of Tenkūbashi Station on 1 April 1993, which became the interim terminal for the Keikyu Airport Line. The Tokyo Monorail was extended to the new terminal on 27 September 1993, and Haneda Station was concurrently relocated to the new Keikyu station site in order to allow transfers between the two lines. The station was renamed Tenkūbashi Station on 18 November 1998, at the time of the Keikyu extension to Haneda Airport Station, in order to avoid confusion with the latter.\n\nKeikyu introduced station numbering to its stations on 21 October 2010; Tenkūbashi was assigned station number KK15.\n\nPassenger statistics\nIn fiscal 2011, the Keikyu station was used by an average of 18,613 passengers daily, and the Tokyo Monorail station was used by an average of 9,752 passengers daily.\n\nSurrounding area\n Haneda Airport\n Haneda Shrine\n\nSee also\n List of railway stations in Japan",
+            "沿革": "",
+            "Station layout": "",
+            "Usage": "",
+            "Annual daily average boarding/alighting": "",
+            "Annual daily average boarding": "",
+            "Surrounding area": "",
+            "穴守稲荷神社": "",
+            "Bus routes": "",
+            "Bus stop 1": "",
+            "京浜急行バス": "",
+            "川崎鶴見臨港バス": "",
+            "Bus stop 5": "",
+            "Bus stop 6": "",
+            "Other": "",
+            "特急・エアポート急行・普通": "",
+            "Local": "",
+            "空港連絡鉄道": "",
+            "東京国際空港": "",
+            "Railway stations in 大田区": "",
+            "Railway stations in 1993年開業": "",
+            "Lines": "Keikyu Airport Line (station number KK15)\nTokyo Monorail Haneda Airport Line (station number MO07)\n\nTenkūbashi Station is served by the 6.5 km Keikyū Airport Line from  to , and lies 3.3 km from the starting point of the line at Keikyū Kamata. It is also served by the 17.8 km Tokyo Monorail Haneda Airport Line from  in central Tokyo to , and lies 12.6 km from the northern terminus of the line at Monorail Hamamatsuchō. Only \"Local\" all-stations services stop at this station.\n\nStation layout\nEach of the Keikyu and Tokyo Monorail sections of the station has two side platforms serving two tracks. Both lines are underground.",
             "References": "External links\n\n Keikyu station information \n Tokyo Monorail station information \n\nTokyo Monorail Haneda Line\nStations of Tokyo Monorail\nStations of Keikyu\nRailway stations in Tokyo\nRailway stations in Japan opened in 1993"
           },
-          "全文": "is a railway station in Ōta, Tokyo, Japan, operated jointly by Tokyo Monorail and the private railway operator Keikyu. It is named after a nearby pedestrian bridge that was completed in 1993.\n\nLines\nKeikyu Airport Line (station number KK15)\nTokyo Monorail Haneda Airport Line (station number MO07)\n\nTenkūbashi Station is served by the 6.5 km Keikyū Airport Line from  to , and lies 3.3 km from the starting point of the line at Keikyū Kamata. It is also served by the 17.8 km Tokyo Monorail Haneda Airport Line from  in central Tokyo to , and lies 12.6 km from the northern terminus of the line at Monorail Hamamatsuchō. Only \"Local\" all-stations services stop at this station.\n\nStation layout\nEach of the Keikyu and Tokyo Monorail sections of the station has two side platforms serving two tracks. Both lines are underground.\n\nHistory \nThe station replaced two earlier stations: the original , which served as the southern terminal station of the Keikyu Airport Line from 1956 to 1991 (but was located a considerable distance from the terminal and only had local service to Kamata), and the former Tokyo Monorail , which opened on 17 September 1964 underneath the domestic terminal at Haneda Airport and was the main rapid transit access between Haneda and downtown Tokyo.\n\nThe new \"Big Bird\" domestic terminal at Haneda Airport opened on a new site in 1993, requiring an extension of both lines. Keikyu closed its airport access line in January 1991 and opened a new  at the present site of Tenkūbashi Station on 1 April 1993, which became the interim terminal for the Keikyu Airport Line. The Tokyo Monorail was extended to the new terminal on 27 September 1993, and Haneda Station was concurrently relocated to the new Keikyu station site in order to allow transfers between the two lines. The station was renamed Tenkūbashi Station on 18 November 1998, at the time of the Keikyu extension to Haneda Airport Station, in order to avoid confusion with the latter.\n\nKeikyu introduced station numbering to its stations on 21 October 2010; Tenkūbashi was assigned station number KK15.\n\nPassenger statistics\nIn fiscal 2011, the Keikyu station was used by an average of 18,613 passengers daily, and the Tokyo Monorail station was used by an average of 9,752 passengers daily.\n\nSurrounding area\n Haneda Airport\n Haneda Shrine\n\nSee also\n List of railway stations in Japan\n\nReferences\n\nExternal links\n\n Keikyu station information \n Tokyo Monorail station information \n\nTokyo Monorail Haneda Line\nStations of Tokyo Monorail\nStations of Keikyu\nRailway stations in Tokyo\nRailway stations in Japan opened in 1993",
-          "字数": 2602
+          "全文": "is a railway station in Ōta, Tokyo, Japan, operated jointly by Tokyo Monorail and the private railway operator Keikyu. It is named after a nearby pedestrian bridge that was completed in 1993.\n\n京浜急行電鉄\n\n\n東京モノレール\n\n\nHistory\nThe station replaced two earlier stations: the original , which served as the southern terminal station of the Keikyu Airport Line from 1956 to 1991 (but was located a considerable distance from the terminal and only had local service to Kamata), and the former Tokyo Monorail , which opened on 17 September 1964 underneath the domestic terminal at Haneda Airport and was the main rapid transit access between Haneda and downtown Tokyo.\n\nThe new \"Big Bird\" domestic terminal at Haneda Airport opened on a new site in 1993, requiring an extension of both lines. Keikyu closed its airport access line in January 1991 and opened a new  at the present site of Tenkūbashi Station on 1 April 1993, which became the interim terminal for the Keikyu Airport Line. The Tokyo Monorail was extended to the new terminal on 27 September 1993, and Haneda Station was concurrently relocated to the new Keikyu station site in order to allow transfers between the two lines. The station was renamed Tenkūbashi Station on 18 November 1998, at the time of the Keikyu extension to Haneda Airport Station, in order to avoid confusion with the latter.\n\nKeikyu introduced station numbering to its stations on 21 October 2010; Tenkūbashi was assigned station number KK15.\n\nPassenger statistics\nIn fiscal 2011, the Keikyu station was used by an average of 18,613 passengers daily, and the Tokyo Monorail station was used by an average of 9,752 passengers daily.\n\nSurrounding area\n Haneda Airport\n Haneda Shrine\n\nSee also\n List of railway stations in Japan\n\n沿革\n\n\nStation layout\n\n\nUsage\n\n\nAnnual daily average boarding/alighting\n\n\nAnnual daily average boarding\n\n\nSurrounding area\n\n\n穴守稲荷神社\n\n\nBus routes\n\n\nBus stop 1\n\n\n京浜急行バス\n\n\n川崎鶴見臨港バス\n\n\nBus stop 5\n\n\nBus stop 6\n\n\nOther\n\n\n特急・エアポート急行・普通\n\n\nLocal\n\n\n空港連絡鉄道\n\n\n東京国際空港\n\n\nRailway stations in 大田区\n\n\nRailway stations in 1993年開業\n\n\nLines\nKeikyu Airport Line (station number KK15)\nTokyo Monorail Haneda Airport Line (station number MO07)\n\nTenkūbashi Station is served by the 6.5 km Keikyū Airport Line from  to , and lies 3.3 km from the starting point of the line at Keikyū Kamata. It is also served by the 17.8 km Tokyo Monorail Haneda Airport Line from  in central Tokyo to , and lies 12.6 km from the northern terminus of the line at Monorail Hamamatsuchō. Only \"Local\" all-stations services stop at this station.\n\nStation layout\nEach of the Keikyu and Tokyo Monorail sections of the station has two side platforms serving two tracks. Both lines are underground.\n\nReferences\nExternal links\n\n Keikyu station information \n Tokyo Monorail station information \n\nTokyo Monorail Haneda Line\nStations of Tokyo Monorail\nStations of Keikyu\nRailway stations in Tokyo\nRailway stations in Japan opened in 1993",
+          "字数": 2929
         }
       },
       "结构化信息": {
@@ -486,7 +554,26 @@
           "字数": 301,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Seibijō Station",
+          "链接": null,
+          "首段": "Seibijō Station (整備場駅) is a Tokyo Monorail Haneda Airport Line station located in Haneda Airport 1-chōme, Ōta, Tokyo, Japan. Its station number is MO-06.",
+          "章节": {
+            "History": "",
+            "Station layout": "",
+            "Usage": "",
+            "Surrounding area": "",
+            "第一綜合ビル": "",
+            "海老取川": "",
+            "京浜急行バス": "",
+            "Other": "",
+            "Local": "",
+            "Railway stations in 大田区": "",
+            "Railway stations in 1967年開業": ""
+          },
+          "全文": "Seibijō Station (整備場駅) is a Tokyo Monorail Haneda Airport Line station located in Haneda Airport 1-chōme, Ōta, Tokyo, Japan. Its station number is MO-06.\n\nHistory\n\n\nStation layout\n\n\nUsage\n\n\nSurrounding area\n\n\n第一綜合ビル\n\n\n海老取川\n\n\n京浜急行バス\n\n\nOther\n\n\nLocal\n\n\nRailway stations in 大田区\n\n\nRailway stations in 1967年開業\n",
+          "字数": 304
+        }
       },
       "结构化信息": {
         "读音": "せいびじょうえき",
@@ -564,7 +651,27 @@
           "字数": 358,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Shin-Seibijō Station",
+          "链接": null,
+          "首段": "Shin-Seibijō Station (新整備場駅) is a Tokyo Monorail Haneda Airport Line station located in Haneda Airport 3-chōme, Ōta, Tokyo, Japan. Its station number is MO-09.",
+          "章节": {
+            "History": "",
+            "Station layout": "",
+            "Usage": "",
+            "Surrounding area": "",
+            "スカイマーク本社": "",
+            "ANAスカイビルサービス": "",
+            "国道357号": "",
+            "Bus routes": "",
+            "京浜急行バス": "",
+            "Local": "",
+            "Railway stations in 大田区": "",
+            "Railway stations in 1993年開業": ""
+          },
+          "全文": "Shin-Seibijō Station (新整備場駅) is a Tokyo Monorail Haneda Airport Line station located in Haneda Airport 3-chōme, Ōta, Tokyo, Japan. Its station number is MO-09.\n\nHistory\n\n\nStation layout\n\n\nUsage\n\n\nSurrounding area\n\n\nスカイマーク本社\n\n\nANAスカイビルサービス\n\n\n国道357号\n\n\nBus routes\n\n\n京浜急行バス\n\n\nLocal\n\n\nRailway stations in 大田区\n\n\nRailway stations in 1993年開業\n",
+          "字数": 334
+        }
       },
       "结构化信息": {
         "读音": "しんせいびじょうえき",
@@ -634,7 +741,22 @@
           "字数": 336,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Shōwajima Station",
+          "链接": null,
+          "首段": "Shōwajima Station (昭和島駅) is a Tokyo Monorail Haneda Airport Line station located in Shōwajima 2-chōme, Ōta, Tokyo, Japan. Its station number is MO-05.",
+          "章节": {
+            "History": "",
+            "Station layout": "",
+            "Usage": "",
+            "Surrounding area": "",
+            "京浜急行バス": "",
+            "Local": "",
+            "Railway stations in 大田区": ""
+          },
+          "全文": "Shōwajima Station (昭和島駅) is a Tokyo Monorail Haneda Airport Line station located in Shōwajima 2-chōme, Ōta, Tokyo, Japan. Its station number is MO-05.\n\nHistory\n\n\nStation layout\n\n\nUsage\n\n\nSurrounding area\n\n\n京浜急行バス\n\n\nLocal\n\n\nRailway stations in 大田区\n",
+          "字数": 247
+        }
       },
       "结构化信息": {
         "读音": "しょうわじまえき",
@@ -850,7 +972,34 @@
           "字数": 4993,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Hamamatsuchō Station",
+          "链接": null,
+          "首段": "Hamamatsuchō Station (浜松町駅) is a JR East station located in Minato, Tokyo, Japan. This article also covers the Monorail Hamamatsuchō Station of the Tokyo Monorail Haneda Airport Line. JR East lists the address as Kaigan 1-chōme and the monorail as Hamamatsuchō 2-chōme.",
+          "章节": {
+            "Through services": "",
+            "History": "",
+            "Chronology": "",
+            "JR East": "",
+            "小便小僧": "",
+            "Usage": "",
+            "Annual daily average boarding/alighting": "",
+            "Surrounding area": "",
+            "Bus routes": "",
+            "浜松町駅前": "",
+            "大門駅前": "",
+            "周辺整備計画": "",
+            "Adjacent stations": "",
+            "京浜東北線": "",
+            "Local": "",
+            "山手線": "",
+            "空港快速": "",
+            "区間快速・普通": "",
+            "Railway stations in 東京都港区": ""
+          },
+          "全文": "Hamamatsuchō Station (浜松町駅) is a JR East station located in Minato, Tokyo, Japan. This article also covers the Monorail Hamamatsuchō Station of the Tokyo Monorail Haneda Airport Line. JR East lists the address as Kaigan 1-chōme and the monorail as Hamamatsuchō 2-chōme.\n\nThrough services\n\n\nHistory\n\n\nChronology\n\n\nJR East\n\n\n小便小僧\n\n\nUsage\n\n\nAnnual daily average boarding/alighting\n\n\nSurrounding area\n\n\nBus routes\n\n\n浜松町駅前\n\n\n大門駅前\n\n\n周辺整備計画\n\n\nAdjacent stations\n\n\n京浜東北線\n\n\nLocal\n\n\n山手線\n\n\n空港快速\n\n\n区間快速・普通\n\n\nRailway stations in 東京都港区\n",
+          "字数": 521
+        }
       },
       "结构化信息": {
         "读音": "はままつちょうえき",
@@ -1254,6 +1403,6 @@
     "有中文词条": 11,
     "已千问汉化": 1,
     "待汉化": 0,
-    "有英文词条": 6
+    "有英文词条": 11
   }
 }
