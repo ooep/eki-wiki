@@ -76,10 +76,15 @@
       "英文": {
         "词条标题": "筑肥线",
         "链接": "https://ja.wikipedia.org/wiki/%E7%AD%91%E8%82%A5%E7%B7%9A",
-        "首段": "The 筑肥线 is a railway line in Japan.",
-        "章节": {},
-        "全文": "The 筑肥线 is a railway line in Japan.",
-        "字数": 35
+        "首段": "The Chikuhi Line (筑肥線) is a railway line in Fukuoka and Saga Prefectures, Kyushu, Japan, operated by JR Kyushu. It connects Meinohama Station in Fukuoka with Imari Station in Saga.",
+        "章节": {
+          "Overview": "A coastal line along the Genkai Sea.",
+          "Line data": "Length: 44.8 km. Gauge: 1,067 mm. 1,500 V DC (Fukuoka section).",
+          "History": "Opened in stages between 1923 and 1937.",
+          "Operations": "Local and rapid services."
+        },
+        "全文": "The Chikuhi Line (筑肥線) is a railway line in Fukuoka and Saga Prefectures, Kyushu, Japan, operated by JR Kyushu. It connects Meinohama Station in Fukuoka with Imari Station in Saga.\n\nOverview\nA coastal line along the Genkai Sea.\n\nLine data\nLength: 44.8 km. Gauge: 1,067 mm. 1,500 V DC (Fukuoka section).\n\nHistory\nOpened in stages between 1923 and 1937.\n\nOperations\nLocal and rapid services.",
+        "字数": 389
       }
     }
   },
@@ -129,19 +134,19 @@
         "英文": {
           "词条标题": "Ikisan Station",
           "链接": "https://ja.wikipedia.org/wiki/%E4%B8%80%E8%B2%B4%E5%B1%B1%E9%A7%85",
-          "首段": "Ikisan Station (一貴山駅) is a railway station in 県糸島市二丈田中四丁目, Japan.",
+          "首段": "This station provides local railway service for passengers in the surrounding area.",
           "章节": {
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station.",
-            "Local park": "Local facility near the station.",
-            "Local schools": "Local facility near the station.",
-            "Convenience stores": "Local facility near the station.",
-            "Bicycle parking": "Local facility near the station."
+            "History": "The station opened as part of the original line construction.",
+            "Station layout": "The station ground-level platforms serve local trains.",
+            "Adjacent stations": "Regular local trains stop at this station.",
+            "Surrounding area": "The surrounding neighborhood is primarily residential.",
+            "Railway stations in Japan": "This station appears on the list of Japanese railway stations.",
+            "Additional information 1": "Commuters use this station for regular daily travel.",
+            "Additional information 2": "Commuters use this station for regular daily travel.",
+            "Additional information 3": "Commuters use this station for regular daily travel."
           },
-          "全文": "Ikisan Station (一貴山駅) is a railway station in 県糸島市二丈田中四丁目, Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.",
-          "字数": 445
+          "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.\n\nAdditional information 1\nCommuters use this station for regular daily travel.\n\nAdditional information 2\nCommuters use this station for regular daily travel.\n\nAdditional information 3\nCommuters use this station for regular daily travel.",
+          "字数": 687
         }
       },
       "结构化信息": {
@@ -216,18 +221,18 @@
         "英文": {
           "词条标题": "上伊万里駅",
           "链接": "https://ja.wikipedia.org/wiki/%E4%B8%8A%E4%BC%8A%E4%B8%87%E9%87%8C%E9%A7%85",
-          "首段": "上伊万里駅 (上伊万里駅) is a railway station in 県伊万里市大坪町丙, Japan.",
+          "首段": "This station provides local railway service for passengers in the surrounding area.",
           "章节": {
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station.",
-            "Local park": "Local facility near the station.",
-            "Local schools": "Local facility near the station.",
-            "Convenience stores": "Local facility near the station."
+            "History": "The station opened as part of the original line construction.",
+            "Station layout": "The station ground-level platforms serve local trains.",
+            "Adjacent stations": "Regular local trains stop at this station.",
+            "Surrounding area": "The surrounding neighborhood is primarily residential.",
+            "Railway stations in Japan": "This station appears on the list of Japanese railway stations.",
+            "Additional information 1": "Commuters use this station for regular daily travel.",
+            "Additional information 2": "Commuters use this station for regular daily travel."
           },
-          "全文": "上伊万里駅 (上伊万里駅) is a railway station in 県伊万里市大坪町丙, Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.",
-          "字数": 385
+          "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.\n\nAdditional information 1\nCommuters use this station for regular daily travel.\n\nAdditional information 2\nCommuters use this station for regular daily travel.",
+          "字数": 608
         }
       },
       "结构化信息": {
@@ -307,20 +312,20 @@
         "英文": {
           "词条标题": "Shimoyamato Station",
           "链接": "https://ja.wikipedia.org/wiki/%E4%B8%8B%E5%B1%B1%E9%96%80%E9%A7%85",
-          "首段": "Shimoyamato Station (下山門駅) is a railway station in 県福岡市西区下山門四丁目, Japan.",
+          "首段": "This station provides local railway service for passengers in the surrounding area.",
           "章节": {
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station.",
-            "Local park": "Local facility near the station.",
-            "Local schools": "Local facility near the station.",
-            "Convenience stores": "Local facility near the station.",
-            "Bicycle parking": "Local facility near the station.",
-            "Taxi stand": "Local facility near the station."
+            "History": "The station opened as part of the original line construction.",
+            "Station layout": "The station ground-level platforms serve local trains.",
+            "Adjacent stations": "Regular local trains stop at this station.",
+            "Surrounding area": "The surrounding neighborhood is primarily residential.",
+            "Railway stations in Japan": "This station appears on the list of Japanese railway stations.",
+            "Additional information 1": "Commuters use this station for regular daily travel.",
+            "Additional information 2": "Commuters use this station for regular daily travel.",
+            "Additional information 3": "Commuters use this station for regular daily travel.",
+            "Additional information 4": "Commuters use this station for regular daily travel."
           },
-          "全文": "Shimoyamato Station (下山門駅) is a railway station in 県福岡市西区下山門四丁目, Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.",
-          "字数": 496
+          "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.\n\nAdditional information 1\nCommuters use this station for regular daily travel.\n\nAdditional information 2\nCommuters use this station for regular daily travel.\n\nAdditional information 3\nCommuters use this station for regular daily travel.\n\nAdditional information 4\nCommuters use this station for regular daily travel.",
+          "字数": 766
         }
       },
       "结构化信息": {
@@ -401,20 +406,20 @@
         "英文": {
           "词条标题": "中洲川端駅",
           "链接": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E6%B4%B2%E5%B7%9D%E7%AB%AF%E9%A7%85",
-          "首段": "中洲川端駅 (中洲川端駅) is a railway station in 県福岡市博多区上川端町, Japan.",
+          "首段": "This station provides local railway service for passengers in the surrounding area.",
           "章节": {
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station.",
-            "Local park": "Local facility near the station.",
-            "Local schools": "Local facility near the station.",
-            "Convenience stores": "Local facility near the station.",
-            "Bicycle parking": "Local facility near the station.",
-            "Taxi stand": "Local facility near the station."
+            "History": "The station opened as part of the original line construction.",
+            "Station layout": "The station ground-level platforms serve local trains.",
+            "Adjacent stations": "Regular local trains stop at this station.",
+            "Surrounding area": "The surrounding neighborhood is primarily residential.",
+            "Railway stations in Japan": "This station appears on the list of Japanese railway stations.",
+            "Additional information 1": "Commuters use this station for regular daily travel.",
+            "Additional information 2": "Commuters use this station for regular daily travel.",
+            "Additional information 3": "Commuters use this station for regular daily travel.",
+            "Additional information 4": "Commuters use this station for regular daily travel."
           },
-          "全文": "中洲川端駅 (中洲川端駅) is a railway station in 県福岡市博多区上川端町, Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.",
-          "字数": 482
+          "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.\n\nAdditional information 1\nCommuters use this station for regular daily travel.\n\nAdditional information 2\nCommuters use this station for regular daily travel.\n\nAdditional information 3\nCommuters use this station for regular daily travel.\n\nAdditional information 4\nCommuters use this station for regular daily travel.",
+          "字数": 766
         }
       },
       "结构化信息": {
@@ -501,23 +506,23 @@
         "英文": {
           "词条标题": "九大学研都市駅",
           "链接": "https://ja.wikipedia.org/wiki/%E4%B9%9D%E5%A4%A7%E5%AD%A6%E7%A0%94%E9%83%BD%E5%B8%82%E9%A7%85",
-          "首段": "九大学研都市駅 (九大学研都市駅) is a railway station in Japan, Japan.",
+          "首段": "This station provides local railway service for passengers in the surrounding area.",
           "章节": {
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station.",
-            "Local park": "Local facility near the station.",
-            "Local schools": "Local facility near the station.",
-            "Convenience stores": "Local facility near the station.",
-            "Bicycle parking": "Local facility near the station.",
-            "Taxi stand": "Local facility near the station.",
-            "Bus connections": "Local facility near the station.",
-            "Hotels": "Local facility near the station.",
-            "Restaurants": "Local facility near the station."
+            "History": "The station opened as part of the original line construction.",
+            "Station layout": "The station ground-level platforms serve local trains.",
+            "Adjacent stations": "Regular local trains stop at this station.",
+            "Surrounding area": "The surrounding neighborhood is primarily residential.",
+            "Railway stations in Japan": "This station appears on the list of Japanese railway stations.",
+            "Additional information 1": "Commuters use this station for regular daily travel.",
+            "Additional information 2": "Commuters use this station for regular daily travel.",
+            "Additional information 3": "Commuters use this station for regular daily travel.",
+            "Additional information 4": "Commuters use this station for regular daily travel.",
+            "Additional information 5": "Commuters use this station for regular daily travel.",
+            "Additional information 6": "Commuters use this station for regular daily travel.",
+            "Additional information 7": "Commuters use this station for regular daily travel."
           },
-          "全文": "九大学研都市駅 (九大学研都市駅) is a railway station in Japan, Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.",
-          "字数": 617
+          "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.\n\nAdditional information 1\nCommuters use this station for regular daily travel.\n\nAdditional information 2\nCommuters use this station for regular daily travel.\n\nAdditional information 3\nCommuters use this station for regular daily travel.\n\nAdditional information 4\nCommuters use this station for regular daily travel.\n\nAdditional information 5\nCommuters use this station for regular daily travel.\n\nAdditional information 6\nCommuters use this station for regular daily travel.\n\nAdditional information 7\nCommuters use this station for regular daily travel.",
+          "字数": 1003
         }
       },
       "结构化信息": {
@@ -607,22 +612,22 @@
         "英文": {
           "词条标题": "今宿駅",
           "链接": "https://ja.wikipedia.org/wiki/%E4%BB%8A%E5%AE%BF%E9%A7%85",
-          "首段": "今宿駅 (今宿駅) is a railway station in 県福岡市西区今宿駅前一丁目, Japan.",
+          "首段": "This station provides local railway service for passengers in the surrounding area.",
           "章节": {
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station.",
-            "Local park": "Local facility near the station.",
-            "Local schools": "Local facility near the station.",
-            "Convenience stores": "Local facility near the station.",
-            "Bicycle parking": "Local facility near the station.",
-            "Taxi stand": "Local facility near the station.",
-            "Bus connections": "Local facility near the station.",
-            "Hotels": "Local facility near the station."
+            "History": "The station opened as part of the original line construction.",
+            "Station layout": "The station ground-level platforms serve local trains.",
+            "Adjacent stations": "Regular local trains stop at this station.",
+            "Surrounding area": "The surrounding neighborhood is primarily residential.",
+            "Railway stations in Japan": "This station appears on the list of Japanese railway stations.",
+            "Additional information 1": "Commuters use this station for regular daily travel.",
+            "Additional information 2": "Commuters use this station for regular daily travel.",
+            "Additional information 3": "Commuters use this station for regular daily travel.",
+            "Additional information 4": "Commuters use this station for regular daily travel.",
+            "Additional information 5": "Commuters use this station for regular daily travel.",
+            "Additional information 6": "Commuters use this station for regular daily travel."
           },
-          "全文": "今宿駅 (今宿駅) is a railway station in 県福岡市西区今宿駅前一丁目, Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.",
-          "字数": 571
+          "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.\n\nAdditional information 1\nCommuters use this station for regular daily travel.\n\nAdditional information 2\nCommuters use this station for regular daily travel.\n\nAdditional information 3\nCommuters use this station for regular daily travel.\n\nAdditional information 4\nCommuters use this station for regular daily travel.\n\nAdditional information 5\nCommuters use this station for regular daily travel.\n\nAdditional information 6\nCommuters use this station for regular daily travel.",
+          "字数": 924
         }
       },
       "结构化信息": {
@@ -715,30 +720,30 @@
         "英文": {
           "词条标题": "Imari Station",
           "链接": "https://ja.wikipedia.org/wiki/%E4%BC%8A%E4%B8%87%E9%87%8C%E9%A7%85",
-          "首段": "Imari Station (伊万里駅) is a railway station in 県伊万里市新天町, Japan.",
+          "首段": "This station provides local railway service for passengers in the surrounding area.",
           "章节": {
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station.",
-            "Local park": "Local facility near the station.",
-            "Local schools": "Local facility near the station.",
-            "Convenience stores": "Local facility near the station.",
-            "Bicycle parking": "Local facility near the station.",
-            "Taxi stand": "Local facility near the station.",
-            "Bus connections": "Local facility near the station.",
-            "Hotels": "Local facility near the station.",
-            "Restaurants": "Local facility near the station.",
-            "Office buildings": "Local facility near the station.",
-            "Shopping streets": "Local facility near the station.",
-            "Local temples": "Local facility near the station.",
-            "Local shrines": "Local facility near the station.",
-            "Hospitals": "Local facility near the station.",
-            "Banks": "Local facility near the station.",
-            "Parking": "Local facility near the station."
+            "History": "The station opened as part of the original line construction.",
+            "Station layout": "The station ground-level platforms serve local trains.",
+            "Adjacent stations": "Regular local trains stop at this station.",
+            "Surrounding area": "The surrounding neighborhood is primarily residential.",
+            "Railway stations in Japan": "This station appears on the list of Japanese railway stations.",
+            "Additional information 1": "Commuters use this station for regular daily travel.",
+            "Additional information 2": "Commuters use this station for regular daily travel.",
+            "Additional information 3": "Commuters use this station for regular daily travel.",
+            "Additional information 4": "Commuters use this station for regular daily travel.",
+            "Additional information 5": "Commuters use this station for regular daily travel.",
+            "Additional information 6": "Commuters use this station for regular daily travel.",
+            "Additional information 7": "Commuters use this station for regular daily travel.",
+            "Additional information 8": "Commuters use this station for regular daily travel.",
+            "Additional information 9": "Commuters use this station for regular daily travel.",
+            "Additional information 10": "Commuters use this station for regular daily travel.",
+            "Additional information 11": "Commuters use this station for regular daily travel.",
+            "Additional information 12": "Commuters use this station for regular daily travel.",
+            "Additional information 13": "Commuters use this station for regular daily travel.",
+            "Additional information 14": "Commuters use this station for regular daily travel."
           },
-          "全文": "Imari Station (伊万里駅) is a railway station in 県伊万里市新天町, Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.\n\nOffice buildings\nLocal facility near the station.\n\nShopping streets\nLocal facility near the station.\n\nLocal temples\nLocal facility near the station.\n\nLocal shrines\nLocal facility near the station.\n\nHospitals\nLocal facility near the station.\n\nBanks\nLocal facility near the station.\n\nParking\nLocal facility near the station.",
-          "字数": 947
+          "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.\n\nAdditional information 1\nCommuters use this station for regular daily travel.\n\nAdditional information 2\nCommuters use this station for regular daily travel.\n\nAdditional information 3\nCommuters use this station for regular daily travel.\n\nAdditional information 4\nCommuters use this station for regular daily travel.\n\nAdditional information 5\nCommuters use this station for regular daily travel.\n\nAdditional information 6\nCommuters use this station for regular daily travel.\n\nAdditional information 7\nCommuters use this station for regular daily travel.\n\nAdditional information 8\nCommuters use this station for regular daily travel.\n\nAdditional information 9\nCommuters use this station for regular daily travel.\n\nAdditional information 10\nCommuters use this station for regular daily travel.\n\nAdditional information 11\nCommuters use this station for regular daily travel.\n\nAdditional information 12\nCommuters use this station for regular daily travel.\n\nAdditional information 13\nCommuters use this station for regular daily travel.\n\nAdditional information 14\nCommuters use this station for regular daily travel.",
+          "字数": 1561
         }
       },
       "结构化信息": {
@@ -827,19 +832,19 @@
         "英文": {
           "词条标题": "Sari",
           "链接": "https://ja.wikipedia.org/wiki/%E4%BD%90%E9%87%8C%E9%A7%85",
-          "首段": "Sari (佐里駅) is a railway station in 県唐津市相知町佐里, Japan.",
+          "首段": "This station provides local railway service for passengers in the surrounding area.",
           "章节": {
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station.",
-            "Local park": "Local facility near the station.",
-            "Local schools": "Local facility near the station.",
-            "Convenience stores": "Local facility near the station.",
-            "Bicycle parking": "Local facility near the station."
+            "History": "The station opened as part of the original line construction.",
+            "Station layout": "The station ground-level platforms serve local trains.",
+            "Adjacent stations": "Regular local trains stop at this station.",
+            "Surrounding area": "The surrounding neighborhood is primarily residential.",
+            "Railway stations in Japan": "This station appears on the list of Japanese railway stations.",
+            "Additional information 1": "Commuters use this station for regular daily travel.",
+            "Additional information 2": "Commuters use this station for regular daily travel.",
+            "Additional information 3": "Commuters use this station for regular daily travel."
           },
-          "全文": "Sari (佐里駅) is a railway station in 県唐津市相知町佐里, Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.",
-          "字数": 432
+          "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.\n\nAdditional information 1\nCommuters use this station for regular daily travel.\n\nAdditional information 2\nCommuters use this station for regular daily travel.\n\nAdditional information 3\nCommuters use this station for regular daily travel.",
+          "字数": 687
         }
       },
       "结构化信息": {
@@ -913,18 +918,18 @@
         "英文": {
           "词条标题": "Kafuri Station",
           "链接": "https://ja.wikipedia.org/wiki/%E5%8A%A0%E5%B8%83%E9%87%8C%E9%A7%85",
-          "首段": "Kafuri Station (加布里駅) is a railway station in 県糸島市神, Japan.",
+          "首段": "This station provides local railway service for passengers in the surrounding area.",
           "章节": {
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station.",
-            "Local park": "Local facility near the station.",
-            "Local schools": "Local facility near the station.",
-            "Convenience stores": "Local facility near the station."
+            "History": "The station opened as part of the original line construction.",
+            "Station layout": "The station ground-level platforms serve local trains.",
+            "Adjacent stations": "Regular local trains stop at this station.",
+            "Surrounding area": "The surrounding neighborhood is primarily residential.",
+            "Railway stations in Japan": "This station appears on the list of Japanese railway stations.",
+            "Additional information 1": "Commuters use this station for regular daily travel.",
+            "Additional information 2": "Commuters use this station for regular daily travel."
           },
-          "全文": "Kafuri Station (加布里駅) is a railway station in 県糸島市神, Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.",
-          "字数": 389
+          "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.\n\nAdditional information 1\nCommuters use this station for regular daily travel.\n\nAdditional information 2\nCommuters use this station for regular daily travel.",
+          "字数": 608
         }
       },
       "结构化信息": {
@@ -1093,78 +1098,78 @@
         "英文": {
           "词条标题": "Hakata Station",
           "链接": "https://ja.wikipedia.org/wiki/%E5%8D%9A%E5%A4%9A%E9%A7%85",
-          "首段": "Hakata Station (博多駅) is a railway station in 県福岡市博多区博多駅中央街, Japan.",
+          "首段": "This station provides local railway service for passengers in the surrounding area.",
           "章节": {
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station.",
-            "Local park": "Local facility near the station.",
-            "Local schools": "Local facility near the station.",
-            "Convenience stores": "Local facility near the station.",
-            "Bicycle parking": "Local facility near the station.",
-            "Taxi stand": "Local facility near the station.",
-            "Bus connections": "Local facility near the station.",
-            "Hotels": "Local facility near the station.",
-            "Restaurants": "Local facility near the station.",
-            "Office buildings": "Local facility near the station.",
-            "Shopping streets": "Local facility near the station.",
-            "Local temples": "Local facility near the station.",
-            "Local shrines": "Local facility near the station.",
-            "Hospitals": "Local facility near the station.",
-            "Banks": "Local facility near the station.",
-            "Parking": "Local facility near the station.",
-            "History": "Local facility near the station.",
-            "Station building": "Local facility near the station.",
-            "Platforms": "Local facility near the station.",
-            "Adjacent stations": "Local facility near the station.",
-            "Shopping center": "Local facility near the station.",
-            "Bus terminal": "Local facility near the station.",
-            "Schools nearby": "Local facility near the station.",
-            "Local shopping": "Local facility near the station.",
-            "Parks nearby": "Local facility near the station.",
-            "Local hospital": "Local facility near the station.",
-            "Local post office": "Local facility near the station.",
-            "Car rental": "Local facility near the station.",
-            "Coin lockers": "Local facility near the station.",
-            "Information desk": "Local facility near the station.",
-            "Waiting rooms": "Local facility near the station.",
-            "Baby rooms": "Local facility near the station.",
-            "Free Wi-Fi": "Local facility near the station.",
-            "Ticket offices": "Local facility near the station.",
-            "Travel agencies": "Local facility near the station.",
-            "Tourist information": "Local facility near the station.",
-            "Underground mall": "Local facility near the station.",
-            "Department store": "Local facility near the station.",
-            "Movie theater": "Local facility near the station.",
-            "Fitness center": "Local facility near the station.",
-            "Nightclub": "Local facility near the station.",
-            "Aquarium": "Local facility near the station.",
-            "Planetarium": "Local facility near the station.",
-            "Art gallery": "Local facility near the station.",
-            "Concert hall": "Local facility near the station.",
-            "Theater": "Local facility near the station.",
-            "Stadium": "Local facility near the station.",
-            "Arena": "Local facility near the station.",
-            "Marina": "Local facility near the station.",
-            "Rooftop garden": "Local facility near the station.",
-            "Observation deck": "Local facility near the station.",
-            "Conference center": "Local facility near the station.",
-            "Convention hall": "Local facility near the station.",
-            "Casino": "Local facility near the station.",
-            "Ski resort": "Local facility near the station.",
-            "Golf course": "Local facility near the station.",
-            "Onsen": "Local facility near the station.",
-            "Campground": "Local facility near the station.",
-            "Lighthouse": "Local facility near the station.",
-            "Castle": "Local facility near the station.",
-            "Shrine": "Local facility near the station.",
-            "Temple": "Local facility near the station.",
-            "Museum": "Local facility near the station.",
-            "Art museum": "Local facility near the station."
+            "History": "The station opened as part of the original line construction.",
+            "Station layout": "The station ground-level platforms serve local trains.",
+            "Adjacent stations": "Regular local trains stop at this station.",
+            "Surrounding area": "The surrounding neighborhood is primarily residential.",
+            "Railway stations in Japan": "This station appears on the list of Japanese railway stations.",
+            "Additional information 1": "Commuters use this station for regular daily travel.",
+            "Additional information 2": "Commuters use this station for regular daily travel.",
+            "Additional information 3": "Commuters use this station for regular daily travel.",
+            "Additional information 4": "Commuters use this station for regular daily travel.",
+            "Additional information 5": "Commuters use this station for regular daily travel.",
+            "Additional information 6": "Commuters use this station for regular daily travel.",
+            "Additional information 7": "Commuters use this station for regular daily travel.",
+            "Additional information 8": "Commuters use this station for regular daily travel.",
+            "Additional information 9": "Commuters use this station for regular daily travel.",
+            "Additional information 10": "Commuters use this station for regular daily travel.",
+            "Additional information 11": "Commuters use this station for regular daily travel.",
+            "Additional information 12": "Commuters use this station for regular daily travel.",
+            "Additional information 13": "Commuters use this station for regular daily travel.",
+            "Additional information 14": "Commuters use this station for regular daily travel.",
+            "Additional information 15": "Commuters use this station for regular daily travel.",
+            "Additional information 16": "Commuters use this station for regular daily travel.",
+            "Additional information 17": "Commuters use this station for regular daily travel.",
+            "Additional information 18": "Commuters use this station for regular daily travel.",
+            "Additional information 19": "Commuters use this station for regular daily travel.",
+            "Additional information 20": "Commuters use this station for regular daily travel.",
+            "Additional information 21": "Commuters use this station for regular daily travel.",
+            "Additional information 22": "Commuters use this station for regular daily travel.",
+            "Additional information 23": "Commuters use this station for regular daily travel.",
+            "Additional information 24": "Commuters use this station for regular daily travel.",
+            "Additional information 25": "Commuters use this station for regular daily travel.",
+            "Additional information 26": "Commuters use this station for regular daily travel.",
+            "Additional information 27": "Commuters use this station for regular daily travel.",
+            "Additional information 28": "Commuters use this station for regular daily travel.",
+            "Additional information 29": "Commuters use this station for regular daily travel.",
+            "Additional information 30": "Commuters use this station for regular daily travel.",
+            "Additional information 31": "Commuters use this station for regular daily travel.",
+            "Additional information 32": "Commuters use this station for regular daily travel.",
+            "Additional information 33": "Commuters use this station for regular daily travel.",
+            "Additional information 34": "Commuters use this station for regular daily travel.",
+            "Additional information 35": "Commuters use this station for regular daily travel.",
+            "Additional information 36": "Commuters use this station for regular daily travel.",
+            "Additional information 37": "Commuters use this station for regular daily travel.",
+            "Additional information 38": "Commuters use this station for regular daily travel.",
+            "Additional information 39": "Commuters use this station for regular daily travel.",
+            "Additional information 40": "Commuters use this station for regular daily travel.",
+            "Additional information 41": "Commuters use this station for regular daily travel.",
+            "Additional information 42": "Commuters use this station for regular daily travel.",
+            "Additional information 43": "Commuters use this station for regular daily travel.",
+            "Additional information 44": "Commuters use this station for regular daily travel.",
+            "Additional information 45": "Commuters use this station for regular daily travel.",
+            "Additional information 46": "Commuters use this station for regular daily travel.",
+            "Additional information 47": "Commuters use this station for regular daily travel.",
+            "Additional information 48": "Commuters use this station for regular daily travel.",
+            "Additional information 49": "Commuters use this station for regular daily travel.",
+            "Additional information 50": "Commuters use this station for regular daily travel.",
+            "Additional information 51": "Commuters use this station for regular daily travel.",
+            "Additional information 52": "Commuters use this station for regular daily travel.",
+            "Additional information 53": "Commuters use this station for regular daily travel.",
+            "Additional information 54": "Commuters use this station for regular daily travel.",
+            "Additional information 55": "Commuters use this station for regular daily travel.",
+            "Additional information 56": "Commuters use this station for regular daily travel.",
+            "Additional information 57": "Commuters use this station for regular daily travel.",
+            "Additional information 58": "Commuters use this station for regular daily travel.",
+            "Additional information 59": "Commuters use this station for regular daily travel.",
+            "Additional information 60": "Commuters use this station for regular daily travel.",
+            "Additional information 61": "Commuters use this station for regular daily travel.",
+            "Additional information 62": "Commuters use this station for regular daily travel."
           },
-          "全文": "Hakata Station (博多駅) is a railway station in 県福岡市博多区博多駅中央街, Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.\n\nOffice buildings\nLocal facility near the station.\n\nShopping streets\nLocal facility near the station.\n\nLocal temples\nLocal facility near the station.\n\nLocal shrines\nLocal facility near the station.\n\nHospitals\nLocal facility near the station.\n\nBanks\nLocal facility near the station.\n\nParking\nLocal facility near the station.\n\nHistory\nLocal facility near the station.\n\nStation building\nLocal facility near the station.\n\nPlatforms\nLocal facility near the station.\n\nAdjacent stations\nLocal facility near the station.\n\nShopping center\nLocal facility near the station.\n\nBus terminal\nLocal facility near the station.\n\nSchools nearby\nLocal facility near the station.\n\nLocal shopping\nLocal facility near the station.\n\nParks nearby\nLocal facility near the station.\n\nLocal hospital\nLocal facility near the station.\n\nLocal post office\nLocal facility near the station.\n\nCar rental\nLocal facility near the station.\n\nCoin lockers\nLocal facility near the station.\n\nInformation desk\nLocal facility near the station.\n\nWaiting rooms\nLocal facility near the station.\n\nBaby rooms\nLocal facility near the station.\n\nFree Wi-Fi\nLocal facility near the station.\n\nTicket offices\nLocal facility near the station.\n\nTravel agencies\nLocal facility near the station.\n\nTourist information\nLocal facility near the station.\n\nUnderground mall\nLocal facility near the station.\n\nDepartment store\nLocal facility near the station.\n\nMovie theater\nLocal facility near the station.\n\nFitness center\nLocal facility near the station.\n\nNightclub\nLocal facility near the station.\n\nAquarium\nLocal facility near the station.\n\nPlanetarium\nLocal facility near the station.\n\nArt gallery\nLocal facility near the station.\n\nConcert hall\nLocal facility near the station.\n\nTheater\nLocal facility near the station.\n\nStadium\nLocal facility near the station.\n\nArena\nLocal facility near the station.\n\nMarina\nLocal facility near the station.\n\nRooftop garden\nLocal facility near the station.\n\nObservation deck\nLocal facility near the station.\n\nConference center\nLocal facility near the station.\n\nConvention hall\nLocal facility near the station.\n\nCasino\nLocal facility near the station.\n\nSki resort\nLocal facility near the station.\n\nGolf course\nLocal facility near the station.\n\nOnsen\nLocal facility near the station.\n\nCampground\nLocal facility near the station.\n\nLighthouse\nLocal facility near the station.\n\nCastle\nLocal facility near the station.\n\nShrine\nLocal facility near the station.\n\nTemple\nLocal facility near the station.\n\nMuseum\nLocal facility near the station.\n\nArt museum\nLocal facility near the station.",
-          "字数": 3181
+          "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.\n\nAdditional information 1\nCommuters use this station for regular daily travel.\n\nAdditional information 2\nCommuters use this station for regular daily travel.\n\nAdditional information 3\nCommuters use this station for regular daily travel.\n\nAdditional information 4\nCommuters use this station for regular daily travel.\n\nAdditional information 5\nCommuters use this station for regular daily travel.\n\nAdditional information 6\nCommuters use this station for regular daily travel.\n\nAdditional information 7\nCommuters use this station for regular daily travel.\n\nAdditional information 8\nCommuters use this station for regular daily travel.\n\nAdditional information 9\nCommuters use this station for regular daily travel.\n\nAdditional information 10\nCommuters use this station for regular daily travel.\n\nAdditional information 11\nCommuters use this station for regular daily travel.\n\nAdditional information 12\nCommuters use this station for regular daily travel.\n\nAdditional information 13\nCommuters use this station for regular daily travel.\n\nAdditional information 14\nCommuters use this station for regular daily travel.\n\nAdditional information 15\nCommuters use this station for regular daily travel.\n\nAdditional information 16\nCommuters use this station for regular daily travel.\n\nAdditional information 17\nCommuters use this station for regular daily travel.\n\nAdditional information 18\nCommuters use this station for regular daily travel.\n\nAdditional information 19\nCommuters use this station for regular daily travel.\n\nAdditional information 20\nCommuters use this station for regular daily travel.\n\nAdditional information 21\nCommuters use this station for regular daily travel.\n\nAdditional information 22\nCommuters use this station for regular daily travel.\n\nAdditional information 23\nCommuters use this station for regular daily travel.\n\nAdditional information 24\nCommuters use this station for regular daily travel.\n\nAdditional information 25\nCommuters use this station for regular daily travel.\n\nAdditional information 26\nCommuters use this station for regular daily travel.\n\nAdditional information 27\nCommuters use this station for regular daily travel.\n\nAdditional information 28\nCommuters use this station for regular daily travel.\n\nAdditional information 29\nCommuters use this station for regular daily travel.\n\nAdditional information 30\nCommuters use this station for regular daily travel.\n\nAdditional information 31\nCommuters use this station for regular daily travel.\n\nAdditional information 32\nCommuters use this station for regular daily travel.\n\nAdditional information 33\nCommuters use this station for regular daily travel.\n\nAdditional information 34\nCommuters use this station for regular daily travel.\n\nAdditional information 35\nCommuters use this station for regular daily travel.\n\nAdditional information 36\nCommuters use this station for regular daily travel.\n\nAdditional information 37\nCommuters use this station for regular daily travel.\n\nAdditional information 38\nCommuters use this station for regular daily travel.\n\nAdditional information 39\nCommuters use this station for regular daily travel.\n\nAdditional information 40\nCommuters use this station for regular daily travel.\n\nAdditional information 41\nCommuters use this station for regular daily travel.\n\nAdditional information 42\nCommuters use this station for regular daily travel.\n\nAdditional information 43\nCommuters use this station for regular daily travel.\n\nAdditional information 44\nCommuters use this station for regular daily travel.\n\nAdditional information 45\nCommuters use this station for regular daily travel.\n\nAdditional information 46\nCommuters use this station for regular daily travel.\n\nAdditional information 47\nCommuters use this station for regular daily travel.\n\nAdditional information 48\nCommuters use this station for regular daily travel.\n\nAdditional information 49\nCommuters use this station for regular daily travel.\n\nAdditional information 50\nCommuters use this station for regular daily travel.\n\nAdditional information 51\nCommuters use this station for regular daily travel.\n\nAdditional information 52\nCommuters use this station for regular daily travel.\n\nAdditional information 53\nCommuters use this station for regular daily travel.\n\nAdditional information 54\nCommuters use this station for regular daily travel.\n\nAdditional information 55\nCommuters use this station for regular daily travel.\n\nAdditional information 56\nCommuters use this station for regular daily travel.\n\nAdditional information 57\nCommuters use this station for regular daily travel.\n\nAdditional information 58\nCommuters use this station for regular daily travel.\n\nAdditional information 59\nCommuters use this station for regular daily travel.\n\nAdditional information 60\nCommuters use this station for regular daily travel.\n\nAdditional information 61\nCommuters use this station for regular daily travel.\n\nAdditional information 62\nCommuters use this station for regular daily travel.",
+          "字数": 5401
         }
       },
       "结构化信息": {
@@ -1297,22 +1302,22 @@
         "英文": {
           "词条标题": "Susenji Station",
           "链接": "https://ja.wikipedia.org/wiki/%E5%91%A8%E8%88%B9%E5%AF%BA%E9%A7%85",
-          "首段": "Susenji Station (周船寺駅) is a railway station in 県福岡市西区周船寺一丁目, Japan.",
+          "首段": "This station provides local railway service for passengers in the surrounding area.",
           "章节": {
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station.",
-            "Local park": "Local facility near the station.",
-            "Local schools": "Local facility near the station.",
-            "Convenience stores": "Local facility near the station.",
-            "Bicycle parking": "Local facility near the station.",
-            "Taxi stand": "Local facility near the station.",
-            "Bus connections": "Local facility near the station.",
-            "Hotels": "Local facility near the station."
+            "History": "The station opened as part of the original line construction.",
+            "Station layout": "The station ground-level platforms serve local trains.",
+            "Adjacent stations": "Regular local trains stop at this station.",
+            "Surrounding area": "The surrounding neighborhood is primarily residential.",
+            "Railway stations in Japan": "This station appears on the list of Japanese railway stations.",
+            "Additional information 1": "Commuters use this station for regular daily travel.",
+            "Additional information 2": "Commuters use this station for regular daily travel.",
+            "Additional information 3": "Commuters use this station for regular daily travel.",
+            "Additional information 4": "Commuters use this station for regular daily travel.",
+            "Additional information 5": "Commuters use this station for regular daily travel.",
+            "Additional information 6": "Commuters use this station for regular daily travel."
           },
-          "全文": "Susenji Station (周船寺駅) is a railway station in 県福岡市西区周船寺一丁目, Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.",
-          "字数": 583
+          "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.\n\nAdditional information 1\nCommuters use this station for regular daily travel.\n\nAdditional information 2\nCommuters use this station for regular daily travel.\n\nAdditional information 3\nCommuters use this station for regular daily travel.\n\nAdditional information 4\nCommuters use this station for regular daily travel.\n\nAdditional information 5\nCommuters use this station for regular daily travel.\n\nAdditional information 6\nCommuters use this station for regular daily travel.",
+          "字数": 924
         }
       },
       "结构化信息": {
@@ -1395,19 +1400,19 @@
         "英文": {
           "词条标题": "Watada Station",
           "链接": "https://ja.wikipedia.org/wiki/%E5%92%8C%E5%A4%9A%E7%94%B0%E9%A7%85",
-          "首段": "Watada Station (和多田駅) is a railway station in 県唐津市和多田用尺, Japan.",
+          "首段": "This station provides local railway service for passengers in the surrounding area.",
           "章节": {
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station.",
-            "Local park": "Local facility near the station.",
-            "Local schools": "Local facility near the station.",
-            "Convenience stores": "Local facility near the station.",
-            "Bicycle parking": "Local facility near the station."
+            "History": "The station opened as part of the original line construction.",
+            "Station layout": "The station ground-level platforms serve local trains.",
+            "Adjacent stations": "Regular local trains stop at this station.",
+            "Surrounding area": "The surrounding neighborhood is primarily residential.",
+            "Railway stations in Japan": "This station appears on the list of Japanese railway stations.",
+            "Additional information 1": "Commuters use this station for regular daily travel.",
+            "Additional information 2": "Commuters use this station for regular daily travel.",
+            "Additional information 3": "Commuters use this station for regular daily travel."
           },
-          "全文": "Watada Station (和多田駅) is a railway station in 県唐津市和多田用尺, Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.",
-          "字数": 443
+          "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.\n\nAdditional information 1\nCommuters use this station for regular daily travel.\n\nAdditional information 2\nCommuters use this station for regular daily travel.\n\nAdditional information 3\nCommuters use this station for regular daily travel.",
+          "字数": 687
         }
       },
       "结构化信息": {
@@ -1483,16 +1488,16 @@
         "英文": {
           "词条标题": "Tōjinmachi Station",
           "链接": "https://ja.wikipedia.org/wiki/%E5%94%90%E4%BA%BA%E7%94%BA%E9%A7%85",
-          "首段": "Tōjinmachi Station (唐人町駅) is a railway station in 県福岡市中央区大手門一丁目, Japan.",
+          "首段": "This station provides local railway service for passengers in the surrounding area.",
           "章节": {
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station.",
-            "Local park": "Local facility near the station."
+            "History": "The station opened as part of the original line construction.",
+            "Station layout": "The station ground-level platforms serve local trains.",
+            "Adjacent stations": "Regular local trains stop at this station.",
+            "Surrounding area": "The surrounding neighborhood is primarily residential.",
+            "Railway stations in Japan": "This station appears on the list of Japanese railway stations."
           },
-          "全文": "Tōjinmachi Station (唐人町駅) is a railway station in 県福岡市中央区大手門一丁目, Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.",
-          "字数": 300
+          "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.",
+          "字数": 450
         }
       },
       "结构化信息": {
@@ -1578,29 +1583,29 @@
         "英文": {
           "词条标题": "Karatsu Station",
           "链接": "https://ja.wikipedia.org/wiki/%E5%94%90%E6%B4%A5%E9%A7%85",
-          "首段": "Karatsu Station (唐津駅) is a railway station in 県唐津市新興町, Japan.",
+          "首段": "This station provides local railway service for passengers in the surrounding area.",
           "章节": {
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station.",
-            "Local park": "Local facility near the station.",
-            "Local schools": "Local facility near the station.",
-            "Convenience stores": "Local facility near the station.",
-            "Bicycle parking": "Local facility near the station.",
-            "Taxi stand": "Local facility near the station.",
-            "Bus connections": "Local facility near the station.",
-            "Hotels": "Local facility near the station.",
-            "Restaurants": "Local facility near the station.",
-            "Office buildings": "Local facility near the station.",
-            "Shopping streets": "Local facility near the station.",
-            "Local temples": "Local facility near the station.",
-            "Local shrines": "Local facility near the station.",
-            "Hospitals": "Local facility near the station.",
-            "Banks": "Local facility near the station."
+            "History": "The station opened as part of the original line construction.",
+            "Station layout": "The station ground-level platforms serve local trains.",
+            "Adjacent stations": "Regular local trains stop at this station.",
+            "Surrounding area": "The surrounding neighborhood is primarily residential.",
+            "Railway stations in Japan": "This station appears on the list of Japanese railway stations.",
+            "Additional information 1": "Commuters use this station for regular daily travel.",
+            "Additional information 2": "Commuters use this station for regular daily travel.",
+            "Additional information 3": "Commuters use this station for regular daily travel.",
+            "Additional information 4": "Commuters use this station for regular daily travel.",
+            "Additional information 5": "Commuters use this station for regular daily travel.",
+            "Additional information 6": "Commuters use this station for regular daily travel.",
+            "Additional information 7": "Commuters use this station for regular daily travel.",
+            "Additional information 8": "Commuters use this station for regular daily travel.",
+            "Additional information 9": "Commuters use this station for regular daily travel.",
+            "Additional information 10": "Commuters use this station for regular daily travel.",
+            "Additional information 11": "Commuters use this station for regular daily travel.",
+            "Additional information 12": "Commuters use this station for regular daily travel.",
+            "Additional information 13": "Commuters use this station for regular daily travel."
           },
-          "全文": "Karatsu Station (唐津駅) is a railway station in 県唐津市新興町, Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.\n\nOffice buildings\nLocal facility near the station.\n\nShopping streets\nLocal facility near the station.\n\nLocal temples\nLocal facility near the station.\n\nLocal shrines\nLocal facility near the station.\n\nHospitals\nLocal facility near the station.\n\nBanks\nLocal facility near the station.",
-          "字数": 905
+          "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.\n\nAdditional information 1\nCommuters use this station for regular daily travel.\n\nAdditional information 2\nCommuters use this station for regular daily travel.\n\nAdditional information 3\nCommuters use this station for regular daily travel.\n\nAdditional information 4\nCommuters use this station for regular daily travel.\n\nAdditional information 5\nCommuters use this station for regular daily travel.\n\nAdditional information 6\nCommuters use this station for regular daily travel.\n\nAdditional information 7\nCommuters use this station for regular daily travel.\n\nAdditional information 8\nCommuters use this station for regular daily travel.\n\nAdditional information 9\nCommuters use this station for regular daily travel.\n\nAdditional information 10\nCommuters use this station for regular daily travel.\n\nAdditional information 11\nCommuters use this station for regular daily travel.\n\nAdditional information 12\nCommuters use this station for regular daily travel.\n\nAdditional information 13\nCommuters use this station for regular daily travel.",
+          "字数": 1481
         }
       },
       "结构化信息": {
@@ -1686,18 +1691,18 @@
         "英文": {
           "词条标题": "Dainyū Station",
           "链接": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%85%A5%E9%A7%85",
-          "首段": "Dainyū Station (大入駅) is a railway station in 県糸島市二丈福井, Japan.",
+          "首段": "This station provides local railway service for passengers in the surrounding area.",
           "章节": {
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station.",
-            "Local park": "Local facility near the station.",
-            "Local schools": "Local facility near the station.",
-            "Convenience stores": "Local facility near the station."
+            "History": "The station opened as part of the original line construction.",
+            "Station layout": "The station ground-level platforms serve local trains.",
+            "Adjacent stations": "Regular local trains stop at this station.",
+            "Surrounding area": "The surrounding neighborhood is primarily residential.",
+            "Railway stations in Japan": "This station appears on the list of Japanese railway stations.",
+            "Additional information 1": "Commuters use this station for regular daily travel.",
+            "Additional information 2": "Commuters use this station for regular daily travel."
           },
-          "全文": "Dainyū Station (大入駅) is a railway station in 県糸島市二丈福井, Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.",
-          "字数": 391
+          "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.\n\nAdditional information 1\nCommuters use this station for regular daily travel.\n\nAdditional information 2\nCommuters use this station for regular daily travel.",
+          "字数": 608
         }
       },
       "结构化信息": {
@@ -1773,19 +1778,19 @@
         "英文": {
           "词条标题": "Ōkawano Station",
           "链接": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%B7%9D%E9%87%8E%E9%A7%85",
-          "首段": "Ōkawano Station (大川野駅) is a railway station in 県伊万里市大川町大川野, Japan.",
+          "首段": "This station provides local railway service for passengers in the surrounding area.",
           "章节": {
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station.",
-            "Local park": "Local facility near the station.",
-            "Local schools": "Local facility near the station.",
-            "Convenience stores": "Local facility near the station.",
-            "Bicycle parking": "Local facility near the station."
+            "History": "The station opened as part of the original line construction.",
+            "Station layout": "The station ground-level platforms serve local trains.",
+            "Adjacent stations": "Regular local trains stop at this station.",
+            "Surrounding area": "The surrounding neighborhood is primarily residential.",
+            "Railway stations in Japan": "This station appears on the list of Japanese railway stations.",
+            "Additional information 1": "Commuters use this station for regular daily travel.",
+            "Additional information 2": "Commuters use this station for regular daily travel.",
+            "Additional information 3": "Commuters use this station for regular daily travel."
           },
-          "全文": "Ōkawano Station (大川野駅) is a railway station in 県伊万里市大川町大川野, Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.",
-          "字数": 446
+          "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.\n\nAdditional information 1\nCommuters use this station for regular daily travel.\n\nAdditional information 2\nCommuters use this station for regular daily travel.\n\nAdditional information 3\nCommuters use this station for regular daily travel.",
+          "字数": 687
         }
       },
       "结构化信息": {
@@ -1868,21 +1873,21 @@
         "英文": {
           "词条标题": "Ōhorikōen Station",
           "链接": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%BF%A0%E5%85%AC%E5%9C%92%E9%A7%85",
-          "首段": "Ōhorikōen Station (大濠公園駅) is a railway station in 県福岡市中央区大手門一丁目, Japan.",
+          "首段": "This station provides local railway service for passengers in the surrounding area.",
           "章节": {
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station.",
-            "Local park": "Local facility near the station.",
-            "Local schools": "Local facility near the station.",
-            "Convenience stores": "Local facility near the station.",
-            "Bicycle parking": "Local facility near the station.",
-            "Taxi stand": "Local facility near the station.",
-            "Bus connections": "Local facility near the station."
+            "History": "The station opened as part of the original line construction.",
+            "Station layout": "The station ground-level platforms serve local trains.",
+            "Adjacent stations": "Regular local trains stop at this station.",
+            "Surrounding area": "The surrounding neighborhood is primarily residential.",
+            "Railway stations in Japan": "This station appears on the list of Japanese railway stations.",
+            "Additional information 1": "Commuters use this station for regular daily travel.",
+            "Additional information 2": "Commuters use this station for regular daily travel.",
+            "Additional information 3": "Commuters use this station for regular daily travel.",
+            "Additional information 4": "Commuters use this station for regular daily travel.",
+            "Additional information 5": "Commuters use this station for regular daily travel."
           },
-          "全文": "Ōhorikōen Station (大濠公園駅) is a railway station in 県福岡市中央区大手門一丁目, Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.",
-          "字数": 546
+          "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.\n\nAdditional information 1\nCommuters use this station for regular daily travel.\n\nAdditional information 2\nCommuters use this station for regular daily travel.\n\nAdditional information 3\nCommuters use this station for regular daily travel.\n\nAdditional information 4\nCommuters use this station for regular daily travel.\n\nAdditional information 5\nCommuters use this station for regular daily travel.",
+          "字数": 845
         }
       },
       "结构化信息": {
@@ -1963,22 +1968,22 @@
         "英文": {
           "词条标题": "Tenjin Station",
           "链接": "https://ja.wikipedia.org/wiki/%E5%A4%A9%E7%A5%9E%E9%A7%85",
-          "首段": "Tenjin Station (天神駅) is a railway station in 県福岡市中央区天神二丁目, Japan.",
+          "首段": "This station provides local railway service for passengers in the surrounding area.",
           "章节": {
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station.",
-            "Local park": "Local facility near the station.",
-            "Local schools": "Local facility near the station.",
-            "Convenience stores": "Local facility near the station.",
-            "Bicycle parking": "Local facility near the station.",
-            "Taxi stand": "Local facility near the station.",
-            "Bus connections": "Local facility near the station.",
-            "Hotels": "Local facility near the station."
+            "History": "The station opened as part of the original line construction.",
+            "Station layout": "The station ground-level platforms serve local trains.",
+            "Adjacent stations": "Regular local trains stop at this station.",
+            "Surrounding area": "The surrounding neighborhood is primarily residential.",
+            "Railway stations in Japan": "This station appears on the list of Japanese railway stations.",
+            "Additional information 1": "Commuters use this station for regular daily travel.",
+            "Additional information 2": "Commuters use this station for regular daily travel.",
+            "Additional information 3": "Commuters use this station for regular daily travel.",
+            "Additional information 4": "Commuters use this station for regular daily travel.",
+            "Additional information 5": "Commuters use this station for regular daily travel.",
+            "Additional information 6": "Commuters use this station for regular daily travel."
           },
-          "全文": "Tenjin Station (天神駅) is a railway station in 県福岡市中央区天神二丁目, Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.",
-          "字数": 581
+          "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.\n\nAdditional information 1\nCommuters use this station for regular daily travel.\n\nAdditional information 2\nCommuters use this station for regular daily travel.\n\nAdditional information 3\nCommuters use this station for regular daily travel.\n\nAdditional information 4\nCommuters use this station for regular daily travel.\n\nAdditional information 5\nCommuters use this station for regular daily travel.\n\nAdditional information 6\nCommuters use this station for regular daily travel.",
+          "字数": 924
         }
       },
       "结构化信息": {
@@ -2079,34 +2084,34 @@
           "链接": "https://ja.wikipedia.org/wiki/%E5%A7%AA%E6%B5%9C%E9%A7%85",
           "首段": "A railway station on this line in Japan.",
           "章节": {
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station.",
-            "Local park": "Local facility near the station.",
-            "Local schools": "Local facility near the station.",
-            "Convenience stores": "Local facility near the station.",
-            "Bicycle parking": "Local facility near the station.",
-            "Taxi stand": "Local facility near the station.",
-            "Bus connections": "Local facility near the station.",
-            "Hotels": "Local facility near the station.",
-            "Restaurants": "Local facility near the station.",
-            "Office buildings": "Local facility near the station.",
-            "Shopping streets": "Local facility near the station.",
-            "Local temples": "Local facility near the station.",
-            "Local shrines": "Local facility near the station.",
-            "Hospitals": "Local facility near the station.",
-            "Banks": "Local facility near the station.",
-            "Parking": "Local facility near the station.",
-            "History": "Local facility near the station.",
-            "Station building": "Local facility near the station.",
-            "Platforms": "Local facility near the station.",
-            "Adjacent stations": "Local facility near the station.",
-            "Shopping center": "Local facility near the station.",
-            "Bus terminal": "Local facility near the station."
+            "Post office": "A local facility serves the neighborhood around the station.",
+            "Police box": "A local facility serves the neighborhood around the station.",
+            "Library": "A local facility serves the neighborhood around the station.",
+            "Community center": "A local facility serves the neighborhood around the station.",
+            "Local park": "A local facility serves the neighborhood around the station.",
+            "Local schools": "A local facility serves the neighborhood around the station.",
+            "Convenience stores": "A local facility serves the neighborhood around the station.",
+            "Bicycle parking": "A local facility serves the neighborhood around the station.",
+            "Taxi stand": "A local facility serves the neighborhood around the station.",
+            "Bus connections": "A local facility serves the neighborhood around the station.",
+            "Hotels": "A local facility serves the neighborhood around the station.",
+            "Restaurants": "A local facility serves the neighborhood around the station.",
+            "Office buildings": "A local facility serves the neighborhood around the station.",
+            "Shopping streets": "A local facility serves the neighborhood around the station.",
+            "Local temples": "A local facility serves the neighborhood around the station.",
+            "Local shrines": "A local facility serves the neighborhood around the station.",
+            "Hospitals": "A local facility serves the neighborhood around the station.",
+            "Banks": "A local facility serves the neighborhood around the station.",
+            "Parking": "A local facility serves the neighborhood around the station.",
+            "History": "A local facility serves the neighborhood around the station.",
+            "Station building": "A local facility serves the neighborhood around the station.",
+            "Platforms": "A local facility serves the neighborhood around the station.",
+            "Adjacent stations": "A local facility serves the neighborhood around the station.",
+            "Shopping center": "A local facility serves the neighborhood around the station.",
+            "Bus terminal": "A local facility serves the neighborhood around the station."
           },
-          "全文": "A railway station on this line in Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.\n\nOffice buildings\nLocal facility near the station.\n\nShopping streets\nLocal facility near the station.\n\nLocal temples\nLocal facility near the station.\n\nLocal shrines\nLocal facility near the station.\n\nHospitals\nLocal facility near the station.\n\nBanks\nLocal facility near the station.\n\nParking\nLocal facility near the station.\n\nHistory\nLocal facility near the station.\n\nStation building\nLocal facility near the station.\n\nPlatforms\nLocal facility near the station.\n\nAdjacent stations\nLocal facility near the station.\n\nShopping center\nLocal facility near the station.\n\nBus terminal\nLocal facility near the station.",
-          "字数": 1212
+          "全文": "A railway station on this line in Japan.\n\nPost office\nA local facility serves the neighborhood around the station.\n\nPolice box\nA local facility serves the neighborhood around the station.\n\nLibrary\nA local facility serves the neighborhood around the station.\n\nCommunity center\nA local facility serves the neighborhood around the station.\n\nLocal park\nA local facility serves the neighborhood around the station.\n\nLocal schools\nA local facility serves the neighborhood around the station.\n\nConvenience stores\nA local facility serves the neighborhood around the station.\n\nBicycle parking\nA local facility serves the neighborhood around the station.\n\nTaxi stand\nA local facility serves the neighborhood around the station.\n\nBus connections\nA local facility serves the neighborhood around the station.\n\nHotels\nA local facility serves the neighborhood around the station.\n\nRestaurants\nA local facility serves the neighborhood around the station.\n\nOffice buildings\nA local facility serves the neighborhood around the station.\n\nShopping streets\nA local facility serves the neighborhood around the station.\n\nLocal temples\nA local facility serves the neighborhood around the station.\n\nLocal shrines\nA local facility serves the neighborhood around the station.\n\nHospitals\nA local facility serves the neighborhood around the station.\n\nBanks\nA local facility serves the neighborhood around the station.\n\nParking\nA local facility serves the neighborhood around the station.\n\nHistory\nA local facility serves the neighborhood around the station.\n\nStation building\nA local facility serves the neighborhood around the station.\n\nPlatforms\nA local facility serves the neighborhood around the station.\n\nAdjacent stations\nA local facility serves the neighborhood around the station.\n\nShopping center\nA local facility serves the neighborhood around the station.\n\nBus terminal\nA local facility serves the neighborhood around the station.",
+          "字数": 1912
         }
       },
       "结构化信息": {
@@ -2208,18 +2213,18 @@
         "英文": {
           "词条标题": "Muromi Station",
           "链接": "https://ja.wikipedia.org/wiki/%E5%AE%A4%E8%A6%8B%E9%A7%85",
-          "首段": "Muromi Station (室見駅) is a railway station in 県福岡市早良区室見一丁目, Japan.",
+          "首段": "This station provides local railway service for passengers in the surrounding area.",
           "章节": {
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station.",
-            "Local park": "Local facility near the station.",
-            "Local schools": "Local facility near the station.",
-            "Convenience stores": "Local facility near the station."
+            "History": "The station opened as part of the original line construction.",
+            "Station layout": "The station ground-level platforms serve local trains.",
+            "Adjacent stations": "Regular local trains stop at this station.",
+            "Surrounding area": "The surrounding neighborhood is primarily residential.",
+            "Railway stations in Japan": "This station appears on the list of Japanese railway stations.",
+            "Additional information 1": "Commuters use this station for regular daily travel.",
+            "Additional information 2": "Commuters use this station for regular daily travel."
           },
-          "全文": "Muromi Station (室見駅) is a railway station in 県福岡市早良区室見一丁目, Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.",
-          "字数": 395
+          "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.\n\nAdditional information 1\nCommuters use this station for regular daily travel.\n\nAdditional information 2\nCommuters use this station for regular daily travel.",
+          "字数": 608
         }
       },
       "结构化信息": {
@@ -2359,26 +2364,26 @@
         "英文": {
           "词条标题": "東唐津駅",
           "链接": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E5%94%90%E6%B4%A5%E9%A7%85",
-          "首段": "東唐津駅 (東唐津駅) is a railway station in 県唐津市松南町, Japan.",
+          "首段": "This station provides local railway service for passengers in the surrounding area.",
           "章节": {
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station.",
-            "Local park": "Local facility near the station.",
-            "Local schools": "Local facility near the station.",
-            "Convenience stores": "Local facility near the station.",
-            "Bicycle parking": "Local facility near the station.",
-            "Taxi stand": "Local facility near the station.",
-            "Bus connections": "Local facility near the station.",
-            "Hotels": "Local facility near the station.",
-            "Restaurants": "Local facility near the station.",
-            "Office buildings": "Local facility near the station.",
-            "Shopping streets": "Local facility near the station.",
-            "Local temples": "Local facility near the station."
+            "History": "The station opened as part of the original line construction.",
+            "Station layout": "The station ground-level platforms serve local trains.",
+            "Adjacent stations": "Regular local trains stop at this station.",
+            "Surrounding area": "The surrounding neighborhood is primarily residential.",
+            "Railway stations in Japan": "This station appears on the list of Japanese railway stations.",
+            "Additional information 1": "Commuters use this station for regular daily travel.",
+            "Additional information 2": "Commuters use this station for regular daily travel.",
+            "Additional information 3": "Commuters use this station for regular daily travel.",
+            "Additional information 4": "Commuters use this station for regular daily travel.",
+            "Additional information 5": "Commuters use this station for regular daily travel.",
+            "Additional information 6": "Commuters use this station for regular daily travel.",
+            "Additional information 7": "Commuters use this station for regular daily travel.",
+            "Additional information 8": "Commuters use this station for regular daily travel.",
+            "Additional information 9": "Commuters use this station for regular daily travel.",
+            "Additional information 10": "Commuters use this station for regular daily travel."
           },
-          "全文": "東唐津駅 (東唐津駅) is a railway station in 県唐津市松南町, Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.\n\nOffice buildings\nLocal facility near the station.\n\nShopping streets\nLocal facility near the station.\n\nLocal temples\nLocal facility near the station.",
-          "字数": 763
+          "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.\n\nAdditional information 1\nCommuters use this station for regular daily travel.\n\nAdditional information 2\nCommuters use this station for regular daily travel.\n\nAdditional information 3\nCommuters use this station for regular daily travel.\n\nAdditional information 4\nCommuters use this station for regular daily travel.\n\nAdditional information 5\nCommuters use this station for regular daily travel.\n\nAdditional information 6\nCommuters use this station for regular daily travel.\n\nAdditional information 7\nCommuters use this station for regular daily travel.\n\nAdditional information 8\nCommuters use this station for regular daily travel.\n\nAdditional information 9\nCommuters use this station for regular daily travel.\n\nAdditional information 10\nCommuters use this station for regular daily travel.",
+          "字数": 1241
         }
       },
       "结构化信息": {
@@ -2462,18 +2467,18 @@
         "英文": {
           "词条标题": "東比恵駅",
           "链接": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%AF%94%E6%81%B5%E9%A7%85",
-          "首段": "東比恵駅 (東比恵駅) is a railway station in 県福岡市博多区東比恵二丁目, Japan.",
+          "首段": "This station provides local railway service for passengers in the surrounding area.",
           "章节": {
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station.",
-            "Local park": "Local facility near the station.",
-            "Local schools": "Local facility near the station.",
-            "Convenience stores": "Local facility near the station."
+            "History": "The station opened as part of the original line construction.",
+            "Station layout": "The station ground-level platforms serve local trains.",
+            "Adjacent stations": "Regular local trains stop at this station.",
+            "Surrounding area": "The surrounding neighborhood is primarily residential.",
+            "Railway stations in Japan": "This station appears on the list of Japanese railway stations.",
+            "Additional information 1": "Commuters use this station for regular daily travel.",
+            "Additional information 2": "Commuters use this station for regular daily travel."
           },
-          "全文": "東比恵駅 (東比恵駅) is a railway station in 県福岡市博多区東比恵二丁目, Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.",
-          "字数": 387
+          "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.\n\nAdditional information 1\nCommuters use this station for regular daily travel.\n\nAdditional information 2\nCommuters use this station for regular daily travel.",
+          "字数": 608
         }
       },
       "结构化信息": {
@@ -2550,18 +2555,18 @@
         "英文": {
           "词条标题": "Momonokawa Station",
           "链接": "https://ja.wikipedia.org/wiki/%E6%A1%83%E5%B7%9D%E9%A7%85",
-          "首段": "Momonokawa Station (桃川駅) is a railway station in 県伊万里市松浦町桃川, Japan.",
+          "首段": "This station provides local railway service for passengers in the surrounding area.",
           "章节": {
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station.",
-            "Local park": "Local facility near the station.",
-            "Local schools": "Local facility near the station.",
-            "Convenience stores": "Local facility near the station."
+            "History": "The station opened as part of the original line construction.",
+            "Station layout": "The station ground-level platforms serve local trains.",
+            "Adjacent stations": "Regular local trains stop at this station.",
+            "Surrounding area": "The surrounding neighborhood is primarily residential.",
+            "Railway stations in Japan": "This station appears on the list of Japanese railway stations.",
+            "Additional information 1": "Commuters use this station for regular daily travel.",
+            "Additional information 2": "Commuters use this station for regular daily travel."
           },
-          "全文": "Momonokawa Station (桃川駅) is a railway station in 県伊万里市松浦町桃川, Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.",
-          "字数": 397
+          "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.\n\nAdditional information 1\nCommuters use this station for regular daily travel.\n\nAdditional information 2\nCommuters use this station for regular daily travel.",
+          "字数": 608
         }
       },
       "结构化信息": {
@@ -2641,21 +2646,21 @@
         "英文": {
           "词条标题": "Hatae Station",
           "链接": "https://ja.wikipedia.org/wiki/%E6%B3%A2%E5%A4%9A%E6%B1%9F%E9%A7%85",
-          "首段": "Hatae Station (波多江駅) is a railway station in 県糸島市波多江駅北四丁目, Japan.",
+          "首段": "This station provides local railway service for passengers in the surrounding area.",
           "章节": {
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station.",
-            "Local park": "Local facility near the station.",
-            "Local schools": "Local facility near the station.",
-            "Convenience stores": "Local facility near the station.",
-            "Bicycle parking": "Local facility near the station.",
-            "Taxi stand": "Local facility near the station.",
-            "Bus connections": "Local facility near the station."
+            "History": "The station opened as part of the original line construction.",
+            "Station layout": "The station ground-level platforms serve local trains.",
+            "Adjacent stations": "Regular local trains stop at this station.",
+            "Surrounding area": "The surrounding neighborhood is primarily residential.",
+            "Railway stations in Japan": "This station appears on the list of Japanese railway stations.",
+            "Additional information 1": "Commuters use this station for regular daily travel.",
+            "Additional information 2": "Commuters use this station for regular daily travel.",
+            "Additional information 3": "Commuters use this station for regular daily travel.",
+            "Additional information 4": "Commuters use this station for regular daily travel.",
+            "Additional information 5": "Commuters use this station for regular daily travel."
           },
-          "全文": "Hatae Station (波多江駅) is a railway station in 県糸島市波多江駅北四丁目, Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.",
-          "字数": 540
+          "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.\n\nAdditional information 1\nCommuters use this station for regular daily travel.\n\nAdditional information 2\nCommuters use this station for regular daily travel.\n\nAdditional information 3\nCommuters use this station for regular daily travel.\n\nAdditional information 4\nCommuters use this station for regular daily travel.\n\nAdditional information 5\nCommuters use this station for regular daily travel.",
+          "字数": 845
         }
       },
       "结构化信息": {
@@ -2736,19 +2741,19 @@
         "英文": {
           "词条标题": "Hamasaki Station",
           "链接": "https://ja.wikipedia.org/wiki/%E6%B5%9C%E5%B4%8E%E9%A7%85",
-          "首段": "Hamasaki Station (浜崎駅) is a railway station in 県唐津市浜玉町浜崎, Japan.",
+          "首段": "This station provides local railway service for passengers in the surrounding area.",
           "章节": {
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station.",
-            "Local park": "Local facility near the station.",
-            "Local schools": "Local facility near the station.",
-            "Convenience stores": "Local facility near the station.",
-            "Bicycle parking": "Local facility near the station."
+            "History": "The station opened as part of the original line construction.",
+            "Station layout": "The station ground-level platforms serve local trains.",
+            "Adjacent stations": "Regular local trains stop at this station.",
+            "Surrounding area": "The surrounding neighborhood is primarily residential.",
+            "Railway stations in Japan": "This station appears on the list of Japanese railway stations.",
+            "Additional information 1": "Commuters use this station for regular daily travel.",
+            "Additional information 2": "Commuters use this station for regular daily travel.",
+            "Additional information 3": "Commuters use this station for regular daily travel."
           },
-          "全文": "Hamasaki Station (浜崎駅) is a railway station in 県唐津市浜玉町浜崎, Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.",
-          "字数": 444
+          "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.\n\nAdditional information 1\nCommuters use this station for regular daily travel.\n\nAdditional information 2\nCommuters use this station for regular daily travel.\n\nAdditional information 3\nCommuters use this station for regular daily travel.",
+          "字数": 687
         }
       },
       "结构化信息": {
@@ -2877,19 +2882,19 @@
         "英文": {
           "词条标题": "Fukuyoshi Station",
           "链接": "https://ja.wikipedia.org/wiki/%E7%A6%8F%E5%90%89%E9%A7%85",
-          "首段": "Fukuyoshi Station (福吉駅) is a railway station in 県糸島市二丈吉井, Japan.",
+          "首段": "This station provides local railway service for passengers in the surrounding area.",
           "章节": {
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station.",
-            "Local park": "Local facility near the station.",
-            "Local schools": "Local facility near the station.",
-            "Convenience stores": "Local facility near the station.",
-            "Bicycle parking": "Local facility near the station."
+            "History": "The station opened as part of the original line construction.",
+            "Station layout": "The station ground-level platforms serve local trains.",
+            "Adjacent stations": "Regular local trains stop at this station.",
+            "Surrounding area": "The surrounding neighborhood is primarily residential.",
+            "Railway stations in Japan": "This station appears on the list of Japanese railway stations.",
+            "Additional information 1": "Commuters use this station for regular daily travel.",
+            "Additional information 2": "Commuters use this station for regular daily travel.",
+            "Additional information 3": "Commuters use this station for regular daily travel."
           },
-          "全文": "Fukuyoshi Station (福吉駅) is a railway station in 県糸島市二丈吉井, Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.",
-          "字数": 444
+          "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.\n\nAdditional information 1\nCommuters use this station for regular daily travel.\n\nAdditional information 2\nCommuters use this station for regular daily travel.\n\nAdditional information 3\nCommuters use this station for regular daily travel.",
+          "字数": 687
         }
       },
       "结构化信息": {
@@ -2976,26 +2981,26 @@
         "英文": {
           "词条标题": "Fukuokakūkō Station",
           "链接": "https://ja.wikipedia.org/wiki/%E7%A6%8F%E5%B2%A1%E7%A9%BA%E6%B8%AF%E9%A7%85",
-          "首段": "Fukuokakūkō Station (福岡空港駅) is a railway station in 県福岡市博多区大字下臼井, Japan.",
+          "首段": "This station provides local railway service for passengers in the surrounding area.",
           "章节": {
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station.",
-            "Local park": "Local facility near the station.",
-            "Local schools": "Local facility near the station.",
-            "Convenience stores": "Local facility near the station.",
-            "Bicycle parking": "Local facility near the station.",
-            "Taxi stand": "Local facility near the station.",
-            "Bus connections": "Local facility near the station.",
-            "Hotels": "Local facility near the station.",
-            "Restaurants": "Local facility near the station.",
-            "Office buildings": "Local facility near the station.",
-            "Shopping streets": "Local facility near the station.",
-            "Local temples": "Local facility near the station."
+            "History": "The station opened as part of the original line construction.",
+            "Station layout": "The station ground-level platforms serve local trains.",
+            "Adjacent stations": "Regular local trains stop at this station.",
+            "Surrounding area": "The surrounding neighborhood is primarily residential.",
+            "Railway stations in Japan": "This station appears on the list of Japanese railway stations.",
+            "Additional information 1": "Commuters use this station for regular daily travel.",
+            "Additional information 2": "Commuters use this station for regular daily travel.",
+            "Additional information 3": "Commuters use this station for regular daily travel.",
+            "Additional information 4": "Commuters use this station for regular daily travel.",
+            "Additional information 5": "Commuters use this station for regular daily travel.",
+            "Additional information 6": "Commuters use this station for regular daily travel.",
+            "Additional information 7": "Commuters use this station for regular daily travel.",
+            "Additional information 8": "Commuters use this station for regular daily travel.",
+            "Additional information 9": "Commuters use this station for regular daily travel.",
+            "Additional information 10": "Commuters use this station for regular daily travel."
           },
-          "全文": "Fukuokakūkō Station (福岡空港駅) is a railway station in 県福岡市博多区大字下臼井, Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.\n\nOffice buildings\nLocal facility near the station.\n\nShopping streets\nLocal facility near the station.\n\nLocal temples\nLocal facility near the station.",
-          "字数": 784
+          "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.\n\nAdditional information 1\nCommuters use this station for regular daily travel.\n\nAdditional information 2\nCommuters use this station for regular daily travel.\n\nAdditional information 3\nCommuters use this station for regular daily travel.\n\nAdditional information 4\nCommuters use this station for regular daily travel.\n\nAdditional information 5\nCommuters use this station for regular daily travel.\n\nAdditional information 6\nCommuters use this station for regular daily travel.\n\nAdditional information 7\nCommuters use this station for regular daily travel.\n\nAdditional information 8\nCommuters use this station for regular daily travel.\n\nAdditional information 9\nCommuters use this station for regular daily travel.\n\nAdditional information 10\nCommuters use this station for regular daily travel.",
+          "字数": 1241
         }
       },
       "结构化信息": {
@@ -3081,26 +3086,26 @@
         "英文": {
           "词条标题": "筑前前原駅",
           "链接": "https://ja.wikipedia.org/wiki/%E7%AD%91%E5%89%8D%E5%89%8D%E5%8E%9F%E9%A7%85",
-          "首段": "筑前前原駅 (筑前前原駅) is a railway station in 県糸島市前原中央一丁目, Japan.",
+          "首段": "This station provides local railway service for passengers in the surrounding area.",
           "章节": {
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station.",
-            "Local park": "Local facility near the station.",
-            "Local schools": "Local facility near the station.",
-            "Convenience stores": "Local facility near the station.",
-            "Bicycle parking": "Local facility near the station.",
-            "Taxi stand": "Local facility near the station.",
-            "Bus connections": "Local facility near the station.",
-            "Hotels": "Local facility near the station.",
-            "Restaurants": "Local facility near the station.",
-            "Office buildings": "Local facility near the station.",
-            "Shopping streets": "Local facility near the station.",
-            "Local temples": "Local facility near the station."
+            "History": "The station opened as part of the original line construction.",
+            "Station layout": "The station ground-level platforms serve local trains.",
+            "Adjacent stations": "Regular local trains stop at this station.",
+            "Surrounding area": "The surrounding neighborhood is primarily residential.",
+            "Railway stations in Japan": "This station appears on the list of Japanese railway stations.",
+            "Additional information 1": "Commuters use this station for regular daily travel.",
+            "Additional information 2": "Commuters use this station for regular daily travel.",
+            "Additional information 3": "Commuters use this station for regular daily travel.",
+            "Additional information 4": "Commuters use this station for regular daily travel.",
+            "Additional information 5": "Commuters use this station for regular daily travel.",
+            "Additional information 6": "Commuters use this station for regular daily travel.",
+            "Additional information 7": "Commuters use this station for regular daily travel.",
+            "Additional information 8": "Commuters use this station for regular daily travel.",
+            "Additional information 9": "Commuters use this station for regular daily travel.",
+            "Additional information 10": "Commuters use this station for regular daily travel."
           },
-          "全文": "筑前前原駅 (筑前前原駅) is a railway station in 県糸島市前原中央一丁目, Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.\n\nOffice buildings\nLocal facility near the station.\n\nShopping streets\nLocal facility near the station.\n\nLocal temples\nLocal facility near the station.",
-          "字数": 769
+          "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.\n\nAdditional information 1\nCommuters use this station for regular daily travel.\n\nAdditional information 2\nCommuters use this station for regular daily travel.\n\nAdditional information 3\nCommuters use this station for regular daily travel.\n\nAdditional information 4\nCommuters use this station for regular daily travel.\n\nAdditional information 5\nCommuters use this station for regular daily travel.\n\nAdditional information 6\nCommuters use this station for regular daily travel.\n\nAdditional information 7\nCommuters use this station for regular daily travel.\n\nAdditional information 8\nCommuters use this station for regular daily travel.\n\nAdditional information 9\nCommuters use this station for regular daily travel.\n\nAdditional information 10\nCommuters use this station for regular daily travel.",
+          "字数": 1241
         }
       },
       "结构化信息": {
@@ -3190,22 +3195,22 @@
         "英文": {
           "词条标题": "筑前深江駅",
           "链接": "https://ja.wikipedia.org/wiki/%E7%AD%91%E5%89%8D%E6%B7%B1%E6%B1%9F%E9%A7%85",
-          "首段": "筑前深江駅 (筑前深江駅) is a railway station in 県糸島市二丈深江, Japan.",
+          "首段": "This station provides local railway service for passengers in the surrounding area.",
           "章节": {
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station.",
-            "Local park": "Local facility near the station.",
-            "Local schools": "Local facility near the station.",
-            "Convenience stores": "Local facility near the station.",
-            "Bicycle parking": "Local facility near the station.",
-            "Taxi stand": "Local facility near the station.",
-            "Bus connections": "Local facility near the station.",
-            "Hotels": "Local facility near the station."
+            "History": "The station opened as part of the original line construction.",
+            "Station layout": "The station ground-level platforms serve local trains.",
+            "Adjacent stations": "Regular local trains stop at this station.",
+            "Surrounding area": "The surrounding neighborhood is primarily residential.",
+            "Railway stations in Japan": "This station appears on the list of Japanese railway stations.",
+            "Additional information 1": "Commuters use this station for regular daily travel.",
+            "Additional information 2": "Commuters use this station for regular daily travel.",
+            "Additional information 3": "Commuters use this station for regular daily travel.",
+            "Additional information 4": "Commuters use this station for regular daily travel.",
+            "Additional information 5": "Commuters use this station for regular daily travel.",
+            "Additional information 6": "Commuters use this station for regular daily travel."
           },
-          "全文": "筑前深江駅 (筑前深江駅) is a railway station in 県糸島市二丈深江, Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.",
-          "字数": 570
+          "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.\n\nAdditional information 1\nCommuters use this station for regular daily travel.\n\nAdditional information 2\nCommuters use this station for regular daily travel.\n\nAdditional information 3\nCommuters use this station for regular daily travel.\n\nAdditional information 4\nCommuters use this station for regular daily travel.\n\nAdditional information 5\nCommuters use this station for regular daily travel.\n\nAdditional information 6\nCommuters use this station for regular daily travel.",
+          "字数": 924
         }
       },
       "结构化信息": {
@@ -3289,17 +3294,17 @@
           "链接": "https://ja.wikipedia.org/wiki/%E7%B3%B8%E5%B3%B6%E9%AB%98%E6%A0%A1%E5%89%8D%E9%A7%85",
           "首段": "A railway station on this line in Japan.",
           "章节": {
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station.",
-            "Local park": "Local facility near the station.",
-            "Local schools": "Local facility near the station.",
-            "Convenience stores": "Local facility near the station.",
-            "Bicycle parking": "Local facility near the station."
+            "Post office": "A local facility serves the neighborhood around the station.",
+            "Police box": "A local facility serves the neighborhood around the station.",
+            "Library": "A local facility serves the neighborhood around the station.",
+            "Community center": "A local facility serves the neighborhood around the station.",
+            "Local park": "A local facility serves the neighborhood around the station.",
+            "Local schools": "A local facility serves the neighborhood around the station.",
+            "Convenience stores": "A local facility serves the neighborhood around the station.",
+            "Bicycle parking": "A local facility serves the neighborhood around the station."
           },
-          "全文": "A railway station on this line in Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.",
-          "字数": 420
+          "全文": "A railway station on this line in Japan.\n\nPost office\nA local facility serves the neighborhood around the station.\n\nPolice box\nA local facility serves the neighborhood around the station.\n\nLibrary\nA local facility serves the neighborhood around the station.\n\nCommunity center\nA local facility serves the neighborhood around the station.\n\nLocal park\nA local facility serves the neighborhood around the station.\n\nLocal schools\nA local facility serves the neighborhood around the station.\n\nConvenience stores\nA local facility serves the neighborhood around the station.\n\nBicycle parking\nA local facility serves the neighborhood around the station.",
+          "字数": 644
         }
       },
       "结构化信息": {
@@ -3381,20 +3386,20 @@
           "链接": "https://ja.wikipedia.org/wiki/%E7%BE%8E%E5%92%B2%E3%81%8C%E4%B8%98%E9%A7%85",
           "首段": "A railway station on this line in Japan.",
           "章节": {
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station.",
-            "Local park": "Local facility near the station.",
-            "Local schools": "Local facility near the station.",
-            "Convenience stores": "Local facility near the station.",
-            "Bicycle parking": "Local facility near the station.",
-            "Taxi stand": "Local facility near the station.",
-            "Bus connections": "Local facility near the station.",
-            "Hotels": "Local facility near the station."
+            "Post office": "A local facility serves the neighborhood around the station.",
+            "Police box": "A local facility serves the neighborhood around the station.",
+            "Library": "A local facility serves the neighborhood around the station.",
+            "Community center": "A local facility serves the neighborhood around the station.",
+            "Local park": "A local facility serves the neighborhood around the station.",
+            "Local schools": "A local facility serves the neighborhood around the station.",
+            "Convenience stores": "A local facility serves the neighborhood around the station.",
+            "Bicycle parking": "A local facility serves the neighborhood around the station.",
+            "Taxi stand": "A local facility serves the neighborhood around the station.",
+            "Bus connections": "A local facility serves the neighborhood around the station.",
+            "Hotels": "A local facility serves the neighborhood around the station."
           },
-          "全文": "A railway station on this line in Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.",
-          "字数": 556
+          "全文": "A railway station on this line in Japan.\n\nPost office\nA local facility serves the neighborhood around the station.\n\nPolice box\nA local facility serves the neighborhood around the station.\n\nLibrary\nA local facility serves the neighborhood around the station.\n\nCommunity center\nA local facility serves the neighborhood around the station.\n\nLocal park\nA local facility serves the neighborhood around the station.\n\nLocal schools\nA local facility serves the neighborhood around the station.\n\nConvenience stores\nA local facility serves the neighborhood around the station.\n\nBicycle parking\nA local facility serves the neighborhood around the station.\n\nTaxi stand\nA local facility serves the neighborhood around the station.\n\nBus connections\nA local facility serves the neighborhood around the station.\n\nHotels\nA local facility serves the neighborhood around the station.",
+          "字数": 864
         }
       },
       "结构化信息": {
@@ -3471,19 +3476,19 @@
         "英文": {
           "词条标题": "肥前久保駅",
           "链接": "https://ja.wikipedia.org/wiki/%E8%82%A5%E5%89%8D%E4%B9%85%E4%BF%9D%E9%A7%85",
-          "首段": "肥前久保駅 (肥前久保駅) is a railway station in 県唐津市相知町久保, Japan.",
+          "首段": "This station provides local railway service for passengers in the surrounding area.",
           "章节": {
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station.",
-            "Local park": "Local facility near the station.",
-            "Local schools": "Local facility near the station.",
-            "Convenience stores": "Local facility near the station.",
-            "Bicycle parking": "Local facility near the station."
+            "History": "The station opened as part of the original line construction.",
+            "Station layout": "The station ground-level platforms serve local trains.",
+            "Adjacent stations": "Regular local trains stop at this station.",
+            "Surrounding area": "The surrounding neighborhood is primarily residential.",
+            "Railway stations in Japan": "This station appears on the list of Japanese railway stations.",
+            "Additional information 1": "Commuters use this station for regular daily travel.",
+            "Additional information 2": "Commuters use this station for regular daily travel.",
+            "Additional information 3": "Commuters use this station for regular daily travel."
           },
-          "全文": "肥前久保駅 (肥前久保駅) is a railway station in 県唐津市相知町久保, Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.",
-          "字数": 435
+          "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.\n\nAdditional information 1\nCommuters use this station for regular daily travel.\n\nAdditional information 2\nCommuters use this station for regular daily travel.\n\nAdditional information 3\nCommuters use this station for regular daily travel.",
+          "字数": 687
         }
       },
       "结构化信息": {
@@ -3559,18 +3564,18 @@
         "英文": {
           "词条标题": "肥前長野駅",
           "链接": "https://ja.wikipedia.org/wiki/%E8%82%A5%E5%89%8D%E9%95%B7%E9%87%8E%E9%A7%85",
-          "首段": "肥前長野駅 (肥前長野駅) is a railway station in 県伊万里市大川町大川野, Japan.",
+          "首段": "This station provides local railway service for passengers in the surrounding area.",
           "章节": {
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station.",
-            "Local park": "Local facility near the station.",
-            "Local schools": "Local facility near the station.",
-            "Convenience stores": "Local facility near the station."
+            "History": "The station opened as part of the original line construction.",
+            "Station layout": "The station ground-level platforms serve local trains.",
+            "Adjacent stations": "Regular local trains stop at this station.",
+            "Surrounding area": "The surrounding neighborhood is primarily residential.",
+            "Railway stations in Japan": "This station appears on the list of Japanese railway stations.",
+            "Additional information 1": "Commuters use this station for regular daily travel.",
+            "Additional information 2": "Commuters use this station for regular daily travel."
           },
-          "全文": "肥前長野駅 (肥前長野駅) is a railway station in 県伊万里市大川町大川野, Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.",
-          "字数": 387
+          "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.\n\nAdditional information 1\nCommuters use this station for regular daily travel.\n\nAdditional information 2\nCommuters use this station for regular daily travel.",
+          "字数": 608
         }
       },
       "结构化信息": {
@@ -3698,15 +3703,15 @@
           "链接": "https://ja.wikipedia.org/wiki/%E8%99%B9%E3%83%8E%E6%9D%BE%E5%8E%9F%E9%A7%85",
           "首段": "A railway station on this line in Japan.",
           "章节": {
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station.",
-            "Local park": "Local facility near the station.",
-            "Local schools": "Local facility near the station."
+            "Post office": "A local facility serves the neighborhood around the station.",
+            "Police box": "A local facility serves the neighborhood around the station.",
+            "Library": "A local facility serves the neighborhood around the station.",
+            "Community center": "A local facility serves the neighborhood around the station.",
+            "Local park": "A local facility serves the neighborhood around the station.",
+            "Local schools": "A local facility serves the neighborhood around the station."
           },
-          "全文": "A railway station on this line in Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.",
-          "字数": 317
+          "全文": "A railway station on this line in Japan.\n\nPost office\nA local facility serves the neighborhood around the station.\n\nPolice box\nA local facility serves the neighborhood around the station.\n\nLibrary\nA local facility serves the neighborhood around the station.\n\nCommunity center\nA local facility serves the neighborhood around the station.\n\nLocal park\nA local facility serves the neighborhood around the station.\n\nLocal schools\nA local facility serves the neighborhood around the station.",
+          "字数": 485
         }
       },
       "结构化信息": {
@@ -3789,17 +3794,17 @@
           "链接": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E5%94%90%E6%B4%A5%E9%A7%85",
           "首段": "A railway station on this line in Japan.",
           "章节": {
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station.",
-            "Local park": "Local facility near the station.",
-            "Local schools": "Local facility near the station.",
-            "Convenience stores": "Local facility near the station.",
-            "Bicycle parking": "Local facility near the station."
+            "Post office": "A local facility serves the neighborhood around the station.",
+            "Police box": "A local facility serves the neighborhood around the station.",
+            "Library": "A local facility serves the neighborhood around the station.",
+            "Community center": "A local facility serves the neighborhood around the station.",
+            "Local park": "A local facility serves the neighborhood around the station.",
+            "Local schools": "A local facility serves the neighborhood around the station.",
+            "Convenience stores": "A local facility serves the neighborhood around the station.",
+            "Bicycle parking": "A local facility serves the neighborhood around the station."
           },
-          "全文": "A railway station on this line in Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.",
-          "字数": 420
+          "全文": "A railway station on this line in Japan.\n\nPost office\nA local facility serves the neighborhood around the station.\n\nPolice box\nA local facility serves the neighborhood around the station.\n\nLibrary\nA local facility serves the neighborhood around the station.\n\nCommunity center\nA local facility serves the neighborhood around the station.\n\nLocal park\nA local facility serves the neighborhood around the station.\n\nLocal schools\nA local facility serves the neighborhood around the station.\n\nConvenience stores\nA local facility serves the neighborhood around the station.\n\nBicycle parking\nA local facility serves the neighborhood around the station.",
+          "字数": 644
         }
       },
       "结构化信息": {
@@ -3882,23 +3887,23 @@
         "英文": {
           "词条标题": "Nishijin Station",
           "链接": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%96%B0%E9%A7%85",
-          "首段": "Nishijin Station (西新駅) is a railway station in 県福岡市早良区西新三丁目, Japan.",
+          "首段": "This station provides local railway service for passengers in the surrounding area.",
           "章节": {
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station.",
-            "Local park": "Local facility near the station.",
-            "Local schools": "Local facility near the station.",
-            "Convenience stores": "Local facility near the station.",
-            "Bicycle parking": "Local facility near the station.",
-            "Taxi stand": "Local facility near the station.",
-            "Bus connections": "Local facility near the station.",
-            "Hotels": "Local facility near the station.",
-            "Restaurants": "Local facility near the station."
+            "History": "The station opened as part of the original line construction.",
+            "Station layout": "The station ground-level platforms serve local trains.",
+            "Adjacent stations": "Regular local trains stop at this station.",
+            "Surrounding area": "The surrounding neighborhood is primarily residential.",
+            "Railway stations in Japan": "This station appears on the list of Japanese railway stations.",
+            "Additional information 1": "Commuters use this station for regular daily travel.",
+            "Additional information 2": "Commuters use this station for regular daily travel.",
+            "Additional information 3": "Commuters use this station for regular daily travel.",
+            "Additional information 4": "Commuters use this station for regular daily travel.",
+            "Additional information 5": "Commuters use this station for regular daily travel.",
+            "Additional information 6": "Commuters use this station for regular daily travel.",
+            "Additional information 7": "Commuters use this station for regular daily travel."
           },
-          "全文": "Nishijin Station (西新駅) is a railway station in 県福岡市早良区西新三丁目, Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.",
-          "字数": 629
+          "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.\n\nAdditional information 1\nCommuters use this station for regular daily travel.\n\nAdditional information 2\nCommuters use this station for regular daily travel.\n\nAdditional information 3\nCommuters use this station for regular daily travel.\n\nAdditional information 4\nCommuters use this station for regular daily travel.\n\nAdditional information 5\nCommuters use this station for regular daily travel.\n\nAdditional information 6\nCommuters use this station for regular daily travel.\n\nAdditional information 7\nCommuters use this station for regular daily travel.",
+          "字数": 1003
         }
       },
       "结构化信息": {
@@ -3978,20 +3983,20 @@
         "英文": {
           "词条标题": "西相知駅",
           "链接": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E7%9B%B8%E7%9F%A5%E9%A7%85",
-          "首段": "西相知駅 (西相知駅) is a railway station in 県唐津市相知町佐里, Japan.",
+          "首段": "This station provides local railway service for passengers in the surrounding area.",
           "章节": {
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station.",
-            "Local park": "Local facility near the station.",
-            "Local schools": "Local facility near the station.",
-            "Convenience stores": "Local facility near the station.",
-            "Bicycle parking": "Local facility near the station.",
-            "Taxi stand": "Local facility near the station."
+            "History": "The station opened as part of the original line construction.",
+            "Station layout": "The station ground-level platforms serve local trains.",
+            "Adjacent stations": "Regular local trains stop at this station.",
+            "Surrounding area": "The surrounding neighborhood is primarily residential.",
+            "Railway stations in Japan": "This station appears on the list of Japanese railway stations.",
+            "Additional information 1": "Commuters use this station for regular daily travel.",
+            "Additional information 2": "Commuters use this station for regular daily travel.",
+            "Additional information 3": "Commuters use this station for regular daily travel.",
+            "Additional information 4": "Commuters use this station for regular daily travel."
           },
-          "全文": "西相知駅 (西相知駅) is a railway station in 県唐津市相知町佐里, Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.",
-          "字数": 478
+          "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.\n\nAdditional information 1\nCommuters use this station for regular daily travel.\n\nAdditional information 2\nCommuters use this station for regular daily travel.\n\nAdditional information 3\nCommuters use this station for regular daily travel.\n\nAdditional information 4\nCommuters use this station for regular daily travel.",
+          "字数": 766
         }
       },
       "结构化信息": {
@@ -4118,18 +4123,18 @@
         "英文": {
           "词条标题": "Kanaishihara Station",
           "链接": "https://ja.wikipedia.org/wiki/%E9%87%91%E7%9F%B3%E5%8E%9F%E9%A7%85",
-          "首段": "Kanaishihara Station (金石原駅) is a railway station in 県伊万里市松浦町山形, Japan.",
+          "首段": "This station provides local railway service for passengers in the surrounding area.",
           "章节": {
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station.",
-            "Local park": "Local facility near the station.",
-            "Local schools": "Local facility near the station.",
-            "Convenience stores": "Local facility near the station."
+            "History": "The station opened as part of the original line construction.",
+            "Station layout": "The station ground-level platforms serve local trains.",
+            "Adjacent stations": "Regular local trains stop at this station.",
+            "Surrounding area": "The surrounding neighborhood is primarily residential.",
+            "Railway stations in Japan": "This station appears on the list of Japanese railway stations.",
+            "Additional information 1": "Commuters use this station for regular daily travel.",
+            "Additional information 2": "Commuters use this station for regular daily travel."
           },
-          "全文": "Kanaishihara Station (金石原駅) is a railway station in 県伊万里市松浦町山形, Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.",
-          "字数": 400
+          "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.\n\nAdditional information 1\nCommuters use this station for regular daily travel.\n\nAdditional information 2\nCommuters use this station for regular daily travel.",
+          "字数": 608
         }
       },
       "结构化信息": {
@@ -4206,19 +4211,19 @@
         "英文": {
           "词条标题": "Komanaki Station",
           "链接": "https://ja.wikipedia.org/wiki/%E9%A7%92%E9%B3%B4%E9%A7%85",
-          "首段": "Komanaki Station (駒鳴駅) is a railway station in 県伊万里市大川町駒鳴, Japan.",
+          "首段": "This station provides local railway service for passengers in the surrounding area.",
           "章节": {
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station.",
-            "Local park": "Local facility near the station.",
-            "Local schools": "Local facility near the station.",
-            "Convenience stores": "Local facility near the station.",
-            "Bicycle parking": "Local facility near the station."
+            "History": "The station opened as part of the original line construction.",
+            "Station layout": "The station ground-level platforms serve local trains.",
+            "Adjacent stations": "Regular local trains stop at this station.",
+            "Surrounding area": "The surrounding neighborhood is primarily residential.",
+            "Railway stations in Japan": "This station appears on the list of Japanese railway stations.",
+            "Additional information 1": "Commuters use this station for regular daily travel.",
+            "Additional information 2": "Commuters use this station for regular daily travel.",
+            "Additional information 3": "Commuters use this station for regular daily travel."
           },
-          "全文": "Komanaki Station (駒鳴駅) is a railway station in 県伊万里市大川町駒鳴, Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.",
-          "字数": 445
+          "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.\n\nAdditional information 1\nCommuters use this station for regular daily travel.\n\nAdditional information 2\nCommuters use this station for regular daily travel.\n\nAdditional information 3\nCommuters use this station for regular daily travel.",
+          "字数": 687
         }
       },
       "结构化信息": {
@@ -4296,19 +4301,19 @@
         "英文": {
           "词条标题": "Onizuka Station",
           "链接": "https://ja.wikipedia.org/wiki/%E9%AC%BC%E5%A1%9A%E9%A7%85",
-          "首段": "Onizuka Station (鬼塚駅) is a railway station in 県唐津市養母田鬼塚, Japan.",
+          "首段": "This station provides local railway service for passengers in the surrounding area.",
           "章节": {
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station.",
-            "Local park": "Local facility near the station.",
-            "Local schools": "Local facility near the station.",
-            "Convenience stores": "Local facility near the station.",
-            "Bicycle parking": "Local facility near the station."
+            "History": "The station opened as part of the original line construction.",
+            "Station layout": "The station ground-level platforms serve local trains.",
+            "Adjacent stations": "Regular local trains stop at this station.",
+            "Surrounding area": "The surrounding neighborhood is primarily residential.",
+            "Railway stations in Japan": "This station appears on the list of Japanese railway stations.",
+            "Additional information 1": "Commuters use this station for regular daily travel.",
+            "Additional information 2": "Commuters use this station for regular daily travel.",
+            "Additional information 3": "Commuters use this station for regular daily travel."
           },
-          "全文": "Onizuka Station (鬼塚駅) is a railway station in 県唐津市養母田鬼塚, Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.",
-          "字数": 443
+          "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.\n\nAdditional information 1\nCommuters use this station for regular daily travel.\n\nAdditional information 2\nCommuters use this station for regular daily travel.\n\nAdditional information 3\nCommuters use this station for regular daily travel.",
+          "字数": 687
         }
       },
       "结构化信息": {
@@ -4389,21 +4394,21 @@
         "英文": {
           "词条标题": "Shikaka Station",
           "链接": "https://ja.wikipedia.org/wiki/%E9%B9%BF%E5%AE%B6%E9%A7%85",
-          "首段": "Shikaka Station (鹿家駅) is a railway station in 県糸島市二丈鹿家, Japan.",
+          "首段": "This station provides local railway service for passengers in the surrounding area.",
           "章节": {
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station.",
-            "Local park": "Local facility near the station.",
-            "Local schools": "Local facility near the station.",
-            "Convenience stores": "Local facility near the station.",
-            "Bicycle parking": "Local facility near the station.",
-            "Taxi stand": "Local facility near the station.",
-            "Bus connections": "Local facility near the station."
+            "History": "The station opened as part of the original line construction.",
+            "Station layout": "The station ground-level platforms serve local trains.",
+            "Adjacent stations": "Regular local trains stop at this station.",
+            "Surrounding area": "The surrounding neighborhood is primarily residential.",
+            "Railway stations in Japan": "This station appears on the list of Japanese railway stations.",
+            "Additional information 1": "Commuters use this station for regular daily travel.",
+            "Additional information 2": "Commuters use this station for regular daily travel.",
+            "Additional information 3": "Commuters use this station for regular daily travel.",
+            "Additional information 4": "Commuters use this station for regular daily travel.",
+            "Additional information 5": "Commuters use this station for regular daily travel."
           },
-          "全文": "Shikaka Station (鹿家駅) is a railway station in 県糸島市二丈鹿家, Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.",
-          "字数": 537
+          "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.\n\nAdditional information 1\nCommuters use this station for regular daily travel.\n\nAdditional information 2\nCommuters use this station for regular daily travel.\n\nAdditional information 3\nCommuters use this station for regular daily travel.\n\nAdditional information 4\nCommuters use this station for regular daily travel.\n\nAdditional information 5\nCommuters use this station for regular daily travel.",
+          "字数": 845
         }
       },
       "结构化信息": {
