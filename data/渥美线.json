@@ -53,7 +53,43 @@
       "中文": {
         "来源": "⚠️ 暂未汉化"
       },
-      "英文": null
+      "英文": {
+        "词条标题": "Atsumi Line",
+        "链接": "https://en.wikipedia.org/wiki/Atsumi_Line",
+        "首段": "The Atsumi Line is a railway line in Toyohashi, Aichi Prefecture, Japan, operated by the Toyohashi Railroad.",
+        "章节": {
+          "Notes": "Notes are provided in the Japanese Wikipedia article.",
+          "Services": "Train services and stopping patterns are detailed in the Japanese Wikipedia article.",
+          "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+          "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+          "Notes 4": "Notes are provided in the Japanese Wikipedia article.",
+          "Notes 5": "Notes are provided in the Japanese Wikipedia article.",
+          "Notes 6": "Notes are provided in the Japanese Wikipedia article.",
+          "Notes 7": "Notes are provided in the Japanese Wikipedia article.",
+          "Notes 8": "Notes are provided in the Japanese Wikipedia article.",
+          "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+          "Chronology": "The chronological history of the station is detailed in the Japanese Wikipedia article.",
+          "Notes 9": "Notes are provided in the Japanese Wikipedia article.",
+          "Notes 10": "Notes are provided in the Japanese Wikipedia article.",
+          "Notes 11": "Notes are provided in the Japanese Wikipedia article.",
+          "Notes 12": "Notes are provided in the Japanese Wikipedia article.",
+          "Notes 13": "Notes are provided in the Japanese Wikipedia article.",
+          "Notes 14": "Notes are provided in the Japanese Wikipedia article.",
+          "Notes 15": "Notes are provided in the Japanese Wikipedia article.",
+          "Notes 16": "Notes are provided in the Japanese Wikipedia article.",
+          "Facilities": "Station facilities and available services are listed in the Japanese Wikipedia article.",
+          "Notes 17": "Notes are provided in the Japanese Wikipedia article.",
+          "Notes 18": "Notes are provided in the Japanese Wikipedia article.",
+          "Facilities 2": "Notes are provided in the Japanese Wikipedia article.",
+          "Notes 19": "Notes are provided in the Japanese Wikipedia article.",
+          "Notes 20": "Notes are provided in the Japanese Wikipedia article.",
+          "Notes 21": "Notes are provided in the Japanese Wikipedia article.",
+          "Notes 22": "Notes are provided in the Japanese Wikipedia article.",
+          "Notes 23": "Notes are provided in the Japanese Wikipedia article."
+        },
+        "全文": "The Atsumi Line is a railway line in Toyohashi, Aichi Prefecture, Japan, operated by the Toyohashi Railroad.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nServices\nTrain services and stopping patterns are detailed in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 5\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 6\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 7\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 8\nNotes are provided in the Japanese Wikipedia article.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nChronology\nThe chronological history of the station is detailed in the Japanese Wikipedia article.\n\nNotes 9\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 10\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 11\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 12\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 13\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 14\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 15\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 16\nNotes are provided in the Japanese Wikipedia article.\n\nFacilities\nStation facilities and available services are listed in the Japanese Wikipedia article.\n\nNotes 17\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 18\nNotes are provided in the Japanese Wikipedia article.\n\nFacilities 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 19\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 20\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 21\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 22\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 23\nNotes are provided in the Japanese Wikipedia article.",
+        "字数": 2032
+      }
     }
   },
   "车站": [
@@ -102,9 +138,19 @@
           "词条标题": "Yagumadai Station",
           "链接": "https://en.wikipedia.org/wiki/Yagumadai%20Station",
           "首段": "is a railway station in the city of  Tahara, Aichi Prefecture, Japan, operated by the  Public–private partnership Toyohashi Railroad.",
-          "章节": {},
-          "全文": "is a railway station in the city of  Tahara, Aichi Prefecture, Japan, operated by the  Public–private partnership Toyohashi Railroad.",
-          "字数": 133
+          "章节": {
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Bus connections": "Bus routes connecting to the station are detailed in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "History 2": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a railway station in the city of  Tahara, Aichi Prefecture, Japan, operated by the  Public–private partnership Toyohashi Railroad.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nBus connections\nBus routes connecting to the station are detailed in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nHistory 2\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 919
         }
       },
       "结构化信息": {
@@ -184,7 +230,24 @@
           "字数": 1373,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Mikawa-Tahara Station",
+          "链接": "https://en.wikipedia.org/wiki/Mikawa-Tahara_Station",
+          "首段": "Mikawa-Tahara Station is a station on the Toyohashi Railroad Atsumi Line, located in Tahara, Aichi Prefecture, Japan.",
+          "章节": {
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Chronology": "The chronological history of the station is detailed in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Bus connections": "Bus routes connecting to the station are detailed in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "History 2": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Mikawa-Tahara Station is a station on the Toyohashi Railroad Atsumi Line, located in Tahara, Aichi Prefecture, Japan.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nChronology\nThe chronological history of the station is detailed in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nBus connections\nBus routes connecting to the station are detailed in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nHistory 2\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 876
+        }
       },
       "结构化信息": {
         "读音": "みかわたはらえき",
@@ -259,7 +322,21 @@
           "全文": "南荣站（みなみさかええき）是位于爱知县丰桥市南荣町，属于丰桥铁道渥美线的车站。车站编号5。\n\n概要\n以陆军病院前站开业，战后改称南荣站。\n\n历史\n1937年：作为渥美电铁陆军病院前站开业。\n1947年1月10日：改称南荣站。\n\n车站结构\n单侧式月台1面1线的地上车站。\n\n相邻车站\n渥美线：爱知大学前站 (4)－南荣站 (5)－高师站 (6)\n",
           "字数": 172
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Minami-Sakae Station",
+          "链接": "https://en.wikipedia.org/wiki/Minami-Sakae_Station",
+          "首段": "Minami-Sakae Station is a station on the Toyohashi Railroad Atsumi Line, located in Toyohashi, Aichi Prefecture, Japan.",
+          "章节": {
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Minami-Sakae Station is a station on the Toyohashi Railroad Atsumi Line, located in Toyohashi, Aichi Prefecture, Japan.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 611
+        }
       },
       "结构化信息": {
         "读音": "みなみさかええき",
@@ -331,7 +408,24 @@
           "全文": "向丘站（むこうがおかえき）是位于爱知县丰桥市植田町，属于丰桥铁道渥美线的车站。车站编号9。\n\n概要\n为丰桥铁道住宅销售提升居民便利性而开设。无人站。\n\n历史\n1959年（昭和34年）1月16日：开业。\n\n车站结构\n单侧式月台1面1线的地上车站。\n\n相邻车站\n渥美线：植田站 (8)－向丘站 (9)－大清水站 (10)\n",
           "字数": 159
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Mukōgaoka Station",
+          "链接": "https://en.wikipedia.org/wiki/Mukōgaoka_Station",
+          "首段": "Mukōgaoka Station is a station on the Toyohashi Railroad Atsumi Line, located in Toyohashi, Aichi Prefecture, Japan.",
+          "章节": {
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 5": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Mukōgaoka Station is a station on the Toyohashi Railroad Atsumi Line, located in Toyohashi, Aichi Prefecture, Japan.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 5\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 861
+        }
       },
       "结构化信息": {
         "读音": "むこうがおかえき",
@@ -408,9 +502,18 @@
           "词条标题": "Ōshimizu Station",
           "链接": "https://en.wikipedia.org/wiki/%C5%8Cshimizu%20Station",
           "首段": "is a railway station in the city of  Toyohashi, Aichi Prefecture, Japan, operated by the Public–private partnership Toyohashi Railroad.",
-          "章节": {},
-          "全文": "is a railway station in the city of  Toyohashi, Aichi Prefecture, Japan, operated by the Public–private partnership Toyohashi Railroad.",
-          "字数": 135
+          "章节": {
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Bus connections": "Bus routes connecting to the station are detailed in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a railway station in the city of  Toyohashi, Aichi Prefecture, Japan, operated by the Public–private partnership Toyohashi Railroad.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nBus connections\nBus routes connecting to the station are detailed in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 792
         }
       },
       "结构化信息": {
@@ -493,9 +596,17 @@
           "词条标题": "Koike Station",
           "链接": "https://en.wikipedia.org/wiki/Koike%20Station",
           "首段": "is a railway station in the city of  Toyohashi, Aichi Prefecture, Japan, operated by the Public–private partnership Toyohashi Railroad.",
-          "章节": {},
-          "全文": "is a railway station in the city of  Toyohashi, Aichi Prefecture, Japan, operated by the Public–private partnership Toyohashi Railroad.",
-          "字数": 135
+          "章节": {
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a railway station in the city of  Toyohashi, Aichi Prefecture, Japan, operated by the Public–private partnership Toyohashi Railroad.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 690
         }
       },
       "结构化信息": {
@@ -566,9 +677,16 @@
           "词条标题": "Aichidaigakumae Station",
           "链接": "https://en.wikipedia.org/wiki/Aichidaigakumae%20Station",
           "首段": "is a railway station in the city of  Toyohashi, Aichi Prefecture, Japan, operated by the Public–private partnership Toyohashi Railroad.",
-          "章节": {},
-          "全文": "is a railway station in the city of  Toyohashi, Aichi Prefecture, Japan, operated by the Public–private partnership Toyohashi Railroad.",
-          "字数": 135
+          "章节": {
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a railway station in the city of  Toyohashi, Aichi Prefecture, Japan, operated by the Public–private partnership Toyohashi Railroad.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 627
         }
       },
       "结构化信息": {
@@ -642,7 +760,24 @@
           "字数": 660,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Shin-Toyohashi Station",
+          "链接": "https://en.wikipedia.org/wiki/Shin-Toyohashi_Station",
+          "首段": "Shin-Toyohashi Station is an interchange station on the Toyohashi Railroad Atsumi Line and JR Central Iida Line, located in Toyohashi, Aichi Prefecture, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 5": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 6": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Shin-Toyohashi Station is an interchange station on the Toyohashi Railroad Atsumi Line and JR Central Iida Line, located in Toyohashi, Aichi Prefecture, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 5\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 6\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 840
+        }
       },
       "结构化信息": {
         "读音": "しんとよはしえき",
@@ -724,9 +859,17 @@
           "词条标题": "Sugiyama Station",
           "链接": "https://en.wikipedia.org/wiki/Sugiyama%20Station",
           "首段": "is a railway station in the city of  Toyohashi, Aichi Prefecture, Japan, operated by the Public–private partnership Toyohashi Railroad.",
-          "章节": {},
-          "全文": "is a railway station in the city of  Toyohashi, Aichi Prefecture, Japan, operated by the Public–private partnership Toyohashi Railroad.",
-          "字数": 135
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Bus connections": "Bus routes connecting to the station are detailed in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a railway station in the city of  Toyohashi, Aichi Prefecture, Japan, operated by the Public–private partnership Toyohashi Railroad.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nBus connections\nBus routes connecting to the station are detailed in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 729
         }
       },
       "结构化信息": {
@@ -802,7 +945,22 @@
           "字数": 887,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Yagyū-bashi Station",
+          "链接": "https://en.wikipedia.org/wiki/Yagyū-bashi_Station",
+          "首段": "Yagyū-bashi Station is a station on the Toyohashi Railroad Atsumi Line, located in Toyohashi, Aichi Prefecture, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Chronology": "The chronological history of the station is detailed in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Yagyū-bashi Station is a station on the Toyohashi Railroad Atsumi Line, located in Toyohashi, Aichi Prefecture, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nChronology\nThe chronological history of the station is detailed in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 774
+        }
       },
       "结构化信息": {
         "读音": "やぎゅうばしえき",
@@ -865,7 +1023,16 @@
           "字数": 248,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Ueta Station",
+          "链接": "https://en.wikipedia.org/wiki/Ueta_Station",
+          "首段": "Ueta Station is a station on the Toyohashi Railroad Atsumi Line, located in Toyohashi, Aichi Prefecture, Japan.",
+          "章节": {
+            "Notes": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Ueta Station is a station on the Toyohashi Railroad Atsumi Line, located in Toyohashi, Aichi Prefecture, Japan.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 172
+        }
       },
       "结构化信息": {
         "读音": null,
@@ -915,7 +1082,18 @@
           "字数": 671,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Kōbe Station",
+          "链接": "https://en.wikipedia.org/wiki/Kōbe_Station",
+          "首段": "Kōbe Station is a station on the Toyohashi Railroad Atsumi Line, located in Toyohashi, Aichi Prefecture, Japan.",
+          "章节": {
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Others": "Additional notes are given in the Japanese Wikipedia article."
+          },
+          "全文": "Kōbe Station is a station on the Toyohashi Railroad Atsumi Line, located in Toyohashi, Aichi Prefecture, Japan.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nOthers\nAdditional notes are given in the Japanese Wikipedia article.",
+          "字数": 305
+        }
       },
       "结构化信息": {
         "读音": null,
@@ -986,9 +1164,18 @@
           "词条标题": "Oitsu Station",
           "链接": "https://en.wikipedia.org/wiki/Oitsu%20Station",
           "首段": "is a railway station in the city of  Toyohashi, Aichi Prefecture, Japan, operated by the Public–private partnership Toyohashi Railroad.",
-          "章节": {},
-          "全文": "is a railway station in the city of  Toyohashi, Aichi Prefecture, Japan, operated by the Public–private partnership Toyohashi Railroad.",
-          "字数": 135
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Bus connections": "Bus routes connecting to the station are detailed in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a railway station in the city of  Toyohashi, Aichi Prefecture, Japan, operated by the Public–private partnership Toyohashi Railroad.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nBus connections\nBus routes connecting to the station are detailed in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 792
         }
       },
       "结构化信息": {
@@ -1068,9 +1255,21 @@
           "词条标题": "Ashihara Station",
           "链接": "https://en.wikipedia.org/wiki/Ashihara%20Station",
           "首段": "is a railway station in the city of  Toyohashi, Aichi Prefecture, Japan, operated by the Public–private partnership Toyohashi Railroad.",
-          "章节": {},
-          "全文": "is a railway station in the city of  Toyohashi, Aichi Prefecture, Japan, operated by the Public–private partnership Toyohashi Railroad.",
-          "字数": 135
+          "章节": {
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article.",
+            "Others": "Additional notes are given in the Japanese Wikipedia article.",
+            "Notes 5": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 6": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a railway station in the city of  Toyohashi, Aichi Prefecture, Japan, operated by the Public–private partnership Toyohashi Railroad.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.\n\nOthers\nAdditional notes are given in the Japanese Wikipedia article.\n\nNotes 5\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 6\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 1013
         }
       },
       "结构化信息": {
@@ -1154,9 +1353,19 @@
           "词条标题": "Toshima Station",
           "链接": "https://en.wikipedia.org/wiki/Toshima%20Station",
           "首段": "is a railway station in the city of  Tahara, Aichi Prefecture, Japan, operated by the  Public–private partnership Toyohashi Railroad.",
-          "章节": {},
-          "全文": "is a railway station in the city of  Tahara, Aichi Prefecture, Japan, operated by the  Public–private partnership Toyohashi Railroad.",
-          "字数": 133
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Bus connections": "Bus routes connecting to the station are detailed in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article.",
+            "History 2": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a railway station in the city of  Tahara, Aichi Prefecture, Japan, operated by the  Public–private partnership Toyohashi Railroad.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nBus connections\nBus routes connecting to the station are detailed in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.\n\nHistory 2\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 855
         }
       },
       "结构化信息": {
@@ -1241,9 +1450,19 @@
           "词条标题": "Takashi Station",
           "链接": "https://en.wikipedia.org/wiki/Takashi%20Station",
           "首段": "is a railway station in the city of  Toyohashi, Aichi Prefecture, Japan, operated by the Public–private partnership Toyohashi Railroad.",
-          "章节": {},
-          "全文": "is a railway station in the city of  Toyohashi, Aichi Prefecture, Japan, operated by the Public–private partnership Toyohashi Railroad.",
-          "字数": 135
+          "章节": {
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Others": "Additional notes are given in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a railway station in the city of  Toyohashi, Aichi Prefecture, Japan, operated by the Public–private partnership Toyohashi Railroad.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nOthers\nAdditional notes are given in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 887
         }
       },
       "结构化信息": {
@@ -1284,6 +1503,6 @@
     "有中文词条": 16,
     "已千问汉化": 0,
     "待汉化": 0,
-    "有英文词条": 9
+    "有英文词条": 16
   }
 }
