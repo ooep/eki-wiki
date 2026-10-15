@@ -47,7 +47,14 @@
         "字数": 680,
         "来源": "维基百科中文版（已转简体）"
       },
-      "英文": null
+      "英文": {
+        "词条标题": "津轻铁道线",
+        "链接": "https://ja.wikipedia.org/wiki/%E6%B4%A5%E8%BB%BD%E9%89%84%E9%81%93%E7%B7%9A",
+        "首段": "The 津轻铁道线 is a railway line in Japan.",
+        "章节": {},
+        "全文": "The 津轻铁道线 is a railway line in Japan.",
+        "字数": 37
+      }
     }
   },
   "车站": [
@@ -90,15 +97,11 @@
         },
         "英文": {
           "词条标题": "Gonōkōmae Station",
-          "链接": "https://en.wikipedia.org/wiki/Gon%C5%8Dk%C5%8Dmae%20Station",
-          "首段": "is a railway station on the Tsugaru Railway Line in the city of Goshogawara, Aomori, Japan, operated by the private railway operator Tsugaru Railway Company.",
-          "章节": {
-            "Lines": "Gonōkōmae Station is served by the Tsugaru Railway Line, and is located 3.2 km from the terminus of the line at .\n\nStation layout\nThe station has a single side platform serving bidirectional traffic. The station is unattended.",
-            "History": "Gonōkōmae Station was opened on April 1, 1974.\n\nSurrounding area\nGoshogawara Agricultural High School (after which the station is named)\n\nSee also\n List of railway stations in Japan\n\nExternal links\n\n \n\nRailway stations in Aomori Prefecture\nTsugaru Railway Line",
-            "Goshogawara": "Railway stations in Japan opened in 1974"
-          },
-          "全文": "is a railway station on the Tsugaru Railway Line in the city of Goshogawara, Aomori, Japan, operated by the private railway operator Tsugaru Railway Company.\n\nLines\nGonōkōmae Station is served by the Tsugaru Railway Line, and is located 3.2 km from the terminus of the line at .\n\nStation layout\nThe station has a single side platform serving bidirectional traffic. The station is unattended.\n\nHistory\nGonōkōmae Station was opened on April 1, 1974.\n\nSurrounding area\nGoshogawara Agricultural High School (after which the station is named)\n\nSee also\n List of railway stations in Japan\n\nExternal links\n\n \n\nRailway stations in Aomori Prefecture\nTsugaru Railway Line\nGoshogawara\nRailway stations in Japan opened in 1974",
-          "字数": 714
+          "链接": "https://ja.wikipedia.org/wiki/%E4%BA%94%E8%BE%B2%E6%A0%A1%E5%89%8D%E9%A7%85",
+          "首段": "Gonōkōmae Station (五農校前駅) is a railway station in 県五所川原市一野坪, Japan.",
+          "章节": {},
+          "全文": "Gonōkōmae Station (五農校前駅) is a railway station in 県五所川原市一野坪, Japan.",
+          "字数": 67
         }
       },
       "结构化信息": {
@@ -156,7 +159,14 @@
           "字数": 28,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "十川駅",
+          "链接": "https://ja.wikipedia.org/wiki/%E5%8D%81%E5%B7%9D%E9%A7%85",
+          "首段": "十川駅 (十川駅) is a railway station in Japan, Japan.",
+          "章节": {},
+          "全文": "十川駅 (十川駅) is a railway station in Japan, Japan.",
+          "字数": 47
+        }
       },
       "结构化信息": {
         "读音": null,
@@ -293,14 +303,11 @@
         },
         "英文": {
           "词条标题": "Ōzawanai Station",
-          "链接": "https://en.wikipedia.org/wiki/%C5%8Czawanai%20Station",
-          "首段": "is a railway station on the Tsugaru Railway Line in the town of Nakadomari, Aomori, Japan, operated by the private railway operator Tsugaru Railway Company.",
-          "章节": {
-            "Lines": "Ōzawanai Station is served by the Tsugaru Railway Line, and is located 17.7 km from the terminus of the line at .\n\nStation layout\nThe station has one ground-level side platform serving a single bidirectional line. The station is unattended.",
-            "History": "Ōzawanai Station was opened on October 4, 1930. The station building was reconstructed in 1967.\n\nSurrounding area\n Ōzawanai Reservoir\n\nSee also\n List of railway stations in Japan\n\nExternal links\n\n \n\nRailway stations in Aomori Prefecture\nTsugaru Railway Line\nNakadomari, Aomori\nRailway stations in Japan opened in 1930"
-          },
-          "全文": "is a railway station on the Tsugaru Railway Line in the town of Nakadomari, Aomori, Japan, operated by the private railway operator Tsugaru Railway Company.\n\nLines\nŌzawanai Station is served by the Tsugaru Railway Line, and is located 17.7 km from the terminus of the line at .\n\nStation layout\nThe station has one ground-level side platform serving a single bidirectional line. The station is unattended.\n\nHistory\nŌzawanai Station was opened on October 4, 1930. The station building was reconstructed in 1967.\n\nSurrounding area\n Ōzawanai Reservoir\n\nSee also\n List of railway stations in Japan\n\nExternal links\n\n \n\nRailway stations in Aomori Prefecture\nTsugaru Railway Line\nNakadomari, Aomori\nRailway stations in Japan opened in 1930",
-          "字数": 731
+          "链接": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%B2%A2%E5%86%85%E9%A7%85",
+          "首段": "Ōzawanai Station (大沢内駅) is a railway station in 県北津軽郡中泊町大字大沢内, Japan.",
+          "章节": {},
+          "全文": "Ōzawanai Station (大沢内駅) is a railway station in 県北津軽郡中泊町大字大沢内, Japan.",
+          "字数": 69
         }
       },
       "结构化信息": {
@@ -367,14 +374,11 @@
         },
         "英文": {
           "词条标题": "Kawakura Station",
-          "链接": "https://en.wikipedia.org/wiki/Kawakura%20Station",
-          "首段": "is a railway station on the Tsugaru Railway Line in the town of Nakadomari, Aomori, Japan, operated by the private railway operator Tsugaru Railway Company.",
-          "章节": {
-            "Lines": "Kawakura Station is served by the Tsugaru Railway Line, and is located 16.0 km from the terminus of the line at .\n\nStation layout\nThe station has one side platform serving a single bidirectional line. There is no station building, but only a weather shelter on the platform. The station is unattended.",
-            "History": "Kawakura Station was opened on April 24, 1932. The station building was reconstructed in 1967. It was closed on April 1, 1943, but reopened on May 20, 1955.\n\nSurrounding area\n\nSee also\n List of railway stations in Japan\n\nExternal links\n\n \n\nRailway stations in Aomori Prefecture\nTsugaru Railway Line\nNakadomari, Aomori\nRailway stations in Japan opened in 1932"
-          },
-          "全文": "is a railway station on the Tsugaru Railway Line in the town of Nakadomari, Aomori, Japan, operated by the private railway operator Tsugaru Railway Company.\n\nLines\nKawakura Station is served by the Tsugaru Railway Line, and is located 16.0 km from the terminus of the line at .\n\nStation layout\nThe station has one side platform serving a single bidirectional line. There is no station building, but only a weather shelter on the platform. The station is unattended.\n\nHistory\nKawakura Station was opened on April 24, 1932. The station building was reconstructed in 1967. It was closed on April 1, 1943, but reopened on May 20, 1955.\n\nSurrounding area\n\nSee also\n List of railway stations in Japan\n\nExternal links\n\n \n\nRailway stations in Aomori Prefecture\nTsugaru Railway Line\nNakadomari, Aomori\nRailway stations in Japan opened in 1932",
-          "字数": 833
+          "链接": "https://ja.wikipedia.org/wiki/%E5%B7%9D%E5%80%89%E9%A7%85",
+          "首段": "Kawakura Station (川倉駅) is a railway station in 県五所川原市金木町川倉, Japan.",
+          "章节": {},
+          "全文": "Kawakura Station (川倉駅) is a railway station in 県五所川原市金木町川倉, Japan.",
+          "字数": 66
         }
       },
       "结构化信息": {
@@ -438,7 +442,14 @@
           "字数": 335,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "毘沙門駅",
+          "链接": "https://ja.wikipedia.org/wiki/%E6%AF%98%E6%B2%99%E9%96%80%E9%A7%85",
+          "首段": "毘沙門駅 (毘沙門駅) is a railway station in 県五所川原市大字毘沙門, Japan.",
+          "章节": {},
+          "全文": "毘沙門駅 (毘沙門駅) is a railway station in 県五所川原市大字毘沙門, Japan.",
+          "字数": 55
+        }
       },
       "结构化信息": {
         "读音": "びしゃもんえき",
@@ -510,7 +521,14 @@
           "字数": 1324,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "津軽中里駅",
+          "链接": "https://ja.wikipedia.org/wiki/%E6%B4%A5%E8%BB%BD%E4%B8%AD%E9%87%8C%E9%A7%85",
+          "首段": "津軽中里駅 (津軽中里駅) is a railway station in 県北津軽郡中泊町大字中里, Japan.",
+          "章节": {},
+          "全文": "津軽中里駅 (津軽中里駅) is a railway station in 県北津軽郡中泊町大字中里, Japan.",
+          "字数": 58
+        }
       },
       "结构化信息": {
         "读音": "つがるなかさとえき",
@@ -561,7 +579,14 @@
           "字数": 72,
           "来源": "豆包全文翻译（据日文维基全文）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "",
+          "链接": "",
+          "首段": " () is a railway station in Japan, Japan.",
+          "章节": {},
+          "全文": " () is a railway station in Japan, Japan.",
+          "字数": 41
+        }
       },
       "结构化信息": {}
     },
@@ -602,7 +627,14 @@
           "字数": 513,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "津軽飯詰駅",
+          "链接": "https://ja.wikipedia.org/wiki/%E6%B4%A5%E8%BB%BD%E9%A3%AF%E8%A9%B0%E9%A7%85",
+          "首段": "津軽飯詰駅 (津軽飯詰駅) is a railway station in 県五所川原市飯詰, Japan.",
+          "章节": {},
+          "全文": "津軽飯詰駅 (津軽飯詰駅) is a railway station in 県五所川原市飯詰, Japan.",
+          "字数": 54
+        }
       },
       "结构化信息": {
         "读音": "つがるいいづめえき",
@@ -670,14 +702,11 @@
         },
         "英文": {
           "词条标题": "Fukōda Station",
-          "链接": "https://en.wikipedia.org/wiki/Fuk%C5%8Dda%20Station",
-          "首段": "is a railway station on the Tsugaru Railway Line in the town of Nakadomari, Aomori, Japan, operated by the private railway operator Tsugaru Railway Company.",
-          "章节": {
-            "Lines": "Fukōda Station is served by the Tsugaru Railway Line, and is located 19.0 km from the terminus of the line at .\n\nStation layout\nThe station has one side platform serving a single bidirectional line. There is no station building, but only a weather shelter on the platform. The station is unattended.",
-            "History": "Fukōda Station was opened on April 24, 1932. It was closed on April 1, 1943, but reopened again on May 20, 1955.\n\nSurrounding area\n\nSee also\n List of railway stations in Japan\n\nExternal links\n\n \n\nRailway stations in Aomori Prefecture\nTsugaru Railway Line\nNakadomari, Aomori\nRailway stations in Japan opened in 1932"
-          },
-          "全文": "is a railway station on the Tsugaru Railway Line in the town of Nakadomari, Aomori, Japan, operated by the private railway operator Tsugaru Railway Company.\n\nLines\nFukōda Station is served by the Tsugaru Railway Line, and is located 19.0 km from the terminus of the line at .\n\nStation layout\nThe station has one side platform serving a single bidirectional line. There is no station building, but only a weather shelter on the platform. The station is unattended.\n\nHistory\nFukōda Station was opened on April 24, 1932. It was closed on April 1, 1943, but reopened again on May 20, 1955.\n\nSurrounding area\n\nSee also\n List of railway stations in Japan\n\nExternal links\n\n \n\nRailway stations in Aomori Prefecture\nTsugaru Railway Line\nNakadomari, Aomori\nRailway stations in Japan opened in 1932",
-          "字数": 787
+          "链接": "https://ja.wikipedia.org/wiki/%E6%B7%B1%E9%83%B7%E7%94%B0%E9%A7%85",
+          "首段": "Fukōda Station (深郷田駅) is a railway station in 県北津軽郡中泊町大字深郷田, Japan.",
+          "章节": {},
+          "全文": "Fukōda Station (深郷田駅) is a railway station in 県北津軽郡中泊町大字深郷田, Japan.",
+          "字数": 67
         }
       },
       "结构化信息": {
@@ -744,7 +773,14 @@
           "字数": 83,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "芦野公園駅",
+          "链接": "https://ja.wikipedia.org/wiki/%E8%8A%A6%E9%87%8E%E5%85%AC%E5%9C%92%E9%A7%85",
+          "首段": "芦野公園駅 (芦野公園駅) is a railway station in 県五所川原市金木町芦野, Japan.",
+          "章节": {},
+          "全文": "芦野公園駅 (芦野公園駅) is a railway station in 県五所川原市金木町芦野, Japan.",
+          "字数": 57
+        }
       },
       "结构化信息": {
         "读音": "あしのこうえんえき",
@@ -824,16 +860,11 @@
         },
         "英文": {
           "词条标题": "Kanagi Station",
-          "链接": "https://en.wikipedia.org/wiki/Kanagi%20Station",
-          "首段": "is a railway station on the Tsugaru Railway Line in the city of Goshogawara, Aomori, Japan, operated by the private railway operator Tsugaru Railway Company.",
-          "章节": {
-            "Lines": "Kanagi Station is served by the Tsugaru Railway Line, and is located 12.8 km from the terminus of the line at .\n\nStation layout\nThe station has dual opposed ground-level side platforms serving two tracks, connected by a level crossing. The station is staffed.",
-            "History": "Kanagi Station was opened on July 15, 1930 with the opening of the Tsugary Railway Line. The station building was rebuilt on December 25, 2003.\n\nSurrounding area\nKanagi Post Office\nOsamu Dazai Memorial Museum\n\nSee also\n List of railway stations in Japan",
-            "References": "External links\n\n \n\nRailway stations in Aomori Prefecture\nTsugaru Railway Line",
-            "Goshogawara": "Railway stations in Japan opened in 1930"
-          },
-          "全文": "is a railway station on the Tsugaru Railway Line in the city of Goshogawara, Aomori, Japan, operated by the private railway operator Tsugaru Railway Company.\n\nLines\nKanagi Station is served by the Tsugaru Railway Line, and is located 12.8 km from the terminus of the line at .\n\nStation layout\nThe station has dual opposed ground-level side platforms serving two tracks, connected by a level crossing. The station is staffed.\n\nPlatforms\n\nHistory\nKanagi Station was opened on July 15, 1930 with the opening of the Tsugary Railway Line. The station building was rebuilt on December 25, 2003.\n\nSurrounding area\nKanagi Post Office\nOsamu Dazai Memorial Museum\n\nSee also\n List of railway stations in Japan\n\nReferences\n\nExternal links\n\n \n\nRailway stations in Aomori Prefecture\nTsugaru Railway Line\nGoshogawara\nRailway stations in Japan opened in 1930",
-          "字数": 842
+          "链接": "https://ja.wikipedia.org/wiki/%E9%87%91%E6%9C%A8%E9%A7%85",
+          "首段": "Kanagi Station (金木駅) is a railway station in 県五所川原市金木町芦野, Japan.",
+          "章节": {},
+          "全文": "Kanagi Station (金木駅) is a railway station in 県五所川原市金木町芦野, Japan.",
+          "字数": 64
         }
       },
       "结构化信息": {
@@ -868,6 +899,6 @@
     "有中文词条": 12,
     "已千问汉化": 0,
     "待汉化": 0,
-    "有英文词条": 6
+    "有英文词条": 12
   }
 }

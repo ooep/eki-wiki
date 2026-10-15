@@ -46,7 +46,14 @@
         "字数": 1772,
         "来源": "维基百科中文版（已转简体）"
       },
-      "英文": null
+      "英文": {
+        "词条标题": "明知线",
+        "链接": "https://ja.wikipedia.org/wiki/%E6%98%8E%E7%9F%A5%E9%89%84%E9%81%93%E6%98%8E%E7%9F%A5%E7%B7%9A",
+        "首段": "The 明知线 is a railway line in Japan.",
+        "章节": {},
+        "全文": "The 明知线 is a railway line in Japan.",
+        "字数": 35
+      }
     }
   },
   "车站": [
@@ -89,14 +96,11 @@
         },
         "英文": {
           "词条标题": "Yamaoka Station",
-          "链接": "https://en.wikipedia.org/wiki/Yamaoka%20Station",
-          "首段": "is a train station in the city of Ena, Gifu Prefecture, Japan, operated by the Third-sector railway operator Akechi Railway.",
-          "章节": {
-            "Lines": "Yamaoka Station is a station on the Akechi Line, and is located 19.7 rail kilometers from the  terminus of the line at .\n\nStation layout\nYamaoka Station has one side platform serving a single bi-directional track. The station is staffed.\n\nAdjacent stations\n\n|-\n!colspan=5|Akechi Railway",
-            "History": "Yamaoka Station opened on June 24, 1934 as . It was renamed to its present name on December 20, 1956.\n\nSurrounding area\n\nSee also\n List of Railway Stations in Japan\n\nExternal links\n\n \n\nRailway stations in Japan opened in 1934\nRailway stations in Gifu Prefecture\nStations of Akechi Railway\nEna, Gifu"
-          },
-          "全文": "is a train station in the city of Ena, Gifu Prefecture, Japan, operated by the Third-sector railway operator Akechi Railway.\n\nLines\nYamaoka Station is a station on the Akechi Line, and is located 19.7 rail kilometers from the  terminus of the line at .\n\nStation layout\nYamaoka Station has one side platform serving a single bi-directional track. The station is staffed.\n\nAdjacent stations\n\n|-\n!colspan=5|Akechi Railway\n\nHistory\nYamaoka Station opened on June 24, 1934 as . It was renamed to its present name on December 20, 1956.\n\nSurrounding area\n\nSee also\n List of Railway Stations in Japan\n\nExternal links\n\n \n\nRailway stations in Japan opened in 1934\nRailway stations in Gifu Prefecture\nStations of Akechi Railway\nEna, Gifu",
-          "字数": 726
+          "链接": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E5%B2%A1%E9%A7%85",
+          "首段": "Yamaoka Station (山岡駅) is a railway station in 県恵那市山岡町田沢, Japan.",
+          "章节": {},
+          "全文": "Yamaoka Station (山岡駅) is a railway station in 県恵那市山岡町田沢, Japan.",
+          "字数": 63
         }
       },
       "结构化信息": {
@@ -171,14 +175,11 @@
         },
         "英文": {
           "词条标题": "Iwamura Station",
-          "链接": "https://en.wikipedia.org/wiki/Iwamura%20Station",
-          "首段": "is a train station in the city of Ena, Gifu Prefecture, Japan, operated by the Third-sector railway operator Akechi Railway.",
-          "章节": {
-            "Lines": "Iwamura Station is a station on the Akechi Line, and is located 15.0 rail kilometers from the  terminus of the line at .\n\nStation layout\nIwamura Station has two ground-level opposed, but offset side platforms connected to the station building by a level crossing. The station is staffed.\n\nAdjacent stations\n\n|-\n!colspan=5|Akechi Railway",
-            "History": "Iwamura Station opened on January 26, 1934.\n\nSurrounding area\nIwamura Castle\nHondōri Iwamura-chō\nformer Iwamura Town Hall\n\nSee also\n List of Railway Stations in Japan\n\nExternal links\n\n \n\nRailway stations in Gifu Prefecture\nRailway stations in Japan opened in 1934\nStations of Akechi Railway\nEna, Gifu"
-          },
-          "全文": "is a train station in the city of Ena, Gifu Prefecture, Japan, operated by the Third-sector railway operator Akechi Railway.\n\nLines\nIwamura Station is a station on the Akechi Line, and is located 15.0 rail kilometers from the  terminus of the line at .\n\nStation layout\nIwamura Station has two ground-level opposed, but offset side platforms connected to the station building by a level crossing. The station is staffed.\n\nAdjacent stations\n\n|-\n!colspan=5|Akechi Railway\n\nHistory\nIwamura Station opened on January 26, 1934.\n\nSurrounding area\nIwamura Castle\nHondōri Iwamura-chō\nformer Iwamura Town Hall\n\nSee also\n List of Railway Stations in Japan\n\nExternal links\n\n \n\nRailway stations in Gifu Prefecture\nRailway stations in Japan opened in 1934\nStations of Akechi Railway\nEna, Gifu",
-          "字数": 778
+          "链接": "https://ja.wikipedia.org/wiki/%E5%B2%A9%E6%9D%91%E9%A7%85",
+          "首段": "Iwamura Station (岩村駅) is a railway station in 県恵那市岩村町, Japan.",
+          "章节": {},
+          "全文": "Iwamura Station (岩村駅) is a railway station in 県恵那市岩村町, Japan.",
+          "字数": 61
         }
       },
       "结构化信息": {
@@ -265,17 +266,11 @@
         },
         "英文": {
           "词条标题": "Ena Station",
-          "链接": "https://en.wikipedia.org/wiki/Ena%20Station",
-          "首段": "is a railway station in the city of Ena, Gifu Prefecture, Japan, operated by Central Japan Railway Company (JR Central) and by the third-sector railway operator Akechi Railway.",
-          "章节": {
-            "Lines": "Ena Station is served by the Chūō Main Line, and is located 328.6 kilometers from the official starting point of the line at  and 68.3 kilometers from . It is also a terminal station for the Akechi Line, and is located 25.1 kilometers from the opposing terminus of the line at .",
-            "Layout": "The JR portion of the station has one ground-level  side platform and one ground-level island platform connected by a footbridge. The station has a Midori no Madoguchi staffed ticket office. The Akechi Railway portion of the station has a single bay platform serving one track.",
-            "Platforms": "Adjacent stations",
-            "History": "The station opened on 21 December 1902 as . The Akechi Line began operations from 24 May 1933. The station was renamed Ena Station from 1 November 1963. On 1 April 1987, it became part of JR Central.\n\nPassenger statistics\nIn fiscal 2016, the station was used by an average of 3,497 passengers daily (boarding passengers only).\n\nSurrounding area\nEna City Hall\nSite of Ōi-juku\n\nBus routes\nTotetsu Bus\nFor Ena Gorge\nFor Totetsu Ena Shako (You are able to transfer onto Kita-Ena Kotsu bound to Mino-Sakamoto Station and Nakatsugawa Station at this bus stop)\n\nSee also\n List of Railway Stations in Japan",
-            "References": "External links\n\n  \n\nRailway stations in Japan opened in 1902\nRailway stations in Gifu Prefecture\nStations of Central Japan Railway Company\nChūō Main Line\nStations of Akechi Railway\nEna, Gifu"
-          },
-          "全文": "is a railway station in the city of Ena, Gifu Prefecture, Japan, operated by Central Japan Railway Company (JR Central) and by the third-sector railway operator Akechi Railway.\n\nLines\nEna Station is served by the Chūō Main Line, and is located 328.6 kilometers from the official starting point of the line at  and 68.3 kilometers from . It is also a terminal station for the Akechi Line, and is located 25.1 kilometers from the opposing terminus of the line at .\n\nLayout\nThe JR portion of the station has one ground-level  side platform and one ground-level island platform connected by a footbridge. The station has a Midori no Madoguchi staffed ticket office. The Akechi Railway portion of the station has a single bay platform serving one track.\n\nPlatforms\n\nAdjacent stations\n\nHistory\nThe station opened on 21 December 1902 as . The Akechi Line began operations from 24 May 1933. The station was renamed Ena Station from 1 November 1963. On 1 April 1987, it became part of JR Central.\n\nPassenger statistics\nIn fiscal 2016, the station was used by an average of 3,497 passengers daily (boarding passengers only).\n\nSurrounding area\nEna City Hall\nSite of Ōi-juku\n\nBus routes\nTotetsu Bus\nFor Ena Gorge\nFor Totetsu Ena Shako (You are able to transfer onto Kita-Ena Kotsu bound to Mino-Sakamoto Station and Nakatsugawa Station at this bus stop)\n\nSee also\n List of Railway Stations in Japan\n\nReferences\n\nExternal links\n\n  \n\nRailway stations in Japan opened in 1902\nRailway stations in Gifu Prefecture\nStations of Central Japan Railway Company\nChūō Main Line\nStations of Akechi Railway\nEna, Gifu",
-          "字数": 1590
+          "链接": "https://ja.wikipedia.org/wiki/%E6%81%B5%E9%82%A3%E9%A7%85",
+          "首段": "Ena Station (恵那駅) is a railway station in 県恵那市大井町, Japan.",
+          "章节": {},
+          "全文": "Ena Station (恵那駅) is a railway station in 県恵那市大井町, Japan.",
+          "字数": 57
         }
       },
       "结构化信息": {
@@ -455,15 +450,11 @@
         },
         "英文": {
           "词条标题": "Gokuraku Station",
-          "链接": "https://en.wikipedia.org/wiki/Gokuraku%20Station",
-          "首段": "is a train station in the city of Ena, Gifu Prefecture, Japan, operated by the third-sector railway operator Akechi Railway.",
-          "章节": {
-            "Lines": "Gokuraku Station is a station on the Akechi Line, and is located 13.7  rail kilometers from the  terminus of the line at .\n\nStation layout\nGokuraku Station has one side platform serving a single bi-directional track. The station is unattended.\n\nAdjacent stations\n\n|-\n!colspan=5|Akechi Railway",
-            "History": "Gokuraku Station opened on December 25, 2008.\n\nSurrounding area\n\nSee also\n List of Railway Stations in Japan",
-            "References": "History of the railway company on its official Japanese website, mentioning the opening of Gokuraku Station in December 2008 at the bottom of the table.\n  A Japanese news article regarding the opening of the station, released by a major newspaper company.\n\nExternal links\n\n \n\nRailway stations in Gifu Prefecture\nRailway stations in Japan opened in 2008\nStations of Akechi Railway\nEna, Gifu"
-          },
-          "全文": "is a train station in the city of Ena, Gifu Prefecture, Japan, operated by the third-sector railway operator Akechi Railway.\n\nLines\nGokuraku Station is a station on the Akechi Line, and is located 13.7  rail kilometers from the  terminus of the line at .\n\nStation layout\nGokuraku Station has one side platform serving a single bi-directional track. The station is unattended.\n\nAdjacent stations\n\n|-\n!colspan=5|Akechi Railway\n\nHistory\nGokuraku Station opened on December 25, 2008.\n\nSurrounding area\n\nSee also\n List of Railway Stations in Japan\n\nReferences \n\n  History of the railway company on its official Japanese website, mentioning the opening of Gokuraku Station in December 2008 at the bottom of the table.\n  A Japanese news article regarding the opening of the station, released by a major newspaper company.\n\nExternal links\n\n \n\nRailway stations in Gifu Prefecture\nRailway stations in Japan opened in 2008\nStations of Akechi Railway\nEna, Gifu",
-          "字数": 948
+          "链接": "https://ja.wikipedia.org/wiki/%E6%A5%B5%E6%A5%BD%E9%A7%85",
+          "首段": "Gokuraku Station (極楽駅) is a railway station in 県恵那市岩村町飯羽間, Japan.",
+          "章节": {},
+          "全文": "Gokuraku Station (極楽駅) is a railway station in 県恵那市岩村町飯羽間, Japan.",
+          "字数": 65
         }
       },
       "结构化信息": {
@@ -532,7 +523,14 @@
           "字数": 361,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "花白温泉駅",
+          "链接": "https://ja.wikipedia.org/wiki/%E8%8A%B1%E7%99%BD%E6%B8%A9%E6%B3%89%E9%A7%85",
+          "首段": "花白温泉駅 (花白温泉駅) is a railway station in 県恵那市山岡町馬場山田, Japan.",
+          "章节": {},
+          "全文": "花白温泉駅 (花白温泉駅) is a railway station in 県恵那市山岡町馬場山田, Japan.",
+          "字数": 57
+        }
       },
       "结构化信息": {
         "读音": "はなしろおんせんえき",
@@ -600,14 +598,11 @@
         },
         "英文": {
           "词条标题": "Noshi Station",
-          "链接": "https://en.wikipedia.org/wiki/Noshi%20Station",
-          "首段": "is a train station in the city of Ena, Gifu Prefecture, Japan, operated by the Third-sector railway operator Akechi Railway.",
-          "章节": {
-            "Lines": "Noshi Station is a station on the Akechi Line, and is located 23.1 rail kilometers from the  terminus of the line at .\n\nStation layout\nNoshi Station has one side platform serving a single bi-directional track. The station is unattended.\n\nAdjacent stations\n\n|-\n!colspan=5|Akechi Railway",
-            "History": "Noshi Station opened on December 15, 1994.\n\nSurrounding area\n\nSee also\n List of Railway Stations in Japan\n\nExternal links\n\n \n\nRailway stations in Gifu Prefecture\nRailway stations in Japan opened in 1994\nStations of Akechi Railway\nEna, Gifu"
-          },
-          "全文": "is a train station in the city of Ena, Gifu Prefecture, Japan, operated by the Third-sector railway operator Akechi Railway.\n\nLines\nNoshi Station is a station on the Akechi Line, and is located 23.1 rail kilometers from the  terminus of the line at .\n\nStation layout\nNoshi Station has one side platform serving a single bi-directional track. The station is unattended.\n\nAdjacent stations\n\n|-\n!colspan=5|Akechi Railway\n\nHistory\nNoshi Station opened on December 15, 1994.\n\nSurrounding area\n\nSee also\n List of Railway Stations in Japan\n\nExternal links\n\n \n\nRailway stations in Gifu Prefecture\nRailway stations in Japan opened in 1994\nStations of Akechi Railway\nEna, Gifu",
-          "字数": 666
+          "链接": "https://ja.wikipedia.org/wiki/%E9%87%8E%E5%BF%97%E9%A7%85",
+          "首段": "Noshi Station (野志駅) is a railway station in 県恵那市明智町野志, Japan.",
+          "章节": {},
+          "全文": "Noshi Station (野志駅) is a railway station in 県恵那市明智町野志, Japan.",
+          "字数": 61
         }
       },
       "结构化信息": {
@@ -670,14 +665,11 @@
         },
         "英文": {
           "词条标题": "Agi Station",
-          "链接": "https://en.wikipedia.org/wiki/Agi%20Station",
-          "首段": "is a train station in the city of Nakatsugawa, Gifu Prefecture, Japan, operated by the Third-sector railway operator Akechi Railway.",
-          "章节": {
-            "Lines": "Agi Station is a station on the Akechi Line, and is located 9.9 rail kilometers from the terminus of the line at .\n\nStation layout\nAgi Station has one side platform serving a single bi-directional track. The station building also houses a dentist office.\n\nAdjacent stations\n\n|-\n!colspan=5|Akechi Railway",
-            "History": "Agi Station opened on May 24, 1933.\n\nSurrounding area\nAgi High School\n\nSee also\n List of Railway Stations in Japan\n\nExternal links\n\n \n\nRailway stations in Gifu Prefecture\nRailway stations in Japan opened in 1933\nStations of Akechi Railway\nNakatsugawa, Gifu"
-          },
-          "全文": "is a train station in the city of Nakatsugawa, Gifu Prefecture, Japan, operated by the Third-sector railway operator Akechi Railway.\n\nLines\nAgi Station is a station on the Akechi Line, and is located 9.9 rail kilometers from the terminus of the line at .\n\nStation layout\nAgi Station has one side platform serving a single bi-directional track. The station building also houses a dentist office.\n\nAdjacent stations\n\n|-\n!colspan=5|Akechi Railway\n\nHistory\nAgi Station opened on May 24, 1933.\n\nSurrounding area\nAgi High School\n\nSee also\n List of Railway Stations in Japan\n\nExternal links\n\n \n\nRailway stations in Gifu Prefecture\nRailway stations in Japan opened in 1933\nStations of Akechi Railway\nNakatsugawa, Gifu",
-          "字数": 709
+          "链接": "https://ja.wikipedia.org/wiki/%E9%98%BF%E6%9C%A8%E9%A7%85",
+          "首段": "Agi Station (阿木駅) is a railway station in 県中津川市阿木, Japan.",
+          "章节": {},
+          "全文": "Agi Station (阿木駅) is a railway station in 県中津川市阿木, Japan.",
+          "字数": 57
         }
       },
       "结构化信息": {
@@ -748,14 +740,11 @@
         },
         "英文": {
           "词条标题": "Iinuma Station",
-          "链接": "https://en.wikipedia.org/wiki/Iinuma%20Station",
-          "首段": "is a train station in the city of Nakatsugawa, Gifu Prefecture, Japan, operated by the Third-sector railway operator Akechi Railway.",
-          "章节": {
-            "Lines": "Iinuma Station is a station on the Akechi Line, and is located 7.6 rail kilometers from the terminus of the line at .\n\nStation layout\nIinuma Station has one side platform serving a single bi-directional track. The station is unattended.\n\nAdjacent stations\n\n|-\n!colspan=5|Akechi Railway",
-            "History": "Iinuma Station opened on October 28, 1991.\n\nSurrounding area\nThe station is located in an isolated rural area.\n\nSee also\n List of Railway Stations in Japan\n\nExternal links\n\n \n\nRailway stations in Japan opened in 1991\nRailway stations in Gifu Prefecture\nStations of Akechi Railway\nNakatsugawa, Gifu"
-          },
-          "全文": "is a train station in the city of Nakatsugawa, Gifu Prefecture, Japan, operated by the Third-sector railway operator Akechi Railway.\n\nLines\nIinuma Station is a station on the Akechi Line, and is located 7.6 rail kilometers from the terminus of the line at .\n\nStation layout\nIinuma Station has one side platform serving a single bi-directional track. The station is unattended.\n\nAdjacent stations\n\n|-\n!colspan=5|Akechi Railway\n\nHistory\nIinuma Station opened on October 28, 1991.\n\nSurrounding area\nThe station is located in an isolated rural area.\n\nSee also\n List of Railway Stations in Japan\n\nExternal links\n\n \n\nRailway stations in Japan opened in 1991\nRailway stations in Gifu Prefecture\nStations of Akechi Railway\nNakatsugawa, Gifu",
-          "字数": 732
+          "链接": "https://ja.wikipedia.org/wiki/%E9%A3%AF%E6%B2%BC%E9%A7%85",
+          "首段": "Iinuma Station (飯沼駅) is a railway station in 県中津川市飯沼字市之坪, Japan.",
+          "章节": {},
+          "全文": "Iinuma Station (飯沼駅) is a railway station in 県中津川市飯沼字市之坪, Japan.",
+          "字数": 64
         }
       },
       "结构化信息": {
@@ -823,15 +812,11 @@
         },
         "英文": {
           "词条标题": "Iibama Station",
-          "链接": "https://en.wikipedia.org/wiki/Iibama%20Station",
-          "首段": "is a train station in the city of Ena, Gifu Prefecture, Japan, operated by the Third-sector railway operator Akechi Railway.",
-          "章节": {
-            "Lines": "Iibama Station is a station on the Akechi Line, and is located 12.7 rail kilometers from the  terminus of the line at .\n\nStation layout\nIibama Station has one side platform serving a single bi-directional track. The station is unattended.\n\nAdjacent stations\n\n|-\n!colspan=5|Akechi Railway",
-            "History": "Iibama Station opened on January 10, 1959.\n\nSurrounding area\n\nSee also\n List of Railway Stations in Japan",
-            "References": "External links\n\n \n\nRailway stations in Gifu Prefecture\nRailway stations in Japan opened in 1959\nStations of Akechi Railway\nEna, Gifu"
-          },
-          "全文": "is a train station in the city of Ena, Gifu Prefecture, Japan, operated by the Third-sector railway operator Akechi Railway.\n\nLines\nIibama Station is a station on the Akechi Line, and is located 12.7 rail kilometers from the  terminus of the line at .\n\nStation layout\nIibama Station has one side platform serving a single bi-directional track. The station is unattended.\n\nAdjacent stations\n\n|-\n!colspan=5|Akechi Railway\n\nHistory\nIibama Station opened on January 10, 1959.\n\nSurrounding area\n\nSee also\n List of Railway Stations in Japan\n\nReferences\n\nExternal links\n\n \n\nRailway stations in Gifu Prefecture\nRailway stations in Japan opened in 1959\nStations of Akechi Railway\nEna, Gifu",
-          "字数": 680
+          "链接": "https://ja.wikipedia.org/wiki/%E9%A3%AF%E7%BE%BD%E9%96%93%E9%A7%85",
+          "首段": "Iibama Station (飯羽間駅) is a railway station in 県恵那市岩村町飯羽間字光学, Japan.",
+          "章节": {},
+          "全文": "Iibama Station (飯羽間駅) is a railway station in 県恵那市岩村町飯羽間字光学, Japan.",
+          "字数": 67
         }
       },
       "结构化信息": {
@@ -867,6 +852,6 @@
     "有中文词条": 11,
     "已千问汉化": 0,
     "待汉化": 1,
-    "有英文词条": 10
+    "有英文词条": 11
   }
 }

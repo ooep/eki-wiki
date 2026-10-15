@@ -188,14 +188,11 @@
         },
         "英文": {
           "词条标题": "Shigisanshita Station",
-          "链接": "https://en.wikipedia.org/wiki/Shigisanshita%20Station",
-          "首段": "is a train station in Sangō, Ikoma District, Nara Prefecture, Japan.",
-          "章节": {
-            "Kintetsu": "Ikoma Line",
-            "Surroundings": "Sangō Town Office\n Tatsuta Shrine\n Mount Shigi Chōgosonshiji Temple\n Nara Sangyo University Shigisan Ground\n\nAdjacent stations \n\nRailway stations in Japan opened in 1922\nRailway stations in Nara Prefecture"
-          },
-          "全文": "is a train station in Sangō, Ikoma District, Nara Prefecture, Japan.\n\nLines \nKintetsu\nIkoma Line\n\nLayout\n\nSurroundings\n Sangō Town Office\n Tatsuta Shrine\n Mount Shigi Chōgosonshiji Temple\n Nara Sangyo University Shigisan Ground\n\nAdjacent stations \n\nRailway stations in Japan opened in 1922\nRailway stations in Nara Prefecture",
-          "字数": 325
+          "链接": "https://ja.wikipedia.org/wiki/%E4%BF%A1%E8%B2%B4%E5%B1%B1%E4%B8%8B%E9%A7%85",
+          "首段": "Shigisanshita Station (信貴山下駅) is a railway station in 県生駒郡三郷町, Japan.",
+          "章节": {},
+          "全文": "Shigisanshita Station (信貴山下駅) is a railway station in 県生駒郡三郷町, Japan.",
+          "字数": 69
         }
       },
       "结构化信息": {
@@ -279,7 +276,14 @@
           "字数": 888,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "元山上口駅",
+          "链接": "https://ja.wikipedia.org/wiki/%E5%85%83%E5%B1%B1%E4%B8%8A%E5%8F%A3%E9%A7%85",
+          "首段": "元山上口駅 (元山上口駅) is a railway station in 県生駒郡平群町椣原, Japan.",
+          "章节": {},
+          "全文": "元山上口駅 (元山上口駅) is a railway station in 県生駒郡平群町椣原, Japan.",
+          "字数": 55
+        }
       },
       "结构化信息": {
         "读音": "もとさんじょうぐちえき",
@@ -351,7 +355,14 @@
           "字数": 677,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "勢野北口駅",
+          "链接": "https://ja.wikipedia.org/wiki/%E5%8B%A2%E9%87%8E%E5%8C%97%E5%8F%A3%E9%A7%85",
+          "首段": "勢野北口駅 (勢野北口駅) is a railway station in 県生駒郡三郷町勢野東, Japan.",
+          "章节": {},
+          "全文": "勢野北口駅 (勢野北口駅) is a railway station in 県生駒郡三郷町勢野東, Japan.",
+          "字数": 56
+        }
       },
       "结构化信息": {
         "读音": "せやきたぐちえき",
@@ -422,7 +433,14 @@
           "字数": 855,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "南生駒駅",
+          "链接": "https://ja.wikipedia.org/wiki/%E5%8D%97%E7%94%9F%E9%A7%92%E9%A7%85",
+          "首段": "南生駒駅 (南生駒駅) is a railway station in 県生駒市小瀬町, Japan.",
+          "章节": {},
+          "全文": "南生駒駅 (南生駒駅) is a railway station in 県生駒市小瀬町, Japan.",
+          "字数": 51
+        }
       },
       "结构化信息": {
         "读音": "みなみいこまえき",
@@ -500,15 +518,11 @@
         },
         "英文": {
           "词条标题": "Heguri Station",
-          "链接": "https://en.wikipedia.org/wiki/Heguri%20Station",
-          "首段": "is a train station in Heguri, Ikoma District, Nara Prefecture, Japan.",
-          "章节": {
-            "Kintetsu": "Ikoma Line\n\nSurrounding Area \n Heguri Town Office\n \n Tomb of Prince Nagaya",
-            "Bus": "Heguri Town Community Bus\n\nAdjacent stations",
-            "References": "Railway stations in Japan opened in 1926\nRailway stations in Nara Prefecture"
-          },
-          "全文": "is a train station in Heguri, Ikoma District, Nara Prefecture, Japan.\n\nLines \nKintetsu\nIkoma Line\n\nSurrounding Area \n Heguri Town Office\n \n Tomb of Prince Nagaya\n\nBus\n Heguri Town Community Bus\n\nAdjacent stations\n\nReferences\n\nRailway stations in Japan opened in 1926\nRailway stations in Nara Prefecture",
-          "字数": 302
+          "链接": "https://ja.wikipedia.org/wiki/%E5%B9%B3%E7%BE%A4%E9%A7%85",
+          "首段": "Heguri Station (平群駅) is a railway station in 県生駒郡平群町吉新, Japan.",
+          "章节": {},
+          "全文": "Heguri Station (平群駅) is a railway station in 県生駒郡平群町吉新, Japan.",
+          "字数": 62
         }
       },
       "结构化信息": {
@@ -778,7 +792,14 @@
           "字数": 2079,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "生駒駅",
+          "链接": "https://ja.wikipedia.org/wiki/%E7%94%9F%E9%A7%92%E9%A7%85",
+          "首段": "生駒駅 (生駒駅) is a railway station in 県生駒市元町一丁目, Japan.",
+          "章节": {},
+          "全文": "生駒駅 (生駒駅) is a railway station in 県生駒市元町一丁目, Japan.",
+          "字数": 51
+        }
       },
       "结构化信息": {
         "读音": "いこまえき",
@@ -870,13 +891,11 @@
         },
         "英文": {
           "词条标题": "Tatsutagawa Station",
-          "链接": "https://en.wikipedia.org/wiki/Tatsutagawa%20Station",
-          "首段": "is a train station in Heguri, Ikoma District, Nara Prefecture, Japan.",
-          "章节": {
-            "Kintetsu": "Ikoma Line\n\nSurrounding Area \n Tatsuta River\n \n Roadside station Yamatoji Heguri\n\nAdjacent stations \n\nRailway stations in Nara Prefecture\nRailway stations in Japan opened in 1926"
-          },
-          "全文": "is a train station in Heguri, Ikoma District, Nara Prefecture, Japan.\n\nLines \nKintetsu\nIkoma Line\n\nSurrounding Area \n Tatsuta River\n \n Roadside station Yamatoji Heguri\n\nAdjacent stations \n\nRailway stations in Nara Prefecture\nRailway stations in Japan opened in 1926",
-          "字数": 265
+          "链接": "https://ja.wikipedia.org/wiki/%E7%AB%9C%E7%94%B0%E5%B7%9D%E9%A7%85",
+          "首段": "Tatsutagawa Station (竜田川駅) is a railway station in 県生駒郡平群町西宮, Japan.",
+          "章节": {},
+          "全文": "Tatsutagawa Station (竜田川駅) is a railway station in 県生駒郡平群町西宮, Japan.",
+          "字数": 68
         }
       },
       "结构化信息": {
@@ -951,13 +970,11 @@
         },
         "英文": {
           "词条标题": "Nabata Station",
-          "链接": "https://en.wikipedia.org/wiki/Nabata%20Station",
-          "首段": "is a train station in Ikoma, Nara Prefecture, Japan.",
-          "章节": {
-            "Kintetsu": "Ikoma Line\n\nSurrounding Area \n \n Higashi-Ikoma Station\n Tezukayama University Higashiikoma Campus\n\nRailway stations in Japan opened in 1927\nRailway stations in Nara Prefecture"
-          },
-          "全文": "is a train station in Ikoma, Nara Prefecture, Japan.\n\nLines \nKintetsu\nIkoma Line\n\nSurrounding Area \n \n Higashi-Ikoma Station\n Tezukayama University Higashiikoma Campus\n\nRailway stations in Japan opened in 1927\nRailway stations in Nara Prefecture",
-          "字数": 245
+          "链接": "https://ja.wikipedia.org/wiki/%E8%8F%9C%E7%95%91%E9%A7%85",
+          "首段": "Nabata Station (菜畑駅) is a railway station in 県生駒市中菜畑, Japan.",
+          "章节": {},
+          "全文": "Nabata Station (菜畑駅) is a railway station in 県生駒市中菜畑, Japan.",
+          "字数": 60
         }
       },
       "结构化信息": {
@@ -1032,15 +1049,11 @@
         },
         "英文": {
           "词条标题": "Haginodai Station",
-          "链接": "https://en.wikipedia.org/wiki/Haginodai%20Station",
-          "首段": "is a train station in Ikoma, Nara Prefecture, Japan.",
-          "章节": {
-            "Kintetsu": "Ikoma Line",
-            "Platform": "Around the Station \n Ideyama Ground\n Ikoma-Haginodai Post Office\n\nAdjacent stations",
-            "Sources": "External links\n Haginodai Station (Kintetsu Corporation) \n\nRailway stations in Japan opened in 1980\nRailway stations in Nara Prefecture"
-          },
-          "全文": "is a train station in Ikoma, Nara Prefecture, Japan.\n\nLines \nKintetsu\nIkoma Line\n\nPlatform\n\nAround the Station \n Ideyama Ground\n Ikoma-Haginodai Post Office\n\nAdjacent stations\n\nSources\n\nExternal links\n Haginodai Station (Kintetsu Corporation) \n\nRailway stations in Japan opened in 1980\nRailway stations in Nara Prefecture",
-          "字数": 321
+          "链接": "https://ja.wikipedia.org/wiki/%E8%90%A9%E3%81%AE%E5%8F%B0%E9%A7%85",
+          "首段": "Haginodai Station (萩の台駅) is a railway station in 県生駒市萩の台, Japan.",
+          "章节": {},
+          "全文": "Haginodai Station (萩の台駅) is a railway station in 県生駒市萩の台, Japan.",
+          "字数": 64
         }
       },
       "结构化信息": {
@@ -1080,6 +1093,6 @@
     "有中文词条": 12,
     "已千问汉化": 0,
     "待汉化": 0,
-    "有英文词条": 8
+    "有英文词条": 12
   }
 }

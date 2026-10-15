@@ -32,7 +32,14 @@
       "中文": {
         "来源": "⚠️ 暂未汉化"
       },
-      "英文": null
+      "英文": {
+        "词条标题": "由利高原鉄道鳥海山ろく線",
+        "链接": "https://ja.wikipedia.org/wiki/%E7%94%B1%E5%88%A9%E9%AB%98%E5%8E%9F%E9%89%84%E9%81%93%E9%B3%A5%E6%B5%B7%E5%B1%B1%E3%82%8D%E3%81%8F%E7%B7%9A",
+        "首段": "The 由利高原鉄道鳥海山ろく線 is a railway line in Japan.",
+        "章节": {},
+        "全文": "The 由利高原鉄道鳥海山ろく線 is a railway line in Japan.",
+        "字数": 44
+      }
     }
   },
   "车站": [
@@ -126,15 +133,11 @@
         },
         "英文": {
           "词条标题": "Maegō Station",
-          "链接": "https://en.wikipedia.org/wiki/Maeg%C5%8D%20Station",
-          "首段": "is a railway station in the city of Yurihonjō, Akita Prefecture,  Japan, operated by the third-sector  railway operator Yuri Kōgen Railway.",
-          "章节": {
-            "Lines": "Maegō Station is served by the Chōkai Sanroku Line, and is located 11.7 kilometers from the terminus of the line at Ugo-Honjō Station.\n\nStation layout\nThe station has two opposed side platforms. The station is unattended.",
-            "Platforms": "Adjacent stations",
-            "History": "Maegō Station opened on August 1, 1922 as a station on the Yokojō Railway, which became the Japanese Government Railways (JGR) Yashima Line on September 1, 1937. The line was extended past Maegō to Nishitakizawa Station in December of the same year. The JGR became the Japan National Railway (JNR) after World War II. The Yashima Line was privatized on 1 October 1985, becoming the Yuri Kōgen Railway Chōkai Sanroku Line. A new station building was completed in December 2003.\n\nSurrounding area\n\nSee also\nList of railway stations in Japan\n\nExternal links\n\nRailway stations in Japan opened in 1922\nRailway stations in Akita Prefecture"
-          },
-          "全文": "is a railway station in the city of Yurihonjō, Akita Prefecture,  Japan, operated by the third-sector  railway operator Yuri Kōgen Railway.\n\nLines\nMaegō Station is served by the Chōkai Sanroku Line, and is located 11.7 kilometers from the terminus of the line at Ugo-Honjō Station.\n\nStation layout\nThe station has two opposed side platforms. The station is unattended.\n\nPlatforms\n\nAdjacent stations\n\nHistory\nMaegō Station opened on August 1, 1922 as a station on the Yokojō Railway, which became the Japanese Government Railways (JGR) Yashima Line on September 1, 1937. The line was extended past Maegō to Nishitakizawa Station in December of the same year. The JGR became the Japan National Railway (JNR) after World War II. The Yashima Line was privatized on 1 October 1985, becoming the Yuri Kōgen Railway Chōkai Sanroku Line. A new station building was completed in December 2003.\n\nSurrounding area\n\nSee also\nList of railway stations in Japan\n\nExternal links\n\nRailway stations in Japan opened in 1922\nRailway stations in Akita Prefecture\nYurihonjō",
-          "字数": 1051
+          "链接": "https://ja.wikipedia.org/wiki/%E5%89%8D%E9%83%B7%E9%A7%85",
+          "首段": "Maegō Station (前郷駅) is a railway station in 県由利本荘市前郷, Japan.",
+          "章节": {},
+          "全文": "Maegō Station (前郷駅) is a railway station in 県由利本荘市前郷, Japan.",
+          "字数": 60
         }
       },
       "结构化信息": {
@@ -206,14 +209,11 @@
         },
         "英文": {
           "词条标题": "Yoshizawa Station",
-          "链接": "https://en.wikipedia.org/wiki/Yoshizawa%20Station",
-          "首段": "is a railway station in the city of Yurihonjō, Akita Prefecture,  Japan, operated by the third-sector  railway operator Yuri Kōgen Railway.",
-          "章节": {
-            "Lines": "Yoshizawa Station is served by the Chōkai Sanroku Line, and is located 17.1 kilometers from the terminus of the line at Ugo-Honjō Station.\n\nStation layout\nThe station has one side platform, serving one bi-directional track. The station is unattended.\n\nAdjacent stations",
-            "History": "Yoshizawa Station opened on October 29, 1989.\n\nSurrounding area\n\nSee also\nList of railway stations in Japan\n\nExternal links\n\nRailway stations in Akita Prefecture\nRailway stations in Japan opened in 1989"
-          },
-          "全文": "is a railway station in the city of Yurihonjō, Akita Prefecture,  Japan, operated by the third-sector  railway operator Yuri Kōgen Railway.\n\nLines\nYoshizawa Station is served by the Chōkai Sanroku Line, and is located 17.1 kilometers from the terminus of the line at Ugo-Honjō Station.\n\nStation layout\nThe station has one side platform, serving one bi-directional track. The station is unattended.\n\nAdjacent stations\n\nHistory\nYoshizawa Station opened on October 29, 1989.\n\nSurrounding area\n\nSee also\nList of railway stations in Japan\n\nExternal links\n\nRailway stations in Akita Prefecture\nRailway stations in Japan opened in 1989\nYurihonjō",
-          "字数": 638
+          "链接": "https://ja.wikipedia.org/wiki/%E5%90%89%E6%B2%A2%E9%A7%85",
+          "首段": "Yoshizawa Station (吉沢駅) is a railway station in 県由利本荘市吉沢, Japan.",
+          "章节": {},
+          "全文": "Yoshizawa Station (吉沢駅) is a railway station in 県由利本荘市吉沢, Japan.",
+          "字数": 64
         }
       },
       "结构化信息": {
@@ -281,14 +281,11 @@
         },
         "英文": {
           "词条标题": "Koyoshi Station",
-          "链接": "https://en.wikipedia.org/wiki/Koyoshi%20Station",
-          "首段": "is a railway station in the city of Yurihonjō, Akita Prefecture,  Japan, operated by the third-sector  railway operator Yuri Kōgen Railway.",
-          "章节": {
-            "Lines": "Koyoshi Station is served by the Chōkai Sanroku Line, and is located 4.5 kilometers from the terminus of the line at Ugo-Honjō Station.\n\nStation layout\nThe station has one side platform, serving one bi-directional track. The station is unattended.\n\nAdjacent stations",
-            "History": "Koyoshi Station opened on August 1, 1922 as the  on the Yokojō Railway. It was elevated to a full station and given its present name on October 24, 1926. The Yokojō Railway became the Japanese Government Railways (JGR) Yashima Line on September 1, 1937. The JGR became the Japan National Railway (JNR) after World War II. The Yashima Line was privatized on 1 October 1985, becoming the Yuri Kōgen Railway Chōkai Sanroku Line, at which time the station re-assumed its original name. A new station building was completed in December 2011.\n\nSurrounding area\n\nSee also\nList of railway stations in Japan\n\nExternal links\n\nRailway stations in Akita Prefecture\nRailway stations in Japan opened in 1926"
-          },
-          "全文": "is a railway station in the city of Yurihonjō, Akita Prefecture,  Japan, operated by the third-sector  railway operator Yuri Kōgen Railway.\n\nLines\nKoyoshi Station is served by the Chōkai Sanroku Line, and is located 4.5 kilometers from the terminus of the line at Ugo-Honjō Station.\n\nStation layout\nThe station has one side platform, serving one bi-directional track. The station is unattended.\n\nAdjacent stations\n\nHistory\nKoyoshi Station opened on August 1, 1922 as the  on the Yokojō Railway. It was elevated to a full station and given its present name on October 24, 1926. The Yokojō Railway became the Japanese Government Railways (JGR) Yashima Line on September 1, 1937. The JGR became the Japan National Railway (JNR) after World War II. The Yashima Line was privatized on 1 October 1985, becoming the Yuri Kōgen Railway Chōkai Sanroku Line, at which time the station re-assumed its original name. A new station building was completed in December 2011.\n\nSurrounding area\n\nSee also\nList of railway stations in Japan\n\nExternal links\n\nRailway stations in Akita Prefecture\nRailway stations in Japan opened in 1926\nYurihonjō",
-          "字数": 1126
+          "链接": "https://ja.wikipedia.org/wiki/%E5%AD%90%E5%90%89%E9%A7%85",
+          "首段": "Koyoshi Station (子吉駅) is a railway station in 県由利本荘市玉ノ池, Japan.",
+          "章节": {},
+          "全文": "Koyoshi Station (子吉駅) is a railway station in 県由利本荘市玉ノ池, Japan.",
+          "字数": 63
         }
       },
       "结构化信息": {
@@ -426,14 +423,11 @@
         },
         "英文": {
           "词条标题": "Magarisawa Station",
-          "链接": "https://en.wikipedia.org/wiki/Magarisawa%20Station",
-          "首段": "is a railway station in the city of Yurihonjō, Akita Prefecture,  Japan, operated by the third-sector  railway operator Yuri Kōgen Railway.",
-          "章节": {
-            "Lines": "Magarisawa Station is served by the Chōkai Sanroku Line, and is located 10.3 kilometers from the terminus of the line at Ugo-Honjō Station.\n\nStation layout\nThe station has one side platform, serving a single bi-directional track. The station is unattended.\n\nAdjacent stations",
-            "History": "Magarisawa Station opened on October 29, 1989.\n\nSurrounding area\n\nSee also\nList of railway stations in Japan\n\nExternal links\n\nRailway stations in Akita Prefecture\nRailway stations in Japan opened in 1989"
-          },
-          "全文": "is a railway station in the city of Yurihonjō, Akita Prefecture,  Japan, operated by the third-sector  railway operator Yuri Kōgen Railway.\n\nLines\nMagarisawa Station is served by the Chōkai Sanroku Line, and is located 10.3 kilometers from the terminus of the line at Ugo-Honjō Station.\n\nStation layout\nThe station has one side platform, serving a single bi-directional track. The station is unattended.\n\nAdjacent stations\n\nHistory\nMagarisawa Station opened on October 29, 1989.\n\nSurrounding area\n\nSee also\nList of railway stations in Japan\n\nExternal links\n\nRailway stations in Akita Prefecture\nRailway stations in Japan opened in 1989\nYurihonjō",
-          "字数": 645
+          "链接": "https://ja.wikipedia.org/wiki/%E6%9B%B2%E6%B2%A2%E9%A7%85",
+          "首段": "Magarisawa Station (曲沢駅) is a railway station in 県由利本荘市前郷, Japan.",
+          "章节": {},
+          "全文": "Magarisawa Station (曲沢駅) is a railway station in 県由利本荘市前郷, Japan.",
+          "字数": 65
         }
       },
       "结构化信息": {
@@ -590,7 +584,14 @@
           "字数": 615,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "羽後本荘駅",
+          "链接": "https://ja.wikipedia.org/wiki/%E7%BE%BD%E5%BE%8C%E6%9C%AC%E8%8D%98%E9%A7%85",
+          "首段": "羽後本荘駅 (羽後本荘駅) is a railway station in 県由利本荘市西梵天（, Japan.",
+          "章节": {},
+          "全文": "羽後本荘駅 (羽後本荘駅) is a railway station in 県由利本荘市西梵天（, Japan.",
+          "字数": 56
+        }
       },
       "结构化信息": {
         "读音": "うごほんじょうえき",
@@ -718,14 +719,11 @@
         },
         "英文": {
           "词条标题": "Nishitakisawa Station",
-          "链接": "https://en.wikipedia.org/wiki/Nishitakisawa%20Station",
-          "首段": "is a railway station in the city of Yurihonjō, Akita Prefecture,  Japan, operated by the third-sector  railway operator Yuri Kōgen Railway.",
-          "章节": {
-            "Lines": "Nishitakisawa Station is served by the Chōkai Sanroku Line, and is located 15.7 kilometers from the terminus of the line at Ugo-Honjō Station.\n\nStation layout\nThe station has one side platform, serving a single bi-directional track. The station is unattended.\n\nAdjacent stations",
-            "History": "Nishitakisawa Station opened on December 15, 1937 as a station on the Japanese Government Railways (JGR) Yashima Line. The JGR became the Japan National Railway (JNR) after World War II. All freight operations were discontinued from June 10, 1981. The Yashima Line was privatized on 1 October 1985, becoming the Yuri Kōgen Railway Chōkai Sanroku Line. A new station building was completed in December 2003.\n\nSurrounding area\n\nSee also\nList of railway stations in Japan\n\nExternal links\n\nRailway stations in Akita Prefecture\nRailway stations in Japan opened in 1937"
-          },
-          "全文": "is a railway station in the city of Yurihonjō, Akita Prefecture,  Japan, operated by the third-sector  railway operator Yuri Kōgen Railway.\n\nLines\nNishitakisawa Station is served by the Chōkai Sanroku Line, and is located 15.7 kilometers from the terminus of the line at Ugo-Honjō Station.\n\nStation layout\nThe station has one side platform, serving a single bi-directional track. The station is unattended.\n\nAdjacent stations\n\nHistory\nNishitakisawa Station opened on December 15, 1937 as a station on the Japanese Government Railways (JGR) Yashima Line. The JGR became the Japan National Railway (JNR) after World War II. All freight operations were discontinued from June 10, 1981. The Yashima Line was privatized on 1 October 1985, becoming the Yuri Kōgen Railway Chōkai Sanroku Line. A new station building was completed in December 2003.\n\nSurrounding area\n\nSee also\nList of railway stations in Japan\n\nExternal links\n\nRailway stations in Akita Prefecture\nRailway stations in Japan opened in 1937\nYurihonjō",
-          "字数": 1008
+          "链接": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%BB%9D%E6%B2%A2%E9%A7%85",
+          "首段": "Nishitakisawa Station (西滝沢駅) is a railway station in 県由利本荘市蟹沢, Japan.",
+          "章节": {},
+          "全文": "Nishitakisawa Station (西滝沢駅) is a railway station in 県由利本荘市蟹沢, Japan.",
+          "字数": 69
         }
       },
       "结构化信息": {
@@ -793,14 +791,11 @@
         },
         "英文": {
           "词条标题": "Ayukawa Station",
-          "链接": "https://en.wikipedia.org/wiki/Ayukawa%20Station",
-          "首段": "is a railway station in the city of Yurihonjō, Akita Prefecture,  Japan, operated by the third-sector  railway operator Yuri Kōgen Railway.",
-          "章节": {
-            "Lines": "Ayukawa Station is served by the Chōkai Sanroku Line, and is located 7.4 kilometers from the terminus of the line at Ugo-Honjō Station.\n\nStation layout\nthe station has one side platform, serving one bi-directional track. The station is unattended.\n\nAdjacent stations",
-            "History": "Ayukawa Station opened on August 1, 1922, as a station on the Yokojō Railway, which became the Japanese Government Railways (JGR) Yashima Line on September 1, 1937. On that date, it was renamed . The JGR became the Japan National Railway (JNR) after World War II. The Yashima Line was privatized on 1 October 1985, becoming the Yuri Kōgen Railway Chōkai Sanroku Line, at which time the station reassumed its original name. A new station building was completed in December 2003.\n\nSurrounding area\n\nSee also\nList of railway stations in Japan\n\nExternal links\n\nRailway stations in Akita Prefecture\nRailway stations in Japan opened in 1922"
-          },
-          "全文": "is a railway station in the city of Yurihonjō, Akita Prefecture,  Japan, operated by the third-sector  railway operator Yuri Kōgen Railway.\n\nLines\nAyukawa Station is served by the Chōkai Sanroku Line, and is located 7.4 kilometers from the terminus of the line at Ugo-Honjō Station.\n\nStation layout\nthe station has one side platform, serving one bi-directional track. The station is unattended.\n\nAdjacent stations\n\nHistory\nAyukawa Station opened on August 1, 1922, as a station on the Yokojō Railway, which became the Japanese Government Railways (JGR) Yashima Line on September 1, 1937. On that date, it was renamed . The JGR became the Japan National Railway (JNR) after World War II. The Yashima Line was privatized on 1 October 1985, becoming the Yuri Kōgen Railway Chōkai Sanroku Line, at which time the station reassumed its original name. A new station building was completed in December 2003.\n\nSurrounding area\n\nSee also\nList of railway stations in Japan\n\nExternal links\n\nRailway stations in Akita Prefecture\nRailway stations in Japan opened in 1922\nYurihonjō",
-          "字数": 1067
+          "链接": "https://ja.wikipedia.org/wiki/%E9%AE%8E%E5%B7%9D%E9%A7%85",
+          "首段": "Ayukawa Station (鮎川駅) is a railway station in 県由利本荘市東鮎川, Japan.",
+          "章节": {},
+          "全文": "Ayukawa Station (鮎川駅) is a railway station in 県由利本荘市東鮎川, Japan.",
+          "字数": 63
         }
       },
       "结构化信息": {
@@ -885,6 +880,6 @@
     "有中文词条": 12,
     "已千问汉化": 0,
     "待汉化": 0,
-    "有英文词条": 11
+    "有英文词条": 12
   }
 }

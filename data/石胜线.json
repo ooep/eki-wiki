@@ -73,7 +73,14 @@
         "字数": 4743,
         "来源": "维基百科中文版（已转简体）"
       },
-      "英文": null
+      "英文": {
+        "词条标题": "石胜线",
+        "链接": "https://ja.wikipedia.org/wiki/%E7%9F%B3%E5%8B%9D%E7%B7%9A",
+        "首段": "The 石胜线 is a railway line in Japan.",
+        "章节": {},
+        "全文": "The 石胜线 is a railway line in Japan.",
+        "字数": 35
+      }
     }
   },
   "车站": [
@@ -114,7 +121,14 @@
           "全文": "。\n\n列表\n（参见日文条目）",
           "字数": 14
         },
-        "英文": null
+        "英文": {
+          "词条标题": "トマム駅",
+          "链接": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%9E%E3%83%A0%E9%A7%85",
+          "首段": "トマム駅 (トマム駅) is a railway station in 道勇払郡占冠村中トマム, Japan.",
+          "章节": {},
+          "全文": "トマム駅 (トマム駅) is a railway station in 道勇払郡占冠村中トマム, Japan.",
+          "字数": 55
+        }
       },
       "结构化信息": {
         "读音": "トマムえき",
@@ -196,7 +210,14 @@
           "字数": 1043,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "十勝清水駅",
+          "链接": "https://ja.wikipedia.org/wiki/%E5%8D%81%E5%8B%9D%E6%B8%85%E6%B0%B4%E9%A7%85",
+          "首段": "十勝清水駅 (十勝清水駅) is a railway station in 道上川郡清水町本通1丁目, Japan.",
+          "章节": {},
+          "全文": "十勝清水駅 (十勝清水駅) is a railway station in 道上川郡清水町本通1丁目, Japan.",
+          "字数": 58
+        }
       },
       "结构化信息": {
         "读音": "とかちしみずえき",
@@ -341,7 +362,14 @@
           "字数": 1169,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "南千歳駅",
+          "链接": "https://ja.wikipedia.org/wiki/%E5%8D%97%E5%8D%83%E6%AD%B3%E9%A7%85",
+          "首段": "南千歳駅 (南千歳駅) is a railway station in 道千歳市平和, Japan.",
+          "章节": {},
+          "全文": "南千歳駅 (南千歳駅) is a railway station in 道千歳市平和, Japan.",
+          "字数": 50
+        }
       },
       "结构化信息": {
         "读音": "みなみちとせえき",
@@ -425,14 +453,11 @@
         },
         "英文": {
           "词条标题": "Shimukappu Station",
-          "链接": "https://en.wikipedia.org/wiki/Shimukappu%20Station",
-          "首段": "is a railway station on the JR Hokkaido Sekishō Line. It is located in Shimukappu, Hokkaidō, Japan. The station code is K21.\n\nStation structure\n 2-way, 3-track, above-ground station.",
-          "章节": {
-            "Platforms": "Shimukappu is a simple consignment station, administered by Shin-Yūbari Station. Ordinary tickets, express tickets, and reserved-seat tickets for all JR lines are on sale.\n Business hours: 7:25 a.m. - 3:25 p.m.\n\nAdjacent stations\nHokkaido Railway Company\nSekishō Line\nShin-Yūbari Station - ( Kaede Signal Ground ) - ( Osawa Signal Ground ) - ( Higashi-Osawa Signal Ground ) - ( Seifūzan Signal Ground ) - ( Oni-Tōge Signal Ground ) - Shimukappu Station - ( Higashi-Shimukappu Signal Ground ) - ( Takinosawa Signal Ground ) - ( Horoka Signal Ground ) - Tomamu Station",
-            "References": "Shimukappu Station\nRailway stations in Japan opened in 1981"
-          },
-          "全文": "is a railway station on the JR Hokkaido Sekishō Line. It is located in Shimukappu, Hokkaidō, Japan. The station code is K21.\n\nStation structure\n 2-way, 3-track, above-ground station.\n Platforms\n\n Shimukappu is a simple consignment station, administered by Shin-Yūbari Station. Ordinary tickets, express tickets, and reserved-seat tickets for all JR lines are on sale.\n Business hours: 7:25 a.m. - 3:25 p.m.\n\nAdjacent stations\nHokkaido Railway Company\nSekishō Line\nShin-Yūbari Station - ( Kaede Signal Ground ) - ( Osawa Signal Ground ) - ( Higashi-Osawa Signal Ground ) - ( Seifūzan Signal Ground ) - ( Oni-Tōge Signal Ground ) - Shimukappu Station - ( Higashi-Shimukappu Signal Ground ) - ( Takinosawa Signal Ground ) - ( Horoka Signal Ground ) - Tomamu Station\n\nReferences\n\nShimukappu Station\nRailway stations in Japan opened in 1981",
-          "字数": 835
+          "链接": "https://ja.wikipedia.org/wiki/%E5%8D%A0%E5%86%A0%E9%A7%85",
+          "首段": "Shimukappu Station (占冠駅) is a railway station in 道勇払郡占冠村占冠, Japan.",
+          "章节": {},
+          "全文": "Shimukappu Station (占冠駅) is a railway station in 道勇払郡占冠村占冠, Japan.",
+          "字数": 66
         }
       },
       "结构化信息": {
@@ -515,15 +540,11 @@
         },
         "英文": {
           "词条标题": "Kawabata Station",
-          "链接": "https://en.wikipedia.org/wiki/Kawabata%20Station",
-          "首段": "is a railway station on the Sekisho Line in Yuni, Yūfutsu District, Hokkaido, Japan, operated by Hokkaido Railway Company (JR Hokkaido).",
-          "章节": {
-            "Lines": "Kawabata Station is served by the Sekisho Line, and is situated 27.0 km from the starting point of the line at Minami-Chitose Station. The station is numbered \"K17\".\n\nStation layout\nThe station has one side platform and one island platform connected by a footbridge, serving three tracks. Kitaca is not available. The station is unattended.",
-            "History": "The station opened on 1 August 1893. With the privatization of Japanese National Railways (JNR) on 1 April 1987, the station came under the control of JR Hokkaido.\n\nSee also\n List of railway stations in Japan",
-            "References": "Railway stations in Hokkaido Prefecture\nRailway stations in Japan opened in 1893"
-          },
-          "全文": "is a railway station on the Sekisho Line in Yuni, Yūfutsu District, Hokkaido, Japan, operated by Hokkaido Railway Company (JR Hokkaido).\n\nLines\nKawabata Station is served by the Sekisho Line, and is situated 27.0 km from the starting point of the line at Minami-Chitose Station. The station is numbered \"K17\".\n\nStation layout\nThe station has one side platform and one island platform connected by a footbridge, serving three tracks. Kitaca is not available. The station is unattended.\n\nHistory\nThe station opened on 1 August 1893. With the privatization of Japanese National Railways (JNR) on 1 April 1987, the station came under the control of JR Hokkaido.\n\nSee also\n List of railway stations in Japan\n\nReferences\n\nRailway stations in Hokkaido Prefecture\nRailway stations in Japan opened in 1893",
-          "字数": 796
+          "链接": "https://ja.wikipedia.org/wiki/%E5%B7%9D%E7%AB%AF%E9%A7%85",
+          "首段": "Kawabata Station (川端駅) is a railway station in 道夕張郡由仁町川端, Japan.",
+          "章节": {},
+          "全文": "Kawabata Station (川端駅) is a railway station in 道夕張郡由仁町川端, Japan.",
+          "字数": 64
         }
       },
       "结构化信息": {
@@ -602,16 +623,11 @@
         },
         "英文": {
           "词条标题": "Obihiro Station",
-          "链接": "https://en.wikipedia.org/wiki/Obihiro%20Station",
-          "首段": "is the main railway station in the city of Obihiro in Hokkaido, Japan. It is located on the Nemuro Main Line and is managed by Hokkaido Railway Company (JR Hokkaido). Originally built in 1905, the station was rebuilt in 1996, but part of the original tracks that ran past the old Obihiro Station can still be seen on the north side of the station.",
-          "章节": {
-            "Lines": "Obihiro Station is served by the Nemuro Main Line, and is situated 180.1 km from the starting point of the line at Takikawa Station. The station is numbered \"K31\".\n\nLimited express services\nObihiro Station is served by the following Limited express services.\n Ōzora (Sapporo - Kushiro)\n Tokachi (Sapporo - Obihiro)\n\nThe fastest journey time between Sapporo and Obihiro is approximately 2 hours and 25 minutes by the Ōzora.\n\nStation layout\nThe station consists of two elevated island platforms serving four tracks.",
-            "Facilities": "The station has a \"Midori no Madoguchi\" staffed ticket office and also a Twinkle Plaza travel agency. The Kitaca farecard cannot be used at this station.",
-            "History": "Obihiro Station opened on 21 October 1905. \n\nThe station once served as the terminus of the Hiroo Line and the Shihiro Line. Both of these lines closed for service in February and March 1987 respectively owing to the JNR reconstruction act.\n\nWith the privatization of JNR on 1 April 1987, the station came under the control of JR Hokkaido.\n\nAdjacent stations",
-            "References": "External links\n\n JR Hokkaido station information \n\nRailway stations in Hokkaido Prefecture\nStations of Hokkaido Railway Company\nRailway stations in Japan opened in 1905\nObihiro, Hokkaido"
-          },
-          "全文": "is the main railway station in the city of Obihiro in Hokkaido, Japan. It is located on the Nemuro Main Line and is managed by Hokkaido Railway Company (JR Hokkaido). Originally built in 1905, the station was rebuilt in 1996, but part of the original tracks that ran past the old Obihiro Station can still be seen on the north side of the station.\n\nLines\nObihiro Station is served by the Nemuro Main Line, and is situated 180.1 km from the starting point of the line at Takikawa Station. The station is numbered \"K31\".\n\nLimited express services\nObihiro Station is served by the following Limited express services.\n Ōzora (Sapporo - Kushiro)\n Tokachi (Sapporo - Obihiro)\n\nThe fastest journey time between Sapporo and Obihiro is approximately 2 hours and 25 minutes by the Ōzora.\n\nStation layout\nThe station consists of two elevated island platforms serving four tracks.\n\nFacilities\nThe station has a \"Midori no Madoguchi\" staffed ticket office and also a Twinkle Plaza travel agency. The Kitaca farecard cannot be used at this station.\n\nHistory\nObihiro Station opened on 21 October 1905. \n\nThe station once served as the terminus of the Hiroo Line and the Shihiro Line. Both of these lines closed for service in February and March 1987 respectively owing to the JNR reconstruction act.\n\nWith the privatization of JNR on 1 April 1987, the station came under the control of JR Hokkaido.\n\nAdjacent stations\n\nReferences\n\nExternal links\n\n JR Hokkaido station information \n\nRailway stations in Hokkaido Prefecture\nStations of Hokkaido Railway Company\nRailway stations in Japan opened in 1905\nObihiro, Hokkaido",
-          "字数": 1602
+          "链接": "https://ja.wikipedia.org/wiki/%E5%B8%AF%E5%BA%83%E9%A7%85",
+          "首段": "Obihiro Station (帯広駅) is a railway station in 道帯広市西2条南12丁目, Japan.",
+          "章节": {},
+          "全文": "Obihiro Station (帯広駅) is a railway station in 道帯広市西2条南12丁目, Japan.",
+          "字数": 66
         }
       },
       "结构化信息": {
@@ -699,7 +715,14 @@
           "字数": 1412,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "新夕張駅",
+          "链接": "https://ja.wikipedia.org/wiki/%E6%96%B0%E5%A4%95%E5%BC%B5%E9%A7%85",
+          "首段": "新夕張駅 (新夕張駅) is a railway station in 道夕張市紅葉山, Japan.",
+          "章节": {},
+          "全文": "新夕張駅 (新夕張駅) is a railway station in 道夕張市紅葉山, Japan.",
+          "字数": 51
+        }
       },
       "结构化信息": {
         "读音": "しんゆうばりえき",
@@ -794,13 +817,11 @@
         },
         "英文": {
           "词条标题": "Shintoku Station",
-          "链接": "https://en.wikipedia.org/wiki/Shintoku%20Station",
-          "首段": "is a railway station in Shintoku, Kamikawa District, Hokkaidō, Japan.\nIts station number is K23.",
-          "章节": {
-            "Lines": "Hokkaido Railway Company\nNemuro Main Line\nSekishō Line\n\nRailway stations in Hokkaido Prefecture\nRailway stations in Japan opened in 1907"
-          },
-          "全文": "is a railway station in Shintoku, Kamikawa District, Hokkaidō, Japan.\nIts station number is K23.\n\nLines\nHokkaido Railway Company\nNemuro Main Line\nSekishō Line\n\nRailway stations in Hokkaido Prefecture\nRailway stations in Japan opened in 1907",
-          "字数": 240
+          "链接": "https://ja.wikipedia.org/wiki/%E6%96%B0%E5%BE%97%E9%A7%85",
+          "首段": "Shintoku Station (新得駅) is a railway station in 道上川郡新得町本通北1丁目, Japan.",
+          "章节": {},
+          "全文": "Shintoku Station (新得駅) is a railway station in 道上川郡新得町本通北1丁目, Japan.",
+          "字数": 68
         }
       },
       "结构化信息": {
@@ -883,7 +904,14 @@
           "字数": 113,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "新札幌駅",
+          "链接": "https://ja.wikipedia.org/wiki/%E6%96%B0%E6%9C%AD%E5%B9%8C%E9%A7%85",
+          "首段": "新札幌駅 (新札幌駅) is a railway station in 道札幌市厚別区厚別中央2条5丁目, Japan.",
+          "章节": {},
+          "全文": "新札幌駅 (新札幌駅) is a railway station in 道札幌市厚別区厚別中央2条5丁目, Japan.",
+          "字数": 60
+        }
       },
       "结构化信息": {
         "读音": "しんさっぽろえき",
@@ -996,16 +1024,11 @@
         },
         "英文": {
           "词条标题": "Sapporo Station",
-          "链接": "https://en.wikipedia.org/wiki/Sapporo%20Station",
-          "首段": "is a railway station in Chūō-ku, Sapporo, Hokkaido, Japan. It is served by Hakodate Main Line and other lines of Hokkaido Railway Company (JR Hokkaido), and is also connected to the Subway Sapporo Station.\n\nSapporo Station is the starting point and terminus for most limited express services operated by JR Hokkaido. It also has the tallest building (JR Tower) in Hokkaido. Sapporo station is developing into a commercial center as large as Ōdōri Park and Susukino.\n\nLines and trains\nThe following JR Hokkaido lines and trains pass through or terminate at Sapporo Station:\n\n Hakodate Main Line\nOkhotsk limited express (Sapporo – )\nSōya limited express (Sapporo – )\nKamui limited express (Sapporo – )\nLilac limited express (Sapporo – )\nIshikari Liner semi-rapid ( – Sapporo – )\nNiseko Liner rapid (,  – Sapporo)\n\nHokuto limited express (Hakodate – Sapporo)\nŌzora limited express (Sapporo – Kushiro)\nTokachi limited express (Sapporo – )\nSuzuran limited express ( – Sapporo)\nAirport rapid ( – Sapporo – Otaru)\nAirport special rapid ( – Sapporo)\n (Gakuen Toshi Line)",
-          "章节": {
-            "Layout": "Sapporo Station consists of five platforms that are raised above street level. These raised platforms serve 10 tracks which run in an east–west direction. Two concourses run north–south below the platforms. It has a commercial facility called Paseo under the ground and JR Tower on the south side of the station. The station is also planned to become a new high-rise building and a terminal station of the Hokkaido Shinkansen that is scheduled to open in Fiscal Year 2030.\n\nOn 16 October, 2022, due to construction of the Hokkaido Shinkansen extension to Sapporo, Platform 11 opened for passengers while Platform 1 was discontinued. The new platform can accommodate trains up to six cars long.",
-            "Platforms": "Adjacent stations",
-            "History": "Sapporo Station opened on 28 November 1880 as a terminus of the Horonai Railway. A new station building was built in 1881 and it was enlarged as Sapporo developed. In 1908, the station building was rebuilt because of a fire in 1907. The restored building can be found in the Historical Village of Hokkaido in Nopporo Forest Park.\n\nThe third reconstruction was finished in 1951 and the Sapporo Subway was opened in 1971. An underground shopping center was started in 1972 and a commercial building was opened on the east side of the station in 1978.\n\nWith the privatization of JNR on 1 April 1987, the station came under the control of JR Hokkaido.\n\nThe current building was built in 2003.\n\nOvernight sleeping car trains Cassiopeia, Hokutosei, and Hamanasu served the station prior to their discontinuation.\n\nSurrounding area\n\n  Subway Sapporo Station\n Sapporo station Bus Terminal\n  (to Hakodate)\n Hokkaido Development Bureau building\n Hokkaido University\n Hokkaido Police Headquarters\n Sapporo Central Post Office\n Sapporo 1 building, (Sapporo Government Office building)\n Sapporo agricultural cooperative association (JA Sapporo), Chuo branch\n Sapporo JR Tower\n Sapporo Stellar Place, shopping mall\n Daimaru store, Sapporo branch\n Sapporo Cinema Frontier\n Sapporo Esta, shopping center\n Tokyu Department Store, Sapporo branch\n Asty 45, building\n PASEO, shopping center\n APIA, shopping center\n Hotel New Otani Sapporo\n\nSapporo station bus terminal\n\nHighway buses \n Iwamizawa; For Iwamizawa Station\n Mikasa; For Iwamizawa Station and Mikasa\n Bibai; For Bibai Station\n Furano; For Iwamizawa, Sunagawa, Higashi-Takikawa Station, Akabira Station, Ashibetsu Station, and Furano Station\n Kuriyama; For Kurisawa Station and Kuriyama Station\n Yubari; For Kuriyama Station, Shikanotani Station, and Yūbari Station\n Takikawa; For Takikawa Station\n Shintotsukawa; For Takikawa and Shintotsukawa\n Rumoi; For Takikawa, Fukagawa, and Rumoi Station\n Asahikawa; For Asahikawa Station\n Engaru; For Shirataki and Engaru Station\n Nayoro; For Wassamu Station, Kenbuchi, Shibetsu, Fūren Station, and Nayoro Station\n Ryuhyo Monbetsu; For Takinoue and Monbetsu\n Haboro; For Mashike Station, Rumoi Station, Obira, Tomamae, Haboro, Shosanbetsu, Enbetsu, Teshio, and Toyotomi Station\n Muroran/Muroran Soccer/Hakucho; For Noboribetsu Station, Higashi-Muroran Station, and Muroran Station\n Tomakomai/Haskap; For Tomakomai Station and Tomakoma Ferry Terminal\n Hakodate; For Yakumo, Mori, Nanai Station, Goryōkaku Station, Hakodate Station, and Yunokawa Onsen\n Pegasus; For Mukawa, Tomikawa Station, Kiyohata Station, Shizunai Station, Hidaka-mitsuishi Station, and Urakawa Station\n Hidaka; For Mukawa, Tomikawa Station, Biratori, and Hidaka\n Date Liner; For Datemombetsu Station\n Otaru; For Otaru-Chikkō Station, Otaru Station\n Yoichi; For Ranshima Station, Yoichi Station, Umekawa, and Toyohama\n Shakotan; For Ranshima Station, Yoichi, Furubira, and Shakotan\n Iwanai; For Rashima, Yoichi, Kyōwa, and Iwanai\n Niseko; For Otaru Station, Yoichi, Niki, Kyowa, Kutchan, and Niseko\n Hiroo Santa; For Urakawa and Hiroo\n Erimo; For Hidaka-horobetsu Station, Samani Station, and Erimo\n Starlight Kushiro; For Shiranuka Station, Otanoshike Station, and Kushiro Station\n\nSee also\nSapporo Station (Sapporo Municipal Subway)\nList of railway stations in Japan",
-            "References": "External links\n\n JR Sapporo Station Map\n\nRailway stations in Sapporo\nChūō-ku, Sapporo\nRailway stations in Japan opened in 1880\nHokkaido Shinkansen"
-          },
-          "全文": "is a railway station in Chūō-ku, Sapporo, Hokkaido, Japan. It is served by Hakodate Main Line and other lines of Hokkaido Railway Company (JR Hokkaido), and is also connected to the Subway Sapporo Station.\n\nSapporo Station is the starting point and terminus for most limited express services operated by JR Hokkaido. It also has the tallest building (JR Tower) in Hokkaido. Sapporo station is developing into a commercial center as large as Ōdōri Park and Susukino.\n\nLines and trains\nThe following JR Hokkaido lines and trains pass through or terminate at Sapporo Station:\n\n Hakodate Main Line\nOkhotsk limited express (Sapporo – )\nSōya limited express (Sapporo – )\nKamui limited express (Sapporo – )\nLilac limited express (Sapporo – )\nIshikari Liner semi-rapid ( – Sapporo – )\nNiseko Liner rapid (,  – Sapporo)\n\nHokuto limited express (Hakodate – Sapporo)\nŌzora limited express (Sapporo – Kushiro)\nTokachi limited express (Sapporo – )\nSuzuran limited express ( – Sapporo)\nAirport rapid ( – Sapporo – Otaru)\nAirport special rapid ( – Sapporo)\n (Gakuen Toshi Line)\n\nLayout\nSapporo Station consists of five platforms that are raised above street level. These raised platforms serve 10 tracks which run in an east–west direction. Two concourses run north–south below the platforms. It has a commercial facility called Paseo under the ground and JR Tower on the south side of the station. The station is also planned to become a new high-rise building and a terminal station of the Hokkaido Shinkansen that is scheduled to open in Fiscal Year 2030.\n\nOn 16 October, 2022, due to construction of the Hokkaido Shinkansen extension to Sapporo, Platform 11 opened for passengers while Platform 1 was discontinued. The new platform can accommodate trains up to six cars long.\n\nPlatforms\n\nAdjacent stations\n\nHistory\n\nSapporo Station opened on 28 November 1880 as a terminus of the Horonai Railway. A new station building was built in 1881 and it was enlarged as Sapporo developed. In 1908, the station building was rebuilt because of a fire in 1907. The restored building can be found in the Historical Village of Hokkaido in Nopporo Forest Park.\n\nThe third reconstruction was finished in 1951 and the Sapporo Subway was opened in 1971. An underground shopping center was started in 1972 and a commercial building was opened on the east side of the station in 1978.\n\nWith the privatization of JNR on 1 April 1987, the station came under the control of JR Hokkaido.\n\nThe current building was built in 2003.\n\nOvernight sleeping car trains Cassiopeia, Hokutosei, and Hamanasu served the station prior to their discontinuation.\n\nSurrounding area\n\n  Subway Sapporo Station\n Sapporo station Bus Terminal\n  (to Hakodate)\n Hokkaido Development Bureau building\n Hokkaido University\n Hokkaido Police Headquarters\n Sapporo Central Post Office\n Sapporo 1 building, (Sapporo Government Office building)\n Sapporo agricultural cooperative association (JA Sapporo), Chuo branch\n Sapporo JR Tower\n Sapporo Stellar Place, shopping mall\n Daimaru store, Sapporo branch\n Sapporo Cinema Frontier\n Sapporo Esta, shopping center\n Tokyu Department Store, Sapporo branch\n Asty 45, building\n PASEO, shopping center\n APIA, shopping center\n Hotel New Otani Sapporo\n\nSapporo station bus terminal\n\nHighway buses \n Iwamizawa; For Iwamizawa Station\n Mikasa; For Iwamizawa Station and Mikasa\n Bibai; For Bibai Station\n Furano; For Iwamizawa, Sunagawa, Higashi-Takikawa Station, Akabira Station, Ashibetsu Station, and Furano Station\n Kuriyama; For Kurisawa Station and Kuriyama Station\n Yubari; For Kuriyama Station, Shikanotani Station, and Yūbari Station\n Takikawa; For Takikawa Station\n Shintotsukawa; For Takikawa and Shintotsukawa\n Rumoi; For Takikawa, Fukagawa, and Rumoi Station\n Asahikawa; For Asahikawa Station\n Engaru; For Shirataki and Engaru Station\n Nayoro; For Wassamu Station, Kenbuchi, Shibetsu, Fūren Station, and Nayoro Station\n Ryuhyo Monbetsu; For Takinoue and Monbetsu\n Haboro; For Mashike Station, Rumoi Station, Obira, Tomamae, Haboro, Shosanbetsu, Enbetsu, Teshio, and Toyotomi Station\n Muroran/Muroran Soccer/Hakucho; For Noboribetsu Station, Higashi-Muroran Station, and Muroran Station\n Tomakomai/Haskap; For Tomakomai Station and Tomakoma Ferry Terminal\n Hakodate; For Yakumo, Mori, Nanai Station, Goryōkaku Station, Hakodate Station, and Yunokawa Onsen\n Pegasus; For Mukawa, Tomikawa Station, Kiyohata Station, Shizunai Station, Hidaka-mitsuishi Station, and Urakawa Station\n Hidaka; For Mukawa, Tomikawa Station, Biratori, and Hidaka\n Date Liner; For Datemombetsu Station\n Otaru; For Otaru-Chikkō Station, Otaru Station\n Yoichi; For Ranshima Station, Yoichi Station, Umekawa, and Toyohama\n Shakotan; For Ranshima Station, Yoichi, Furubira, and Shakotan\n Iwanai; For Rashima, Yoichi, Kyōwa, and Iwanai\n Niseko; For Otaru Station, Yoichi, Niki, Kyowa, Kutchan, and Niseko\n Hiroo Santa; For Urakawa and Hiroo\n Erimo; For Hidaka-horobetsu Station, Samani Station, and Erimo\n Starlight Kushiro; For Shiranuka Station, Otanoshike Station, and Kushiro Station\n\nSee also\nSapporo Station (Sapporo Municipal Subway)\nList of railway stations in Japan\n\nReferences\n\nExternal links\n\n JR Sapporo Station Map\n\nRailway stations in Sapporo\nChūō-ku, Sapporo\nRailway stations in Japan opened in 1880\nHokkaido Shinkansen",
-          "字数": 5283
+          "链接": "https://ja.wikipedia.org/wiki/%E6%9C%AD%E5%B9%8C%E9%A7%85",
+          "首段": "Sapporo Station (札幌駅) is a railway station in 道札幌市北区北6条西4丁目, Japan.",
+          "章节": {},
+          "全文": "Sapporo Station (札幌駅) is a railway station in 道札幌市北区北6条西4丁目, Japan.",
+          "字数": 67
         }
       },
       "结构化信息": {
@@ -1164,15 +1187,11 @@
         },
         "英文": {
           "词条标题": "Urahoro Station",
-          "链接": "https://en.wikipedia.org/wiki/Urahoro%20Station",
-          "首段": "is a train station in Urahoro, Tokachi District, Hokkaidō, Japan.",
-          "章节": {
-            "Lines": "Hokkaido Railway Company\nNemuro Main Line Station K40",
-            "History": "Urahoro Station opened on 25 December 1903.\n\nWith the privatization of the Japan National Railway (JNR) on 1 April 1987, the station came under the aegis of the Hokkaido Railway Company (JR Hokkaido).\n\nAdjacent stations",
-            "References": "Railway stations in Hokkaido Prefecture\nRailway stations in Japan opened in 1903"
-          },
-          "全文": "is a train station in Urahoro, Tokachi District, Hokkaidō, Japan.\n\nLines\nHokkaido Railway Company\nNemuro Main Line Station K40\n\nHistory \nUrahoro Station opened on 25 December 1903.\n\nWith the privatization of the Japan National Railway (JNR) on 1 April 1987, the station came under the aegis of the Hokkaido Railway Company (JR Hokkaido).\n\nAdjacent stations\n\nReferences \n\nRailway stations in Hokkaido Prefecture\nRailway stations in Japan opened in 1903",
-          "字数": 451
+          "链接": "https://ja.wikipedia.org/wiki/%E6%B5%A6%E5%B9%8C%E9%A7%85",
+          "首段": "Urahoro Station (浦幌駅) is a railway station in 道十勝郡浦幌町本町（ほんちょう）, Japan.",
+          "章节": {},
+          "全文": "Urahoro Station (浦幌駅) is a railway station in 道十勝郡浦幌町本町（ほんちょう）, Japan.",
+          "字数": 70
         }
       },
       "结构化信息": {
@@ -1254,15 +1273,11 @@
         },
         "英文": {
           "词条标题": "Shiranuka Station",
-          "链接": "https://en.wikipedia.org/wiki/Shiranuka%20Station",
-          "首段": "is a train station in Shiranuka, Shiranuka District, Hokkaidō, Japan.",
-          "章节": {
-            "Lines": "Hokkaido Railway Company\nNemuro Main Line Station K47",
-            "History": "Shiranuka Station opened on 20 July 1901.\n\nThe Shiranuka Line which traveled from this station to Hokushin Station opened for service in 1964, but closed for service on 23 October 1983.\n\nWith the privatization of the Japan National Railway (JNR) on 1 April 1987, the station came under the aegis of the Hokkaido Railway Company (JR Hokkaido).\n\nAdjacent stations",
-            "References": "Railway stations in Hokkaido Prefecture\nRailway stations in Japan opened in 1901"
-          },
-          "全文": "is a train station in Shiranuka, Shiranuka District, Hokkaidō, Japan.\n\nLines\nHokkaido Railway Company\nNemuro Main Line Station K47\n\nHistory \nShiranuka Station opened on 20 July 1901.\n\nThe Shiranuka Line which traveled from this station to Hokushin Station opened for service in 1964, but closed for service on 23 October 1983.\n\nWith the privatization of the Japan National Railway (JNR) on 1 April 1987, the station came under the aegis of the Hokkaido Railway Company (JR Hokkaido).\n\nAdjacent stations\n\nReferences \n\nRailway stations in Hokkaido Prefecture\nRailway stations in Japan opened in 1901",
-          "字数": 597
+          "链接": "https://ja.wikipedia.org/wiki/%E7%99%BD%E7%B3%A0%E9%A7%85",
+          "首段": "Shiranuka Station (白糠駅) is a railway station in 道白糠郡白糠町東1条南1丁目, Japan.",
+          "章节": {},
+          "全文": "Shiranuka Station (白糠駅) is a railway station in 道白糠郡白糠町東1条南1丁目, Japan.",
+          "字数": 70
         }
       },
       "结构化信息": {
@@ -1343,15 +1358,11 @@
         },
         "英文": {
           "词条标题": "Memuro Station",
-          "链接": "https://en.wikipedia.org/wiki/Memuro%20Station",
-          "首段": "is a railway station in Memuro, Kasai District, Hokkaidō, Japan.",
-          "章节": {
-            "Lines": "Hokkaido Railway Company\nNemuro Main Line Station K27",
-            "History": "Memuro Station opened on 8 September 1907.\n\nWith the privatization of the Japan National Railway (JNR) on 1 April 1987, the station came under the aegis of the Hokkaido Railway Company (JR Hokkaido).",
-            "References": "Railway stations in Hokkaido Prefecture\nRailway stations in Japan opened in 1907"
-          },
-          "全文": "is a railway station in Memuro, Kasai District, Hokkaidō, Japan.\n\nLines\nHokkaido Railway Company\nNemuro Main Line Station K27\n\nHistory\nMemuro Station opened on 8 September 1907.\n\nWith the privatization of the Japan National Railway (JNR) on 1 April 1987, the station came under the aegis of the Hokkaido Railway Company (JR Hokkaido).\n\nReferences \n\nRailway stations in Hokkaido Prefecture\nRailway stations in Japan opened in 1907",
-          "字数": 429
+          "链接": "https://ja.wikipedia.org/wiki/%E8%8A%BD%E5%AE%A4%E9%A7%85",
+          "首段": "Memuro Station (芽室駅) is a railway station in 道河西郡芽室町本通一丁目, Japan.",
+          "章节": {},
+          "全文": "Memuro Station (芽室駅) is a railway station in 道河西郡芽室町本通一丁目, Japan.",
+          "字数": 65
         }
       },
       "结构化信息": {
@@ -1415,7 +1426,14 @@
           "字数": 473,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "追分駅",
+          "链接": "https://ja.wikipedia.org/wiki/%E8%BF%BD%E5%88%86%E9%A7%85",
+          "首段": "追分駅 (追分駅) is a railway station in 道) - 北海道勇払郡安平町, Japan.",
+          "章节": {},
+          "全文": "追分駅 (追分駅) is a railway station in 道) - 北海道勇払郡安平町, Japan.",
+          "字数": 56
+        }
       },
       "结构化信息": {
         "读音": null,
@@ -1559,6 +1577,6 @@
     "有中文词条": 17,
     "已千问汉化": 0,
     "待汉化": 2,
-    "有英文词条": 11
+    "有英文词条": 17
   }
 }
