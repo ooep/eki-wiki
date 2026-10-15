@@ -17628,15 +17628,15 @@
         "英文": {
           "词条标题": "Kandatsu Station",
           "链接": "https://en.wikipedia.org/wiki/Kandatsu%20Station",
-          "首段": "",
+          "首段": "Kandatsu Station (神立駅) is a station on the Joban Line in Tsuchiura, Ibaraki Prefecture, Japan, operated by JR East and JR Freight.",
           "章节": {
             "Lines": "Kandatsu Station is served by the Jōban Line, and is located  from the official starting point of the line at Nippori Station.\n\nStation layout\nThe station consists of a one side platform and a one island platform, connected to the station building by a footbridge. The station is staffed and two local trains stop approximately every hour during the day.",
             "History": "Kandatsu Station was opened on 4 November 1895. The station was absorbed into the JR East network upon the privatization of the Japanese National Railways (JNR) on 1 April 1987.\n\nPassenger statistics\nIn fiscal 2019, the station was used by an average of 5,572  passengers daily (boarding passengers only).\n\nSurrounding area\nKandatsu Post Office\nKandatsu Industrial Park\n\nSee also\n List of railway stations in Japan",
             "References": "External links\n\n  Station information JR East Station Information \n\nRailway stations in Ibaraki Prefecture\nJōban Line\nRailway stations in Japan opened in 1895",
             "Tsuchiura": "Stations of Japan Freight Railway Company"
           },
-          "全文": "} is a railway station in the city of Tsuchiura, Ibaraki Prefecture, Japan, operated by East Japan Railway Company (JR East). It is also a freight depot for the Japan Freight Railway Company (JR Freight).\n\nLines\nKandatsu Station is served by the Jōban Line, and is located  from the official starting point of the line at Nippori Station.\n\nStation layout\nThe station consists of a one side platform and a one island platform, connected to the station building by a footbridge. The station is staffed and two local trains stop approximately every hour during the day.\n\nPlatforms\n\nHistory\nKandatsu Station was opened on 4 November 1895. The station was absorbed into the JR East network upon the privatization of the Japanese National Railways (JNR) on 1 April 1987.\n\nPassenger statistics\nIn fiscal 2019, the station was used by an average of 5,572  passengers daily (boarding passengers only).\n\nSurrounding area\nKandatsu Post Office\nKandatsu Industrial Park\n\nSee also\n List of railway stations in Japan\n\nReferences\n\nExternal links\n\n  Station information JR East Station Information \n\nRailway stations in Ibaraki Prefecture\nJōban Line\nRailway stations in Japan opened in 1895\nTsuchiura\nStations of Japan Freight Railway Company",
-          "字数": 1225
+          "全文": "Kandatsu Station (神立駅) is a station on the Joban Line in Tsuchiura, Ibaraki Prefecture, Japan, operated by JR East and JR Freight.",
+          "字数": 130
         }
       },
       "结构化信息": {
@@ -21321,8 +21321,13 @@
           "词条标题": "金崎站",
           "来源": "千问翻译（据日文维基首段与要点）",
           "首段": "金崎站（かねがさきえき）是位于岩手县胆泽郡金崎町西根杉土手的东日本旅客铁道（JR东日本）东北本线车站。",
-          "章节": {},
-          "字数": 51
+          "章节": {
+            "历史": "1897年（明治30年）7月1日 - 开业。\n1982年（昭和57年）11月15日 - 废除货物处理。\n1983年（昭和58年）2月1日 - 废除行李处理成为无站员配置站。\n1987年（昭和62年）4月1日 - 国铁分割民营化成为JR东日本车站。\n2004年（平成16年） - 业务委托化，站房改建。",
+            "车站结构": "单式月台2面2线的地面车站，设桥上站房。原本2面3线，旧2号线（中线）拆除成为现形。北上站管理的业务委托站（早晚夜间站员不在，委托JR东日本东北综合服务）。站房内设售票窗口、自动售票机。",
+            "使用情况": "JR东日本数据，2022年度1日平均乘车人员570人。"
+          },
+          "字数": 340,
+          "全文": "金崎站（かねがさきえき）是位于岩手县胆泽郡金崎町西根杉土手的东日本旅客铁道（JR东日本）东北本线车站。\n\n历史\n1897年（明治30年）7月1日 - 开业。\n1982年（昭和57年）11月15日 - 废除货物处理。\n1983年（昭和58年）2月1日 - 废除行李处理成为无站员配置站。\n1987年（昭和62年）4月1日 - 国铁分割民营化成为JR东日本车站。\n2004年（平成16年） - 业务委托化，站房改建。\n\n车站结构\n单式月台2面2线的地面车站，设桥上站房。原本2面3线，旧2号线（中线）拆除成为现形。北上站管理的业务委托站（早晚夜间站员不在，委托JR东日本东北综合服务）。站房内设售票窗口、自动售票机。\n\n使用情况\nJR东日本数据，2022年度1日平均乘车人员570人。"
         },
         "英文": {
           "词条标题": "Kanegasaki Station",
@@ -21679,8 +21684,15 @@
           "词条标题": "间间田站",
           "来源": "千问翻译（据日文维基首段与要点）",
           "首段": "间间田站（ままだえき）是位于栃木县小山市乙女三丁目的东日本旅客铁道（JR东日本）东北本线车站。\n包含在「宇都宫线」的爱称区间内，停靠以上野站到发系统为主的列车，以及经新宿站直通横须贺线的湘南新宿线、经上野站与东京站直通东海道线的上野东京线。",
-          "章节": {},
-          "字数": 120
+          "章节": {
+            "历史": "1894年（明治27年）4月1日 - 作为日本铁道车站开业。\n1899年（明治32年） - 乙女人车轨道开业，货物专用连接思川乙女河岸与间间田站。\n1906年（明治39年）11月1日 - 依铁道国有法国有化。\n1909年（明治42年）10月12日 - 线路名称制定成为东北本线所属。\n1917年（大正6年） - 乙女人车轨道废除。",
+            "车站结构": "单式月台2面2线的地面车站。月台上设桥上站房。无障碍化工事前为快速·货物列车待避用，岛式月台有2号线。现在2号线架线·线路已拆除。",
+            "使用情况": "JR东日本数据，2022年度1日平均乘车人员3,546人。",
+            "车站周边": "旧间间田町中心部日光街道·间间田宿在以北约2公里处。距站近交通便利的乙女地区聚集金融机关支店、商店街、公寓等集合住宅及福利设施、医疗设施、工厂。",
+            "其他": "过去直通水户线的急行\"筑波岭\"因经短络线驶入水户线无法停靠邻站小山站，替代停靠本站。短络线已废线拆除。"
+          },
+          "字数": 533,
+          "全文": "间间田站（ままだえき）是位于栃木县小山市乙女三丁目的东日本旅客铁道（JR东日本）东北本线车站。\n包含在「宇都宫线」的爱称区间内，停靠以上野站到发系统为主的列车，以及经新宿站直通横须贺线的湘南新宿线、经上野站与东京站直通东海道线的上野东京线。\n\n历史\n1894年（明治27年）4月1日 - 作为日本铁道车站开业。\n1899年（明治32年） - 乙女人车轨道开业，货物专用连接思川乙女河岸与间间田站。\n1906年（明治39年）11月1日 - 依铁道国有法国有化。\n1909年（明治42年）10月12日 - 线路名称制定成为东北本线所属。\n1917年（大正6年） - 乙女人车轨道废除。\n\n车站结构\n单式月台2面2线的地面车站。月台上设桥上站房。无障碍化工事前为快速·货物列车待避用，岛式月台有2号线。现在2号线架线·线路已拆除。\n\n使用情况\nJR东日本数据，2022年度1日平均乘车人员3,546人。\n\n车站周边\n旧间间田町中心部日光街道·间间田宿在以北约2公里处。距站近交通便利的乙女地区聚集金融机关支店、商店街、公寓等集合住宅及福利设施、医疗设施、工厂。\n\n其他\n过去直通水户线的急行\"筑波岭\"因经短络线驶入水户线无法停靠邻站小山站，替代停靠本站。短络线已废线拆除。"
         },
         "英文": {
           "词条标题": "Mamada Station",
