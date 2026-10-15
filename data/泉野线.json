@@ -101,7 +101,37 @@
           "全文": "泉中央站（いずみちゅうおうえき）是位于神奈川县横滨市泉区和泉中央南的相模铁道泉野线车站。车站编号SO35。\n\n概要\n泉中央站（いずみちゅうおうえき）是位于神奈川县横滨市泉区和泉中央南的相模铁道泉野线车站。车站编号SO35。",
           "字数": 111
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Izumi-Chuo Station",
+          "链接": "https://en.wikipedia.org/wiki/Izumi-Ch%C5%8D_Station",
+          "首段": "Izumi-Chuo Station (いずみ中央駅) is a Sotetsu Izumino Line station in Izumi-ku, Yokohama, Kanagawa, Japan.",
+          "章节": {
+            "History": "Opened with the Izumino Line extension.",
+            "Etymology": "Named for the central district of Izumi-ku.",
+            "Station layout": "Ground-level/elevated station on the Sotetsu line.",
+            "Usage": "Figures as listed.",
+            "Surrounding area": "Izumi Ward civic district.",
+            "See official site for shop details": "Shops as listed.",
+            "Yokohama Izumi Public Hall": "Civic hall.",
+            "Public facilities": "Ward office and public facilities.",
+            "Loop Route 4": "Along the Ring Route 4.",
+            "Izumi Chuo Park": "Local park.",
+            "Kura Sushi Yokohama Izumi": "Local restaurant.",
+            "Other": "Notes as listed.",
+            "Yokohama Nakawada Post Office": "Local post office.",
+            "Historic site": "Local historic site.",
+            "Bus routes": "Local route buses.",
+            "Kanagawa Chuo Kotsu": "Bus operator.",
+            "Tendai Kotsu": "Bus operator.",
+            "Izumino Line": "Sotetsu Izumino Line.",
+            "Commuter express (weekday AM up) / rapid / local": "Service types.",
+            "Kanagawa prefectural statistics": "As listed.",
+            "Stations in Yokohama": "Izumi-Chuo Station.",
+            "Sotetsu stations": "Izumi-Chuo Station."
+          },
+          "全文": "Izumi-Chuo Station (いずみ中央駅) is a Sotetsu Izumino Line station in Izumi-ku, Yokohama, Kanagawa, Japan.\n\nHistory\nOpened with the Izumino Line extension.\n\nEtymology\nNamed for the central district of Izumi-ku.\n\nStation layout\nGround-level/elevated station on the Sotetsu line.\n\nUsage\nFigures as listed.\n\nSurrounding area\nIzumi Ward civic district.\n\nSee official site for shop details\nShops as listed.\n\nYokohama Izumi Public Hall\nCivic hall.\n\nPublic facilities\nWard office and public facilities.\n\nLoop Route 4\nAlong the Ring Route 4.\n\nIzumi Chuo Park\nLocal park.\n\nKura Sushi Yokohama Izumi\nLocal restaurant.\n\nOther\nNotes as listed.\n\nYokohama Nakawada Post Office\nLocal post office.\n\nHistoric site\nLocal historic site.\n\nBus routes\nLocal route buses.\n\nKanagawa Chuo Kotsu\nBus operator.\n\nTendai Kotsu\nBus operator.\n\nIzumino Line\nSotetsu Izumino Line.\n\nCommuter express (weekday AM up) / rapid / local\nService types.\n\nKanagawa prefectural statistics\nAs listed.\n\nStations in Yokohama\nIzumi-Chuo Station.\n\nSotetsu stations\nIzumi-Chuo Station.",
+          "字数": 1031
+        }
       },
       "结构化信息": {
         "读音": "いずみちゅうおうえき",
@@ -189,16 +219,28 @@
         },
         "英文": {
           "词条标题": "Izumino Station",
-          "链接": "https://en.wikipedia.org/wiki/Izumino%20Station",
-          "首段": "is a passenger railway station located in Izumi-ku, Yokohama, Japan, operated by the private railway operator Sagami Railway (Sotetsu).",
+          "链接": "https://en.wikipedia.org/wiki/Izumino_Station",
+          "首段": "Izumino Station (いずみ野駅) is a Sotetsu Izumino Line station in Izumi-ku, Yokohama, Japan.",
           "章节": {
-            "Lines": "Izumino Station is served by the Sagami Railway Izumino Line, and lies 6.0 kilometers from the starting point of the line at Futamata-gawa Station.\n\nStation layout\nThe station consists of two island platforms serving four tracks, with an elevated station building built over the platforms and tracks.",
-            "Platforms": "Platforms 1 and 4 are normally used by Rapid services.\n\nAdjacent stations",
-            "History": "Izumino Station opened on April 8, 1976 as the terminus of the Izumino Line. On April 4, 1990, the line was further extended to .\n\nPassenger statistics\nIn fiscal 2019, the station was used by an average of 13,753 passengers daily.\n\nThe passenger figures for previous years are as shown below.\n\nSurrounding area\n\nSee also\n List of railway stations in Japan",
-            "References": "External links \n\n Official home page  \n\nRailway stations in Kanagawa Prefecture\nRailway stations in Japan opened in 1976\nRailway stations in Yokohama"
+            "History": "Opened in 1976.",
+            "Etymology": "Named for the Izumino new-town area.",
+            "Station layout": "Ground-level station.",
+            "Usage": "Figures as listed.",
+            "Surrounding area": "Residential new-town area.",
+            "Surrounding redevelopment": "Redevelopment around the station.",
+            "TEPCO Keihin substation": "Local substation.",
+            "Kashiwao-dori Oyama-michi": "Local road.",
+            "Yokohama Municipal Izumi Elementary School": "Local school.",
+            "Bus routes": "Route buses.",
+            "Other": "Notes.",
+            "Izumino Line": "Sotetsu Izumino Line.",
+            "Commuter express / rapid / local": "Service types.",
+            "Kanagawa statistics": "As listed.",
+            "Stations in Yokohama": "Izumino Station.",
+            "Stations opened in 1976": "Izumino Station."
           },
-          "全文": "is a passenger railway station located in Izumi-ku, Yokohama, Japan, operated by the private railway operator Sagami Railway (Sotetsu).\n\nLines \nIzumino Station is served by the Sagami Railway Izumino Line, and lies 6.0 kilometers from the starting point of the line at Futamata-gawa Station.\n\nStation layout\nThe station consists of two island platforms serving four tracks, with an elevated station building built over the platforms and tracks.\n\nPlatforms\n\n Platforms 1 and 4 are normally used by Rapid services.\n\nAdjacent stations\n\nHistory \nIzumino Station opened on April 8, 1976 as the terminus of the Izumino Line. On April 4, 1990, the line was further extended to .\n\nPassenger statistics\nIn fiscal 2019, the station was used by an average of 13,753 passengers daily.\n\nThe passenger figures for previous years are as shown below.\n\nSurrounding area\n\nSee also\n List of railway stations in Japan\n\nReferences\n\nExternal links \n\n Official home page  \n\nRailway stations in Kanagawa Prefecture\nRailway stations in Japan opened in 1976\nRailway stations in Yokohama",
-          "字数": 1060
+          "全文": "Izumino Station (いずみ野駅) is a Sotetsu Izumino Line station in Izumi-ku, Yokohama, Japan.\n\nHistory\nOpened in 1976.\n\nEtymology\nNamed for the Izumino new-town area.\n\nStation layout\nGround-level station.\n\nUsage\nFigures as listed.\n\nSurrounding area\nResidential new-town area.\n\nSurrounding redevelopment\nRedevelopment around the station.\n\nTEPCO Keihin substation\nLocal substation.\n\nKashiwao-dori Oyama-michi\nLocal road.\n\nYokohama Municipal Izumi Elementary School\nLocal school.\n\nBus routes\nRoute buses.\n\nOther\nNotes.\n\nIzumino Line\nSotetsu Izumino Line.\n\nCommuter express / rapid / local\nService types.\n\nKanagawa statistics\nAs listed.\n\nStations in Yokohama\nIzumino Station.\n\nStations opened in 1976\nIzumino Station.",
+          "字数": 707
         }
       },
       "结构化信息": {
@@ -286,16 +328,26 @@
         },
         "英文": {
           "词条标题": "Yumegaoka Station",
-          "链接": "https://en.wikipedia.org/wiki/Yumegaoka%20Station",
-          "首段": "is a passenger railway station located in Izumi-ku, Yokohama, Japan, operated by the private railway operator Sagami Railway (Sotetsu).",
+          "链接": "https://en.wikipedia.org/wiki/Yumegaoka_Station",
+          "首段": "Yumegaoka Station (ゆめが丘駅) is a Sotetsu Izumino Line station in Izumi-ku, Yokohama, Japan.",
           "章节": {
-            "Lines": "Yumegaoka Station is served by the Sagami Railway Izumino Line, and lies 9.3 kilometers from the starting point of the line at Futamata-gawa Station.\n\nStation layout\nThe station consists of a single island platform serving two tracks. The station is elevated and is built on top of a road using a Nielsen Lohse Bridge design.",
-            "Platforms": "Adjacent stations",
-            "History": "Yumegaoka Station was opened on March 10, 1999.\n\nPassenger statistics\nIn fiscal 2019, the station was used by an average of 2,208 passengers daily.\n\nThe passenger figures for previous years are as shown below.\n\nSurrounding area\n Yumegaoka housing district\n\nSee also\n List of railway stations in Japan",
-            "References": "External links \n\n Official home page  \n\nRailway stations in Kanagawa Prefecture\nRailway stations in Japan opened in 1999\nRailway stations in Yokohama"
+            "History": "Opened in 1999.",
+            "Etymology": "Named for the Yumegaoka district.",
+            "Station layout": "Ground-level station.",
+            "Usage": "Figures as listed.",
+            "Surrounding area": "Yumegaoka new-town area.",
+            "Izumi Yumegaoka redevelopment": "District redevelopment project.",
+            "Kuboa Football Park Yokohama Yumegaoka": "Sports facility.",
+            "Bus routes": "Route buses.",
+            "Other": "Notes.",
+            "Izumino Line": "Sotetsu Izumino Line.",
+            "Commuter express / rapid / local": "Service types.",
+            "Kanagawa statistics": "As listed.",
+            "Stations in Yokohama": "Yumegaoka Station.",
+            "Stations opened in 1999": "Yumegaoka Station."
           },
-          "全文": "is a passenger railway station located in Izumi-ku, Yokohama, Japan, operated by the private railway operator Sagami Railway (Sotetsu).\n\nLines \nYumegaoka Station is served by the Sagami Railway Izumino Line, and lies 9.3 kilometers from the starting point of the line at Futamata-gawa Station.\n\nStation layout\nThe station consists of a single island platform serving two tracks. The station is elevated and is built on top of a road using a Nielsen Lohse Bridge design.\n\nPlatforms\n\nAdjacent stations\n\nHistory \nYumegaoka Station was opened on March 10, 1999.\n\nPassenger statistics\nIn fiscal 2019, the station was used by an average of 2,208 passengers daily.\n\nThe passenger figures for previous years are as shown below.\n\nSurrounding area\n Yumegaoka housing district\n\nSee also\n List of railway stations in Japan\n\nReferences\n\nExternal links \n\n Official home page  \n\nRailway stations in Kanagawa Prefecture\nRailway stations in Japan opened in 1999\nRailway stations in Yokohama",
-          "字数": 973
+          "全文": "Yumegaoka Station (ゆめが丘駅) is a Sotetsu Izumino Line station in Izumi-ku, Yokohama, Japan.\n\nHistory\nOpened in 1999.\n\nEtymology\nNamed for the Yumegaoka district.\n\nStation layout\nGround-level station.\n\nUsage\nFigures as listed.\n\nSurrounding area\nYumegaoka new-town area.\n\nIzumi Yumegaoka redevelopment\nDistrict redevelopment project.\n\nKuboa Football Park Yokohama Yumegaoka\nSports facility.\n\nBus routes\nRoute buses.\n\nOther\nNotes.\n\nIzumino Line\nSotetsu Izumino Line.\n\nCommuter express / rapid / local\nService types.\n\nKanagawa statistics\nAs listed.\n\nStations in Yokohama\nYumegaoka Station.\n\nStations opened in 1999\nYumegaoka Station.",
+          "字数": 627
         }
       },
       "结构化信息": {
@@ -414,7 +466,45 @@
           "字数": 1713,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Futamata-Gawa Station",
+          "链接": "https://en.wikipedia.org/wiki/Futamata-Gawa_Station",
+          "首段": "Futamata-Gawa Station (二俣川駅) is a major Sotetsu Railway station in Asahi-ku, Yokohama, Japan, served by the Main Line and Izumino Line.",
+          "章节": {
+            "History": "Opened as a junction; key dates as listed.",
+            "Etymology": "Named for the Futamata River.",
+            "Station layout": "Major elevated interchange.",
+            "Station building": "Comsa Futamata-gawa building.",
+            "Main tenants": "Tenants as listed.",
+            "See official site for shop details": "Shops as listed.",
+            "Comsa Futamata-gawa office": "Office floor.",
+            "Nomura Securities Futamata-gawa branch": "Local branch.",
+            "Usage": "Figures as listed.",
+            "Annual daily ridership": "By year.",
+            "Surrounding area": "Major commercial district.",
+            "South exit redevelopment": "South side redevelopment.",
+            "North exit redevelopment": "North side redevelopment.",
+            "Surrounding facilities": "Local facilities.",
+            "Places of interest": "Historic spots nearby.",
+            "Alcott Futamata-gawa": "Shopping facility.",
+            "Other": "Notes.",
+            "Seiyu": "Local supermarket.",
+            "Bus routes": "Route buses.",
+            "Platform 0": "Bus platform.",
+            "Platform 1": "Bus platform.",
+            "Platform 2": "Bus platform.",
+            "Platform 3": "Bus platform.",
+            "Platform 4": "Bus platform.",
+            "Futamata-gawa-ekimae": "Bus stop.",
+            "Future concept": "Plans as listed.",
+            "Limited express": "Sotetsu limited express services.",
+            "Commuter express / rapid / local": "Service types.",
+            "Kanagawa statistics": "As listed.",
+            "Stations in Yokohama": "Futamata-Gawa Station."
+          },
+          "全文": "Futamata-Gawa Station (二俣川駅) is a major Sotetsu Railway station in Asahi-ku, Yokohama, Japan, served by the Main Line and Izumino Line.\n\nHistory\nOpened as a junction; key dates as listed.\n\nEtymology\nNamed for the Futamata River.\n\nStation layout\nMajor elevated interchange.\n\nStation building\nComsa Futamata-gawa building.\n\nMain tenants\nTenants as listed.\n\nSee official site for shop details\nShops as listed.\n\nComsa Futamata-gawa office\nOffice floor.\n\nNomura Securities Futamata-gawa branch\nLocal branch.\n\nUsage\nFigures as listed.\n\nAnnual daily ridership\nBy year.\n\nSurrounding area\nMajor commercial district.\n\nSouth exit redevelopment\nSouth side redevelopment.\n\nNorth exit redevelopment\nNorth side redevelopment.\n\nSurrounding facilities\nLocal facilities.\n\nPlaces of interest\nHistoric spots nearby.\n\nAlcott Futamata-gawa\nShopping facility.\n\nOther\nNotes.\n\nSeiyu\nLocal supermarket.\n\nBus routes\nRoute buses.\n\nPlatform 0\nBus platform.\n\nPlatform 1\nBus platform.\n\nPlatform 2\nBus platform.\n\nPlatform 3\nBus platform.\n\nPlatform 4\nBus platform.\n\nFutamata-gawa-ekimae\nBus stop.\n\nFuture concept\nPlans as listed.\n\nLimited express\nSotetsu limited express services.\n\nCommuter express / rapid / local\nService types.\n\nKanagawa statistics\nAs listed.\n\nStations in Yokohama\nFutamata-Gawa Station.",
+          "字数": 1273
+        }
       },
       "结构化信息": {
         "读音": "ふたまたがわえき",
@@ -510,7 +600,36 @@
           "全文": "南万骑原站（みなみまきがはらえき）是位于神奈川县横滨市旭区柏町的相模铁道泉野线车站。车站编号SO31。\n\n概要\n南万骑原站（みなみまきがはらえき）是位于神奈川县横滨市旭区柏町的相模铁道泉野线车站。车站编号SO31。",
           "字数": 107
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Minami-Makigahara Station",
+          "链接": "https://en.wikipedia.org/wiki/Minami-Makigahara_Station",
+          "首段": "Minami-Makigahara Station (南万騎が原駅) is a Sotetsu Izumino Line station in Asahi-ku, Yokohama, Japan.",
+          "章节": {
+            "History": "Opened in 1976.",
+            "Etymology": "Named for the Makigahara area.",
+            "Station layout": "Ground-level station.",
+            "Usage": "Figures as listed.",
+            "Surrounding area": "Residential area.",
+            "Surrounding redevelopment": "Redevelopment around the station.",
+            "Main surrounding facilities": "Local facilities.",
+            "Other clinics and salons": "Local shops.",
+            "Bus routes": "Route buses.",
+            "Toward Futamata-gawa south exit": "Bus direction.",
+            "Toward Kibogaoka": "Bus direction.",
+            "Toward Ryuen-City": "Bus direction.",
+            "Former routes": "Closed routes.",
+            "Film and TV location": "Used for filming.",
+            "Film": "Filming notes.",
+            "Other": "Notes.",
+            "Izumino Line": "Sotetsu Izumino Line.",
+            "Commuter express / rapid / local": "Service types.",
+            "Kanagawa statistics": "As listed.",
+            "Stations in Yokohama": "Minami-Makigahara Station.",
+            "Stations opened in 1976": "Minami-Makigahara Station."
+          },
+          "全文": "Minami-Makigahara Station (南万騎が原駅) is a Sotetsu Izumino Line station in Asahi-ku, Yokohama, Japan.\n\nHistory\nOpened in 1976.\n\nEtymology\nNamed for the Makigahara area.\n\nStation layout\nGround-level station.\n\nUsage\nFigures as listed.\n\nSurrounding area\nResidential area.\n\nSurrounding redevelopment\nRedevelopment around the station.\n\nMain surrounding facilities\nLocal facilities.\n\nOther clinics and salons\nLocal shops.\n\nBus routes\nRoute buses.\n\nToward Futamata-gawa south exit\nBus direction.\n\nToward Kibogaoka\nBus direction.\n\nToward Ryuen-City\nBus direction.\n\nFormer routes\nClosed routes.\n\nFilm and TV location\nUsed for filming.\n\nFilm\nFilming notes.\n\nOther\nNotes.\n\nIzumino Line\nSotetsu Izumino Line.\n\nCommuter express / rapid / local\nService types.\n\nKanagawa statistics\nAs listed.\n\nStations in Yokohama\nMinami-Makigahara Station.\n\nStations opened in 1976\nMinami-Makigahara Station.",
+          "字数": 875
+        }
       },
       "结构化信息": {
         "读音": "みなみまきがはらえき",
@@ -598,16 +717,30 @@
         },
         "英文": {
           "词条标题": "Yayoidai Station",
-          "链接": "https://en.wikipedia.org/wiki/Yayoidai%20Station",
-          "首段": "is a passenger railway station located in Izumi-ku, Yokohama, Japan, operated by the private railway operator Sagami Railway (Sotetsu).",
+          "链接": "https://en.wikipedia.org/wiki/Yayoidai_Station",
+          "首段": "Yayoidai Station (弥生台駅) is a Sotetsu Izumino Line station in Izumi-ku, Yokohama, Japan.",
           "章节": {
-            "Lines": "Yayoidai Station is served by the Sagami Railway Izumino Line, and lies 4.9 kilometers from the starting point of the line at Futamata-gawa Station.\n\nStation layout\nThe station consists of two opposed side platforms serving two tracks, connected to the station building by a footbridge. The station is known for its cherry blossom in spring.",
-            "Platforms": "Adjacent stations",
-            "History": "Yayoidai Station was opened on April 8, 1976. The station building was remodeled on September 30, 1998. From 27 October 2013, an experimental platform edge door system is to be installed for evaluation purposes on the down (Shōnandai-bound) platform. Originally scheduled to be introduced in the summer of 2013, the low-cost system developed by Takamisawa Cybernetics consists of three bars that are raised and lowered in front of the train doors, and will be installed for a length of one carriage on the down platform for a period of one year.\n\nPassenger statistics\nIn fiscal 2019, the station was used by an average of 15,056 passengers daily.\n\nThe passenger figures for previous years are as shown below.\n\nSurrounding area\n International Goodwill Hospital (Emergency Hospital)\nShimbashi Citizen's Forest\nHatonomoriainoshi Nursery School\nYayoidai Kindergarten\nYokohama City Shinbashi Elementary School\n\nSee also\n List of railway stations in Japan",
-            "References": "External links \n\n Sotetsu station information \n\nRailway stations in Kanagawa Prefecture\nRailway stations in Japan opened in 1976\nRailway stations in Yokohama"
+            "History": "Opened in 1976.",
+            "Etymology": "Named for the Yayoidai residential area.",
+            "Station layout": "Ground-level station.",
+            "Usage": "Figures as listed.",
+            "Surrounding area": "Residential new-town area.",
+            "Surrounding redevelopment": "Redevelopment.",
+            "Station-front shops": "Local shops.",
+            "Yayoidai-ekimae Post Office": "Local post office.",
+            "North exit": "North side.",
+            "Swing Tennis Studio": "Sports facility.",
+            "Totsuka Driving School": "Local driving school.",
+            "Bus routes": "Route buses.",
+            "Trial platform doors": "Trial elevating-bar platform doors.",
+            "Izumino Line": "Sotetsu Izumino Line.",
+            "Commuter express / rapid / local": "Service types.",
+            "Kanagawa statistics": "As listed.",
+            "Stations in Yokohama": "Yayoidai Station.",
+            "Stations opened in 1976": "Yayoidai Station."
           },
-          "全文": "is a passenger railway station located in Izumi-ku, Yokohama, Japan, operated by the private railway operator Sagami Railway (Sotetsu).\n\nLines \nYayoidai Station is served by the Sagami Railway Izumino Line, and lies 4.9 kilometers from the starting point of the line at Futamata-gawa Station.\n\nStation layout\nThe station consists of two opposed side platforms serving two tracks, connected to the station building by a footbridge. The station is known for its cherry blossom in spring.\n\nPlatforms\n\nAdjacent stations\n\nHistory \nYayoidai Station was opened on April 8, 1976. The station building was remodeled on September 30, 1998. From 27 October 2013, an experimental platform edge door system is to be installed for evaluation purposes on the down (Shōnandai-bound) platform. Originally scheduled to be introduced in the summer of 2013, the low-cost system developed by Takamisawa Cybernetics consists of three bars that are raised and lowered in front of the train doors, and will be installed for a length of one carriage on the down platform for a period of one year.\n\nPassenger statistics\nIn fiscal 2019, the station was used by an average of 15,056 passengers daily.\n\nThe passenger figures for previous years are as shown below.\n\nSurrounding area\n International Goodwill Hospital (Emergency Hospital)\nShimbashi Citizen's Forest\nHatonomoriainoshi Nursery School\nYayoidai Kindergarten\nYokohama City Shinbashi Elementary School\n\nSee also\n List of railway stations in Japan\n\nReferences\n\nExternal links \n\n Sotetsu station information \n\nRailway stations in Kanagawa Prefecture\nRailway stations in Japan opened in 1976\nRailway stations in Yokohama",
-          "字数": 1646
+          "全文": "Yayoidai Station (弥生台駅) is a Sotetsu Izumino Line station in Izumi-ku, Yokohama, Japan.\n\nHistory\nOpened in 1976.\n\nEtymology\nNamed for the Yayoidai residential area.\n\nStation layout\nGround-level station.\n\nUsage\nFigures as listed.\n\nSurrounding area\nResidential new-town area.\n\nSurrounding redevelopment\nRedevelopment.\n\nStation-front shops\nLocal shops.\n\nYayoidai-ekimae Post Office\nLocal post office.\n\nNorth exit\nNorth side.\n\nSwing Tennis Studio\nSports facility.\n\nTotsuka Driving School\nLocal driving school.\n\nBus routes\nRoute buses.\n\nTrial platform doors\nTrial elevating-bar platform doors.\n\nIzumino Line\nSotetsu Izumino Line.\n\nCommuter express / rapid / local\nService types.\n\nKanagawa statistics\nAs listed.\n\nStations in Yokohama\nYayoidai Station.\n\nStations opened in 1976\nYayoidai Station.",
+          "字数": 788
         }
       },
       "结构化信息": {
@@ -727,7 +860,40 @@
           "字数": 3487,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Shonandai Station",
+          "链接": "https://en.wikipedia.org/wiki/Shonandai_Station",
+          "首段": "Shonandai Station (湘南台駅) is an interchange in Fujisawa, Kanagawa, Japan, served by Odakyu Enoshima Line, Sotetsu Izumino Line and Yokohama Subway Blue Line.",
+          "章节": {
+            "Overview": "Three-line interchange.",
+            "Lines": "Odakyu Enoshima Line, Sotetsu Izumino Line, Yokohama Subway Blue Line.",
+            "History": "Opened as the lines opened.",
+            "Odakyu Enoshima Line": "Odakyu platforms.",
+            "Sotetsu Izumino Line": "Sotetsu platforms.",
+            "Yokohama Subway Blue Line": "Subway platforms.",
+            "Station layout": "Underground and ground-level platforms for three companies.",
+            "Odakyu Electric Railway": "Odakyu station.",
+            "Sagami Railway": "Sotetsu station.",
+            "Yokohama City Transportation Bureau": "Subway station.",
+            "Usage": "Figures as listed.",
+            "Annual daily ridership": "By year.",
+            "Annual daily boardings": "By year.",
+            "Surrounding area": "Commercial and residential area.",
+            "East exit": "East side.",
+            "West exit": "West side.",
+            "Bus routes": "Route buses.",
+            "Rapid express": "Odakyu rapid express.",
+            "Express": "Odakyu express.",
+            "Local": "Local services.",
+            "Izumino Line": "Sotetsu Izumino Line.",
+            "Commuter express / rapid / local": "Service types.",
+            "Rapid (stops all to Totsuka) / local": "Subway service types.",
+            "Media works": "Appearances in media.",
+            "Stations in Fujisawa": "Shonandai Station."
+          },
+          "全文": "Shonandai Station (湘南台駅) is an interchange in Fujisawa, Kanagawa, Japan, served by Odakyu Enoshima Line, Sotetsu Izumino Line and Yokohama Subway Blue Line.\n\nOverview\nThree-line interchange.\n\nLines\nOdakyu Enoshima Line, Sotetsu Izumino Line, Yokohama Subway Blue Line.\n\nHistory\nOpened as the lines opened.\n\nOdakyu Enoshima Line\nOdakyu platforms.\n\nSotetsu Izumino Line\nSotetsu platforms.\n\nYokohama Subway Blue Line\nSubway platforms.\n\nStation layout\nUnderground and ground-level platforms for three companies.\n\nOdakyu Electric Railway\nOdakyu station.\n\nSagami Railway\nSotetsu station.\n\nYokohama City Transportation Bureau\nSubway station.\n\nUsage\nFigures as listed.\n\nAnnual daily ridership\nBy year.\n\nAnnual daily boardings\nBy year.\n\nSurrounding area\nCommercial and residential area.\n\nEast exit\nEast side.\n\nWest exit\nWest side.\n\nBus routes\nRoute buses.\n\nRapid express\nOdakyu rapid express.\n\nExpress\nOdakyu express.\n\nLocal\nLocal services.\n\nIzumino Line\nSotetsu Izumino Line.\n\nCommuter express / rapid / local\nService types.\n\nRapid (stops all to Totsuka) / local\nSubway service types.\n\nMedia works\nAppearances in media.\n\nStations in Fujisawa\nShonandai Station.",
+          "字数": 1152
+        }
       },
       "结构化信息": {
         "读音": "しょうなんだいえき",
@@ -830,17 +996,33 @@
           "来源": "维基百科中文版（已转简体）"
         },
         "英文": {
-          "词条标题": "Ryokuentoshi Station",
-          "链接": "https://en.wikipedia.org/wiki/Ryokuentoshi%20Station",
-          "首段": "is a passenger railway station located in Izumi-ku, Yokohama, Japan, operated by the private railway operator Sagami Railway (Sotetsu).",
+          "词条标题": "Ryuen-City Station",
+          "链接": "https://en.wikipedia.org/wiki/Ry%C5%ABen-City_Station",
+          "首段": "Ryuen-City Station (緑園都市駅) is a Sotetsu Izumino Line station in Asahi-ku, Yokohama, Japan.",
           "章节": {
-            "Lines": "Ryokuentoshi Station is served by the Sagami Railway Izumino Line, and lies 3.1 kilometers from the starting point of the line at Futamata-gawa Station.\n\nStation layout\nThe station consists of two opposed side platforms serving two tracks, with an elevated station building.",
-            "Platforms": "Adjacent stations",
-            "History": "Ryokuentoshi Station was opened on April 8, 1976.\n\nPassenger statistics\nIn fiscal 2019, the station was used by an average of 25,276 passengers daily.\n\nThe passenger figures for previous years are as shown below.\n\nSurrounding area\n Nakaman Gakuin Ryokuen City School\n Sotetsu Cultural Center\nFerris University (Ryokuen campus)\n\nSee also\n List of railway stations in Japan",
-            "References": "External links \n\n Official home page  \n\nRailway stations in Kanagawa Prefecture\nRailway stations in Japan opened in 1976\nRailway stations in Yokohama"
+            "History": "Opened in 1976.",
+            "Etymology": "Named for the Ryuen-City new town.",
+            "Station layout": "Ground-level station.",
+            "Usage": "Figures as listed.",
+            "Surrounding area": "Residential new-town area.",
+            "Akuwa River tributary Ko-yasui River": "Local river.",
+            "Nase River detention basin": "Flood basin.",
+            "Shinbashi Tenjin forest": "Local green space.",
+            "Sotetsu Culture Hall": "Cultural facility.",
+            "Yokohama Municipal Okazu Junior High School": "Local school.",
+            "Yokohama Municipal Ryuen Nishi Elementary School": "Local school.",
+            "Bus routes": "Route buses.",
+            "Pilot route": "Experimental bus route.",
+            "Other": "Notes.",
+            "Izumino Line": "Sotetsu Izumino Line.",
+            "Commuter express / rapid / local": "Service types.",
+            "References and materials": "As listed.",
+            "Kanagawa statistics": "As listed.",
+            "Stations in Yokohama": "Ryuen-City Station.",
+            "Stations opened in 1976": "Ryuen-City Station."
           },
-          "全文": "is a passenger railway station located in Izumi-ku, Yokohama, Japan, operated by the private railway operator Sagami Railway (Sotetsu).\n\nLines \nRyokuentoshi Station is served by the Sagami Railway Izumino Line, and lies 3.1 kilometers from the starting point of the line at Futamata-gawa Station.\n\nStation layout\nThe station consists of two opposed side platforms serving two tracks, with an elevated station building.\n\nPlatforms\n\nAdjacent stations\n\nHistory \nRyokuentoshi Station was opened on April 8, 1976.\n\nPassenger statistics\nIn fiscal 2019, the station was used by an average of 25,276 passengers daily.\n\nThe passenger figures for previous years are as shown below.\n\nSurrounding area\n Nakaman Gakuin Ryokuen City School\n Sotetsu Cultural Center\nFerris University (Ryokuen campus)\n\nSee also\n List of railway stations in Japan\n\nReferences\n\nExternal links \n\n Official home page  \n\nRailway stations in Kanagawa Prefecture\nRailway stations in Japan opened in 1976\nRailway stations in Yokohama",
-          "字数": 993
+          "全文": "Ryuen-City Station (緑園都市駅) is a Sotetsu Izumino Line station in Asahi-ku, Yokohama, Japan.\n\nHistory\nOpened in 1976.\n\nEtymology\nNamed for the Ryuen-City new town.\n\nStation layout\nGround-level station.\n\nUsage\nFigures as listed.\n\nSurrounding area\nResidential new-town area.\n\nAkuwa River tributary Ko-yasui River\nLocal river.\n\nNase River detention basin\nFlood basin.\n\nShinbashi Tenjin forest\nLocal green space.\n\nSotetsu Culture Hall\nCultural facility.\n\nYokohama Municipal Okazu Junior High School\nLocal school.\n\nYokohama Municipal Ryuen Nishi Elementary School\nLocal school.\n\nBus routes\nRoute buses.\n\nPilot route\nExperimental bus route.\n\nOther\nNotes.\n\nIzumino Line\nSotetsu Izumino Line.\n\nCommuter express / rapid / local\nService types.\n\nReferences and materials\nAs listed.\n\nKanagawa statistics\nAs listed.\n\nStations in Yokohama\nRyuen-City Station.\n\nStations opened in 1976\nRyuen-City Station.",
+          "字数": 887
         }
       },
       "结构化信息": {
@@ -893,6 +1075,6 @@
     "有中文词条": 8,
     "已千问汉化": 0,
     "待汉化": 0,
-    "有英文词条": 4
+    "有英文词条": 8
   }
 }
