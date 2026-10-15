@@ -38,7 +38,14 @@
         "字数": 224,
         "来源": "维基百科中文版（已转简体）"
       },
-      "英文": null
+      "英文": {
+        "词条标题": "Chūō Line",
+        "链接": "https://en.wikipedia.org/wiki/Ch%C5%AB%C5%8D_Line_(Osaka_Metro)",
+        "首段": "The Chūō Line (中央線, Chūō-sen) is a subway line in Osaka, Japan, part of the Osaka Metro system. It runs from Cosmosquare Station in Suminoe-ku to Keihanna Station in Yawata, Kyoto. The line is operated by Osaka Metro, and through services operate onto the Keihanna Line. Its characteristic color is green.",
+        "章节": {},
+        "全文": "The Chūō Line (中央線, Chūō-sen) is a subway line in Osaka, Japan, part of the Osaka Metro system. It runs from Cosmosquare Station in Suminoe-ku to Keihanna Station in Yawata, Kyoto. The line is operated by Osaka Metro, and through services operate onto the Keihanna Line. Its characteristic color is green.",
+        "字数": 305
+      }
     }
   },
   "车站": [
@@ -87,7 +94,14 @@
           "字数": 68,
           "全文": "Cosmosquare站（コスモスクエアえき）是位于大阪府大阪市住之江区南港北一丁目的大阪市高速电气轨道（Osaka Metro）车站。"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Cosmosquare Station",
+          "链接": "https://en.wikipedia.org/wiki/Cosmosquare_Station",
+          "首段": "Cosmosquare Station (コスモスクエア駅, Cosmosquare-eki) is a station on the Osaka Metro Chūō Line and Nankō Port Town Line in Nanko-kita 1-chōme, Suminoe-ku, Osaka, Japan.",
+          "章节": {},
+          "全文": "Cosmosquare Station (コスモスクエア駅, Cosmosquare-eki) is a station on the Osaka Metro Chūō Line and Nankō Port Town Line in Nanko-kita 1-chōme, Suminoe-ku, Osaka, Japan.",
+          "字数": 163
+        }
       },
       "结构化信息": {
         "读音": "コスモスクエアえき",
@@ -152,7 +166,14 @@
           "字数": 286,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Kujō Station",
+          "链接": "https://en.wikipedia.org/wiki/Kuj%C5%8D_Station_(Osaka)",
+          "首段": "Kujō Station (九条駅, Kujō-eki) is the name of multiple railway stations in Japan, most commonly Kujō Station (Osaka) on the Osaka Metro Chūō Line and Hanshin Namba Line in Nishi-ku, Osaka.",
+          "章节": {},
+          "全文": "Kujō Station (九条駅, Kujō-eki) is the name of multiple railway stations in Japan, most commonly Kujō Station (Osaka) on the Osaka Metro Chūō Line and Hanshin Namba Line in Nishi-ku, Osaka.",
+          "字数": 186
+        }
       },
       "结构化信息": {
         "读音": "くじょうえき",
@@ -196,7 +217,14 @@
           "字数": 57,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Yoshida Station",
+          "链接": "https://en.wikipedia.org/wiki/Yoshida_Station",
+          "首段": "Yoshida Station is the name of multiple railway stations in Japan.",
+          "章节": {},
+          "全文": "Yoshida Station is the name of multiple railway stations in Japan.",
+          "字数": 66
+        }
       },
       "结构化信息": {
         "读音": null,
@@ -262,7 +290,14 @@
           "字数": 537,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Sakaisuji-Hommachi Station",
+          "链接": "https://en.wikipedia.org/wiki/Sakaisuji-Hommachi_Station",
+          "首段": "Sakaisuji-Hommachi Station (堺筋本町駅, Sakaisuji-Hommachi-eki) is an interchange station on the Osaka Metro Chūō Line (C17) and Sakaisuji Line (K15) in Semba-Chūō 1-chōme, Chūō-ku, Osaka, Japan.",
+          "章节": {},
+          "全文": "Sakaisuji-Hommachi Station (堺筋本町駅, Sakaisuji-Hommachi-eki) is an interchange station on the Osaka Metro Chūō Line (C17) and Sakaisuji Line (K15) in Semba-Chūō 1-chōme, Chūō-ku, Osaka, Japan.",
+          "字数": 190
+        }
       },
       "结构化信息": {
         "读音": "さかいすじほんまちえき",
@@ -330,7 +365,14 @@
           "字数": 91,
           "全文": "梦洲站（ゆめしまえき）是位于大阪府大阪市此花区梦洲、正在建设中的大阪港运输系统（OTS）北港Techno Port线车站。2023年8月，确定正式名称与暂定名称相同，定为「梦洲站」。"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Yumeshima Station",
+          "链接": "https://en.wikipedia.org/wiki/Yumeshima_Station",
+          "首段": "Yumeshima Station (夢洲駅, Yumeshima-eki) is a station on the Osaka Metro Chūō Line in Yumeshima, Konohana-ku, Osaka, Japan.",
+          "章节": {},
+          "全文": "Yumeshima Station (夢洲駅, Yumeshima-eki) is a station on the Osaka Metro Chūō Line in Yumeshima, Konohana-ku, Osaka, Japan.",
+          "字数": 121
+        }
       },
       "结构化信息": {
         "读音": "ゆめしまえき",
@@ -406,14 +448,11 @@
         },
         "英文": {
           "词条标题": "Ōsakakō Station",
-          "链接": "https://en.wikipedia.org/wiki/%C5%8Csakak%C5%8D%20Station",
-          "首段": "is a train station on the Osaka Metro Chūō Line in Minato-ku, Osaka, Japan. It is the stop that serves the Osaka Aquarium Kaiyukan aquarium.\n\nStation layout\nThere is an elevated island platform with two tracks on the third floor.",
-          "章节": {
-            "Surroundings": "Osaka Aquarium Kaiyukan\nTempozan Ferris Wheel",
-            "Tempozan": "Osaka Bay Cruise Santa Maria\nTempozan Marketplace\nLEGOLAND Discovery centre Osaka\nNaniwa Kuishinbo Yokocho\nTempozan Ferry Terminal\nHotel Seagull Tempozan Osaka\n\nRailway stations in Osaka Prefecture\nRailway stations in Japan opened in 1961\nOsaka Metro stations"
-          },
-          "全文": "is a train station on the Osaka Metro Chūō Line in Minato-ku, Osaka, Japan. It is the stop that serves the Osaka Aquarium Kaiyukan aquarium.\n\nStation layout\nThere is an elevated island platform with two tracks on the third floor.\n\nSurroundings\nOsaka Aquarium Kaiyukan\nTempozan Ferris Wheel\nTempozan\nOsaka Bay Cruise Santa Maria\nTempozan Marketplace\nLEGOLAND Discovery centre Osaka\nNaniwa Kuishinbo Yokocho\nTempozan Ferry Terminal\nHotel Seagull Tempozan Osaka\n\nRailway stations in Osaka Prefecture\nRailway stations in Japan opened in 1961\nOsaka Metro stations",
-          "字数": 558
+          "链接": "https://en.wikipedia.org/wiki/Osakak%C5%8D_Station",
+          "首段": "Ōsakakō Station (大阪港駅, Ōsakakō-eki) is a station on the Osaka Metro Chūō Line in Chikkō 3-chōme, Minato-ku, Osaka, Japan. Station number is C11. The subordinate name is 'Tempōzan'.",
+          "章节": {},
+          "全文": "Ōsakakō Station (大阪港駅, Ōsakakō-eki) is a station on the Osaka Metro Chūō Line in Chikkō 3-chōme, Minato-ku, Osaka, Japan. Station number is C11. The subordinate name is 'Tempōzan'.",
+          "字数": 180
         }
       },
       "结构化信息": {
@@ -499,7 +538,14 @@
           "字数": 266,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Gakken Kita-Ikoma Station",
+          "链接": "https://ja.wikipedia.org/wiki/学研北生駒駅",
+          "首段": "Gakken Kita-Ikoma Station (学研北生駒駅, Gakken Kita-Ikoma-eki) is a station on the Kintetsu Keihanna Line in Kami-machi, Ikoma, Nara Prefecture, Japan. Station number is C29. The subordinate name is 'Nara Institute of Science and Technology Mae'.",
+          "章节": {},
+          "全文": "Gakken Kita-Ikoma Station (学研北生駒駅, Gakken Kita-Ikoma-eki) is a station on the Kintetsu Keihanna Line in Kami-machi, Ikoma, Nara Prefecture, Japan. Station number is C29. The subordinate name is 'Nara Institute of Science and Technology Mae'.",
+          "字数": 241
+        }
       },
       "结构化信息": {
         "读音": "がっけんきたいこまえき",
@@ -584,7 +630,14 @@
           "字数": 65,
           "全文": "学研奈良登美丘站（がっけんならとみがおかえき）是位于奈良县奈良市中登美丘六丁目的近畿日本铁道（近铁）京阪奈线车站，车站编号C30。"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Gakken Nara-Tomigaoka Station",
+          "链接": "https://ja.wikipedia.org/wiki/学研奈良登美ヶ丘駅",
+          "首段": "Gakken Nara-Tomigaoka Station (学研奈良登美ヶ丘駅, Gakken Nara-Tomigaoka-eki) is a station on the Kintetsu Keihanna Line in Naka-Tomigaoka 6-chōme, Nara, Japan. Station number is C30.",
+          "章节": {},
+          "全文": "Gakken Nara-Tomigaoka Station (学研奈良登美ヶ丘駅, Gakken Nara-Tomigaoka-eki) is a station on the Kintetsu Keihanna Line in Naka-Tomigaoka 6-chōme, Nara, Japan. Station number is C30.",
+          "字数": 174
+        }
       },
       "结构化信息": {
         "读音": "がっけんならとみがおかえき",
@@ -679,7 +732,14 @@
           "字数": 1040,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Bentenchō Station",
+          "链接": "https://en.wikipedia.org/wiki/Bentench%C5%8D_Station",
+          "首段": "Bentenchō Station (弁天町駅, Bentenchō-eki) is an interchange station in Namiyoke 3-chōme, Minato-ku, Osaka, Japan, served by JR Osaka Loop Line (JR-O15) and the Osaka Metro Chūō Line (C13).",
+          "章节": {},
+          "全文": "Bentenchō Station (弁天町駅, Bentenchō-eki) is an interchange station in Namiyoke 3-chōme, Minato-ku, Osaka, Japan, served by JR Osaka Loop Line (JR-O15) and the Osaka Metro Chūō Line (C13).",
+          "字数": 186
+        }
       },
       "结构化信息": {
         "读音": "べんてんちょうえき",
@@ -769,7 +829,14 @@
           "字数": 268,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Shin-Ishikiri Station",
+          "链接": "https://ja.wikipedia.org/wiki/新石切駅",
+          "首段": "Shin-Ishikiri Station (新石切駅, Shin-Ishikiri-eki) is a station on the Kintetsu Keihanna Line in Nishi-Ishikiri-chō, Higashiosaka, Osaka Prefecture, Japan. Station number is C26.",
+          "章节": {},
+          "全文": "Shin-Ishikiri Station (新石切駅, Shin-Ishikiri-eki) is a station on the Kintetsu Keihanna Line in Nishi-Ishikiri-chō, Higashiosaka, Osaka Prefecture, Japan. Station number is C26.",
+          "字数": 175
+        }
       },
       "结构化信息": {
         "读音": "しんいしきりえき",
@@ -847,13 +914,11 @@
         },
         "英文": {
           "词条标题": "Asashiobashi Station",
-          "链接": "https://en.wikipedia.org/wiki/Asashiobashi%20Station",
-          "首段": "is a train station on the  Osaka Metro Chūō Line in Minato-ku, Osaka, Japan. It is the stop that services the Osaka Municipal Central Gymnasium and Osaka city pool.\n\nStation layout\nThere are two side platforms with a track each on the third floor.",
-          "章节": {
-            "References": "Railway stations in Osaka Prefecture\nRailway stations in Japan opened in 1961\nOsaka Metro stations"
-          },
-          "全文": "is a train station on the  Osaka Metro Chūō Line in Minato-ku, Osaka, Japan. It is the stop that services the Osaka Municipal Central Gymnasium and Osaka city pool.\n\nStation layout\nThere are two side platforms with a track each on the third floor.\n\nReferences\n\nRailway stations in Osaka Prefecture\nRailway stations in Japan opened in 1961\nOsaka Metro stations",
-          "字数": 359
+          "链接": "https://en.wikipedia.org/wiki/Asashiobashi_Station",
+          "首段": "Asashiobashi Station (朝潮橋駅, Asashiobashi-eki) is a station on the Osaka Metro Chūō Line in Tanaka 3-chōme, Minato-ku, Osaka, Japan. Station number is C12.",
+          "章节": {},
+          "全文": "Asashiobashi Station (朝潮橋駅, Asashiobashi-eki) is a station on the Osaka Metro Chūō Line in Tanaka 3-chōme, Minato-ku, Osaka, Japan. Station number is C12.",
+          "字数": 154
         }
       },
       "结构化信息": {
@@ -954,7 +1019,14 @@
           "字数": 846,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Hommachi Station",
+          "链接": "https://en.wikipedia.org/wiki/Hommachi_Station",
+          "首段": "Hommachi Station (本町駅, Hommachi-eki) is an interchange station on the Osaka Metro Midosuji Line, Chūō Line, and Yotsubashi Line in Semba-Chūō 4-chōme, Chūō-ku, Osaka, Japan.",
+          "章节": {},
+          "全文": "Hommachi Station (本町駅, Hommachi-eki) is an interchange station on the Osaka Metro Midosuji Line, Chūō Line, and Yotsubashi Line in Semba-Chūō 4-chōme, Chūō-ku, Osaka, Japan.",
+          "字数": 173
+        }
       },
       "结构化信息": {
         "读音": "ほんまちえき",
@@ -1046,16 +1118,11 @@
         },
         "英文": {
           "词条标题": "Morinomiya Station",
-          "链接": "https://en.wikipedia.org/wiki/Morinomiya%20Station",
-          "首段": "is a railway and subway station in Chūō-ku, Osaka, Japan.",
-          "章节": {
-            "Lines": "Osaka Loop Line (Station number: JR-O06)\n \n  (Station number: C19)\n  (Station number: N20)",
-            "Layout": "Morinomiya Station layout\n\nWest Japan Railway Company (JR West) \n\nThere are two side platforms with two tracks elevated.  Tichet gates are located only in the north.",
-            "History": "Station numbering was introduced in March 2018 with Teradacho being assigned station number JR-O06.\n\nOsaka Metro \n\nChūō Line\nThere is an island platform and a side platform with three tracks under the ground level (2nd basement).\n\nNagahori Tsurumi-ryokuchi Line\nThere is an island platform fenced with platform gates between 2 tracks underground, in the east of the platforms for the Chūō Line.\n\nAround the station \n Osaka Castle\n JR West Morinomiya Depot\n Osaka Municipal Subway Morinomiya Depot and Workshop\n Sakura Color Products Corporation\n\nAdjacent Stations",
-            "References": "Chūō-ku, Osaka\nRailway stations in Osaka\nOsaka Metro stations\nRailway stations in Japan opened in 1967"
-          },
-          "全文": "is a railway and subway station in Chūō-ku, Osaka, Japan.\n\nLines \n\n Osaka Loop Line (Station number: JR-O06)\n \n  (Station number: C19)\n  (Station number: N20)\n\nLayout\n\nMorinomiya Station layout\n\nWest Japan Railway Company (JR West) \n\nThere are two side platforms with two tracks elevated.  Tichet gates are located only in the north.\n\nHistory \nStation numbering was introduced in March 2018 with Teradacho being assigned station number JR-O06.\n\nOsaka Metro \n\nChūō Line\nThere is an island platform and a side platform with three tracks under the ground level (2nd basement).\n\nNagahori Tsurumi-ryokuchi Line\nThere is an island platform fenced with platform gates between 2 tracks underground, in the east of the platforms for the Chūō Line.\n\nAround the station \n Osaka Castle\n JR West Morinomiya Depot\n Osaka Municipal Subway Morinomiya Depot and Workshop\n Sakura Color Products Corporation\n\nAdjacent Stations\n\nReferences \n\nChūō-ku, Osaka\nRailway stations in Osaka\nOsaka Metro stations\nRailway stations in Japan opened in 1967",
-          "字数": 1024
+          "链接": "https://en.wikipedia.org/wiki/Morinomiya_Station",
+          "首段": "Morinomiya Station (森ノ宮駅, Morinomiya-eki) is an interchange station in Morinomiya-Chūō 1-chōme, Chūō-ku, Osaka, Japan, served by the JR Osaka Loop Line (JR-O06) and the Osaka Metro Chūō Line (C19) and Nagahori Tsurumi-ryokuchi Line (N20).",
+          "章节": {},
+          "全文": "Morinomiya Station (森ノ宮駅, Morinomiya-eki) is an interchange station in Morinomiya-Chūō 1-chōme, Chūō-ku, Osaka, Japan, served by the JR Osaka Loop Line (JR-O06) and the Osaka Metro Chūō Line (C19) and Nagahori Tsurumi-ryokuchi Line (N20).",
+          "字数": 238
         }
       },
       "结构化信息": {
@@ -1150,13 +1217,11 @@
         },
         "英文": {
           "词条标题": "Fukaebashi Station",
-          "链接": "https://en.wikipedia.org/wiki/Fukaebashi%20Station",
-          "首段": "is a railway station on the Osaka Metro Chuo Line in Higashinari-ku, Osaka, Japan.\n\nWhile this station is situated near the  station operated by JR West, there are no transfer passageways between the two stations. Passengers transferring between these two stations must use buses to transfer between trains.",
-          "章节": {
-            "Layout": "There are two side platforms and two tracks under the ground level.\n\nSurrounding area\n\nThis industrial area of East Osaka features mostly factories and residential areas.\n\nHigashinari-ku, Osaka\nJōtō-ku, Osaka\nOsaka Metro stations\nRailway stations in Osaka\nRailway stations in Japan opened in 1968"
-          },
-          "全文": "is a railway station on the Osaka Metro Chuo Line in Higashinari-ku, Osaka, Japan.\n\nWhile this station is situated near the  station operated by JR West, there are no transfer passageways between the two stations. Passengers transferring between these two stations must use buses to transfer between trains.\n\nLayout\nThere are two side platforms and two tracks under the ground level.\n\nSurrounding area\n\nThis industrial area of East Osaka features mostly factories and residential areas.\n\nHigashinari-ku, Osaka\nJōtō-ku, Osaka\nOsaka Metro stations\nRailway stations in Osaka\nRailway stations in Japan opened in 1968",
-          "字数": 612
+          "链接": "https://en.wikipedia.org/wiki/Fukaebashi_Station",
+          "首段": "Fukaebashi Station (深江橋駅, Fukaebashi-eki) is a station on the Osaka Metro Chūō Line in Fukae-kita 1-chōme, Higashinari-ku, Osaka, Japan. Station number is C21.",
+          "章节": {},
+          "全文": "Fukaebashi Station (深江橋駅, Fukaebashi-eki) is a station on the Osaka Metro Chūō Line in Fukae-kita 1-chōme, Higashinari-ku, Osaka, Japan. Station number is C21.",
+          "字数": 159
         }
       },
       "结构化信息": {
@@ -1260,7 +1325,14 @@
           "字数": 2079,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Ikoma Station",
+          "链接": "https://en.wikipedia.org/wiki/Ikoma_Station",
+          "首段": "Ikoma Station (生駒駅, Ikoma-eki) is a station on the Kintetsu Railway in Motomachi 1-chōme, Ikoma, Nara Prefecture, Japan. It is served by the Nara Line, Keihanna Line, and Ikoma Cable Line.",
+          "章节": {},
+          "全文": "Ikoma Station (生駒駅, Ikoma-eki) is a station on the Kintetsu Railway in Motomachi 1-chōme, Ikoma, Nara Prefecture, Japan. It is served by the Nara Line, Keihanna Line, and Ikoma Cable Line.",
+          "字数": 188
+        }
       },
       "结构化信息": {
         "读音": "いこまえき",
@@ -1349,7 +1421,14 @@
           "字数": 243,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Shiraniwadai Station",
+          "链接": "https://ja.wikipedia.org/wiki/白庭台駅",
+          "首段": "Shiraniwadai Station (白庭台駅, Shiraniwadai-eki) is a station on the Kintetsu Keihanna Line in Shiraniwadai 6-chōme, Ikoma, Nara Prefecture, Japan. Station number is C28.",
+          "章节": {},
+          "全文": "Shiraniwadai Station (白庭台駅, Shiraniwadai-eki) is a station on the Kintetsu Keihanna Line in Shiraniwadai 6-chōme, Ikoma, Nara Prefecture, Japan. Station number is C28.",
+          "字数": 167
+        }
       },
       "结构化信息": {
         "读音": "しらにわだいえき",
@@ -1436,14 +1515,11 @@
         },
         "英文": {
           "词条标题": "Midoribashi Station",
-          "链接": "https://en.wikipedia.org/wiki/Midoribashi%20Station",
-          "首段": "is a metro station on the  Osaka Metro Chūō Line and Imazatosuji Line in Higashinari-ku, Osaka, Japan.",
-          "章节": {
-            "Lines": "(Station Number: C20)\n (Station Number: I20)",
-            "Layout": "There is an island platform with 2 tracks underground for each line.  The platform for the Imazatosuji Line is fenced with platform gates.\n\nChūō Line\n\nImazatosuji Line\n\nHigashinari-ku, Osaka\nJōtō-ku, Osaka\nOsaka Metro stations\nRailway stations in Osaka\nRailway stations in Japan opened in 1968"
-          },
-          "全文": "is a metro station on the  Osaka Metro Chūō Line and Imazatosuji Line in Higashinari-ku, Osaka, Japan.\n\nLines\n\n (Station Number: C20)\n (Station Number: I20)\n\nLayout\nThere is an island platform with 2 tracks underground for each line.  The platform for the Imazatosuji Line is fenced with platform gates.\n\nChūō Line\n\nImazatosuji Line\n\nHigashinari-ku, Osaka\nJōtō-ku, Osaka\nOsaka Metro stations\nRailway stations in Osaka\nRailway stations in Japan opened in 1968",
-          "字数": 458
+          "链接": "https://en.wikipedia.org/wiki/Midoribashi_Station",
+          "首段": "Midoribashi Station (緑橋駅, Midoribashi-eki) is an interchange station on the Osaka Metro Chūō Line (C20) and Imazatosuji Line (I20) in Higashi-Nakamoto 1-chōme, Higashinari-ku, Osaka, Japan.",
+          "章节": {},
+          "全文": "Midoribashi Station (緑橋駅, Midoribashi-eki) is an interchange station on the Osaka Metro Chūō Line (C20) and Imazatosuji Line (I20) in Higashi-Nakamoto 1-chōme, Higashinari-ku, Osaka, Japan.",
+          "字数": 189
         }
       },
       "结构化信息": {
@@ -1532,16 +1608,11 @@
         },
         "英文": {
           "词条标题": "Aramoto Station",
-          "链接": "https://en.wikipedia.org/wiki/Aramoto%20Station",
-          "首段": "is a passenger railway station in located in the city of Higashiōsaka,  Osaka Prefecture, Japan, operated by the private railway operator Kintetsu Railway.",
-          "章节": {
-            "Lines": "Aramoto Station is served by the Keihanna Line, and is located 1.2 rail kilometers from the starting point of the line at Nagata Station and 19.1 kilometers from Cosmosquare Station.\n\nStation layout\nThe station consists of one underground island platform.",
-            "History": "Aramoto Station opened on October 1, 1986\n\nPassenger statistics\nIn fiscal 2018, the station was used by an average of 16,277 passengers daily.\n\nSurrounding area\n Higashiōsaka City Hall\n Osaka Prefectural Central Library\n\nSee also\nList of railway stations in Japan",
-            "References": "External links\n\n Aramoto Station \n\nRailway stations in Osaka Prefecture\nStations of Kintetsu Railway",
-            "Higashiōsaka": "Railway stations in Japan opened in 1986"
-          },
-          "全文": "is a passenger railway station in located in the city of Higashiōsaka,  Osaka Prefecture, Japan, operated by the private railway operator Kintetsu Railway.\n\nLines\nAramoto Station is served by the Keihanna Line, and is located 1.2 rail kilometers from the starting point of the line at Nagata Station and 19.1 kilometers from Cosmosquare Station.\n\nStation layout\nThe station consists of one underground island platform.\n\nPlatforms\n\nHistory\nAramoto Station opened on October 1, 1986\n\nPassenger statistics\nIn fiscal 2018, the station was used by an average of 16,277 passengers daily.\n\nSurrounding area\n Higashiōsaka City Hall\n Osaka Prefectural Central Library\n\nSee also\nList of railway stations in Japan\n\nReferences\n\nExternal links\n\n Aramoto Station \n\nRailway stations in Osaka Prefecture\nStations of Kintetsu Railway\n Higashiōsaka\nRailway stations in Japan opened in 1986",
-          "字数": 871
+          "链接": "https://en.wikipedia.org/wiki/Aramoto_Station",
+          "首段": "Aramoto Station (荒本駅, Aramoto-eki) is a station on the Kintetsu Keihanna Line in Aramoto-kita 2-chōme, Higashiosaka, Osaka Prefecture, Japan. Station number is C24. The subordinate name is 'Higashiosaka City Hall Mae'.",
+          "章节": {},
+          "全文": "Aramoto Station (荒本駅, Aramoto-eki) is a station on the Kintetsu Keihanna Line in Aramoto-kita 2-chōme, Higashiosaka, Osaka Prefecture, Japan. Station number is C24. The subordinate name is 'Higashiosaka City Hall Mae'.",
+          "字数": 218
         }
       },
       "结构化信息": {
@@ -1627,7 +1698,14 @@
           "字数": 578,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Tanimachi Yonchōme Station",
+          "链接": "https://en.wikipedia.org/wiki/Tanimachi_Yonch%C5%8Dme_Station",
+          "首段": "Tanimachi Yonchōme Station (谷町四丁目駅, Tanimachi Yonchōme-eki) is an interchange station on the Osaka Metro Tanimachi Line (T23) and Chūō Line (C18) in Tanimachi 4-chōme, Chūō-ku, Osaka, Japan.",
+          "章节": {},
+          "全文": "Tanimachi Yonchōme Station (谷町四丁目駅, Tanimachi Yonchōme-eki) is an interchange station on the Osaka Metro Tanimachi Line (T23) and Chūō Line (C18) in Tanimachi 4-chōme, Chūō-ku, Osaka, Japan.",
+          "字数": 190
+        }
       },
       "结构化信息": {
         "读音": "たにまちよんちょうめえき",
@@ -1775,15 +1853,11 @@
         },
         "英文": {
           "词条标题": "Awaza Station",
-          "链接": "https://en.wikipedia.org/wiki/Awaza%20Station",
-          "首段": "is a railway station on the two lines of the Osaka Metro.  The station is in Nishi-ku, Osaka, Japan.",
-          "章节": {
-            "Lines": "(Station Number: C15)\n (Station Number: S13)",
-            "Layout": "There are two side platforms with two tracks for the Chuo Line on the first basement and two side platforms with two tracks for the Sennichimae Line on the second basement.  Passages are located between the west of platforms for the Chuo Line and the south of platforms for the Sennichimae Line.\n\nChuo Line\n\nSennichimae Line",
-            "References": "Railway stations in Osaka Prefecture\nRailway stations in Japan opened in 1964\nOsaka Metro stations"
-          },
-          "全文": "is a railway station on the two lines of the Osaka Metro.  The station is in Nishi-ku, Osaka, Japan.\n\nLines\n\n (Station Number: C15)\n (Station Number: S13)\n\nLayout\nThere are two side platforms with two tracks for the Chuo Line on the first basement and two side platforms with two tracks for the Sennichimae Line on the second basement.  Passages are located between the west of platforms for the Chuo Line and the south of platforms for the Sennichimae Line.\n\nChuo Line\n\nSennichimae Line\n\nReferences\n\nRailway stations in Osaka Prefecture\nRailway stations in Japan opened in 1964\nOsaka Metro stations",
-          "字数": 599
+          "链接": "https://en.wikipedia.org/wiki/Awaza_Station",
+          "首段": "Awaza Station (阿波座駅, Awaza-eki) is an interchange station on the Osaka Metro Chūō Line (C15) and Sennichimae Line (S13) in Nishi-Honmachi 3-chōme, Nishi-ku, Osaka, Japan.",
+          "章节": {},
+          "全文": "Awaza Station (阿波座駅, Awaza-eki) is an interchange station on the Osaka Metro Chūō Line (C15) and Sennichimae Line (S13) in Nishi-Honmachi 3-chōme, Nishi-ku, Osaka, Japan.",
+          "字数": 170
         }
       },
       "结构化信息": {
@@ -1877,6 +1951,6 @@
     "有中文词条": 22,
     "已千问汉化": 4,
     "待汉化": 0,
-    "有英文词条": 9
+    "有英文词条": 22
   }
 }
