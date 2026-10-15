@@ -60,7 +60,14 @@
         "字数": 1281,
         "来源": "维基百科中文版（已转简体）"
       },
-      "英文": null
+      "英文": {
+        "词条标题": "筿栗线",
+        "链接": "https://ja.wikipedia.org/wiki/%E7%AF%A0%E6%A0%97%E7%B7%9A",
+        "首段": "The 筿栗线 is a railway line in Japan.",
+        "章节": {},
+        "全文": "The 筿栗线 is a railway line in Japan.",
+        "字数": 35
+      }
     }
   },
   "车站": [
@@ -102,7 +109,14 @@
           "字数": 145,
           "全文": "太空世界站（スペースワールドえき）是位于福冈县北九州市八幡东区东田二丁目的九州旅客铁道（JR九州）鹿儿岛本线车站，车站编号JA23。\n\n历史\n本站作为鹿儿岛本线枝光—八幡间路径变更的一环设置。随东田地区再开发计划，线路移设至太空世界西侧，1999年（平成11年）7月2日高架化完成同时开业。"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "スペースワールド駅",
+          "链接": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E9%A7%85",
+          "首段": "スペースワールド駅 (スペースワールド駅) is a railway station in 県北九州市八幡東区東田二丁目, Japan.",
+          "章节": {},
+          "全文": "スペースワールド駅 (スペースワールド駅) is a railway station in 県北九州市八幡東区東田二丁目, Japan.",
+          "字数": 68
+        }
       },
       "结构化信息": {
         "读音": "スペースワールドえき",
@@ -183,15 +197,11 @@
         },
         "英文": {
           "词条标题": "Nakama Station",
-          "链接": "https://en.wikipedia.org/wiki/Nakama%20Station",
-          "首段": "is a railway station on the Chikuho Main Line operated by JR Kyushu in Nakama, Fukuoka Prefecture, Japan.",
-          "章节": {
-            "Lines": "The station is served by the Chikuhō Main Line and is located 14.9 km from the starting point of the line at .\n\nStation layout \nThe station consists of a side and an island platform serving three tracks. A siding branches off track three. The station building houses a staffed ticket window which is open for two hours in the morning only.\n\nAdjacent stations \n\n|-\n|colspan=5 style=\"text-align:center;\" |JR Kyūshū",
-            "History": "On 30 August 1891, the privately run Chikuho Kogyo Railway opened a line from  to . On the same day, Nakama was opened as an intermediate station along this track. On 1 October 1897, the Chikuho Kogyo Railway, now renamed the Chikuho Railway, merged with the Kyushu Railway. After the Kyushu Railway was nationalized on 1 July 1907, Japanese Government Railways (JGR) took over control of the station. On 12 October 1909, the station became part of the Chikuho Main Line. With the privatization of Japanese National Railways (JNR), the successor of JGR, on 1 April 1987, control of the station passed to JR Kyushu.\n\nOn 4 March 2017, Nakama, along with several other stations on the line, became a \"Smart Support Station\". Under this scheme, the ticket counter opening hours at Nakama were reduced to two hours in the morning between 0630 and 0830 hours. At other times, the station would be unstaffed. Tickets would have to be purchased from automatic ticket vending machines and automatic ticket gates used to enter the platforms. Passengers requiring help would be able to communicate via intercom with staff at a central support centre which is located at Nakama itself.\n\nPassenger statistics\nIn fiscal 2016, the station was used by an average of 1,868 passengers daily (boarding passengers only), and it ranked 99th among the busiest stations of JR Kyushu.",
-            "References": "External links\nNakama Station (JR Kyushu)\n\nRailway stations in Fukuoka Prefecture\nRailway stations in Japan opened in 1891"
-          },
-          "全文": "is a railway station on the Chikuho Main Line operated by JR Kyushu in Nakama, Fukuoka Prefecture, Japan.\n\nLines\nThe station is served by the Chikuhō Main Line and is located 14.9 km from the starting point of the line at .\n\nStation layout \nThe station consists of a side and an island platform serving three tracks. A siding branches off track three. The station building houses a staffed ticket window which is open for two hours in the morning only.\n\nAdjacent stations \n\n|-\n|colspan=5 style=\"text-align:center;\" |JR Kyūshū\n\nHistory \nOn 30 August 1891, the privately run Chikuho Kogyo Railway opened a line from  to . On the same day, Nakama was opened as an intermediate station along this track. On 1 October 1897, the Chikuho Kogyo Railway, now renamed the Chikuho Railway, merged with the Kyushu Railway. After the Kyushu Railway was nationalized on 1 July 1907, Japanese Government Railways (JGR) took over control of the station. On 12 October 1909, the station became part of the Chikuho Main Line. With the privatization of Japanese National Railways (JNR), the successor of JGR, on 1 April 1987, control of the station passed to JR Kyushu.\n\nOn 4 March 2017, Nakama, along with several other stations on the line, became a \"Smart Support Station\". Under this scheme, the ticket counter opening hours at Nakama were reduced to two hours in the morning between 0630 and 0830 hours. At other times, the station would be unstaffed. Tickets would have to be purchased from automatic ticket vending machines and automatic ticket gates used to enter the platforms. Passengers requiring help would be able to communicate via intercom with staff at a central support centre which is located at Nakama itself.\n\nPassenger statistics\nIn fiscal 2016, the station was used by an average of 1,868 passengers daily (boarding passengers only), and it ranked 99th among the busiest stations of JR Kyushu.\n\nReferences\n\nExternal links\nNakama Station (JR Kyushu)\n\nRailway stations in Fukuoka Prefecture\nRailway stations in Japan opened in 1891",
-          "字数": 2032
+          "链接": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E9%96%93%E9%A7%85",
+          "首段": "Nakama Station (中間駅) is a railway station in 県中間市中央二丁目, Japan.",
+          "章节": {},
+          "全文": "Nakama Station (中間駅) is a railway station in 県中間市中央二丁目, Japan.",
+          "字数": 62
         }
       },
       "结构化信息": {
@@ -270,7 +280,14 @@
           "字数": 963,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "九州工大前駅",
+          "链接": "https://ja.wikipedia.org/wiki/%E4%B9%9D%E5%B7%9E%E5%B7%A5%E5%A4%A7%E5%89%8D%E9%A7%85",
+          "首段": "九州工大前駅 (九州工大前駅) is a railway station in 県北九州市戸畑区中原西一丁目, Japan.",
+          "章节": {},
+          "全文": "九州工大前駅 (九州工大前駅) is a railway station in 県北九州市戸畑区中原西一丁目, Japan.",
+          "字数": 62
+        }
       },
       "结构化信息": {
         "读音": "きゅうしゅうこうだいまええき",
@@ -347,15 +364,11 @@
         },
         "英文": {
           "词条标题": "Kurōbaru Station",
-          "链接": "https://en.wikipedia.org/wiki/Kur%C5%8Dbaru%20Station",
-          "首段": "is a railway station on the Sasaguri Line operated by JR Kyushu in Iizuka, Fukuoka Prefecture, Japan.",
-          "章节": {
-            "Lines": "The station is served by the Sasaguri Line and is located 19.9 km from the starting point of the line at . The station is sometimes depicted on maps and timetables as part of the Fukuhoku Yutaka Line, of which the Sasaguri Line is a component.\n\nStation layout \nThe station consists of two side platforms serving two tracks on a low embankment. There is no station building, only shelters on the platforms for waiting passengers. Access to the opposite platform is by means of an underpass under the embankment leading to steps at both ends.\n\nIn between Kurōbaru and Kido-Nanzōin-mae, the line runs through the 4550-metre-long Sasaguri Tunnel.\n\nAdjacent stations",
-            "History": "The station was opened by Japanese National Railways (JNR) on 25 May 1968 as an intermediate station when it extended the Sasaguri Line east from  to . With the privatization of JNR on 1 April 1987, JR Kyushu took over control of the station.",
-            "References": "External links\nKurōbaru (JR Kyushu)\n\nRailway stations in Fukuoka Prefecture\nRailway stations in Japan opened in 1968"
-          },
-          "全文": "is a railway station on the Sasaguri Line operated by JR Kyushu in Iizuka, Fukuoka Prefecture, Japan.\n\nLines\nThe station is served by the Sasaguri Line and is located 19.9 km from the starting point of the line at . The station is sometimes depicted on maps and timetables as part of the Fukuhoku Yutaka Line, of which the Sasaguri Line is a component.\n\nStation layout \nThe station consists of two side platforms serving two tracks on a low embankment. There is no station building, only shelters on the platforms for waiting passengers. Access to the opposite platform is by means of an underpass under the embankment leading to steps at both ends.\n\nIn between Kurōbaru and Kido-Nanzōin-mae, the line runs through the 4550-metre-long Sasaguri Tunnel.\n\nAdjacent stations\n\nHistory\nThe station was opened by Japanese National Railways (JNR) on 25 May 1968 as an intermediate station when it extended the Sasaguri Line east from  to . With the privatization of JNR on 1 April 1987, JR Kyushu took over control of the station.\n\nReferences\n\nExternal links\nKurōbaru (JR Kyushu)\n\nRailway stations in Fukuoka Prefecture\nRailway stations in Japan opened in 1968",
-          "字数": 1152
+          "链接": "https://ja.wikipedia.org/wiki/%E4%B9%9D%E9%83%8E%E5%8E%9F%E9%A7%85",
+          "首段": "Kurōbaru Station (九郎原駅) is a railway station in 県飯塚市内住川原, Japan.",
+          "章节": {},
+          "全文": "Kurōbaru Station (九郎原駅) is a railway station in 県飯塚市内住川原, Japan.",
+          "字数": 64
         }
       },
       "结构化信息": {
@@ -437,14 +450,11 @@
         },
         "英文": {
           "词条标题": "Yahata Station",
-          "链接": "https://en.wikipedia.org/wiki/Yahata%20Station",
-          "首段": "is a railway station on the Kagoshima Main Line operated by JR Kyushu in Yahatahigashi-ku, Kitakyushu, Japan.",
-          "章节": {
-            "History": "The privately run Kyushu Railway had begun laying down its network on Kyushu in 1889 and by November 1896 had a stretch of track from  northwards to . This stretch of track was subsequently linked up with another stretch further north from Moji (now ) to  which had been laid down in 1891. The linkup was achieved on 27 December 1902, with Yahata opened on the same day as one of the intermediate stations on the new track between Kokura and Kurosaki. When the Kyushu Railway was nationalized on 1 July 1907, Japanese Government Railways (JGR) took over control of the station. On 12 October 1909, the station became part of the Hitoyoshi Main Line and then on 21 November 1909, part of the Kagoshima Main Line. With the privatization of Japanese National Railways (JNR), the successor of JGR, on 1 April 1987, JR Kyushu took over control of the station.\n\nPassenger statistics\nIn fiscal 2016, the station was used by 6,745 passengers daily, and it ranked 26th among the busiest stations of JR Kyushu.",
-            "References": "External links\nYahata Station (JR Kyushu)\n\nRailway stations in Fukuoka Prefecture\nRailway stations in Japan opened in 1902"
-          },
-          "全文": "is a railway station on the Kagoshima Main Line operated by JR Kyushu in Yahatahigashi-ku, Kitakyushu, Japan.\n\nHistory\nThe privately run Kyushu Railway had begun laying down its network on Kyushu in 1889 and by November 1896 had a stretch of track from  northwards to . This stretch of track was subsequently linked up with another stretch further north from Moji (now ) to  which had been laid down in 1891. The linkup was achieved on 27 December 1902, with Yahata opened on the same day as one of the intermediate stations on the new track between Kokura and Kurosaki. When the Kyushu Railway was nationalized on 1 July 1907, Japanese Government Railways (JGR) took over control of the station. On 12 October 1909, the station became part of the Hitoyoshi Main Line and then on 21 November 1909, part of the Kagoshima Main Line. With the privatization of Japanese National Railways (JNR), the successor of JGR, on 1 April 1987, JR Kyushu took over control of the station.\n\nPassenger statistics\nIn fiscal 2016, the station was used by 6,745 passengers daily, and it ranked 26th among the busiest stations of JR Kyushu.\n\nReferences\n\nExternal links\nYahata Station (JR Kyushu)\n\nRailway stations in Fukuoka Prefecture\nRailway stations in Japan opened in 1902",
-          "字数": 1255
+          "链接": "https://ja.wikipedia.org/wiki/%E5%85%AB%E5%B9%A1%E9%A7%85%20%28%E7%A6%8F%E5%B2%A1%E7%9C%8C%29",
+          "首段": "Yahata Station (八幡駅 (福岡県)) is a railway station in 県北九州市八幡東区西本町三丁目, Japan.",
+          "章节": {},
+          "全文": "Yahata Station (八幡駅 (福岡県)) is a railway station in 県北九州市八幡東区西本町三丁目, Japan.",
+          "字数": 74
         }
       },
       "结构化信息": {
@@ -541,15 +551,11 @@
         },
         "英文": {
           "词条标题": "Katsuno Station",
-          "链接": "https://en.wikipedia.org/wiki/Katsuno%20Station",
-          "首段": "is a railway station on the Chikuho Main Line operated by JR Kyushu in Kotake, Kurate District, Fukuoka Prefecture, Japan.",
-          "章节": {
-            "Lines": "The station is served by the Chikuhō Main Line and is located 27.5 km from the starting point of the line at .\n\nStation layout \nThe station, which is unstaffed, consists of an island platform serving two tracks. There is no station building but a shelter is provided on the platform for waiting passengers. A footbridge from the main road gives access to the island platform and also to the other side of the tracks.\n\nAdjacent stations",
-            "History": "The privately run Chikuho Kogyo Railway had opened a track from  to  on 30 August 1891 and after several phases of expansion, the track had reached . On 1 October 1897, the Chikuho Kogyo Railway, now renamed the Chikuho Railway, merged with the Kyushu Railway which acquired the track. On 13 February 1901, Katsuno was opened as an additional station on the track for the transport of freight only. After the Kyushu Railway was nationalized on 1 July 1907, Japanese Government Railways (JGR) took over control of the station. On 12 October 1909, the station became part of the Chikuho Main Line. On 21 July 1912, JGR upgraded the station to include passenger services. With the privatization of Japanese National Railways (JNR), the successor of JGR, on 1 April 1987, control of the station passed to JR Kyushu.",
-            "References": "External links\nKatsuno Station (JR Kyushu)\n\nRailway stations in Fukuoka Prefecture\nRailway stations in Japan opened in 1912"
-          },
-          "全文": "is a railway station on the Chikuho Main Line operated by JR Kyushu in Kotake, Kurate District, Fukuoka Prefecture, Japan.\n\nLines\nThe station is served by the Chikuhō Main Line and is located 27.5 km from the starting point of the line at .\n\nStation layout \nThe station, which is unstaffed, consists of an island platform serving two tracks. There is no station building but a shelter is provided on the platform for waiting passengers. A footbridge from the main road gives access to the island platform and also to the other side of the tracks.\n\nAdjacent stations\n\nHistory \nThe privately run Chikuho Kogyo Railway had opened a track from  to  on 30 August 1891 and after several phases of expansion, the track had reached . On 1 October 1897, the Chikuho Kogyo Railway, now renamed the Chikuho Railway, merged with the Kyushu Railway which acquired the track. On 13 February 1901, Katsuno was opened as an additional station on the track for the transport of freight only. After the Kyushu Railway was nationalized on 1 July 1907, Japanese Government Railways (JGR) took over control of the station. On 12 October 1909, the station became part of the Chikuho Main Line. On 21 July 1912, JGR upgraded the station to include passenger services. With the privatization of Japanese National Railways (JNR), the successor of JGR, on 1 April 1987, control of the station passed to JR Kyushu.\n\nReferences\n\nExternal links\nKatsuno Station (JR Kyushu)\n\nRailway stations in Fukuoka Prefecture\nRailway stations in Japan opened in 1912",
-          "字数": 1524
+          "链接": "https://ja.wikipedia.org/wiki/%E5%8B%9D%E9%87%8E%E9%A7%85",
+          "首段": "Katsuno Station (勝野駅) is a railway station in 県鞍手郡小竹町大字赤地字兵丹, Japan.",
+          "章节": {},
+          "全文": "Katsuno Station (勝野駅) is a railway station in 県鞍手郡小竹町大字赤地字兵丹, Japan.",
+          "字数": 68
         }
       },
       "结构化信息": {
@@ -718,16 +724,11 @@
         },
         "英文": {
           "词条标题": "Hakata Station",
-          "链接": "https://en.wikipedia.org/wiki/Hakata%20Station",
-          "首段": "is a major railway station in Hakata-ku, Fukuoka, Japan. It is the largest and busiest railway terminal in Kyushu, and is a gateway to other cities in Kyushu for travelers coming from Honshu by rail travel. The San'yō Shinkansen from Osaka ends at this station.\n\nThe station was rebuilt in 2011. The main building was demolished and a new, larger station building, as well as office buildings and new platforms, was constructed. The station reconstruction project was initiated specifically for the Kyushu Shinkansen extension from Hakata to Shin-Yatsushiro Station which continues southward through its existing route to Kagoshima-Chūō Station. The new station building has a Hankyu Department Store, its first branch store in Kyushu, as a tenant, as well as other first-in-Kyushu branch retailers including Tokyu Hands.",
-          "章节": {
-            "Lines": "Fukuhoku-Yutaka Line\nKagoshima Main Line\nKyushu Shinkansen \n\nSan'yō Shinkansen\nHakata-Minami Line",
-            "JR": "Fukuoka City Subway\nThe subway station's symbol mark is a bolt of cloth with the traditional hakata-ori (:ja:博多織) pattern \"Kenjō Hakata\"(). Hakata-ori is a traditional woven silk textile of Hakata.",
-            "History": "11 December 1889: opened. The original station building was about 600 m north of the current position.\n 1 December 1963: station reconstructed in present form raised above street level.\n 10 March 1975: San'yō Shinkansen services began.\n 22 March 1983: temporary Fukuoka City Subway station opened.\n 3 March 1985: current Fukuoka City Subway station opened.\n 3 March 2011: JR Hakata City opened.\n 12 March 2011: Kyushu Shinkansen services begin.\n 27 March 2023: Extension of the Fukuoka City Subway Nanakuma Line begins operation.\n\nPassenger statistics\nIn fiscal 2016, the station was used by an average of 121,370 passengers daily (boarding passengers only), and it ranked 1st among the busiest stations of JR Kyushu.\n\nSee also\n List of railway stations in Japan",
-            "References": "External links\n\n Fukuoka City Subway at urbanrail.net\n Hataka Station (JR Kyushu) \n Hataka Station (JR West) \n Hakata Station (Fukuoka City Subway) \n\nRailway stations in Fukuoka, Fukuoka\nSanyō Shinkansen\nRailway stations in Japan opened in 1889"
-          },
-          "全文": "is a major railway station in Hakata-ku, Fukuoka, Japan. It is the largest and busiest railway terminal in Kyushu, and is a gateway to other cities in Kyushu for travelers coming from Honshu by rail travel. The San'yō Shinkansen from Osaka ends at this station.\n\nThe station was rebuilt in 2011. The main building was demolished and a new, larger station building, as well as office buildings and new platforms, was constructed. The station reconstruction project was initiated specifically for the Kyushu Shinkansen extension from Hakata to Shin-Yatsushiro Station which continues southward through its existing route to Kagoshima-Chūō Station. The new station building has a Hankyu Department Store, its first branch store in Kyushu, as a tenant, as well as other first-in-Kyushu branch retailers including Tokyu Hands.\n\nLines\n\nFukuhoku-Yutaka Line\nKagoshima Main Line\nKyushu Shinkansen \n\nSan'yō Shinkansen\nHakata-Minami Line\n\nPlatforms\n\nJR\n\nFukuoka City Subway\nThe subway station's symbol mark is a bolt of cloth with the traditional hakata-ori (:ja:博多織) pattern \"Kenjō Hakata\"(). Hakata-ori is a traditional woven silk textile of Hakata.\n\nHistory\n\n 11 December 1889: opened. The original station building was about 600 m north of the current position.\n 1 December 1963: station reconstructed in present form raised above street level.\n 10 March 1975: San'yō Shinkansen services began.\n 22 March 1983: temporary Fukuoka City Subway station opened.\n 3 March 1985: current Fukuoka City Subway station opened.\n 3 March 2011: JR Hakata City opened.\n 12 March 2011: Kyushu Shinkansen services begin.\n 27 March 2023: Extension of the Fukuoka City Subway Nanakuma Line begins operation.\n\nPassenger statistics\nIn fiscal 2016, the station was used by an average of 121,370 passengers daily (boarding passengers only), and it ranked 1st among the busiest stations of JR Kyushu.\n\nSee also\n List of railway stations in Japan\n\nReferences\n\nExternal links\n\n Fukuoka City Subway at urbanrail.net\n Hataka Station (JR Kyushu) \n Hataka Station (JR West) \n Hakata Station (Fukuoka City Subway) \n\nRailway stations in Fukuoka, Fukuoka\nSanyō Shinkansen\nRailway stations in Japan opened in 1889",
-          "字数": 2173
+          "链接": "https://ja.wikipedia.org/wiki/%E5%8D%9A%E5%A4%9A%E9%A7%85",
+          "首段": "Hakata Station (博多駅) is a railway station in 県福岡市博多区博多駅中央街, Japan.",
+          "章节": {},
+          "全文": "Hakata Station (博多駅) is a railway station in 県福岡市博多区博多駅中央街, Japan.",
+          "字数": 66
         }
       },
       "结构化信息": {
@@ -852,15 +853,11 @@
         },
         "英文": {
           "词条标题": "Harumachi Station",
-          "链接": "https://en.wikipedia.org/wiki/Harumachi%20Station",
-          "首段": "is a railway station on the Sasaguri Line operated by JR Kyushu in Kasuya, Kasuya District, Fukuoka Prefecture, Japan.",
-          "章节": {
-            "Lines": "The station is served by the Sasaguri Line and is located 5.0 km from the starting point of the line at . The station is sometimes depicted on maps and timetables as part of the Fukuhoku Yutaka Line, of which the Sasaguri Line is a component.\n\nStation layout \nThe station consists of two side platforms serving two tracks. The station shares a building with a community facility named \"Harmony Hall Harumachi\". There is a small waiting area and a staffed ticket window. Access to the opposite side platform is by means of a covered footbridge.\n\nManagement of the station has been outsourced to the JR Kyushu Tetsudou Eigyou Co., a wholly owned subsidiary of JR Kyushu specialising in station services. It staffs the ticket window which is equipped with a POS machine but without a Midori no Madoguchi facility.\n\nAdjacent stations",
-            "History": "The privately run Kyushu Railway opened a stretch of track from  to  on 19 June 1904, with Harumachi opening on the same day as an intermediate station on the track. When the Kyushu Railway was nationalized on 1 July 1907, Japanese Government Railways (JGR) took over control of the station. On 12 October 1909, the station became part of the Sasaguri Line. With the privatization of Japanese National Railways (JNR), the successor of JGR, on 1 April 1987, JR Kyushu took over control of the station.\n\nPassenger statistics\nIn fiscal 2016, the station was used by an average of 1,407 passengers daily (boarding passengers only), and it ranked 124th among the busiest stations of JR Kyushu.",
-            "References": "External links\nHarumachi (JR Kyushu)\n\nRailway stations in Japan opened in 1904\nRailway stations in Fukuoka Prefecture\nStations of Kyushu Railway Company"
-          },
-          "全文": "is a railway station on the Sasaguri Line operated by JR Kyushu in Kasuya, Kasuya District, Fukuoka Prefecture, Japan.\n\nLines\nThe station is served by the Sasaguri Line and is located 5.0 km from the starting point of the line at . The station is sometimes depicted on maps and timetables as part of the Fukuhoku Yutaka Line, of which the Sasaguri Line is a component.\n\nStation layout \nThe station consists of two side platforms serving two tracks. The station shares a building with a community facility named \"Harmony Hall Harumachi\". There is a small waiting area and a staffed ticket window. Access to the opposite side platform is by means of a covered footbridge.\n\nManagement of the station has been outsourced to the JR Kyushu Tetsudou Eigyou Co., a wholly owned subsidiary of JR Kyushu specialising in station services. It staffs the ticket window which is equipped with a POS machine but without a Midori no Madoguchi facility.\n\nAdjacent stations\n\nHistory\nThe privately run Kyushu Railway opened a stretch of track from  to  on 19 June 1904, with Harumachi opening on the same day as an intermediate station on the track. When the Kyushu Railway was nationalized on 1 July 1907, Japanese Government Railways (JGR) took over control of the station. On 12 October 1909, the station became part of the Sasaguri Line. With the privatization of Japanese National Railways (JNR), the successor of JGR, on 1 April 1987, JR Kyushu took over control of the station.\n\nPassenger statistics\nIn fiscal 2016, the station was used by an average of 1,407 passengers daily (boarding passengers only), and it ranked 124th among the busiest stations of JR Kyushu.\n\nReferences\n\nExternal links\nHarumachi (JR Kyushu)\n\nRailway stations in Japan opened in 1904\nRailway stations in Fukuoka Prefecture\nStations of Kyushu Railway Company",
-          "字数": 1819
+          "链接": "https://ja.wikipedia.org/wiki/%E5%8E%9F%E7%94%BA%E9%A7%85",
+          "首段": "Harumachi Station (原町駅) is a railway station in 県糟屋郡粕屋町原町一丁目, Japan.",
+          "章节": {},
+          "全文": "Harumachi Station (原町駅) is a railway station in 県糟屋郡粕屋町原町一丁目, Japan.",
+          "字数": 68
         }
       },
       "结构化信息": {
@@ -952,16 +949,11 @@
         },
         "英文": {
           "词条标题": "Yoshizuka Station",
-          "链接": "https://en.wikipedia.org/wiki/Yoshizuka%20Station",
-          "首段": "is a railway station on the Kagoshima Main Line and the Sasaguri Line operated by JR Kyushu in Hakata-ku, Fukuoka, Fukuoka Prefecture, Japan.",
-          "章节": {
-            "Lines": "The station is served by the Kagoshima Main Line and is located 75.0 km from the starting point of the line at .\n\nThe station is also the starting point of the Sasaguri Line which is also, with parts of other lines, collectively referred to on maps as the Fukuhoku Yutaka Line.",
-            "Layout": "The station consists of one side and two island platforms serving five elevated tracks.",
-            "History": "The privately run Kyushu Railway had begun laying down its network on Kyushu in 1889 and by 1902 had a stretch of track from Moji (now ) southwards to . Yoshizuka was opened as an added station on this existing stretch of track on 19 June 1904 between  and . On the same day a stretch of track to  was also opened. This track was later extended to Hakata on 16 February 1905. When the Kyushu Railway was nationalized on 1 July 1907, Japanese Government Railways (JGR) took over control of the station. On 12 October 1909, the station became part of the Hitoyoshi Main Line while the track from Hakata through Yoshizuka to Sasaguri was designated the Sasaguri Line. On 21 November 1909 the Hitoyoshi Main Line was renamed the Kagoshima Main Line. On 5 May 1911, Yoshizuka was designated the official start point of the Sasaguri Line. With the privatization of Japanese National Railways (JNR), the successor of JGR, on 1 April 1987, JR Kyushu took over control of the station.\n\nPassenger statistics\nIn fiscal 2016, the station was used by 13,812 passengers daily, and it ranked 8th among the busiest stations of JR Kyushu.\n\nSee also \nList of railway stations in Japan",
-            "References": "External links\nYoshizuka Station (JR Kyushu)\n\nRailway stations in Fukuoka Prefecture\nRailway stations in Japan opened in 1890\nRailway stations in Japan opened in 1904"
-          },
-          "全文": "is a railway station on the Kagoshima Main Line and the Sasaguri Line operated by JR Kyushu in Hakata-ku, Fukuoka, Fukuoka Prefecture, Japan.\n\nLines\nThe station is served by the Kagoshima Main Line and is located 75.0 km from the starting point of the line at .\n\nThe station is also the starting point of the Sasaguri Line which is also, with parts of other lines, collectively referred to on maps as the Fukuhoku Yutaka Line.\n\nLayout\nThe station consists of one side and two island platforms serving five elevated tracks.\n\nHistory\nThe privately run Kyushu Railway had begun laying down its network on Kyushu in 1889 and by 1902 had a stretch of track from Moji (now ) southwards to . Yoshizuka was opened as an added station on this existing stretch of track on 19 June 1904 between  and . On the same day a stretch of track to  was also opened. This track was later extended to Hakata on 16 February 1905. When the Kyushu Railway was nationalized on 1 July 1907, Japanese Government Railways (JGR) took over control of the station. On 12 October 1909, the station became part of the Hitoyoshi Main Line while the track from Hakata through Yoshizuka to Sasaguri was designated the Sasaguri Line. On 21 November 1909 the Hitoyoshi Main Line was renamed the Kagoshima Main Line. On 5 May 1911, Yoshizuka was designated the official start point of the Sasaguri Line. With the privatization of Japanese National Railways (JNR), the successor of JGR, on 1 April 1987, JR Kyushu took over control of the station.\n\nPassenger statistics\nIn fiscal 2016, the station was used by 13,812 passengers daily, and it ranked 8th among the busiest stations of JR Kyushu.\n\nSee also \nList of railway stations in Japan\n\nReferences\n\nExternal links\nYoshizuka Station (JR Kyushu)\n\nRailway stations in Fukuoka Prefecture\nRailway stations in Japan opened in 1890\nRailway stations in Japan opened in 1904",
-          "字数": 1878
+          "链接": "https://ja.wikipedia.org/wiki/%E5%90%89%E5%A1%9A%E9%A7%85",
+          "首段": "Yoshizuka Station (吉塚駅) is a railway station in 県福岡市博多区吉塚本町, Japan.",
+          "章节": {},
+          "全文": "Yoshizuka Station (吉塚駅) is a railway station in 県福岡市博多区吉塚本町, Japan.",
+          "字数": 67
         }
       },
       "结构化信息": {
@@ -1046,7 +1038,14 @@
           "字数": 232,
           "全文": "城户南藏院前站（きどなんぞういんまええき）是位于福冈县糟屋郡篠栗町大字篠栗的九州旅客铁道（JR九州）篠栗线（福北丰线）车站，车站编号JC08。\n\n历史\n随篠栗线桂川—篠栗间开通作为城户站开业。1995年沿线南藏院安放释迦涅槃像后参拜者急增，2003年改名城户南藏院前。\n\n年表\n1968年（昭和43年）5月25日：城户站由日本国有铁道开设。\n1974年（昭和49年）3月5日：成为无站员配置站。\n1987年（昭和62年）4月1日：国铁分割民营化，九州旅客铁道继承。"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "城戸南蔵院前駅",
+          "链接": "https://ja.wikipedia.org/wiki/%E5%9F%8E%E6%88%B8%E5%8D%97%E8%94%B5%E9%99%A2%E5%89%8D%E9%A7%85",
+          "首段": "城戸南蔵院前駅 (城戸南蔵院前駅) is a railway station in 県糟屋郡篠栗町大字篠栗, Japan.",
+          "章节": {},
+          "全文": "城戸南蔵院前駅 (城戸南蔵院前駅) is a railway station in 県糟屋郡篠栗町大字篠栗, Japan.",
+          "字数": 61
+        }
       },
       "结构化信息": {
         "读音": "きどなんぞういんまええき",
@@ -1125,15 +1124,11 @@
         },
         "英文": {
           "词条标题": "Tentō Station",
-          "链接": "https://en.wikipedia.org/wiki/Tent%C5%8D%20Station",
-          "首段": "is a railway station on the Chikuhō Main Line operated by JR Kyushu in Iizuka, Fukuoka, Fukuoka Prefecture, Japan.",
-          "章节": {
-            "Lines": "The station is served by the Chikuhō Main Line and is located 42.3 km from the starting point of the line at .\n\nStation layout \nThe station consists of two staggered side platforms serving two tracks. A station building of modern concrete design houses a waiting room and automatic ticket vending machines. There is a ramp up to the station building entrance from the access road but access to the opposite side platform is by means of a sheltered footbridge.\n\nAdjacent stations",
-            "History": "The privately run Chikuho Kogyo Railway had opened a track from  to  on 30 August 1891 and, after several phases of extension, the track had reached south to  by 1893. On 1 October 1897, the Chikuho Kogyo Railway, now renamed the Chikuho Railway, merged with the Kyushu Railway. Kyushu Railway undertook the next phase of expansion by extending the track to Keisen, then named Nagao, and establishing it as the new southern terminus on 12 December 1901. Tento was opened on the same day as an intermediate station on this new stretch of track. After the Kyushu Railway was nationalized on 1 July 1907, Japanese Government Railways (JGR) took over control of the station. On 12 October 1909, the track to Iizuka was designated the Chikuho Main Line while the track from Iizuka to Nagao was designated the Nagao Line. On 7 December 1929, both lines were merged and the station became part of the Chikuho Main Line. With the privatization of Japanese National Railways (JNR), the successor of JGR, on 1 April 1987, control of the station passed to JR Kyushu.\n\nPassenger statistics\nIn fiscal 2016, the station was used by an average of 537 passengers daily (boarding passengers only), and it ranked 237th among the busiest stations of JR Kyushu.",
-            "References": "External links\nTentō Station (JR Kyushu)\n\nRailway stations in Fukuoka Prefecture\nRailway stations in Japan opened in 1901"
-          },
-          "全文": "is a railway station on the Chikuhō Main Line operated by JR Kyushu in Iizuka, Fukuoka, Fukuoka Prefecture, Japan.\n\nLines\nThe station is served by the Chikuhō Main Line and is located 42.3 km from the starting point of the line at .\n\nStation layout \nThe station consists of two staggered side platforms serving two tracks. A station building of modern concrete design houses a waiting room and automatic ticket vending machines. There is a ramp up to the station building entrance from the access road but access to the opposite side platform is by means of a sheltered footbridge.\n\nAdjacent stations\n\nHistory \nThe privately run Chikuho Kogyo Railway had opened a track from  to  on 30 August 1891 and, after several phases of extension, the track had reached south to  by 1893. On 1 October 1897, the Chikuho Kogyo Railway, now renamed the Chikuho Railway, merged with the Kyushu Railway. Kyushu Railway undertook the next phase of expansion by extending the track to Keisen, then named Nagao, and establishing it as the new southern terminus on 12 December 1901. Tento was opened on the same day as an intermediate station on this new stretch of track. After the Kyushu Railway was nationalized on 1 July 1907, Japanese Government Railways (JGR) took over control of the station. On 12 October 1909, the track to Iizuka was designated the Chikuho Main Line while the track from Iizuka to Nagao was designated the Nagao Line. On 7 December 1929, both lines were merged and the station became part of the Chikuho Main Line. With the privatization of Japanese National Railways (JNR), the successor of JGR, on 1 April 1987, control of the station passed to JR Kyushu.\n\nPassenger statistics\nIn fiscal 2016, the station was used by an average of 537 passengers daily (boarding passengers only), and it ranked 237th among the busiest stations of JR Kyushu.\n\nReferences\n\nExternal links\nTentō Station (JR Kyushu)\n\nRailway stations in Fukuoka Prefecture\nRailway stations in Japan opened in 1901",
-          "字数": 1987
+          "链接": "https://ja.wikipedia.org/wiki/%E5%A4%A9%E9%81%93%E9%A7%85",
+          "首段": "Tentō Station (天道駅) is a railway station in 県飯塚市天道, Japan.",
+          "章节": {},
+          "全文": "Tentō Station (天道駅) is a railway station in 県飯塚市天道, Japan.",
+          "字数": 58
         }
       },
       "结构化信息": {
@@ -1244,15 +1239,11 @@
         },
         "英文": {
           "词条标题": "Kokura Station",
-          "链接": "https://en.wikipedia.org/wiki/Kokura%20Station",
-          "首段": "in Kokurakita-ku is the main railway station in Kitakyushu, Japan. It is part of the JR Kyushu network and the San'yō Shinkansen stops here. It is the second largest station in Kyushu with 120,000 users daily. In the late 1990s, the Kokura station area was expanded and remodelled.\n\nJR lines\n Kagoshima Main Line\n San'yō Shinkansen\n Nippō Main Line\n Hitahikosan Line\n\nJR limited express trains\n San'yō Shinkansen Nozomi, Hikari, and Kodama ( -  - )\n San'yō Shinkansen Mizuho, and Sakura ( - ( by Kyushu Shinkansen)\n Sonic (Hakata - //)\n Nichirin Seagaia (Hakata - )\n Kirameki (Mojikō/Kokura - Hakata)",
-          "章节": {
-            "Monorail": "Kitakyushu Monorail",
-            "History": "April 1, 1891: Opened by the private company Kyushu Tetsudo in front of Kokura Castle.\n July 1, 1907: Brought under state control.\n March 1, 1958: Reconstructed 700 meters east of original location (the former station site is now known as Nishi (\"West\")\nKokura). \n March 10, 1975: Sanyo Shinkansen services commenced.\n April 1, 1987: Following privatisation of JNR it came under the control of JR Kyushu. The Shinkansen platforms are run by JR West.\n April 1, 1998: Kitakyushu Monorail line is extended to Kokura Station as part of a major reconstruction of the station building.\n\nPassenger statistics\nIn fiscal 2016, the station was used by an average of 35,431 passengers daily (boarding passengers only), and it ranked 2nd among the busiest stations of JR Kyushu.\n\nSurrounding area\nKokura Castle\nKitakyushu Stadium\nWest Japan General Exhibition Center\nKitakyushu International Conference Center",
-            "References": "External links\nStation Information (JR Kyushu) \n\nRailway stations in Fukuoka Prefecture\nBuildings and structures in Kitakyushu\nSanyō Shinkansen\nRailway stations in Japan opened in 1891"
-          },
-          "全文": "in Kokurakita-ku is the main railway station in Kitakyushu, Japan. It is part of the JR Kyushu network and the San'yō Shinkansen stops here. It is the second largest station in Kyushu with 120,000 users daily. In the late 1990s, the Kokura station area was expanded and remodelled.\n\nJR lines\n Kagoshima Main Line\n San'yō Shinkansen\n Nippō Main Line\n Hitahikosan Line\n\nJR limited express trains\n San'yō Shinkansen Nozomi, Hikari, and Kodama ( -  - )\n San'yō Shinkansen Mizuho, and Sakura ( - ( by Kyushu Shinkansen)\n Sonic (Hakata - //)\n Nichirin Seagaia (Hakata - )\n Kirameki (Mojikō/Kokura - Hakata)\n\nMonorail\n Kitakyushu Monorail\n\nTracks\n\nHistory\n\n April 1, 1891: Opened by the private company Kyushu Tetsudo in front of Kokura Castle.\n July 1, 1907: Brought under state control.\n March 1, 1958: Reconstructed 700 meters east of original location (the former station site is now known as Nishi (\"West\")\nKokura). \n March 10, 1975: Sanyo Shinkansen services commenced.\n April 1, 1987: Following privatisation of JNR it came under the control of JR Kyushu. The Shinkansen platforms are run by JR West.\n April 1, 1998: Kitakyushu Monorail line is extended to Kokura Station as part of a major reconstruction of the station building.\n\nPassenger statistics\nIn fiscal 2016, the station was used by an average of 35,431 passengers daily (boarding passengers only), and it ranked 2nd among the busiest stations of JR Kyushu.\n\nSurrounding area\nKokura Castle\nKitakyushu Stadium\nWest Japan General Exhibition Center\nKitakyushu International Conference Center\n\nReferences\n\nExternal links\nStation Information (JR Kyushu) \n\nRailway stations in Fukuoka Prefecture\nBuildings and structures in Kitakyushu\nSanyō Shinkansen\nRailway stations in Japan opened in 1891",
-          "字数": 1746
+          "链接": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E5%80%89%E9%A7%85%20%28%E7%A6%8F%E5%B2%A1%E7%9C%8C%29",
+          "首段": "Kokura Station (小倉駅 (福岡県)) is a railway station in 県北九州市小倉北区浅野一丁目, Japan.",
+          "章节": {},
+          "全文": "Kokura Station (小倉駅 (福岡県)) is a railway station in 県北九州市小倉北区浅野一丁目, Japan.",
+          "字数": 73
         }
       },
       "结构化信息": {
@@ -1365,14 +1356,11 @@
         },
         "英文": {
           "词条标题": "Kotake Station",
-          "链接": "https://en.wikipedia.org/wiki/Kotake%20Station",
-          "首段": "is a railway station on the Chikuho Main Line operated by JR Kyushu in Kotake, Kurate District, Fukuoka, Japan.",
-          "章节": {
-            "History": "The privately run Chikuho Kogyo Railway had opened a track from  to  on 30 August 1891. In the next phase of expansion, the track was extended southwards with Kotake being opened as the new southern terminus on 28 October 1892. Kotake became a through-station on 3 July 1893 when the track was further extended to . On 1 October 1897, the Chikuho Kogyo Railway, now renamed the Chikuho Railway, merged with the Kyushu Railway. After the Kyushu Railway was nationalized on 1 July 1907, Japanese Government Railways (JGR) took over control of the station. On 12 October 1909, the station became part of the Chikuho Main Line With the privatization of Japanese National Railways (JNR), the successor of JGR, on 1 April 1987, control of the station passed to JR Kyushu.\n\nPassenger statistics\nIn fiscal 2016, the station was used by an average of 700 passengers daily (boarding passengers only), and it ranked 205th among the busiest stations of JR Kyushu.",
-            "References": "Railway stations in Fukuoka Prefecture\nRailway stations in Japan opened in 1892"
-          },
-          "全文": "is a railway station on the Chikuho Main Line operated by JR Kyushu in Kotake, Kurate District, Fukuoka, Japan.\n\nHistory \nThe privately run Chikuho Kogyo Railway had opened a track from  to  on 30 August 1891. In the next phase of expansion, the track was extended southwards with Kotake being opened as the new southern terminus on 28 October 1892. Kotake became a through-station on 3 July 1893 when the track was further extended to . On 1 October 1897, the Chikuho Kogyo Railway, now renamed the Chikuho Railway, merged with the Kyushu Railway. After the Kyushu Railway was nationalized on 1 July 1907, Japanese Government Railways (JGR) took over control of the station. On 12 October 1909, the station became part of the Chikuho Main Line With the privatization of Japanese National Railways (JNR), the successor of JGR, on 1 April 1987, control of the station passed to JR Kyushu.\n\nPassenger statistics\nIn fiscal 2016, the station was used by an average of 700 passengers daily (boarding passengers only), and it ranked 205th among the busiest stations of JR Kyushu.\n\nReferences\n\nRailway stations in Fukuoka Prefecture\nRailway stations in Japan opened in 1892",
-          "字数": 1166
+          "链接": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E7%AB%B9%E9%A7%85",
+          "首段": "Kotake Station (小竹駅) is a railway station in Japan, Japan.",
+          "章节": {},
+          "全文": "Kotake Station (小竹駅) is a railway station in Japan, Japan.",
+          "字数": 58
         }
       },
       "结构化信息": {
@@ -1470,14 +1458,11 @@
         },
         "英文": {
           "词条标题": "Tobata Station",
-          "链接": "https://en.wikipedia.org/wiki/Tobata%20Station",
-          "首段": "is a railway station on the Kagoshima Main Line operated by JR Kyushu in Tobata-ku, Kitakyushu, Japan.",
-          "章节": {
-            "History": "The privately run Kyushu Railway had begun laying down its network on Kyushu in 1889 and by November 1896 had a stretch of track from  northwards to . This stretch of track was subsequently linked up with another stretch further north from Moji (now ) to  which had been laid down in 1891. The linkup was achieved on 27 December 1902, with Tobata opened on the same day as one of the intermediate stations on the new track between Kokura and Kurosaki. When the Kyushu Railway was nationalized on 1 July 1907, Japanese Government Railways (JGR) took over control of the station. On 12 October 1909, the station became part of the Hitoyoshi Main Line and then on 21 November 1909, part of the Kagoshima Main Line. With the privatization of Japanese National Railways (JNR), the successor of JGR, on 1 April 1987, JR Kyushu took over control of the station. In 2000 the station was shifted about 200 metres westwards and rebuilt.\n\nPassenger statistics\nIn fiscal 2016, the station was used by 9,653 passengers daily, and it ranked 15th among the busiest stations of JR Kyushu.",
-            "References": "External links\nTobata Station (JR Kyushu)\n\nRailway stations in Fukuoka Prefecture\nBuildings and structures in Kitakyushu\nRailway stations in Japan opened in 1902"
-          },
-          "全文": "is a railway station on the Kagoshima Main Line operated by JR Kyushu in Tobata-ku, Kitakyushu, Japan.\n\nHistory\nThe privately run Kyushu Railway had begun laying down its network on Kyushu in 1889 and by November 1896 had a stretch of track from  northwards to . This stretch of track was subsequently linked up with another stretch further north from Moji (now ) to  which had been laid down in 1891. The linkup was achieved on 27 December 1902, with Tobata opened on the same day as one of the intermediate stations on the new track between Kokura and Kurosaki. When the Kyushu Railway was nationalized on 1 July 1907, Japanese Government Railways (JGR) took over control of the station. On 12 October 1909, the station became part of the Hitoyoshi Main Line and then on 21 November 1909, part of the Kagoshima Main Line. With the privatization of Japanese National Railways (JNR), the successor of JGR, on 1 April 1987, JR Kyushu took over control of the station. In 2000 the station was shifted about 200 metres westwards and rebuilt.\n\nPassenger statistics\nIn fiscal 2016, the station was used by 9,653 passengers daily, and it ranked 15th among the busiest stations of JR Kyushu.\n\nReferences\n\nExternal links\nTobata Station (JR Kyushu)\n\nRailway stations in Fukuoka Prefecture\nBuildings and structures in Kitakyushu\nRailway stations in Japan opened in 1902",
-          "字数": 1359
+          "链接": "https://ja.wikipedia.org/wiki/%E6%88%B8%E7%95%91%E9%A7%85",
+          "首段": "Tobata Station (戸畑駅) is a railway station in 県北九州市戸畑区汐井町, Japan.",
+          "章节": {},
+          "全文": "Tobata Station (戸畑駅) is a railway station in 県北九州市戸畑区汐井町, Japan.",
+          "字数": 64
         }
       },
       "结构化信息": {
@@ -1594,17 +1579,11 @@
         },
         "英文": {
           "词条标题": "Orio Station",
-          "链接": "https://en.wikipedia.org/wiki/Orio%20Station",
-          "首段": "is a railway station in Yahatanishi-ku, Kitakyushu, Japan, operated by the JR Kyushu.",
-          "章节": {
-            "Lines": "Orio Station is served by the Kagoshima Main Line and Chikuho Main Line.\n\nStation layout\nThe two lines serving the station intersect at Orio, and the lines are connected by a spur track. The station therefore consists of two separated blocks: the main building with bi-level platforms at the crossing point, and detached platforms on the spur.\n\nThe station has a \"Midori no Madoguchi\" staffed ticket office.",
-            "Platforms": "Main building lower level\n\nMain building upper level\n\nLimited express trains, including the Sonic, stop here.\n\nSpur track (Takami entrance)",
-            "History": "The privately run Kyushu Railway had begun laying down its network on Kyushu in 1889 and by the end of 1890 had a stretch of track from  southwards to . The track was extended northwards from Ongagawa to  by 28 February 1891, with Orio being opened on the same day as one of the intermediate stations. On 30 August 1891, Orio also became an intermediate station for the Chikuho Kogyo Railway (later renamed the Chikuho Railway) when it laid a track from  to . The Chikuho Railway merged with the Kyushu Railway on 1 October 1897. When the Kyushu Railway was nationalized on 1 July 1907, Japanese Government Railways (JGR) took over control of the station. On 12 October 1909, the station became part of the Hitoyoshi Main Line and then on 21 November 1909, part of the Kagoshima Main Line. With the privatization of Japanese National Railways (JNR), the successor of JGR, on 1 April 1987, JR Kyushu took over control of the station.\n\nThe station building was rebuilt in 1916, but use of this building was discontinued from 6 October 2012 in preparation for rebuilding work, with operations shifted to a temporary structure. The station building was scheduled to be demolished during 2012, with the new structure completed in fiscal 2016.\n\nPassenger statistics\nIn fiscal 2016, the station was used by 16,228 passengers daily, and it ranked 5th among the busiest stations of JR Kyushu.\n\nSurrounding area\n Orio Police Station\n National Route 3\n National Route 199\n\nEducational facilities\n Kyushu Kyoritsu University\n Kyushu Women's University\n University of Occupational and Environmental Health Japan\n Kyushu Women's Junior College\n Orio Aishin Junior College\n Fukuoka Prefectural Tochiku High School\n Fukuoka Prefectural Orio High School\n Jiyugaoka High School",
-            "Buses": "Airport buses leave from a bus stop located at the west exit of the main building to the Kitakyushu Airport. Also, there is a Kitakyushu municipal bus terminal for local buses connecting vicinities including Wakamatsu and Ashiya in front of the east exit of main building.\n\nSee also\n Orio (Kitakyushu)",
-            "References": "External links\n\n Orio Station information (JR Kyushu) \n\nRailway stations in Japan opened in 1891\nRailway stations in Fukuoka Prefecture\nBuildings and structures in Kitakyushu"
-          },
-          "全文": "is a railway station in Yahatanishi-ku, Kitakyushu, Japan, operated by the JR Kyushu.\n\nLines\nOrio Station is served by the Kagoshima Main Line and Chikuho Main Line.\n\nStation layout\nThe two lines serving the station intersect at Orio, and the lines are connected by a spur track. The station therefore consists of two separated blocks: the main building with bi-level platforms at the crossing point, and detached platforms on the spur.\n\nThe station has a \"Midori no Madoguchi\" staffed ticket office.\n\nPlatforms\n\nMain building lower level\n\nMain building upper level\n\nLimited express trains, including the Sonic, stop here.\n\nSpur track (Takami entrance)\n\nHistory\nThe privately run Kyushu Railway had begun laying down its network on Kyushu in 1889 and by the end of 1890 had a stretch of track from  southwards to . The track was extended northwards from Ongagawa to  by 28 February 1891, with Orio being opened on the same day as one of the intermediate stations. On 30 August 1891, Orio also became an intermediate station for the Chikuho Kogyo Railway (later renamed the Chikuho Railway) when it laid a track from  to . The Chikuho Railway merged with the Kyushu Railway on 1 October 1897. When the Kyushu Railway was nationalized on 1 July 1907, Japanese Government Railways (JGR) took over control of the station. On 12 October 1909, the station became part of the Hitoyoshi Main Line and then on 21 November 1909, part of the Kagoshima Main Line. With the privatization of Japanese National Railways (JNR), the successor of JGR, on 1 April 1987, JR Kyushu took over control of the station.\n\nThe station building was rebuilt in 1916, but use of this building was discontinued from 6 October 2012 in preparation for rebuilding work, with operations shifted to a temporary structure. The station building was scheduled to be demolished during 2012, with the new structure completed in fiscal 2016.\n\nPassenger statistics\nIn fiscal 2016, the station was used by 16,228 passengers daily, and it ranked 5th among the busiest stations of JR Kyushu.\n\nSurrounding area\n Orio Police Station\n National Route 3\n National Route 199\n\nEducational facilities\n Kyushu Kyoritsu University\n Kyushu Women's University\n University of Occupational and Environmental Health Japan\n Kyushu Women's Junior College\n Orio Aishin Junior College\n Fukuoka Prefectural Tochiku High School\n Fukuoka Prefectural Orio High School\n Jiyugaoka High School\n\nBuses\nAirport buses leave from a bus stop located at the west exit of the main building to the Kitakyushu Airport. Also, there is a Kitakyushu municipal bus terminal for local buses connecting vicinities including Wakamatsu and Ashiya in front of the east exit of main building.\n\nSee also\n Orio (Kitakyushu)\n\nReferences\n\nExternal links\n\n Orio Station information (JR Kyushu) \n\nRailway stations in Japan opened in 1891\nRailway stations in Fukuoka Prefecture\nBuildings and structures in Kitakyushu",
-          "字数": 2918
+          "链接": "https://ja.wikipedia.org/wiki/%E6%8A%98%E5%B0%BE%E9%A7%85",
+          "首段": "Orio Station (折尾駅) is a railway station in 県北九州市八幡西区堀川町, Japan.",
+          "章节": {},
+          "全文": "Orio Station (折尾駅) is a railway station in 県北九州市八幡西区堀川町, Japan.",
+          "字数": 63
         }
       },
       "结构化信息": {
@@ -1703,15 +1682,11 @@
         },
         "英文": {
           "词条标题": "Shinnyū Station",
-          "链接": "https://en.wikipedia.org/wiki/Shinny%C5%AB%20Station",
-          "首段": "is a railway station on the Chikuho Main Line operated by JR Kyushu in Nōgata, Fukuoka Prefecture, Japan.",
-          "章节": {
-            "Lines": "The station is served by the Chikuhō Main Line and is located 22.8 km from the starting point of the line at .\n\nStation layout \nThe station consists of two side opposed platforms serving two tracks. A station building, of modern design and shaped to resemble a traditional coal-ferrying boat, houses a waiting room and automatic ticket vending machines. Access to the opposite side platform is by means of a level crossing with steps at both ends.\n\nAdjacent stations",
-            "History": "The station was opened by JR Kyushu on 11 March 1989 as an additional station on the existing Chikuhō Main Line track.\n\nOn 4 March 2017, Shinnyū, along with several other stations on the line, became a remotely managed \"Smart Support Station\". Under this scheme, although the station is unstaffed, passengers using the automatic ticket vending machines or ticket gates can receive assistance via intercom from staff at a central support centre which is located at .\n\nPassenger statistics\nIn fiscal 2016, the station was used by an average of 424 passengers daily (boarding passengers only), and it ranked 261st among the busiest stations of JR Kyushu.",
-            "References": "External links\nShinnyū Station (JR Kyushu)\n\nRailway stations in Fukuoka Prefecture\nRailway stations in Japan opened in 1989"
-          },
-          "全文": "is a railway station on the Chikuho Main Line operated by JR Kyushu in Nōgata, Fukuoka Prefecture, Japan.\n\nLines\nThe station is served by the Chikuhō Main Line and is located 22.8 km from the starting point of the line at .\n\nStation layout \nThe station consists of two side opposed platforms serving two tracks. A station building, of modern design and shaped to resemble a traditional coal-ferrying boat, houses a waiting room and automatic ticket vending machines. Access to the opposite side platform is by means of a level crossing with steps at both ends.\n\nAdjacent stations\n\nHistory \nThe station was opened by JR Kyushu on 11 March 1989 as an additional station on the existing Chikuhō Main Line track.\n\nOn 4 March 2017, Shinnyū, along with several other stations on the line, became a remotely managed \"Smart Support Station\". Under this scheme, although the station is unstaffed, passengers using the automatic ticket vending machines or ticket gates can receive assistance via intercom from staff at a central support centre which is located at .\n\nPassenger statistics\nIn fiscal 2016, the station was used by an average of 424 passengers daily (boarding passengers only), and it ranked 261st among the busiest stations of JR Kyushu.\n\nReferences\n\nExternal links\nShinnyū Station (JR Kyushu)\n\nRailway stations in Fukuoka Prefecture\nRailway stations in Japan opened in 1989",
-          "字数": 1378
+          "链接": "https://ja.wikipedia.org/wiki/%E6%96%B0%E5%85%A5%E9%A7%85",
+          "首段": "Shinnyū Station (新入駅) is a railway station in 県直方市大字下新入, Japan.",
+          "章节": {},
+          "全文": "Shinnyū Station (新入駅) is a railway station in 県直方市大字下新入, Japan.",
+          "字数": 63
         }
       },
       "结构化信息": {
@@ -1785,7 +1760,14 @@
           "字数": 386,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "新飯塚駅",
+          "链接": "https://ja.wikipedia.org/wiki/%E6%96%B0%E9%A3%AF%E5%A1%9A%E9%A7%85",
+          "首段": "新飯塚駅 (新飯塚駅) is a railway station in 県飯塚市立岩, Japan.",
+          "章节": {},
+          "全文": "新飯塚駅 (新飯塚駅) is a railway station in 県飯塚市立岩, Japan.",
+          "字数": 50
+        }
       },
       "结构化信息": {
         "读音": "しんいいづかえき",
@@ -1852,7 +1834,14 @@
           "字数": 205,
           "全文": "东水卷站（ひがしみずまきえき）是位于福冈县远贺郡水卷町吉田南一丁目的九州旅客铁道（JR九州）筑丰本线（福北丰线）车站，车站编号JC25。\n\n历史\n本站设于筑丰本线折尾—中间间复复线时代的立体交差迹。运输量低下复复线废止后长期荒地，1988年开设车站。\n\n年表\n1988年（昭和63年）3月13日：开业。\n2009年（平成21年）3月1日：可使用IC卡SUGOCA。\n2015年（平成27年）3月14日：无人化。"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "東水巻駅",
+          "链接": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B0%B4%E5%B7%BB%E9%A7%85",
+          "首段": "東水巻駅 (東水巻駅) is a railway station in 県遠賀郡水巻町吉田南一丁目, Japan.",
+          "章节": {},
+          "全文": "東水巻駅 (東水巻駅) is a railway station in 県遠賀郡水巻町吉田南一丁目, Japan.",
+          "字数": 57
+        }
       },
       "结构化信息": {
         "读音": "ひがしみずまきえき",
@@ -1935,14 +1924,11 @@
         },
         "英文": {
           "词条标题": "Edamitsu Station",
-          "链接": "https://en.wikipedia.org/wiki/Edamitsu%20Station",
-          "首段": "is a railway station on the Kagoshima Main Line operated by JR Kyushu in Yahatahigashi-ku, Kitakyushu, Japan.",
-          "章节": {
-            "History": "The station was opened by Japanese Government Railways (JGR) on 1 April 1908 on its stretch of track between Moji (now  and . On 12 October 1909, the station became part of the Hitoyoshi Main Line and then on 21 November 1909, part of the Kagoshima Main Line. With the privatization of Japanese National Railways (JNR), the successor of JGR, on 1 April 1987, JR Kyushu took over control of the station.\n\nPassenger statistics\nIn fiscal 2016, the station was used by 2,962 passengers daily, and it ranked 62nd among the busiest stations of JR Kyushu.",
-            "References": "External links\nEdamitsu Station (JR Kyushu)\n\nRailway stations in Fukuoka Prefecture\nRailway stations in Japan opened in 1908"
-          },
-          "全文": "is a railway station on the Kagoshima Main Line operated by JR Kyushu in Yahatahigashi-ku, Kitakyushu, Japan.\n\nHistory\nThe station was opened by Japanese Government Railways (JGR) on 1 April 1908 on its stretch of track between Moji (now  and . On 12 October 1909, the station became part of the Hitoyoshi Main Line and then on 21 November 1909, part of the Kagoshima Main Line. With the privatization of Japanese National Railways (JNR), the successor of JGR, on 1 April 1987, JR Kyushu took over control of the station.\n\nPassenger statistics\nIn fiscal 2016, the station was used by 2,962 passengers daily, and it ranked 62nd among the busiest stations of JR Kyushu.\n\nReferences\n\nExternal links\nEdamitsu Station (JR Kyushu)\n\nRailway stations in Fukuoka Prefecture\nRailway stations in Japan opened in 1908",
-          "字数": 805
+          "链接": "https://ja.wikipedia.org/wiki/%E6%9E%9D%E5%85%89%E9%A7%85",
+          "首段": "Edamitsu Station (枝光駅) is a railway station in 県北九州市八幡東区枝光二丁目, Japan.",
+          "章节": {},
+          "全文": "Edamitsu Station (枝光駅) is a railway station in 県北九州市八幡東区枝光二丁目, Japan.",
+          "字数": 69
         }
       },
       "结构化信息": {
@@ -2020,7 +2006,14 @@
           "字数": 762,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "柚須駅",
+          "链接": "https://ja.wikipedia.org/wiki/%E6%9F%9A%E9%A0%88%E9%A7%85",
+          "首段": "柚須駅 (柚須駅) is a railway station in 県糟屋郡粕屋町大字柚須, Japan.",
+          "章节": {},
+          "全文": "柚須駅 (柚須駅) is a railway station in 県糟屋郡粕屋町大字柚須, Japan.",
+          "字数": 53
+        }
       },
       "结构化信息": {
         "读音": "ゆすえき",
@@ -2095,14 +2088,11 @@
         },
         "英文": {
           "词条标题": "Keisen Station",
-          "链接": "https://en.wikipedia.org/wiki/Keisen%20Station",
-          "首段": "is a railway station on the Chikuho Main Line and Sasaguri Line operated by JR Kyushu in Keisen, Kaho District, Fukuoka, Japan.",
-          "章节": {
-            "History": "The privately run Chikuho Kogyo Railway had opened a track from  to  on 30 August 1891 and, after several phases of extension, the track had reached south to  by 1893. On 1 October 1897, the Chikuho Kogyo Railway, now renamed the Chikuho Railway, merged with the Kyushu Railway. Kyushu Railway undertook the next phase of expansion by extending the track to Keisen, then named Nagao, and establishing it as the new southern terminus on 12 December 1901. After the Kyushu Railway was nationalized on 1 July 1907, Japanese Government Railways (JGR) took over control of the station. On 12 October 1909, the track to Iizuka was designated the Chikuho Main Line while the track from Iizuka to Nagao was designated the Nagao Line. On 15 July 1928, Nagao became a through-station when the track was further extended to . On 7 December 1929, both lines were merged and the station became part of the Chikuho Main Line. On 1 December 1940, the station was renamed Keizen. With the privatization of Japanese National Railways (JNR), the successor of JGR, on 1 April 1987, control of the station passed to JR Kyushu.\n\nStation numbering was introduced on 28 September 2018 with Keisen being assigned station number JC10 for the Fukuhoku Yutaka Line and JG04 for the Haruda Line.\n\nPassenger statistics\nIn fiscal 2016, the station was used by an average of 1,881 passengers daily (boarding passengers only), and it ranked 97th among the busiest stations of JR Kyushu.\n\nSee also\nThe following stations have the same name in Kanji but have different readings and hence are written differently in Hiragana and when transliterated:\nKatsuragawa Station (Hokkaidō)\nKatsuragawa Station (Kyoto)",
-            "References": "External links\nStation information (JR Kyūshū)\n\nRailway stations in Fukuoka Prefecture\nRailway stations in Japan opened in 1901"
-          },
-          "全文": "is a railway station on the Chikuho Main Line and Sasaguri Line operated by JR Kyushu in Keisen, Kaho District, Fukuoka, Japan.\n\nHistory \nThe privately run Chikuho Kogyo Railway had opened a track from  to  on 30 August 1891 and, after several phases of extension, the track had reached south to  by 1893. On 1 October 1897, the Chikuho Kogyo Railway, now renamed the Chikuho Railway, merged with the Kyushu Railway. Kyushu Railway undertook the next phase of expansion by extending the track to Keisen, then named Nagao, and establishing it as the new southern terminus on 12 December 1901. After the Kyushu Railway was nationalized on 1 July 1907, Japanese Government Railways (JGR) took over control of the station. On 12 October 1909, the track to Iizuka was designated the Chikuho Main Line while the track from Iizuka to Nagao was designated the Nagao Line. On 15 July 1928, Nagao became a through-station when the track was further extended to . On 7 December 1929, both lines were merged and the station became part of the Chikuho Main Line. On 1 December 1940, the station was renamed Keizen. With the privatization of Japanese National Railways (JNR), the successor of JGR, on 1 April 1987, control of the station passed to JR Kyushu.\n\nStation numbering was introduced on 28 September 2018 with Keisen being assigned station number JC10 for the Fukuhoku Yutaka Line and JG04 for the Haruda Line.\n\nPassenger statistics\nIn fiscal 2016, the station was used by an average of 1,881 passengers daily (boarding passengers only), and it ranked 97th among the busiest stations of JR Kyushu.\n\nSee also\nThe following stations have the same name in Kanji but have different readings and hence are written differently in Hiragana and when transliterated:\nKatsuragawa Station (Hokkaidō)\nKatsuragawa Station (Kyoto)\n\nReferences\n\nExternal links\nStation information (JR Kyūshū)\n\nRailway stations in Fukuoka Prefecture\nRailway stations in Japan opened in 1901",
-          "字数": 1952
+          "链接": "https://ja.wikipedia.org/wiki/%E6%A1%82%E5%B7%9D%E9%A7%85%20%28%E7%A6%8F%E5%B2%A1%E7%9C%8C%29",
+          "首段": "Keisen Station (桂川駅 (福岡県)) is a railway station in 県嘉穂郡桂川町大字豆田, Japan.",
+          "章节": {},
+          "全文": "Keisen Station (桂川駅 (福岡県)) is a railway station in 県嘉穂郡桂川町大字豆田, Japan.",
+          "字数": 70
         }
       },
       "结构化信息": {
@@ -2179,15 +2169,11 @@
         },
         "英文": {
           "词条标题": "Urata Station",
-          "链接": "https://en.wikipedia.org/wiki/Urata%20Station",
-          "首段": "is a railway station on the Chikuhō Main Line operated by JR Kyushu in Iizuka, Fukuoka Prefecture, Japan.",
-          "章节": {
-            "Lines": "The station is served by the Chikuhō Main Line and is located 36.2 km from the starting point of the line at .\n\nStation layout \nThe station, which is unstaffed, consists of two side platforms serving two tracks. A station building in a traditional log house design houses a waiting room and automatic ticket vending machines. Access to the opposite platform from the station building is by means of a level crossing which has steps at both ends. On the other side of the tracks from the station building is a separate entrance to the station. This is a flight of steps up a hill slope from the main road and leads directly to platform 2.\n\nAdjacent stations",
-            "History": "The station was opened by JR Kyushu on 11 March 1989 as an additional station on the existing Chikuhō Main Line track.\n\nPassenger statistics\nIn fiscal 2016, the daily average number of passengers using the station (boarding passengers only) was above 100 and below 323. The station did not rank among the top 300 busiest stations of JR Kyushu.",
-            "References": "External links\nUrata Station (JR Kyushu)\n\nRailway stations in Fukuoka Prefecture\nRailway stations in Japan opened in 1989"
-          },
-          "全文": "is a railway station on the Chikuhō Main Line operated by JR Kyushu in Iizuka, Fukuoka Prefecture, Japan.\n\nLines\nThe station is served by the Chikuhō Main Line and is located 36.2 km from the starting point of the line at .\n\nStation layout \nThe station, which is unstaffed, consists of two side platforms serving two tracks. A station building in a traditional log house design houses a waiting room and automatic ticket vending machines. Access to the opposite platform from the station building is by means of a level crossing which has steps at both ends. On the other side of the tracks from the station building is a separate entrance to the station. This is a flight of steps up a hill slope from the main road and leads directly to platform 2.\n\nAdjacent stations\n\nHistory \nThe station was opened by JR Kyushu on 11 March 1989 as an additional station on the existing Chikuhō Main Line track.\n\nPassenger statistics\nIn fiscal 2016, the daily average number of passengers using the station (boarding passengers only) was above 100 and below 323. The station did not rank among the top 300 busiest stations of JR Kyushu.\n\nReferences\n\nExternal links\nUrata Station (JR Kyushu)\n\nRailway stations in Fukuoka Prefecture\nRailway stations in Japan opened in 1989",
-          "字数": 1258
+          "链接": "https://ja.wikipedia.org/wiki/%E6%B5%A6%E7%94%B0%E9%A7%85%20%28%E7%A6%8F%E5%B2%A1%E7%9C%8C%29",
+          "首段": "Urata Station (浦田駅 (福岡県)) is a railway station in 県飯塚市鯰田, Japan.",
+          "章节": {},
+          "全文": "Urata Station (浦田駅 (福岡県)) is a railway station in 県飯塚市鯰田, Japan.",
+          "字数": 64
         }
       },
       "结构化信息": {
@@ -2276,15 +2262,11 @@
         },
         "英文": {
           "词条标题": "Nōgata Station",
-          "链接": "https://en.wikipedia.org/wiki/N%C5%8Dgata%20Station",
-          "首段": "is a railway station on the Chikuhō Main Line operated by JR Kyushu in Nōgata, Fukuoka Prefecture, Japan. The station also hosts the northern terminus of the Heisei Chikuho Railway Ita Line.",
-          "章节": {
-            "Lines": "The station is served by the Chikuhō Main Line and is located 24.8 km from the starting point of the line at . In addition, the station is the northern terminus and starting point of the Heisei Chikuho Railway Ita line.\n\nStation layout\nThe JR part of the station consists of two island platforms serving four tracks. Passing loops run between the platform tracks. In addition, numerous sidings branch off the main tracks. To the west of the station, there are more sidings that belong to the JR Kyushu Nōgata train depot. The Heisei Chikuho Railway part of the station comprises two bay platforms serving two tracks.\n\nAdjacent stations\n\n|-\n|colspan=5 style=\"text-align:center;\" |JR Kyūshū\n\n|-\n|colspan=5 style=\"text-align:center;\" |Heisei Chikuhō Railway",
-            "History": "The station was opened on 30 August 1891 by the privately run Chikuho Kogyo Railway as the southern terminus of a stretch of track which it had laid from . It became a through-station on 28 October 1892 when the track was further extended south to . On 11 February 1893, a new stretch of track was laid from the station to Kanada. On 1 October 1897, the Chikuho Kogyo Railway, now renamed the Chikuho Railway, merged with the Kyushu Railway. After the Kyushu Railway was nationalized on 1 July 1907, Japanese Government Railways (JGR) took over control of the station. On 12 October 1909, the track from Wakamatsu became the Chikuho Main Line while the track to Kanada became the Ita Line. With the privatization of Japanese National Railways (JNR), the successor of JGR, on 1 April 1987, control of the station passed to JR Kyushu. On 1 October 1989, Heisei Chikuho Railway assumed control of the Ita Line.\n\nPassenger statistics\nIn fiscal 2016, the station was used by an average of 3,322 passengers daily (boarding passengers only), and it ranked 57th among the busiest stations of JR Kyushu.",
-            "References": "External links\n\nNōgata Station (JR Kyushu)\n\nRailway stations in Japan opened in 1891\nRailway stations in Fukuoka Prefecture\nNōgata, Fukuoka"
-          },
-          "全文": "is a railway station on the Chikuhō Main Line operated by JR Kyushu in Nōgata, Fukuoka Prefecture, Japan. The station also hosts the northern terminus of the Heisei Chikuho Railway Ita Line.\n\nLines\nThe station is served by the Chikuhō Main Line and is located 24.8 km from the starting point of the line at . In addition, the station is the northern terminus and starting point of the Heisei Chikuho Railway Ita line.\n\nStation layout\nThe JR part of the station consists of two island platforms serving four tracks. Passing loops run between the platform tracks. In addition, numerous sidings branch off the main tracks. To the west of the station, there are more sidings that belong to the JR Kyushu Nōgata train depot. The Heisei Chikuho Railway part of the station comprises two bay platforms serving two tracks.\n\nAdjacent stations\n\n|-\n|colspan=5 style=\"text-align:center;\" |JR Kyūshū\n\n|-\n|colspan=5 style=\"text-align:center;\" |Heisei Chikuhō Railway\n\nHistory\nThe station was opened on 30 August 1891 by the privately run Chikuho Kogyo Railway as the southern terminus of a stretch of track which it had laid from . It became a through-station on 28 October 1892 when the track was further extended south to . On 11 February 1893, a new stretch of track was laid from the station to Kanada. On 1 October 1897, the Chikuho Kogyo Railway, now renamed the Chikuho Railway, merged with the Kyushu Railway. After the Kyushu Railway was nationalized on 1 July 1907, Japanese Government Railways (JGR) took over control of the station. On 12 October 1909, the track from Wakamatsu became the Chikuho Main Line while the track to Kanada became the Ita Line. With the privatization of Japanese National Railways (JNR), the successor of JGR, on 1 April 1987, control of the station passed to JR Kyushu. On 1 October 1989, Heisei Chikuho Railway assumed control of the Ita Line.\n\nPassenger statistics\nIn fiscal 2016, the station was used by an average of 3,322 passengers daily (boarding passengers only), and it ranked 57th among the busiest stations of JR Kyushu.\n\nReferences\n\nExternal links\n\nNōgata Station (JR Kyushu)\n\nRailway stations in Japan opened in 1891\nRailway stations in Fukuoka Prefecture\nNōgata, Fukuoka",
-          "字数": 2209
+          "链接": "https://ja.wikipedia.org/wiki/%E7%9B%B4%E6%96%B9%E9%A7%85",
+          "首段": "Nōgata Station (直方駅) is a railway station in 県直方市大字山部, Japan.",
+          "章节": {},
+          "全文": "Nōgata Station (直方駅) is a railway station in 県直方市大字山部, Japan.",
+          "字数": 61
         }
       },
       "结构化信息": {
@@ -2377,7 +2359,14 @@
           "字数": 974,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "筑前垣生駅",
+          "链接": "https://ja.wikipedia.org/wiki/%E7%AD%91%E5%89%8D%E5%9E%A3%E7%94%9F%E9%A7%85",
+          "首段": "筑前垣生駅 (筑前垣生駅) is a railway station in 県中間市大字垣生, Japan.",
+          "章节": {},
+          "全文": "筑前垣生駅 (筑前垣生駅) is a railway station in 県中間市大字垣生, Japan.",
+          "字数": 54
+        }
       },
       "结构化信息": {
         "读音": "ちくぜんはぶえき",
@@ -2459,7 +2448,14 @@
           "字数": 799,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "筑前大分駅",
+          "链接": "https://ja.wikipedia.org/wiki/%E7%AD%91%E5%89%8D%E5%A4%A7%E5%88%86%E9%A7%85",
+          "首段": "筑前大分駅 (筑前大分駅) is a railway station in 県飯塚市大分（だいぶ）, Japan.",
+          "章节": {},
+          "全文": "筑前大分駅 (筑前大分駅) is a railway station in 県飯塚市大分（だいぶ）, Japan.",
+          "字数": 57
+        }
       },
       "结构化信息": {
         "读音": "ちくぜんだいぶえき",
@@ -2543,7 +2539,14 @@
           "字数": 1040,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "筑前山手駅",
+          "链接": "https://ja.wikipedia.org/wiki/%E7%AD%91%E5%89%8D%E5%B1%B1%E6%89%8B%E9%A7%85",
+          "首段": "筑前山手駅 (筑前山手駅) is a railway station in 県糟屋郡篠栗町大字篠栗, Japan.",
+          "章节": {},
+          "全文": "筑前山手駅 (筑前山手駅) is a railway station in 県糟屋郡篠栗町大字篠栗, Japan.",
+          "字数": 57
+        }
       },
       "结构化信息": {
         "读音": "ちくぜんやまてえき",
@@ -2617,7 +2620,14 @@
           "字数": 759,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "筑前植木駅",
+          "链接": "https://ja.wikipedia.org/wiki/%E7%AD%91%E5%89%8D%E6%A4%8D%E6%9C%A8%E9%A7%85",
+          "首段": "筑前植木駅 (筑前植木駅) is a railway station in 県直方市大字植木, Japan.",
+          "章节": {},
+          "全文": "筑前植木駅 (筑前植木駅) is a railway station in 県直方市大字植木, Japan.",
+          "字数": 54
+        }
       },
       "结构化信息": {
         "读音": "ちくぜんうえきえき",
@@ -2708,17 +2718,11 @@
         },
         "英文": {
           "词条标题": "Sasaguri Station",
-          "链接": "https://en.wikipedia.org/wiki/Sasaguri%20Station",
-          "首段": "is a train station in Sasaguri, Fukuoka Prefecture, Japan. It is operated by Kyushu Railway Company (JR Kyushu).",
-          "章节": {
-            "Lines": "JR Kyushu\nSasaguri Line (Fukuhoku Yutaka Line)",
-            "Layout": "It is a ground level station with two platforms and three tracks.",
-            "Tracks": "Adjacent stations \n\n|-\n|colspan=5 style=\"text-align:center;\" |JR Kyūshū",
-            "History": "June 19, 1904: Opened by the private company Kyushu Tetsudo.\n July 1, 1907: Brought under state control.\n May 25, 1968: Sasaguri Line completion.\n April 1, 1987: Following privatisation of JNR it came under the control of JR Kyushu.\n October 6, 2001: Whole of Sasaguri Line electrification.\n\nThe station was opened on 19 June 1904 by the privately run Kyushu Railway as the eastern terminus of a stretch of track from . When the Kyushu Railway was nationalized on 1 July 1907, Japanese Government Railways (JGR) took over control of the station. On 12 October 1909, the station became part of the Sasaguri Line. On 25 May 1968, Sasaguri became a through-station when the Sasaguri Line was extended further eat to . With the privatization of Japanese National Railways (JNR), the successor of JGR, on 1 April 1987, JR Kyushu took over control of the station.\n\nPassenger statistics\nIn fiscal 2016, the station was used by an average of 4,786 passengers daily (boarding passengers only), and it ranked 43rd among the busiest stations of JR Kyushu.\n\nExternal links\n Sasaguri Station (JR Kyushu)",
-            "References": "Railway stations in Japan opened in 1904\nRailway stations in Fukuoka Prefecture\nStations of Kyushu Railway Company"
-          },
-          "全文": "is a train station in Sasaguri, Fukuoka Prefecture, Japan. It is operated by Kyushu Railway Company (JR Kyushu).\n\nLines\nJR Kyushu\nSasaguri Line (Fukuhoku Yutaka Line)\n\nLayout\nIt is a ground level station with two platforms and three tracks.\n\nTracks\n\nAdjacent stations \n\n|-\n|colspan=5 style=\"text-align:center;\" |JR Kyūshū\n\nHistory\n June 19, 1904: Opened by the private company Kyushu Tetsudo.\n July 1, 1907: Brought under state control.\n May 25, 1968: Sasaguri Line completion.\n April 1, 1987: Following privatisation of JNR it came under the control of JR Kyushu.\n October 6, 2001: Whole of Sasaguri Line electrification.\n\nHistory\nThe station was opened on 19 June 1904 by the privately run Kyushu Railway as the eastern terminus of a stretch of track from . When the Kyushu Railway was nationalized on 1 July 1907, Japanese Government Railways (JGR) took over control of the station. On 12 October 1909, the station became part of the Sasaguri Line. On 25 May 1968, Sasaguri became a through-station when the Sasaguri Line was extended further eat to . With the privatization of Japanese National Railways (JNR), the successor of JGR, on 1 April 1987, JR Kyushu took over control of the station.\n\nPassenger statistics\nIn fiscal 2016, the station was used by an average of 4,786 passengers daily (boarding passengers only), and it ranked 43rd among the busiest stations of JR Kyushu.\n\nExternal links\n Sasaguri Station (JR Kyushu)\n\nReferences\n\nRailway stations in Japan opened in 1904\nRailway stations in Fukuoka Prefecture\nStations of Kyushu Railway Company",
-          "字数": 1558
+          "链接": "https://ja.wikipedia.org/wiki/%E7%AF%A0%E6%A0%97%E9%A7%85",
+          "首段": "Sasaguri Station (篠栗駅) is a railway station in 県糟屋郡篠栗町中央一丁目, Japan.",
+          "章节": {},
+          "全文": "Sasaguri Station (篠栗駅) is a railway station in 県糟屋郡篠栗町中央一丁目, Japan.",
+          "字数": 67
         }
       },
       "结构化信息": {
@@ -2817,7 +2821,14 @@
           "字数": 2067,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "西小倉駅",
+          "链接": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E5%B0%8F%E5%80%89%E9%A7%85",
+          "首段": "西小倉駅 (西小倉駅) is a railway station in 県北九州市小倉北区室町三丁目, Japan.",
+          "章节": {},
+          "全文": "西小倉駅 (西小倉駅) is a railway station in 県北九州市小倉北区室町三丁目, Japan.",
+          "字数": 58
+        }
       },
       "结构化信息": {
         "读音": "にしこくらえき",
@@ -2918,7 +2929,14 @@
           "字数": 1488,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "長者原駅",
+          "链接": "https://ja.wikipedia.org/wiki/%E9%95%B7%E8%80%85%E5%8E%9F%E9%A7%85",
+          "首段": "長者原駅 (長者原駅) is a railway station in 県糟屋郡粕屋町長者原東一丁目, Japan.",
+          "章节": {},
+          "全文": "長者原駅 (長者原駅) is a railway station in 県糟屋郡粕屋町長者原東一丁目, Japan.",
+          "字数": 58
+        }
       },
       "结构化信息": {
         "读音": "ちょうじゃばるえき",
@@ -2998,15 +3016,11 @@
         },
         "英文": {
           "词条标题": "Kadomatsu Station",
-          "链接": "https://en.wikipedia.org/wiki/Kadomatsu%20Station",
-          "首段": "is a train station on the Sasaguri Line operated by JR Kyushu in Kasuya, Kasuya District, Fukuoka Prefecture, Japan.",
-          "章节": {
-            "Lines": "The station is served by the Sasaguri Line and is located 7.7 km from the starting point of the line at . The station is sometimes depicted on maps and timetables as part of the Fukuhoku Yutaka Line, of which the Sasaguri Line is a component.\n\nStation layout \nThe station consists of two side platforms serving two tracks. The station building houses a waiting area and s staffed ticket window. Access to the opposite side platform is by means of a covered footbridge. A bike shed is provided outside the station.\n\nManagement of the station has been outsourced to the JR Kyushu Tetsudou Eigyou Co., a wholly owned subsidiary of JR Kyushu specialising in station services. It staffs the ticket window which is equipped with a POS machine but without a Midori no Madoguchi facility.\n\nAdjacent stations",
-            "History": "The station was opened by Japanese National Railways (JNR) on 9 March 1987 as an additional temporary stop on the existing Sasaguri Line track. With the privatization of JNR on 1 April 1987, JR Kyushu took over control of the station and upgraded it to a full station.\n\nPassenger statistics\nIn fiscal 2016, the station was used by an average of 1,374 passengers daily (boarding passengers only), and it ranked 128th among the busiest stations of JR Kyushu.",
-            "References": "External links\nKadomatsu (JR Kyushu)\n\nRailway stations in Fukuoka Prefecture\nRailway stations in Japan opened in 1987"
-          },
-          "全文": "is a train station on the Sasaguri Line operated by JR Kyushu in Kasuya, Kasuya District, Fukuoka Prefecture, Japan.\n\nLines\nThe station is served by the Sasaguri Line and is located 7.7 km from the starting point of the line at . The station is sometimes depicted on maps and timetables as part of the Fukuhoku Yutaka Line, of which the Sasaguri Line is a component.\n\nStation layout \nThe station consists of two side platforms serving two tracks. The station building houses a waiting area and s staffed ticket window. Access to the opposite side platform is by means of a covered footbridge. A bike shed is provided outside the station.\n\nManagement of the station has been outsourced to the JR Kyushu Tetsudou Eigyou Co., a wholly owned subsidiary of JR Kyushu specialising in station services. It staffs the ticket window which is equipped with a POS machine but without a Midori no Madoguchi facility.\n\nAdjacent stations\n\nHistory\nThe station was opened by Japanese National Railways (JNR) on 9 March 1987 as an additional temporary stop on the existing Sasaguri Line track. With the privatization of JNR on 1 April 1987, JR Kyushu took over control of the station and upgraded it to a full station.\n\nPassenger statistics\nIn fiscal 2016, the station was used by an average of 1,374 passengers daily (boarding passengers only), and it ranked 128th among the busiest stations of JR Kyushu.\n\nReferences\n\nExternal links\nKadomatsu (JR Kyushu)\n\nRailway stations in Fukuoka Prefecture\nRailway stations in Japan opened in 1987",
-          "字数": 1520
+          "链接": "https://ja.wikipedia.org/wiki/%E9%96%80%E6%9D%BE%E9%A7%85",
+          "首段": "Kadomatsu Station (門松駅) is a railway station in 県糟屋郡粕屋町大字大隈, Japan.",
+          "章节": {},
+          "全文": "Kadomatsu Station (門松駅) is a railway station in 県糟屋郡粕屋町大字大隈, Japan.",
+          "字数": 67
         }
       },
       "结构化信息": {
@@ -3088,15 +3102,11 @@
         },
         "英文": {
           "词条标题": "Jinnoharu Station",
-          "链接": "https://en.wikipedia.org/wiki/Jinnoharu%20Station",
-          "首段": "is a railway station on the Kagoshima Main Line operated by JR Kyushu in Yahatanishi-ku, Kitakyushu, Japan.",
-          "章节": {
-            "Layout": "The station has one side platform and two island platforms, serving a total of five tracks. The station has a \"Midori no Madoguchi\" staffed ticket office.",
-            "History": "The station was opened by JR Kyushu on 21 November 2000 as an additional station on the existing Kagoshima Main Line track.\n\nPassenger statistics\nIn fiscal 2016, the station was used by 2,292 passengers daily (boarding passengers only), and it ranked 82nd among the busiest stations of JR Kyushu.\n\nSee also\n List of railway stations in Japan",
-            "References": "External links \n\n  \n\nStations of Kyushu Railway Company\nRailway stations in Fukuoka Prefecture\nRailway stations in Japan opened in 2000"
-          },
-          "全文": "is a railway station on the Kagoshima Main Line operated by JR Kyushu in Yahatanishi-ku, Kitakyushu, Japan.\n\nLayout\nThe station has one side platform and two island platforms, serving a total of five tracks. The station has a \"Midori no Madoguchi\" staffed ticket office.\n\nHistory\nThe station was opened by JR Kyushu on 21 November 2000 as an additional station on the existing Kagoshima Main Line track.\n\nPassenger statistics\nIn fiscal 2016, the station was used by 2,292 passengers daily (boarding passengers only), and it ranked 82nd among the busiest stations of JR Kyushu.\n\nSee also\n List of railway stations in Japan\n\nReferences\n\nExternal links \n\n  \n\nStations of Kyushu Railway Company\nRailway stations in Fukuoka Prefecture\nRailway stations in Japan opened in 2000",
-          "字数": 770
+          "链接": "https://ja.wikipedia.org/wiki/%E9%99%A3%E5%8E%9F%E9%A7%85",
+          "首段": "Jinnoharu Station (陣原駅) is a railway station in 県北九州市八幡西区陣原一丁目, Japan.",
+          "章节": {},
+          "全文": "Jinnoharu Station (陣原駅) is a railway station in 県北九州市八幡西区陣原一丁目, Japan.",
+          "字数": 70
         }
       },
       "结构化信息": {
@@ -3188,15 +3198,11 @@
         },
         "英文": {
           "词条标题": "Kurate Station",
-          "链接": "https://en.wikipedia.org/wiki/Kurate%20Station",
-          "首段": "is a railway station on the Chikuho Main Line operated by JR Kyushu in Kurate, Kurate District, Fukuoka Prefecture, Japan.",
-          "章节": {
-            "Lines": "The station is served by the Chikuhō Main Line and is located 18.7 km from the starting point of the line at .\n\nStation layout \nThe station consists of two side platforms serving two tracks. The platforms are not opposed. The tracks run on the east side of each platform. A station building of modern concrete design houses a waiting room and automatic ticket vending machines. Access to the opposite side platform is by means of a sheltered footbridge.\n\nAdjacent stations",
-            "History": "The station was opened by JR Kyushu on 1 July 1987 as an additional station on the existing Chikuhō Main Line track.\n\nOn 4 March 2017, Kurate, along with several other stations on the line, became a remotely managed \"Smart Support Station\". Under this scheme, although the station is unstaffed, passengers using the automatic ticket vending machines or ticket gates can receive assistance via intercom from staff at a central support centre which is located at .\n\nPassenger statistics\nIn fiscal 2016, the station was used by an average of 740 passengers daily (boarding passengers only), and it ranked 197th among the busiest stations of JR Kyushu.",
-            "References": "External links\nKurate Station (JR Kyushu)\n\nRailway stations in Fukuoka Prefecture\nRailway stations in Japan opened in 1987"
-          },
-          "全文": "is a railway station on the Chikuho Main Line operated by JR Kyushu in Kurate, Kurate District, Fukuoka Prefecture, Japan.\n\nLines\nThe station is served by the Chikuhō Main Line and is located 18.7 km from the starting point of the line at .\n\nStation layout \nThe station consists of two side platforms serving two tracks. The platforms are not opposed. The tracks run on the east side of each platform. A station building of modern concrete design houses a waiting room and automatic ticket vending machines. Access to the opposite side platform is by means of a sheltered footbridge.\n\nAdjacent stations\n\nHistory \nThe station was opened by JR Kyushu on 1 July 1987 as an additional station on the existing Chikuhō Main Line track.\n\nOn 4 March 2017, Kurate, along with several other stations on the line, became a remotely managed \"Smart Support Station\". Under this scheme, although the station is unstaffed, passengers using the automatic ticket vending machines or ticket gates can receive assistance via intercom from staff at a central support centre which is located at .\n\nPassenger statistics\nIn fiscal 2016, the station was used by an average of 740 passengers daily (boarding passengers only), and it ranked 197th among the busiest stations of JR Kyushu.\n\nReferences\n\nExternal links\nKurate Station (JR Kyushu)\n\nRailway stations in Fukuoka Prefecture\nRailway stations in Japan opened in 1987",
-          "字数": 1397
+          "链接": "https://ja.wikipedia.org/wiki/%E9%9E%8D%E6%89%8B%E9%A7%85",
+          "首段": "Kurate Station (鞍手駅) is a railway station in 県鞍手郡鞍手町大字小牧, Japan.",
+          "章节": {},
+          "全文": "Kurate Station (鞍手駅) is a railway station in 県鞍手郡鞍手町大字小牧, Japan.",
+          "字数": 64
         }
       },
       "结构化信息": {
@@ -3278,14 +3284,11 @@
         },
         "英文": {
           "词条标题": "Iizuka Station",
-          "链接": "https://en.wikipedia.org/wiki/Iizuka%20Station",
-          "首段": "is a railway station on the Chikuhō Main Line operated by JR Kyushu in Iizuka, Fukuoka, Japan.",
-          "章节": {
-            "History": "The privately run Chikuho Kogyo Railway had opened a track from  to  on 30 August 1891 and by 28 October 1892, this had been extended southwards to . In the next phase of expansion, the track was further extended, with Iizuka being opened as the new southern terminus on 3 July 1893. On 1 October 1897, the Chikuho Kogyo Railway, now renamed the Chikuho Railway, merged with the Kyushu Railway. Iizuka became a through-station on 1 December 1901 when the Kyushu Railway extended the track to Nagao (now . After the Kyushu Railway was nationalized on 1 July 1907, Japanese Government Railways (JGR) took over control of the station. On 12 October 1909, the station became part of the Chikuho Main Line. With the privatization of Japanese National Railways (JNR), the successor of JGR, on 1 April 1987, control of the station passed to JR Kyushu.\n\nPassenger statistics\nIn fiscal 2016, the station was used by an average of 1,134 passengers daily (boarding passengers only), and it ranked 151st among the busiest stations of JR Kyushu.",
-            "References": "External links\n \n\nRailway stations in Japan opened in 1893\nRailway stations in Fukuoka Prefecture\nIizuka, Fukuoka"
-          },
-          "全文": "is a railway station on the Chikuhō Main Line operated by JR Kyushu in Iizuka, Fukuoka, Japan.\n\nHistory\nThe privately run Chikuho Kogyo Railway had opened a track from  to  on 30 August 1891 and by 28 October 1892, this had been extended southwards to . In the next phase of expansion, the track was further extended, with Iizuka being opened as the new southern terminus on 3 July 1893. On 1 October 1897, the Chikuho Kogyo Railway, now renamed the Chikuho Railway, merged with the Kyushu Railway. Iizuka became a through-station on 1 December 1901 when the Kyushu Railway extended the track to Nagao (now . After the Kyushu Railway was nationalized on 1 July 1907, Japanese Government Railways (JGR) took over control of the station. On 12 October 1909, the station became part of the Chikuho Main Line. With the privatization of Japanese National Railways (JNR), the successor of JGR, on 1 April 1987, control of the station passed to JR Kyushu.\n\nPassenger statistics\nIn fiscal 2016, the station was used by an average of 1,134 passengers daily (boarding passengers only), and it ranked 151st among the busiest stations of JR Kyushu.\n\nReferences\n\nExternal links\n \n\nRailway stations in Japan opened in 1893\nRailway stations in Fukuoka Prefecture\nIizuka, Fukuoka",
-          "字数": 1263
+          "链接": "https://ja.wikipedia.org/wiki/%E9%A3%AF%E5%A1%9A%E9%A7%85",
+          "首段": "Iizuka Station (飯塚駅) is a railway station in 県飯塚市菰田西一丁目, Japan.",
+          "章节": {},
+          "全文": "Iizuka Station (飯塚駅) is a railway station in 県飯塚市菰田西一丁目, Japan.",
+          "字数": 63
         }
       },
       "结构化信息": {
@@ -3370,15 +3373,11 @@
         },
         "英文": {
           "词条标题": "Namazuta Station",
-          "链接": "https://en.wikipedia.org/wiki/Namazuta%20Station",
-          "首段": "is a railway station on the Chikuhō Main Line operated by JR Kyushu in Iizuka, Fukuoka Prefecture, Japan.",
-          "章节": {
-            "Lines": "The station is served by the Chikuhō Main Line and is located 34.7 km from the starting point of the line at .\n\nStation layout \nThe station, which is unstaffed, consists of two staggered side platforms serving two tracks. A station building of modern concrete design houses a waiting room and an automatic ticket vending machine. There is a ramp up to the station building entrance from the access road but access to the opposite side platform is by means of a sheltered footbridge. A bike shed and parking lots for cars are provided outside the station.\n\nAdjacent stations",
-            "History": "The privately run Chikuho Kogyo Railway had opened a track from  to  on 30 August 1891 and by 28 October 1892, this had been extended southwards to . In the next phase of expansion, the track was further extended, with Iizuka becoming new southern terminus on 3 July 1893. On the same day, Namazuta was opened as an intermediate station on this new stretch of track. On 1 October 1897, the Chikuho Kogyo Railway, now renamed the Chikuho Railway, merged with the Kyushu Railway. After the Kyushu Railway was nationalized on 1 July 1907, Japanese Government Railways (JGR) took over control of the station. On 12 October 1909, the station became part of the Chikuho Main Line. With the privatization of Japanese National Railways (JNR), the successor of JGR, on 1 April 1987, control of the station passed to JR Kyushu.\n\nPassenger statistics\nIn fiscal 2016, the station was used by an average of 389 passengers daily (boarding passengers only), and it ranked 274th among the busiest stations of JR Kyushu.",
-            "References": "External links\nNamazuta Station (JR Kyushu)\n\nRailway stations in Fukuoka Prefecture\nRailway stations in Japan opened in 1893"
-          },
-          "全文": "is a railway station on the Chikuhō Main Line operated by JR Kyushu in Iizuka, Fukuoka Prefecture, Japan.\n\nLines\nThe station is served by the Chikuhō Main Line and is located 34.7 km from the starting point of the line at .\n\nStation layout \nThe station, which is unstaffed, consists of two staggered side platforms serving two tracks. A station building of modern concrete design houses a waiting room and an automatic ticket vending machine. There is a ramp up to the station building entrance from the access road but access to the opposite side platform is by means of a sheltered footbridge. A bike shed and parking lots for cars are provided outside the station.\n\nAdjacent stations\n\nHistory \nThe privately run Chikuho Kogyo Railway had opened a track from  to  on 30 August 1891 and by 28 October 1892, this had been extended southwards to . In the next phase of expansion, the track was further extended, with Iizuka becoming new southern terminus on 3 July 1893. On the same day, Namazuta was opened as an intermediate station on this new stretch of track. On 1 October 1897, the Chikuho Kogyo Railway, now renamed the Chikuho Railway, merged with the Kyushu Railway. After the Kyushu Railway was nationalized on 1 July 1907, Japanese Government Railways (JGR) took over control of the station. On 12 October 1909, the station became part of the Chikuho Main Line. With the privatization of Japanese National Railways (JNR), the successor of JGR, on 1 April 1987, control of the station passed to JR Kyushu.\n\nPassenger statistics\nIn fiscal 2016, the station was used by an average of 389 passengers daily (boarding passengers only), and it ranked 274th among the busiest stations of JR Kyushu.\n\nReferences\n\nExternal links\nNamazuta Station (JR Kyushu)\n\nRailway stations in Fukuoka Prefecture\nRailway stations in Japan opened in 1893",
-          "字数": 1838
+          "链接": "https://ja.wikipedia.org/wiki/%E9%AF%B0%E7%94%B0%E9%A7%85",
+          "首段": "Namazuta Station (鯰田駅) is a railway station in 県飯塚市鯰田, Japan.",
+          "章节": {},
+          "全文": "Namazuta Station (鯰田駅) is a railway station in 県飯塚市鯰田, Japan.",
+          "字数": 61
         }
       },
       "结构化信息": {
@@ -3481,14 +3480,11 @@
         },
         "英文": {
           "词条标题": "Kurosaki Station",
-          "链接": "https://en.wikipedia.org/wiki/Kurosaki%20Station",
-          "首段": "Kurosaki Station (黒崎駅) is a railway station in Yahatanishi-ku, Kitakyushu serving Kagoshima Main Line, Fukuhoku Yutaka Line and Chikuhō Electric Railroad Line. It was first opened in 1891. Express trains, including the Sonic, stop here.",
-          "章节": {
-            "Lines": "JR Kyūshū\nKagoshima Main Line\nFukuhoku Yutaka Line\nChikuhō Electric Railroad\nChikuhō Electric Railroad Line\n\nJR limited express trains\n Sonic (Hakata - Yanagigaura/Ōita/Saiki)\n Nichirin Seagaia (Hakata - Miyazaki Kūkō)\n Kirameki (Mojikō/Kokura - Hakata)\n\nStation facilities\n\nJR Kyūshū",
-            "Overview": "JR Kurosaki Station is the station serving the Kagoshima Main Line and is the terminus of Fukuhoku Yutaka Line. The station consist of 2 islands serving four tracks and handles an average of 15,000 passengers a day. At the south exit of the station there is a pedway that also serves as a station square, connecting the Izutsuya department store on the east side with the commercial area on the south side.\n\nStation layout\n\nAdjacent stations \n\n|-\n|colspan=5 style=\"text-align:center;\" |Kyushu Railway Company\n\nChikuhō Electric Railroad\n\nKurosaki-Ekimae Station is the terminus of Chikuhō Electric Railroad Line opened on 15 July 1911. The station consist of 3 platforms serving two tracks and handles an average of 8,000 passengers a day.\n\nAdjacent station\n\nRailway stations in Fukuoka Prefecture\nBuildings and structures in Kitakyushu\nRailway stations in Japan opened in 1891\nRailway stations in Japan opened in 1911"
-          },
-          "全文": "Kurosaki Station (黒崎駅) is a railway station in Yahatanishi-ku, Kitakyushu serving Kagoshima Main Line, Fukuhoku Yutaka Line and Chikuhō Electric Railroad Line. It was first opened in 1891. Express trains, including the Sonic, stop here.\n\nLines \nJR Kyūshū\nKagoshima Main Line\nFukuhoku Yutaka Line\nChikuhō Electric Railroad\nChikuhō Electric Railroad Line\n\nJR limited express trains\n Sonic (Hakata - Yanagigaura/Ōita/Saiki)\n Nichirin Seagaia (Hakata - Miyazaki Kūkō)\n Kirameki (Mojikō/Kokura - Hakata)\n\nStation facilities\n\nJR Kyūshū\n\nOverview\nJR Kurosaki Station is the station serving the Kagoshima Main Line and is the terminus of Fukuhoku Yutaka Line. The station consist of 2 islands serving four tracks and handles an average of 15,000 passengers a day. At the south exit of the station there is a pedway that also serves as a station square, connecting the Izutsuya department store on the east side with the commercial area on the south side.\n\nStation layout\n\nAdjacent stations \n\n|-\n|colspan=5 style=\"text-align:center;\" |Kyushu Railway Company\n\nChikuhō Electric Railroad\n\nOverview\nKurosaki-Ekimae Station is the terminus of Chikuhō Electric Railroad Line opened on 15 July 1911. The station consist of 3 platforms serving two tracks and handles an average of 8,000 passengers a day.\n\nAdjacent station\n\nRailway stations in Fukuoka Prefecture\nBuildings and structures in Kitakyushu\nRailway stations in Japan opened in 1891\nRailway stations in Japan opened in 1911",
-          "字数": 1466
+          "链接": "https://ja.wikipedia.org/wiki/%E9%BB%92%E5%B4%8E%E9%A7%85",
+          "首段": "Kurosaki Station (黒崎駅) is a railway station in 県北九州市八幡西区黒崎三丁目, Japan.",
+          "章节": {},
+          "全文": "Kurosaki Station (黒崎駅) is a railway station in 県北九州市八幡西区黒崎三丁目, Japan.",
+          "字数": 69
         }
       },
       "结构化信息": {
@@ -3547,6 +3543,6 @@
     "有中文词条": 36,
     "已千问汉化": 3,
     "待汉化": 0,
-    "有英文词条": 24
+    "有英文词条": 36
   }
 }

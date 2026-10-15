@@ -84,7 +84,14 @@
         "字数": 6785,
         "来源": "维基百科中文版（已转简体）"
       },
-      "英文": null
+      "英文": {
+        "词条标题": "石北本线",
+        "链接": "https://ja.wikipedia.org/wiki/%E7%9F%B3%E5%8C%97%E6%9C%AC%E7%B7%9A",
+        "首段": "The 石北本线 is a railway line in Japan.",
+        "章节": {},
+        "全文": "The 石北本线 is a railway line in Japan.",
+        "字数": 36
+      }
     }
   },
   "车站": [
@@ -140,13 +147,11 @@
         },
         "英文": {
           "词条标题": "Maruseppu Station",
-          "链接": "https://en.wikipedia.org/wiki/Maruseppu%20Station",
-          "首段": "is a railway station in Engaru, Monbetsu, Hokkaidō Prefecture, Japan. Its station number is A48.",
-          "章节": {
-            "Lines": "Hokkaido Railway Company\nSekihoku Main Line\n\nAdjacent stations\n\nRailway stations in Hokkaido Prefecture\nRailway stations in Japan opened in 1927"
-          },
-          "全文": "is a railway station in Engaru, Monbetsu, Hokkaidō Prefecture, Japan. Its station number is A48.\n\nLines\nHokkaido Railway Company\nSekihoku Main Line\n\nAdjacent stations\n\nRailway stations in Hokkaido Prefecture\nRailway stations in Japan opened in 1927",
-          "字数": 248
+          "链接": "https://ja.wikipedia.org/wiki/%E4%B8%B8%E7%80%AC%E5%B8%83%E9%A7%85",
+          "首段": "Maruseppu Station (丸瀬布駅) is a railway station in 道紋別郡遠軽町丸瀬布水谷町（ま, Japan.",
+          "章节": {},
+          "全文": "Maruseppu Station (丸瀬布駅) is a railway station in 道紋別郡遠軽町丸瀬布水谷町（ま, Japan.",
+          "字数": 72
         }
       },
       "结构化信息": {
@@ -374,13 +379,11 @@
         },
         "英文": {
           "词条标题": "Genseikaen Station",
-          "链接": "https://en.wikipedia.org/wiki/Genseikaen%20Station",
-          "首段": "is a railway station on the Senmō Main Line in Koshimizu, Hokkaido, Japan, operated by the Hokkaido Railway Company (JR Hokkaido).",
-          "章节": {
-            "Lines": "Genseikaen Station is served by the Senmō Main Line, and is numbered B75.\n\nExternal links\n JR Hokkaido Genseikaen Station information \n\nStations of Hokkaido Railway Company\nRailway stations in Hokkaido Prefecture\nRailway stations in Japan opened in 1987"
-          },
-          "全文": "is a railway station on the Senmō Main Line in Koshimizu, Hokkaido, Japan, operated by the Hokkaido Railway Company (JR Hokkaido).\n\nLines\nGenseikaen Station is served by the Senmō Main Line, and is numbered B75.\n\nExternal links\n JR Hokkaido Genseikaen Station information \n\nStations of Hokkaido Railway Company\nRailway stations in Hokkaido Prefecture\nRailway stations in Japan opened in 1987",
-          "字数": 391
+          "链接": "https://ja.wikipedia.org/wiki/%E5%8E%9F%E7%94%9F%E8%8A%B1%E5%9C%92%E9%A7%85",
+          "首段": "Genseikaen Station (原生花園駅) is a railway station in 道斜里郡小清水町字浜小清水, Japan.",
+          "章节": {},
+          "全文": "Genseikaen Station (原生花園駅) is a railway station in 道斜里郡小清水町字浜小清水, Japan.",
+          "字数": 72
         }
       },
       "结构化信息": {
@@ -455,14 +458,11 @@
         },
         "英文": {
           "词条标题": "Yobito Station",
-          "链接": "https://en.wikipedia.org/wiki/Yobito%20Station",
-          "首段": "is a railway station on the JR Hokkaido Sekihoku Main Line in Yobito, a suburb of Abashiri in Hokkaidō. The station name and suburb name come from the Ainu language.\n\nStation structure\nThe station has two platforms facing each other, with two railway lines.\n\nStation surroundings\nThe village of Yobito has a large geographical spread.\nNational Highway 39",
-          "章节": {
-            "Abashiri-koso": "Kanpo Abashiri Inn\nAbashiri Grand Hotel\nTokyo University of Agriculture Okhotsk Campus",
-            "History": "October 5, 1923: Station opened.\n\nAdjacent stations\n\nRailway stations in Hokkaido Prefecture\nRailway stations in Japan opened in 1923\n\nAinu geography"
-          },
-          "全文": "is a railway station on the JR Hokkaido Sekihoku Main Line in Yobito, a suburb of Abashiri in Hokkaidō. The station name and suburb name come from the Ainu language.\n\nStation structure\nThe station has two platforms facing each other, with two railway lines.\n\nStation surroundings\nThe village of Yobito has a large geographical spread.\nNational Highway 39\nAbashiri-koso\nKanpo Abashiri Inn\nAbashiri Grand Hotel\nTokyo University of Agriculture Okhotsk Campus\n\nHistory\nOctober 5, 1923: Station opened.\n\nAdjacent stations\n\nRailway stations in Hokkaido Prefecture\nRailway stations in Japan opened in 1923\n\nAinu geography",
-          "字数": 614
+          "链接": "https://ja.wikipedia.org/wiki/%E5%91%BC%E4%BA%BA%E9%A7%85",
+          "首段": "Yobito Station (呼人駅) is a railway station in 道網走市字呼人, Japan.",
+          "章节": {},
+          "全文": "Yobito Station (呼人駅) is a railway station in 道網走市字呼人, Japan.",
+          "字数": 60
         }
       },
       "结构化信息": {
@@ -541,7 +541,14 @@
           "字数": 674,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "女満別駅",
+          "链接": "https://ja.wikipedia.org/wiki/%E5%A5%B3%E6%BA%80%E5%88%A5%E9%A7%85",
+          "首段": "女満別駅 (女満別駅) is a railway station in 道網走郡大空町女満別本通1丁目, Japan.",
+          "章节": {},
+          "全文": "女満別駅 (女満別駅) is a railway station in 道網走郡大空町女満別本通1丁目, Japan.",
+          "字数": 59
+        }
       },
       "结构化信息": {
         "读音": "めまんべつえき",
@@ -617,13 +624,11 @@
         },
         "英文": {
           "词条标题": "Yasukuni Station",
-          "链接": "https://en.wikipedia.org/wiki/Yasukuni%20Station",
-          "首段": "is a railway station in Engaru, Monbetsu, Hokkaidō Prefecture, Japan. Its station number is A51.",
-          "章节": {
-            "Lines": "Hokkaido Railway Company\nSekihoku Main Line\n\nAdjacent stations\n\nRailway stations in Hokkaido Prefecture\nRailway stations in Japan opened in 1914"
-          },
-          "全文": "is a railway station in Engaru, Monbetsu, Hokkaidō Prefecture, Japan. Its station number is A51.\n\nLines\nHokkaido Railway Company\nSekihoku Main Line\n\nAdjacent stations\n\nRailway stations in Hokkaido Prefecture\nRailway stations in Japan opened in 1914\n\nReferences",
-          "字数": 260
+          "链接": "https://ja.wikipedia.org/wiki/%E5%AE%89%E5%9B%BD%E9%A7%85",
+          "首段": "Yasukuni Station (安国駅) is a railway station in 道紋別郡遠軽町生田原安国, Japan.",
+          "章节": {},
+          "全文": "Yasukuni Station (安国駅) is a railway station in 道紋別郡遠軽町生田原安国, Japan.",
+          "字数": 67
         }
       },
       "结构化信息": {
@@ -699,14 +704,11 @@
         },
         "英文": {
           "词条标题": "Itoshino Station",
-          "链接": "https://en.wikipedia.org/wiki/Itoshino%20Station",
-          "首段": "is a railway station located in the third ward of Tanno, a suburb of Kitami city in Hokkaidō, Japan, and services the Sekihoku Main Line operated by JR Hokkaidō.\n\nStation structure\nThe station is above ground, and consists of a single platform alongside the railway track. Trains operate in both directions along the line. The waiting room is constructed in the style of a small log cabin. The station itself is mostly used by students attending the nearby senior high school.\n\nStation environs\nAs suburbanisation advances, residential area, agricultural land and shops and businesses exist in balance. In front of the station is a site for construction materials, and a large quantity of prefabricated buildings will be constructed.",
-          "章节": {
-            "History": "November 1, 1986: The station opened as a temporary platform.\nApril 1, 1987: Since the privatisation of the national rail network, the station status was upgraded and ownership was transferred to JR Hokkaidō.",
-            "References": "Railway stations in Hokkaido Prefecture\nRailway stations in Japan opened in 1986\nKitami, Hokkaido"
-          },
-          "全文": "is a railway station located in the third ward of Tanno, a suburb of Kitami city in Hokkaidō, Japan, and services the Sekihoku Main Line operated by JR Hokkaidō.\n\nStation structure\nThe station is above ground, and consists of a single platform alongside the railway track. Trains operate in both directions along the line. The waiting room is constructed in the style of a small log cabin. The station itself is mostly used by students attending the nearby senior high school.\n\nStation environs\nAs suburbanisation advances, residential area, agricultural land and shops and businesses exist in balance. In front of the station is a site for construction materials, and a large quantity of prefabricated buildings will be constructed.\n\nHistory\nNovember 1, 1986: The station opened as a temporary platform.\nApril 1, 1987: Since the privatisation of the national rail network, the station status was upgraded and ownership was transferred to JR Hokkaidō.\n\nReferences\n\nRailway stations in Hokkaido Prefecture\nRailway stations in Japan opened in 1986\nKitami, Hokkaido",
-          "字数": 1062
+          "链接": "https://ja.wikipedia.org/wiki/%E6%84%9B%E3%81%97%E9%87%8E%E9%A7%85",
+          "首段": "Itoshino Station (愛し野駅) is a railway station in 道北見市端野町三区, Japan.",
+          "章节": {},
+          "全文": "Itoshino Station (愛し野駅) is a railway station in 道北見市端野町三区, Japan.",
+          "字数": 65
         }
       },
       "结构化信息": {
@@ -778,7 +780,14 @@
           "字数": 696,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "東相内駅",
+          "链接": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E7%9B%B8%E5%86%85%E9%A7%85",
+          "首段": "東相内駅 (東相内駅) is a railway station in 道北見市東相内町, Japan.",
+          "章节": {},
+          "全文": "東相内駅 (東相内駅) is a railway station in 道北見市東相内町, Japan.",
+          "字数": 52
+        }
       },
       "结构化信息": {
         "读音": "ひがしあいのないえき",
@@ -856,14 +865,11 @@
         },
         "英文": {
           "词条标题": "Hakuyō Station",
-          "链接": "https://en.wikipedia.org/wiki/Hakuy%C5%8D%20Station",
-          "首段": "is a railway station located in the neighbourhood of Namiki in Kitami city in Hokkaidō, Japan, and is located on the JR Sekihoku Main Line operated by JR Hokkaidō.\n\nStation structure\nThe station is elevated. The station is unstaffed, and consists of a single railway line and a single side platform. The station is mainly used by students commuting to a local senior high school.\n\nStation environs\nBecause the town is becoming a residential area of Kitami, there are many shops and other businesses. Kitami Institute of Technology, Kitami-Hakuyō Senior High School, Japanese Red Cross Hokkaido College of Nursing and National Highway 39 are all nearby.",
-          "章节": {
-            "History": "December 1, 1957: Temporary platform opened.\nApril 1, 1987: Station status upgraded.\nOctober 1, 1992: Overhead station building constructed.\n\nAdjacent stations",
-            "References": "Railway stations in Hokkaido Prefecture\nRailway stations in Japan opened in 1987\nKitami, Hokkaido"
-          },
-          "全文": "is a railway station located in the neighbourhood of Namiki in Kitami city in Hokkaidō, Japan, and is located on the JR Sekihoku Main Line operated by JR Hokkaidō.\n\nStation structure\nThe station is elevated. The station is unstaffed, and consists of a single railway line and a single side platform. The station is mainly used by students commuting to a local senior high school.\n\nStation environs\nBecause the town is becoming a residential area of Kitami, there are many shops and other businesses. Kitami Institute of Technology, Kitami-Hakuyō Senior High School, Japanese Red Cross Hokkaido College of Nursing and National Highway 39 are all nearby.\n\nHistory\nDecember 1, 1957: Temporary platform opened.\nApril 1, 1987: Station status upgraded.\nOctober 1, 1992: Overhead station building constructed.\n\nAdjacent stations\n\nReferences\n\nRailway stations in Hokkaido Prefecture\nRailway stations in Japan opened in 1987\nKitami, Hokkaido",
-          "字数": 932
+          "链接": "https://ja.wikipedia.org/wiki/%E6%9F%8F%E9%99%BD%E9%A7%85",
+          "首段": "Hakuyō Station (柏陽駅) is a railway station in 道北見市並木町, Japan.",
+          "章节": {},
+          "全文": "Hakuyō Station (柏陽駅) is a railway station in 道北見市並木町, Japan.",
+          "字数": 60
         }
       },
       "结构化信息": {
@@ -941,13 +947,11 @@
         },
         "英文": {
           "词条标题": "Katsuradai Station",
-          "链接": "https://en.wikipedia.org/wiki/Katsuradai%20Station",
-          "首段": "is a train station in Abashiri, Hokkaidō, Japan.",
-          "章节": {
-            "Lines": "Hokkaido Railway Company\nSenmō Main Line Station B79\n\nAdjacent stations\n\nExternal links\n JR Hokkaido Katsuradai Station information \n\nStations of Hokkaido Railway Company\nRailway stations in Hokkaido Prefecture\nRailway stations in Japan opened in 1967"
-          },
-          "全文": "is a train station in Abashiri, Hokkaidō, Japan.\n\nLines\nHokkaido Railway Company\nSenmō Main Line Station B79\n\nAdjacent stations\n\nExternal links\n JR Hokkaido Katsuradai Station information \n\nStations of Hokkaido Railway Company\nRailway stations in Hokkaido Prefecture\nRailway stations in Japan opened in 1967",
-          "字数": 307
+          "链接": "https://ja.wikipedia.org/wiki/%E6%A1%82%E5%8F%B0%E9%A7%85",
+          "首段": "Katsuradai Station (桂台駅) is a railway station in 道網走市南10条東3丁目, Japan.",
+          "章节": {},
+          "全文": "Katsuradai Station (桂台駅) is a railway station in 道網走市南10条東3丁目, Japan.",
+          "字数": 69
         }
       },
       "结构化信息": {
@@ -1024,13 +1028,11 @@
         },
         "英文": {
           "词条标题": "Yamubetsu Station",
-          "链接": "https://en.wikipedia.org/wiki/Yamubetsu%20Station",
-          "首段": "is a railway station on the Senmō Main Line in Koshimizu, Hokkaido, Japan, operated by the Hokkaido Railway Company (JR Hokkaido).",
-          "章节": {
-            "Lines": "Yamubetsu Station is served by the Senmō Main Line, and is numbered B73.\n\nAdjacent stations\n\nExternal links\n JR Hokkaido Yamubetsu Station information \n\nStations of Hokkaido Railway Company\nRailway stations in Hokkaido Prefecture\nRailway stations in Japan opened in 1925"
-          },
-          "全文": "is a railway station on the Senmō Main Line in Koshimizu, Hokkaido, Japan, operated by the Hokkaido Railway Company (JR Hokkaido).\n\nLines\nYamubetsu Station is served by the Senmō Main Line, and is numbered B73.\n\nAdjacent stations\n\nExternal links\n JR Hokkaido Yamubetsu Station information \n\nStations of Hokkaido Railway Company\nRailway stations in Hokkaido Prefecture\nRailway stations in Japan opened in 1925",
-          "字数": 408
+          "链接": "https://ja.wikipedia.org/wiki/%E6%AD%A2%E5%88%A5%E9%A7%85",
+          "首段": "Yamubetsu Station (止別駅) is a railway station in 道斜里郡小清水町字止別（やんべつ）, Japan.",
+          "章节": {},
+          "全文": "Yamubetsu Station (止別駅) is a railway station in 道斜里郡小清水町字止別（やんべつ）, Japan.",
+          "字数": 73
         }
       },
       "结构化信息": {
@@ -1107,7 +1109,14 @@
           "字数": 1439,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "浜小清水駅",
+          "链接": "https://ja.wikipedia.org/wiki/%E6%B5%9C%E5%B0%8F%E6%B8%85%E6%B0%B4%E9%A7%85",
+          "首段": "浜小清水駅 (浜小清水駅) is a railway station in 道斜里郡小清水町字浜小清水, Japan.",
+          "章节": {},
+          "全文": "浜小清水駅 (浜小清水駅) is a railway station in 道斜里郡小清水町字浜小清水, Japan.",
+          "字数": 59
+        }
       },
       "结构化信息": {
         "读音": "はまこしみずえき",
@@ -1189,15 +1198,11 @@
         },
         "英文": {
           "词条标题": "Setose Station",
-          "链接": "https://en.wikipedia.org/wiki/Setose%20Station",
-          "首段": "is a railway station in Engaru, Monbetsu, Hokkaidō Prefecture, Japan. Its station number is A49.",
-          "章节": {
-            "Lines": "Hokkaido Railway Company\nSekihoku Main Line",
-            "History": "Future plans \nIn June 2023, this station was selected to be among 42 stations on the JR Hokkaido network to be slated for abolition owing to low ridership.\n\nAdjacent stations",
-            "References": "Railway stations in Hokkaido Prefecture\nRailway stations in Japan opened in 1927"
-          },
-          "全文": "is a railway station in Engaru, Monbetsu, Hokkaidō Prefecture, Japan. Its station number is A49.\n\nLines\nHokkaido Railway Company\nSekihoku Main Line\n\nHistory\n\nFuture plans \nIn June 2023, this station was selected to be among 42 stations on the JR Hokkaido network to be slated for abolition owing to low ridership.\n\nAdjacent stations\n\nReferences \n\nRailway stations in Hokkaido Prefecture\nRailway stations in Japan opened in 1927",
-          "字数": 427
+          "链接": "https://ja.wikipedia.org/wiki/%E7%80%AC%E6%88%B8%E7%80%AC%E9%A7%85",
+          "首段": "Setose Station (瀬戸瀬駅) is a railway station in 道紋別郡遠軽町瀬戸瀬西町, Japan.",
+          "章节": {},
+          "全文": "Setose Station (瀬戸瀬駅) is a railway station in 道紋別郡遠軽町瀬戸瀬西町, Japan.",
+          "字数": 66
         }
       },
       "结构化信息": {
@@ -1284,13 +1289,11 @@
         },
         "英文": {
           "词条标题": "Ikutahara Station",
-          "链接": "https://en.wikipedia.org/wiki/Ikutahara%20Station",
-          "首段": "is a railway station in Engaru, Monbetsu, Hokkaidō Prefecture, Japan. Its station number is A53.",
-          "章节": {
-            "Lines": "Hokkaido Railway Company\nSekihoku Main Line\n\nAdjacent stations\n\nRailway stations in Hokkaido Prefecture\nRailway stations in Japan opened in 1914"
-          },
-          "全文": "is a railway station in Engaru, Monbetsu, Hokkaidō Prefecture, Japan. Its station number is A53.\n\nLines\nHokkaido Railway Company\nSekihoku Main Line\n\nAdjacent stations\n\nRailway stations in Hokkaido Prefecture\nRailway stations in Japan opened in 1914\n\nReferences",
-          "字数": 260
+          "链接": "https://ja.wikipedia.org/wiki/%E7%94%9F%E7%94%B0%E5%8E%9F%E9%A7%85",
+          "首段": "Ikutahara Station (生田原駅) is a railway station in 道紋別郡遠軽町生田原, Japan.",
+          "章节": {},
+          "全文": "Ikutahara Station (生田原駅) is a railway station in 道紋別郡遠軽町生田原, Japan.",
+          "字数": 67
         }
       },
       "结构化信息": {
@@ -1377,13 +1380,11 @@
         },
         "英文": {
           "词条标题": "Rubeshibe Station",
-          "链接": "https://en.wikipedia.org/wiki/Rubeshibe%20Station",
-          "首段": "is a railway station in Kitami, Hokkaidō Prefecture, Japan. Its station number is A56.",
-          "章节": {
-            "Lines": "Hokkaido Railway Company\nSekihoku Main Line\n\nAdjacent stations\n\nRailway stations in Hokkaido Prefecture\nRailway stations in Japan opened in 1912"
-          },
-          "全文": "is a railway station in Kitami, Hokkaidō Prefecture, Japan. Its station number is A56.\n\nLines\nHokkaido Railway Company\nSekihoku Main Line\n\nAdjacent stations\n\nRailway stations in Hokkaido Prefecture\nRailway stations in Japan opened in 1912\n\nReferences",
-          "字数": 250
+          "链接": "https://ja.wikipedia.org/wiki/%E7%95%99%E8%BE%BA%E8%98%82%E9%A7%85",
+          "首段": "Rubeshibe Station (留辺蘂駅) is a railway station in 道北見市留辺蘂町東町（, Japan.",
+          "章节": {},
+          "全文": "Rubeshibe Station (留辺蘂駅) is a railway station in 道北見市留辺蘂町東町（, Japan.",
+          "字数": 68
         }
       },
       "结构化信息": {
@@ -1468,15 +1469,11 @@
         },
         "英文": {
           "词条标题": "Shirataki Station",
-          "链接": "https://en.wikipedia.org/wiki/Shirataki%20Station",
-          "首段": "is a railway station on the Sekihoku Main Line in Engaru, Monbetsu District, Hokkaido, Japan, operated by Hokkaido Railway Company (JR Hokkaido).",
-          "章节": {
-            "Lines": "Shirataki Station is served by the Sekihoku Main Line, and is numbered \"A45\".\n\nAdjacent stations",
-            "History": "The station opened on 12 August 1929. With the privatization of Japanese National Railways (JNR) on 1 April 1987, the station came under the control of JR Hokkaido.\n\nSee also\n List of railway stations in Japan",
-            "References": "Railway stations in Hokkaido Prefecture\nStations of Hokkaido Railway Company\nRailway stations in Japan opened in 1929"
-          },
-          "全文": "is a railway station on the Sekihoku Main Line in Engaru, Monbetsu District, Hokkaido, Japan, operated by Hokkaido Railway Company (JR Hokkaido).\n\nLines\nShirataki Station is served by the Sekihoku Main Line, and is numbered \"A45\".\n\nAdjacent stations\n\nHistory\nThe station opened on 12 August 1929. With the privatization of Japanese National Railways (JNR) on 1 April 1987, the station came under the control of JR Hokkaido.\n\nSee also\n List of railway stations in Japan\n\nReferences\n\nRailway stations in Hokkaido Prefecture\nStations of Hokkaido Railway Company\nRailway stations in Japan opened in 1929",
-          "字数": 599
+          "链接": "https://ja.wikipedia.org/wiki/%E7%99%BD%E6%BB%9D%E9%A7%85",
+          "首段": "Shirataki Station (白滝駅) is a railway station in 道紋別郡遠軽町白滝, Japan.",
+          "章节": {},
+          "全文": "Shirataki Station (白滝駅) is a railway station in 道紋別郡遠軽町白滝, Japan.",
+          "字数": 65
         }
       },
       "结构化信息": {
@@ -1552,14 +1549,11 @@
         },
         "英文": {
           "词条标题": "Ainonai Station",
-          "链接": "https://en.wikipedia.org/wiki/Ainonai%20Station",
-          "首段": "is a railway station in Kitami, Hokkaidō Prefecture, Japan. Its station number is A57.",
-          "章节": {
-            "Lines": "Hokkaido Railway Company\nSekihoku Main Line\n\nAdjacent stations",
-            "References": "Railway stations in Hokkaido Prefecture\nRailway stations in Japan opened in 1912"
-          },
-          "全文": "is a railway station in Kitami, Hokkaidō Prefecture, Japan. Its station number is A57.\n\nLines\nHokkaido Railway Company\nSekihoku Main Line\n\nAdjacent stations\n\nReferences\n \n\nRailway stations in Hokkaido Prefecture\nRailway stations in Japan opened in 1912",
-          "字数": 252
+          "链接": "https://ja.wikipedia.org/wiki/%E7%9B%B8%E5%86%85%E9%A7%85",
+          "首段": "Ainonai Station (相内駅) is a railway station in 道北見市相内町, Japan.",
+          "章节": {},
+          "全文": "Ainonai Station (相内駅) is a railway station in 道北見市相内町, Japan.",
+          "字数": 61
         }
       },
       "结构化信息": {
@@ -1645,7 +1639,14 @@
           "字数": 1944,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "知床斜里駅",
+          "链接": "https://ja.wikipedia.org/wiki/%E7%9F%A5%E5%BA%8A%E6%96%9C%E9%87%8C%E9%A7%85",
+          "首段": "知床斜里駅 (知床斜里駅) is a railway station in 道斜里郡斜里町港町, Japan.",
+          "章节": {},
+          "全文": "知床斜里駅 (知床斜里駅) is a railway station in 道斜里郡斜里町港町, Japan.",
+          "字数": 55
+        }
       },
       "结构化信息": {
         "读音": "しれとこしゃりえき",
@@ -1726,14 +1727,11 @@
         },
         "英文": {
           "词条标题": "Tanno Station",
-          "链接": "https://en.wikipedia.org/wiki/Tanno%20Station",
-          "首段": "is a railway station located in the Tannocho neighbourhood of Kitami city in Hokkaidō, Japan, and services the Sekihoku Main Line operated by JR Hokkaido.\n\nStation structure\nThe station is above ground and has two side platforms alongside two railway tracks. It is not permanently staffed.\n\nAdjacent stations",
-          "章节": {
-            "History": "October 5, 1912: Station opened.\nStation unmanned since completion of CTC system.\nFebruary 1991: Station building renovated.",
-            "References": "Railway stations in Hokkaido Prefecture\nRailway stations in Japan opened in 1912"
-          },
-          "全文": "is a railway station located in the Tannocho neighbourhood of Kitami city in Hokkaidō, Japan, and services the Sekihoku Main Line operated by JR Hokkaido.\n\nStation structure\nThe station is above ground and has two side platforms alongside two railway tracks. It is not permanently staffed.\n\nAdjacent stations\n\nHistory\nOctober 5, 1912: Station opened.\nStation unmanned since completion of CTC system.\nFebruary 1991: Station building renovated.\n\nReferences\n\nRailway stations in Hokkaido Prefecture\nRailway stations in Japan opened in 1912",
-          "字数": 536
+          "链接": "https://ja.wikipedia.org/wiki/%E7%AB%AF%E9%87%8E%E9%A7%85",
+          "首段": "Tanno Station (端野駅) is a railway station in 道北見市端野町端野, Japan.",
+          "章节": {},
+          "全文": "Tanno Station (端野駅) is a railway station in 道北見市端野町端野, Japan.",
+          "字数": 61
         }
       },
       "结构化信息": {
@@ -1829,16 +1827,11 @@
         },
         "英文": {
           "词条标题": "Abashiri Station",
-          "链接": "https://en.wikipedia.org/wiki/Abashiri%20Station",
-          "首段": "is a railway station in Abashiri, Hokkaido, Japan, operated by the Hokkaido Railway Company (JR Hokkaido), located. It is the main railway station in the city. Abashiri Station comes first in an alphabetical list of Japanese railway stations (Zushi·Hayama Station is last).",
-          "章节": {
-            "Lines": "Abashiri Station is served by the Sekihoku Main Line from Shin-Asahikawa, and the Senmō Main Line from Higashi-Kushiro.\n\nOkhotsk and Taisetsu limited express trains and Shiretoko rapid services terminate at this station. The Yūmō Line formerly diverged from here, but the line was closed on March 20, 1987.\n\nStation layout\nThe station consists of one side platforms and one island platform serving two tracks. There is a ticket office (business hours: 05:30 to 23:00), automatic ticket machines, and a travel centre (business hours: 09:30 to 17:30).\n\nAbashiri Station is unusual in having the station name sign at the entrance to the building written vertically instead of horizontally. This was intended to ensure that prisoners released from nearby Abashiri Prison and returning to their hometowns from the station would not \"revert sideways\" (横道にそれない) to a life of crime.",
-            "Buses": "Abashiri Bus, Abashiri Kōtsū Bus, Akan Bus, Shari Bus and joint operating companies all operate to/from the station. The tourist information centre in Abashiri Station handles tickets for tour buses. The bus stop for services to Higashi Mokoto (Abashiri Kōtsū Bus) does not have a number.\n\nBus stops\n\nHokkaidō Chūō Bus, Hokkaidō Kitami Bus and Abashiri Bus operate services from Abashiri Bus Terminal to Sapporo.",
-            "History": "October 5, 1912: Abashiri Station was opened by the National Railway Authority.\nSeptember 15, 1927: The Railways Ministry opened the Senmō Line (which later became the Senmō Main Line).\nDecember 1, 1932: The passenger station was moved to its present location, and the original station was renamed Hama-Abashiri Station and converted to freight-only.\nOctober 10, 1935: The Yūmō East Line (later the Yūmō Line) opened between Abashiri and Ubaranai.\nFebruary 1, 1984: Freight services to Hama-Abashiri were discontinued.\nMarch 20, 1987: The Yūmō Line closed.\nApril 1, 1987: Abashiri Station was transferred to JR Hokkaido following privatization of the Japanese National Railways.\n\nAdjacent stations",
-            "References": "External links\n JR Hokkaido Abashiri Station information \n\nRailway stations in Japan opened in 1912\nRailway stations in Hokkaido Prefecture"
-          },
-          "全文": "is a railway station in Abashiri, Hokkaido, Japan, operated by the Hokkaido Railway Company (JR Hokkaido), located. It is the main railway station in the city. Abashiri Station comes first in an alphabetical list of Japanese railway stations (Zushi·Hayama Station is last).\n\nLines\nAbashiri Station is served by the Sekihoku Main Line from Shin-Asahikawa, and the Senmō Main Line from Higashi-Kushiro.\n\nOkhotsk and Taisetsu limited express trains and Shiretoko rapid services terminate at this station. The Yūmō Line formerly diverged from here, but the line was closed on March 20, 1987.\n\nStation layout\nThe station consists of one side platforms and one island platform serving two tracks. There is a ticket office (business hours: 05:30 to 23:00), automatic ticket machines, and a travel centre (business hours: 09:30 to 17:30).\n\nAbashiri Station is unusual in having the station name sign at the entrance to the building written vertically instead of horizontally. This was intended to ensure that prisoners released from nearby Abashiri Prison and returning to their hometowns from the station would not \"revert sideways\" (横道にそれない) to a life of crime.\n\nBuses\nAbashiri Bus, Abashiri Kōtsū Bus, Akan Bus, Shari Bus and joint operating companies all operate to/from the station. The tourist information centre in Abashiri Station handles tickets for tour buses. The bus stop for services to Higashi Mokoto (Abashiri Kōtsū Bus) does not have a number.\n\nBus stops\n\nHokkaidō Chūō Bus, Hokkaidō Kitami Bus and Abashiri Bus operate services from Abashiri Bus Terminal to Sapporo.\n\nHistory\nOctober 5, 1912: Abashiri Station was opened by the National Railway Authority.\nSeptember 15, 1927: The Railways Ministry opened the Senmō Line (which later became the Senmō Main Line).\nDecember 1, 1932: The passenger station was moved to its present location, and the original station was renamed Hama-Abashiri Station and converted to freight-only.\nOctober 10, 1935: The Yūmō East Line (later the Yūmō Line) opened between Abashiri and Ubaranai.\nFebruary 1, 1984: Freight services to Hama-Abashiri were discontinued.\nMarch 20, 1987: The Yūmō Line closed.\nApril 1, 1987: Abashiri Station was transferred to JR Hokkaido following privatization of the Japanese National Railways.\n\nAdjacent stations\n\nReferences\n\nExternal links\n JR Hokkaido Abashiri Station information \n\nRailway stations in Japan opened in 1912\nRailway stations in Hokkaido Prefecture",
-          "字数": 2435
+          "链接": "https://ja.wikipedia.org/wiki/%E7%B6%B2%E8%B5%B0%E9%A7%85",
+          "首段": "Abashiri Station (網走駅) is a railway station in 道網走市新町2丁目, Japan.",
+          "章节": {},
+          "全文": "Abashiri Station (網走駅) is a railway station in 道網走市新町2丁目, Japan.",
+          "字数": 64
         }
       },
       "结构化信息": {
@@ -1920,14 +1913,11 @@
         },
         "英文": {
           "词条标题": "Hiushinai Station",
-          "链接": "https://en.wikipedia.org/wiki/Hiushinai%20Station",
-          "首段": "is a railway station located in Hiushinai in the Tanno-chō district of Kitami-shi city in Hokkaidō, Japan and is served by trains running on the Sekihoku Main Line, operated by JR Hokkaido. The station is located in one of the \"coldest and remotest areas in Japan.\"\n\nStation structure\nHiushinai is an unmanned station with two side platforms alongside two railway tracks. It has a toilet and a waiting room.\n\nStation environs\nHiushinai elementary school\nHokkaidō highway 556\nNational highway 39\n\nAdjacent stations",
-          "章节": {
-            "History": "October 5, 1911: Station opened\nJanuary 10, 1983: Station became unmanned on completion of CTC system\n\nFuture plans \nIn June 2023, this station was selected to be among 42 stations on the JR Hokkaido network to be slated for abolition owing to low ridership.",
-            "References": "Railway stations in Hokkaido Prefecture\nRailway stations in Japan opened in 1912"
-          },
-          "全文": "is a railway station located in Hiushinai in the Tanno-chō district of Kitami-shi city in Hokkaidō, Japan and is served by trains running on the Sekihoku Main Line, operated by JR Hokkaido. The station is located in one of the \"coldest and remotest areas in Japan.\"\n\nStation structure\nHiushinai is an unmanned station with two side platforms alongside two railway tracks. It has a toilet and a waiting room.\n\nStation environs\nHiushinai elementary school\nHokkaidō highway 556\nNational highway 39\n\nAdjacent stations\n\nHistory\nOctober 5, 1911: Station opened\nJanuary 10, 1983: Station became unmanned on completion of CTC system\n\nFuture plans \nIn June 2023, this station was selected to be among 42 stations on the JR Hokkaido network to be slated for abolition owing to low ridership.\n\nReferences\n\nRailway stations in Hokkaido Prefecture\nRailway stations in Japan opened in 1912",
-          "字数": 875
+          "链接": "https://ja.wikipedia.org/wiki/%E7%B7%8B%E7%89%9B%E5%86%85%E9%A7%85",
+          "首段": "Hiushinai Station (緋牛内駅) is a railway station in 道北見市端野町緋牛内, Japan.",
+          "章节": {},
+          "全文": "Hiushinai Station (緋牛内駅) is a railway station in 道北見市端野町緋牛内, Japan.",
+          "字数": 67
         }
       },
       "结构化信息": {
@@ -2014,16 +2004,11 @@
         },
         "英文": {
           "词条标题": "Bihoro Station",
-          "链接": "https://en.wikipedia.org/wiki/Bihoro%20Station",
-          "首段": "is a railway station on the Sekihoku Main Line in Bihoro, Hokkaido, Japan, operated by Hokkaido Railway Company (JR Hokkaido).",
-          "章节": {
-            "Lines": "Bihoro Station is served by the Sekihoku Main Line from  to , and lies  from the official starting point of the line at . It is numbered \"A65\".\n\nStation layout\nThe station consists of one side platform and one island platform serving two tracks (platforms 2 and 3), as the track at the former platform 1 is no longer in place. The station building is connected to platforms 2 and 3 by a footbridge. The station has a \"Midori no Madoguchi\" staffed ticket office.",
-            "Platforms": "Adjacent stations",
-            "History": "The station opened on 5 October 1912. With the privatization of Japanese National Railways (JNR) on 1 April 1987, the station came under the control of JR Hokkaido.\n\nSurrounding area\n National Route 39\n National Route 240\n National Route 243\n\nSee also\n List of railway stations in Japan",
-            "References": "External links\n\n JR Hokkaido station information \n\nRailway stations in Hokkaido Prefecture\nRailway stations in Japan opened in 1912"
-          },
-          "全文": "is a railway station on the Sekihoku Main Line in Bihoro, Hokkaido, Japan, operated by Hokkaido Railway Company (JR Hokkaido).\n\nLines\nBihoro Station is served by the Sekihoku Main Line from  to , and lies  from the official starting point of the line at . It is numbered \"A65\".\n\nStation layout\nThe station consists of one side platform and one island platform serving two tracks (platforms 2 and 3), as the track at the former platform 1 is no longer in place. The station building is connected to platforms 2 and 3 by a footbridge. The station has a \"Midori no Madoguchi\" staffed ticket office.\n\nPlatforms\n\nAdjacent stations\n\nHistory\nThe station opened on 5 October 1912. With the privatization of Japanese National Railways (JNR) on 1 April 1987, the station came under the control of JR Hokkaido.\n\nSurrounding area\n National Route 39\n National Route 240\n National Route 243\n\nSee also\n List of railway stations in Japan\n\nReferences\n\nExternal links\n\n JR Hokkaido station information \n\nRailway stations in Hokkaido Prefecture\nRailway stations in Japan opened in 1912",
-          "字数": 1066
+          "链接": "https://ja.wikipedia.org/wiki/%E7%BE%8E%E5%B9%8C%E9%A7%85",
+          "首段": "Bihoro Station (美幌駅) is a railway station in 道網走郡美幌町字新町3丁目, Japan.",
+          "章节": {},
+          "全文": "Bihoro Station (美幌駅) is a railway station in 道網走郡美幌町字新町3丁目, Japan.",
+          "字数": 66
         }
       },
       "结构化信息": {
@@ -2107,13 +2092,11 @@
         },
         "英文": {
           "词条标题": "Mokoto Station",
-          "链接": "https://en.wikipedia.org/wiki/Mokoto%20Station",
-          "首段": "is a train station in Abashiri, Hokkaidō, Japan.",
-          "章节": {
-            "Lines": "Hokkaido Railway Company\nSenmō Main Line Station B77\n\nExternal links\n JR Hokkaido Mokoto Station information \n\nStations of Hokkaido Railway Company\nRailway stations in Hokkaido Prefecture\nRailway stations in Japan opened in 1924"
-          },
-          "全文": "is a train station in Abashiri, Hokkaidō, Japan.\n\nLines\nHokkaido Railway Company\nSenmō Main Line Station B77\n\nExternal links\n JR Hokkaido Mokoto Station information \n\nStations of Hokkaido Railway Company\nRailway stations in Hokkaido Prefecture\nRailway stations in Japan opened in 1924",
-          "字数": 284
+          "链接": "https://ja.wikipedia.org/wiki/%E8%97%BB%E7%90%B4%E9%A7%85",
+          "首段": "Mokoto Station (藻琴駅) is a railway station in 道網走市字藻琴, Japan.",
+          "章节": {},
+          "全文": "Mokoto Station (藻琴駅) is a railway station in 道網走市字藻琴, Japan.",
+          "字数": 60
         }
       },
       "结构化信息": {
@@ -2193,7 +2176,14 @@
           "字数": 679,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "西北見駅",
+          "链接": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E5%8C%97%E8%A6%8B%E9%A7%85",
+          "首段": "西北見駅 (西北見駅) is a railway station in 道北見市緑町6丁目, Japan.",
+          "章节": {},
+          "全文": "西北見駅 (西北見駅) is a railway station in 道北見市緑町6丁目, Japan.",
+          "字数": 53
+        }
       },
       "结构化信息": {
         "读音": "にしきたみえき",
@@ -2265,7 +2255,14 @@
           "字数": 551,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "西女満別駅",
+          "链接": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E5%A5%B3%E6%BA%80%E5%88%A5%E9%A7%85",
+          "首段": "西女満別駅 (西女満別駅) is a railway station in 道網走郡大空町女満別本郷, Japan.",
+          "章节": {},
+          "全文": "西女満別駅 (西女満別駅) is a railway station in 道網走郡大空町女満別本郷, Japan.",
+          "字数": 58
+        }
       },
       "结构化信息": {
         "读音": "にしめまんべつえき",
@@ -2341,7 +2338,14 @@
           "字数": 580,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "西留辺蘂駅",
+          "链接": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E7%95%99%E8%BE%BA%E8%98%82%E9%A7%85",
+          "首段": "西留辺蘂駅 (西留辺蘂駅) is a railway station in 道北見市留辺蘂町旭334-1, Japan.",
+          "章节": {},
+          "全文": "西留辺蘂駅 (西留辺蘂駅) is a railway station in 道北見市留辺蘂町旭334-1, Japan.",
+          "字数": 60
+        }
       },
       "结构化信息": {
         "读音": "にしるべしべえき",
@@ -2434,14 +2438,11 @@
         },
         "英文": {
           "词条标题": "Engaru Station",
-          "链接": "https://en.wikipedia.org/wiki/Engaru%20Station",
-          "首段": "is a railway station in Engaru, Monbetsu, Hokkaidō Prefecture, Japan. Its station number is A50.",
-          "章节": {
-            "Lines": "Hokkaido Railway Company\nSekihoku Main Line\n\nAdjacent stations",
-            "References": "Railway stations in Hokkaido Prefecture\nRailway stations in Japan opened in 1915"
-          },
-          "全文": "is a railway station in Engaru, Monbetsu, Hokkaidō Prefecture, Japan. Its station number is A50.\n\nLines\nHokkaido Railway Company\nSekihoku Main Line\n\nAdjacent stations\n\nReferences\n\nRailway stations in Hokkaido Prefecture\nRailway stations in Japan opened in 1915",
-          "字数": 260
+          "链接": "https://ja.wikipedia.org/wiki/%E9%81%A0%E8%BB%BD%E9%A7%85",
+          "首段": "Engaru Station (遠軽駅) is a railway station in 道紋別郡遠軽町岩見通南1丁目, Japan.",
+          "章节": {},
+          "全文": "Engaru Station (遠軽駅) is a railway station in 道紋別郡遠軽町岩見通南1丁目, Japan.",
+          "字数": 67
         }
       },
       "结构化信息": {
@@ -2523,7 +2524,14 @@
           "字数": 827,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "鱒浦駅",
+          "链接": "https://ja.wikipedia.org/wiki/%E9%B1%92%E6%B5%A6%E9%A7%85",
+          "首段": "鱒浦駅 (鱒浦駅) is a railway station in 道網走市字鱒浦104-1, Japan.",
+          "章节": {},
+          "全文": "鱒浦駅 (鱒浦駅) is a railway station in 道網走市字鱒浦104-1, Japan.",
+          "字数": 54
+        }
       },
       "结构化信息": {
         "读音": "ますうらえき",
@@ -2562,6 +2570,6 @@
     "有中文词条": 29,
     "已千问汉化": 0,
     "待汉化": 0,
-    "有英文词条": 21
+    "有英文词条": 29
   }
 }

@@ -46,7 +46,14 @@
         "字数": 700,
         "来源": "维基百科中文版（已转简体）"
       },
-      "英文": null
+      "英文": {
+        "词条标题": "花轮线",
+        "链接": "https://ja.wikipedia.org/wiki/%E8%8A%B1%E8%BC%AA%E7%B7%9A",
+        "首段": "The 花轮线 is a railway line in Japan.",
+        "章节": {},
+        "全文": "The 花轮线 is a railway line in Japan.",
+        "字数": 35
+      }
     }
   },
   "车站": [
@@ -91,7 +98,14 @@
           "字数": 430,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "仙北町駅",
+          "链接": "https://ja.wikipedia.org/wiki/%E4%BB%99%E5%8C%97%E7%94%BA%E9%A7%85",
+          "首段": "仙北町駅 (仙北町駅) is a railway station in 県盛岡市仙北二丁目, Japan.",
+          "章节": {},
+          "全文": "仙北町駅 (仙北町駅) is a railway station in 県盛岡市仙北二丁目, Japan.",
+          "字数": 53
+        }
       },
       "结构化信息": {
         "读音": "せんぼくちょうえき",
@@ -163,15 +177,11 @@
         },
         "英文": {
           "词条标题": "Anihata Station",
-          "链接": "https://en.wikipedia.org/wiki/Anihata%20Station",
-          "首段": "is a railway station on the Hanawa Line in the city of Hachimantai, Iwate Prefecture, Japan, operated by East Japan Railway Company (JR East).",
-          "章节": {
-            "Lines": "Anihata Station is served by the 106.9 km Hanawa Line, and is located 55.8 kilometers from the starting point of the line at .\n\nStation layout\nThe station consists of a single ground-level side platform serving a single bi-directional track. The station is unattended.",
-            "History": "Anihata Station opened on October 17, 1931, serving the village of Tayama. The station was absorbed into the JR East network upon the privatization of JNR on April 1, 1987.\n\nSurrounding area\n  National Route 282\nYoneshiro River\n\nSee also\n List of Railway Stations in Japan",
-            "References": "External links\n\n  \n\nHanawa Line\nRailway stations in Japan opened in 1931\nRailway stations in Iwate Prefecture\nStations of East Japan Railway Company\nHachimantai, Iwate"
-          },
-          "全文": "is a railway station on the Hanawa Line in the city of Hachimantai, Iwate Prefecture, Japan, operated by East Japan Railway Company (JR East).\n\nLines\nAnihata Station is served by the 106.9 km Hanawa Line, and is located 55.8 kilometers from the starting point of the line at .\n\nStation layout\nThe station consists of a single ground-level side platform serving a single bi-directional track. The station is unattended.\n\nHistory\nAnihata Station opened on October 17, 1931, serving the village of Tayama. The station was absorbed into the JR East network upon the privatization of JNR on April 1, 1987.\n\nSurrounding area\n  National Route 282\nYoneshiro River\n\nSee also\n List of Railway Stations in Japan\n\nReferences\n\nExternal links\n\n  \n\nHanawa Line\nRailway stations in Japan opened in 1931\nRailway stations in Iwate Prefecture\nStations of East Japan Railway Company\nHachimantai, Iwate",
-          "字数": 881
+          "链接": "https://ja.wikipedia.org/wiki/%E5%85%84%E7%95%91%E9%A7%85",
+          "首段": "Anihata Station (兄畑駅) is a railway station in 県八幡平市沖ノ平, Japan.",
+          "章节": {},
+          "全文": "Anihata Station (兄畑駅) is a railway station in 県八幡平市沖ノ平, Japan.",
+          "字数": 62
         }
       },
       "结构化信息": {
@@ -242,15 +252,11 @@
         },
         "英文": {
           "词条标题": "Hachimantai Station",
-          "链接": "https://en.wikipedia.org/wiki/Hachimantai%20Station",
-          "首段": "is a JR East railway station located in the city of Kazuno, Akita Prefecture, Japan.",
-          "章节": {
-            "Lines": "Hachimantai Station is served by the Hanawa Line, and is located 64.2 rail kilometers from the terminus of the line at Kōma Station.\n\nStation layout\nHachimantai Station consists of one side platform serving a single bi-directional track. The station is unattended.",
-            "History": "Hachimantai Station was opened on October 17, 1931 as  on the privately owned Akita Railways, serving the village of Hachimantai, Akita. The line was nationalized on June 1, 1934, becoming part of the Japanese Government Railways (JGR) system. The JGR became the Japan National Railways (JNR) after World War II. The station was renamed to its present name on April 1, 1957. The station has been unattended since October 1, 1971. The station was absorbed into the JR East network upon the privatization of the JNR on April 1, 1987.\n\nPassenger statistics\nIn fiscal 2013 (the last year for which data is available), the station was used by an average of 25 passengers daily (boarding passengers only).\n\nSurrounding area\n \n \nHachimantai mountains\n\nSee also\n List of Railway Stations in Japan",
-            "References": "External links\n\n  \n\nRailway stations in Japan opened in 1931\nKazuno, Akita\nHanawa Line\nRailway stations in Akita Prefecture\nStations of East Japan Railway Company"
-          },
-          "全文": "is a JR East railway station located in the city of Kazuno, Akita Prefecture, Japan.\n\nLines\nHachimantai Station is served by the Hanawa Line, and is located 64.2 rail kilometers from the terminus of the line at Kōma Station.\n\nStation layout\nHachimantai Station consists of one side platform serving a single bi-directional track. The station is unattended.\n\nHistory\nHachimantai Station was opened on October 17, 1931 as  on the privately owned Akita Railways, serving the village of Hachimantai, Akita. The line was nationalized on June 1, 1934, becoming part of the Japanese Government Railways (JGR) system. The JGR became the Japan National Railways (JNR) after World War II. The station was renamed to its present name on April 1, 1957. The station has been unattended since October 1, 1971. The station was absorbed into the JR East network upon the privatization of the JNR on April 1, 1987.\n\nPassenger statistics\nIn fiscal 2013 (the last year for which data is available), the station was used by an average of 25 passengers daily (boarding passengers only).\n\nSurrounding area\n \n \nHachimantai mountains\n\nSee also\n List of Railway Stations in Japan\n\nReferences\n\nExternal links\n\n  \n\nRailway stations in Japan opened in 1931\nKazuno, Akita\nHanawa Line\nRailway stations in Akita Prefecture\nStations of East Japan Railway Company",
-          "字数": 1330
+          "链接": "https://ja.wikipedia.org/wiki/%E5%85%AB%E5%B9%A1%E5%B9%B3%E9%A7%85",
+          "首段": "Hachimantai Station (八幡平駅) is a railway station in 県鹿角市八幡平字小山, Japan.",
+          "章节": {},
+          "全文": "Hachimantai Station (八幡平駅) is a railway station in 県鹿角市八幡平字小山, Japan.",
+          "字数": 69
         }
       },
       "结构化信息": {
@@ -327,15 +333,11 @@
         },
         "英文": {
           "词条标题": "Kitamori Station",
-          "链接": "https://en.wikipedia.org/wiki/Kitamori%20Station",
-          "首段": "is an East Japan Railway Company (JR East) railway station on the Hanawa Line in the city of Hachimantai, Iwate Prefecture, Japan.",
-          "章节": {
-            "Lines": "Kitamori Station is served by the 106.9 km Hanawa Line, and is located 15.6 kilometers from the starting point of the line at .\n\nStation layout\nKitamori Station has a single side platform serving a single bi-directional track. The station is unattended.",
-            "History": "Kitamori Station opened on April 20, 1961 as a passenger station serving the village of Matsuo. The station was absorbed into the JR East network upon the privatization of JNR on April 1, 1987.\n\nSurrounding area\nNational Route 282\nMatsuo Post Office\n\nSee also\n List of Railway Stations in Japan",
-            "References": "External links\n\n  \n\nHanawa Line\nRailway stations in Japan opened in 1961\nRailway stations in Iwate Prefecture\nStations of East Japan Railway Company\nHachimantai, Iwate"
-          },
-          "全文": "is an East Japan Railway Company (JR East) railway station on the Hanawa Line in the city of Hachimantai, Iwate Prefecture, Japan.\n\nLines\nKitamori Station is served by the 106.9 km Hanawa Line, and is located 15.6 kilometers from the starting point of the line at .\n\nStation layout\nKitamori Station has a single side platform serving a single bi-directional track. The station is unattended.\n\nHistory\nKitamori Station opened on April 20, 1961 as a passenger station serving the village of Matsuo. The station was absorbed into the JR East network upon the privatization of JNR on April 1, 1987.\n\nSurrounding area\nNational Route 282\nMatsuo Post Office\n\nSee also\n List of Railway Stations in Japan\n\nReferences\n\nExternal links\n\n  \n\nHanawa Line\nRailway stations in Japan opened in 1961\nRailway stations in Iwate Prefecture\nStations of East Japan Railway Company\nHachimantai, Iwate",
-          "字数": 876
+          "链接": "https://ja.wikipedia.org/wiki/%E5%8C%97%E6%A3%AE%E9%A7%85",
+          "首段": "Kitamori Station (北森駅) is a railway station in 県八幡平市野駄（のだ）, Japan.",
+          "章节": {},
+          "全文": "Kitamori Station (北森駅) is a railway station in 県八幡平市野駄（のだ）, Japan.",
+          "字数": 66
         }
       },
       "结构化信息": {
@@ -406,7 +408,14 @@
           "字数": 629,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "十二所駅",
+          "链接": "https://ja.wikipedia.org/wiki/%E5%8D%81%E4%BA%8C%E6%89%80%E9%A7%85",
+          "首段": "十二所駅 (十二所駅) is a railway station in 県大館市十二, Japan.",
+          "章节": {},
+          "全文": "十二所駅 (十二所駅) is a railway station in 県大館市十二, Japan.",
+          "字数": 50
+        }
       },
       "结构化信息": {
         "读音": "じゅうにしょえき",
@@ -486,7 +495,14 @@
           "字数": 1162,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "十和田南駅",
+          "链接": "https://ja.wikipedia.org/wiki/%E5%8D%81%E5%92%8C%E7%94%B0%E5%8D%97%E9%A7%85",
+          "首段": "十和田南駅 (十和田南駅) is a railway station in 県鹿角市十和田錦木（, Japan.",
+          "章节": {},
+          "全文": "十和田南駅 (十和田南駅) is a railway station in 県鹿角市十和田錦木（, Japan.",
+          "字数": 56
+        }
       },
       "结构化信息": {
         "读音": "とわだみなみえき",
@@ -566,15 +582,11 @@
         },
         "英文": {
           "词条标题": "Kuriyagawa Station",
-          "链接": "https://en.wikipedia.org/wiki/Kuriyagawa%20Station",
-          "首段": "is a railway station in the city of Morioka, Iwate Prefecture, Japan, operated by the Iwate Ginga Railway.",
-          "章节": {
-            "Lines": "Kuriyagawa Station is served by the Iwate Ginga Railway Line, and is located 5.6 rail kilometers from the terminus of the line at Morioka Station and 540.9 rail kilometers from Tokyo Station. Trains of the JR East Hanawa Line, which officially terminates at  usually continue on to Morioka Station, stopping at all intermediate stations, including Kuriyagawa Station.\n\nStation layout\nKuriyagawa Station has one island platform and one side platform connected to the station building by a footbridge.  The station is staffed.",
-            "History": "Kuriyagawa Station was opened on November 1, 1918. The station was absorbed into the JR East network upon the privatization of the Japanese National Railways (JNR) on 1 April 1987 and was transferred to the Iwate Ginga Railway on 1 September 2002.\n\nPassenger statistics\nIn fiscal 2015, the station was used by an average of 2967 passengers daily.\n\nSurrounding area\nKuriyagawa Post Office\n Iwate-Kenpoku Bus Morioka Bus office\n  Japan National Route 4\n\nSee also\n List of Railway Stations in Japan",
-            "References": "External links\n\n  \n\nRailway stations in Iwate Prefecture\nIwate Galaxy Railway Line\nRailway stations in Japan opened in 1918\nMorioka, Iwate"
-          },
-          "全文": "is a railway station in the city of Morioka, Iwate Prefecture, Japan, operated by the Iwate Ginga Railway.\n\nLines\nKuriyagawa Station is served by the Iwate Ginga Railway Line, and is located 5.6 rail kilometers from the terminus of the line at Morioka Station and 540.9 rail kilometers from Tokyo Station. Trains of the JR East Hanawa Line, which officially terminates at  usually continue on to Morioka Station, stopping at all intermediate stations, including Kuriyagawa Station.\n\nStation layout\nKuriyagawa Station has one island platform and one side platform connected to the station building by a footbridge.  The station is staffed.\n\nPlatforms\n\nHistory\nKuriyagawa Station was opened on November 1, 1918. The station was absorbed into the JR East network upon the privatization of the Japanese National Railways (JNR) on 1 April 1987 and was transferred to the Iwate Ginga Railway on 1 September 2002.\n\nPassenger statistics\nIn fiscal 2015, the station was used by an average of 2967 passengers daily.\n\nSurrounding area\nKuriyagawa Post Office\n Iwate-Kenpoku Bus Morioka Bus office\n  Japan National Route 4\n\nSee also\n List of Railway Stations in Japan\n\nReferences\n\nExternal links\n\n  \n\nRailway stations in Iwate Prefecture\nIwate Galaxy Railway Line\nRailway stations in Japan opened in 1918\nMorioka, Iwate",
-          "字数": 1306
+          "链接": "https://ja.wikipedia.org/wiki/%E5%8E%A8%E5%B7%9D%E9%A7%85",
+          "首段": "Kuriyagawa Station (厨川駅) is a railway station in 県盛岡市厨川一丁目, Japan.",
+          "章节": {},
+          "全文": "Kuriyagawa Station (厨川駅) is a railway station in 県盛岡市厨川一丁目, Japan.",
+          "字数": 66
         }
       },
       "结构化信息": {
@@ -651,15 +663,11 @@
         },
         "英文": {
           "词条标题": "Furudate Station",
-          "链接": "https://en.wikipedia.org/wiki/Furudate%20Station",
-          "首段": "is a railway station in the town of Shiwa, Iwate Prefecture, Japan, operated by the East Japan Railway Company (JR East).",
-          "章节": {
-            "Lines": "Furudate Station is served by the Tōhoku Main Line, and is located 521.5 rail kilometers from the terminus of the line at Tokyo Station.\n\nStation layout\nThe station has two opposed elevated side platforms with the station building is located underneath. The station is adjacent to the elevated rails of the Tōhoku Shinkansen, which does not stop at this station. The station is staffed and has a Midori no Madoguchi ticket office.",
-            "History": "Furudate Station was opened on 1 March 1949. The station was absorbed into the JR East network upon the privatization of the Japanese National Railways (JNR) on 1 April 1987.\n\nPassenger statistics\nIn fiscal 2018, the station was used by an average of 725 passengers daily (boarding passengers only).\n\nSurrounding area\n\nSee also\n List of Railway Stations in Japan",
-            "References": "External links\n\n JR East Station information \n\nRailway stations in Iwate Prefecture\nTōhoku Main Line\nRailway stations in Japan opened in 1949\nShiwa, Iwate\nStations of East Japan Railway Company"
-          },
-          "全文": "is a railway station in the town of Shiwa, Iwate Prefecture, Japan, operated by the East Japan Railway Company (JR East).\n\nLines\nFurudate Station is served by the Tōhoku Main Line, and is located 521.5 rail kilometers from the terminus of the line at Tokyo Station.\n\nStation layout\nThe station has two opposed elevated side platforms with the station building is located underneath. The station is adjacent to the elevated rails of the Tōhoku Shinkansen, which does not stop at this station. The station is staffed and has a Midori no Madoguchi ticket office.\n\nPlatforms\n\nHistory\nFurudate Station was opened on 1 March 1949. The station was absorbed into the JR East network upon the privatization of the Japanese National Railways (JNR) on 1 April 1987.\n\nPassenger statistics\nIn fiscal 2018, the station was used by an average of 725 passengers daily (boarding passengers only).\n\nSurrounding area\n\nSee also\n List of Railway Stations in Japan\n\nReferences\n\nExternal links\n\n JR East Station information \n\nRailway stations in Iwate Prefecture\nTōhoku Main Line\nRailway stations in Japan opened in 1949\nShiwa, Iwate\nStations of East Japan Railway Company",
-          "字数": 1149
+          "链接": "https://ja.wikipedia.org/wiki/%E5%8F%A4%E9%A4%A8%E9%A7%85",
+          "首段": "Furudate Station (古館駅) is a railway station in 県紫波郡紫波町中島字落合, Japan.",
+          "章节": {},
+          "全文": "Furudate Station (古館駅) is a railway station in 県紫波郡紫波町中島字落合, Japan.",
+          "字数": 67
         }
       },
       "结构化信息": {
@@ -727,14 +735,11 @@
         },
         "英文": {
           "词条标题": "Dobukai Station",
-          "链接": "https://en.wikipedia.org/wiki/Dobukai%20Station",
-          "首段": "is a JR East railway station located in the city of Kazuno, Akita Prefecture, Japan.",
-          "章节": {
-            "Lines": "Dobukai Station is served by the Hanawa Line, and is located 84.6 rail kilometers from the terminus of the line at Kōma Station.\n\nStation layout\nDobukai Station consists of a single side platform serving one bi-directional track. The station is unattended.",
-            "History": "Dobukai Station was opened for freight services only on December 25, 1915, as  on the privately owned Akita Railways, serving the village of Nishikigi, Akita. Passenger services began from January 6, 1916. The line was nationalized on June 1, 1934, becoming part of the Japanese Government Railways (JGR) system. The station was renamed to its present name on April 1, 1942. The JGR became the Japan National Railways (JNR) after World War II. The station has been unattended since February 1, 1962. The station was absorbed into the JR East network upon the privatization of the JNR on April 1, 1987.\n\nSurrounding area\n  Route 103\n\nSee also\n List of Railway Stations in Japan\n\nExternal links\n\n  \n\nKazuno, Akita\nHanawa Line\nRailway stations in Japan opened in 1915\nRailway stations in Akita Prefecture\nStations of East Japan Railway Company"
-          },
-          "全文": "is a JR East railway station located in the city of Kazuno, Akita Prefecture, Japan.\n\nLines\nDobukai Station is served by the Hanawa Line, and is located 84.6 rail kilometers from the terminus of the line at Kōma Station.\n\nStation layout\nDobukai Station consists of a single side platform serving one bi-directional track. The station is unattended.\n\nHistory\nDobukai Station was opened for freight services only on December 25, 1915, as  on the privately owned Akita Railways, serving the village of Nishikigi, Akita. Passenger services began from January 6, 1916. The line was nationalized on June 1, 1934, becoming part of the Japanese Government Railways (JGR) system. The station was renamed to its present name on April 1, 1942. The JGR became the Japan National Railways (JNR) after World War II. The station has been unattended since February 1, 1962. The station was absorbed into the JR East network upon the privatization of the JNR on April 1, 1987.\n\nSurrounding area\n  Route 103\n\nSee also\n List of Railway Stations in Japan\n\nExternal links\n\n  \n\nKazuno, Akita\nHanawa Line\nRailway stations in Japan opened in 1915\nRailway stations in Akita Prefecture\nStations of East Japan Railway Company",
-          "字数": 1198
+          "链接": "https://ja.wikipedia.org/wiki/%E5%9C%9F%E6%B7%B1%E4%BA%95%E9%A7%85",
+          "首段": "Dobukai Station (土深井駅) is a railway station in 県鹿角市十和田末広字下モ平（しもたい）, Japan.",
+          "章节": {},
+          "全文": "Dobukai Station (土深井駅) is a railway station in 県鹿角市十和田末広字下モ平（しもたい）, Japan.",
+          "字数": 74
         }
       },
       "结构化信息": {
@@ -813,15 +818,11 @@
         },
         "英文": {
           "词条标题": "Ōbuke Station",
-          "链接": "https://en.wikipedia.org/wiki/%C5%8Cbuke%20Station",
-          "首段": "is a railway station on the Hanawa Line in the city of Hachimantai, Iwate Prefecture, Japan, operated by East Japan Railway Company (JR East).",
-          "章节": {
-            "Lines": "Ōbuke Station is served by the 106.9 km Hanawa Line, and is located 9.0 kilometers from the starting point of the line at .\n\nStation layout\nŌbuke Station has two ground-level opposed side platforms connected by a level crossing. The station has a Midori-no-madoguchi staffed ticket office.",
-            "History": "Ōbuke Station opened on August 27, 1922, as a station serving the village of Ōbuke. The station was absorbed into the JR East network upon the privatization of JNR on April 1, 1987.\n\nA new station structure was built, opening on 23 February 2018, allowing free access between either side of the station.\n\nPassenger statistics\nIn fiscal 2015, the station was used by an average of 269 passengers daily (boarding passengers only).\n\nSurrounding area\n \n Ōbuke Post Office\nHachimantai City Hall\n\nSee also\n List of railway stations in Japan",
-            "References": "External links\n\n  \n\nHanawa Line\nRailway stations in Japan opened in 1922\nRailway stations in Iwate Prefecture\nStations of East Japan Railway Company\nHachimantai, Iwate"
-          },
-          "全文": "is a railway station on the Hanawa Line in the city of Hachimantai, Iwate Prefecture, Japan, operated by East Japan Railway Company (JR East).\n\nLines\nŌbuke Station is served by the 106.9 km Hanawa Line, and is located 9.0 kilometers from the starting point of the line at .\n\nStation layout\nŌbuke Station has two ground-level opposed side platforms connected by a level crossing. The station has a Midori-no-madoguchi staffed ticket office.\n\nPlatforms\n\nHistory\n\nŌbuke Station opened on August 27, 1922, as a station serving the village of Ōbuke. The station was absorbed into the JR East network upon the privatization of JNR on April 1, 1987.\n\nA new station structure was built, opening on 23 February 2018, allowing free access between either side of the station.\n\nPassenger statistics\nIn fiscal 2015, the station was used by an average of 269 passengers daily (boarding passengers only).\n\nSurrounding area\n \n Ōbuke Post Office\nHachimantai City Hall\n\nSee also\n List of railway stations in Japan\n\nReferences\n\nExternal links\n\n  \n\nHanawa Line\nRailway stations in Japan opened in 1922\nRailway stations in Iwate Prefecture\nStations of East Japan Railway Company\nHachimantai, Iwate",
-          "字数": 1176
+          "链接": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%9B%B4%E9%A7%85",
+          "首段": "Ōbuke Station (大更駅) is a railway station in 県八幡平市大更, Japan.",
+          "章节": {},
+          "全文": "Ōbuke Station (大更駅) is a railway station in 県八幡平市大更, Japan.",
+          "字数": 59
         }
       },
       "结构化信息": {
@@ -897,7 +898,14 @@
           "字数": 628,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "大滝温泉駅",
+          "链接": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%BB%9D%E6%B8%A9%E6%B3%89%E9%A7%85",
+          "首段": "大滝温泉駅 (大滝温泉駅) is a railway station in 県大館市十二, Japan.",
+          "章节": {},
+          "全文": "大滝温泉駅 (大滝温泉駅) is a railway station in 県大館市十二, Japan.",
+          "字数": 52
+        }
       },
       "结构化信息": {
         "读音": "おおたきおんせんえき",
@@ -991,17 +999,11 @@
         },
         "英文": {
           "词条标题": "Ōdate Station",
-          "链接": "https://en.wikipedia.org/wiki/%C5%8Cdate%20Station",
-          "首段": "is a junction railway station in the city of Ōdate, Akita, Japan, operated by the East Japan Railway Company (JR East). The station also has a freight depot for the Japan Freight Railway Company (JR Freight).",
-          "章节": {
-            "Lines": "Ōdate Station is a station on the Ōu Main Line, and is located 402.9 km from the terminus of the line at  in Fukushima Prefecture. It is also a terminal station on the Hanawa Line, and is located 106.9 km from the opposing terminus of the line at  in Iwate Prefecture. The station formerly also served the now-defunct Kosaka Smelting & Refining Kosaka Line.\n\nStation layout\nThe station has a single side platform and single island platform serving three tracks, connected to the station building by a footbridge. The station has a Midori no Madoguchi staffed ticket office.",
-            "History": "Ōdate Station opened on November 15, 1899, on the Japanese Government Railways (JGR). The privately owned Kosaka Line began operations in 1909, and the privately owned Akita Railway began operations from July 1, 1914. The Hanaoka Line opened on January 26, 1916. The Akita Railway was nationalized on June 1, 1934.\n\nAfter World War II, the JGR became the Japanese National Railways (JNR). The Hanaoka Line closed on April 1, 1985. The station was absorbed into the JR East network upon the privatization of JNR on April 1, 1987. Kosaka Line passenger operations ceased on October 1, 1994, and freight operations ended on March 12, 2008.",
-            "Hachikō": "A statue of Hachikō was first erected in front of the station in July 1935, but was subsequently melted down for its metal content in World War II, and was not restored until November 1986.\n\nPassenger statistics\nIn fiscal 2018, the station was used by an average of 906 passengers daily (boarding passengers only).\n\nSurrounding area\n Ōdate Station Bus Stop\n Shūhoku Bus Main Office\n\nSee also\n List of Railway Stations in Japan",
-            "References": "External links\n\n JR East Station information \n\nRailway stations in Akita Prefecture\nRailway stations in Japan opened in 1899\nHanawa Line",
-            "Ōdate": "Stations of Japan Freight Railway Company"
-          },
-          "全文": "is a junction railway station in the city of Ōdate, Akita, Japan, operated by the East Japan Railway Company (JR East). The station also has a freight depot for the Japan Freight Railway Company (JR Freight).\n\nLines\nŌdate Station is a station on the Ōu Main Line, and is located 402.9 km from the terminus of the line at  in Fukushima Prefecture. It is also a terminal station on the Hanawa Line, and is located 106.9 km from the opposing terminus of the line at  in Iwate Prefecture. The station formerly also served the now-defunct Kosaka Smelting & Refining Kosaka Line.\n\nStation layout\nThe station has a single side platform and single island platform serving three tracks, connected to the station building by a footbridge. The station has a Midori no Madoguchi staffed ticket office.\n\nPlatforms\n\nHistory\n\nŌdate Station opened on November 15, 1899, on the Japanese Government Railways (JGR). The privately owned Kosaka Line began operations in 1909, and the privately owned Akita Railway began operations from July 1, 1914. The Hanaoka Line opened on January 26, 1916. The Akita Railway was nationalized on June 1, 1934.\n\nAfter World War II, the JGR became the Japanese National Railways (JNR). The Hanaoka Line closed on April 1, 1985. The station was absorbed into the JR East network upon the privatization of JNR on April 1, 1987. Kosaka Line passenger operations ceased on October 1, 1994, and freight operations ended on March 12, 2008.\n\nHachikō\n\nA statue of Hachikō was first erected in front of the station in July 1935, but was subsequently melted down for its metal content in World War II, and was not restored until November 1986.\n\nPassenger statistics\nIn fiscal 2018, the station was used by an average of 906 passengers daily (boarding passengers only).\n\nSurrounding area\n Ōdate Station Bus Stop\n Shūhoku Bus Main Office\n\nSee also\n List of Railway Stations in Japan\n\nReferences\n\nExternal links\n\n JR East Station information \n\nRailway stations in Akita Prefecture\nRailway stations in Japan opened in 1899\nHanawa Line\nŌdate\nStations of Japan Freight Railway Company",
-          "字数": 2082
+          "链接": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%A4%A8%E9%A7%85",
+          "首段": "Ōdate Station (大館駅) is a railway station in 県大館市御成町（おなりちょう）一丁目, Japan.",
+          "章节": {},
+          "全文": "Ōdate Station (大館駅) is a railway station in 県大館市御成町（おなりちょう）一丁目, Japan.",
+          "字数": 70
         }
       },
       "结构化信息": {
@@ -1173,7 +1175,14 @@
           "字数": 724,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "安比高原駅",
+          "链接": "https://ja.wikipedia.org/wiki/%E5%AE%89%E6%AF%94%E9%AB%98%E5%8E%9F%E9%A7%85",
+          "首段": "安比高原駅 (安比高原駅) is a railway station in 県八幡平市安比高原, Japan.",
+          "章节": {},
+          "全文": "安比高原駅 (安比高原駅) is a railway station in 県八幡平市安比高原, Japan.",
+          "字数": 55
+        }
       },
       "结构化信息": {
         "读音": "あっぴこうげんえき",
@@ -1238,15 +1247,11 @@
         },
         "英文": {
           "词条标题": "Koyanohata Station",
-          "链接": "https://en.wikipedia.org/wiki/Koyanohata%20Station",
-          "首段": "is a JR East railway station on the Hanawa Line in the city of Hachimantai, Iwate Prefecture, Japan.",
-          "章节": {
-            "Lines": "Koyanohata Station is served by the 106.9 km Hanawa Line, and is located 33.6 kilometers from the starting point of the line at .\n\nStation layout\nKoyanohata Station has one ground-level side platform serving a single bi-directional track. There is a rain shelter on the platform, but no station building. The station is unattended.",
-            "History": "Koyanohata Station opened on December 1, 1960, serving the town of Ashiro. The station was absorbed into the JR East network upon the privatization of JNR on April 1, 1987.\n\nSurrounding area\nNational Route 282\n\nSee also\n List of Railway Stations in Japan",
-            "References": "External links\n\n  \n\nHanawa Line\nRailway stations in Japan opened in 1960\nRailway stations in Iwate Prefecture\nStations of East Japan Railway Company\nHachimantai, Iwate"
-          },
-          "全文": "is a JR East railway station on the Hanawa Line in the city of Hachimantai, Iwate Prefecture, Japan.\n\nLines\nKoyanohata Station is served by the 106.9 km Hanawa Line, and is located 33.6 kilometers from the starting point of the line at .\n\nStation layout\nKoyanohata Station has one ground-level side platform serving a single bi-directional track. There is a rain shelter on the platform, but no station building. The station is unattended.\n\nHistory\nKoyanohata Station opened on December 1, 1960, serving the town of Ashiro. The station was absorbed into the JR East network upon the privatization of JNR on April 1, 1987.\n\nSurrounding area\nNational Route 282\n\nSee also\n List of Railway Stations in Japan\n\nReferences\n\nExternal links\n\n  \n\nHanawa Line\nRailway stations in Japan opened in 1960\nRailway stations in Iwate Prefecture\nStations of East Japan Railway Company\nHachimantai, Iwate",
-          "字数": 884
+          "链接": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E5%B1%8B%E3%81%AE%E7%95%91%E9%A7%85",
+          "首段": "Koyanohata Station (小屋の畑駅) is a railway station in 県八幡平市保戸坂（ほとざか）, Japan.",
+          "章节": {},
+          "全文": "Koyanohata Station (小屋の畑駅) is a railway station in 県八幡平市保戸坂（ほとざか）, Japan.",
+          "字数": 73
         }
       },
       "结构化信息": {
@@ -1314,7 +1319,14 @@
           "字数": 303,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "岩手飯岡駅",
+          "链接": "https://ja.wikipedia.org/wiki/%E5%B2%A9%E6%89%8B%E9%A3%AF%E5%B2%A1%E9%A7%85",
+          "首段": "岩手飯岡駅 (岩手飯岡駅) is a railway station in 県盛岡市永井, Japan.",
+          "章节": {},
+          "全文": "岩手飯岡駅 (岩手飯岡駅) is a railway station in 県盛岡市永井, Japan.",
+          "字数": 52
+        }
       },
       "结构化信息": {
         "读音": "いわていいおかえき",
@@ -1386,15 +1398,11 @@
         },
         "英文": {
           "词条标题": "Sugo Station",
-          "链接": "https://en.wikipedia.org/wiki/Sugo%20Station",
-          "首段": "is a railway station in the city of Takizawa, Iwate Prefecture, Japan, operated by the Iwate Ginga Railway.",
-          "章节": {
-            "Lines": "Sugo Station is served by the Iwate Ginga Railway Line, and is located 10.2 kilometers from the terminus of the line at Morioka Station and 545.5 kilometers from Tokyo Station. Trains of the Hanawa Line, which officially terminates at  usually continue on to Morioka Station, stopping at all intermediate stations, including Aoyama Station.\n\nStation layout\nSugo Station has two opposed side platforms connected to the station building by a footbridge.  The platforms are at different elevations. The station is staffed. The ticket machine operates from 5:30 a.m. to the midnight.",
-            "History": "Sugo Station was opened on 18 March 2006.\n\nPassenger statistics\nIn fiscal 2015, the station was used by an average of 994 passengers daily.\n\nSurrounding area\n  Japan National Route 4",
-            "References": "External links\n\n  \n\nRailway stations in Iwate Prefecture\nIwate Galaxy Railway Line\nRailway stations in Japan opened in 2006\nTakizawa, Iwate"
-          },
-          "全文": "is a railway station in the city of Takizawa, Iwate Prefecture, Japan, operated by the Iwate Ginga Railway.\n\nLines\nSugo Station is served by the Iwate Ginga Railway Line, and is located 10.2 kilometers from the terminus of the line at Morioka Station and 545.5 kilometers from Tokyo Station. Trains of the Hanawa Line, which officially terminates at  usually continue on to Morioka Station, stopping at all intermediate stations, including Aoyama Station.\n\nStation layout\nSugo Station has two opposed side platforms connected to the station building by a footbridge.  The platforms are at different elevations. The station is staffed. The ticket machine operates from 5:30 a.m. to the midnight.\n\nPlatforms\n\nHistory\nSugo Station was opened on 18 March 2006.\n\nPassenger statistics\nIn fiscal 2015, the station was used by an average of 994 passengers daily.\n\nSurrounding area\n  Japan National Route 4\n\nReferences\n\nExternal links\n\n  \n\nRailway stations in Iwate Prefecture\nIwate Galaxy Railway Line\nRailway stations in Japan opened in 2006\nTakizawa, Iwate",
-          "字数": 1050
+          "链接": "https://ja.wikipedia.org/wiki/%E5%B7%A3%E5%AD%90%E9%A7%85",
+          "首段": "Sugo Station (巣子駅) is a railway station in 県滝沢市巣子, Japan.",
+          "章节": {},
+          "全文": "Sugo Station (巣子駅) is a railway station in 県滝沢市巣子, Japan.",
+          "字数": 57
         }
       },
       "结构化信息": {
@@ -1469,15 +1477,11 @@
         },
         "英文": {
           "词条标题": "Tairadate Station",
-          "链接": "https://en.wikipedia.org/wiki/Tairadate%20Station",
-          "首段": "is an East Japan Railway Company (JR East) railway station on the Hanawa Line in the city of Hachimantai, Iwate Prefecture, Japan.",
-          "章节": {
-            "Lines": "Tairadate Station is served by the 106.9 km Hanawa Line, and is located 13.7 kilometers from the starting point of the line at .\n\nStation layout\nTairadate Station has a single ground-level side platform serving a single bi-directional track. The station is unattended.",
-            "History": "Tairadate Station opened on August 27, 1922, as a station serving the village of Tairadate. The station was absorbed into the JR East network upon the privatization of JNR on April 1, 1987.\n\nSurrounding area\nNational Route 282\nTairadate Post Office\n\nSee also\n List of Railway Stations in Japan",
-            "References": "External links\n\n  \n\nHanawa Line\nRailway stations in Japan opened in 1922\nRailway stations in Iwate Prefecture\nStations of East Japan Railway Company\nHachimantai, Iwate"
-          },
-          "全文": "is an East Japan Railway Company (JR East) railway station on the Hanawa Line in the city of Hachimantai, Iwate Prefecture, Japan.\n\nLines\nTairadate Station is served by the 106.9 km Hanawa Line, and is located 13.7 kilometers from the starting point of the line at .\n\nStation layout\nTairadate Station has a single ground-level side platform serving a single bi-directional track. The station is unattended.\n\nHistory\nTairadate Station opened on August 27, 1922, as a station serving the village of Tairadate. The station was absorbed into the JR East network upon the privatization of JNR on April 1, 1987.\n\nSurrounding area\nNational Route 282\nTairadate Post Office\n\nSee also\n List of Railway Stations in Japan\n\nReferences\n\nExternal links\n\n  \n\nHanawa Line\nRailway stations in Japan opened in 1922\nRailway stations in Iwate Prefecture\nStations of East Japan Railway Company\nHachimantai, Iwate",
-          "字数": 890
+          "链接": "https://ja.wikipedia.org/wiki/%E5%B9%B3%E9%A4%A8%E9%A7%85",
+          "首段": "Tairadate Station (平館駅) is a railway station in 県八幡平市平舘, Japan.",
+          "章节": {},
+          "全文": "Tairadate Station (平館駅) is a railway station in 県八幡平市平舘, Japan.",
+          "字数": 63
         }
       },
       "结构化信息": {
@@ -1559,17 +1563,11 @@
         },
         "英文": {
           "词条标题": "Ōgita Station",
-          "链接": "https://en.wikipedia.org/wiki/%C5%8Cgita%20Station",
-          "首段": "is a railway station located in the city of Ōdate, Akita Prefecture, Japan, operated by the East Japan Railway Company (JR East).",
-          "章节": {
-            "Lines": "Ōgita Station is served by the Hanawa Line, and is located 98.6 km from the terminus of the line at .\n\nStation layout\nThe station was built with an island platform, but only one side of the platform is in use, thus making the station a single side platform serving bi-directional traffic. The station is unattended.",
-            "History": "Ōgita Station was opened on July 1, 1914 on the privately owned Akita Railways, serving the town of Ōgita, Akita. The line was nationalized on June 1, 1934, becoming part of the Japanese Government Railways (JGR) system, which became the Japan National Railways (JNR) after World War II. The station was absorbed into the JR East network upon the privatization of the JNR on April 1, 1987. The station has been unattended since April 2003.\n\nPassenger statistics\nIn fiscal 2001, the station was used by an average of 103 passengers daily (boarding passengers only).\n\nSurrounding area",
-            "Bypass": "See also\n List of Railway Stations in Japan",
-            "References": "External links\n\n JR East Station information \n\nRailway stations in Japan opened in 1914\nRailway stations in Akita Prefecture\nStations of East Japan Railway Company",
-            "Ōdate": "Hanawa Line"
-          },
-          "全文": "is a railway station located in the city of Ōdate, Akita Prefecture, Japan, operated by the East Japan Railway Company (JR East).\n\nLines\nŌgita Station is served by the Hanawa Line, and is located 98.6 km from the terminus of the line at .\n\nStation layout\nThe station was built with an island platform, but only one side of the platform is in use, thus making the station a single side platform serving bi-directional traffic. The station is unattended.\n\nHistory\nŌgita Station was opened on July 1, 1914 on the privately owned Akita Railways, serving the town of Ōgita, Akita. The line was nationalized on June 1, 1934, becoming part of the Japanese Government Railways (JGR) system, which became the Japan National Railways (JNR) after World War II. The station was absorbed into the JR East network upon the privatization of the JNR on April 1, 1987. The station has been unattended since April 2003.\n\nPassenger statistics\nIn fiscal 2001, the station was used by an average of 103 passengers daily (boarding passengers only).\n\nSurrounding area\n  Bypass\n\nSee also\n List of Railway Stations in Japan\n\nReferences\n\nExternal links\n\n JR East Station information \n\nRailway stations in Japan opened in 1914\nRailway stations in Akita Prefecture\nStations of East Japan Railway Company\nŌdate\nHanawa Line",
-          "字数": 1293
+          "链接": "https://ja.wikipedia.org/wiki/%E6%89%87%E7%94%B0%E9%A7%85",
+          "首段": "Ōgita Station (扇田駅) is a railway station in 県大館市比内町扇田字上中島, Japan.",
+          "章节": {},
+          "全文": "Ōgita Station (扇田駅) is a railway station in 県大館市比内町扇田字上中島, Japan.",
+          "字数": 65
         }
       },
       "结构化信息": {
@@ -1645,15 +1643,11 @@
         },
         "英文": {
           "词条标题": "Hizume Station",
-          "链接": "https://en.wikipedia.org/wiki/Hizume%20Station",
-          "首段": "is a railway station in the town of Shiwa, Iwate Prefecture, Japan, operated by East Japan Railway Company (JR East).",
-          "章节": {
-            "Lines": "Hizume Station is served by the Tōhoku Main Line, and is located 516.9 rail kilometers from the terminus of the line at Tokyo Station.\n\nStation layout\nThe station has an island platform and a single side platform serving three tracks, connected to the station building by a footbridge.  The station is staffed and has a Midori no Madoguchi ticket office.",
-            "History": "Hizume Station was opened on 1 November 1890. The station was absorbed into the JR East network upon the privatization of the Japanese National Railways (JNR) on 1 April 1987.\n\nPassenger statistics\nIn fiscal 2018, the station was used by an average of 515 passengers daily (boarding passengers only).\n\nSurrounding area\n Kodō Nomura Memorial Museum\n\nSee also\n List of Railway Stations in Japan",
-            "References": "External links\n\n  \n\nRailway stations in Iwate Prefecture\nTōhoku Main Line\nRailway stations in Japan opened in 1890\nShiwa, Iwate\nStations of East Japan Railway Company"
-          },
-          "全文": "is a railway station in the town of Shiwa, Iwate Prefecture, Japan, operated by East Japan Railway Company (JR East).\n\nLines\nHizume Station is served by the Tōhoku Main Line, and is located 516.9 rail kilometers from the terminus of the line at Tokyo Station.\n\nStation layout\nThe station has an island platform and a single side platform serving three tracks, connected to the station building by a footbridge.  The station is staffed and has a Midori no Madoguchi ticket office.\n\nPlatforms\n\nHistory\nHizume Station was opened on 1 November 1890. The station was absorbed into the JR East network upon the privatization of the Japanese National Railways (JNR) on 1 April 1987.\n\nPassenger statistics\nIn fiscal 2018, the station was used by an average of 515 passengers daily (boarding passengers only).\n\nSurrounding area\n Kodō Nomura Memorial Museum\n\nSee also\n List of Railway Stations in Japan\n\nReferences\n\nExternal links\n\n  \n\nRailway stations in Iwate Prefecture\nTōhoku Main Line\nRailway stations in Japan opened in 1890\nShiwa, Iwate\nStations of East Japan Railway Company",
-          "字数": 1072
+          "链接": "https://ja.wikipedia.org/wiki/%E6%97%A5%E8%A9%B0%E9%A7%85",
+          "首段": "Hizume Station (日詰駅) is a railway station in 県紫波郡紫波町北日詰字八反田（はったんだ）, Japan.",
+          "章节": {},
+          "全文": "Hizume Station (日詰駅) is a railway station in 県紫波郡紫波町北日詰字八反田（はったんだ）, Japan.",
+          "字数": 74
         }
       },
       "结构化信息": {
@@ -1726,14 +1720,11 @@
         },
         "英文": {
           "词条标题": "Suehiro Station",
-          "链接": "https://en.wikipedia.org/wiki/Suehiro%20Station",
-          "首段": "is a JR East railway station located in the city of Kazuno, Akita Prefecture, Japan.",
-          "章节": {
-            "Lines": "Suehiro Station is served by the Hanawa Line, and is located 82.8 rail kilometers from the terminus of the line at Kōma Station.\n\nStation layout\nSuehiro Station consists of a single side platform serving one bi-directional track. The station is unattended.",
-            "History": "Suehiro Station was opened for freight services only on December 25, 1915 as  on the privately owned Akita Railways, serving the village of Nishikigi, Akita. Passenger services began from January 6, 1916. The station was renamed to its present name on March 1, 1920. The line was nationalized on June 1, 1934, becoming part of the Japanese Government Railways (JGR) system. The JGR became the Japan National Railways (JNR) after World War II. The station has been unattended since February 1, 1962. The station was absorbed into the JR East network upon the privatization of the JNR on April 1, 1987. A new shelter was built on the platform in 2005.\n\nSurrounding area\n  Route 103\n\nSee also\n List of Railway Stations in Japan\n\nExternal links\n\n  \n\nRailway stations in Japan opened in 1915\nKazuno, Akita\nHanawa Line\nRailway stations in Akita Prefecture\nStations of East Japan Railway Company"
-          },
-          "全文": "is a JR East railway station located in the city of Kazuno, Akita Prefecture, Japan.\n\nLines\nSuehiro Station is served by the Hanawa Line, and is located 82.8 rail kilometers from the terminus of the line at Kōma Station.\n\nStation layout\nSuehiro Station consists of a single side platform serving one bi-directional track. The station is unattended.\n\nHistory\nSuehiro Station was opened for freight services only on December 25, 1915 as  on the privately owned Akita Railways, serving the village of Nishikigi, Akita. Passenger services began from January 6, 1916. The station was renamed to its present name on March 1, 1920. The line was nationalized on June 1, 1934, becoming part of the Japanese Government Railways (JGR) system. The JGR became the Japan National Railways (JNR) after World War II. The station has been unattended since February 1, 1962. The station was absorbed into the JR East network upon the privatization of the JNR on April 1, 1987. A new shelter was built on the platform in 2005.\n\nSurrounding area\n  Route 103\n\nSee also\n List of Railway Stations in Japan\n\nExternal links\n\n  \n\nRailway stations in Japan opened in 1915\nKazuno, Akita\nHanawa Line\nRailway stations in Akita Prefecture\nStations of East Japan Railway Company",
-          "字数": 1246
+          "链接": "https://ja.wikipedia.org/wiki/%E6%9C%AB%E5%BA%83%E9%A7%85",
+          "首段": "Suehiro Station (末広駅) is a railway station in 県鹿角市十和田末広字向平（むかいたい）, Japan.",
+          "章节": {},
+          "全文": "Suehiro Station (末広駅) is a railway station in 県鹿角市十和田末広字向平（むかいたい）, Japan.",
+          "字数": 73
         }
       },
       "结构化信息": {
@@ -1804,7 +1795,14 @@
           "字数": 371,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "東大更駅",
+          "链接": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E5%A4%A7%E6%9B%B4%E9%A7%85",
+          "首段": "東大更駅 (東大更駅) is a railway station in 県八幡平市大更, Japan.",
+          "章节": {},
+          "全文": "東大更駅 (東大更駅) is a railway station in 県八幡平市大更, Japan.",
+          "字数": 51
+        }
       },
       "结构化信息": {
         "读音": "ひがしおおぶけえき",
@@ -1883,7 +1881,14 @@
           "字数": 990,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "東大館駅",
+          "链接": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E5%A4%A7%E9%A4%A8%E9%A7%85",
+          "首段": "東大館駅 (東大館駅) is a railway station in 県大館市常盤木町（ときわぎちょう）, Japan.",
+          "章节": {},
+          "全文": "東大館駅 (東大館駅) is a railway station in 県大館市常盤木町（ときわぎちょう）, Japan.",
+          "字数": 61
+        }
       },
       "结构化信息": {
         "读音": "ひがしおおだてえき",
@@ -1965,7 +1970,14 @@
           "字数": 685,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "松尾八幡平駅",
+          "链接": "https://ja.wikipedia.org/wiki/%E6%9D%BE%E5%B0%BE%E5%85%AB%E5%B9%A1%E5%B9%B3%E9%A7%85",
+          "首段": "松尾八幡平駅 (松尾八幡平駅) is a railway station in 県八幡平市松尾, Japan.",
+          "章节": {},
+          "全文": "松尾八幡平駅 (松尾八幡平駅) is a railway station in 県八幡平市松尾, Japan.",
+          "字数": 55
+        }
       },
       "结构化信息": {
         "读音": "まつおはちまんたいえき",
@@ -2035,14 +2047,11 @@
         },
         "英文": {
           "词条标题": "Shibahira Station",
-          "链接": "https://en.wikipedia.org/wiki/Shibahira%20Station",
-          "首段": "is a JR East railway station located in the city of Kazuno, Akita Prefecture, Japan.",
-          "章节": {
-            "Lines": "Shibahira Station is served by the Hanawa Line, and is located 74.7 rail kilometers from the terminus of the line at Kōma Station.\n\nStation layout\nShibahira Station consists of one side platform serving a single bi-directional track. The station is unattended.",
-            "History": "Shibahira Station was opened on November 10, 1923 as a station on the privately owned Akita Railways, serving the village of Shibahira, Akita. The line was nationalized on June 1, 1934, becoming part of the Japanese Government Railways (JGR) system. The JGR became the Japan National Railways (JNR) after World War II. The station has been unattended since October 1, 1971. The station was absorbed into the JR East network upon the privatization of the JNR on April 1, 1987.\n\nSurrounding area\nKazuno City Hall\n\nSee also\n List of Railway Stations in Japan\n\nExternal links\n\n  \n\nKazuno, Akita\nHanawa Line\nRailway stations in Japan opened in 1923\nRailway stations in Akita Prefecture\nStations of East Japan Railway Company"
-          },
-          "全文": "is a JR East railway station located in the city of Kazuno, Akita Prefecture, Japan.\n\nLines\nShibahira Station is served by the Hanawa Line, and is located 74.7 rail kilometers from the terminus of the line at Kōma Station.\n\nStation layout\nShibahira Station consists of one side platform serving a single bi-directional track. The station is unattended.\n\nHistory\nShibahira Station was opened on November 10, 1923 as a station on the privately owned Akita Railways, serving the village of Shibahira, Akita. The line was nationalized on June 1, 1934, becoming part of the Japanese Government Railways (JGR) system. The JGR became the Japan National Railways (JNR) after World War II. The station has been unattended since October 1, 1971. The station was absorbed into the JR East network upon the privatization of the JNR on April 1, 1987.\n\nSurrounding area\nKazuno City Hall\n\nSee also\n List of Railway Stations in Japan\n\nExternal links\n\n  \n\nKazuno, Akita\nHanawa Line\nRailway stations in Japan opened in 1923\nRailway stations in Akita Prefecture\nStations of East Japan Railway Company",
-          "字数": 1081
+          "链接": "https://ja.wikipedia.org/wiki/%E6%9F%B4%E5%B9%B3%E9%A7%85",
+          "首段": "Shibahira Station (柴平駅) is a railway station in 県鹿角市花輪字堰ノ口（せきのくち）, Japan.",
+          "章节": {},
+          "全文": "Shibahira Station (柴平駅) is a railway station in 県鹿角市花輪字堰ノ口（せきのくち）, Japan.",
+          "字数": 73
         }
       },
       "结构化信息": {
@@ -2118,15 +2127,11 @@
         },
         "英文": {
           "词条标题": "Yokoma Station",
-          "链接": "https://en.wikipedia.org/wiki/Yokoma%20Station",
-          "首段": "is a JR East railway station on the Hanawa Line in the city of Hachimantai, Iwate Prefecture, Japan.",
-          "章节": {
-            "Lines": "Yokoma Station is served by the 106.9 km Hanawa Line, and is located 40.3 kilometers from the starting point of the line at .\n\nStation layout\nYokoma Station consists of a single ground-level side platform serving a single bi-directional track. There is no station building, but only a small shelter on the platform. The station is unattended.",
-            "History": "Yokoma Station opened on November 1, 1966, serving the town of Ashiro. The station was absorbed into the JR East network upon the privatization of JNR on April 1, 1987.\n\nSurrounding area\nThe station is located in a rural area, surrounded by fields. There are no buildings nearby.\n\nSee also\n List of Railway Stations in Japan",
-            "References": "External links\n\n  \n\nHanawa Line\nRailway stations in Japan opened in 1966\nRailway stations in Iwate Prefecture\nStations of East Japan Railway Company\nHachimantai, Iwate"
-          },
-          "全文": "is a JR East railway station on the Hanawa Line in the city of Hachimantai, Iwate Prefecture, Japan.\n\nLines\nYokoma Station is served by the 106.9 km Hanawa Line, and is located 40.3 kilometers from the starting point of the line at .\n\nStation layout\nYokoma Station consists of a single ground-level side platform serving a single bi-directional track. There is no station building, but only a small shelter on the platform. The station is unattended.\n\nHistory\nYokoma Station opened on November 1, 1966, serving the town of Ashiro. The station was absorbed into the JR East network upon the privatization of JNR on April 1, 1987.\n\nSurrounding area\nThe station is located in a rural area, surrounded by fields. There are no buildings nearby.\n\nSee also\n List of Railway Stations in Japan\n\nReferences\n\nExternal links\n\n  \n\nHanawa Line\nRailway stations in Japan opened in 1966\nRailway stations in Iwate Prefecture\nStations of East Japan Railway Company\nHachimantai, Iwate",
-          "字数": 965
+          "链接": "https://ja.wikipedia.org/wiki/%E6%A8%AA%E9%96%93%E9%A7%85",
+          "首段": "Yokoma Station (横間駅) is a railway station in 県八幡平市打田内（うつたない）, Japan.",
+          "章节": {},
+          "全文": "Yokoma Station (横間駅) is a railway station in 県八幡平市打田内（うつたない）, Japan.",
+          "字数": 68
         }
       },
       "结构化信息": {
@@ -2193,15 +2198,11 @@
         },
         "英文": {
           "词条标题": "Sawajiri Station",
-          "链接": "https://en.wikipedia.org/wiki/Sawajiri%20Station",
-          "首段": "is a railway station located in the city of Ōdate, Akita Prefecture, Japan, operated by the East Japan Railway Company (JR East).",
-          "章节": {
-            "Lines": "Sawajiri Station is served by the Hanawa Line, and is located 86.6 km from the terminus of the line at .\n\nStation layout\nThe station consists of one side platform serving a single bi-directional track. The station is unattended.",
-            "History": "Sawajiri Station was opened on July 11, 1928 on the privately owned Akita Railways, serving the town of Jūnisho, Akita. The line was nationalized on June 1, 1934, becoming part of the Japanese Government Railways (JGR) system. The station was closed from November 11, 1944, reopening on February 1, 1962 as part of the Japan National Railways (JNR). The station was absorbed into the JR East network upon the privatization of the JNR on April 1, 1987.\n\nSurrounding area\n\nSee also\n List of Railway Stations in Japan\n\nExternal links\n\n JR East Station information \n\nRailway stations in Japan opened in 1928\nRailway stations in Akita Prefecture\nStations of East Japan Railway Company",
-            "Ōdate": "Hanawa Line"
-          },
-          "全文": "is a railway station located in the city of Ōdate, Akita Prefecture, Japan, operated by the East Japan Railway Company (JR East).\n\nLines\nSawajiri Station is served by the Hanawa Line, and is located 86.6 km from the terminus of the line at .\n\nStation layout\nThe station consists of one side platform serving a single bi-directional track. The station is unattended.\n\nHistory\nSawajiri Station was opened on July 11, 1928 on the privately owned Akita Railways, serving the town of Jūnisho, Akita. The line was nationalized on June 1, 1934, becoming part of the Japanese Government Railways (JGR) system. The station was closed from November 11, 1944, reopening on February 1, 1962 as part of the Japan National Railways (JNR). The station was absorbed into the JR East network upon the privatization of the JNR on April 1, 1987.\n\nSurrounding area\n\nSee also\n List of Railway Stations in Japan\n\nExternal links\n\n JR East Station information \n\nRailway stations in Japan opened in 1928\nRailway stations in Akita Prefecture\nStations of East Japan Railway Company\nŌdate\nHanawa Line",
-          "字数": 1072
+          "链接": "https://ja.wikipedia.org/wiki/%E6%B2%A2%E5%B0%BB%E9%A7%85",
+          "首段": "Sawajiri Station (沢尻駅) is a railway station in 県大館市十二, Japan.",
+          "章节": {},
+          "全文": "Sawajiri Station (沢尻駅) is a railway station in 県大館市十二, Japan.",
+          "字数": 61
         }
       },
       "结构化信息": {
@@ -2285,15 +2286,11 @@
         },
         "英文": {
           "词条标题": "Shibutami Station",
-          "链接": "https://en.wikipedia.org/wiki/Shibutami%20Station",
-          "首段": "is a railway station in the city of Morioka, Iwate Prefecture, Japan, operated by the Iwate Ginga Railway.",
-          "章节": {
-            "Lines": "Shibutami Station is served by the Iwate Ginga Railway Line, and is located  from the terminus of the line at Morioka Station and  from Tokyo Station. Trains of the JR East Hanawa Line, which officially terminates at  usually continue on to Morioka Station, stopping at all intermediate stations, including Shibutami Station.\n\nStation layout\nShibutami Station has two opposed side platforms connected to the station building by a footbridge. The station is staffed.",
-            "History": "Shibutami Station was opened on 1 December 1950. The station was absorbed into the JR East network upon the privatization of the Japanese National Railways (JNR) on 1 April 1987 and was transferred to the Iwate Ginga Railway on 1 September 2002.\n\nPassenger statistics\nIn fiscal 2015, the station was used by an average of 660 passengers daily.\n\nSurrounding area\n Kitakami River\nShibutami Post Office\nTakuboku Ishikawa Memorial Museum",
-            "References": "External links\n\n  \n\nRailway stations in Iwate Prefecture\nIwate Galaxy Railway Line\nRailway stations in Japan opened in 1950\nMorioka, Iwate"
-          },
-          "全文": "is a railway station in the city of Morioka, Iwate Prefecture, Japan, operated by the Iwate Ginga Railway.\n\nLines\nShibutami Station is served by the Iwate Ginga Railway Line, and is located  from the terminus of the line at Morioka Station and  from Tokyo Station. Trains of the JR East Hanawa Line, which officially terminates at  usually continue on to Morioka Station, stopping at all intermediate stations, including Shibutami Station.\n\nStation layout\nShibutami Station has two opposed side platforms connected to the station building by a footbridge. The station is staffed.\n\nPlatforms\n\nHistory\nShibutami Station was opened on 1 December 1950. The station was absorbed into the JR East network upon the privatization of the Japanese National Railways (JNR) on 1 April 1987 and was transferred to the Iwate Ginga Railway on 1 September 2002.\n\nPassenger statistics\nIn fiscal 2015, the station was used by an average of 660 passengers daily.\n\nSurrounding area\n Kitakami River\nShibutami Post Office\nTakuboku Ishikawa Memorial Museum\n\nReferences\n\nExternal links\n\n  \n\nRailway stations in Iwate Prefecture\nIwate Galaxy Railway Line\nRailway stations in Japan opened in 1950\nMorioka, Iwate",
-          "字数": 1185
+          "链接": "https://ja.wikipedia.org/wiki/%E6%B8%8B%E6%B0%91%E9%A7%85",
+          "首段": "Shibutami Station (渋民駅) is a railway station in 県盛岡市下田字陣場, Japan.",
+          "章节": {},
+          "全文": "Shibutami Station (渋民駅) is a railway station in 県盛岡市下田字陣場, Japan.",
+          "字数": 65
         }
       },
       "结构化信息": {
@@ -2369,7 +2366,14 @@
           "字数": 730,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "湯瀬温泉駅",
+          "链接": "https://ja.wikipedia.org/wiki/%E6%B9%AF%E7%80%AC%E6%B8%A9%E6%B3%89%E9%A7%85",
+          "首段": "湯瀬温泉駅 (湯瀬温泉駅) is a railway station in 県鹿角市八幡平湯瀬, Japan.",
+          "章节": {},
+          "全文": "湯瀬温泉駅 (湯瀬温泉駅) is a railway station in 県鹿角市八幡平湯瀬, Japan.",
+          "字数": 55
+        }
       },
       "结构化信息": {
         "读音": "ゆぜおんせんえき",
@@ -2444,15 +2448,11 @@
         },
         "英文": {
           "词条标题": "Takizawa Station",
-          "链接": "https://en.wikipedia.org/wiki/Takizawa%20Station",
-          "首段": "is a railway station on the Iwate Ginga Railway Line in the city of Takizawa, Iwate Prefecture, Japan, operated by the third-sector railway operator Iwate Ginga Railway Company.",
-          "章节": {
-            "Lines": "Takizawa Station is served by the Iwate Ginga Railway Line, and is located 12.2 kilometers from the starting point of the line at Morioka Station, and 547.5 kilometers from Tokyo Station. Trains of the JR East Hanawa Line, which officially terminates at , usually continue on to Morioka Station, stopping at all intermediate stations, including Takisawa Station.\n\nStation layout\nTakizawa Station has one island platform and one side platform serving three tracks, connected to the station building by a footbridge. The station is staffed.\n\nA special fenced area for rail enthusiasts and photographers, called \"Takizawa Station Train Spotters\", was set up at the south end of platform 2/3 on 14 October 2017.",
-            "History": "Takizawa Station opened on 21 January 1906. The station building was rebuilt in September 1967. The station was absorbed into the JR East network upon the privatization of the Japanese National Railways (JNR) on 1 April 1987, and was transferred to the Iwate Ginga Railway on 1 September 2002.\n\nPassenger statistics\nIn fiscal 2015, the station was used by an average of 3,095 passengers daily.\n\nSurrounding area\n Iwate Prefectural University\n Morioka University\n\nSee also\n List of railway stations in Japan",
-            "References": "External links\n\n  \n\nRailway stations in Iwate Prefecture\nIwate Galaxy Railway Line\nRailway stations in Japan opened in 1906\nTakizawa, Iwate"
-          },
-          "全文": "is a railway station on the Iwate Ginga Railway Line in the city of Takizawa, Iwate Prefecture, Japan, operated by the third-sector railway operator Iwate Ginga Railway Company.\n\nLines\nTakizawa Station is served by the Iwate Ginga Railway Line, and is located 12.2 kilometers from the starting point of the line at Morioka Station, and 547.5 kilometers from Tokyo Station. Trains of the JR East Hanawa Line, which officially terminates at , usually continue on to Morioka Station, stopping at all intermediate stations, including Takisawa Station.\n\nStation layout\nTakizawa Station has one island platform and one side platform serving three tracks, connected to the station building by a footbridge. The station is staffed.\n\nA special fenced area for rail enthusiasts and photographers, called \"Takizawa Station Train Spotters\", was set up at the south end of platform 2/3 on 14 October 2017.\n\nPlatforms\n\nHistory\nTakizawa Station opened on 21 January 1906. The station building was rebuilt in September 1967. The station was absorbed into the JR East network upon the privatization of the Japanese National Railways (JNR) on 1 April 1987, and was transferred to the Iwate Ginga Railway on 1 September 2002.\n\nPassenger statistics\nIn fiscal 2015, the station was used by an average of 3,095 passengers daily.\n\nSurrounding area\n Iwate Prefectural University\n Morioka University\n\nSee also\n List of railway stations in Japan\n\nReferences\n\nExternal links\n\n  \n\nRailway stations in Iwate Prefecture\nIwate Galaxy Railway Line\nRailway stations in Japan opened in 1906\nTakizawa, Iwate",
-          "字数": 1572
+          "链接": "https://ja.wikipedia.org/wiki/%E6%BB%9D%E6%B2%A2%E9%A7%85",
+          "首段": "Takizawa Station (滝沢駅) is a railway station in 県滝沢市野沢, Japan.",
+          "章节": {},
+          "全文": "Takizawa Station (滝沢駅) is a railway station in 県滝沢市野沢, Japan.",
+          "字数": 61
         }
       },
       "结构化信息": {
@@ -2528,15 +2528,11 @@
         },
         "英文": {
           "词条标题": "Tayama Station",
-          "链接": "https://en.wikipedia.org/wiki/Tayama%20Station",
-          "首段": "is a JR East railway station on the Hanawa Line in the city of Hachimantai, Iwate Prefecture, Japan.",
-          "章节": {
-            "Lines": "Tayama Station is served by the 106.9 km Hanawa Line, and is located 49.1 kilometers from the starting point of the line at .\n\nStation layout\nTayama Station consists of a single ground-level side platform serving a single bi-directional track. The station is unattended.",
-            "History": "Tayama Station opened on October 25, 1929, serving the village of Tayama. The station was absorbed into the JR East network upon the privatization of JNR on April 1, 1987.\n\nSurrounding area\n  National Route 282\nTayama Post Office\nTayama Ski Resort\nTayama Onsen\n\nSee also\n List of Railway Stations in Japan",
-            "References": "External links\n\n  \n\nHanawa Line\nRailway stations in Japan opened in 1929\nRailway stations in Iwate Prefecture\nStations of East Japan Railway Company\nHachimantai, Iwate"
-          },
-          "全文": "is a JR East railway station on the Hanawa Line in the city of Hachimantai, Iwate Prefecture, Japan.\n\nLines\nTayama Station is served by the 106.9 km Hanawa Line, and is located 49.1 kilometers from the starting point of the line at .\n\nStation layout\nTayama Station consists of a single ground-level side platform serving a single bi-directional track. The station is unattended.\n\nHistory\nTayama Station opened on October 25, 1929, serving the village of Tayama. The station was absorbed into the JR East network upon the privatization of JNR on April 1, 1987.\n\nSurrounding area\n  National Route 282\nTayama Post Office\nTayama Ski Resort\nTayama Onsen\n\nSee also\n List of Railway Stations in Japan\n\nReferences\n\nExternal links\n\n  \n\nHanawa Line\nRailway stations in Japan opened in 1929\nRailway stations in Iwate Prefecture\nStations of East Japan Railway Company\nHachimantai, Iwate",
-          "字数": 874
+          "链接": "https://ja.wikipedia.org/wiki/%E7%94%B0%E5%B1%B1%E9%A7%85",
+          "首段": "Tayama Station (田山駅) is a railway station in 県八幡平市石名坂（いしなざか）, Japan.",
+          "章节": {},
+          "全文": "Tayama Station (田山駅) is a railway station in 県八幡平市石名坂（いしなざか）, Japan.",
+          "字数": 68
         }
       },
       "结构化信息": {
@@ -2626,16 +2622,11 @@
         },
         "英文": {
           "词条标题": "Morioka Station",
-          "链接": "https://en.wikipedia.org/wiki/Morioka%20Station",
-          "首段": "Morioka Station (, ) is a railway station in Morioka, Iwate Prefecture, Japan. It is operated by JR East.",
-          "章节": {
-            "Lines": "Morioka Station is a major junction station, and is where the Akita Shinkansen splits off from the Tōhoku Shinkansen. It is located  from Tokyo Station. Local JR East services are provided by the Tohoku Main Line, Tazawako Line and Yamada Line, all of which terminate at Morioka Station. The station is also the southern terminus of the third-sector Iwate Ginga Railway Line.\n\nStation layout\nThe station has three elevated island platforms for Shinkansen services, and four island platforms for local services. The station has a Midori no Madoguchi staffed ticket office.",
-            "History": "The station was opened on November 1, 1890, by Japan's first private railway company, Nippon Railway. The line was nationalized in 1906. Services on the Tazawako Line started in 1921, on the Yamada line in 1923, the Tohoku Shinkansen in 1982 and the Akita Shinkansen in 1997. The station was absorbed into the JR East network upon the privatization of the Japanese National Railways (JNR) on 1 April 1987.\n\nPassenger statistics\nIn fiscal 2015, the JR East portion of the station was used by an average of 17,784 passengers daily (boarding passengers only). The Iwate Ginga Railway portion of the station was used by an average of 3,257 passengers daily.\n\nSurrounding area\n\nEast exit \n Morioka Station building \"Fezan\"\n Moriokaekimae Post office\n JR East Morioka branch office\n JR bus Tōhoku Morioka branch office\n\nWest exit\nIwate Asahi Television Co., Ltd.\n\nConnecting bus routes",
-            "Local": "JR Bus Tōhoku\nFor Kuji Station via Iwate-Numakunai Station and Kuzumaki\nFor Iwaizumi via Hayasaka-Kōgen\nIwate-Kenhoku Bus\nFor Miyako Station (\"Route 106 Express Bus\")\nFor Iwate-Funakoshi Station via Miyako Station (\"Route 106 Express Bus\")\nFor Numakunai via Kuriyagawa Station and Iwate-Shibutami\nIwate Kenkotsu Bus\nFor Ōfunato via Setamai\nFor Hanamaki Airport\n\nLong-distance (Highway bus)\nDeparts from the west exit\nFor Aomori Station via Kosaka (\"Asunaro\")\nFor Hirosaki Bus Terminai via Tohoku-Ōwani (\"Yodel\")\nFor Hachinohe Rapia via Kunohe (\"Hassei\")\nFor Sendai Station (\"Urban\")\nFor Karumai or Ōno (\"Win day\")\nFor Lake Towada (\"Towadako\")\nFor　Tamachi Station (Tokyo) via Tokyo Station (\"Iwate Kizuna\")\n\nDeparts from the east exit\nFor Ōdate Station via Kazuno-Hanawa Station (\"Michinoku\")\nFor Jōboji or Ninohe Station (\"Super Yūyū\")\nFor Tokyo Station via Ikebukuro Station (\"Rakuchin\", All reserved seats)\nFor Hon-Atsugi Station via Yokohama Station, Machida Station\n\nSee also\n List of railway stations in Japan",
-            "References": "External links\n\n  (JR East) \n IGR Station information  \n\nRailway stations in Japan opened in 1890\nRailway stations in Iwate Prefecture\nTōhoku Shinkansen\nAkita Shinkansen\nTōhoku Main Line\nIwate Galaxy Railway Line\nTazawako Line\nYamada Line (JR East)\nMorioka, Iwate"
-          },
-          "全文": "Morioka Station (, ) is a railway station in Morioka, Iwate Prefecture, Japan. It is operated by JR East.\n\nLines\nMorioka Station is a major junction station, and is where the Akita Shinkansen splits off from the Tōhoku Shinkansen. It is located  from Tokyo Station. Local JR East services are provided by the Tohoku Main Line, Tazawako Line and Yamada Line, all of which terminate at Morioka Station. The station is also the southern terminus of the third-sector Iwate Ginga Railway Line.\n\nStation layout\nThe station has three elevated island platforms for Shinkansen services, and four island platforms for local services. The station has a Midori no Madoguchi staffed ticket office.\n\nPlatforms\n\nHistory\nThe station was opened on November 1, 1890, by Japan's first private railway company, Nippon Railway. The line was nationalized in 1906. Services on the Tazawako Line started in 1921, on the Yamada line in 1923, the Tohoku Shinkansen in 1982 and the Akita Shinkansen in 1997. The station was absorbed into the JR East network upon the privatization of the Japanese National Railways (JNR) on 1 April 1987.\n\nPassenger statistics\nIn fiscal 2015, the JR East portion of the station was used by an average of 17,784 passengers daily (boarding passengers only). The Iwate Ginga Railway portion of the station was used by an average of 3,257 passengers daily.\n\nSurrounding area\n\nEast exit \n Morioka Station building \"Fezan\"\n Moriokaekimae Post office\n JR East Morioka branch office\n JR bus Tōhoku Morioka branch office\n\nWest exit\nIwate Asahi Television Co., Ltd.\n\nConnecting bus routes\n\nLocal \nJR Bus Tōhoku\nFor Kuji Station via Iwate-Numakunai Station and Kuzumaki\nFor Iwaizumi via Hayasaka-Kōgen\nIwate-Kenhoku Bus\nFor Miyako Station (\"Route 106 Express Bus\")\nFor Iwate-Funakoshi Station via Miyako Station (\"Route 106 Express Bus\")\nFor Numakunai via Kuriyagawa Station and Iwate-Shibutami\nIwate Kenkotsu Bus\nFor Ōfunato via Setamai\nFor Hanamaki Airport\n\nLong-distance (Highway bus)\nDeparts from the west exit\nFor Aomori Station via Kosaka (\"Asunaro\")\nFor Hirosaki Bus Terminai via Tohoku-Ōwani (\"Yodel\")\nFor Hachinohe Rapia via Kunohe (\"Hassei\")\nFor Sendai Station (\"Urban\")\nFor Karumai or Ōno (\"Win day\")\nFor Lake Towada (\"Towadako\")\nFor　Tamachi Station (Tokyo) via Tokyo Station (\"Iwate Kizuna\")\n\nDeparts from the east exit\nFor Ōdate Station via Kazuno-Hanawa Station (\"Michinoku\")\nFor Jōboji or Ninohe Station (\"Super Yūyū\")\nFor Tokyo Station via Ikebukuro Station (\"Rakuchin\", All reserved seats)\nFor Hon-Atsugi Station via Yokohama Station, Machida Station\n\nSee also\n List of railway stations in Japan\n\nReferences\n\nExternal links\n\n  (JR East) \n IGR Station information  \n\nRailway stations in Japan opened in 1890\nRailway stations in Iwate Prefecture\nTōhoku Shinkansen\nAkita Shinkansen\nTōhoku Main Line\nIwate Galaxy Railway Line\nTazawako Line\nYamada Line (JR East)\nMorioka, Iwate",
-          "字数": 2884
+          "链接": "https://ja.wikipedia.org/wiki/%E7%9B%9B%E5%B2%A1%E9%A7%85",
+          "首段": "Morioka Station (盛岡駅) is a railway station in 県盛岡市盛岡駅前通, Japan.",
+          "章节": {},
+          "全文": "Morioka Station (盛岡駅) is a railway station in 県盛岡市盛岡駅前通, Japan.",
+          "字数": 63
         }
       },
       "结构化信息": {
@@ -2735,15 +2726,11 @@
         },
         "英文": {
           "词条标题": "Yahaba Station",
-          "链接": "https://en.wikipedia.org/wiki/Yahaba%20Station",
-          "首段": "is a railway station in the town of  Yahaba, Iwate Prefecture, Japan, operated by East Japan Railway Company (JR East).",
-          "章节": {
-            "Lines": "Yahaba Station is served by the Tōhoku Main Line, and is located 525.1 rail kilometers from the terminus of the line at Tokyo Station.\n\nStation layout\nThe station has one side platform and one island platform. The platforms are elevated, with the station building located underneath. The station is adjacent to the elevated rails of the Tōhoku Shinkansen, although the Tōhoku Shinkansen does not stop here. The station is staffed and has a Midori no Madoguchi ticket office.",
-            "History": "Yahaba Station was opened on 1 September 1898. The station building was rebuilt in March 1977. The station was absorbed into the JR East network upon the privatization of the Japanese National Railways (JNR) on 1 April 1987. A new elevated station building was completed in March 2009.\n\nPassenger statistics\nIn fiscal 2018, the station was used by an average of 3,024 passengers daily (boarding passengers only).\n\nSurrounding area\nSite of Tokutan Castle\nYahaba Post Office\n\nSee also\n List of Railway Stations in Japan",
-            "References": "External links\n\n JR East Station information \n\nRailway stations in Iwate Prefecture\nTōhoku Main Line\nRailway stations in Japan opened in 1898\nYahaba, Iwate\nStations of East Japan Railway Company"
-          },
-          "全文": "is a railway station in the town of  Yahaba, Iwate Prefecture, Japan, operated by East Japan Railway Company (JR East).\n\nLines\nYahaba Station is served by the Tōhoku Main Line, and is located 525.1 rail kilometers from the terminus of the line at Tokyo Station.\n\nStation layout\nThe station has one side platform and one island platform. The platforms are elevated, with the station building located underneath. The station is adjacent to the elevated rails of the Tōhoku Shinkansen, although the Tōhoku Shinkansen does not stop here. The station is staffed and has a Midori no Madoguchi ticket office.\n\nPlatforms\n\nHistory\nYahaba Station was opened on 1 September 1898. The station building was rebuilt in March 1977. The station was absorbed into the JR East network upon the privatization of the Japanese National Railways (JNR) on 1 April 1987. A new elevated station building was completed in March 2009.\n\nPassenger statistics\nIn fiscal 2018, the station was used by an average of 3,024 passengers daily (boarding passengers only).\n\nSurrounding area\nSite of Tokutan Castle\nYahaba Post Office\n\nSee also\n List of Railway Stations in Japan\n\nReferences\n\nExternal links\n\n JR East Station information \n\nRailway stations in Iwate Prefecture\nTōhoku Main Line\nRailway stations in Japan opened in 1898\nYahaba, Iwate\nStations of East Japan Railway Company",
-          "字数": 1347
+          "链接": "https://ja.wikipedia.org/wiki/%E7%9F%A2%E5%B9%85%E9%A7%85",
+          "首段": "Yahaba Station (矢幅駅) is a railway station in 県紫波郡矢巾町, Japan.",
+          "章节": {},
+          "全文": "Yahaba Station (矢幅駅) is a railway station in 県紫波郡矢巾町, Japan.",
+          "字数": 60
         }
       },
       "结构化信息": {
@@ -2816,7 +2803,14 @@
           "字数": 324,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "紫波中央駅",
+          "链接": "https://ja.wikipedia.org/wiki/%E7%B4%AB%E6%B3%A2%E4%B8%AD%E5%A4%AE%E9%A7%85",
+          "首段": "紫波中央駅 (紫波中央駅) is a railway station in 県紫波郡紫波町紫波中央駅前一丁目, Japan.",
+          "章节": {},
+          "全文": "紫波中央駅 (紫波中央駅) is a railway station in 県紫波郡紫波町紫波中央駅前一丁目, Japan.",
+          "字数": 62
+        }
       },
       "结构化信息": {
         "读音": "しわちゅうおうえき",
@@ -2889,7 +2883,14 @@
           "字数": 1527,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "荒屋新町駅",
+          "链接": "https://ja.wikipedia.org/wiki/%E8%8D%92%E5%B1%8B%E6%96%B0%E7%94%BA%E9%A7%85",
+          "首段": "荒屋新町駅 (荒屋新町駅) is a railway station in 県八幡平市荒屋新町, Japan.",
+          "章节": {},
+          "全文": "荒屋新町駅 (荒屋新町駅) is a railway station in 県八幡平市荒屋新町, Japan.",
+          "字数": 55
+        }
       },
       "结构化信息": {
         "读音": "あらやしんまちえき",
@@ -2961,15 +2962,11 @@
         },
         "英文": {
           "词条标题": "Akasakata Station",
-          "链接": "https://en.wikipedia.org/wiki/Akasakata%20Station",
-          "首段": "is a railway station on the Hanawa Line in the city of Hachimantai, Iwate Prefecture, Japan, operated by East Japan Railway Company (JR East).",
-          "章节": {
-            "Lines": "Akasakata Station is served by the 106.9 km Hanawa Line, and is located 30.0 kilometers from the starting point of the line at .\n\nStation layout\nAkasakata Station has one ground-level side platform serving a single bi-directional track. The station is unattended.",
-            "History": "Akasakata Station opened on November 10, 1926, serving the village of Arasawa. The station was absorbed into the JR East network upon the privatization of JNR on April 1, 1987.\n\nSurrounding area\nNational Route 282\n\nSee also\n List of Railway Stations in Japan",
-            "References": "External links\n\n  \n\nHanawa Line\nRailway stations in Japan opened in 1926\nRailway stations in Iwate Prefecture\nStations of East Japan Railway Company\nHachimantai, Iwate"
-          },
-          "全文": "is a railway station on the Hanawa Line in the city of Hachimantai, Iwate Prefecture, Japan, operated by East Japan Railway Company (JR East).\n\nLines\nAkasakata Station is served by the 106.9 km Hanawa Line, and is located 30.0 kilometers from the starting point of the line at .\n\nStation layout\nAkasakata Station has one ground-level side platform serving a single bi-directional track. The station is unattended.\n\nHistory\nAkasakata Station opened on November 10, 1926, serving the village of Arasawa. The station was absorbed into the JR East network upon the privatization of JNR on April 1, 1987.\n\nSurrounding area\nNational Route 282\n\nSee also\n List of Railway Stations in Japan\n\nReferences\n\nExternal links\n\n  \n\nHanawa Line\nRailway stations in Japan opened in 1926\nRailway stations in Iwate Prefecture\nStations of East Japan Railway Company\nHachimantai, Iwate",
-          "字数": 862
+          "链接": "https://ja.wikipedia.org/wiki/%E8%B5%A4%E5%9D%82%E7%94%B0%E9%A7%85",
+          "首段": "Akasakata Station (赤坂田駅) is a railway station in 県八幡平市赤坂田, Japan.",
+          "章节": {},
+          "全文": "Akasakata Station (赤坂田駅) is a railway station in 県八幡平市赤坂田, Japan.",
+          "字数": 65
         }
       },
       "结构化信息": {
@@ -3036,7 +3033,14 @@
           "字数": 354,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "陸中大里駅",
+          "链接": "https://ja.wikipedia.org/wiki/%E9%99%B8%E4%B8%AD%E5%A4%A7%E9%87%8C%E9%A7%85",
+          "首段": "陸中大里駅 (陸中大里駅) is a railway station in 県鹿角市八幡平字永田, Japan.",
+          "章节": {},
+          "全文": "陸中大里駅 (陸中大里駅) is a railway station in 県鹿角市八幡平字永田, Japan.",
+          "字数": 56
+        }
       },
       "结构化信息": {
         "读音": "りくちゅうおおさとえき",
@@ -3095,7 +3099,14 @@
           "字数": 220,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "青山駅",
+          "链接": "https://ja.wikipedia.org/wiki/%E9%9D%92%E5%B1%B1%E9%A7%85",
+          "首段": "青山駅 (青山駅) is a railway station in 県伊賀市, Japan.",
+          "章节": {},
+          "全文": "青山駅 (青山駅) is a railway station in 県伊賀市, Japan.",
+          "字数": 46
+        }
       },
       "结构化信息": {
         "读音": null,
@@ -3167,7 +3178,14 @@
           "字数": 1525,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "鹿角花輪駅",
+          "链接": "https://ja.wikipedia.org/wiki/%E9%B9%BF%E8%A7%92%E8%8A%B1%E8%BC%AA%E9%A7%85",
+          "首段": "鹿角花輪駅 (鹿角花輪駅) is a railway station in 県鹿角市花輪字下中島, Japan.",
+          "章节": {},
+          "全文": "鹿角花輪駅 (鹿角花輪駅) is a railway station in 県鹿角市花輪字下中島, Japan.",
+          "字数": 56
+        }
       },
       "结构化信息": {
         "读音": "かづのはなわえき",
@@ -3204,6 +3222,6 @@
     "有中文词条": 39,
     "已千问汉化": 0,
     "待汉化": 0,
-    "有英文词条": 24
+    "有英文词条": 39
   }
 }

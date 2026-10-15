@@ -69,7 +69,14 @@
         "字数": 584,
         "来源": "维基百科中文版（已转简体）"
       },
-      "英文": null
+      "英文": {
+        "词条标题": "秩父本线",
+        "链接": "https://ja.wikipedia.org/wiki/%E7%A7%A9%E7%88%B6%E9%89%84%E9%81%93%E7%A7%A9%E7%88%B6%E6%9C%AC%E7%B7%9A",
+        "首段": "The 秩父本线 is a railway line in Japan.",
+        "章节": {},
+        "全文": "The 秩父本线 is a railway line in Japan.",
+        "字数": 36
+      }
     }
   },
   "车站": [
@@ -109,7 +116,14 @@
           "全文": "广濑野鸟之森站（ひろせやちょうのもりえき）是位于埼玉县熊谷市广濑的秩父铁道秩父本线车站。站名向熊谷市在住·在勤者公开募集，从174件应募中选出。\n\n概要\n本站是秩父铁道秩父本线的沿线车站。",
           "字数": 94
         },
-        "英文": null
+        "英文": {
+          "词条标题": "ひろせ野鳥の森駅",
+          "链接": "https://ja.wikipedia.org/wiki/%E3%81%B2%E3%82%8D%E3%81%9B%E9%87%8E%E9%B3%A5%E3%81%AE%E6%A3%AE%E9%A7%85",
+          "首段": "ひろせ野鳥の森駅 (ひろせ野鳥の森駅) is a railway station in 県熊谷市広瀬, Japan.",
+          "章节": {},
+          "全文": "ひろせ野鳥の森駅 (ひろせ野鳥の森駅) is a railway station in 県熊谷市広瀬, Japan.",
+          "字数": 58
+        }
       },
       "结构化信息": {
         "读音": "ひろせやちょうのもりえき",
@@ -175,7 +189,14 @@
           "全文": "深谷花园站（ふかやはなぞのえき）是位于埼玉县深谷市黑田的秩父铁道秩父本线车站。\n\n概要\n本站是秩父铁道秩父本线的沿线车站。",
           "字数": 61
         },
-        "英文": null
+        "英文": {
+          "词条标题": "ふかや花園駅",
+          "链接": "https://ja.wikipedia.org/wiki/%E3%81%B5%E3%81%8B%E3%82%84%E8%8A%B1%E5%9C%92%E9%A7%85",
+          "首段": "ふかや花園駅 (ふかや花園駅) is a railway station in 県深谷市黒田, Japan.",
+          "章节": {},
+          "全文": "ふかや花園駅 (ふかや花園駅) is a railway station in 県深谷市黒田, Japan.",
+          "字数": 54
+        }
       },
       "结构化信息": {
         "读音": "ふかやはなぞのえき",
@@ -242,7 +263,14 @@
           "全文": "Socio流通中心站（ソシオりゅうつうセンターえき）是位于埼玉县熊谷市户出的秩父铁道秩父本线车站。\n\n概要\n本站是秩父铁道秩父本线的沿线车站。",
           "字数": 71
         },
-        "英文": null
+        "英文": {
+          "词条标题": "ソシオ流通センター駅",
+          "链接": "https://ja.wikipedia.org/wiki/%E3%82%BD%E3%82%B7%E3%82%AA%E6%B5%81%E9%80%9A%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E9%A7%85",
+          "首段": "ソシオ流通センター駅 (ソシオ流通センター駅) is a railway station in 県熊谷市戸出, Japan.",
+          "章节": {},
+          "全文": "ソシオ流通センター駅 (ソシオ流通センター駅) is a railway station in 県熊谷市戸出, Japan.",
+          "字数": 62
+        }
       },
       "结构化信息": {
         "读音": "ソシオりゅうつうセンターえき",
@@ -324,17 +352,11 @@
         },
         "英文": {
           "词条标题": "Mitsumineguchi Station",
-          "链接": "https://en.wikipedia.org/wiki/Mitsumineguchi%20Station",
-          "首段": "is a passenger railway station located in the city of Chichibu, Saitama, Japan, operated by the private railway operator Chichibu Railway.",
-          "章节": {
-            "Lines": "Mitsumineguchi Station is the terminus of the Chichibu Main Line, and is located 71.7 km from the opposing terminus of the line at . It is also served by through services to and from the Seibu Chichibu Line.\n\nStation layout\n\nThe station is staffed and consists of one side platform (platform 1) and one island platform (platforms 2/3) serving three tracks. Stabling and run-round tracks are also provided next to track 3 and in the former freight platforms. A turntable is provided for turning steam locomotives used on SL Paleo Express services.",
-            "Platforms": "Adjacent stations",
-            "History": "Mitsumineguchi Station opened on 15 March 1930.\n\nPassenger statistics\nIn fiscal 2018, the station was used by an average of 384 passengers daily.",
-            "Buses": "Surrounding area\n Arakawa River\n\nChichibu Railway Park\n\nA number of old Chichibu Railway vehicles are preserved in the Chichibu Railway Park located on the north side of the station, adjacent to the turntable.\n\nThe following vehicles are on display.\n Class DeKi1 electric locomotive number DeKi1\n Class ED38 electric locomotive number ED38 1\n DeHa 100 EMU car number DeHa 107\n KuHaNi 20 EMU car number KuHaNi 29\n SuMu 4000 freight car number SuMu 4023\n ToKi 500 freight car number ToKi 502\n Yo 10 guard's van number Yo 15\n WaKi 800 freight car number WaKi 824\n WaFu 51 freight car number WaFu 51\n\nSee also\n List of railway stations in Japan",
-            "References": "External links\n\n Mitsumineguchi Station timetable \n Mitsumineguchi Station information (Saitama Prefectural Government) \n\nRailway stations in Japan opened in 1930\nRailway stations in Saitama Prefecture\nChichibu, Saitama"
-          },
-          "全文": "is a passenger railway station located in the city of Chichibu, Saitama, Japan, operated by the private railway operator Chichibu Railway.\n\nLines\nMitsumineguchi Station is the terminus of the Chichibu Main Line, and is located 71.7 km from the opposing terminus of the line at . It is also served by through services to and from the Seibu Chichibu Line.\n\nStation layout\n\nThe station is staffed and consists of one side platform (platform 1) and one island platform (platforms 2/3) serving three tracks. Stabling and run-round tracks are also provided next to track 3 and in the former freight platforms. A turntable is provided for turning steam locomotives used on SL Paleo Express services.\n\nPlatforms\n\nAdjacent stations\n\nHistory\nMitsumineguchi Station opened on 15 March 1930.\n\nPassenger statistics\nIn fiscal 2018, the station was used by an average of 384 passengers daily.\n\nBuses\n\nSurrounding area\n Arakawa River\n\nChichibu Railway Park\n\nA number of old Chichibu Railway vehicles are preserved in the Chichibu Railway Park located on the north side of the station, adjacent to the turntable.\n\nThe following vehicles are on display.\n Class DeKi1 electric locomotive number DeKi1\n Class ED38 electric locomotive number ED38 1\n DeHa 100 EMU car number DeHa 107\n KuHaNi 20 EMU car number KuHaNi 29\n SuMu 4000 freight car number SuMu 4023\n ToKi 500 freight car number ToKi 502\n Yo 10 guard's van number Yo 15\n WaKi 800 freight car number WaKi 824\n WaFu 51 freight car number WaFu 51\n\nSee also\n List of railway stations in Japan\n\nReferences\n\nExternal links\n\n Mitsumineguchi Station timetable \n Mitsumineguchi Station information (Saitama Prefectural Government) \n\nRailway stations in Japan opened in 1930\nRailway stations in Saitama Prefecture\nChichibu, Saitama",
-          "字数": 1759
+          "链接": "https://ja.wikipedia.org/wiki/%E4%B8%89%E5%B3%B0%E5%8F%A3%E9%A7%85",
+          "首段": "Mitsumineguchi Station (三峰口駅) is a railway station in 県秩父市荒川白久, Japan.",
+          "章节": {},
+          "全文": "Mitsumineguchi Station (三峰口駅) is a railway station in 県秩父市荒川白久, Japan.",
+          "字数": 70
         }
       },
       "结构化信息": {
@@ -421,7 +443,14 @@
           "字数": 1379,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "上熊谷駅",
+          "链接": "https://ja.wikipedia.org/wiki/%E4%B8%8A%E7%86%8A%E8%B0%B7%E9%A7%85",
+          "首段": "上熊谷駅 (上熊谷駅) is a railway station in 県熊谷市宮本町, Japan.",
+          "章节": {},
+          "全文": "上熊谷駅 (上熊谷駅) is a railway station in 県熊谷市宮本町, Japan.",
+          "字数": 51
+        }
       },
       "结构化信息": {
         "读音": "かみくまがやえき",
@@ -498,7 +527,14 @@
           "字数": 614,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "上長瀞駅",
+          "链接": "https://ja.wikipedia.org/wiki/%E4%B8%8A%E9%95%B7%E7%80%9E%E9%A7%85",
+          "首段": "上長瀞駅 (上長瀞駅) is a railway station in 県秩父郡長瀞町大字長瀞, Japan.",
+          "章节": {},
+          "全文": "上長瀞駅 (上長瀞駅) is a railway station in 県秩父郡長瀞町大字長瀞, Japan.",
+          "字数": 55
+        }
       },
       "结构化信息": {
         "读音": "かみながとろえき",
@@ -568,7 +604,14 @@
           "字数": 640,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "和銅黒谷駅",
+          "链接": "https://ja.wikipedia.org/wiki/%E5%92%8C%E9%8A%85%E9%BB%92%E8%B0%B7%E9%A7%85",
+          "首段": "和銅黒谷駅 (和銅黒谷駅) is a railway station in 県秩父市黒谷, Japan.",
+          "章节": {},
+          "全文": "和銅黒谷駅 (和銅黒谷駅) is a railway station in 県秩父市黒谷, Japan.",
+          "字数": 52
+        }
       },
       "结构化信息": {
         "读音": "わどうくろやえき",
@@ -644,16 +687,11 @@
         },
         "英文": {
           "词条标题": "Ōnohara Station",
-          "链接": "https://en.wikipedia.org/wiki/%C5%8Cnohara%20Station",
-          "首段": "is a passenger railway station located in the city of Chichibu, Saitama, Japan, operated by the private railway operator Chichibu Railway.",
-          "章节": {
-            "Lines": "Ōnohara Station is served by the Chichibu Main Line from  to , and is located 56.6 km from Hanyū.\n\nStation layout\n\nThe station is staffed and consists of one side platform and one island platform serving two tracks. An additional bidirectional line for freight services existed as track 3, but is now severed at both ends.",
-            "Platforms": "Adjacent stations",
-            "History": "Ōnohara Station opened on 27 October 1914.\n\nPassenger statistics\nIn fiscal 2018, the station was used by an average of 1127 passengers daily.\n\nSurrounding area\n Arakawa River\n \n \n Saitama Prefectural Chichibu Agriculture and Science High School",
-            "References": "External links\n\n Ōnohara Station information (Saitama Prefectural Government) \n Ōnohara Station timetable \n\nRailway stations in Japan opened in 1914\nRailway stations in Saitama Prefecture\nChichibu, Saitama"
-          },
-          "全文": "is a passenger railway station located in the city of Chichibu, Saitama, Japan, operated by the private railway operator Chichibu Railway.\n\nLines\nŌnohara Station is served by the Chichibu Main Line from  to , and is located 56.6 km from Hanyū.\n\nStation layout\n\nThe station is staffed and consists of one side platform and one island platform serving two tracks. An additional bidirectional line for freight services existed as track 3, but is now severed at both ends.\n\nPlatforms\n\nAdjacent stations\n\nHistory\nŌnohara Station opened on 27 October 1914.\n\nPassenger statistics\nIn fiscal 2018, the station was used by an average of 1127 passengers daily.\n\nSurrounding area\n Arakawa River\n \n \n Saitama Prefectural Chichibu Agriculture and Science High School\n\nReferences\n\nExternal links\n\n Ōnohara Station information (Saitama Prefectural Government) \n Ōnohara Station timetable \n\nRailway stations in Japan opened in 1914\nRailway stations in Saitama Prefecture\nChichibu, Saitama",
-          "字数": 971
+          "链接": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%87%8E%E5%8E%9F%E9%A7%85",
+          "首段": "Ōnohara Station (大野原駅) is a railway station in 県秩父市大野原, Japan.",
+          "章节": {},
+          "全文": "Ōnohara Station (大野原駅) is a railway station in 県秩父市大野原, Japan.",
+          "字数": 62
         }
       },
       "结构化信息": {
@@ -730,16 +768,11 @@
         },
         "英文": {
           "词条标题": "Ōasō Station",
-          "链接": "https://en.wikipedia.org/wiki/%C5%8Cas%C5%8D%20Station",
-          "首段": "is a passenger railway station located in the city of Kumagaya, Saitama, Japan, operated by the private railway operator Chichibu Railway.",
-          "章节": {
-            "Lines": "Ōasō Station is served by the Chichibu Main Line from  to , and is located 20.3 km from Hanyū.\n\nStation layout\nThe station is staffed and consists of a single island platform serving two tracks. A bidirectional freight loop and an additional siding lie to the south of the platform tracks.",
-            "Platforms": "Adjacent stations",
-            "History": "Ōasō Station opened on 7 October 1901.\n\nPassenger statistics\nIn fiscal 2018, the station was used by an average of 235 passengers daily.\n\nSurrounding area\n Hirosegawara Depot\n Arakawa River\n Arakara Ōasō Wild Bird Park\n National Route 140\n\nSee also\n List of railway stations in Japan",
-            "References": "External links\n\n Ōasō Station information (Saitama Prefectural Government) \n Ōasō Station timetable \n\nRailway stations in Saitama Prefecture\nRailway stations in Japan opened in 1901\nRailway stations in Kumagaya"
-          },
-          "全文": "is a passenger railway station located in the city of Kumagaya, Saitama, Japan, operated by the private railway operator Chichibu Railway.\n\nLines\nŌasō Station is served by the Chichibu Main Line from  to , and is located 20.3 km from Hanyū.\n\nStation layout\nThe station is staffed and consists of a single island platform serving two tracks. A bidirectional freight loop and an additional siding lie to the south of the platform tracks.\n\nPlatforms\n\nAdjacent stations\n\nHistory\nŌasō Station opened on 7 October 1901.\n\nPassenger statistics\nIn fiscal 2018, the station was used by an average of 235 passengers daily.\n\nSurrounding area\n Hirosegawara Depot\n Arakawa River\n Arakara Ōasō Wild Bird Park\n National Route 140\n\nSee also\n List of railway stations in Japan\n\nReferences\n\nExternal links\n\n Ōasō Station information (Saitama Prefectural Government) \n Ōasō Station timetable \n\nRailway stations in Saitama Prefecture\nRailway stations in Japan opened in 1901\nRailway stations in Kumagaya",
-          "字数": 982
+          "链接": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%BA%BB%E7%94%9F%E9%A7%85",
+          "首段": "Ōasō Station (大麻生駅) is a railway station in 県熊谷市大麻生, Japan.",
+          "章节": {},
+          "全文": "Ōasō Station (大麻生駅) is a railway station in 県熊谷市大麻生, Japan.",
+          "字数": 59
         }
       },
       "结构化信息": {
@@ -829,15 +862,11 @@
         },
         "英文": {
           "词条标题": "Yorii Station",
-          "链接": "https://en.wikipedia.org/wiki/Yorii%20Station",
-          "首段": "is a joint-use passenger railway station in the town of Yorii, Saitama, Japan, jointly operated by East Japan Railway Company (JR East) and the private railway operators Tōbu Railway and Chichibu Railway. The station premises are managed by Chichibu Railway.",
-          "章节": {
-            "Lines": "Yorii Station is served by the following three lines.\n Hachiko Line ( - )\n Tōbu Tōjō Line (from  in Tokyo)\n Chichibu Main Line ( - )\n\nOn the Tōbu Tōjō Line during the daytime, the station is served by two \"Local\" (all-stations) trains per hour in each direction to and from . There are no direct train services to or from Ikebukuro, although most trains are timetabled to allow for onward connections to an Ikebukuro-bound train at  or .\n\nStation layout\nThe station consists of three island platforms, each serving two tracks for the Tōbu Tōjō Line, Chichibu Main Line, and Hachikō Line.",
-            "History": "The station opened on October 7, 1901, as the terminus of the Jōbu Railway (present-day Chichibu Railway) from . From April 2, 1903, the Jōbu Railway line was extended from Yorii to .\n\nThe Tōbu Railway station opened on July 10, 1925, with the completion of the Tōjō Line from .\n\nThe JR (former Japanese Government Railways) station opened on January 25, 1933, following the extension of the Hachikō Line from . The Hachikō Line was extended south to Ogawamachi on October 6, 1934.\n\nFrom 17 March 2012, station numbering was introduced on the Tōbu Tōjō Line, with Yorii Station becoming \"TJ-38\".\n\nPassenger statistics\nIn fiscal 2019, the station was used by an average of 3,821 passengers daily. In fiscal 2019, the JR station was used by an average of 385 passengers daily (boarding passengers only). In fiscal 2017, the Chichibu Railway station was used by an average of 1380 passengers daily.。\n\nSurrounding area\n\n Yorii Town Office\n Yorii Library\n\nBus routes\nMusashi Kanko\nFor Honjo-Waseda Station and  Honjo Station (Saitama)\n\nSee also\n List of railway stations in Japan",
-            "References": "External links\n\n JR East station information \n Tobu station information \n Chichibu Railway station information \n\nStations of East Japan Railway Company\nStations of Tobu Railway\nRailway stations in Saitama Prefecture\nTobu Tojo Main Line\nHachikō Line\nRailway stations in Japan opened in 1901\nYorii, Saitama"
-          },
-          "全文": "is a joint-use passenger railway station in the town of Yorii, Saitama, Japan, jointly operated by East Japan Railway Company (JR East) and the private railway operators Tōbu Railway and Chichibu Railway. The station premises are managed by Chichibu Railway.\n\nLines\nYorii Station is served by the following three lines.\n Hachiko Line ( - )\n Tōbu Tōjō Line (from  in Tokyo)\n Chichibu Main Line ( - )\n\nOn the Tōbu Tōjō Line during the daytime, the station is served by two \"Local\" (all-stations) trains per hour in each direction to and from . There are no direct train services to or from Ikebukuro, although most trains are timetabled to allow for onward connections to an Ikebukuro-bound train at  or .\n\nStation layout\nThe station consists of three island platforms, each serving two tracks for the Tōbu Tōjō Line, Chichibu Main Line, and Hachikō Line.\n\nPlatforms\n\nHistory\n\nThe station opened on October 7, 1901, as the terminus of the Jōbu Railway (present-day Chichibu Railway) from . From April 2, 1903, the Jōbu Railway line was extended from Yorii to .\n\nThe Tōbu Railway station opened on July 10, 1925, with the completion of the Tōjō Line from .\n\nThe JR (former Japanese Government Railways) station opened on January 25, 1933, following the extension of the Hachikō Line from . The Hachikō Line was extended south to Ogawamachi on October 6, 1934.\n\nFrom 17 March 2012, station numbering was introduced on the Tōbu Tōjō Line, with Yorii Station becoming \"TJ-38\".\n\nPassenger statistics\nIn fiscal 2019, the station was used by an average of 3,821 passengers daily. In fiscal 2019, the JR station was used by an average of 385 passengers daily (boarding passengers only). In fiscal 2017, the Chichibu Railway station was used by an average of 1380 passengers daily.。\n\nSurrounding area\n\n Yorii Town Office\n Yorii Library\n\nBus routes\nMusashi Kanko\nFor Honjo-Waseda Station and  Honjo Station (Saitama)\n\nSee also\n List of railway stations in Japan\n\nReferences\n\nExternal links\n\n JR East station information \n Tobu station information \n Chichibu Railway station information \n\nStations of East Japan Railway Company\nStations of Tobu Railway\nRailway stations in Saitama Prefecture\nTobu Tojo Main Line\nHachikō Line\nRailway stations in Japan opened in 1901\nYorii, Saitama",
-          "字数": 2267
+          "链接": "https://ja.wikipedia.org/wiki/%E5%AF%84%E5%B1%85%E9%A7%85",
+          "首段": "Yorii Station (寄居駅) is a railway station in 県大里郡寄居町大字寄居, Japan.",
+          "章节": {},
+          "全文": "Yorii Station (寄居駅) is a railway station in 県大里郡寄居町大字寄居, Japan.",
+          "字数": 63
         }
       },
       "结构化信息": {
@@ -928,16 +957,11 @@
         },
         "英文": {
           "词条标题": "Omaeda Station",
-          "链接": "https://en.wikipedia.org/wiki/Omaeda%20Station",
-          "首段": "is a passenger railway station located in the city of Fukaya, Saitama, Japan, operated by the private railway operator Chichibu Railway.",
-          "章节": {
-            "Lines": "Omaeda Station is served by the  Chichibu Main Line from  to , and is located 30.5 km from Hanyū. It is also served by through services to and from the Seibu Chichibu Line.\n\nStation layout\nThe station is staffed and consists of one side platform (platform 1) and one island platform serving three tracks in total. Track 3 is a bidirectional freight loop not normally used by passenger services. Access between the platforms is via a crossing at track level.",
-            "Platforms": "Adjacent stations",
-            "History": "Omaeda Station opened on 7 October 1901.\n\nPassenger statistics\nIn fiscal 2018, the station was used by an average of 1098 passengers daily.\n\nSurrounding area\n \n Hanazono Junior High School\n Hanazono Elementary School\n\nSee also\n List of railway stations in Japan",
-            "References": "External links\n\n  \n\nRailway stations in Japan opened in 1901\nRailway stations in Saitama Prefecture\nStations of Chichibu Railway\nFukaya, Saitama"
-          },
-          "全文": "is a passenger railway station located in the city of Fukaya, Saitama, Japan, operated by the private railway operator Chichibu Railway.\n\nLines\nOmaeda Station is served by the  Chichibu Main Line from  to , and is located 30.5 km from Hanyū. It is also served by through services to and from the Seibu Chichibu Line.\n\nStation layout\nThe station is staffed and consists of one side platform (platform 1) and one island platform serving three tracks in total. Track 3 is a bidirectional freight loop not normally used by passenger services. Access between the platforms is via a crossing at track level.\n\nPlatforms\n\nAdjacent stations\n\nHistory\nOmaeda Station opened on 7 October 1901.\n\nPassenger statistics\nIn fiscal 2018, the station was used by an average of 1098 passengers daily.\n\nSurrounding area\n \n Hanazono Junior High School\n Hanazono Elementary School\n\nSee also\n List of railway stations in Japan\n\nReferences\n\nExternal links\n\n  \n\nRailway stations in Japan opened in 1901\nRailway stations in Saitama Prefecture\nStations of Chichibu Railway\nFukaya, Saitama",
-          "字数": 1060
+          "链接": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E5%89%8D%E7%94%B0%E9%A7%85",
+          "首段": "Omaeda Station (小前田駅) is a railway station in 県深谷市小前田, Japan.",
+          "章节": {},
+          "全文": "Omaeda Station (小前田駅) is a railway station in 県深谷市小前田, Japan.",
+          "字数": 61
         }
       },
       "结构化信息": {
@@ -1020,16 +1044,11 @@
         },
         "英文": {
           "词条标题": "Kagemori Station",
-          "链接": "https://en.wikipedia.org/wiki/Kagemori%20Station",
-          "首段": "is a passenger railway station located in the city of Chichibu, Saitama, Japan, operated by the private railway operator Chichibu Railway.",
-          "章节": {
-            "Lines": "Kagemori Station is served by the Chichibu Main Line from  to , and is located 62.4 km from Hanyū. It is also served by through services to and from the Seibu Chichibu Line.\n\nStation layout\nThe station is staffed and consists of a single island platforms serving two bidirectional tracks. Storage tracks alongside platform 1 are used to stable rolling stock and also for freight trains arriving and departing on the private spur line to the Chichibu Taiheiyo Cement Corporation Minowa Mine approximately 1 km south of the station.",
-            "Platforms": "Adjacent stations",
-            "History": "Kagemori Station opened on 27 September 1917.\n\nPassenger statistics\nIn fiscal 2018, the station was used by an average of 494 passengers daily.\n\nSurrounding area\n Arakawa River\n \n Chichibu Kagemori Junior High School\n Chichibu Taiheiyo Cement Corporation Minowa Mine",
-            "References": "External links\n\n Kagemori Station information (Saitama Prefectural Government) \n Kagemori Station timetable \n\nRailway stations in Japan opened in 1917\nRailway stations in Saitama Prefecture\nChichibu, Saitama"
-          },
-          "全文": "is a passenger railway station located in the city of Chichibu, Saitama, Japan, operated by the private railway operator Chichibu Railway.\n\nLines\nKagemori Station is served by the Chichibu Main Line from  to , and is located 62.4 km from Hanyū. It is also served by through services to and from the Seibu Chichibu Line.\n\nStation layout\nThe station is staffed and consists of a single island platforms serving two bidirectional tracks. Storage tracks alongside platform 1 are used to stable rolling stock and also for freight trains arriving and departing on the private spur line to the Chichibu Taiheiyo Cement Corporation Minowa Mine approximately 1 km south of the station.\n\nPlatforms\n\nAdjacent stations\n\nHistory\nKagemori Station opened on 27 September 1917.\n\nPassenger statistics\nIn fiscal 2018, the station was used by an average of 494 passengers daily.\n\nSurrounding area\n Arakawa River\n \n Chichibu Kagemori Junior High School\n Chichibu Taiheiyo Cement Corporation Minowa Mine\n\nReferences\n\nExternal links\n\n Kagemori Station information (Saitama Prefectural Government) \n Kagemori Station timetable \n\nRailway stations in Japan opened in 1917\nRailway stations in Saitama Prefecture\nChichibu, Saitama",
-          "字数": 1203
+          "链接": "https://ja.wikipedia.org/wiki/%E5%BD%B1%E6%A3%AE%E9%A7%85",
+          "首段": "Kagemori Station (影森駅) is a railway station in 県秩父市上影森, Japan.",
+          "章节": {},
+          "全文": "Kagemori Station (影森駅) is a railway station in 県秩父市上影森, Japan.",
+          "字数": 62
         }
       },
       "结构化信息": {
@@ -1115,16 +1134,11 @@
         },
         "英文": {
           "词条标题": "Ohanabatake Station",
-          "链接": "https://en.wikipedia.org/wiki/Ohanabatake%20Station",
-          "首段": "is a passenger railway station located in the city of Chichibu, Saitama, Japan, operated by the private railway operator Chichibu Railway.",
-          "章节": {
-            "Lines": "Ohanabatake Station is served by the Chichibu Main Line from  to , and is located 59.7 km from Hanyū. It is served by through services to and from the Seibu Chichibu Line, and is also located a short walk from the terminus of the Seibu Chichibu Line, Seibu-Chichibu Station.\n\nStation layout\n\nThe station is staffed and consists of two side platforms serving two tracks. Platform 1 acts as a bidirectional platform for Chichibu Main Line services in both directions, while platform 2 is used by Seibu Chichibu Line through-running services to and from .",
-            "Platforms": "Adjacent stations",
-            "History": "Ohanabatake Station opened on 27 September 1917. From 1 April 2009, \"Shibazakura\" was added in parentheses to the station name, indicating the station's closeness to the nearby Hitsujiyama Park, which is a popular sightseeing destination in early summer when the moss phlox (shibazakura) blooms.\n\nPassenger statistics\nIn fiscal 2018, the station was used by an average of 2662 passengers daily.\n\nSurrounding area\n Seibu-Chichibu Station (Seibu Chichibu Line)\n Chichibu City Office\n Saitama Prefectural Chichibu High School\n Chichibu Shrine\n Hitsujiyama Park, famous for moss phlox (shibazakura) in early summer",
-            "References": "External links\n\n Ohanabatake Station information (Saitama Prefectural Government) \n Ohanabatake Station timetable \n\nRailway stations in Saitama Prefecture\nRailway stations in Japan opened in 1917\nChichibu, Saitama"
-          },
-          "全文": "is a passenger railway station located in the city of Chichibu, Saitama, Japan, operated by the private railway operator Chichibu Railway.\n\nLines\nOhanabatake Station is served by the Chichibu Main Line from  to , and is located 59.7 km from Hanyū. It is served by through services to and from the Seibu Chichibu Line, and is also located a short walk from the terminus of the Seibu Chichibu Line, Seibu-Chichibu Station.\n\nStation layout\n\nThe station is staffed and consists of two side platforms serving two tracks. Platform 1 acts as a bidirectional platform for Chichibu Main Line services in both directions, while platform 2 is used by Seibu Chichibu Line through-running services to and from .\n\nPlatforms\n\nAdjacent stations\n\nHistory\n\nOhanabatake Station opened on 27 September 1917. From 1 April 2009, \"Shibazakura\" was added in parentheses to the station name, indicating the station's closeness to the nearby Hitsujiyama Park, which is a popular sightseeing destination in early summer when the moss phlox (shibazakura) blooms.\n\nPassenger statistics\nIn fiscal 2018, the station was used by an average of 2662 passengers daily.\n\nSurrounding area\n Seibu-Chichibu Station (Seibu Chichibu Line)\n Chichibu City Office\n Saitama Prefectural Chichibu High School\n Chichibu Shrine\n Hitsujiyama Park, famous for moss phlox (shibazakura) in early summer\n\nReferences\n\nExternal links\n\n Ohanabatake Station information (Saitama Prefectural Government) \n Ohanabatake Station timetable \n\nRailway stations in Saitama Prefecture\nRailway stations in Japan opened in 1917\nChichibu, Saitama",
-          "字数": 1576
+          "链接": "https://ja.wikipedia.org/wiki/%E5%BE%A1%E8%8A%B1%E7%95%91%E9%A7%85",
+          "首段": "Ohanabatake Station (御花畑駅) is a railway station in 県秩父市東町, Japan.",
+          "章节": {},
+          "全文": "Ohanabatake Station (御花畑駅) is a railway station in 県秩父市東町, Japan.",
+          "字数": 65
         }
       },
       "结构化信息": {
@@ -1205,16 +1219,11 @@
         },
         "英文": {
           "词条标题": "Mochida Station",
-          "链接": "https://en.wikipedia.org/wiki/Mochida%20Station",
-          "首段": "is a passenger railway station located in the city of Gyōda, Saitama, Japan, operated by the private railway operator Chichibu Railway.",
-          "章节": {
-            "Lines": "Mochida Station is served by the 71.7 km Chichibu Main Line from  to , and is located 10.1 km from Hanyū.\n\nStation layout\nThe station consists of a single island platform serving two tracks.",
-            "Platforms": "Adjacent stations",
-            "History": "Mochida Station opened on 15 November 1924.\n\nPassenger statistics\nIn fiscal 2018, the station was used by an average of 938 passengers daily.\n\nSurrounding area\n\nSee also\n List of railway stations in Japan",
-            "References": "External links\n\n  \n\nStations of Chichibu Railway\nRailway stations in Japan opened in 1924\nRailway stations in Saitama Prefecture"
-          },
-          "全文": "is a passenger railway station located in the city of Gyōda, Saitama, Japan, operated by the private railway operator Chichibu Railway.\n\nLines\nMochida Station is served by the 71.7 km Chichibu Main Line from  to , and is located 10.1 km from Hanyū.\n\nStation layout\nThe station consists of a single island platform serving two tracks.\n\nPlatforms\n\nAdjacent stations\n\nHistory\nMochida Station opened on 15 November 1924.\n\nPassenger statistics\nIn fiscal 2018, the station was used by an average of 938 passengers daily.\n\nSurrounding area\n\nSee also\n List of railway stations in Japan\n\nReferences\n\nExternal links\n\n  \n\nStations of Chichibu Railway\nRailway stations in Japan opened in 1924\nRailway stations in Saitama Prefecture\nGyōda",
-          "字数": 725
+          "链接": "https://ja.wikipedia.org/wiki/%E6%8C%81%E7%94%B0%E9%A7%85",
+          "首段": "Mochida Station (持田駅) is a railway station in 県行田市城西四丁目, Japan.",
+          "章节": {},
+          "全文": "Mochida Station (持田駅) is a railway station in 県行田市城西四丁目, Japan.",
+          "字数": 63
         }
       },
       "结构化信息": {
@@ -1276,7 +1285,14 @@
           "字数": 947,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "新郷駅",
+          "链接": "https://ja.wikipedia.org/wiki/%E6%96%B0%E9%83%B7%E9%A7%85",
+          "首段": "新郷駅 (新郷駅) is a railway station in Japan, Japan.",
+          "章节": {},
+          "全文": "新郷駅 (新郷駅) is a railway station in Japan, Japan.",
+          "字数": 47
+        }
       },
       "结构化信息": {
         "读音": null,
@@ -1334,16 +1350,11 @@
         },
         "英文": {
           "词条标题": "Aketo Station",
-          "链接": "https://en.wikipedia.org/wiki/Aketo%20Station",
-          "首段": "is a passenger railway station located in the city of Fukaya, Saitama, Japan, operated by the private railway operator Chichibu Railway.",
-          "章节": {
-            "Lines": "Aketo Station is served by the Chichibu Main Line from  to , and is located 22.9 km from Hanyū.\n\nStation layout\nThe station is staffed and consists of a single island platform serving two tracks.",
-            "Platforms": "Adjacent stations",
-            "History": "The station opened on March 14, 1985.\n\nPassenger statistics\nIn fiscal 2018, the station was used by an average of 393 passengers daily.\n\nSurrounding area\n Arakawa River",
-            "References": "External links\n\n Aketo Station information (Saitama Prefectural Government) \n Aketo Station timetable  \n\nRailway stations in Japan opened in 1985\nRailway stations in Saitama Prefecture\nStations of Chichibu Railway\nFukaya, Saitama"
-          },
-          "全文": "is a passenger railway station located in the city of Fukaya, Saitama, Japan, operated by the private railway operator Chichibu Railway.\n\nLines\nAketo Station is served by the Chichibu Main Line from  to , and is located 22.9 km from Hanyū.\n\nStation layout\nThe station is staffed and consists of a single island platform serving two tracks.\n\nPlatforms\n\nAdjacent stations\n\nHistory\nThe station opened on March 14, 1985.\n\nPassenger statistics\nIn fiscal 2018, the station was used by an average of 393 passengers daily.\n\nSurrounding area\n Arakawa River\n\nReferences\n\nExternal links\n\n Aketo Station information (Saitama Prefectural Government) \n Aketo Station timetable  \n\nRailway stations in Japan opened in 1985\nRailway stations in Saitama Prefecture\nStations of Chichibu Railway\nFukaya, Saitama",
-          "字数": 790
+          "链接": "https://ja.wikipedia.org/wiki/%E6%98%8E%E6%88%B8%E9%A7%85",
+          "首段": "Aketo Station (明戸駅) is a railway station in 県深谷市瀬山, Japan.",
+          "章节": {},
+          "全文": "Aketo Station (明戸駅) is a railway station in 県深谷市瀬山, Japan.",
+          "字数": 58
         }
       },
       "结构化信息": {
@@ -1420,7 +1431,14 @@
           "字数": 1253,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "東行田駅",
+          "链接": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E8%A1%8C%E7%94%B0%E9%A7%85",
+          "首段": "東行田駅 (東行田駅) is a railway station in 県行田市桜町二丁目, Japan.",
+          "章节": {},
+          "全文": "東行田駅 (東行田駅) is a railway station in 県行田市桜町二丁目, Japan.",
+          "字数": 53
+        }
       },
       "结构化信息": {
         "读音": "ひがしぎょうだえき",
@@ -1483,7 +1501,14 @@
           "字数": 148,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "桜沢駅",
+          "链接": "https://ja.wikipedia.org/wiki/%E6%A1%9C%E6%B2%A2%E9%A7%85",
+          "首段": "桜沢駅 (桜沢駅) is a railway station in Japan, Japan.",
+          "章节": {},
+          "全文": "桜沢駅 (桜沢駅) is a railway station in Japan, Japan.",
+          "字数": 47
+        }
       },
       "结构化信息": {
         "读音": null,
@@ -1615,16 +1640,11 @@
         },
         "英文": {
           "词条标题": "Takekawa Station",
-          "链接": "https://en.wikipedia.org/wiki/Takekawa%20Station",
-          "首段": "is a passenger railway station located in the city of Fukaya, Saitama, Japan, operated by the private railway operator Chichibu Railway.",
-          "章节": {
-            "Lines": "Takekawa Station is served by the 71.7 km Chichibu Main Line from  to , and is located 24.8 km from Hanyū.\n\nStation layout\nThe station is staffed and consists of a single island platform serving two tracks. Three freight loops and additional sidings lie to the north of the platform tracks.",
-            "Platforms": "Adjacent stations",
-            "History": "The station opened on 7 October 1901 as . It was renamed Takekawa from 24 June 1903.\n\nPassenger statistics\nIn fiscal 2018, the station was used by an average of 951 passengers daily.\n\nSurrounding area\n Arakawa River\n\nSee also\n List of railway lines in Japan",
-            "References": "External links\n\n  \n\nRailway stations in Japan opened in 1901\nRailway stations in Saitama Prefecture\nStations of Chichibu Railway\nFukaya, Saitama"
-          },
-          "全文": "is a passenger railway station located in the city of Fukaya, Saitama, Japan, operated by the private railway operator Chichibu Railway.\n\nLines\nTakekawa Station is served by the 71.7 km Chichibu Main Line from  to , and is located 24.8 km from Hanyū.\n\nStation layout\nThe station is staffed and consists of a single island platform serving two tracks. Three freight loops and additional sidings lie to the north of the platform tracks.\n\nPlatforms\n\nAdjacent stations\n\nHistory\nThe station opened on 7 October 1901 as . It was renamed Takekawa from 24 June 1903.\n\nPassenger statistics\nIn fiscal 2018, the station was used by an average of 951 passengers daily.\n\nSurrounding area\n Arakawa River\n\nSee also\n List of railway lines in Japan\n\nReferences\n\nExternal links\n\n  \n\nRailway stations in Japan opened in 1901\nRailway stations in Saitama Prefecture\nStations of Chichibu Railway\nFukaya, Saitama",
-          "字数": 889
+          "链接": "https://ja.wikipedia.org/wiki/%E6%AD%A6%E5%B7%9D%E9%A7%85",
+          "首段": "Takekawa Station (武川駅) is a railway station in 県深谷市田中, Japan.",
+          "章节": {},
+          "全文": "Takekawa Station (武川駅) is a railway station in 県深谷市田中, Japan.",
+          "字数": 61
         }
       },
       "结构化信息": {
@@ -1704,7 +1724,14 @@
           "字数": 835,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "武州中川駅",
+          "链接": "https://ja.wikipedia.org/wiki/%E6%AD%A6%E5%B7%9E%E4%B8%AD%E5%B7%9D%E9%A7%85",
+          "首段": "武州中川駅 (武州中川駅) is a railway station in 県秩父市荒川上田野, Japan.",
+          "章节": {},
+          "全文": "武州中川駅 (武州中川駅) is a railway station in 県秩父市荒川上田野, Japan.",
+          "字数": 55
+        }
       },
       "结构化信息": {
         "读音": "ぶしゅうなかがわえき",
@@ -1778,7 +1805,14 @@
           "字数": 558,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "武州日野駅",
+          "链接": "https://ja.wikipedia.org/wiki/%E6%AD%A6%E5%B7%9E%E6%97%A5%E9%87%8E%E9%A7%85",
+          "首段": "武州日野駅 (武州日野駅) is a railway station in 県秩父市荒川日野, Japan.",
+          "章节": {},
+          "全文": "武州日野駅 (武州日野駅) is a railway station in 県秩父市荒川日野, Japan.",
+          "字数": 54
+        }
       },
       "结构化信息": {
         "读音": "ぶしゅうひのえき",
@@ -1858,7 +1892,14 @@
           "字数": 616,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "武州荒木駅",
+          "链接": "https://ja.wikipedia.org/wiki/%E6%AD%A6%E5%B7%9E%E8%8D%92%E6%9C%A8%E9%A7%85",
+          "首段": "武州荒木駅 (武州荒木駅) is a railway station in 県行田市大字荒木, Japan.",
+          "章节": {},
+          "全文": "武州荒木駅 (武州荒木駅) is a railway station in 県行田市大字荒木, Japan.",
+          "字数": 54
+        }
       },
       "结构化信息": {
         "读音": "ぶしゅうあらきえき",
@@ -1919,7 +1960,14 @@
           "字数": 204,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "永田駅",
+          "链接": "https://ja.wikipedia.org/wiki/%E6%B0%B8%E7%94%B0%E9%A7%85",
+          "首段": "永田駅 (永田駅) is a railway station in Japan, Japan.",
+          "章节": {},
+          "全文": "永田駅 (永田駅) is a railway station in Japan, Japan.",
+          "字数": 47
+        }
       },
       "结构化信息": {
         "读音": null,
@@ -1983,16 +2031,11 @@
         },
         "英文": {
           "词条标题": "Hagure Station",
-          "链接": "https://en.wikipedia.org/wiki/Hagure%20Station",
-          "首段": "is a passenger railway station in the town of Yorii, Saitama, Japan, operated by the private railway operator Chichibu Railway.",
-          "章节": {
-            "Lines": "Hagure Station is served by the Chichibu Main Line from  to , and is located 37.7 km from Hanyū.\n\nStation layout\nThe station is staffed and consists of a single island platform serving two tracks, with an additional bidirectional track adjacent to track 2 for use by freight services.",
-            "Platforms": "Adjacent stations",
-            "History": "Hagure Station opened on 1 April 1903.\n\nPassenger statistics\nIn fiscal 2018, the station was used by an average of 227 passengers daily.\n\nSurrounding area\n Arakawa River\n Tamayodo Dam\n\nSee also\n List of railway stations in Japan",
-            "References": "External links\n\n Hagure Station information (Saitama Prefectural Government) \n Hagure Station timetable \n\nRailway stations in Japan opened in 1903\nRailway stations in Saitama Prefecture\nYorii, Saitama"
-          },
-          "全文": "is a passenger railway station in the town of Yorii, Saitama, Japan, operated by the private railway operator Chichibu Railway.\n\nLines\nHagure Station is served by the Chichibu Main Line from  to , and is located 37.7 km from Hanyū.\n\nStation layout\nThe station is staffed and consists of a single island platform serving two tracks, with an additional bidirectional track adjacent to track 2 for use by freight services.\n\nPlatforms\n\nAdjacent stations\n\nHistory\nHagure Station opened on 1 April 1903.\n\nPassenger statistics\nIn fiscal 2018, the station was used by an average of 227 passengers daily.\n\nSurrounding area\n Arakawa River\n Tamayodo Dam\n\nSee also\n List of railway stations in Japan\n\nReferences\n\nExternal links\n\n Hagure Station information (Saitama Prefectural Government) \n Hagure Station timetable \n\nRailway stations in Japan opened in 1903\nRailway stations in Saitama Prefecture\nYorii, Saitama",
-          "字数": 901
+          "链接": "https://ja.wikipedia.org/wiki/%E6%B3%A2%E4%B9%85%E7%A4%BC%E9%A7%85",
+          "首段": "Hagure Station (波久礼駅) is a railway station in 県大里郡寄居町大字末野, Japan.",
+          "章节": {},
+          "全文": "Hagure Station (波久礼駅) is a railway station in 県大里郡寄居町大字末野, Japan.",
+          "字数": 65
         }
       },
       "结构化信息": {
@@ -2064,15 +2107,11 @@
         },
         "英文": {
           "词条标题": "Urayamaguchi Station",
-          "链接": "https://en.wikipedia.org/wiki/Urayamaguchi%20Station",
-          "首段": "is a passenger railway station located in the city of Chichibu, Saitama, Japan, operated by the private railway operator Chichibu Railway.",
-          "章节": {
-            "Lines": "Urayamaguchi Station is served by the Chichibu Main Line from  to , and is located 63.8 km from Hanyū. It is also served by through services to and from the Seibu Chichibu Line.\n\nStation layout\nThe station is staffed and consists of a single side platform serving a single bi-directional track.\n\nAdjacent stations",
-            "History": "Urayamaguchi Station opened on 15 March 1930.\n\nPassenger statistics\nIn fiscal 2018, the station was used by an average of 183 passengers daily.>\n\nSurrounding area\n\n Arakawa River\n \n Urayama Dam\n Mount Bukō\n\nSee also\n List of railway stations in Japan",
-            "References": "External links\n\n Urayamaguchi Station information (Saitama Prefectural Government) \n Urayamaguchi Station timetable \n\nRailway stations in Japan opened in 1930\nRailway stations in Saitama Prefecture\nChichibu, Saitama"
-          },
-          "全文": "is a passenger railway station located in the city of Chichibu, Saitama, Japan, operated by the private railway operator Chichibu Railway.\n\nLines\nUrayamaguchi Station is served by the Chichibu Main Line from  to , and is located 63.8 km from Hanyū. It is also served by through services to and from the Seibu Chichibu Line.\n\nStation layout\nThe station is staffed and consists of a single side platform serving a single bi-directional track.\n\nAdjacent stations\n\nHistory\nUrayamaguchi Station opened on 15 March 1930.\n\nPassenger statistics\nIn fiscal 2018, the station was used by an average of 183 passengers daily.>\n\nSurrounding area\n\n Arakawa River\n \n Urayama Dam\n Mount Bukō\n\nSee also\n List of railway stations in Japan\n\nReferences\n\nExternal links\n\n Urayamaguchi Station information (Saitama Prefectural Government) \n Urayamaguchi Station timetable \n\nRailway stations in Japan opened in 1930\nRailway stations in Saitama Prefecture\nChichibu, Saitama",
-          "字数": 948
+          "链接": "https://ja.wikipedia.org/wiki/%E6%B5%A6%E5%B1%B1%E5%8F%A3%E9%A7%85",
+          "首段": "Urayamaguchi Station (浦山口駅) is a railway station in 県秩父市荒川久那字平沢, Japan.",
+          "章节": {},
+          "全文": "Urayamaguchi Station (浦山口駅) is a railway station in 県秩父市荒川久那字平沢, Japan.",
+          "字数": 71
         }
       },
       "结构化信息": {
@@ -2185,15 +2224,11 @@
         },
         "英文": {
           "词条标题": "Kumagaya Station",
-          "链接": "https://en.wikipedia.org/wiki/Kumagaya%20Station",
-          "首段": "is an interchange passenger railway station located in the city of Kumagaya, Saitama, Japan, operated jointly by East Japan Railway Company (JR East) and the private railway operator Chichibu Railway.",
-          "章节": {
-            "Lines": "Kumagaya Station is served by the JR East Jōetsu Shinkansen and Hokuriku Shinkansen high-speed shinkansen lines from , the Takasaki Line to . It is located 64.7 kilometers from Tokyo. The station is also served by the privately operated Chichibu Main Line from  to . It is located 14.9 km from Hanyū on the Chichibu Main Line.\n\nStation layout\n\nJR East\n\nThe JR East station consists of two ground-level island platforms, serving four tracks for the Takasaki Line,  with an elevated station building above the platforms.  Shinkansen services are provided by one side platform and one island platform serving three tracks, located above the station building. The station has a “Midori no Madoguchi” staffed ticket office.\n\nChichibu Railway\nThe Chichibu Railway Station consists of one island platform serving two tracks, with an elevated station building located above the platform.",
-            "History": "The station on the Takasaki Line opened on July 28, 1883. The Chichibu Line platforms opened on October 7, 1901. The Jōetsu Shinkansen platforms opened on November 15, 1982. The station became part of the JR East network after the privatization of the JNR on 1 April 1987.\n\nPassenger statistics\nIn fiscal 2019, the JR East portion of Kumagaya Station was used by an average of 30,064 passengers daily (boarding passengers only). In fiscal 2018, the Chichibu Railway portion of the station was used by an average of 10,927 passengers daily.\n\nSurrounding area\n Kumagaya City Office\n Kumagaya General Hospital\n\nSee also\n List of railway stations in Japan",
-            "References": "External links\n\nJR East station information \nChichibu Railway station timetable \n\nRailway stations in Saitama Prefecture\nRailway stations in Japan opened in 1883\nStations of East Japan Railway Company\nRailway stations in Kumagaya\nTakasaki Line\nShōnan-Shinjuku Line"
-          },
-          "全文": "is an interchange passenger railway station located in the city of Kumagaya, Saitama, Japan, operated jointly by East Japan Railway Company (JR East) and the private railway operator Chichibu Railway.\n\nLines\nKumagaya Station is served by the JR East Jōetsu Shinkansen and Hokuriku Shinkansen high-speed shinkansen lines from , the Takasaki Line to . It is located 64.7 kilometers from Tokyo. The station is also served by the privately operated Chichibu Main Line from  to . It is located 14.9 km from Hanyū on the Chichibu Main Line.\n\nStation layout\n\nJR East\n\nThe JR East station consists of two ground-level island platforms, serving four tracks for the Takasaki Line,  with an elevated station building above the platforms.  Shinkansen services are provided by one side platform and one island platform serving three tracks, located above the station building. The station has a “Midori no Madoguchi” staffed ticket office.\n\nChichibu Railway\nThe Chichibu Railway Station consists of one island platform serving two tracks, with an elevated station building located above the platform.\n\nPlatforms\n\nHistory\nThe station on the Takasaki Line opened on July 28, 1883. The Chichibu Line platforms opened on October 7, 1901. The Jōetsu Shinkansen platforms opened on November 15, 1982. The station became part of the JR East network after the privatization of the JNR on 1 April 1987.\n\nPassenger statistics\nIn fiscal 2019, the JR East portion of Kumagaya Station was used by an average of 30,064 passengers daily (boarding passengers only). In fiscal 2018, the Chichibu Railway portion of the station was used by an average of 10,927 passengers daily.\n\nSurrounding area\n Kumagaya City Office\n Kumagaya General Hospital\n\nSee also\n List of railway stations in Japan\n\nReferences\n\nExternal links\n\nJR East station information \nChichibu Railway station timetable \n\nRailway stations in Saitama Prefecture\nRailway stations in Japan opened in 1883\nStations of East Japan Railway Company\nRailway stations in Kumagaya\nTakasaki Line\nShōnan-Shinjuku Line",
-          "字数": 2037
+          "链接": "https://ja.wikipedia.org/wiki/%E7%86%8A%E8%B0%B7%E9%A7%85",
+          "首段": "Kumagaya Station (熊谷駅) is a railway station in 県熊谷市, Japan.",
+          "章节": {},
+          "全文": "Kumagaya Station (熊谷駅) is a railway station in 県熊谷市, Japan.",
+          "字数": 59
         }
       },
       "结构化信息": {
@@ -2280,15 +2315,11 @@
         },
         "英文": {
           "词条标题": "Shiroku Station",
-          "链接": "https://en.wikipedia.org/wiki/Shiroku%20Station",
-          "首段": "is a passenger railway station located in the city of Chichibu, Saitama, Japan, operated by the private railway operator Chichibu Railway.",
-          "章节": {
-            "Lines": "Shiroku Station is served by the Chichibu Main Line from  to , and is located 70.4 km from Hanyū. It is also served by through services to and from the Seibu Chichibu Line.\n\nStation layout\nThe station is staffed and consists of a side platform serving a single bidirectional track.\n\nAdjacent stations",
-            "History": "Shiroku Station opened on 15 March 1930.\n\nPassenger statistics\nIn fiscal 2018, the station was used by an average of 126 passengers daily.\n\nSurrounding area\n Arakawa River\n \n Shiroku Onsen",
-            "References": "External links\n\n Shiroku Station information (Saitama Prefectural Government) \n Shiroku Station timetable \n\nRailway stations in Japan opened in 1930\nRailway stations in Saitama Prefecture\nChichibu, Saitama"
-          },
-          "全文": "is a passenger railway station located in the city of Chichibu, Saitama, Japan, operated by the private railway operator Chichibu Railway.\n\nLines\nShiroku Station is served by the Chichibu Main Line from  to , and is located 70.4 km from Hanyū. It is also served by through services to and from the Seibu Chichibu Line.\n\nStation layout\nThe station is staffed and consists of a side platform serving a single bidirectional track.\n\nAdjacent stations\n\nHistory\nShiroku Station opened on 15 March 1930.\n\nPassenger statistics\nIn fiscal 2018, the station was used by an average of 126 passengers daily.\n\nSurrounding area\n Arakawa River\n \n Shiroku Onsen\n\nReferences\n\nExternal links\n\n Shiroku Station information (Saitama Prefectural Government) \n Shiroku Station timetable \n\nRailway stations in Japan opened in 1930\nRailway stations in Saitama Prefecture\nChichibu, Saitama",
-          "字数": 863
+          "链接": "https://ja.wikipedia.org/wiki/%E7%99%BD%E4%B9%85%E9%A7%85",
+          "首段": "Shiroku Station (白久駅) is a railway station in 県秩父市荒川白久字原, Japan.",
+          "章节": {},
+          "全文": "Shiroku Station (白久駅) is a railway station in 県秩父市荒川白久字原, Japan.",
+          "字数": 64
         }
       },
       "结构化信息": {
@@ -2362,16 +2393,11 @@
         },
         "英文": {
           "词条标题": "Minano Station",
-          "链接": "https://en.wikipedia.org/wiki/Minano%20Station",
-          "首段": "is a passenger railway station located in the town of Minano, Saitama, Japan, operated by the private railway operator Chichibu Railway.",
-          "章节": {
-            "Lines": "Minano Station is served by the Chichibu Main Line from  to , and is located 50.8 km from Hanyū.\n\nStation layout\nThe station is staffed and consists of one side platform and one island platform serving three tracks in total. Track 3 is a bidirectional line normally used by freight services only.",
-            "Platforms": "Adjacent stations",
-            "History": "Minano Station opened on 27 October 1914.\n\nPassenger statistics\nIn fiscal 2018, the station was used by an average of 1102 passengers daily.\n\nSurrounding area\n Minano Town Office\n Arakawa River\n\nSee also\n List of railway stations in Japan",
-            "References": "External links\n\n Minano Station information (Saitama Prefectural Government) \n Minano Station timetable \n\nRailway stations in Japan opened in 1914\nRailway stations in Saitama Prefecture\nMinano, Saitama"
-          },
-          "全文": "is a passenger railway station located in the town of Minano, Saitama, Japan, operated by the private railway operator Chichibu Railway.\n\nLines\nMinano Station is served by the Chichibu Main Line from  to , and is located 50.8 km from Hanyū.\n\nStation layout\nThe station is staffed and consists of one side platform and one island platform serving three tracks in total. Track 3 is a bidirectional line normally used by freight services only.\n\nPlatforms\n\nAdjacent stations\n\nHistory\nMinano Station opened on 27 October 1914.\n\nPassenger statistics\nIn fiscal 2018, the station was used by an average of 1102 passengers daily.\n\nSurrounding area\n Minano Town Office\n Arakawa River\n\nSee also\n List of railway stations in Japan\n\nReferences\n\nExternal links\n\n Minano Station information (Saitama Prefectural Government) \n Minano Station timetable \n\nRailway stations in Japan opened in 1914\nRailway stations in Saitama Prefecture\nMinano, Saitama",
-          "字数": 933
+          "链接": "https://ja.wikipedia.org/wiki/%E7%9A%86%E9%87%8E%E9%A7%85",
+          "首段": "Minano Station (皆野駅) is a railway station in 県秩父郡皆野町大字皆野, Japan.",
+          "章节": {},
+          "全文": "Minano Station (皆野駅) is a railway station in 県秩父郡皆野町大字皆野, Japan.",
+          "字数": 64
         }
       },
       "结构化信息": {
@@ -2429,7 +2455,14 @@
           "字数": 291,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "石原駅",
+          "链接": "https://ja.wikipedia.org/wiki/%E7%9F%B3%E5%8E%9F%E9%A7%85",
+          "首段": "石原駅 (石原駅) is a railway station in Japan, Japan.",
+          "章节": {},
+          "全文": "石原駅 (石原駅) is a railway station in Japan, Japan.",
+          "字数": 47
+        }
       },
       "结构化信息": {
         "读音": null,
@@ -2494,16 +2527,11 @@
         },
         "英文": {
           "词条标题": "Chichibu Station",
-          "链接": "https://en.wikipedia.org/wiki/Chichibu%20Station",
-          "首段": "is a passenger railway station located in the city of Chichibu, Saitama, Japan, operated by the private railway operator Chichibu Railway.",
-          "章节": {
-            "Lines": "Chichibu Station is served by the Chichibu Main Line from  to , and is located 59.0 km from Hanyū.\n\nStation layout\n\nThe station is staffed and consists of a single island platform serving two bidirectional tracks. Additional bidirectional passing tracks and storage sidings lie to the east of the platform tracks.\n\nA triangular line leading to a now closed cement works formerly existed to the east of the station. This was also used for turning Paleo Express steam locomotives before the installation of a turntable at Mitsumineguchi Station.",
-            "Platforms": "Adjacent stations",
-            "History": "Chichibu Station opened on 27 October 1914.\n\nPassenger statistics\nIn fiscal 2018, the station was used by an average of 1159 passengers daily.\n\nSurrounding area\n Arakawa River\n \n \n Chichibu Shrine\n Chichibu Police Station\n Chichibu Fire Station\n Hitsujiyama Park",
-            "References": "External links\n\n Chichibu Station information (Saitama Prefectural Government) \n Chichibu Station timetable \n\nRailway stations in Japan opened in 1914\nRailway stations in Saitama Prefecture\nChichibu, Saitama"
-          },
-          "全文": "is a passenger railway station located in the city of Chichibu, Saitama, Japan, operated by the private railway operator Chichibu Railway.\n\nLines\nChichibu Station is served by the Chichibu Main Line from  to , and is located 59.0 km from Hanyū.\n\nStation layout\n\nThe station is staffed and consists of a single island platform serving two bidirectional tracks. Additional bidirectional passing tracks and storage sidings lie to the east of the platform tracks.\n\nA triangular line leading to a now closed cement works formerly existed to the east of the station. This was also used for turning Paleo Express steam locomotives before the installation of a turntable at Mitsumineguchi Station.\n\nPlatforms\n\nAdjacent stations\n\nHistory\nChichibu Station opened on 27 October 1914.\n\nPassenger statistics\nIn fiscal 2018, the station was used by an average of 1159 passengers daily.\n\nSurrounding area\n Arakawa River\n \n \n Chichibu Shrine\n Chichibu Police Station\n Chichibu Fire Station\n Hitsujiyama Park\n\nReferences\n\nExternal links\n\n Chichibu Station information (Saitama Prefectural Government) \n Chichibu Station timetable \n\nRailway stations in Japan opened in 1914\nRailway stations in Saitama Prefecture\nChichibu, Saitama",
-          "字数": 1212
+          "链接": "https://ja.wikipedia.org/wiki/%E7%A7%A9%E7%88%B6%E9%A7%85",
+          "首段": "Chichibu Station (秩父駅) is a railway station in 県秩父市宮側町, Japan.",
+          "章节": {},
+          "全文": "Chichibu Station (秩父駅) is a railway station in 県秩父市宮側町, Japan.",
+          "字数": 62
         }
       },
       "结构化信息": {
@@ -2589,7 +2617,14 @@
           "字数": 1473,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "羽生駅",
+          "链接": "https://ja.wikipedia.org/wiki/%E7%BE%BD%E7%94%9F%E9%A7%85",
+          "首段": "羽生駅 (羽生駅) is a railway station in 県羽生市南一丁目, Japan.",
+          "章节": {},
+          "全文": "羽生駅 (羽生駅) is a railway station in 県羽生市南一丁目, Japan.",
+          "字数": 50
+        }
       },
       "结构化信息": {
         "读音": "はにゅうえき",
@@ -2686,16 +2721,11 @@
         },
         "英文": {
           "词条标题": "Gyōdashi Station",
-          "链接": "https://en.wikipedia.org/wiki/Gy%C5%8Ddashi%20Station",
-          "首段": "is a passenger railway station located in the city of Gyōda, Saitama, Japan, operated by the private railway operator Chichibu Railway",
-          "章节": {
-            "Lines": "Gyōdashi Station is served by the 71.7 km Chichibu Main Line from  to , and is located 8.3 km from Hanyū. Chichibuji express services stop at this station.\n\nStation layout\nThe station consists of a single island platform serving two tracks.",
-            "Platforms": "Adjacent stations",
-            "History": "The station opened on 1 April 1921 as Gyōda Station. It was renamed Gyōdashi Station from 1 June 1966 to distinguish it from Gyōda Station on the JNR Takasaki Line.\n\nPassenger statistics\nIn fiscal 2018, the station was used by an average of 1718 passengers daily.\n\nSurrounding area\n Gyōda City Office",
-            "References": "External links\n\n  \n\nStations of Chichibu Railway\nRailway stations in Japan opened in 1921\nRailway stations in Saitama Prefecture"
-          },
-          "全文": "is a passenger railway station located in the city of Gyōda, Saitama, Japan, operated by the private railway operator Chichibu Railway\n\nLines\nGyōdashi Station is served by the 71.7 km Chichibu Main Line from  to , and is located 8.3 km from Hanyū. Chichibuji express services stop at this station.\n\nStation layout\nThe station consists of a single island platform serving two tracks.\n\nPlatforms\n\nAdjacent stations\n\nHistory\nThe station opened on 1 April 1921 as Gyōda Station. It was renamed Gyōdashi Station from 1 June 1966 to distinguish it from Gyōda Station on the JNR Takasaki Line.\n\nPassenger statistics\nIn fiscal 2018, the station was used by an average of 1718 passengers daily.\n\nSurrounding area\n Gyōda City Office\n\nReferences\n\nExternal links\n\n  \n\nStations of Chichibu Railway\nRailway stations in Japan opened in 1921\nRailway stations in Saitama Prefecture\nGyōda",
-          "字数": 870
+          "链接": "https://ja.wikipedia.org/wiki/%E8%A1%8C%E7%94%B0%E5%B8%82%E9%A7%85",
+          "首段": "Gyōdashi Station (行田市駅) is a railway station in 県行田市中央, Japan.",
+          "章节": {},
+          "全文": "Gyōdashi Station (行田市駅) is a railway station in 県行田市中央, Japan.",
+          "字数": 62
         }
       },
       "结构化信息": {
@@ -2783,7 +2813,14 @@
           "字数": 929,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "西武秩父駅",
+          "链接": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%AD%A6%E7%A7%A9%E7%88%B6%E9%A7%85",
+          "首段": "西武秩父駅 (西武秩父駅) is a railway station in 県秩父市野坂町一丁目, Japan.",
+          "章节": {},
+          "全文": "西武秩父駅 (西武秩父駅) is a railway station in 県秩父市野坂町一丁目, Japan.",
+          "字数": 56
+        }
       },
       "结构化信息": {
         "读音": "せいぶちちぶえき",
@@ -2866,7 +2903,14 @@
           "字数": 489,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "西羽生駅",
+          "链接": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E7%BE%BD%E7%94%9F%E9%A7%85",
+          "首段": "西羽生駅 (西羽生駅) is a railway station in 県羽生市西五丁目, Japan.",
+          "章节": {},
+          "全文": "西羽生駅 (西羽生駅) is a railway station in 県羽生市西五丁目, Japan.",
+          "字数": 52
+        }
       },
       "结构化信息": {
         "读音": "にしはにゅうえき",
@@ -2943,16 +2987,11 @@
         },
         "英文": {
           "词条标题": "Oyahana Station",
-          "链接": "https://en.wikipedia.org/wiki/Oyahana%20Station",
-          "首段": "is a passenger railway station located in the town of Minano, Saitama, Japan, operated by the private railway operator Chichibu Railway.",
-          "章节": {
-            "Lines": "Oyahana Station is served by the Chichibu Main Line from  to , and is located 49.2 km from Hanyū.\n\nStation layout\nThe station is staffed and consists of one side platform and one island platform serving three tracks in total. Track 3 is a bidirectional line normally used by freight services only.",
-            "Platforms": "Adjacent stations",
-            "History": "Oyahana Station opened on 27 October 1914.\n\nPassenger statistics\nIn fiscal 2018, the station was used by an average of 395 passengers daily.\n\nSurrounding area\n Arakawa River\n\nSee also\n List of railway stations in Japan",
-            "References": "External links\n\n Oyahana Station information (Saitama Prefectural Government) \n Oyahana Station timetable \n\nRailway stations in Japan opened in 1914\nRailway stations in Saitama Prefecture\nMinano, Saitama"
-          },
-          "全文": "is a passenger railway station located in the town of Minano, Saitama, Japan, operated by the private railway operator Chichibu Railway.\n\nLines\nOyahana Station is served by the Chichibu Main Line from  to , and is located 49.2 km from Hanyū.\n\nStation layout\nThe station is staffed and consists of one side platform and one island platform serving three tracks in total. Track 3 is a bidirectional line normally used by freight services only.\n\nPlatforms\n\nAdjacent stations\n\nHistory\nOyahana Station opened on 27 October 1914.\n\nPassenger statistics\nIn fiscal 2018, the station was used by an average of 395 passengers daily.\n\nSurrounding area\n Arakawa River\n\nSee also\n List of railway stations in Japan\n\nReferences\n\nExternal links\n\n Oyahana Station information (Saitama Prefectural Government) \n Oyahana Station timetable \n\nRailway stations in Japan opened in 1914\nRailway stations in Saitama Prefecture\nMinano, Saitama",
-          "字数": 916
+          "链接": "https://ja.wikipedia.org/wiki/%E8%A6%AA%E9%BC%BB%E9%A7%85",
+          "首段": "Oyahana Station (親鼻駅) is a railway station in 県秩父郡皆野町大字皆野, Japan.",
+          "章节": {},
+          "全文": "Oyahana Station (親鼻駅) is a railway station in 県秩父郡皆野町大字皆野, Japan.",
+          "字数": 65
         }
       },
       "结构化信息": {
@@ -3027,16 +3066,11 @@
         },
         "英文": {
           "词条标题": "Nogami Station",
-          "链接": "https://en.wikipedia.org/wiki/Nogami%20Station",
-          "首段": "is a passenger railway station located in the town of Nagatoro, Saitama, Japan, operated by the private railway operator Chichibu Railway.",
-          "章节": {
-            "Lines": "Nogami Station is served by the Chichibu Main Line from  to , and is located 44.7 km from Hanyū.\n\nStation layout\nThe station is staffed and consists of one side platform and one island platform serving three tracks in total. Track 3 is a bidirectional line used by freight services.",
-            "Platforms": "Adjacent stations",
-            "History": "Nogami Station opened on 14 September 1911, initially as . The station was renamed Nogami on 16 December 1929.\n\nPassenger statistics\nIn fiscal 2018, the station was used by an average of 649 passengers daily.\n\nSurrounding area\n Nagatoro Town Office\n Ara River",
-            "References": "External links\n\n Nogami Station information (Saitama Prefectural Government) \n Nogami Station timetable \n\nRailway stations in Japan opened in 1911\nRailway stations in Saitama Prefecture\nNagatoro, Saitama"
-          },
-          "全文": "is a passenger railway station located in the town of Nagatoro, Saitama, Japan, operated by the private railway operator Chichibu Railway.\n\nLines\nNogami Station is served by the Chichibu Main Line from  to , and is located 44.7 km from Hanyū.\n\nStation layout\nThe station is staffed and consists of one side platform and one island platform serving three tracks in total. Track 3 is a bidirectional line used by freight services.\n\nPlatforms\n\nAdjacent stations\n\nHistory\nNogami Station opened on 14 September 1911, initially as . The station was renamed Nogami on 16 December 1929.\n\nPassenger statistics\nIn fiscal 2018, the station was used by an average of 649 passengers daily.\n\nSurrounding area\n Nagatoro Town Office\n Ara River\n\nReferences\n\nExternal links\n\n Nogami Station information (Saitama Prefectural Government) \n Nogami Station timetable \n\nRailway stations in Japan opened in 1911\nRailway stations in Saitama Prefecture\nNagatoro, Saitama",
-          "字数": 944
+          "链接": "https://ja.wikipedia.org/wiki/%E9%87%8E%E4%B8%8A%E9%A7%85",
+          "首段": "Nogami Station (野上駅) is a railway station in 県秩父郡長瀞町大字本野上, Japan.",
+          "章节": {},
+          "全文": "Nogami Station (野上駅) is a railway station in 県秩父郡長瀞町大字本野上, Japan.",
+          "字数": 65
         }
       },
       "结构化信息": {
@@ -3112,16 +3146,11 @@
         },
         "英文": {
           "词条标题": "Nagatoro Station",
-          "链接": "https://en.wikipedia.org/wiki/Nagatoro%20Station",
-          "首段": "is a passenger railway station located in the town of Nagatoro, Saitama, Japan, operated by the private railway operator Chichibu Railway.",
-          "章节": {
-            "Lines": "Nagatoro Station is served by the Chichibu Main Line from  to , and is located 46.5 km from Hanyū.\n\nStation layout\n\nThe station is staffed and consists of one side platform and one island platform serving three tracks in total. Track 3 is a bidirectional line used by the Paleo Express, freight services and through-running services to and from the Seibu Chichibu Line.",
-            "Platforms": "Adjacent stations",
-            "History": "The station opened on September 14, 1911 as . It was renamed Nagatoro from 7 July 1923.\n\nPassenger statistics\nIn fiscal 2018, the station was used by an average of 1320 passengers daily.\n\nSurrounding area\n Mount Hodosan\n Arakawa River and Nagatoro Gorge\n\nSee also\n List of railway stations in Japan",
-            "References": "External links\n\n Nagatoro Station information (Saitama Prefectural Government) \n Nagatoro Station timetable \n\nRailway stations in Saitama Prefecture\nRailway stations in Japan opened in 1911\nStations of Chichibu Railway\nNagatoro, Saitama"
-          },
-          "全文": "is a passenger railway station located in the town of Nagatoro, Saitama, Japan, operated by the private railway operator Chichibu Railway.\n\nLines\nNagatoro Station is served by the Chichibu Main Line from  to , and is located 46.5 km from Hanyū.\n\nStation layout\n\nThe station is staffed and consists of one side platform and one island platform serving three tracks in total. Track 3 is a bidirectional line used by the Paleo Express, freight services and through-running services to and from the Seibu Chichibu Line.\n\nPlatforms\n\nAdjacent stations\n\nHistory\n\nThe station opened on September 14, 1911 as . It was renamed Nagatoro from 7 July 1923.\n\nPassenger statistics\nIn fiscal 2018, the station was used by an average of 1320 passengers daily.\n\nSurrounding area\n Mount Hodosan\n Arakawa River and Nagatoro Gorge\n\nSee also\n List of railway stations in Japan\n\nReferences\n\nExternal links\n\n Nagatoro Station information (Saitama Prefectural Government) \n Nagatoro Station timetable \n\nRailway stations in Saitama Prefecture\nRailway stations in Japan opened in 1911\nStations of Chichibu Railway\nNagatoro, Saitama",
-          "字数": 1104
+          "链接": "https://ja.wikipedia.org/wiki/%E9%95%B7%E7%80%9E%E9%A7%85",
+          "首段": "Nagatoro Station (長瀞駅) is a railway station in 県秩父郡長瀞町大字長瀞, Japan.",
+          "章节": {},
+          "全文": "Nagatoro Station (長瀞駅) is a railway station in 県秩父郡長瀞町大字長瀞, Japan.",
+          "字数": 66
         }
       },
       "结构化信息": {
@@ -3157,6 +3186,6 @@
     "有中文词条": 38,
     "已千问汉化": 0,
     "待汉化": 0,
-    "有英文词条": 21
+    "有英文词条": 38
   }
 }
