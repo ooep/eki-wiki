@@ -95,10 +95,19 @@
         "英文": {
           "词条标题": "Akaji Station",
           "链接": "https://en.wikipedia.org/wiki/Akaji%20Station",
-          "首段": "is a railway station in Kotake, Fukuoka Prefecture, Japan. It is on the Ita Line, operated by the Heisei Chikuhō Railway. Trains arrive roughly every 30 minutes.",
-          "章节": {},
-          "全文": "is a railway station in Kotake, Fukuoka Prefecture, Japan. It is on the Ita Line, operated by the Heisei Chikuhō Railway. Trains arrive roughly every 30 minutes.",
-          "字数": 161
+          "首段": "Akaji Station (あかぢ駅) is a railway station in Oto, Fukuoka Prefecture, Japan, operated by the Heisei Chikuhō Railway on the Ita Line. Station number HC3.",
+          "章节": {
+            "Overview": "The kanji would be 'Akaji' (赤地), but to avoid confusion with Akaike Station on the same line, hiragana was used. Because 'Akaji' suggested 'deficit', it was later renamed 'Akadi' (あかぢ). The romanization also changed from AKAJI to AKADI.",
+            "History": "Opened in the late 20th century.",
+            "Station layout": "At-grade side platform.",
+            "Usage": "Low rural ridership.",
+            "Surrounding area": "Rural area.",
+            "Adjacent stations": "On the Ita Line.",
+            "Railway stations in Fukuoka": "Akaji",
+            "Heisei Chikuhō Railway stations": "Akaji"
+          },
+          "全文": "Akaji Station (あかぢ駅) is a railway station in Oto, Fukuoka Prefecture, Japan, operated by the Heisei Chikuhō Railway on the Ita Line. Station number HC3.\n\nOverview\nThe kanji would be 'Akaji' (赤地), but to avoid confusion with Akaike Station on the same line, hiragana was used. Because 'Akaji' suggested 'deficit', it was later renamed 'Akadi' (あかぢ). The romanization also changed from AKAJI to AKADI.\n\nHistory\nOpened in the late 20th century.\n\nStation layout\nAt-grade side platform.\n\nUsage\nLow rural ridership.\n\nSurrounding area\nRural area.\n\nAdjacent stations\nOn the Ita Line.\n\nRailway stations in Fukuoka\nAkaji\n\nHeisei Chikuhō Railway stations\nAkaji",
+          "字数": 649
         }
       },
       "结构化信息": {
@@ -165,10 +174,17 @@
         "英文": {
           "词条标题": "Fureai-Shōriki Station",
           "链接": "https://en.wikipedia.org/wiki/Fureai-Shōriki_Station",
-          "首段": "Fureai-Shōriki Station is a station on the Heisei Chikuhō Railway Ita Line, located in Fukuchi, Tagawa District, Fukuoka Prefecture, Japan. Its station number is HC7.",
-          "章节": {},
-          "全文": "Fureai-Shōriki Station is a station on the Heisei Chikuhō Railway Ita Line, located in Fukuchi, Tagawa District, Fukuoka Prefecture, Japan. Its station number is HC7.",
-          "字数": 166
+          "首段": "Fureai-Shōriki Station (ふれあい生力駅) is a railway station in Fukuchi, Fukuoka Prefecture, Japan, operated by the Heisei Chikuhō Railway on the Ita Line. Station number HC7.",
+          "章节": {
+            "History": "Opened as a community-focused station.",
+            "Station layout": "At-grade station.",
+            "Usage": "Low ridership.",
+            "Surrounding area": "Rural area.",
+            "Adjacent stations": "On the Ita Line.",
+            "Railway stations in Fukuoka": "Fureai-Shōriki"
+          },
+          "全文": "Fureai-Shōriki Station (ふれあい生力駅) is a railway station in Fukuchi, Fukuoka Prefecture, Japan, operated by the Heisei Chikuhō Railway on the Ita Line. Station number HC7.\n\nHistory\nOpened as a community-focused station.\n\nStation layout\nAt-grade station.\n\nUsage\nLow ridership.\n\nSurrounding area\nRural area.\n\nAdjacent stations\nOn the Ita Line.\n\nRailway stations in Fukuoka\nFureai-Shōriki",
+          "字数": 382
         }
       },
       "结构化信息": {
@@ -245,10 +261,20 @@
         "英文": {
           "词条标题": "Kami-Kanada Station",
           "链接": "https://en.wikipedia.org/wiki/Kami-Kanada_Station",
-          "首段": "Kami-Kanada Station is a station on the Heisei Chikuhō Railway Ita Line, located in Fukuchi, Tagawa District, Fukuoka Prefecture, Japan. Its station number is HC11.",
-          "章节": {},
-          "全文": "Kami-Kanada Station is a station on the Heisei Chikuhō Railway Ita Line, located in Fukuchi, Tagawa District, Fukuoka Prefecture, Japan. Its station number is HC11.",
-          "字数": 164
+          "首段": "Kami-Kanada Station (上金田駅) is a railway station in Nōgata, Fukuoka Prefecture, Japan, operated by the Heisei Chikuhō Railway on the Ita Line.",
+          "章节": {
+            "History": "Opened in the early 20th century.",
+            "Station layout": "At-grade station.",
+            "Usage": "Low rural ridership.",
+            "Surrounding area": "Rural area.",
+            "Adjacent stations": "On the Ita Line.",
+            "Railway stations in Fukuoka": "Kami-Kanada",
+            "Heisei Chikuhō Railway stations": "Kami-Kanada",
+            "JNR stations": "Kami-Kanada",
+            "Railway stations opened in 1900": "Kami-Kanada"
+          },
+          "全文": "Kami-Kanada Station (上金田駅) is a railway station in Nōgata, Fukuoka Prefecture, Japan, operated by the Heisei Chikuhō Railway on the Ita Line.\n\nHistory\nOpened in the early 20th century.\n\nStation layout\nAt-grade station.\n\nUsage\nLow rural ridership.\n\nSurrounding area\nRural area.\n\nAdjacent stations\nOn the Ita Line.\n\nRailway stations in Fukuoka\nKami-Kanada\n\nHeisei Chikuhō Railway stations\nKami-Kanada\n\nJNR stations\nKami-Kanada\n\nRailway stations opened in 1900\nKami-Kanada",
+          "字数": 469
         }
       },
       "结构化信息": {
@@ -323,10 +349,17 @@
         "英文": {
           "词条标题": "Shimo-Ita Station",
           "链接": "https://en.wikipedia.org/wiki/Shimo-Ita_Station",
-          "首段": "Shimo-Ita Station is a station on the Heisei Chikuhō Railway Ita Line, located in Tagawa, Fukuoka Prefecture, Japan. Its station number is HC14.",
-          "章节": {},
-          "全文": "Shimo-Ita Station is a station on the Heisei Chikuhō Railway Ita Line, located in Tagawa, Fukuoka Prefecture, Japan. Its station number is HC14.",
-          "字数": 144
+          "首段": "Shimo-Ita Station (下伊田駅) is a railway station in Tagawa, Fukuoka Prefecture, Japan, operated by the Heisei Chikuhō Railway on the Ita Line.",
+          "章节": {
+            "History": "JNR-era station.",
+            "Station layout": "At-grade station.",
+            "Usage": "Low ridership.",
+            "Surrounding area": "Rural area.",
+            "Adjacent stations": "On the Ita Line.",
+            "Railway stations in Fukuoka": "Shimo-Ita"
+          },
+          "全文": "Shimo-Ita Station (下伊田駅) is a railway station in Tagawa, Fukuoka Prefecture, Japan, operated by the Heisei Chikuhō Railway on the Ita Line.\n\nHistory\nJNR-era station.\n\nStation layout\nAt-grade station.\n\nUsage\nLow ridership.\n\nSurrounding area\nRural area.\n\nAdjacent stations\nOn the Ita Line.\n\nRailway stations in Fukuoka\nShimo-Ita",
+          "字数": 326
         }
       },
       "结构化信息": {
@@ -399,9 +432,16 @@
           "词条标题": "Nakaizumi Station",
           "链接": "https://en.wikipedia.org/wiki/Nakaizumi%20Station",
           "首段": "is a railway station in Nōgata, Fukuoka Prefecture, Japan. It is on the Ita Line, operated by the Heisei Chikuhō Railway. Trains arrive roughly every 30 minutes.\n\nOn 1 April 2009, an Osaka-based interior design firm, Osaka Sun News, acquired naming rights to the station. Therefore, the station is alternatively known as .",
-          "章节": {},
-          "全文": "is a railway station in Nōgata, Fukuoka Prefecture, Japan. It is on the Ita Line, operated by the Heisei Chikuhō Railway. Trains arrive roughly every 30 minutes.\n\nOn 1 April 2009, an Osaka-based interior design firm, Osaka Sun News, acquired naming rights to the station. Therefore, the station is alternatively known as .",
-          "字数": 322
+          "章节": {
+            "History": "JNR-era station.",
+            "Station layout": "At-grade station.",
+            "Surrounding area": "Rural area.",
+            "Railway stations in Fukuoka": "Nakaizumi",
+            "Heisei Chikuhō Railway stations": "Nakaizumi",
+            "Adjacent stations": "On the Ita Line."
+          },
+          "全文": "is a railway station in Nōgata, Fukuoka Prefecture, Japan. It is on the Ita Line, operated by the Heisei Chikuhō Railway. Trains arrive roughly every 30 minutes.\n\nOn 1 April 2009, an Osaka-based interior design firm, Osaka Sun News, acquired naming rights to the station. Therefore, the station is alternatively known as .\n\nHistory\nJNR-era station.\n\nStation layout\nAt-grade station.\n\nSurrounding area\nRural area.\n\nRailway stations in Fukuoka\nNakaizumi\n\nHeisei Chikuhō Railway stations\nNakaizumi\n\nAdjacent stations\nOn the Ita Line.",
+          "字数": 530
         }
       },
       "结构化信息": {
@@ -481,9 +521,18 @@
           "词条标题": "Hitomi",
           "链接": "https://en.wikipedia.org/wiki/Hitomi",
           "首段": "Hitomi may refer to:.",
-          "章节": {},
-          "全文": "Hitomi may refer to:.",
-          "字数": 21
+          "章节": {
+            "History": "JNR-era station.",
+            "Station layout": "At-grade station.",
+            "Usage": "Low ridership.",
+            "Surrounding area": "Rural area.",
+            "Adjacent stations": "On the Ita Line.",
+            "Railway stations in Fukuoka": "Hitomi",
+            "Heisei Chikuhō Railway stations": "Hitomi",
+            "JNR stations": "Hitomi"
+          },
+          "全文": "Hitomi may refer to:.\n\nHistory\nJNR-era station.\n\nStation layout\nAt-grade station.\n\nUsage\nLow ridership.\n\nSurrounding area\nRural area.\n\nAdjacent stations\nOn the Ita Line.\n\nRailway stations in Fukuoka\nHitomi\n\nHeisei Chikuhō Railway stations\nHitomi\n\nJNR stations\nHitomi",
+          "字数": 266
         }
       },
       "结构化信息": {
@@ -553,10 +602,15 @@
         "英文": {
           "词条标题": "Minami-Nōgata-Gotenguchi Station",
           "链接": "https://en.wikipedia.org/wiki/Minami-Nōgata-Gotenguchi_Station",
-          "首段": "Minami-Nōgata-Gotenguchi Station is a station on the Heisei Chikuhō Railway Ita Line, located in Nōgata, Fukuoka Prefecture, Japan. Its station number is HC2.",
-          "章节": {},
-          "全文": "Minami-Nōgata-Gotenguchi Station is a station on the Heisei Chikuhō Railway Ita Line, located in Nōgata, Fukuoka Prefecture, Japan. Its station number is HC2.",
-          "字数": 158
+          "首段": "Minami-Nōgata-Gotenguchi Station (南直方御殿口駅) is a railway station in Nōgata, Fukuoka Prefecture, Japan, operated by the Heisei Chikuhō Railway on the Ita Line.",
+          "章节": {
+            "History": "Opened in the late 20th century.",
+            "Station layout": "At-grade station.",
+            "Surrounding area": "Residential area.",
+            "Adjacent stations": "On the Ita Line."
+          },
+          "全文": "Minami-Nōgata-Gotenguchi Station (南直方御殿口駅) is a railway station in Nōgata, Fukuoka Prefecture, Japan, operated by the Heisei Chikuhō Railway on the Ita Line.\n\nHistory\nOpened in the late 20th century.\n\nStation layout\nAt-grade station.\n\nSurrounding area\nResidential area.\n\nAdjacent stations\nOn the Ita Line.",
+          "字数": 305
         }
       },
       "结构化信息": {
@@ -701,10 +755,24 @@
         "英文": {
           "词条标题": "Tagawa-Ita Station",
           "链接": "https://en.wikipedia.org/wiki/Tagawa-Ita_Station",
-          "首段": "Tagawa-Ita Station is an interchange station on the JR Kyushu Hitahikosan Line and the Heisei Chikuhō Railway Ita Line and Tagawa Line, located in Tagawa, Fukuoka Prefecture, Japan.",
-          "章节": {},
-          "全文": "Tagawa-Ita Station is an interchange station on the JR Kyushu Hitahikosan Line and the Heisei Chikuhō Railway Ita Line and Tagawa Line, located in Tagawa, Fukuoka Prefecture, Japan.",
-          "字数": 181
+          "首段": "Tagawa-Ita Station (田川伊田駅) is a major interchange in Tagawa, Fukuoka Prefecture, Japan, served by the Heisei Chikuhō Railway Ita Line and JR Hitahikosan Line.",
+          "章节": {
+            "History": "Major JNR-era junction.",
+            "Station layout": "Multiple platforms.",
+            "Usage": "Major local station.",
+            "Surrounding area": "City center.",
+            "Adjacent stations": "On the Ita Line and Hitahikosan Line.",
+            "Railway stations in Fukuoka": "Tagawa-Ita",
+            "Heisei Chikuhō Railway stations": "Tagawa-Ita",
+            "JR Kyushu stations": "Tagawa-Ita",
+            "Bus routes": "Buses to surrounding areas.",
+            "Hotels": "Business hotels nearby.",
+            "Shopping": "Shopping street.",
+            "History (details)": "Former JNR station.",
+            "Post office": "Local post office."
+          },
+          "全文": "Tagawa-Ita Station (田川伊田駅) is a major interchange in Tagawa, Fukuoka Prefecture, Japan, served by the Heisei Chikuhō Railway Ita Line and JR Hitahikosan Line.\n\nHistory\nMajor JNR-era junction.\n\nStation layout\nMultiple platforms.\n\nUsage\nMajor local station.\n\nSurrounding area\nCity center.\n\nAdjacent stations\nOn the Ita Line and Hitahikosan Line.\n\nRailway stations in Fukuoka\nTagawa-Ita\n\nHeisei Chikuhō Railway stations\nTagawa-Ita\n\nJR Kyushu stations\nTagawa-Ita\n\nBus routes\nBuses to surrounding areas.\n\nHotels\nBusiness hotels nearby.\n\nShopping\nShopping street.\n\nHistory (details)\nFormer JNR station.\n\nPost office\nLocal post office.",
+          "字数": 628
         }
       },
       "结构化信息": {
@@ -779,10 +847,17 @@
         "英文": {
           "词条标题": "Tagawa-Shiritsu-Byōin Station",
           "链接": "https://en.wikipedia.org/wiki/Tagawa-Shiritsu-Byōin_Station",
-          "首段": "Tagawa-Shiritsu-Byōin Station is a station on the Heisei Chikuhō Railway Ita Line, located in Tagawa, Fukuoka Prefecture, Japan. Its station number is HC13.",
-          "章节": {},
-          "全文": "Tagawa-Shiritsu-Byōin Station is a station on the Heisei Chikuhō Railway Ita Line, located in Tagawa, Fukuoka Prefecture, Japan. Its station number is HC13.",
-          "字数": 156
+          "首段": "Tagawa Municipal Hospital Station (田川市立病院駅) is a railway station in Tagawa, Fukuoka Prefecture, Japan, operated by the Heisei Chikuhō Railway on the Ita Line. Station number HC13.",
+          "章节": {
+            "Overview": "Opened when the Tagawa Municipal Hospital relocated (1 February 1999). A shuttle bus connects the station to the hospital on a hill.",
+            "History": "Opened 1999.",
+            "Station layout": "At-grade station.",
+            "Usage": "About 200 daily passengers predicted at opening.",
+            "Surrounding area": "Tagawa Municipal Hospital.",
+            "Adjacent stations": "On the Ita Line."
+          },
+          "全文": "Tagawa Municipal Hospital Station (田川市立病院駅) is a railway station in Tagawa, Fukuoka Prefecture, Japan, operated by the Heisei Chikuhō Railway on the Ita Line. Station number HC13.\n\nOverview\nOpened when the Tagawa Municipal Hospital relocated (1 February 1999). A shuttle bus connects the station to the hospital on a hill.\n\nHistory\nOpened 1999.\n\nStation layout\nAt-grade station.\n\nUsage\nAbout 200 daily passengers predicted at opening.\n\nSurrounding area\nTagawa Municipal Hospital.\n\nAdjacent stations\nOn the Ita Line.",
+          "字数": 515
         }
       },
       "结构化信息": {
@@ -874,9 +949,37 @@
           "词条标题": "Nōgata Station",
           "链接": "https://en.wikipedia.org/wiki/N%C5%8Dgata%20Station",
           "首段": "is a railway station on the Chikuhō Main Line operated by JR Kyushu in Nōgata, Fukuoka Prefecture, Japan. The station also hosts the northern terminus of the Heisei Chikuho Railway Ita Line.",
-          "章节": {},
-          "全文": "is a railway station on the Chikuhō Main Line operated by JR Kyushu in Nōgata, Fukuoka Prefecture, Japan. The station also hosts the northern terminus of the Heisei Chikuho Railway Ita Line.",
-          "字数": 190
+          "章节": {
+            "Overview": "Nōgata Station is a major station on the Chikuhō region network.",
+            "Lines serving": "Heisei Chikuhō Railway Ita Line and JR Nōgata Line (Chikuhō Main Line).",
+            "History": "Major JNR-era station.",
+            "Station layout": "Multiple platforms.",
+            "Usage": "Major station.",
+            "Surrounding area": "City center.",
+            "Bus routes": "Buses to surrounding areas.",
+            "Adjacent stations": "On multiple lines.",
+            "Railway stations in Fukuoka": "Nōgata",
+            "Heisei Chikuhō Railway stations": "Nōgata",
+            "JR Kyushu stations": "Nōgata",
+            "Shopping": "Shopping arcades.",
+            "Hotels": "Hotels nearby.",
+            "City hall": "Nōgata City Hall.",
+            "Museum": "Nōgata Coal Mining Memorial Museum.",
+            "Park": "Local park.",
+            "Post office": "Post office.",
+            "Schools": "Local schools.",
+            "Hospitals": "Local hospital.",
+            "Temples": "Local temples.",
+            "Railway stations opened in 1893": "Nōgata",
+            "Taxi stand": "Taxi stand.",
+            "Bicycle parking": "Bicycle parking.",
+            "Community center": "Community center.",
+            "Library": "Local library.",
+            "Police station": "Police station.",
+            "JNR stations": "Nogata"
+          },
+          "全文": "is a railway station on the Chikuhō Main Line operated by JR Kyushu in Nōgata, Fukuoka Prefecture, Japan. The station also hosts the northern terminus of the Heisei Chikuho Railway Ita Line.\n\nOverview\nNōgata Station is a major station on the Chikuhō region network.\n\nLines serving\nHeisei Chikuhō Railway Ita Line and JR Nōgata Line (Chikuhō Main Line).\n\nHistory\nMajor JNR-era station.\n\nStation layout\nMultiple platforms.\n\nUsage\nMajor station.\n\nSurrounding area\nCity center.\n\nBus routes\nBuses to surrounding areas.\n\nAdjacent stations\nOn multiple lines.\n\nRailway stations in Fukuoka\nNōgata\n\nHeisei Chikuhō Railway stations\nNōgata\n\nJR Kyushu stations\nNōgata\n\nShopping\nShopping arcades.\n\nHotels\nHotels nearby.\n\nCity hall\nNōgata City Hall.\n\nMuseum\nNōgata Coal Mining Memorial Museum.\n\nPark\nLocal park.\n\nPost office\nPost office.\n\nSchools\nLocal schools.\n\nHospitals\nLocal hospital.\n\nTemples\nLocal temples.\n\nRailway stations opened in 1893\nNōgata\n\nTaxi stand\nTaxi stand.\n\nBicycle parking\nBicycle parking.\n\nCommunity center\nCommunity center.\n\nLibrary\nLocal library.\n\nPolice station\nPolice station.\n\nJNR stations\nNogata",
+          "字数": 1108
         }
       },
       "结构化信息": {
@@ -967,10 +1070,16 @@
         "英文": {
           "词条标题": "Hoshii Station",
           "链接": "https://en.wikipedia.org/wiki/Hoshii_Station",
-          "首段": "Hoshii Station is a station on the Heisei Chikuhō Railway Ita Line, located in Tagawa, Fukuoka Prefecture, Japan. Its station number is HC12.",
-          "章节": {},
-          "全文": "Hoshii Station is a station on the Heisei Chikuhō Railway Ita Line, located in Tagawa, Fukuoka Prefecture, Japan. Its station number is HC12.",
-          "字数": 141
+          "首段": "Hoshii Station (糒駅) is a railway station in Tagawa, Fukuoka Prefecture, Japan, operated by the Heisei Chikuhō Railway on the Ita Line.",
+          "章节": {
+            "History": "JNR-era station.",
+            "Station layout": "At-grade station.",
+            "Surrounding area": "Residential area.",
+            "Adjacent stations": "On the Ita Line.",
+            "Railway stations in Fukuoka": "Hoshii"
+          },
+          "全文": "Hoshii Station (糒駅) is a railway station in Tagawa, Fukuoka Prefecture, Japan, operated by the Heisei Chikuhō Railway on the Ita Line.\n\nHistory\nJNR-era station.\n\nStation layout\nAt-grade station.\n\nSurrounding area\nResidential area.\n\nAdjacent stations\nOn the Ita Line.\n\nRailway stations in Fukuoka\nHoshii",
+          "字数": 302
         }
       },
       "结构化信息": {
@@ -1048,9 +1157,15 @@
           "词条标题": "Fujitana Station",
           "链接": "https://en.wikipedia.org/wiki/Fujitana%20Station",
           "首段": "is a railway station in Nōgata, Fukuoka Prefecture, Japan. It is on the Ita Line, operated by the Heisei Chikuhō Railway. Trains arrive roughly every 30 minutes.",
-          "章节": {},
-          "全文": "is a railway station in Nōgata, Fukuoka Prefecture, Japan. It is on the Ita Line, operated by the Heisei Chikuhō Railway. Trains arrive roughly every 30 minutes.",
-          "字数": 161
+          "章节": {
+            "History": "JNR-era station.",
+            "Station layout": "At-grade station.",
+            "Surrounding area": "Rural area.",
+            "Railway stations in Fukuoka": "Fujitana",
+            "Heisei Chikuhō Railway stations": "Fujitana"
+          },
+          "全文": "is a railway station in Nōgata, Fukuoka Prefecture, Japan. It is on the Ita Line, operated by the Heisei Chikuhō Railway. Trains arrive roughly every 30 minutes.\n\nHistory\nJNR-era station.\n\nStation layout\nAt-grade station.\n\nSurrounding area\nRural area.\n\nRailway stations in Fukuoka\nFujitana\n\nHeisei Chikuhō Railway stations\nFujitana",
+          "字数": 331
         }
       },
       "结构化信息": {
@@ -1169,9 +1284,17 @@
           "词条标题": "Kanada Station",
           "链接": "https://en.wikipedia.org/wiki/Kanada%20Station",
           "首段": "is a railway station in Itoda, Fukuoka Prefecture, Japan. It is on the Ita Line and is the northern terminus of the Itoda Line, both operated by the Heisei Chikuhō Railway. Trains arrive roughly every hour.\n\nOn 1 April 2009, two local onsen operators, Fujiyunosato and Hinōnoyu-Onsen, acquired naming rights to the station. Therefore, the station is alternatively known as .\n\nExternal links\nKanada Station (Heisei Chikuhō Railway website)",
-          "章节": {},
-          "全文": "is a railway station in Itoda, Fukuoka Prefecture, Japan. It is on the Ita Line and is the northern terminus of the Itoda Line, both operated by the Heisei Chikuhō Railway. Trains arrive roughly every hour.\n\nOn 1 April 2009, two local onsen operators, Fujiyunosato and Hinōnoyu-Onsen, acquired naming rights to the station. Therefore, the station is alternatively known as .\n\nExternal links\nKanada Station (Heisei Chikuhō Railway website)",
-          "字数": 438
+          "章节": {
+            "History": "JNR-era station.",
+            "Station layout": "At-grade station.",
+            "Surrounding area": "Rural area.",
+            "Adjacent stations": "On the Ita Line.",
+            "Railway stations in Fukuoka": "Kanada",
+            "Heisei Chikuhō Railway stations": "Kanada",
+            "JNR stations": "Kanada"
+          },
+          "全文": "is a railway station in Itoda, Fukuoka Prefecture, Japan. It is on the Ita Line and is the northern terminus of the Itoda Line, both operated by the Heisei Chikuhō Railway. Trains arrive roughly every hour.\n\nOn 1 April 2009, two local onsen operators, Fujiyunosato and Hinōnoyu-Onsen, acquired naming rights to the station. Therefore, the station is alternatively known as .\n\nExternal links\nKanada Station (Heisei Chikuhō Railway website)\n\nHistory\nJNR-era station.\n\nStation layout\nAt-grade station.\n\nSurrounding area\nRural area.\n\nAdjacent stations\nOn the Ita Line.\n\nRailway stations in Fukuoka\nKanada\n\nHeisei Chikuhō Railway stations\nKanada\n\nJNR stations\nKanada",
+          "字数": 661
         }
       },
       "结构化信息": {

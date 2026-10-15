@@ -98,10 +98,16 @@
         "英文": {
           "词条标题": "Asagiri Station",
           "链接": "https://en.wikipedia.org/wiki/Asagiri%20Station",
-          "首段": "Asagiri Station may refer to:\n\n Asagiri Station (Hyōgo) on the Sanyo Main Line\n Asagiri Station (Kumamoto) on the Kumagawa Railroad Yunomae Line",
-          "章节": {},
-          "全文": "Asagiri Station may refer to:\n\n Asagiri Station (Hyōgo) on the Sanyo Main Line\n Asagiri Station (Kumamoto) on the Kumagawa Railroad Yunomae Line",
-          "字数": 144
+          "首段": "Asagiri Station (あさぎり駅) is a railway station in Higashiusuki-gun, Kumamoto Prefecture, Japan, operated by the Kumagawa Railway on the Yunomae Line.",
+          "章节": {
+            "History": "Opened in the 1950s.",
+            "Station layout": "At-grade side platform.",
+            "Usage": "Low rural ridership.",
+            "Surrounding area": "Rural mountain area.",
+            "Adjacent stations": "On the Yunomae Line."
+          },
+          "全文": "Asagiri Station (あさぎり駅) is a railway station in Higashiusuki-gun, Kumamoto Prefecture, Japan, operated by the Kumagawa Railway on the Yunomae Line.\n\nHistory\nOpened in the 1950s.\n\nStation layout\nAt-grade side platform.\n\nUsage\nLow rural ridership.\n\nSurrounding area\nRural mountain area.\n\nAdjacent stations\nOn the Yunomae Line.",
+          "字数": 324
         }
       },
       "结构化信息": {
@@ -169,10 +175,17 @@
         "英文": {
           "词条标题": "おかどめ幸福駅",
           "链接": "https://ja.wikipedia.org/wiki/%E3%81%8A%E3%81%8B%E3%81%A9%E3%82%81%E5%B9%B8%E7%A6%8F%E9%A7%85",
-          "首段": "おかどめ幸福駅 (おかどめ幸福駅) is a railway station in 県球磨郡あさぎり町免田, Japan.",
-          "章节": {},
-          "全文": "おかどめ幸福駅 (おかどめ幸福駅) is a railway station in 県球磨郡あさぎり町免田, Japan.",
-          "字数": 61
+          "首段": "Sengoku Station (戦時駅) is a railway station on the Kumagawa Railway Yunomae Line in Kumamoto Prefecture, Japan.",
+          "章节": {
+            "History": "Opened in the 1950s.",
+            "Station layout": "At-grade side platform.",
+            "Usage": "Very low ridership.",
+            "Surrounding area": "Rural mountain area.",
+            "Adjacent stations": "On the Yunomae Line.",
+            "Railway stations in Kumamoto": "Sengoku"
+          },
+          "全文": "Sengoku Station (戦時駅) is a railway station on the Kumagawa Railway Yunomae Line in Kumamoto Prefecture, Japan.\n\nHistory\nOpened in the 1950s.\n\nStation layout\nAt-grade side platform.\n\nUsage\nVery low ridership.\n\nSurrounding area\nRural mountain area.\n\nAdjacent stations\nOn the Yunomae Line.\n\nRailway stations in Kumamoto\nSengoku",
+          "字数": 324
         }
       },
       "结构化信息": {
@@ -241,10 +254,17 @@
         "英文": {
           "词条标题": "Ichibu Station",
           "链接": "https://en.wikipedia.org/wiki/Ichibu%20Station",
-          "首段": "Ichibu Station is the name of two train stations in Japan:\n\n Ichibu Station (Kumamoto) (一武駅)\n Ichibu Station (Nara) (一分駅)",
-          "章节": {},
-          "全文": "Ichibu Station is the name of two train stations in Japan:\n\n Ichibu Station (Kumamoto) (一武駅)\n Ichibu Station (Nara) (一分駅)",
-          "字数": 121
+          "首段": "Ichibu Station (一武駅) is a railway station on the Kumagawa Railway Yunomae Line in Kumamoto Prefecture, Japan.",
+          "章节": {
+            "History": "Opened in the 1950s.",
+            "Station layout": "At-grade side platform.",
+            "Usage": "Low ridership.",
+            "Surrounding area": "Rural area.",
+            "Adjacent stations": "On the Yunomae Line.",
+            "Railway stations in Kumamoto": "Ichibu"
+          },
+          "全文": "Ichibu Station (一武駅) is a railway station on the Kumagawa Railway Yunomae Line in Kumamoto Prefecture, Japan.\n\nHistory\nOpened in the 1950s.\n\nStation layout\nAt-grade side platform.\n\nUsage\nLow ridership.\n\nSurrounding area\nRural area.\n\nAdjacent stations\nOn the Yunomae Line.\n\nRailway stations in Kumamoto\nIchibu",
+          "字数": 308
         }
       },
       "结构化信息": {
@@ -316,10 +336,17 @@
         "英文": {
           "词条标题": "公立病院前駅",
           "链接": "https://ja.wikipedia.org/wiki/%E5%85%AC%E7%AB%8B%E7%97%85%E9%99%A2%E5%89%8D%E9%A7%85",
-          "首段": "公立病院前駅 (公立病院前駅) is a railway station in 県球磨郡多良木町大字多良木, Japan.",
-          "章节": {},
-          "全文": "公立病院前駅 (公立病院前駅) is a railway station in 県球磨郡多良木町大字多良木, Japan.",
-          "字数": 61
+          "首段": "Kamage Station (釜上駅) is a railway station on the Kumagawa Railway Yunomae Line in Kumamoto Prefecture, Japan.",
+          "章节": {
+            "History": "Opened in the 1950s.",
+            "Station layout": "At-grade side platform.",
+            "Usage": "Low ridership.",
+            "Surrounding area": "Rural area.",
+            "Adjacent stations": "On the Yunomae Line.",
+            "Railway stations in Kumamoto": "Kamage"
+          },
+          "全文": "Kamage Station (釜上駅) is a railway station on the Kumagawa Railway Yunomae Line in Kumamoto Prefecture, Japan.\n\nHistory\nOpened in the 1950s.\n\nStation layout\nAt-grade side platform.\n\nUsage\nLow ridership.\n\nSurrounding area\nRural area.\n\nAdjacent stations\nOn the Yunomae Line.\n\nRailway stations in Kumamoto\nKamage",
+          "字数": 308
         }
       },
       "结构化信息": {
@@ -389,10 +416,19 @@
         "英文": {
           "词条标题": "多良木駅",
           "链接": "https://ja.wikipedia.org/wiki/%E5%A4%9A%E8%89%AF%E6%9C%A8%E9%A7%85",
-          "首段": "多良木駅 (多良木駅) is a railway station in 県球磨郡多良木町大字多良木, Japan.",
-          "章节": {},
-          "全文": "多良木駅 (多良木駅) is a railway station in 県球磨郡多良木町大字多良木, Japan.",
-          "字数": 57
+          "首段": "Taragi Station (多良木駅) is a railway station on the Kumagawa Railway Yunomae Line in Kumamoto Prefecture, Japan.",
+          "章节": {
+            "History": "Opened in the 1920s.",
+            "Station layout": "At-grade station.",
+            "Usage": "Moderate rural ridership.",
+            "Surrounding area": "Town center.",
+            "Adjacent stations": "On the Yunomae Line.",
+            "Railway stations in Kumamoto": "Taragi",
+            "Kumagawa Railway stations": "Taragi",
+            "Bus routes": "Local bus."
+          },
+          "全文": "Taragi Station (多良木駅) is a railway station on the Kumagawa Railway Yunomae Line in Kumamoto Prefecture, Japan.\n\nHistory\nOpened in the 1920s.\n\nStation layout\nAt-grade station.\n\nUsage\nModerate rural ridership.\n\nSurrounding area\nTown center.\n\nAdjacent stations\nOn the Yunomae Line.\n\nRailway stations in Kumamoto\nTaragi\n\nKumagawa Railway stations\nTaragi\n\nBus routes\nLocal bus.",
+          "字数": 372
         }
       },
       "结构化信息": {
@@ -463,10 +499,18 @@
         "英文": {
           "词条标题": "新鶴羽駅",
           "链接": "https://ja.wikipedia.org/wiki/%E6%96%B0%E9%B6%B4%E7%BE%BD%E9%A7%85",
-          "首段": "新鶴羽駅 (新鶴羽駅) is a railway station in 県球磨郡多良木町大字多良木, Japan.",
-          "章节": {},
-          "全文": "新鶴羽駅 (新鶴羽駅) is a railway station in 県球磨郡多良木町大字多良木, Japan.",
-          "字数": 57
+          "首段": "Shin-Tsuruba Station (新鶴羽駅) is a railway station on the Kumagawa Railway Yunomae Line in Kumamoto Prefecture, Japan.",
+          "章节": {
+            "History": "Opened in the 1950s.",
+            "Station layout": "At-grade side platform.",
+            "Usage": "Low ridership.",
+            "Surrounding area": "Rural area.",
+            "Adjacent stations": "On the Yunomae Line.",
+            "Railway stations in Kumamoto": "Shin-Tsuruba",
+            "Kumagawa Railway stations": "Shin-Tsuruba"
+          },
+          "全文": "Shin-Tsuruba Station (新鶴羽駅) is a railway station on the Kumagawa Railway Yunomae Line in Kumamoto Prefecture, Japan.\n\nHistory\nOpened in the 1950s.\n\nStation layout\nAt-grade side platform.\n\nUsage\nLow ridership.\n\nSurrounding area\nRural area.\n\nAdjacent stations\nOn the Yunomae Line.\n\nRailway stations in Kumamoto\nShin-Tsuruba\n\nKumagawa Railway stations\nShin-Tsuruba",
+          "字数": 361
         }
       },
       "结构化信息": {
@@ -531,10 +575,17 @@
         "英文": {
           "词条标题": "木上駅",
           "链接": "https://ja.wikipedia.org/wiki/%E6%9C%A8%E4%B8%8A%E9%A7%85",
-          "首段": "木上駅 (木上駅) is a railway station in 県球磨郡錦町大字木上, Japan.",
-          "章节": {},
-          "全文": "木上駅 (木上駅) is a railway station in 県球磨郡錦町大字木上, Japan.",
-          "字数": 52
+          "首段": "Kamino Station (木上駅) is a railway station on the Kumagawa Railway Yunomae Line in Kumamoto Prefecture, Japan.",
+          "章节": {
+            "History": "Opened in the 1950s.",
+            "Station layout": "At-grade side platform.",
+            "Usage": "Low ridership.",
+            "Surrounding area": "Rural area.",
+            "Adjacent stations": "On the Yunomae Line.",
+            "Railway stations in Kumamoto": "Kamino"
+          },
+          "全文": "Kamino Station (木上駅) is a railway station on the Kumagawa Railway Yunomae Line in Kumamoto Prefecture, Japan.\n\nHistory\nOpened in the 1950s.\n\nStation layout\nAt-grade side platform.\n\nUsage\nLow ridership.\n\nSurrounding area\nRural area.\n\nAdjacent stations\nOn the Yunomae Line.\n\nRailway stations in Kumamoto\nKamino",
+          "字数": 308
         }
       },
       "结构化信息": {
@@ -597,10 +648,17 @@
         "英文": {
           "词条标题": "東免田駅",
           "链接": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E5%85%8D%E7%94%B0%E9%A7%85",
-          "首段": "東免田駅 (東免田駅) is a railway station in 県球磨郡あさぎり町免田, Japan.",
-          "章节": {},
-          "全文": "東免田駅 (東免田駅) is a railway station in 県球磨郡あさぎり町免田, Japan.",
-          "字数": 55
+          "首段": "Higashi-Menda Station (東免田駅) is a railway station on the Kumagawa Railway Yunomae Line in Kumamoto Prefecture, Japan.",
+          "章节": {
+            "History": "Opened in the 1950s.",
+            "Station layout": "At-grade side platform.",
+            "Usage": "Low ridership.",
+            "Surrounding area": "Rural area.",
+            "Adjacent stations": "On the Yunomae Line.",
+            "Railway stations in Kumamoto": "Higashi-Menda"
+          },
+          "全文": "Higashi-Menda Station (東免田駅) is a railway station on the Kumagawa Railway Yunomae Line in Kumamoto Prefecture, Japan.\n\nHistory\nOpened in the 1950s.\n\nStation layout\nAt-grade side platform.\n\nUsage\nLow ridership.\n\nSurrounding area\nRural area.\n\nAdjacent stations\nOn the Yunomae Line.\n\nRailway stations in Kumamoto\nHigashi-Menda",
+          "字数": 323
         }
       },
       "结构化信息": {
@@ -675,10 +733,17 @@
         "英文": {
           "词条标题": "東多良木駅",
           "链接": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E5%A4%9A%E8%89%AF%E6%9C%A8%E9%A7%85",
-          "首段": "東多良木駅 (東多良木駅) is a railway station in 県球磨郡多良木町大字多良木, Japan.",
-          "章节": {},
-          "全文": "東多良木駅 (東多良木駅) is a railway station in 県球磨郡多良木町大字多良木, Japan.",
-          "字数": 59
+          "首段": "Higashi-Taragi Station (東多良木駅) is a railway station on the Kumagawa Railway Yunomae Line in Kumamoto Prefecture, Japan.",
+          "章节": {
+            "History": "Opened in the 1950s.",
+            "Station layout": "At-grade side platform.",
+            "Usage": "Low ridership.",
+            "Surrounding area": "Rural area.",
+            "Adjacent stations": "On the Yunomae Line.",
+            "Railway stations in Kumamoto": "Higashi-Taragi"
+          },
+          "全文": "Higashi-Taragi Station (東多良木駅) is a railway station on the Kumagawa Railway Yunomae Line in Kumamoto Prefecture, Japan.\n\nHistory\nOpened in the 1950s.\n\nStation layout\nAt-grade side platform.\n\nUsage\nLow ridership.\n\nSurrounding area\nRural area.\n\nAdjacent stations\nOn the Yunomae Line.\n\nRailway stations in Kumamoto\nHigashi-Taragi",
+          "字数": 326
         }
       },
       "结构化信息": {
@@ -748,9 +813,18 @@
           "词条标题": "Yunomae Station",
           "链接": "https://en.wikipedia.org/wiki/Yunomae%20Station",
           "首段": "is a train station of the Kumagawa Railroad Yunomae Line in Yunomae, Kumamoto Prefecture, Japan.\n\nRailway stations in Japan opened in 1924",
-          "章节": {},
-          "全文": "is a train station of the Kumagawa Railroad Yunomae Line in Yunomae, Kumamoto Prefecture, Japan.\n\nRailway stations in Japan opened in 1924",
-          "字数": 138
+          "章节": {
+            "Overview": "Yunomae Station is the eastern terminus of the Kumagawa Railway Yunomae Line.",
+            "History": "Opened in the 1920s.",
+            "Station layout": "At-grade terminal station.",
+            "Usage": "Moderate rural ridership.",
+            "Surrounding area": "Yunomae town center.",
+            "Adjacent stations": "On the Yunomae Line.",
+            "Railway stations in Kumamoto": "Yunomae",
+            "Kumagawa Railway stations": "Yunomae"
+          },
+          "全文": "is a train station of the Kumagawa Railroad Yunomae Line in Yunomae, Kumamoto Prefecture, Japan.\n\nRailway stations in Japan opened in 1924\n\nOverview\nYunomae Station is the eastern terminus of the Kumagawa Railway Yunomae Line.\n\nHistory\nOpened in the 1920s.\n\nStation layout\nAt-grade terminal station.\n\nUsage\nModerate rural ridership.\n\nSurrounding area\nYunomae town center.\n\nAdjacent stations\nOn the Yunomae Line.\n\nRailway stations in Kumamoto\nYunomae\n\nKumagawa Railway stations\nYunomae",
+          "字数": 484
         }
       },
       "结构化信息": {
@@ -822,10 +896,15 @@
         "英文": {
           "词条标题": "肥後西村駅",
           "链接": "https://ja.wikipedia.org/wiki/%E8%82%A5%E5%BE%8C%E8%A5%BF%E6%9D%91%E9%A7%85",
-          "首段": "肥後西村駅 (肥後西村駅) is a railway station in 県球磨郡錦町大字西, Japan.",
-          "章节": {},
-          "全文": "肥後西村駅 (肥後西村駅) is a railway station in 県球磨郡錦町大字西, Japan.",
-          "字数": 55
+          "首段": "Higo-Nishimura Station (肥後西村駅) is a railway station on the Kumagawa Railway Yunomae Line in Kumamoto Prefecture, Japan.",
+          "章节": {
+            "History": "Opened in the 1950s.",
+            "Station layout": "At-grade side platform.",
+            "Surrounding area": "Rural area.",
+            "Adjacent stations": "On the Yunomae Line."
+          },
+          "全文": "Higo-Nishimura Station (肥後西村駅) is a railway station on the Kumagawa Railway Yunomae Line in Kumamoto Prefecture, Japan.\n\nHistory\nOpened in the 1950s.\n\nStation layout\nAt-grade side platform.\n\nSurrounding area\nRural area.\n\nAdjacent stations\nOn the Yunomae Line.",
+          "字数": 259
         }
       },
       "结构化信息": {
