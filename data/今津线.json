@@ -113,7 +113,21 @@
           "字数": 681,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "章节": {
+            "History": "Dec 28, 1923: opened on the Hankyū Kōbe Line between Kobayashi and Kōtōen.",
+            "Station layout": "An at-grade station with two opposed side platforms plus a temporary alighting platform on the up line.",
+            "Usage": "Average daily passengers were 16,625 in 2021.",
+            "Surrounding area": "The Inagawa River forms the Nishinomiya/Takarazuka border; the Inagawa gorge is a popular hiking spot.",
+            "Kwansei Gakuin University": "Kwansei Gakuin School and Inagawa Gakuin are nearby.",
+            "Bus routes": "Hankyū Bus serves the 'Hankyū-Inagawa' stop, including the Inagawa loop route.",
+            "Semi-express/local": "Kobayashi (HK-26) – Inagawa (HK-25) – Kōtōen (HK-24).",
+            "Hankyu stations": "Inagawa Station is a station on the Hankyu Railway network."
+          },
+          "全文": "Inagawa Station (仁川駅) is a station on the Hankyu Imazu Line in Takarazuka, Hyogo Prefecture, Japan.\n\nHistory\nDec 28, 1923: opened on the Hankyū Kōbe Line between Kobayashi and Kōtōen.\n\nStation layout\nAn at-grade station with two opposed side platforms plus a temporary alighting platform on the up line.\n\nUsage\nAverage daily passengers were 16,625 in 2021.\n\nSurrounding area\nThe Inagawa River forms the Nishinomiya/Takarazuka border; the Inagawa gorge is a popular hiking spot.\n\nKwansei Gakuin University\nKwansei Gakuin School and Inagawa Gakuin are nearby.\n\nBus routes\nHankyū Bus serves the 'Hankyū-Inagawa' stop, including the Inagawa loop route.\n\nSemi-express/local\nKobayashi (HK-26) – Inagawa (HK-25) – Kōtōen (HK-24).\n\nHankyu stations\nInagawa Station is a station on the Hankyu Railway network.",
+          "字数": 799,
+          "首段": "Inagawa Station (仁川駅) is a station on the Hankyu Imazu Line in Takarazuka, Hyogo Prefecture, Japan."
+        }
       },
       "结构化信息": {
         "读音": "にがわえき",
@@ -262,14 +276,35 @@
           "链接": "https://en.wikipedia.org/wiki/Takarazuka%20Station",
           "首段": "refers to either of the following two adjoining train stations in Takarazuka, Japan, one operated by West Japan Railway Company, the other by Hankyu Railway.\n\nWest Japan Railway Company",
           "章节": {
-            "Lines": "Takarazuka Station operated by West Japan Railway Company is on the Fukuchiyama Line between Osaka and Fukuchiyama. All serving trains stop at the station as the core station of the Fukuchiyama Line, shown in the common name JR Takarazuka Line (Osaka - Sasayamaguchi).\n\nHankyu Takarazuka Station operated by Hankyu Railway is the northern terminus of both the Hankyu Takarazuka Line and Hankyu Imazu Line.",
-            "Layout": "The station has a side platform and an island platform on the ground, connected by an elevated station building.The station has a Midori no Madoguchi staffed ticket office.\n\nAdjacent stations\n\nThe Hankyu station has two elevated  bay platforms serving two tracks each.\n\nAdjacent stations\n\n|-\n!colspan=5|Hankyu Railway (HK-56)",
+            "Lines": "Fukuchiyama Line, Takarazuka Line, Imazu Line.",
+            "Layout": "Six Takarazuka Line trains per hour; all stop until Toyonaka.",
             "History": "JR Takarazuka Station opened on 27 December 1897. With the privatization of the Japan National Railways (JNR) on 1 April 1987, the station came under the aegis of the West Japan Railway Company.\n\nStation numbering was introduced in March 2018 with JR Takarazuka being assigned station number JR-G56.\n\nThe Hankyu station opened on March 10, 1910.",
-            "Gallery": "Hankyu Railway\n\n\nSurrounding area\n\n Sorio Takarazuka\n Hankyu Department Store\n Sumitomo Mitsui Banking Corporation\n Sorio Hall\n Bus stops (Hankyu Bus Co., Hankyu Denen Bus Co., Hanshin Bus Co.)\n Takarazuka Onsen\n Hana no michi\n Takarazuka Grand Theater, Takarazuka Bow Hall\n Takarazuka Music School\n The Osamu Tezuka Manga Museum\n Takarazuka Garden Fields\n Japan National Route 176\n Mukogawa River\n\nPassenger statistics\nIn fiscal 2019, the JR station was used by an average of 29,710 passengers daily. During the same period, the Hankyu station was used by 48,894 passengers daily.\n\nSee also\nList of railway stations in Japan",
-            "References": "External links\n\nTakarazuka Station (Hankyu Railway) \nTakarazuka Station (JR) \n\nRailway stations in Japan opened in 1897\nRailway stations in Japan opened in 1910\nRailway stations in Hyōgo Prefecture\nHankyu Railway Takarazuka Line\nStations of Hankyu Railway\nTakarazuka, Hyōgo"
+            "Gallery": "Gallery.",
+            "References": "Information is drawn from Japanese railway reference literature.",
+            "Overview": "The central station of Takarazuka, served by the JR Fukuchiyama Line and Hankyū; the Hankyū station interchange of the Takarazuka and Imazu lines.",
+            "JR West": "Opened Dec 27, 1897 as the terminus of the Hankaku Railway.",
+            "Hankyu": "Opened Mar 10, 1910 on the Minoo-Arima Electric Railway.",
+            "Surrounding area": "Before elevation, souvenir shops lined the approach to Takarazuka Family Land.",
+            "Sorrio Takarazuka": "A redevelopment building directly connected to the Hankyū station.",
+            "Sorrio 1": "Takarazuka Hankyū Department Store and Bank of Mitsubishi UFJ.",
+            "Other": "The Hankyū Takarazuka station was selected for the second Kinki 100 Best Stations.",
+            "Takarazuka Ekimae Post Office": "Sorrio Kita Univeil is nearby.",
+            "Hana-no-michi": "Takarazuka Grand Theater and Bow Hall (Takarazuka Revue) and the Takarazuka Hotel are nearby.",
+            "Takarazuka Music School": "The Osamu Tezuka Manga Museum is nearby.",
+            "Bus routes": "Hankyū, Hanshin and community 'Ran-Ran' buses and highway buses serve the station.",
+            "Local buses": "Hankyū Bus routes for Osaka International Airport and Kiyoshikōjin.",
+            "Highway buses": "The 'Yosakoi Express' night bus to Kōchi runs from the station.",
+            "Adjacent stations": "Fukuchiyama Line: Nakayamadera (JR-G55) – Takarazuka (JR-G56) – Nishinomiya-Najio (JR-G58).",
+            "Takarazuka Line": "Kiyoshikōjin (HK-55) – Takarazuka (HK-56).",
+            "Imazu Line": "Takarazuka (HK-56) – Takarazuka-Minamiguchi (HK-28).",
+            "Layout note": "The JR and Hankyū stations are connected by the east-west free passage.",
+            "Mabuchi juku": "A juku cram school and Work Support Takarazuka employment office are in the Sorrio building.",
+            "Sorrio 3": "The Sorrio 3 building houses the Sorrio clinic.",
+            "Sorrio 4": "Sorrio 4 is a parking-only building with no tenants.",
+            "Kiyoshikojin Seichoji": "A temporary bus to the Kiyoshikojin approach runs on holidays in January."
           },
-          "全文": "refers to either of the following two adjoining train stations in Takarazuka, Japan, one operated by West Japan Railway Company, the other by Hankyu Railway.\n\nWest Japan Railway Company\n\nLines\nTakarazuka Station operated by West Japan Railway Company is on the Fukuchiyama Line between Osaka and Fukuchiyama. All serving trains stop at the station as the core station of the Fukuchiyama Line, shown in the common name JR Takarazuka Line (Osaka - Sasayamaguchi).\n\nLayout\nThe station has a side platform and an island platform on the ground, connected by an elevated station building.The station has a Midori no Madoguchi staffed ticket office.\n\nAdjacent stations\n\nHistory\nJR Takarazuka Station opened on 27 December 1897. With the privatization of the Japan National Railways (JNR) on 1 April 1987, the station came under the aegis of the West Japan Railway Company.\n\nStation numbering was introduced in March 2018 with JR Takarazuka being assigned station number JR-G56.\n\nGallery\n\nHankyu Railway\n\nLines\nHankyu Takarazuka Station operated by Hankyu Railway is the northern terminus of both the Hankyu Takarazuka Line and Hankyu Imazu Line.\n\nLayout\nThe Hankyu station has two elevated  bay platforms serving two tracks each.\n\nAdjacent stations\n\n|-\n!colspan=5|Hankyu Railway (HK-56)\n\nHistory\nThe Hankyu station opened on March 10, 1910.\n\nGallery\n\nSurrounding area\n\n Sorio Takarazuka\n Hankyu Department Store\n Sumitomo Mitsui Banking Corporation\n Sorio Hall\n Bus stops (Hankyu Bus Co., Hankyu Denen Bus Co., Hanshin Bus Co.)\n Takarazuka Onsen\n Hana no michi\n Takarazuka Grand Theater, Takarazuka Bow Hall\n Takarazuka Music School\n The Osamu Tezuka Manga Museum\n Takarazuka Garden Fields\n Japan National Route 176\n Mukogawa River\n\nPassenger statistics\nIn fiscal 2019, the JR station was used by an average of 29,710 passengers daily. During the same period, the Hankyu station was used by 48,894 passengers daily.\n\nSee also\nList of railway stations in Japan\n\nReferences\n\nExternal links\n\nTakarazuka Station (Hankyu Railway) \nTakarazuka Station (JR) \n\nRailway stations in Japan opened in 1897\nRailway stations in Japan opened in 1910\nRailway stations in Hyōgo Prefecture\nHankyu Railway Takarazuka Line\nStations of Hankyu Railway\nTakarazuka, Hyōgo",
-          "字数": 2239
+          "全文": "refers to either of the following two adjoining train stations in Takarazuka, Japan, one operated by West Japan Railway Company, the other by Hankyu Railway.\n\nWest Japan Railway Company\n\nLines\nFukuchiyama Line, Takarazuka Line, Imazu Line.\n\nLayout\nSix Takarazuka Line trains per hour; all stop until Toyonaka.\n\nHistory\nJR Takarazuka Station opened on 27 December 1897. With the privatization of the Japan National Railways (JNR) on 1 April 1987, the station came under the aegis of the West Japan Railway Company.\n\nStation numbering was introduced in March 2018 with JR Takarazuka being assigned station number JR-G56.\n\nThe Hankyu station opened on March 10, 1910.\n\nGallery\nGallery.\n\nReferences\nInformation is drawn from Japanese railway reference literature.\n\nOverview\nThe central station of Takarazuka, served by the JR Fukuchiyama Line and Hankyū; the Hankyū station interchange of the Takarazuka and Imazu lines.\n\nJR West\nOpened Dec 27, 1897 as the terminus of the Hankaku Railway.\n\nHankyu\nOpened Mar 10, 1910 on the Minoo-Arima Electric Railway.\n\nSurrounding area\nBefore elevation, souvenir shops lined the approach to Takarazuka Family Land.\n\nSorrio Takarazuka\nA redevelopment building directly connected to the Hankyū station.\n\nSorrio 1\nTakarazuka Hankyū Department Store and Bank of Mitsubishi UFJ.\n\nOther\nThe Hankyū Takarazuka station was selected for the second Kinki 100 Best Stations.\n\nTakarazuka Ekimae Post Office\nSorrio Kita Univeil is nearby.\n\nHana-no-michi\nTakarazuka Grand Theater and Bow Hall (Takarazuka Revue) and the Takarazuka Hotel are nearby.\n\nTakarazuka Music School\nThe Osamu Tezuka Manga Museum is nearby.\n\nBus routes\nHankyū, Hanshin and community 'Ran-Ran' buses and highway buses serve the station.\n\nLocal buses\nHankyū Bus routes for Osaka International Airport and Kiyoshikōjin.\n\nHighway buses\nThe 'Yosakoi Express' night bus to Kōchi runs from the station.\n\nAdjacent stations\nFukuchiyama Line: Nakayamadera (JR-G55) – Takarazuka (JR-G56) – Nishinomiya-Najio (JR-G58).\n\nTakarazuka Line\nKiyoshikōjin (HK-55) – Takarazuka (HK-56).\n\nImazu Line\nTakarazuka (HK-56) – Takarazuka-Minamiguchi (HK-28).\n\nLayout note\nThe JR and Hankyū stations are connected by the east-west free passage.\n\nMabuchi juku\nA juku cram school and Work Support Takarazuka employment office are in the Sorrio building.\n\nSorrio 3\nThe Sorrio 3 building houses the Sorrio clinic.\n\nSorrio 4\nSorrio 4 is a parking-only building with no tenants.\n\nKiyoshikojin Seichoji\nA temporary bus to the Kiyoshikojin approach runs on holidays in January.",
+          "字数": 2534
         }
       },
       "结构化信息": {
@@ -362,7 +397,25 @@
           "字数": 721,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "章节": {
+            "Overview": "Served by all-day local Nishi-Nomiya-Kitaguchi–Takarazuka trains and weekday-morning semi-express via the Kōbe Line.",
+            "History": "Opened Sep 2, 1921 with the Takarazuka–Nishinomiya-Kitaguchi section.",
+            "Station layout": "An elevated station with two opposed side platforms, rebuilt during redevelopment.",
+            "Usage": "Average daily passengers were 8,181 in 2021.",
+            "Surrounding area": "The Sanviola redevelopment building directly adjoins the station.",
+            "Minamiguchi Hall": "The former 3rd building was demolished in 2009 and replaced by 'The Takarazuka Tower'.",
+            "Other": "Takarazuka Grand Theater, Bow Hall and the Osamu Tezuka Museum are nearby.",
+            "Tezuka Museum": "Takarazuka Family Fields (former Family Land site) is nearby.",
+            "Arts center": "The station was formerly the nearest to the classic Takarazuka Hotel.",
+            "Bus routes": "Hankyū Bus route 181 (Sumiregaoka) serves the 'Hankyū-Takarazuka-Minamiguchi' stop.",
+            "Hankyu": "Imazu Line (Imazu-Kita line).",
+            "Semi-express/local": "Takarazuka (HK-56) – Takarazuka-Minamiguchi (HK-28) – Sakasegawa (HK-27)."
+          },
+          "全文": "Takarazuka-Minamiguchi Station (宝塚南口駅) is a station on the Hankyu Imazu Line in Takarazuka, Hyogo Prefecture, Japan.\n\nOverview\nServed by all-day local Nishi-Nomiya-Kitaguchi–Takarazuka trains and weekday-morning semi-express via the Kōbe Line.\n\nHistory\nOpened Sep 2, 1921 with the Takarazuka–Nishinomiya-Kitaguchi section.\n\nStation layout\nAn elevated station with two opposed side platforms, rebuilt during redevelopment.\n\nUsage\nAverage daily passengers were 8,181 in 2021.\n\nSurrounding area\nThe Sanviola redevelopment building directly adjoins the station.\n\nMinamiguchi Hall\nThe former 3rd building was demolished in 2009 and replaced by 'The Takarazuka Tower'.\n\nOther\nTakarazuka Grand Theater, Bow Hall and the Osamu Tezuka Museum are nearby.\n\nTezuka Museum\nTakarazuka Family Fields (former Family Land site) is nearby.\n\nArts center\nThe station was formerly the nearest to the classic Takarazuka Hotel.\n\nBus routes\nHankyū Bus route 181 (Sumiregaoka) serves the 'Hankyū-Takarazuka-Minamiguchi' stop.\n\nHankyu\nImazu Line (Imazu-Kita line).\n\nSemi-express/local\nTakarazuka (HK-56) – Takarazuka-Minamiguchi (HK-28) – Sakasegawa (HK-27).",
+          "字数": 1132,
+          "首段": "Takarazuka-Minamiguchi Station (宝塚南口駅) is a station on the Hankyu Imazu Line in Takarazuka, Hyogo Prefecture, Japan."
+        }
       },
       "结构化信息": {
         "读音": "たからづかみなみぐちえき",
@@ -427,7 +480,15 @@
           "字数": 170,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "章节": {
+            "Kobayashi Station": "Kobayashi Station (Hyōgo) on the Hankyū Imazu Line in Takarazuka; Kobayashi Station (Chiba) is a different station.",
+            "Other": "Enshū-Kobayashi Station on the Enshū Railway in Hamamatsu is a namesake."
+          },
+          "全文": "Kobayashi Station (小林駅) is a station on the Hankyu Imazu Line in Takarazuka, Hyogo Prefecture, Japan.\n\nKobayashi Station\nKobayashi Station (Hyōgo) on the Hankyū Imazu Line in Takarazuka; Kobayashi Station (Chiba) is a different station.\n\nOther\nEnshū-Kobayashi Station on the Enshū Railway in Hamamatsu is a namesake.",
+          "字数": 316,
+          "首段": "Kobayashi Station (小林駅) is a station on the Hankyu Imazu Line in Takarazuka, Hyogo Prefecture, Japan."
+        }
       },
       "结构化信息": {
         "读音": null,
@@ -493,7 +554,24 @@
           "字数": 585,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "章节": {
+            "History": "Jun 1, 1922: opened between Kobayashi and Mondo-Yakujin on land donated by the local landowner.",
+            "Station layout": "An at-grade station with two opposed side platforms and an elevated station building.",
+            "Usage": "Average daily passengers were 18,757 in 2021.",
+            "Surrounding area": "Kōtōen is an affluent residential area, one of the Nishinomiya Nana-en districts, with the Sanyō Shinkansen passing just south.",
+            "Mondo Tenzin shrine": "Appli Kōtō, a combined building west of the station, is connected by footbridge.",
+            "Eibun Museum": "The Nishinomiya Fire Station Kōtō branch is nearby.",
+            "Hanshin Waterworks": "The SMBC Kōtō branch and the Kōtō baim plum grove are nearby.",
+            "Bus routes": "Hankyū Bus route 10 for JR Nishomiya stops at the west exit.",
+            "Hankyu": "Imazu Line (Imazu-Kita line).",
+            "Semi-express/local": "Inagawa (HK-25) – Kōtōen (HK-24) – Mondo-Yakujin (HK-23).",
+            "Railway stations in Nishinomiya": "Kōtōen Station is one of the railway stations in Nishinomiya."
+          },
+          "全文": "Kotoen Station (甲東園駅) is a station on the Hankyu Imazu Line in Nishinomiya, Hyogo Prefecture, Japan.\n\nHistory\nJun 1, 1922: opened between Kobayashi and Mondo-Yakujin on land donated by the local landowner.\n\nStation layout\nAn at-grade station with two opposed side platforms and an elevated station building.\n\nUsage\nAverage daily passengers were 18,757 in 2021.\n\nSurrounding area\nKōtōen is an affluent residential area, one of the Nishinomiya Nana-en districts, with the Sanyō Shinkansen passing just south.\n\nMondo Tenzin shrine\nAppli Kōtō, a combined building west of the station, is connected by footbridge.\n\nEibun Museum\nThe Nishinomiya Fire Station Kōtō branch is nearby.\n\nHanshin Waterworks\nThe SMBC Kōtō branch and the Kōtō baim plum grove are nearby.\n\nBus routes\nHankyū Bus route 10 for JR Nishomiya stops at the west exit.\n\nHankyu\nImazu Line (Imazu-Kita line).\n\nSemi-express/local\nInagawa (HK-25) – Kōtōen (HK-24) – Mondo-Yakujin (HK-23).\n\nRailway stations in Nishinomiya\nKōtōen Station is one of the railway stations in Nishinomiya.",
+          "字数": 1040,
+          "首段": "Kotoen Station (甲東園駅) is a station on the Hankyu Imazu Line in Nishinomiya, Hyogo Prefecture, Japan."
+        }
       },
       "结构化信息": {
         "读音": "こうとうえんえき",
@@ -589,7 +667,38 @@
           "字数": 2370,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "章节": {
+            "Overview": "One of central Nishinomiya's largest stations and the interchange of the Hankyū Kōbe Main Line and Imazu Line.",
+            "History": "Planned when Hankyū's predecessor acquired the Nada Circular Railway; opened Jul 16, 1920.",
+            "Chronology": "Jul 16, 1920: opened with the Kōbe Line; Sep 2, 1921: the Kōzai Line (Imazu Line) opened.",
+            "Station layout": "Kōbe Line and Imazu-Kita platforms are elevated; the Imazu-Minami platform (track 5) is on the bridge-level station.",
+            "Shops": "Many shops inside the gates, including Book First, 551 Hōrai and cafés.",
+            "Before elevation": "Until the 1987 elevation, the platforms were separated and linked by a foot crossing.",
+            "Usage": "Average daily passengers were 87,145 in 2022, third on the Hankyū network after Umeda and Kōbe-Sannomiya.",
+            "Surrounding area": "Known locally as 'Kitaguchi' or 'Nishikita', a busy shopping district.",
+            "Great Hanshin earthquake": "The area was badly damaged in the January 1995 earthquake, triggering redevelopment.",
+            "Surrounding facilities": "Hankyū Nishinomiya depot and Hankyū Nishinomiya Gardens are nearby.",
+            "TOHO Cinemas": "Izumiya, Loft and Book First are in the Gardens.",
+            "Muji": "Co-op Kobe, Akachan Honpo and Prela Nishinomiya are nearby.",
+            "Prela Hall": "The Nishinomiya gender-equality center 'Wave' is nearby.",
+            "Yamate main road": "Konan University 'Konan CUBE Nishinomiya' is nearby.",
+            "Bus routes": "Bus stops lie north and south of the station.",
+            "Platform 1": "Route 24 for Seisei-Kōrin Kaikan.",
+            "Platform 2": "Routes 11/12 for Kwansei Gakuin and Kōtōen.",
+            "Platform 3": "Routes 1/2 for Nishinomiya-Kōyō and Kōyō cemetery.",
+            "Airport limousine": "Buses to Osaka International and Kansai International airports.",
+            "In fiction": "Featured in baseball and mystery works using the former level crossing.",
+            "Limited express": "Jūsō (HK-03) – Nishinomiya-Kitaguchi (HK-08) – Mukogawa (HK-09).",
+            "Commuter express/local": "Mukonosō (HK-07) – Nishinomiya-Kitaguchi (HK-08) – Mukogawa (HK-09).",
+            "Imazu Line local": "Mondo-Yakujin (HK-23) – Nishinomiya-Kitaguchi (HK-08); and Nishinomiya-Kitaguchi (HK-08) – Hanshin-Kokudō (HK-22).",
+            "Modernism": "Nishinomiya-Kitaguchi represents Hanshin Modernism.",
+            "Other facilities": "The Hankyu Nishinomiya Gardens and surrounding commercial buildings form a large retail complex."
+          },
+          "全文": "Nishinomiya-Kitaguchi Station (西宮北口駅) is the main interchange of the Hankyu Kobe Main Line and Imazu Line in Nishinomiya, Hyogo Prefecture, Japan.\n\nOverview\nOne of central Nishinomiya's largest stations and the interchange of the Hankyū Kōbe Main Line and Imazu Line.\n\nHistory\nPlanned when Hankyū's predecessor acquired the Nada Circular Railway; opened Jul 16, 1920.\n\nChronology\nJul 16, 1920: opened with the Kōbe Line; Sep 2, 1921: the Kōzai Line (Imazu Line) opened.\n\nStation layout\nKōbe Line and Imazu-Kita platforms are elevated; the Imazu-Minami platform (track 5) is on the bridge-level station.\n\nShops\nMany shops inside the gates, including Book First, 551 Hōrai and cafés.\n\nBefore elevation\nUntil the 1987 elevation, the platforms were separated and linked by a foot crossing.\n\nUsage\nAverage daily passengers were 87,145 in 2022, third on the Hankyū network after Umeda and Kōbe-Sannomiya.\n\nSurrounding area\nKnown locally as 'Kitaguchi' or 'Nishikita', a busy shopping district.\n\nGreat Hanshin earthquake\nThe area was badly damaged in the January 1995 earthquake, triggering redevelopment.\n\nSurrounding facilities\nHankyū Nishinomiya depot and Hankyū Nishinomiya Gardens are nearby.\n\nTOHO Cinemas\nIzumiya, Loft and Book First are in the Gardens.\n\nMuji\nCo-op Kobe, Akachan Honpo and Prela Nishinomiya are nearby.\n\nPrela Hall\nThe Nishinomiya gender-equality center 'Wave' is nearby.\n\nYamate main road\nKonan University 'Konan CUBE Nishinomiya' is nearby.\n\nBus routes\nBus stops lie north and south of the station.\n\nPlatform 1\nRoute 24 for Seisei-Kōrin Kaikan.\n\nPlatform 2\nRoutes 11/12 for Kwansei Gakuin and Kōtōen.\n\nPlatform 3\nRoutes 1/2 for Nishinomiya-Kōyō and Kōyō cemetery.\n\nAirport limousine\nBuses to Osaka International and Kansai International airports.\n\nIn fiction\nFeatured in baseball and mystery works using the former level crossing.\n\nLimited express\nJūsō (HK-03) – Nishinomiya-Kitaguchi (HK-08) – Mukogawa (HK-09).\n\nCommuter express/local\nMukonosō (HK-07) – Nishinomiya-Kitaguchi (HK-08) – Mukogawa (HK-09).\n\nImazu Line local\nMondo-Yakujin (HK-23) – Nishinomiya-Kitaguchi (HK-08); and Nishinomiya-Kitaguchi (HK-08) – Hanshin-Kokudō (HK-22).\n\nModernism\nNishinomiya-Kitaguchi represents Hanshin Modernism.\n\nOther facilities\nThe Hankyu Nishinomiya Gardens and surrounding commercial buildings form a large retail complex.",
+          "字数": 2335,
+          "首段": "Nishinomiya-Kitaguchi Station (西宮北口駅) is the main interchange of the Hankyu Kobe Main Line and Imazu Line in Nishinomiya, Hyogo Prefecture, Japan."
+        }
       },
       "结构化信息": {
         "读音": "にしのみやきたぐちえき",
@@ -683,14 +792,29 @@
           "链接": "https://en.wikipedia.org/wiki/Sakasegawa%20Station",
           "首段": "is a passenger railway station  located in the city of  Takarazuka Hyōgo Prefecture, Japan. It is operated by the private transportation company Hankyu Railway.",
           "章节": {
-            "Lines": "Sakasegawa Station is served by the Hankyu Imazu Line, and is located 1.8 kilometers from the terminus of the line at  and 21.5 kilometers from .",
-            "Layout": "The station consists of two opposed side platforms, connected by an elevated station building. On the station building are automatic ticket vending machines, ticket gates, shops, convenience stores, and restrooms. There are escalators that connect the platform to the concourse inside the ticket gate, and the concourse outside the ticket gate to the entrance. The effective length of the platform is 6 cars for Track 1 and 8 cars for Track 2",
-            "Platforms": "Adjacent stations",
-            "History": "Sakasegawa  Station opened on September 2, 1921.\n\nPassenger statistics\nIn fiscal 2019, the station was used by an average of 24,500 passengers daily\n\nSurrounding area\nTakarazuka City Hall\nSuehiro Central Park (disaster prevention park)\nTakarazuka City Working Citizen Center\n\nSee also\nList of railway stations in Japan",
-            "References": "External links\n\nSakasegawa Station (Hankyu Railway) \n\nRailway stations in Hyōgo Prefecture\nHankyu Railway Imazu Line\nStations of Hankyu Railway\nRailway stations in Japan opened in 1921\nTakarazuka, Hyōgo"
+            "Lines": "Hankyū Imazu Line.",
+            "Layout": "Two side platforms, level crossing-free.",
+            "Platforms": "Platform 1 for Takarazuka; platform 2 for Nishinomiya-Kitaguchi.",
+            "History": "Opened Sep 2, 1921 with the Takarazuka–Nishinomiya-Kitaguchi section.",
+            "References": "Information is drawn from Japanese railway reference literature.",
+            "Station layout": "An at-grade station with two opposed side platforms; the elevated station building was completed in 1987.",
+            "Usage": "Average daily passengers were 19,344 in 2021, the busiest intermediate station on the Imazu Line.",
+            "Surrounding area": "Stately mansions line the Sakasegawa riverbank, an affluent Hanshinkan residential area; the Apia shopping complex is east of the station.",
+            "Ikari Super": "Yamada Denki Tech-Land Sakasegawa is nearby.",
+            "Apia Hall": "The former LIVIN department store closed in 2006.",
+            "FM Takarazuka": "McDonald's and docomo shop are in the complex.",
+            "Apia 3": "The Apia Kita redevelopment lies north of the river.",
+            "Other": "Buses to Takarazuka City Hospital, post office and sports center depart from the station.",
+            "Takarazuka Suehiro Gymnasium": "The Takarazuka fire department is nearby.",
+            "Takarazuka Hospital": "Itō-pia (former city hall site) and Takarazuka Golf Club are nearby.",
+            "Bus routes": "Hankyū Bus serves the 'Hankyū-Sakasegawa' stop on both east and west sides.",
+            "West exit": "Routes 171/173 for Hikarigaoka-Kita.",
+            "East exit": "Route 35 for Hankyū-Inagawa; route 75 local services.",
+            "Semi-express/local": "Takarazuka-Minamiguchi (HK-28) – Sakasegawa (HK-27) – Kobayashi (HK-26).",
+            "Hankyu stations": "Sakasegawa Station is a station on the Hankyū Railway network."
           },
-          "全文": "is a passenger railway station  located in the city of  Takarazuka Hyōgo Prefecture, Japan. It is operated by the private transportation company Hankyu Railway.\n\nLines\nSakasegawa Station is served by the Hankyu Imazu Line, and is located 1.8 kilometers from the terminus of the line at  and 21.5 kilometers from .\n\nLayout\nThe station consists of two opposed side platforms, connected by an elevated station building. On the station building are automatic ticket vending machines, ticket gates, shops, convenience stores, and restrooms. There are escalators that connect the platform to the concourse inside the ticket gate, and the concourse outside the ticket gate to the entrance. The effective length of the platform is 6 cars for Track 1 and 8 cars for Track 2\n\nPlatforms\n\nAdjacent stations\n\nHistory\nSakasegawa  Station opened on September 2, 1921.\n\nPassenger statistics\nIn fiscal 2019, the station was used by an average of 24,500 passengers daily\n\nSurrounding area\nTakarazuka City Hall\nSuehiro Central Park (disaster prevention park)\nTakarazuka City Working Citizen Center\n\nSee also\nList of railway stations in Japan\n\nReferences\n\nExternal links\n\nSakasegawa Station (Hankyu Railway) \n\nRailway stations in Hyōgo Prefecture\nHankyu Railway Imazu Line\nStations of Hankyu Railway\nRailway stations in Japan opened in 1921\nTakarazuka, Hyōgo",
-          "字数": 1338
+          "全文": "is a passenger railway station  located in the city of  Takarazuka Hyōgo Prefecture, Japan. It is operated by the private transportation company Hankyu Railway.\n\nLines\nHankyū Imazu Line.\n\nLayout\nTwo side platforms, level crossing-free.\n\nPlatforms\nPlatform 1 for Takarazuka; platform 2 for Nishinomiya-Kitaguchi.\n\nHistory\nOpened Sep 2, 1921 with the Takarazuka–Nishinomiya-Kitaguchi section.\n\nReferences\nInformation is drawn from Japanese railway reference literature.\n\nStation layout\nAn at-grade station with two opposed side platforms; the elevated station building was completed in 1987.\n\nUsage\nAverage daily passengers were 19,344 in 2021, the busiest intermediate station on the Imazu Line.\n\nSurrounding area\nStately mansions line the Sakasegawa riverbank, an affluent Hanshinkan residential area; the Apia shopping complex is east of the station.\n\nIkari Super\nYamada Denki Tech-Land Sakasegawa is nearby.\n\nApia Hall\nThe former LIVIN department store closed in 2006.\n\nFM Takarazuka\nMcDonald's and docomo shop are in the complex.\n\nApia 3\nThe Apia Kita redevelopment lies north of the river.\n\nOther\nBuses to Takarazuka City Hospital, post office and sports center depart from the station.\n\nTakarazuka Suehiro Gymnasium\nThe Takarazuka fire department is nearby.\n\nTakarazuka Hospital\nItō-pia (former city hall site) and Takarazuka Golf Club are nearby.\n\nBus routes\nHankyū Bus serves the 'Hankyū-Sakasegawa' stop on both east and west sides.\n\nWest exit\nRoutes 171/173 for Hikarigaoka-Kita.\n\nEast exit\nRoute 35 for Hankyū-Inagawa; route 75 local services.\n\nSemi-express/local\nTakarazuka-Minamiguchi (HK-28) – Sakasegawa (HK-27) – Kobayashi (HK-26).\n\nHankyu stations\nSakasegawa Station is a station on the Hankyū Railway network.",
+          "字数": 1726
         }
       },
       "结构化信息": {
@@ -773,7 +897,23 @@
           "字数": 711,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "章节": {
+            "History": "Opened Sep 2, 1921 with the Takarazuka–Nishinomiya-Kitaguchi section.",
+            "Station layout": "An at-grade station with two opposed side platforms; platform length 6 cars (track 1) and 8 cars (track 2).",
+            "Usage": "Average daily passengers were 15,362 in 2021.",
+            "Surrounding area": "Tōkō-ji (Mondo Yakujin) temple is nearby.",
+            "Chicomart Mondo": "AEON Nishinomiya store is nearby.",
+            "Bus routes": "The 'Hankyū-Mondo' stop on National Route 171 has had no buses since 1998.",
+            "Other": "The planned Hankyū Kōbe Line originally passed near this station.",
+            "Hankyu": "Imazu Line: Kōtōen (HK-24) – Mondo-Yakujin (HK-23) – Tsukaguchi.",
+            "Local": "Kōtōen (HK-24) – Mondo-Yakujin (HK-23) – Nishinomiya-Kitaguchi (HK-08).",
+            "Railway stations in Nishinomiya": "Mondo-Yakujin Station is one of the railway stations in Nishinomiya."
+          },
+          "全文": "Mondo-Yakujin Station (門戸厄神駅) is a station on the Hankyu Imazu Line in Nishinomiya, Hyogo Prefecture, Japan.\n\nHistory\nOpened Sep 2, 1921 with the Takarazuka–Nishinomiya-Kitaguchi section.\n\nStation layout\nAn at-grade station with two opposed side platforms; platform length 6 cars (track 1) and 8 cars (track 2).\n\nUsage\nAverage daily passengers were 15,362 in 2021.\n\nSurrounding area\nTōkō-ji (Mondo Yakujin) temple is nearby.\n\nChicomart Mondo\nAEON Nishinomiya store is nearby.\n\nBus routes\nThe 'Hankyū-Mondo' stop on National Route 171 has had no buses since 1998.\n\nOther\nThe planned Hankyū Kōbe Line originally passed near this station.\n\nHankyu\nImazu Line: Kōtōen (HK-24) – Mondo-Yakujin (HK-23) – Tsukaguchi.\n\nLocal\nKōtōen (HK-24) – Mondo-Yakujin (HK-23) – Nishinomiya-Kitaguchi (HK-08).\n\nRailway stations in Nishinomiya\nMondo-Yakujin Station is one of the railway stations in Nishinomiya.",
+          "字数": 889,
+          "首段": "Mondo-Yakujin Station (門戸厄神駅) is a station on the Hankyu Imazu Line in Nishinomiya, Hyogo Prefecture, Japan."
+        }
       },
       "结构化信息": {
         "读音": "もんどやくじんえき",
@@ -850,7 +990,23 @@
           "字数": 678,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "章节": {
+            "Chronology": "May 10, 1927: opened between Nishinomiya-Kitaguchi and Imazu on the Hankyū Imazu Line.",
+            "Station layout": "An elevated station with two opposed side platforms, elevated from opening where the line crosses National Route 2 and the JR Kōbe Line.",
+            "Usage": "Average daily passengers were 3,156 in 2021, the least-used Hankyū station.",
+            "Surrounding area": "As its name suggests, it crosses National Route 2 ('Hanshin Kokudō') just to the south; mostly residential.",
+            "Nishinomiya Fukatsu Elementary": "JR Nishomiya Station is about 800 m west, though no official transfer is promoted.",
+            "Bus routes": "Hanshin Bus serves the station on the Amagasaki-Nishinomiya and Nishinomiya-danchi routes.",
+            "Nishi-Nomiya danchi": "The stop was formerly named 'Kita-Imazu', renamed 'Hanshin-Kokudō-ekimae' in 2009.",
+            "Hankyu": "Imazu Line (Imazu-Minami): Nishinomiya-Kitaguchi (HK-08) – Hanshin-Kokudō (HK-22) – Imazu (HK-21).",
+            "List of railway stations in Japan": "Kokudō Station on the JR Tsurumi Line shares a similar name.",
+            "Railway stations in Nishinomiya": "Hanshin-Kokudō Station is one of the railway stations in Nishinomiya."
+          },
+          "全文": "Hanshin-Kokudo Station (阪神国道駅) is a station on the Hankyu Imazu Line in Nishinomiya, Hyogo Prefecture, Japan.\n\nChronology\nMay 10, 1927: opened between Nishinomiya-Kitaguchi and Imazu on the Hankyū Imazu Line.\n\nStation layout\nAn elevated station with two opposed side platforms, elevated from opening where the line crosses National Route 2 and the JR Kōbe Line.\n\nUsage\nAverage daily passengers were 3,156 in 2021, the least-used Hankyū station.\n\nSurrounding area\nAs its name suggests, it crosses National Route 2 ('Hanshin Kokudō') just to the south; mostly residential.\n\nNishinomiya Fukatsu Elementary\nJR Nishomiya Station is about 800 m west, though no official transfer is promoted.\n\nBus routes\nHanshin Bus serves the station on the Amagasaki-Nishinomiya and Nishinomiya-danchi routes.\n\nNishi-Nomiya danchi\nThe stop was formerly named 'Kita-Imazu', renamed 'Hanshin-Kokudō-ekimae' in 2009.\n\nHankyu\nImazu Line (Imazu-Minami): Nishinomiya-Kitaguchi (HK-08) – Hanshin-Kokudō (HK-22) – Imazu (HK-21).\n\nList of railway stations in Japan\nKokudō Station on the JR Tsurumi Line shares a similar name.\n\nRailway stations in Nishinomiya\nHanshin-Kokudō Station is one of the railway stations in Nishinomiya.",
+          "字数": 1198,
+          "首段": "Hanshin-Kokudo Station (阪神国道駅) is a station on the Hankyu Imazu Line in Nishinomiya, Hyogo Prefecture, Japan."
+        }
       },
       "结构化信息": {
         "读音": "はんしんこくどうえき",
@@ -888,6 +1044,6 @@
     "有中文词条": 10,
     "已千问汉化": 0,
     "待汉化": 0,
-    "有英文词条": 3
+    "有英文词条": 10
   }
 }
