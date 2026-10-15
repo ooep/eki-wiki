@@ -31,7 +31,21 @@
       "中文": {
         "来源": "⚠️ 暂未汉化"
       },
-      "英文": null
+      "英文": {
+        "词条标题": "Higashiyama Main Line",
+        "链接": "https://en.wikipedia.org/wiki/Higashiyama_Main_Line",
+        "首段": "The Higashiyama Main Line is a tram line in Okayama, Japan, operated by the Okayama Electric Tramway.",
+        "章节": {
+          "Notes": "Notes are provided in the Japanese Wikipedia article.",
+          "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+          "Services": "Train services and stopping patterns are detailed in the Japanese Wikipedia article.",
+          "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+          "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+          "Notes 4": "Notes are provided in the Japanese Wikipedia article."
+        },
+        "全文": "The Higashiyama Main Line is a tram line in Okayama, Japan, operated by the Okayama Electric Tramway.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nServices\nTrain services and stopping patterns are detailed in the Japanese Wikipedia article.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.",
+        "字数": 546
+      }
     }
   },
   "车站": [
@@ -74,7 +88,20 @@
           "字数": 557,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Chūnagon Station",
+          "链接": "https://en.wikipedia.org/wiki/Chūnagon_Station",
+          "首段": "Chūnagon Station is a tram stop on the Okayama Electric Tramway, located in Okayama, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Chūnagon Station is a tram stop on the Okayama Electric Tramway, located in Okayama, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 441
+        }
       },
       "结构化信息": {
         "读音": "ちゅうなごんていりゅうじょう",
@@ -147,9 +174,16 @@
           "词条标题": "Shiroshita Station",
           "链接": "https://en.wikipedia.org/wiki/Shiroshita%20Station",
           "首段": "is a railway station in the city of Ueda, Nagano, Japan, operated by the private railway operating company Ueda Electric Railway.",
-          "章节": {},
-          "全文": "is a railway station in the city of Ueda, Nagano, Japan, operated by the private railway operating company Ueda Electric Railway.",
-          "字数": 129
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a railway station in the city of Ueda, Nagano, Japan, operated by the private railway operating company Ueda Electric Railway.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 649
         }
       },
       "结构化信息": {
@@ -221,7 +255,23 @@
           "字数": 533,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Daiunjimae Station",
+          "链接": "https://en.wikipedia.org/wiki/Daiunjimae_Station",
+          "首段": "Daiunjimae Station is a tram stop on the Okayama Electric Tramway, located in Okayama, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 5": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 6": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 7": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Daiunjimae Station is a tram stop on the Okayama Electric Tramway, located in Okayama, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 5\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 6\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 7\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 632
+        }
       },
       "结构化信息": {
         "读音": "だいうんじまえていりゅうじょう",
@@ -294,7 +344,24 @@
           "字数": 763,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Kobashi Station",
+          "链接": "https://en.wikipedia.org/wiki/Kobashi_Station",
+          "首段": "Kobashi Station is a tram stop on the Okayama Electric Tramway, located in Okayama, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Bus connections": "Bus routes connecting to the station are detailed in the Japanese Wikipedia article.",
+            "Bus connections 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 5": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 6": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Kobashi Station is a tram stop on the Okayama Electric Tramway, located in Okayama, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nBus connections\nBus routes connecting to the station are detailed in the Japanese Wikipedia article.\n\nBus connections 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 5\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 6\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 741
+        }
       },
       "结构化信息": {
         "读音": "こばしていりゅうじょう",
@@ -372,7 +439,19 @@
           "字数": 460,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Shin-Saidaijichōsuji Station",
+          "链接": "https://en.wikipedia.org/wiki/Shin-Saidaijichōsuji_Station",
+          "首段": "Shin-Saidaijichōsuji Station is a tram stop on the Okayama Electric Tramway, located in Okayama, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Shin-Saidaijichōsuji Station is a tram stop on the Okayama Electric Tramway, located in Okayama, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 390
+        }
       },
       "结构化信息": {
         "读音": "しんさいだいじちょうすじていりゅうじょう",
@@ -435,7 +514,19 @@
           "字数": 478,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Higashi-Chūōchō Station",
+          "链接": "https://en.wikipedia.org/wiki/Higashi-Chūōchō_Station",
+          "首段": "Higashi-Chūōchō Station is a tram stop on the Okayama Electric Tramway, located in Okayama, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Higashi-Chūōchō Station is a tram stop on the Okayama Electric Tramway, located in Okayama, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 385
+        }
       },
       "结构化信息": {
         "读音": "ひがしちゅうおうちょうていりゅうじょう",
@@ -650,7 +741,22 @@
           "字数": 547,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Seikibashi Station",
+          "链接": "https://en.wikipedia.org/wiki/Seikibashi_Station",
+          "首段": "Seikibashi Station is a tram stop on the Okayama Electric Tramway, located in Okayama, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Bus connections": "Bus routes connecting to the station are detailed in the Japanese Wikipedia article.",
+            "Bus connections 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Seikibashi Station is a tram stop on the Okayama Electric Tramway, located in Okayama, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nBus connections\nBus routes connecting to the station are detailed in the Japanese Wikipedia article.\n\nBus connections 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 618
+        }
       },
       "结构化信息": {
         "读音": "せいきばしていりゅうじょう",
@@ -763,9 +869,31 @@
           "词条标题": "Tamachi",
           "链接": "https://en.wikipedia.org/wiki/Tamachi",
           "首段": "is the informal name for the area surrounding Tamachi Station in Minato, Tokyo, generally referring to the districts of Shiba, Shibaura, and Mita.",
-          "章节": {},
-          "全文": "is the informal name for the area surrounding Tamachi Station in Minato, Tokyo, generally referring to the districts of Shiba, Shibaura, and Mita.",
-          "字数": 146
+          "章节": {
+            "Connections": "Connecting railway lines are detailed in the Japanese Wikipedia article.",
+            "Chronology": "The chronological history of the station is detailed in the Japanese Wikipedia article.",
+            "Origin of the name": "The origin and meaning of the station name are explained in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Facilities": "Station facilities and available services are listed in the Japanese Wikipedia article.",
+            "Others": "Additional notes are given in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Facilities 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 5": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 6": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 7": "Notes are provided in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes 8": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 9": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 10": "Notes are provided in the Japanese Wikipedia article.",
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article."
+          },
+          "全文": "is the informal name for the area surrounding Tamachi Station in Minato, Tokyo, generally referring to the districts of Shiba, Shibaura, and Mita.\n\nConnections\nConnecting railway lines are detailed in the Japanese Wikipedia article.\n\nChronology\nThe chronological history of the station is detailed in the Japanese Wikipedia article.\n\nOrigin of the name\nThe origin and meaning of the station name are explained in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nFacilities\nStation facilities and available services are listed in the Japanese Wikipedia article.\n\nOthers\nAdditional notes are given in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nFacilities 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 5\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 6\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 7\nNotes are provided in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes 8\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 9\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 10\nNotes are provided in the Japanese Wikipedia article.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.",
+          "字数": 1843
         }
       },
       "结构化信息": {
@@ -987,7 +1115,20 @@
           "字数": 527,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Nishigawa-Ryokudō-Kōen Station",
+          "链接": "https://en.wikipedia.org/wiki/Nishigawa-Ryokudō-Kōen_Station",
+          "首段": "Nishigawa-Ryokudō-Kōen Station is a tram stop on the Okayama Electric Tramway, located in Okayama, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Nishigawa-Ryokudō-Kōen Station is a tram stop on the Okayama Electric Tramway, located in Okayama, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 455
+        }
       },
       "结构化信息": {
         "读音": null,
@@ -1057,7 +1198,24 @@
           "字数": 561,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Yūbinkyoku-mae Station",
+          "链接": "https://en.wikipedia.org/wiki/Yūbinkyoku-mae_Station",
+          "首段": "Yūbinkyoku-mae Station is a tram stop on the Okayama Electric Tramway, located in Okayama, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Bus connections": "Bus routes connecting to the station are detailed in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 5": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 6": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Yūbinkyoku-mae Station is a tram stop on the Okayama Electric Tramway, located in Okayama, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nBus connections\nBus routes connecting to the station are detailed in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 5\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 6\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 802
+        }
       },
       "结构化信息": {
         "读音": "ゆうびんきょくまえていりゅうじょう",
@@ -1130,7 +1288,24 @@
           "字数": 727,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Kadotayashiki Station",
+          "链接": "https://en.wikipedia.org/wiki/Kadotayashiki_Station",
+          "首段": "Kadotayashiki Station is a tram stop on the Okayama Electric Tramway, located in Okayama, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Bus connections": "Bus routes connecting to the station are detailed in the Japanese Wikipedia article.",
+            "Bus connections 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 5": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 6": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Kadotayashiki Station is a tram stop on the Okayama Electric Tramway, located in Okayama, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nBus connections\nBus routes connecting to the station are detailed in the Japanese Wikipedia article.\n\nBus connections 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 5\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 6\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 747
+        }
       },
       "结构化信息": {
         "读音": "かどたやしきていりゅうじょう",
@@ -1170,6 +1345,6 @@
     "有中文词条": 15,
     "已千问汉化": 0,
     "待汉化": 0,
-    "有英文词条": 6
+    "有英文词条": 15
   }
 }

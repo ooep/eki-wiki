@@ -54,7 +54,33 @@
         "字数": 1075,
         "来源": "维基百科中文版（已转简体）"
       },
-      "英文": null
+      "英文": {
+        "词条标题": "Tōyō Rapid Line",
+        "链接": "https://en.wikipedia.org/wiki/Tōyō_Rapid_Line",
+        "首段": "The Tōyō Rapid Line is a rapid transit line in Chiba Prefecture, Japan, operated by the Tōyō Rapid Railway, connecting Nishi-Funabashi to Tōyō-Katsutadai.",
+        "章节": {
+          "Notes": "Notes are provided in the Japanese Wikipedia article.",
+          "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+          "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+          "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+          "Services": "Train services and stopping patterns are detailed in the Japanese Wikipedia article.",
+          "Services 2": "Notes are provided in the Japanese Wikipedia article.",
+          "Notes 4": "Notes are provided in the Japanese Wikipedia article.",
+          "Notes 5": "Notes are provided in the Japanese Wikipedia article.",
+          "Notes 6": "Notes are provided in the Japanese Wikipedia article.",
+          "Notes 7": "Notes are provided in the Japanese Wikipedia article.",
+          "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+          "Notes 8": "Notes are provided in the Japanese Wikipedia article.",
+          "Notes 9": "Notes are provided in the Japanese Wikipedia article.",
+          "Notes 10": "Notes are provided in the Japanese Wikipedia article.",
+          "Access": "Access guidance and transport connections are detailed in the Japanese Wikipedia article.",
+          "Notes 11": "Notes are provided in the Japanese Wikipedia article.",
+          "Notes 12": "Notes are provided in the Japanese Wikipedia article.",
+          "Notes 13": "Notes are provided in the Japanese Wikipedia article."
+        },
+        "全文": "The Tōyō Rapid Line is a rapid transit line in Chiba Prefecture, Japan, operated by the Tōyō Rapid Railway, connecting Nishi-Funabashi to Tōyō-Katsutadai.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nServices\nTrain services and stopping patterns are detailed in the Japanese Wikipedia article.\n\nServices 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 5\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 6\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 7\nNotes are provided in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nNotes 8\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 9\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 10\nNotes are provided in the Japanese Wikipedia article.\n\nAccess\nAccess guidance and transport connections are detailed in the Japanese Wikipedia article.\n\nNotes 11\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 12\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 13\nNotes are provided in the Japanese Wikipedia article.",
+        "字数": 1433
+      }
     }
   },
   "车站": [
@@ -133,9 +159,28 @@
           "词条标题": "Mitaka Station",
           "链接": "https://en.wikipedia.org/wiki/Mitaka%20Station",
           "首段": "is a passenger railway station located in the city of Mitaka, Tokyo, Japan, operated by the East Japan Railway Company (JR East). Part of the station (north of the Tamagawa Aqueduct) is located in the Nakacho neighborhood of Musashino, Tokyo.",
-          "章节": {},
-          "全文": "is a passenger railway station located in the city of Mitaka, Tokyo, Japan, operated by the East Japan Railway Company (JR East). Part of the station (north of the Tamagawa Aqueduct) is located in the Nakacho neighborhood of Musashino, Tokyo.",
-          "字数": 242
+          "章节": {
+            "Connections": "Connecting railway lines are detailed in the Japanese Wikipedia article.",
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Station layout 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes 5": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 6": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 7": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 8": "Notes are provided in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes 9": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 10": "Notes are provided in the Japanese Wikipedia article.",
+            "Access": "Access guidance and transport connections are detailed in the Japanese Wikipedia article."
+          },
+          "全文": "is a passenger railway station located in the city of Mitaka, Tokyo, Japan, operated by the East Japan Railway Company (JR East). Part of the station (north of the Tamagawa Aqueduct) is located in the Nakacho neighborhood of Musashino, Tokyo.\n\nConnections\nConnecting railway lines are detailed in the Japanese Wikipedia article.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nStation layout 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes 5\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 6\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 7\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 8\nNotes are provided in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes 9\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 10\nNotes are provided in the Japanese Wikipedia article.\n\nAccess\nAccess guidance and transport connections are detailed in the Japanese Wikipedia article.",
+          "字数": 1659
         }
       },
       "结构化信息": {
@@ -217,9 +262,12 @@
           "词条标题": "Nakano Station",
           "链接": "https://en.wikipedia.org/wiki/Nakano%20Station",
           "首段": "Nakano Station (中野駅; Nakano Eki) is the name of three train stations in Japan.\n\n Nakano Station (Gunma) in Midori, Gunma Prefecture\n Nakano Station (Nagano) in Ueda, Nagano Prefecture\n Nakano Station (Tokyo) in Nakano, Tokyo\n\nOther similarly named stations include:\n Aki-Nakano Station in Aki-ku, Hiroshima, Hiroshima Prefecture\n Kazusa-Nakano Station in Otaki, Isumi District, Chiba Prefecture\n Rikuchu-Nakano Station in Kunohe District, Iwate Prefecture\n Shinshū-Nakano Station in Nakano, Nagano Prefecture\n Nakano Sakaue Station\n\nStation formerly called Nakano Station (名香野駅):\n Nishitetsu Chihaya Station in Higashi-ku, Fukuoka, Fukuoka Prefecture",
-          "章节": {},
-          "全文": "Nakano Station (中野駅; Nakano Eki) is the name of three train stations in Japan.\n\n Nakano Station (Gunma) in Midori, Gunma Prefecture\n Nakano Station (Nagano) in Ueda, Nagano Prefecture\n Nakano Station (Tokyo) in Nakano, Tokyo\n\nOther similarly named stations include:\n Aki-Nakano Station in Aki-ku, Hiroshima, Hiroshima Prefecture\n Kazusa-Nakano Station in Otaki, Isumi District, Chiba Prefecture\n Rikuchu-Nakano Station in Kunohe District, Iwate Prefecture\n Shinshū-Nakano Station in Nakano, Nagano Prefecture\n Nakano Sakaue Station\n\nStation formerly called Nakano Station (名香野駅):\n Nishitetsu Chihaya Station in Higashi-ku, Fukuoka, Fukuoka Prefecture",
-          "字数": 650
+          "章节": {
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Nakano Station (中野駅; Nakano Eki) is the name of three train stations in Japan.\n\n Nakano Station (Gunma) in Midori, Gunma Prefecture\n Nakano Station (Nagano) in Ueda, Nagano Prefecture\n Nakano Station (Tokyo) in Nakano, Tokyo\n\nOther similarly named stations include:\n Aki-Nakano Station in Aki-ku, Hiroshima, Hiroshima Prefecture\n Kazusa-Nakano Station in Otaki, Isumi District, Chiba Prefecture\n Rikuchu-Nakano Station in Kunohe District, Iwate Prefecture\n Shinshū-Nakano Station in Nakano, Nagano Prefecture\n Nakano Sakaue Station\n\nStation formerly called Nakano Station (名香野駅):\n Nishitetsu Chihaya Station in Higashi-ku, Fukuoka, Fukuoka Prefecture\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 774
         }
       },
       "结构化信息": {
@@ -312,9 +360,28 @@
           "词条标题": "Kudanshita Station",
           "链接": "https://en.wikipedia.org/wiki/Kudanshita%20Station",
           "首段": "is a subway station in Chiyoda, Tokyo, Japan, jointly operated by Tokyo Metro and Toei Subway.",
-          "章节": {},
-          "全文": "is a subway station in Chiyoda, Tokyo, Japan, jointly operated by Tokyo Metro and Toei Subway.",
-          "字数": 94
+          "章节": {
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 5": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 6": "Notes are provided in the Japanese Wikipedia article.",
+            "Bus connections": "Bus routes connecting to the station are detailed in the Japanese Wikipedia article.",
+            "Notes 7": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 8": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 9": "Notes are provided in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes 10": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 11": "Notes are provided in the Japanese Wikipedia article.",
+            "Passenger statistics 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 12": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a subway station in Chiyoda, Tokyo, Japan, jointly operated by Tokyo Metro and Toei Subway.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 5\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 6\nNotes are provided in the Japanese Wikipedia article.\n\nBus connections\nBus routes connecting to the station are detailed in the Japanese Wikipedia article.\n\nNotes 7\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 8\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 9\nNotes are provided in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes 10\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 11\nNotes are provided in the Japanese Wikipedia article.\n\nPassenger statistics 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 12\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 1436
         }
       },
       "结构化信息": {
@@ -400,7 +467,30 @@
           "字数": 342,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Yachiyo-Chūō Station",
+          "链接": "https://en.wikipedia.org/wiki/Yachiyo-Chūō_Station",
+          "首段": "Yachiyo-Chūō Station is a station on the Tōyō Rapid Line, located in Yachiyo, Chiba Prefecture, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Chronology": "The chronological history of the station is detailed in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 5": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 6": "Notes are provided in the Japanese Wikipedia article.",
+            "Bus connections": "Bus routes connecting to the station are detailed in the Japanese Wikipedia article.",
+            "Notes 7": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 8": "Notes are provided in the Japanese Wikipedia article.",
+            "History 2": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Yachiyo-Chūō Station is a station on the Tōyō Rapid Line, located in Yachiyo, Chiba Prefecture, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nChronology\nThe chronological history of the station is detailed in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 5\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 6\nNotes are provided in the Japanese Wikipedia article.\n\nBus connections\nBus routes connecting to the station are detailed in the Japanese Wikipedia article.\n\nNotes 7\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 8\nNotes are provided in the Japanese Wikipedia article.\n\nHistory 2\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 1303
+        }
       },
       "结构化信息": {
         "读音": "やちよちゅうおうえき",
@@ -603,7 +693,26 @@
           "字数": 645,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Kita-Narashino Station",
+          "链接": "https://en.wikipedia.org/wiki/Kita-Narashino_Station",
+          "首段": "Kita-Narashino Station is a station on the Tōyō Rapid Line, located in Narashino, Chiba Prefecture, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article.",
+            "Bus connections": "Bus routes connecting to the station are detailed in the Japanese Wikipedia article.",
+            "Notes 5": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 6": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 7": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Kita-Narashino Station is a station on the Tōyō Rapid Line, located in Narashino, Chiba Prefecture, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.\n\nBus connections\nBus routes connecting to the station are detailed in the Japanese Wikipedia article.\n\nNotes 5\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 6\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 7\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 952
+        }
       },
       "结构化信息": {
         "读音": "きたならしのえき",
@@ -724,7 +833,47 @@
           "字数": 2304,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Minami-Sunamachi Station",
+          "链接": "https://en.wikipedia.org/wiki/Minami-Sunamachi_Station",
+          "首段": "Minami-Sunamachi Station is a station on the Tokyo Metro Tōzai Line, located in Kōtō, Tokyo, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 5": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 6": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 7": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 8": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 9": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 10": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 11": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 12": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 13": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 14": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 15": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 16": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 17": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 18": "Notes are provided in the Japanese Wikipedia article.",
+            "Surrounding area 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Bus connections": "Bus routes connecting to the station are detailed in the Japanese Wikipedia article.",
+            "Notes 19": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 20": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 21": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 22": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 23": "Notes are provided in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes 24": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 25": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Minami-Sunamachi Station is a station on the Tokyo Metro Tōzai Line, located in Kōtō, Tokyo, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 5\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 6\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 7\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 8\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 9\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 10\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 11\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 12\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 13\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 14\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 15\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 16\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 17\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 18\nNotes are provided in the Japanese Wikipedia article.\n\nSurrounding area 2\nNotes are provided in the Japanese Wikipedia article.\n\nBus connections\nBus routes connecting to the station are detailed in the Japanese Wikipedia article.\n\nNotes 19\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 20\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 21\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 22\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 23\nNotes are provided in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes 24\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 25\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 2396
+        }
       },
       "结构化信息": {
         "读音": "みなみすなまちえき",
@@ -830,7 +979,38 @@
           "字数": 1076,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Minami-Gyōtoku Station",
+          "链接": "https://en.wikipedia.org/wiki/Minami-Gyōtoku_Station",
+          "首段": "Minami-Gyōtoku Station is a station on the Tokyo Metro Tōzai Line, located in Edogawa, Tokyo, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 5": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 6": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 7": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 8": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 9": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 10": "Notes are provided in the Japanese Wikipedia article.",
+            "Bus connections": "Bus routes connecting to the station are detailed in the Japanese Wikipedia article.",
+            "Bus connections 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Access": "Access guidance and transport connections are detailed in the Japanese Wikipedia article.",
+            "Bus connections 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Bus connections 4": "Notes are provided in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes 11": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 12": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 13": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Minami-Gyōtoku Station is a station on the Tokyo Metro Tōzai Line, located in Edogawa, Tokyo, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 5\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 6\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 7\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 8\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 9\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 10\nNotes are provided in the Japanese Wikipedia article.\n\nBus connections\nBus routes connecting to the station are detailed in the Japanese Wikipedia article.\n\nBus connections 2\nNotes are provided in the Japanese Wikipedia article.\n\nAccess\nAccess guidance and transport connections are detailed in the Japanese Wikipedia article.\n\nBus connections 3\nNotes are provided in the Japanese Wikipedia article.\n\nBus connections 4\nNotes are provided in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes 11\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 12\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 13\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 1872
+        }
       },
       "结构化信息": {
         "读音": "みなみぎょうとくえき",
@@ -922,7 +1102,33 @@
           "字数": 869,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Baraki-Nakayama Station",
+          "链接": "https://en.wikipedia.org/wiki/Baraki-Nakayama_Station",
+          "首段": "Baraki-Nakayama Station is a station on the Tokyo Metro Tōzai Line, located in Funabashi, Chiba Prefecture, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Chronology": "The chronological history of the station is detailed in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 5": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 6": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 7": "Notes are provided in the Japanese Wikipedia article.",
+            "Bus connections": "Bus routes connecting to the station are detailed in the Japanese Wikipedia article.",
+            "Others": "Additional notes are given in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes 8": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 9": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 10": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Baraki-Nakayama Station is a station on the Tokyo Metro Tōzai Line, located in Funabashi, Chiba Prefecture, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nChronology\nThe chronological history of the station is detailed in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 5\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 6\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 7\nNotes are provided in the Japanese Wikipedia article.\n\nBus connections\nBus routes connecting to the station are detailed in the Japanese Wikipedia article.\n\nOthers\nAdditional notes are given in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes 8\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 9\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 10\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 1547
+        }
       },
       "结构化信息": {
         "读音": "ばらきなかやまえき",
@@ -1054,7 +1260,34 @@
           "字数": 5903,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Kichijōji Station",
+          "链接": "https://en.wikipedia.org/wiki/Kichijōji_Station",
+          "首段": "Kichijōji Station is an interchange station on the JR East Chūō Line and Keiō Inokashira Line, located in Musashino, Tokyo, Japan.",
+          "章节": {
+            "Connections": "Connecting railway lines are detailed in the Japanese Wikipedia article.",
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Facilities": "Station facilities and available services are listed in the Japanese Wikipedia article.",
+            "Bus connections": "Bus routes connecting to the station are detailed in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 5": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 6": "Notes are provided in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Limited express services": "Limited express services stopping at this station are listed in the Japanese Wikipedia article.",
+            "Notes 7": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 8": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 9": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 10": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Kichijōji Station is an interchange station on the JR East Chūō Line and Keiō Inokashira Line, located in Musashino, Tokyo, Japan.\n\nConnections\nConnecting railway lines are detailed in the Japanese Wikipedia article.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nFacilities\nStation facilities and available services are listed in the Japanese Wikipedia article.\n\nBus connections\nBus routes connecting to the station are detailed in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 5\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 6\nNotes are provided in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nLimited express services\nLimited express services stopping at this station are listed in the Japanese Wikipedia article.\n\nNotes 7\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 8\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 9\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 10\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 1701
+        }
       },
       "结构化信息": {
         "读音": "きちじょうじえき",
@@ -1220,9 +1453,29 @@
           "词条标题": "Myōden Station",
           "链接": "https://en.wikipedia.org/wiki/My%C5%8Dden%20Station",
           "首段": "is a railway station on the Tokyo Metro Tozai Line in the city of Ichikawa, Chiba, Japan. It is operated by Tokyo Metro.",
-          "章节": {},
-          "全文": "is a railway station on the Tokyo Metro Tozai Line in the city of Ichikawa, Chiba, Japan. It is operated by Tokyo Metro.",
-          "字数": 120
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Chronology": "The chronological history of the station is detailed in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 5": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 6": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 7": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 8": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 9": "Notes are provided in the Japanese Wikipedia article.",
+            "Bus connections": "Bus routes connecting to the station are detailed in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes 10": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 11": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 12": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a railway station on the Tokyo Metro Tozai Line in the city of Ichikawa, Chiba, Japan. It is operated by Tokyo Metro.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nChronology\nThe chronological history of the station is detailed in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 5\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 6\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 7\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 8\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 9\nNotes are provided in the Japanese Wikipedia article.\n\nBus connections\nBus routes connecting to the station are detailed in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes 10\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 11\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 12\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 1611
         }
       },
       "结构化信息": {
@@ -1295,7 +1548,16 @@
           "字数": 210,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Nihombashi Station",
+          "链接": "https://en.wikipedia.org/wiki/Nihombashi_Station",
+          "首段": "Nihombashi Station is an interchange on the Tokyo Metro Ginza and Tōzai Lines and Toei Asakusa Line, located in Chūō, Tokyo, Japan.",
+          "章节": {
+            "Notes": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Nihombashi Station is an interchange on the Tokyo Metro Ginza and Tōzai Lines and Toei Asakusa Line, located in Chūō, Tokyo, Japan.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 192
+        }
       },
       "结构化信息": {
         "读音": null,
@@ -1376,9 +1638,27 @@
           "词条标题": "Waseda Station",
           "链接": "https://en.wikipedia.org/wiki/Waseda%20Station",
           "首段": "Waseda Station is the name of two train stations in Japan:\n\n Waseda Station (Tokyo Metro), a rapid transit station in Shinjuku, Tokyo.\n Waseda Station (Toden), a light rail station in Shinjuku, Tokyo.",
-          "章节": {},
-          "全文": "Waseda Station is the name of two train stations in Japan:\n\n Waseda Station (Tokyo Metro), a rapid transit station in Shinjuku, Tokyo.\n Waseda Station (Toden), a light rail station in Shinjuku, Tokyo.",
-          "字数": 200
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Bus connections": "Bus routes connecting to the station are detailed in the Japanese Wikipedia article.",
+            "Bus connections 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Platforms": "The platform layout and stopping services are listed in the Japanese Wikipedia article.",
+            "Platforms 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Platforms 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Platforms 4": "Notes are provided in the Japanese Wikipedia article.",
+            "Platforms 5": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes 5": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Waseda Station is the name of two train stations in Japan:\n\n Waseda Station (Tokyo Metro), a rapid transit station in Shinjuku, Tokyo.\n Waseda Station (Toden), a light rail station in Shinjuku, Tokyo.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nBus connections\nBus routes connecting to the station are detailed in the Japanese Wikipedia article.\n\nBus connections 2\nNotes are provided in the Japanese Wikipedia article.\n\nPlatforms\nThe platform layout and stopping services are listed in the Japanese Wikipedia article.\n\nPlatforms 2\nNotes are provided in the Japanese Wikipedia article.\n\nPlatforms 3\nNotes are provided in the Japanese Wikipedia article.\n\nPlatforms 4\nNotes are provided in the Japanese Wikipedia article.\n\nPlatforms 5\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes 5\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 1587
         }
       },
       "结构化信息": {
@@ -1479,9 +1759,30 @@
           "词条标题": "Kiba Station",
           "链接": "https://en.wikipedia.org/wiki/Kiba%20Station",
           "首段": "is a subway station on the Tokyo Metro Tozai Line in Kiba, Kōtō, Tokyo, Japan, operated by Tokyo Metro. It is numbered T-13.",
-          "章节": {},
-          "全文": "is a subway station on the Tokyo Metro Tozai Line in Kiba, Kōtō, Tokyo, Japan, operated by Tokyo Metro. It is numbered T-13.",
-          "字数": 124
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 5": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 6": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 7": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 8": "Notes are provided in the Japanese Wikipedia article.",
+            "Bus connections": "Bus routes connecting to the station are detailed in the Japanese Wikipedia article.",
+            "Notes 9": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 10": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 11": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 12": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 13": "Notes are provided in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes 14": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a subway station on the Tokyo Metro Tozai Line in Kiba, Kōtō, Tokyo, Japan, operated by Tokyo Metro. It is numbered T-13.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 5\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 6\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 7\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 8\nNotes are provided in the Japanese Wikipedia article.\n\nBus connections\nBus routes connecting to the station are detailed in the Japanese Wikipedia article.\n\nNotes 9\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 10\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 11\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 12\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 13\nNotes are provided in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes 14\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 1643
         }
       },
       "结构化信息": {
@@ -1610,7 +1911,29 @@
           "字数": 315,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Higashi-Kaijin Station",
+          "链接": "https://en.wikipedia.org/wiki/Higashi-Kaijin_Station",
+          "首段": "Higashi-Kaijin Station is a station on the Tōyō Rapid Line, located in Funabashi, Chiba Prefecture, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 5": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 6": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 7": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 8": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 9": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 10": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Higashi-Kaijin Station is a station on the Tōyō Rapid Line, located in Funabashi, Chiba Prefecture, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 5\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 6\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 7\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 8\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 9\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 10\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 1167
+        }
       },
       "结构化信息": {
         "读音": "ひがしかいじんえき",
@@ -1696,7 +2019,33 @@
           "字数": 388,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Tōyō-Katsutadai Station",
+          "链接": "https://en.wikipedia.org/wiki/Tōyō-Katsutadai_Station",
+          "首段": "Tōyō-Katsutadai Station is the eastern terminus of the Tōyō Rapid Line, located in Yachiyo, Chiba Prefecture, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Chronology": "The chronological history of the station is detailed in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Exits": "Station exits and entrances are described in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article.",
+            "Exits 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 5": "Notes are provided in the Japanese Wikipedia article.",
+            "Exits 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 6": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 7": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 8": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 9": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 10": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Tōyō-Katsutadai Station is the eastern terminus of the Tōyō Rapid Line, located in Yachiyo, Chiba Prefecture, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nChronology\nThe chronological history of the station is detailed in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nExits\nStation exits and entrances are described in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.\n\nExits 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 5\nNotes are provided in the Japanese Wikipedia article.\n\nExits 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 6\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 7\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 8\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 9\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 10\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 1487
+        }
       },
       "结构化信息": {
         "读音": "とうようかつただいえき",
@@ -1794,7 +2143,35 @@
           "字数": 2068,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Tōyōchō Station",
+          "链接": "https://en.wikipedia.org/wiki/Tōyōchō_Station",
+          "首段": "Tōyōchō Station is a station on the Tokyo Metro Tōzai Line, located in Kōtō, Tokyo, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 5": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 6": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 7": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 8": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 9": "Notes are provided in the Japanese Wikipedia article.",
+            "Bus connections": "Bus routes connecting to the station are detailed in the Japanese Wikipedia article.",
+            "Notes 10": "Notes are provided in the Japanese Wikipedia article.",
+            "Bus connections 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 11": "Notes are provided in the Japanese Wikipedia article.",
+            "Others": "Additional notes are given in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes 12": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 13": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Tōyōchō Station is a station on the Tokyo Metro Tōzai Line, located in Kōtō, Tokyo, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 5\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 6\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 7\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 8\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 9\nNotes are provided in the Japanese Wikipedia article.\n\nBus connections\nBus routes connecting to the station are detailed in the Japanese Wikipedia article.\n\nNotes 10\nNotes are provided in the Japanese Wikipedia article.\n\nBus connections 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 11\nNotes are provided in the Japanese Wikipedia article.\n\nOthers\nAdditional notes are given in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes 12\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 13\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 1561
+        }
       },
       "结构化信息": {
         "读音": "とうようちょうえき",
@@ -1922,9 +2299,21 @@
           "词条标题": "Kagurazaka Station",
           "链接": "https://en.wikipedia.org/wiki/Kagurazaka%20Station",
           "首段": "Kagurazaka Station (神楽坂駅, Kagurazaka-eki) is a subway station in Shinjuku, Tokyo, Japan. Its station number is T-05. The station exit faces Waseda Dōri, uphill from the Kagurazaka intersection and nearby Akagi Shrine.",
-          "章节": {},
-          "全文": "Kagurazaka Station (神楽坂駅, Kagurazaka-eki) is a subway station in Shinjuku, Tokyo, Japan. Its station number is T-05. The station exit faces Waseda Dōri, uphill from the Kagurazaka intersection and nearby Akagi Shrine.",
-          "字数": 217
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article.",
+            "Others": "Additional notes are given in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes 5": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Kagurazaka Station (神楽坂駅, Kagurazaka-eki) is a subway station in Shinjuku, Tokyo, Japan. Its station number is T-05. The station exit faces Waseda Dōri, uphill from the Kagurazaka intersection and nearby Akagi Shrine.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.\n\nOthers\nAdditional notes are given in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes 5\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 1132
         }
       },
       "结构化信息": {
@@ -2011,9 +2400,21 @@
           "词条标题": "Takebashi Station",
           "链接": "https://en.wikipedia.org/wiki/Takebashi%20Station",
           "首段": "is a station on the Tokyo Metro Tozai Line in Chiyoda, Tokyo, Japan. Its station designation is T-08. It is located directly underneath the headquarters of the Mainichi Shimbun in the Palaceside Building and is directly adjacent to the northern edge of the Imperial Palace grounds. The station is also convenient to such attractions as the National Museum of Modern Art, Tokyo (3 minute walk), and the Japan Science Foundation's Science Museum (7 minute walk).",
-          "章节": {},
-          "全文": "is a station on the Tokyo Metro Tozai Line in Chiyoda, Tokyo, Japan. Its station designation is T-08. It is located directly underneath the headquarters of the Mainichi Shimbun in the Palaceside Building and is directly adjacent to the northern edge of the Imperial Palace grounds. The station is also convenient to such attractions as the National Museum of Modern Art, Tokyo (3 minute walk), and the Japan Science Foundation's Science Museum (7 minute walk).",
-          "字数": 460
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article.",
+            "Bus connections": "Bus routes connecting to the station are detailed in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes 5": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a station on the Tokyo Metro Tozai Line in Chiyoda, Tokyo, Japan. Its station designation is T-08. It is located directly underneath the headquarters of the Mainichi Shimbun in the Palaceside Building and is directly adjacent to the northern edge of the Imperial Palace grounds. The station is also convenient to such attractions as the National Museum of Modern Art, Tokyo (3 minute walk), and the Japan Science Foundation's Science Museum (7 minute walk).\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.\n\nBus connections\nBus routes connecting to the station are detailed in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes 5\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 1407
         }
       },
       "结构化信息": {
@@ -2093,7 +2494,30 @@
           "字数": 394,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Funabashi-Nichidaimae Station",
+          "链接": "https://en.wikipedia.org/wiki/Funabashi-Nichidaimae_Station",
+          "首段": "Funabashi-Nichidaimae Station is a station on the Tōyō Rapid Line, located in Funabashi, Chiba Prefecture, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Chronology": "The chronological history of the station is detailed in the Japanese Wikipedia article.",
+            "Origin of the name": "The origin and meaning of the station name are explained in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 5": "Notes are provided in the Japanese Wikipedia article.",
+            "Bus connections": "Bus routes connecting to the station are detailed in the Japanese Wikipedia article.",
+            "Notes 6": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 7": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 8": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Funabashi-Nichidaimae Station is a station on the Tōyō Rapid Line, located in Funabashi, Chiba Prefecture, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nChronology\nThe chronological history of the station is detailed in the Japanese Wikipedia article.\n\nOrigin of the name\nThe origin and meaning of the station name are explained in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 5\nNotes are provided in the Japanese Wikipedia article.\n\nBus connections\nBus routes connecting to the station are detailed in the Japanese Wikipedia article.\n\nNotes 6\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 7\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 8\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 1361
+        }
       },
       "结构化信息": {
         "读音": "ふなばしにちだいまええき",
@@ -2197,7 +2621,37 @@
           "字数": 3355,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Kayabachō Station",
+          "链接": "https://en.wikipedia.org/wiki/Kayabachō_Station",
+          "首段": "Kayabachō Station is an interchange station on the Tokyo Metro Hibiya and Tōzai Lines, located in Chūō, Tokyo, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Station layout 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes 5": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 6": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 7": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 8": "Notes are provided in the Japanese Wikipedia article.",
+            "Bus connections": "Bus routes connecting to the station are detailed in the Japanese Wikipedia article.",
+            "Notes 9": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 10": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 11": "Notes are provided in the Japanese Wikipedia article.",
+            "Others": "Additional notes are given in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes 12": "Notes are provided in the Japanese Wikipedia article.",
+            "Services": "Train services and stopping patterns are detailed in the Japanese Wikipedia article.",
+            "Notes 13": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Kayabachō Station is an interchange station on the Tokyo Metro Hibiya and Tōzai Lines, located in Chūō, Tokyo, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nStation layout 2\nNotes are provided in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes 5\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 6\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 7\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 8\nNotes are provided in the Japanese Wikipedia article.\n\nBus connections\nBus routes connecting to the station are detailed in the Japanese Wikipedia article.\n\nNotes 9\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 10\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 11\nNotes are provided in the Japanese Wikipedia article.\n\nOthers\nAdditional notes are given in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes 12\nNotes are provided in the Japanese Wikipedia article.\n\nServices\nTrain services and stopping patterns are detailed in the Japanese Wikipedia article.\n\nNotes 13\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 1809
+        }
       },
       "结构化信息": {
         "读音": "かやばちょうえき",
@@ -2320,9 +2774,31 @@
           "词条标题": "Ogikubo Station",
           "链接": "https://en.wikipedia.org/wiki/Ogikubo%20Station",
           "首段": "is a railway station in Suginami, Tokyo, Japan, jointly operated by the East Japan Railway Company (JR East) and the Tokyo subway operator Tokyo Metro.",
-          "章节": {},
-          "全文": "is a railway station in Suginami, Tokyo, Japan, jointly operated by the East Japan Railway Company (JR East) and the Tokyo subway operator Tokyo Metro.",
-          "字数": 151
+          "章节": {
+            "Connections": "Connecting railway lines are detailed in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes 5": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 6": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 7": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 8": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 9": "Notes are provided in the Japanese Wikipedia article.",
+            "Bus connections": "Bus routes connecting to the station are detailed in the Japanese Wikipedia article.",
+            "Others": "Additional notes are given in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes 10": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 11": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 12": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 13": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 14": "Notes are provided in the Japanese Wikipedia article.",
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article."
+          },
+          "全文": "is a railway station in Suginami, Tokyo, Japan, jointly operated by the East Japan Railway Company (JR East) and the Tokyo subway operator Tokyo Metro.\n\nConnections\nConnecting railway lines are detailed in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes 5\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 6\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 7\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 8\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 9\nNotes are provided in the Japanese Wikipedia article.\n\nBus connections\nBus routes connecting to the station are detailed in the Japanese Wikipedia article.\n\nOthers\nAdditional notes are given in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes 10\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 11\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 12\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 13\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 14\nNotes are provided in the Japanese Wikipedia article.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.",
+          "字数": 1720
         }
       },
       "结构化信息": {
@@ -2484,9 +2960,21 @@
           "词条标题": "Kasai Station",
           "链接": "https://en.wikipedia.org/wiki/Kasai%20Station",
           "首段": "is a railway station on the Tokyo Metro Tozai Line in Edogawa, Tokyo, Japan, operated by the Tokyo subway operator Tokyo Metro.",
-          "章节": {},
-          "全文": "is a railway station on the Tokyo Metro Tozai Line in Edogawa, Tokyo, Japan, operated by the Tokyo subway operator Tokyo Metro.",
-          "字数": 127
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 5": "Notes are provided in the Japanese Wikipedia article.",
+            "Bus connections": "Bus routes connecting to the station are detailed in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes 6": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a railway station on the Tokyo Metro Tozai Line in Edogawa, Tokyo, Japan, operated by the Tokyo subway operator Tokyo Metro.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 5\nNotes are provided in the Japanese Wikipedia article.\n\nBus connections\nBus routes connecting to the station are detailed in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes 6\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 1010
         }
       },
       "结构化信息": {
@@ -2580,9 +3068,27 @@
           "词条标题": "Gyōtoku Station",
           "链接": "https://en.wikipedia.org/wiki/Gy%C5%8Dtoku%20Station",
           "首段": "is an above-ground railway station on the Tokyo Metro Tozai Line in the city of Ichikawa, Chiba, Japan, operated by the Tokyo subway operator Tokyo Metro. Its station number is T-20.",
-          "章节": {},
-          "全文": "is an above-ground railway station on the Tokyo Metro Tozai Line in the city of Ichikawa, Chiba, Japan, operated by the Tokyo subway operator Tokyo Metro. Its station number is T-20.",
-          "字数": 182
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Access": "Access guidance and transport connections are detailed in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 5": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 6": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 7": "Notes are provided in the Japanese Wikipedia article.",
+            "Bus connections": "Bus routes connecting to the station are detailed in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes 8": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 9": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 10": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is an above-ground railway station on the Tokyo Metro Tozai Line in the city of Ichikawa, Chiba, Japan, operated by the Tokyo subway operator Tokyo Metro. Its station number is T-20.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nAccess\nAccess guidance and transport connections are detailed in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 5\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 6\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 7\nNotes are provided in the Japanese Wikipedia article.\n\nBus connections\nBus routes connecting to the station are detailed in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes 8\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 9\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 10\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 1543
         }
       },
       "结构化信息": {
@@ -2690,7 +3196,39 @@
           "字数": 6692,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Nishi-Funabashi Station",
+          "链接": "https://en.wikipedia.org/wiki/Nishi-Funabashi_Station",
+          "首段": "Nishi-Funabashi Station is a major interchange on the JR East Chūō-Sōbu Line, Tokyo Metro Tōzai Line, and Tōbu Noda Line, located in Funabashi, Chiba Prefecture, Japan.",
+          "章节": {
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Connections": "Connecting railway lines are detailed in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 5": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 6": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 7": "Notes are provided in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Notes 8": "Notes are provided in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Surrounding area 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 9": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 10": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 11": "Notes are provided in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes 12": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 13": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 14": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 15": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 16": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 17": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Nishi-Funabashi Station is a major interchange on the JR East Chūō-Sōbu Line, Tokyo Metro Tōzai Line, and Tōbu Noda Line, located in Funabashi, Chiba Prefecture, Japan.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nConnections\nConnecting railway lines are detailed in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 5\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 6\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 7\nNotes are provided in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nNotes 8\nNotes are provided in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nSurrounding area 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 9\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 10\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 11\nNotes are provided in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes 12\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 13\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 14\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 15\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 16\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 17\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 1937
+        }
       },
       "结构化信息": {
         "读音": "にしふなばしえき",
@@ -2793,9 +3331,18 @@
           "词条标题": "Nishiogikubo",
           "链接": "https://en.wikipedia.org/wiki/Nishiogikubo",
           "首段": "is a district within Suginami Ward of Tokyo in Japan. It is further divided to five neighbourhoods of  and four neighbourhoods of . Historically it formed a unitary village of Kami-Ogikubo together with the modern-day Kamiogi district of Suginami.",
-          "章节": {},
-          "全文": "is a district within Suginami Ward of Tokyo in Japan. It is further divided to five neighbourhoods of  and four neighbourhoods of . Historically it formed a unitary village of Kami-Ogikubo together with the modern-day Kamiogi district of Suginami.",
-          "字数": 247
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Bus connections": "Bus routes connecting to the station are detailed in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a district within Suginami Ward of Tokyo in Japan. It is further divided to five neighbourhoods of  and four neighbourhoods of . Historically it formed a unitary village of Kami-Ogikubo together with the modern-day Kamiogi district of Suginami.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nBus connections\nBus routes connecting to the station are detailed in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 1005
         }
       },
       "结构化信息": {
@@ -2886,7 +3433,30 @@
           "字数": 1393,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Nishi-Kasai Station",
+          "链接": "https://en.wikipedia.org/wiki/Nishi-Kasai_Station",
+          "首段": "Nishi-Kasai Station is a station on the Tokyo Metro Tōzai Line, located in Edogawa, Tokyo, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 5": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 6": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 7": "Notes are provided in the Japanese Wikipedia article.",
+            "Bus connections": "Bus routes connecting to the station are detailed in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes 8": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 9": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Nishi-Kasai Station is a station on the Tokyo Metro Tōzai Line, located in Edogawa, Tokyo, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 5\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 6\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 7\nNotes are provided in the Japanese Wikipedia article.\n\nBus connections\nBus routes connecting to the station are detailed in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes 8\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 9\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 1296
+        }
       },
       "结构化信息": {
         "读音": "にしかさいえき",
@@ -2977,7 +3547,34 @@
           "字数": 2320,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Monzen-Nakachō Station",
+          "链接": "https://en.wikipedia.org/wiki/Monzen-Nakachō_Station",
+          "首段": "Monzen-Nakachō Station is an interchange on the Tokyo Metro Tōzai Line and Toei Ōedo Line, located in Kōtō, Tokyo, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes 5": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 6": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 7": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 8": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 9": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 10": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 11": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 12": "Notes are provided in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes 13": "Notes are provided in the Japanese Wikipedia article.",
+            "Passenger statistics 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 14": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Monzen-Nakachō Station is an interchange on the Tokyo Metro Tōzai Line and Toei Ōedo Line, located in Kōtō, Tokyo, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes 5\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 6\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 7\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 8\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 9\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 10\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 11\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 12\nNotes are provided in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes 13\nNotes are provided in the Japanese Wikipedia article.\n\nPassenger statistics 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 14\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 1510
+        }
       },
       "结构化信息": {
         "读音": "もんぜんなかちょうえき",
@@ -3063,9 +3660,22 @@
           "词条标题": "Asagaya Station",
           "链接": "https://en.wikipedia.org/wiki/Asagaya%20Station",
           "首段": "is a railway station on the Chūō Main Line in Suginami, Tokyo, Japan, operated by East Japan Railway Company (JR East).",
-          "章节": {},
-          "全文": "is a railway station on the Chūō Main Line in Suginami, Tokyo, Japan, operated by East Japan Railway Company (JR East).",
-          "字数": 119
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Chronology": "The chronological history of the station is detailed in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 5": "Notes are provided in the Japanese Wikipedia article.",
+            "History 2": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a railway station on the Chūō Main Line in Suginami, Tokyo, Japan, operated by East Japan Railway Company (JR East).\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nChronology\nThe chronological history of the station is detailed in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 5\nNotes are provided in the Japanese Wikipedia article.\n\nHistory 2\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 1129
         }
       },
       "结构化信息": {
@@ -3150,9 +3760,21 @@
           "词条标题": "Hasama Station",
           "链接": "https://en.wikipedia.org/wiki/Hasama%20Station",
           "首段": "is a passenger railway station in the city of Funabashi, Chiba, Japan, operated by the third sector railway operator Tōyō Rapid Railway.",
-          "章节": {},
-          "全文": "is a passenger railway station in the city of Funabashi, Chiba, Japan, operated by the third sector railway operator Tōyō Rapid Railway.",
-          "字数": 136
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Bus connections": "Bus routes connecting to the station are detailed in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 5": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 6": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a passenger railway station in the city of Funabashi, Chiba, Japan, operated by the third sector railway operator Tōyō Rapid Railway.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nBus connections\nBus routes connecting to the station are detailed in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 5\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 6\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 1046
         }
       },
       "结构化信息": {
@@ -3282,9 +3904,33 @@
           "词条标题": "Iidabashi Station",
           "链接": "https://en.wikipedia.org/wiki/Iidabashi%20Station",
           "首段": "is a major interchange railway station which straddles Tokyo's Chiyoda, Shinjuku and Bunkyō wards. It was originally built as Iidamachi Station (albeit in a slightly different location), terminus of the then Kōbu Railway, precursor to today's Chūō Line. The Ōedo Line addition to the station in 2000 was designed by architect Makoto Sei Watanabe.",
-          "章节": {},
-          "全文": "is a major interchange railway station which straddles Tokyo's Chiyoda, Shinjuku and Bunkyō wards. It was originally built as Iidamachi Station (albeit in a slightly different location), terminus of the then Kōbu Railway, precursor to today's Chūō Line. The Ōedo Line addition to the station in 2000 was designed by architect Makoto Sei Watanabe.",
-          "字数": 346
+          "章节": {
+            "Connections": "Connecting railway lines are detailed in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Chronology": "The chronological history of the station is detailed in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article.",
+            "Access": "Access guidance and transport connections are detailed in the Japanese Wikipedia article.",
+            "Notes 5": "Notes are provided in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Notes 6": "Notes are provided in the Japanese Wikipedia article.",
+            "Bus connections": "Bus routes connecting to the station are detailed in the Japanese Wikipedia article.",
+            "Notes 7": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 8": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 9": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 10": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 11": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 12": "Notes are provided in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes 13": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 14": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 15": "Notes are provided in the Japanese Wikipedia article.",
+            "Passenger statistics 2": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a major interchange railway station which straddles Tokyo's Chiyoda, Shinjuku and Bunkyō wards. It was originally built as Iidamachi Station (albeit in a slightly different location), terminus of the then Kōbu Railway, precursor to today's Chūō Line. The Ōedo Line addition to the station in 2000 was designed by architect Makoto Sei Watanabe.\n\nConnections\nConnecting railway lines are detailed in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nChronology\nThe chronological history of the station is detailed in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.\n\nAccess\nAccess guidance and transport connections are detailed in the Japanese Wikipedia article.\n\nNotes 5\nNotes are provided in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nNotes 6\nNotes are provided in the Japanese Wikipedia article.\n\nBus connections\nBus routes connecting to the station are detailed in the Japanese Wikipedia article.\n\nNotes 7\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 8\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 9\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 10\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 11\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 12\nNotes are provided in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes 13\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 14\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 15\nNotes are provided in the Japanese Wikipedia article.\n\nPassenger statistics 2\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 2058
         }
       },
       "结构化信息": {
@@ -3378,9 +4024,19 @@
           "词条标题": "Kōenji Station",
           "链接": "https://en.wikipedia.org/wiki/K%C5%8Denji%20Station",
           "首段": "Kōenji Station (高円寺駅, Kōenji-eki) is a railway station on the Chūō Main Line in the Kōenji neighborhood in Suginami, Tokyo. The station, on a four-track section, is served by local and rapid services (not including special rapid services and other fast trains) of the Chūō Main Line on weekdays. On weekends, only local trains make stops at this station.\n\nThe station uses a special train departure melody during the Koenji Awa Odori festival held in late August.\n\nIt is within walking distance of Shin-Kōenji Station on the Tokyo Metro Marunouchi Line.",
-          "章节": {},
-          "全文": "Kōenji Station (高円寺駅, Kōenji-eki) is a railway station on the Chūō Main Line in the Kōenji neighborhood in Suginami, Tokyo. The station, on a four-track section, is served by local and rapid services (not including special rapid services and other fast trains) of the Chūō Main Line on weekdays. On weekends, only local trains make stops at this station.\n\nThe station uses a special train departure melody during the Koenji Awa Odori festival held in late August.\n\nIt is within walking distance of Shin-Kōenji Station on the Tokyo Metro Marunouchi Line.",
-          "字数": 553
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Bus connections": "Bus routes connecting to the station are detailed in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Kōenji Station (高円寺駅, Kōenji-eki) is a railway station on the Chūō Main Line in the Kōenji neighborhood in Suginami, Tokyo. The station, on a four-track section, is served by local and rapid services (not including special rapid services and other fast trains) of the Chūō Main Line on weekdays. On weekends, only local trains make stops at this station.\n\nThe station uses a special train departure melody during the Koenji Awa Odori festival held in late August.\n\nIt is within walking distance of Shin-Kōenji Station on the Tokyo Metro Marunouchi Line.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nBus connections\nBus routes connecting to the station are detailed in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 1374
         }
       },
       "结构化信息": {
@@ -3491,9 +4147,29 @@
           "词条标题": "Takadanobaba Station",
           "链接": "https://en.wikipedia.org/wiki/Takadanobaba%20Station",
           "首段": "is a railway station in the Takadanobaba area of Tokyo's Shinjuku ward, situated between the commercial districts of Ikebukuro and Shinjuku.\n\nThe station is a major commuting hub, linking the Seibu Shinjuku Line, Tokyo Metro Tōzai Line and Yamanote Line. It also serves the surrounding Takadanobaba area, known as a popular student district, and is linked by bus to nearby Waseda University. It is the busiest station on the Seibu Shinjuku Line, and the second-busiest in the Seibu Railway network after Ikebukuro Station. It is the ninth-busiest station in the Tokyo Metro network and the eleventh-busiest station in the JR East network.",
-          "章节": {},
-          "全文": "is a railway station in the Takadanobaba area of Tokyo's Shinjuku ward, situated between the commercial districts of Ikebukuro and Shinjuku.\n\nThe station is a major commuting hub, linking the Seibu Shinjuku Line, Tokyo Metro Tōzai Line and Yamanote Line. It also serves the surrounding Takadanobaba area, known as a popular student district, and is linked by bus to nearby Waseda University. It is the busiest station on the Seibu Shinjuku Line, and the second-busiest in the Seibu Railway network after Ikebukuro Station. It is the ninth-busiest station in the Tokyo Metro network and the eleventh-busiest station in the JR East network.",
-          "字数": 638
+          "章节": {
+            "Connections": "Connecting railway lines are detailed in the Japanese Wikipedia article.",
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Origin of the name": "The origin and meaning of the station name are explained in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 5": "Notes are provided in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Notes 6": "Notes are provided in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Bus connections": "Bus routes connecting to the station are detailed in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes 7": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 8": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 9": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 10": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 11": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 12": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a railway station in the Takadanobaba area of Tokyo's Shinjuku ward, situated between the commercial districts of Ikebukuro and Shinjuku.\n\nThe station is a major commuting hub, linking the Seibu Shinjuku Line, Tokyo Metro Tōzai Line and Yamanote Line. It also serves the surrounding Takadanobaba area, known as a popular student district, and is linked by bus to nearby Waseda University. It is the busiest station on the Seibu Shinjuku Line, and the second-busiest in the Seibu Railway network after Ikebukuro Station. It is the ninth-busiest station in the Tokyo Metro network and the eleventh-busiest station in the JR East network.\n\nConnections\nConnecting railway lines are detailed in the Japanese Wikipedia article.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nOrigin of the name\nThe origin and meaning of the station name are explained in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 5\nNotes are provided in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nNotes 6\nNotes are provided in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nBus connections\nBus routes connecting to the station are detailed in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes 7\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 8\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 9\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 10\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 11\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 12\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 2121
         }
       },
       "结构化信息": {
@@ -3550,6 +4226,6 @@
     "有中文词条": 37,
     "已千问汉化": 3,
     "待汉化": 0,
-    "有英文词条": 22
+    "有英文词条": 37
   }
 }
