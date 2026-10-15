@@ -1,519 +1,519 @@
 {
- "线路": {
-  "名称": {
-   "日文": "公園都市線",
-   "中文": "公园都市线",
-   "词条": "神戸電鉄公園都市線",
-   "英文": "Kōen-Toshi Line"
+  "线路": {
+    "名称": {
+      "日文": "公園都市線",
+      "中文": "公园都市线",
+      "词条": "神戸電鉄公園都市線",
+      "英文": "Kōen-Toshi Line"
+    },
+    "标识": {
+      "序号": 544,
+      "所属铁路ID": "382",
+      "车站数": 6,
+      "数据来源": "station_map(页面权威)"
+    },
+    "百科": {
+      "日文": {
+        "词条标题": "神戸電鉄公園都市線",
+        "链接": "https://ja.wikipedia.org/wiki/%E7%A5%9E%E6%88%B8%E9%9B%BB%E9%89%84%E5%85%AC%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A",
+        "首段": "公園都市線（こうえんとしせん）は、兵庫県三田市の横山駅からウッディタウン中央駅までを結ぶ神戸電鉄の鉄道路線である。\n\n神戸三田国際公園都市のうち三田市側にある北摂三田ニュータウンのフラワータウン・ウッディタウンの中央を貫く鉄道路線。横山駅では新開地側から分岐し三田線三田駅方面と直通できるようになっており、福知山線（JR宝塚線）利用による大阪方面への利用に重点が置かれている。\n\nほとんどの駅および直通先の三田駅では乗降客数が増加傾向にあり、ウッディタウン中央駅においては開業時と比較して利用者数が約2倍にもなっている。\n\nなお、正式な起点は横山駅だが、列車運行および旅客案内ではウッディタウン中央駅から横山駅へ向かう列車が下り、逆方向が上りとなっている。\n\n公園都市からJR宝塚線への連絡輸送では、神姫バスと競合している。\n\n構想時は北摂ニュータウン線（ほくせつニュータウンせん）、建設当初は北摂線（ほくせつせん）と呼称されていた。",
+        "章节": {
+          "路線データ": "路線距離（営業キロ）：5.5 km\n 軌間：1,067 mm\n 駅数：4駅（起終点駅含む）\n 複線区間：なし（全線単線）\n 電化区間：全線電化（直流1500V）\n 閉塞方式：自動閉塞式\n 最高速度：80 km/h\n IC乗車カード対応区間：\n PiTaPaエリア：全線",
+          "運行形態": "すべての列車が普通列車で三田線に乗り入れて三田 - ウッディタウン中央間に運転される。ワンマン運転を行っている。深夜を除き1時間あたり4本が運行されている。三田発の最終列車の発車時刻は0時32分発で、ウッディタウン中央到着は0時44分である。\n\n2021年3月13日改正以前までは、三田発の最終列車の発車時刻は0時53分発と遅く、ウッディタウン中央到着は1時を回っていた。\n\n各駅ともホーム有効長は4両分確保されているが、営業列車は全て3両編成である。4両編成は団体臨時列車で入線する場合がある。\n\n2021年3月13日改正時点では、大半の運行時間において南ウッディタウン駅と横山駅で行き違いを行うパターンダイヤとなっているが、朝夕の一部列車はフラワータウン駅で行き違いを行うダイヤになっている。",
+          "歴史": "1987年（昭和62年）\n 5月28日：鉄道事業免許取得。\n 10月28日：都市高速鉄道として都市計画決定。\n 11月18日：工事施工認可。\n 12月23日：公園都市線建設第一期工事（横山駅 - フラワータウン駅）起工。\n 1988年（昭和63年）\n 1月5日：環境影響評価公告。\n 11月10日：フラワータウン駅ビル起工。\n 1989年（平成元年）\n 7月14日：有井トンネル貫通。\n 1990年（平成2年）5月25日：フラワータウン駅ビル竣工。\n 1991年（平成3年）\n 10月22日：公園都市線建設第一期工事（横山駅 - フラワータウン駅）竣工。\n 10月28日：横山駅 - フラワータウン駅間が開業。フラワータウン駅 - 三田駅間でワンマン直通運転開始。\n 1993年（平成5年）10月29日：公園都市線建設第二期工事（フラワータウン駅 - ウッディタウン中央駅）起工。\n 1995年（平成7年）11月26日：最高速度が80 km/hに引き上げ。\n 1996年（平成8年）\n 3月22日：公園都市線建設第二期工事（フラワータウン駅 - ウッディタウン中央駅）竣工。\n 3月28日：フラワータウン駅 - ウッディタウン中央駅間が開業。",
+          "駅一覧": "駅番号は2014年4月1日に導入。\n 全駅兵庫県三田市内に所在。横山駅分岐付近から2つ目のトンネルまでの間は駅はないが神戸市北区を通る。\n 線内は、各駅に停車する普通のみ運転（表中省略）。\n 線路 … ◇：単線区間（列車交換可能）、∨：ここより下は単線",
+          "利用状況": "公園都市線各駅における各年度の1日平均乗車人員は下表の通り（2001年以前のデータは、端数処理が生じている）。",
+          "将来": "1989年の運輸政策審議会答申第10号「大阪圏における高速鉄道を中心とする交通網の整備に関する基本計画について」ではウッディタウン中央駅からカルチャータウンへの延伸が答申に盛り込まれていた。しかし、その後の2004年の近畿地方交通審議会答申第8号の「京阪神圏において、既存施設の改良に関し検討すべき主な事業」と「京阪神圏において、中長期的に望まれる鉄道ネットワークを構成する新たな路線」に含まれていない。なお、兵庫県はさらに播磨内陸鉄道という名称でさらに粟生までの延伸を構想している。\n\n三田市議会議員には、カルチャータウンからさらにテクノパーク、つつじが丘方面への延伸や、横山駅 - フラワータウン駅間に北摂三田高校前駅（仮称）を設置してはと提案する議員もいる。",
+          "日本の鉄道路線一覧": "こうえんとしせん"
+        },
+        "全文": "公園都市線（こうえんとしせん）は、兵庫県三田市の横山駅からウッディタウン中央駅までを結ぶ神戸電鉄の鉄道路線である。\n\n神戸三田国際公園都市のうち三田市側にある北摂三田ニュータウンのフラワータウン・ウッディタウンの中央を貫く鉄道路線。横山駅では新開地側から分岐し三田線三田駅方面と直通できるようになっており、福知山線（JR宝塚線）利用による大阪方面への利用に重点が置かれている。\n\nほとんどの駅および直通先の三田駅では乗降客数が増加傾向にあり、ウッディタウン中央駅においては開業時と比較して利用者数が約2倍にもなっている。\n\nなお、正式な起点は横山駅だが、列車運行および旅客案内ではウッディタウン中央駅から横山駅へ向かう列車が下り、逆方向が上りとなっている。\n\n公園都市からJR宝塚線への連絡輸送では、神姫バスと競合している。\n\n構想時は北摂ニュータウン線（ほくせつニュータウンせん）、建設当初は北摂線（ほくせつせん）と呼称されていた。\n\n路線データ \n 路線距離（営業キロ）：5.5 km\n 軌間：1,067 mm\n 駅数：4駅（起終点駅含む）\n 複線区間：なし（全線単線）\n 電化区間：全線電化（直流1500V）\n 閉塞方式：自動閉塞式\n 最高速度：80 km/h\n IC乗車カード対応区間：\n PiTaPaエリア：全線\n\n運行形態 \nすべての列車が普通列車で三田線に乗り入れて三田 - ウッディタウン中央間に運転される。ワンマン運転を行っている。深夜を除き1時間あたり4本が運行されている。三田発の最終列車の発車時刻は0時32分発で、ウッディタウン中央到着は0時44分である。\n\n2021年3月13日改正以前までは、三田発の最終列車の発車時刻は0時53分発と遅く、ウッディタウン中央到着は1時を回っていた。\n\n各駅ともホーム有効長は4両分確保されているが、営業列車は全て3両編成である。4両編成は団体臨時列車で入線する場合がある。\n\n2021年3月13日改正時点では、大半の運行時間において南ウッディタウン駅と横山駅で行き違いを行うパターンダイヤとなっているが、朝夕の一部列車はフラワータウン駅で行き違いを行うダイヤになっている。\n\n歴史 \n 1987年（昭和62年）\n 5月28日：鉄道事業免許取得。\n 10月28日：都市高速鉄道として都市計画決定。\n 11月18日：工事施工認可。\n 12月23日：公園都市線建設第一期工事（横山駅 - フラワータウン駅）起工。\n 1988年（昭和63年）\n 1月5日：環境影響評価公告。\n 11月10日：フラワータウン駅ビル起工。\n 1989年（平成元年）\n 7月14日：有井トンネル貫通。\n 1990年（平成2年）5月25日：フラワータウン駅ビル竣工。\n 1991年（平成3年）\n 10月22日：公園都市線建設第一期工事（横山駅 - フラワータウン駅）竣工。\n 10月28日：横山駅 - フラワータウン駅間が開業。フラワータウン駅 - 三田駅間でワンマン直通運転開始。\n 1993年（平成5年）10月29日：公園都市線建設第二期工事（フラワータウン駅 - ウッディタウン中央駅）起工。\n 1995年（平成7年）11月26日：最高速度が80 km/hに引き上げ。\n 1996年（平成8年）\n 3月22日：公園都市線建設第二期工事（フラワータウン駅 - ウッディタウン中央駅）竣工。\n 3月28日：フラワータウン駅 - ウッディタウン中央駅間が開業。\n\n駅一覧 \n 駅番号は2014年4月1日に導入。\n 全駅兵庫県三田市内に所在。横山駅分岐付近から2つ目のトンネルまでの間は駅はないが神戸市北区を通る。\n 線内は、各駅に停車する普通のみ運転（表中省略）。\n 線路 … ◇：単線区間（列車交換可能）、∨：ここより下は単線\n\n利用状況 \n公園都市線各駅における各年度の1日平均乗車人員は下表の通り（2001年以前のデータは、端数処理が生じている）。\n\n将来 \n1989年の運輸政策審議会答申第10号「大阪圏における高速鉄道を中心とする交通網の整備に関する基本計画について」ではウッディタウン中央駅からカルチャータウンへの延伸が答申に盛り込まれていた。しかし、その後の2004年の近畿地方交通審議会答申第8号の「京阪神圏において、既存施設の改良に関し検討すべき主な事業」と「京阪神圏において、中長期的に望まれる鉄道ネットワークを構成する新たな路線」に含まれていない。なお、兵庫県はさらに播磨内陸鉄道という名称でさらに粟生までの延伸を構想している。\n\n三田市議会議員には、カルチャータウンからさらにテクノパーク、つつじが丘方面への延伸や、横山駅 - フラワータウン駅間に北摂三田高校前駅（仮称）を設置してはと提案する議員もいる。\n\n脚注\n\n注釈\n\n出典\n\n利用状況\n\n三田市統計書\n\n参考文献\n\n関連項目 \n 日本の鉄道路線一覧\n\nこうえんとしせん\n路こうえんとしせん\n兵庫県の交通",
+        "字数": 2057
+      },
+      "中文": {
+        "词条标题": "公园都市线",
+        "链接": "https://zh.wikipedia.org/wiki/%E5%85%AC%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A",
+        "首段": "公园都市线（）是一条连结日本兵库县三田市横山站至同市木城中央站，属于神户电铁的铁路线。",
+        "章节": {
+          "路线资料": "路线距离（）：5.5公里\n 轨距：1067毫米\n 站数：4个（包括起终点站）\n 复线路段：没有（全线单线）\n 电气化路段：全线电气化（直流1500V）\n 闭塞方式：自动闭塞式\n 最高速度：80公里/小时",
+          "车站列表": "车站编号自2014年4月1日起引入。\n 所有车站都位于兵库县三田市。横山站分岔附近起至2条隧道之间没有车站部分通过神户市北区。\n 线内各站停车只限普通运行（表中省略）。\n 轨道 … ◇：单线路段（可进行列车交会），∨：此起往下为单线"
+        },
+        "全文": "公园都市线（）是一条连结日本兵库县三田市横山站至同市木城中央站，属于神户电铁的铁路线。\n\n路线资料 \n 路线距离（）：5.5公里\n 轨距：1067毫米\n 站数：4个（包括起终点站）\n 复线路段：没有（全线单线）\n 电气化路段：全线电气化（直流1500V）\n 闭塞方式：自动闭塞式\n 最高速度：80公里/小时\n\n车站列表 \n 车站编号自2014年4月1日起引入。\n 所有车站都位于兵库县三田市。横山站分岔附近起至2条隧道之间没有车站部分通过神户市北区。\n 线内各站停车只限普通运行（表中省略）。\n 轨道 … ◇：单线路段（可进行列车交会），∨：此起往下为单线\n\n参考资料\n\n外部连结 \n\n1991年日本建立\n1991年启用的铁路线\n近畿地方铁路路线\n兵库县铁路\n三田市交通\n神户电铁路线",
+        "字数": 342,
+        "来源": "维基百科中文版（已转简体）"
+      },
+      "英文": {
+        "来源": "LLM全文翻译（据日文维基全文）",
+        "词条标题": "Kobe Electric Railway Kōen-Toshi Line",
+        "首段": "The Kōen-Toshi Line (こうえんとしせん) is a railway line of the Kobe Electric Railway connecting Yokoyama Station in Sanda, Hyogo Prefecture, with Woody Town Chūō Station.\n\nIt is a railway line running through the center of Flower Town and Woody Town in the Hokusetsu Sanda New Town, on the Sanda side of the Kobe Sanda International Park City. At Yokoyama Station it branches from the Shin-Kaiji side and can run directly to Sanda Station on the Sanda Line, with emphasis placed on use toward Osaka via the Fukuchiyama Line (JR Takarazuka Line).\n\nAt most stations and at the through-connected Sanda Station, the number of boarding and alighting passengers is on an increasing trend, and at Woody Town Chūō Station the number of users has roughly doubled compared with the time of opening.\n\nIn addition, although the official starting point is Yokoyama Station, in train operation and passenger information, trains from Woody Town Chūō Station toward Yokoyama Station are \"down\", and the opposite direction is \"up\".\n\nFor connecting transport from Kōen-Toshi to the JR Takarazuka Line, it competes with Shinki Bus.\n\nAt the concept stage it was called the Hokusetsu New Town Line (ほくせつニュータウンせん), and at the start of construction, the Hokusetsu Line (ほくせつせん).",
+        "章节": {
+          "Route data": "Route distance (operating km): 5.5 km\nTrack gauge: 1,067 mm\nNumber of stations: 4 (including the termini)\nDouble-track sections: none (single track throughout)\nElectrified sections: entire line electrified (1,500 V DC)\nBlock system: automatic block\nMaximum speed: 80 km/h\nIC card compatible section:\nPiTaPa area: entire line",
+          "Operations": "All trains are local trains that enter the Sanda Line and operate between Sanda and Woody Town Chūō. One-man operation is carried out. Four trains per hour are operated except late at night. The last train from Sanda departs at 0:32 and arrives at Woody Town Chūō at 0:44.\n\nBefore the March 13, 2021 revision, the last train from Sanda departed later, at 0:53, arriving at Woody Town Chūō after 1:00.\n\nThe effective platform length at all stations is secured for 4 cars, but all service trains are 3-car formations. Four-car formations may enter on charter extra trains.\n\nAs of the March 13, 2021 revision, a pattern timetable is in effect with trains crossing at Minami-Woody Town Station and Yokoyama Station during most operating hours, with some morning and evening trains running to a timetable with crossing at Flower Town Station.",
+          "History": "1987 (Showa 62):\nMay 28: Railway business license obtained.\nOctober 28: Urban planning decision as an urban rapid railway.\nNovember 18: Construction work authorization.\nDecember 23: Kōen-Toshi Line construction Phase 1 (Yokoyama Station - Flower Town Station) commenced.\n1988 (Showa 63):\nJanuary 5: Environmental impact assessment announcement.\nNovember 10: Flower Town Station building construction commenced.\n1989 (Heisei 1):\nJuly 14: Arii Tunnel breakthrough.\nMay 25, 1990 (Heisei 2): Flower Town Station building completed.\n1991 (Heisei 3):\nOctober 22: Kōen-Toshi Line construction Phase 1 (Yokoyama Station - Flower Town Station) completed.\nOctober 28: The Yokoyama Station - Flower Town Station section opens; one-man through operation with Sanda Station begins between Flower Town and Sanda stations.\nOctober 29, 1993 (Heisei 5): Kōen-Toshi Line construction Phase 2 (Flower Town Station - Woody Town Chūō Station) commenced.\nNovember 26, 1995 (Heisei 7): Maximum speed raised to 80 km/h.\n1996 (Heisei 8):\nMarch 22: Kōen-Toshi Line construction Phase 2 (Flower Town Station - Woody Town Chūō Station) completed.\nMarch 28: The Flower Town Station - Woody Town Chūō Station section opens.",
+          "Station list": "Station numbers were introduced on April 1, 2014.\nAll stations are located within Sanda, Hyogo. Although there are no stations between the vicinity of the Yokoyama branch and the second tunnel, that stretch passes through Kita Ward, Kobe City.\nWithin the line, only local trains stopping at all stations operate (omitted from the table).\nTrack: ◇: single-track section (trains can pass); ∨: single track below this point.",
+          "Usage": "Sanda City Statistics",
+          "Future": "Answer No. 10 of the Transport Policy Council in 1989, \"Basic plan concerning the development of a transport network centered on high-speed railways in the Osaka area\", included an extension from Woody Town Chūō Station to Culture Town. However, it is not included in Answer No. 8 of the Kinki District Transport Council in 2004, among \"main projects that should be studied for improvement of existing facilities in the Keihanshin area\" or \"new lines forming a desirable railway network in the medium to long term in the Keihanshin area\". In addition, Hyogo Prefecture is conceiving a further extension to Ao under the name Hōgo Inland Railway.\n\nSome members of the Sanda City Council have proposed extensions from Culture Town further toward Technopark and Tsutsujigaoka, and the establishment of a Hokusetsu Sanda High School Front Station (tentative name) between Yokoyama Station and Flower Town Station.",
+          "Footnotes": "",
+          "Notes": "",
+          "Sources": "",
+          "References": "",
+          "See also": "List of railway lines in Japan\nKōen-Toshi Line (こうえんとしせん)\nMichi-Kōen-Toshi-sen (路こうえんとしせん)\nTransportation in Hyogo Prefecture"
+        },
+        "全文": "The Kōen-Toshi Line (こうえんとしせん) is a railway line of the Kobe Electric Railway connecting Yokoyama Station in Sanda, Hyogo Prefecture, with Woody Town Chūō Station.\n\nIt is a railway line running through the center of Flower Town and Woody Town in the Hokusetsu Sanda New Town, on the Sanda side of the Kobe Sanda International Park City. At Yokoyama Station it branches from the Shin-Kaiji side and can run directly to Sanda Station on the Sanda Line, with emphasis placed on use toward Osaka via the Fukuchiyama Line (JR Takarazuka Line).\n\nAt most stations and at the through-connected Sanda Station, the number of boarding and alighting passengers is on an increasing trend, and at Woody Town Chūō Station the number of users has roughly doubled compared with the time of opening.\n\nIn addition, although the official starting point is Yokoyama Station, in train operation and passenger information, trains from Woody Town Chūō Station toward Yokoyama Station are \"down\", and the opposite direction is \"up\".\n\nFor connecting transport from Kōen-Toshi to the JR Takarazuka Line, it competes with Shinki Bus.\n\nAt the concept stage it was called the Hokusetsu New Town Line (ほくせつニュータウンせん), and at the start of construction, the Hokusetsu Line (ほくせつせん).\n\nRoute data \nRoute distance (operating km): 5.5 km\nTrack gauge: 1,067 mm\nNumber of stations: 4 (including the termini)\nDouble-track sections: none (single track throughout)\nElectrified sections: entire line electrified (1,500 V DC)\nBlock system: automatic block\nMaximum speed: 80 km/h\nIC card compatible section:\nPiTaPa area: entire line\n\nOperations \nAll trains are local trains that enter the Sanda Line and operate between Sanda and Woody Town Chūō. One-man operation is carried out. Four trains per hour are operated except late at night. The last train from Sanda departs at 0:32 and arrives at Woody Town Chūō at 0:44.\n\nBefore the March 13, 2021 revision, the last train from Sanda departed later, at 0:53, arriving at Woody Town Chūō after 1:00.\n\nThe effective platform length at all stations is secured for 4 cars, but all service trains are 3-car formations. Four-car formations may enter on charter extra trains.\n\nAs of the March 13, 2021 revision, a pattern timetable is in effect with trains crossing at Minami-Woody Town Station and Yokoyama Station during most operating hours, with some morning and evening trains running to a timetable with crossing at Flower Town Station.\n\nHistory \n1987 (Showa 62):\nMay 28: Railway business license obtained.\nOctober 28: Urban planning decision as an urban rapid railway.\nNovember 18: Construction work authorization.\nDecember 23: Kōen-Toshi Line construction Phase 1 (Yokoyama Station - Flower Town Station) commenced.\n1988 (Showa 63):\nJanuary 5: Environmental impact assessment announcement.\nNovember 10: Flower Town Station building construction commenced.\n1989 (Heisei 1):\nJuly 14: Arii Tunnel breakthrough.\nMay 25, 1990 (Heisei 2): Flower Town Station building completed.\n1991 (Heisei 3):\nOctober 22: Kōen-Toshi Line construction Phase 1 (Yokoyama Station - Flower Town Station) completed.\nOctober 28: The Yokoyama Station - Flower Town Station section opens; one-man through operation with Sanda Station begins between Flower Town and Sanda stations.\nOctober 29, 1993 (Heisei 5): Kōen-Toshi Line construction Phase 2 (Flower Town Station - Woody Town Chūō Station) commenced.\nNovember 26, 1995 (Heisei 7): Maximum speed raised to 80 km/h.\n1996 (Heisei 8):\nMarch 22: Kōen-Toshi Line construction Phase 2 (Flower Town Station - Woody Town Chūō Station) completed.\nMarch 28: The Flower Town Station - Woody Town Chūō Station section opens.\n\nStation list \nStation numbers were introduced on April 1, 2014.\nAll stations are located within Sanda, Hyogo. Although there are no stations between the vicinity of the Yokoyama branch and the second tunnel, that stretch passes through Kita Ward, Kobe City.\nWithin the line, only local trains stopping at all stations operate (omitted from the table).\nTrack: ◇: single-track section (trains can pass); ∨: single track below this point.\n\nUsage \nThe average daily number of boarding passengers at each station of the Kōen-Toshi Line for each fiscal year is as follows (for data before 2001, rounding has occurred).\n\nFuture \nAnswer No. 10 of the Transport Policy Council in 1989, \"Basic plan concerning the development of a transport network centered on high-speed railways in the Osaka area\", included an extension from Woody Town Chūō Station to Culture Town. However, it is not included in Answer No. 8 of the Kinki District Transport Council in 2004, among \"main projects that should be studied for improvement of existing facilities in the Keihanshin area\" or \"new lines forming a desirable railway network in the medium to long term in the Keihanshin area\". In addition, Hyogo Prefecture is conceiving a further extension to Ao under the name Hōgo Inland Railway.\n\nSome members of the Sanda City Council have proposed extensions from Culture Town further toward Technopark and Tsutsujigaoka, and the establishment of a Hokusetsu Sanda High School Front Station (tentative name) between Yokoyama Station and Flower Town Station.\n\nFootnotes \n\n\nNotes \n\n\nSources \n\n\nUsage \nSanda City Statistics\n\nReferences \n\n\nSee also \nList of railway lines in Japan\nKōen-Toshi Line (こうえんとしせん)\nMichi-Kōen-Toshi-sen (路こうえんとしせん)\nTransportation in Hyogo Prefecture",
+        "字数": 5387
+      }
+    }
   },
-  "标识": {
-   "序号": 544,
-   "所属铁路ID": "382",
-   "车站数": 6,
-   "数据来源": "station_map(页面权威)"
-  },
-  "百科": {
-   "日文": {
-    "词条标题": "神戸電鉄公園都市線",
-    "链接": "https://ja.wikipedia.org/wiki/%E7%A5%9E%E6%88%B8%E9%9B%BB%E9%89%84%E5%85%AC%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A",
-    "首段": "公園都市線（こうえんとしせん）は、兵庫県三田市の横山駅からウッディタウン中央駅までを結ぶ神戸電鉄の鉄道路線である。\n\n神戸三田国際公園都市のうち三田市側にある北摂三田ニュータウンのフラワータウン・ウッディタウンの中央を貫く鉄道路線。横山駅では新開地側から分岐し三田線三田駅方面と直通できるようになっており、福知山線（JR宝塚線）利用による大阪方面への利用に重点が置かれている。\n\nほとんどの駅および直通先の三田駅では乗降客数が増加傾向にあり、ウッディタウン中央駅においては開業時と比較して利用者数が約2倍にもなっている。\n\nなお、正式な起点は横山駅だが、列車運行および旅客案内ではウッディタウン中央駅から横山駅へ向かう列車が下り、逆方向が上りとなっている。\n\n公園都市からJR宝塚線への連絡輸送では、神姫バスと競合している。\n\n構想時は北摂ニュータウン線（ほくせつニュータウンせん）、建設当初は北摂線（ほくせつせん）と呼称されていた。",
-    "章节": {
-     "路線データ": "路線距離（営業キロ）：5.5 km\n 軌間：1,067 mm\n 駅数：4駅（起終点駅含む）\n 複線区間：なし（全線単線）\n 電化区間：全線電化（直流1500V）\n 閉塞方式：自動閉塞式\n 最高速度：80 km/h\n IC乗車カード対応区間：\n PiTaPaエリア：全線",
-     "運行形態": "すべての列車が普通列車で三田線に乗り入れて三田 - ウッディタウン中央間に運転される。ワンマン運転を行っている。深夜を除き1時間あたり4本が運行されている。三田発の最終列車の発車時刻は0時32分発で、ウッディタウン中央到着は0時44分である。\n\n2021年3月13日改正以前までは、三田発の最終列車の発車時刻は0時53分発と遅く、ウッディタウン中央到着は1時を回っていた。\n\n各駅ともホーム有効長は4両分確保されているが、営業列車は全て3両編成である。4両編成は団体臨時列車で入線する場合がある。\n\n2021年3月13日改正時点では、大半の運行時間において南ウッディタウン駅と横山駅で行き違いを行うパターンダイヤとなっているが、朝夕の一部列車はフラワータウン駅で行き違いを行うダイヤになっている。",
-     "歴史": "1987年（昭和62年）\n 5月28日：鉄道事業免許取得。\n 10月28日：都市高速鉄道として都市計画決定。\n 11月18日：工事施工認可。\n 12月23日：公園都市線建設第一期工事（横山駅 - フラワータウン駅）起工。\n 1988年（昭和63年）\n 1月5日：環境影響評価公告。\n 11月10日：フラワータウン駅ビル起工。\n 1989年（平成元年）\n 7月14日：有井トンネル貫通。\n 1990年（平成2年）5月25日：フラワータウン駅ビル竣工。\n 1991年（平成3年）\n 10月22日：公園都市線建設第一期工事（横山駅 - フラワータウン駅）竣工。\n 10月28日：横山駅 - フラワータウン駅間が開業。フラワータウン駅 - 三田駅間でワンマン直通運転開始。\n 1993年（平成5年）10月29日：公園都市線建設第二期工事（フラワータウン駅 - ウッディタウン中央駅）起工。\n 1995年（平成7年）11月26日：最高速度が80 km/hに引き上げ。\n 1996年（平成8年）\n 3月22日：公園都市線建設第二期工事（フラワータウン駅 - ウッディタウン中央駅）竣工。\n 3月28日：フラワータウン駅 - ウッディタウン中央駅間が開業。",
-     "駅一覧": "駅番号は2014年4月1日に導入。\n 全駅兵庫県三田市内に所在。横山駅分岐付近から2つ目のトンネルまでの間は駅はないが神戸市北区を通る。\n 線内は、各駅に停車する普通のみ運転（表中省略）。\n 線路 … ◇：単線区間（列車交換可能）、∨：ここより下は単線",
-     "利用状況": "公園都市線各駅における各年度の1日平均乗車人員は下表の通り（2001年以前のデータは、端数処理が生じている）。",
-     "将来": "1989年の運輸政策審議会答申第10号「大阪圏における高速鉄道を中心とする交通網の整備に関する基本計画について」ではウッディタウン中央駅からカルチャータウンへの延伸が答申に盛り込まれていた。しかし、その後の2004年の近畿地方交通審議会答申第8号の「京阪神圏において、既存施設の改良に関し検討すべき主な事業」と「京阪神圏において、中長期的に望まれる鉄道ネットワークを構成する新たな路線」に含まれていない。なお、兵庫県はさらに播磨内陸鉄道という名称でさらに粟生までの延伸を構想している。\n\n三田市議会議員には、カルチャータウンからさらにテクノパーク、つつじが丘方面への延伸や、横山駅 - フラワータウン駅間に北摂三田高校前駅（仮称）を設置してはと提案する議員もいる。",
-     "日本の鉄道路線一覧": "こうえんとしせん"
+  "车站": [
+    {
+      "序号": 1,
+      "名称": {
+        "日文原名": "ウッディタウン中央",
+        "词条": "ウッディタウン中央駅",
+        "中文": "ウッディタウン中央站",
+        "英文": "Woody Town Chūō Station"
+      },
+      "百科": {
+        "日文": {
+          "词条标题": "ウッディタウン中央駅",
+          "链接": "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%83%83%E3%83%87%E3%82%A3%E3%82%BF%E3%82%A6%E3%83%B3%E4%B8%AD%E5%A4%AE%E9%A7%85",
+          "首段": "ウッディタウン中央駅（ウッディタウンちゅうおうえき）は、兵庫県三田市ゆりのき台一丁目にある神戸電鉄公園都市線の駅であり、同線の終点。駅番号はKB33。標高200 m。神戸電鉄では最北端の駅である。\n\n\n\n\n\n  - 神戸電鉄",
+          "章节": {
+            "歴史": "1996年（平成8年）3月28日：フラワータウン当駅間延伸と同時に開業。",
+            "駅構造": "島式ホーム1面2線の構造。ホーム有効長は5両だが、通常は3両編成の運用のみである。緊急時の代替や、ウッディタウンサティ開業など多客時に4両編成が入線したこともある。\n\n橋上駅舎で、近畿の駅百選に選出された。遠隔管理による無人駅となっている。\n\n隣接するカルチャータウンへの延伸構想があり、1989年の運輸政策審議会答申第10号では今後整備を検討すべき方向とされていたが、その後の2004年の近畿地方交通審議会答申第8号には盛り込まれていない。\n\nのりば \n\n1番線、2番線共に夜間停泊が設定されている。日中は2番線のみが使用されるが、試運転や検査の兼ね合いでごく稀に1番線を使用することもある。\n\nダイヤ \n毎時4本が発車する。",
+            "利用状況": "1日あたりの乗車人員 1,477人（2021年度）\n\n近年の1日平均乗車人員は下表のとおりである。",
+            "駅周辺": "大規模な住宅地で、商店等もある。神戸三田国際公園都市の一角を担うウッディタウンの中心駅である。",
+            "イオン三田ウッディタウン店": "三田ホテル（旧：神戸三田新阪急ホテル）\n 個別館 ウッディタウン中央校（アップ教育企画）",
+            "三田けやき台郵便局": "センチュリーガーデン フレスポ\n センチュリープラザ前停留所（神戸空港・三宮発着の特急バス等が停車する）",
+            "その他": "公園都市線計画時の駅名は北摂中央北駅であった。\n 第2回近畿の駅百選に選定されている。\n 始発列車が4時52分と早い（※2022年3月改正時点）。",
+            "公園都市線": "南ウッディタウン駅 (KB32) - ウッディタウン中央駅 (KB33)",
+            "三田市の鉄道駅": "つてたうんちゆうおう"
+          },
+          "全文": "ウッディタウン中央駅（ウッディタウンちゅうおうえき）は、兵庫県三田市ゆりのき台一丁目にある神戸電鉄公園都市線の駅であり、同線の終点。駅番号はKB33。標高200 m。神戸電鉄では最北端の駅である。\n\n歴史 \n 1996年（平成8年）3月28日：フラワータウン当駅間延伸と同時に開業。\n\n駅構造  \n島式ホーム1面2線の構造。ホーム有効長は5両だが、通常は3両編成の運用のみである。緊急時の代替や、ウッディタウンサティ開業など多客時に4両編成が入線したこともある。\n\n橋上駅舎で、近畿の駅百選に選出された。遠隔管理による無人駅となっている。\n\n隣接するカルチャータウンへの延伸構想があり、1989年の運輸政策審議会答申第10号では今後整備を検討すべき方向とされていたが、その後の2004年の近畿地方交通審議会答申第8号には盛り込まれていない。\n\nのりば \n\n1番線、2番線共に夜間停泊が設定されている。日中は2番線のみが使用されるが、試運転や検査の兼ね合いでごく稀に1番線を使用することもある。\n\nダイヤ \n毎時4本が発車する。\n\n利用状況 \n1日あたりの乗車人員 1,477人（2021年度）\n\n近年の1日平均乗車人員は下表のとおりである。\n\n駅周辺 \n大規模な住宅地で、商店等もある。神戸三田国際公園都市の一角を担うウッディタウンの中心駅である。\n\n イオン三田ウッディタウン店\n 三田ホテル（旧：神戸三田新阪急ホテル）\n 個別館 ウッディタウン中央校（アップ教育企画）\n 三田けやき台郵便局\n センチュリーガーデン フレスポ\n センチュリープラザ前停留所（神戸空港・三宮発着の特急バス等が停車する）\n 兵庫県道720号テクノパーク三田線\n\nバス路線\n\nその他 \n 公園都市線計画時の駅名は北摂中央北駅であった。\n 第2回近畿の駅百選に選定されている。\n 始発列車が4時52分と早い（※2022年3月改正時点）。\n\n隣の駅 \n 神戸電鉄\n 公園都市線\n 南ウッディタウン駅 (KB32) - ウッディタウン中央駅 (KB33)\n\n脚注\n\n注釈\n\n出典\n\n関連項目 \n\n 日本の鉄道駅一覧\n\n外部リンク \n  - 神戸電鉄\n\n三田市の鉄道駅\nつてたうんちゆうおう\n神戸電鉄の鉄道駅\n1996年開業の鉄道駅",
+          "字数": 952
+        },
+        "中文": {
+          "来源": "LLM全文翻译（据日文维基全文）",
+          "词条标题": "ウッディタウン中央站",
+          "首段": "ウッディタウン中央站（ウッディタウンちゅうおうえき）是位于兵库县三田市百合木台一丁目的神户电铁公园都市线的车站，是同线的终点。车站编号为KB33。标高200米。是神户电铁最北端的车站。\n\n\n\n\n\n  - 神户电铁",
+          "章节": {
+            "历史": "1996年（平成8年）3月28日：随フラワータウン至本站间延伸同时开业。",
+            "车站构造": "岛式站台1面2线的构造。站台有效长度为5辆，但通常仅运用3辆编组。紧急时的替代以及ウッディタウンSathy开业等客流多时，也曾有4辆编组入线。\n\n为桥上站房，被选入近畿车站百选。为远程管理的无人站。\n\n有向相邻的カルチャータウン延伸的构想，1989年运输政策审议会答申第10号将其列为今后应探讨整备的方向，但之后的2004年近畿地方交通审议会答申第8号未将其纳入。\n\n站台\n\n1号线、2号线均设定有夜间停泊。白天仅使用2号线，但因试运转和检查的关系，极少数情况下也会使用1号线。\n\n时刻表\n每小时发车4班。",
+            "利用状况": "1日平均乘车人员 1,477人（2021年度）\n\n近年来的1日平均乘车人员如下表所示。",
+            "车站周边": "为大规摸住宅区，也有商店等。是承担神户三田国际公园都市一角、ウッディタウン的中心车站。",
+            "永旺三田ウッディタウン店": "三田酒店（旧：神户三田新阪急酒店）\n 个别馆 ウッディタウン中央校（Up教育企划）",
+            "三田けやき台邮局": "Century Garden Frespo\n Century Plaza前停留所（神户机场·三宫到发的特急巴士等停靠）",
+            "其他": "公园都市线计划时的站名为北摄中央北站。\n 被选入第2回近畿车站百选。\n 始发列车为4点52分，很早（※2022年3月修订时点）。",
+            "公园都市线": "南ウッディタウン站 (KB32) - ウッディタウン中央站 (KB33)",
+            "三田市的铁路车站": "つてたうんちゆうおう"
+          },
+          "全文": "ウッディタウン中央站（ウッディタウンちゅうおうえき）是位于兵库县三田市百合木台一丁目的神户电铁公园都市线的车站，是同线的终点。车站编号为KB33。标高200米。是神户电铁最北端的车站。\n\n\n\n\n\n  - 神户电铁\n\n历史 \n1996年（平成8年）3月28日：随フラワータウン至本站间延伸同时开业。\n\n车站构造 \n岛式站台1面2线的构造。站台有效长度为5辆，但通常仅运用3辆编组。紧急时的替代以及ウッディタウンSathy开业等客流多时，也曾有4辆编组入线。\n\n为桥上站房，被选入近畿车站百选。为远程管理的无人站。\n\n有向相邻的カルチャータウン延伸的构想，1989年运输政策审议会答申第10号将其列为今后应探讨整备的方向，但之后的2004年近畿地方交通审议会答申第8号未将其纳入。\n\n站台\n\n1号线、2号线均设定有夜间停泊。白天仅使用2号线，但因试运转和检查的关系，极少数情况下也会使用1号线。\n\n时刻表\n每小时发车4班。\n\n利用状况 \n1日平均乘车人员 1,477人（2021年度）\n\n近年来的1日平均乘车人员如下表所示。\n\n车站周边 \n为大规摸住宅区，也有商店等。是承担神户三田国际公园都市一角、ウッディタウン的中心车站。\n\n永旺三田ウッディタウン店 \n三田酒店（旧：神户三田新阪急酒店）\n 个别馆 ウッディタウン中央校（Up教育企划）\n\n三田けやき台邮局 \nCentury Garden Frespo\n Century Plaza前停留所（神户机场·三宫到发的特急巴士等停靠）\n\n其他 \n公园都市线计划时的站名为北摄中央北站。\n 被选入第2回近畿车站百选。\n 始发列车为4点52分，很早（※2022年3月修订时点）。\n\n公园都市线 \n南ウッディタウン站 (KB32) - ウッディタウン中央站 (KB33)\n\n三田市的铁路车站 \nつてたうんちゆうおう",
+          "字数": 776
+        },
+        "英文": {
+          "来源": "LLM全文翻译（据日文维基全文）",
+          "词条标题": "Woody Town Chūō Station",
+          "首段": "Woody Town Chūō Station (ウッディタウン中央駅, Uddi Taun Chūō-eki) is a station on the Kōbe Electric Railway Kōen-Toshi Line in Yurinokidai 1-chōme, Sanda, Hyōgo Prefecture, Japan, and is the terminus of the line. The station number is KB33. The elevation is 200 m. It is the northernmost station of Kōbe Electric Railway.\n\n\n\n\n\n  - Kōbe Electric Railway",
+          "章节": {
+            "History": "March 28, 1996 (Heisei 8): Opened at the same time as the extension from Flower Town to this station.",
+            "Station layout": "An island platform with one face and two tracks. The effective platform length is 5 cars, but normally only 3-car formations are used. There have been cases where 4-car formations entered for emergency substitution or during busy periods such as the opening of Woody Town Sathy.\n\nIt is a bridge-type station building and was selected as one of the Kinki Station 100 Selections. It is an unstaffed station under remote management.\n\nThere is a plan to extend to the adjacent Culture Town; in the 1989 Transport Policy Council Report No. 10 it was stated as a direction that should be studied for future development, but it was not included in the later 2004 Kinki District Transport Council Report No. 8.\n\nPlatforms\n\nNight stabling is set for both Track 1 and Track 2. During the day only Track 2 is used, but Track 1 may be used very rarely for test runs and inspections.\n\nTimetable\nFour trains depart per hour.",
+            "Usage": "Daily ridership 1,477 (fiscal 2021)\n\nRecent average daily ridership is as shown in the table below.",
+            "Surroundings": "A large-scale residential area with shops and the like. It is the central station of Woody Town, which forms part of the Kōbe-Sanda International Park City.",
+            "AEON Sanda Woody Town Store": "Sanda Hotel (former: Kōbe-Sanda New Hankyu Hotel)\n Kobetsukan Woody Town Chūō School (Up Kyōiku Kikaku)",
+            "Sanda Keyakidai Post Office": "Century Garden Frespo\n Century Plaza-mae Stop (limited express buses to and from Kōbe Airport and Sannomiya stop here)",
+            "Other": "The station name at the time of the Kōen-Toshi Line plan was Hokusetsu-Chūō-Kita Station.\n It was selected in the 2nd Kinki Station 100 Selections.\n The first train departs at 4:52, which is early (as of the March 2022 revision).",
+            "Kōen-Toshi Line": "Minami-Woody Town Station (KB32) - Woody Town Chūō Station (KB33)",
+            "Railway stations in Sanda": "つてたうんちゆうおう"
+          },
+          "全文": "Woody Town Chūō Station (ウッディタウン中央駅, Uddi Taun Chūō-eki) is a station on the Kōbe Electric Railway Kōen-Toshi Line in Yurinokidai 1-chōme, Sanda, Hyōgo Prefecture, Japan, and is the terminus of the line. The station number is KB33. The elevation is 200 m. It is the northernmost station of Kōbe Electric Railway.\n\n\n\n\n\n  - Kōbe Electric Railway\n\nHistory \nMarch 28, 1996 (Heisei 8): Opened at the same time as the extension from Flower Town to this station.\n\nStation layout \nAn island platform with one face and two tracks. The effective platform length is 5 cars, but normally only 3-car formations are used. There have been cases where 4-car formations entered for emergency substitution or during busy periods such as the opening of Woody Town Sathy.\n\nIt is a bridge-type station building and was selected as one of the Kinki Station 100 Selections. It is an unstaffed station under remote management.\n\nThere is a plan to extend to the adjacent Culture Town; in the 1989 Transport Policy Council Report No. 10 it was stated as a direction that should be studied for future development, but it was not included in the later 2004 Kinki District Transport Council Report No. 8.\n\nPlatforms\n\nNight stabling is set for both Track 1 and Track 2. During the day only Track 2 is used, but Track 1 may be used very rarely for test runs and inspections.\n\nTimetable\nFour trains depart per hour.\n\nUsage \nDaily ridership 1,477 (fiscal 2021)\n\nRecent average daily ridership is as shown in the table below.\n\nSurroundings \nA large-scale residential area with shops and the like. It is the central station of Woody Town, which forms part of the Kōbe-Sanda International Park City.\n\nAEON Sanda Woody Town Store \nSanda Hotel (former: Kōbe-Sanda New Hankyu Hotel)\n Kobetsukan Woody Town Chūō School (Up Kyōiku Kikaku)\n\nSanda Keyakidai Post Office \nCentury Garden Frespo\n Century Plaza-mae Stop (limited express buses to and from Kōbe Airport and Sannomiya stop here)\n\nOther \nThe station name at the time of the Kōen-Toshi Line plan was Hokusetsu-Chūō-Kita Station.\n It was selected in the 2nd Kinki Station 100 Selections.\n The first train departs at 4:52, which is early (as of the March 2022 revision).\n\nKōen-Toshi Line \nMinami-Woody Town Station (KB32) - Woody Town Chūō Station (KB33)\n\nRailway stations in Sanda \nつてたうんちゆうおう",
+          "字数": 2307
+        }
+      },
+      "结构化信息": {
+        "读音": "ウッディタウンちゅうおうえき",
+        "罗马字": "Chyūō",
+        "开业年份": 1996,
+        "所属公司": [
+          "三田市",
+          "神戸電鉄"
+        ],
+        "分类": [
+          "公園都市線計画時の駅名は北摂中央北駅であった。",
+          "公園都市線",
+          "日本の鉄道駅一覧",
+          "三田市の鉄道駅",
+          "神戸電鉄の鉄道駅",
+          "1996年開業の鉄道駅"
+        ],
+        "章节目录": [
+          "歴史",
+          "駅構造",
+          "利用状況",
+          "駅周辺",
+          "バス路線",
+          "その他",
+          "隣の駅",
+          "つてたうんちゆうおう"
+        ],
+        "相邻车站": "神戸電鉄\n 公園都市線\n 南ウッディタウン駅 (KB32) - ウッディタウン中央駅 (KB33)"
+      }
     },
-    "全文": "公園都市線（こうえんとしせん）は、兵庫県三田市の横山駅からウッディタウン中央駅までを結ぶ神戸電鉄の鉄道路線である。\n\n神戸三田国際公園都市のうち三田市側にある北摂三田ニュータウンのフラワータウン・ウッディタウンの中央を貫く鉄道路線。横山駅では新開地側から分岐し三田線三田駅方面と直通できるようになっており、福知山線（JR宝塚線）利用による大阪方面への利用に重点が置かれている。\n\nほとんどの駅および直通先の三田駅では乗降客数が増加傾向にあり、ウッディタウン中央駅においては開業時と比較して利用者数が約2倍にもなっている。\n\nなお、正式な起点は横山駅だが、列車運行および旅客案内ではウッディタウン中央駅から横山駅へ向かう列車が下り、逆方向が上りとなっている。\n\n公園都市からJR宝塚線への連絡輸送では、神姫バスと競合している。\n\n構想時は北摂ニュータウン線（ほくせつニュータウンせん）、建設当初は北摂線（ほくせつせん）と呼称されていた。\n\n路線データ \n 路線距離（営業キロ）：5.5 km\n 軌間：1,067 mm\n 駅数：4駅（起終点駅含む）\n 複線区間：なし（全線単線）\n 電化区間：全線電化（直流1500V）\n 閉塞方式：自動閉塞式\n 最高速度：80 km/h\n IC乗車カード対応区間：\n PiTaPaエリア：全線\n\n運行形態 \nすべての列車が普通列車で三田線に乗り入れて三田 - ウッディタウン中央間に運転される。ワンマン運転を行っている。深夜を除き1時間あたり4本が運行されている。三田発の最終列車の発車時刻は0時32分発で、ウッディタウン中央到着は0時44分である。\n\n2021年3月13日改正以前までは、三田発の最終列車の発車時刻は0時53分発と遅く、ウッディタウン中央到着は1時を回っていた。\n\n各駅ともホーム有効長は4両分確保されているが、営業列車は全て3両編成である。4両編成は団体臨時列車で入線する場合がある。\n\n2021年3月13日改正時点では、大半の運行時間において南ウッディタウン駅と横山駅で行き違いを行うパターンダイヤとなっているが、朝夕の一部列車はフラワータウン駅で行き違いを行うダイヤになっている。\n\n歴史 \n 1987年（昭和62年）\n 5月28日：鉄道事業免許取得。\n 10月28日：都市高速鉄道として都市計画決定。\n 11月18日：工事施工認可。\n 12月23日：公園都市線建設第一期工事（横山駅 - フラワータウン駅）起工。\n 1988年（昭和63年）\n 1月5日：環境影響評価公告。\n 11月10日：フラワータウン駅ビル起工。\n 1989年（平成元年）\n 7月14日：有井トンネル貫通。\n 1990年（平成2年）5月25日：フラワータウン駅ビル竣工。\n 1991年（平成3年）\n 10月22日：公園都市線建設第一期工事（横山駅 - フラワータウン駅）竣工。\n 10月28日：横山駅 - フラワータウン駅間が開業。フラワータウン駅 - 三田駅間でワンマン直通運転開始。\n 1993年（平成5年）10月29日：公園都市線建設第二期工事（フラワータウン駅 - ウッディタウン中央駅）起工。\n 1995年（平成7年）11月26日：最高速度が80 km/hに引き上げ。\n 1996年（平成8年）\n 3月22日：公園都市線建設第二期工事（フラワータウン駅 - ウッディタウン中央駅）竣工。\n 3月28日：フラワータウン駅 - ウッディタウン中央駅間が開業。\n\n駅一覧 \n 駅番号は2014年4月1日に導入。\n 全駅兵庫県三田市内に所在。横山駅分岐付近から2つ目のトンネルまでの間は駅はないが神戸市北区を通る。\n 線内は、各駅に停車する普通のみ運転（表中省略）。\n 線路 … ◇：単線区間（列車交換可能）、∨：ここより下は単線\n\n利用状況 \n公園都市線各駅における各年度の1日平均乗車人員は下表の通り（2001年以前のデータは、端数処理が生じている）。\n\n将来 \n1989年の運輸政策審議会答申第10号「大阪圏における高速鉄道を中心とする交通網の整備に関する基本計画について」ではウッディタウン中央駅からカルチャータウンへの延伸が答申に盛り込まれていた。しかし、その後の2004年の近畿地方交通審議会答申第8号の「京阪神圏において、既存施設の改良に関し検討すべき主な事業」と「京阪神圏において、中長期的に望まれる鉄道ネットワークを構成する新たな路線」に含まれていない。なお、兵庫県はさらに播磨内陸鉄道という名称でさらに粟生までの延伸を構想している。\n\n三田市議会議員には、カルチャータウンからさらにテクノパーク、つつじが丘方面への延伸や、横山駅 - フラワータウン駅間に北摂三田高校前駅（仮称）を設置してはと提案する議員もいる。\n\n脚注\n\n注釈\n\n出典\n\n利用状況\n\n三田市統計書\n\n参考文献\n\n関連項目 \n 日本の鉄道路線一覧\n\nこうえんとしせん\n路こうえんとしせん\n兵庫県の交通",
-    "字数": 2057
-   },
-   "中文": {
-    "词条标题": "公园都市线",
-    "链接": "https://zh.wikipedia.org/wiki/%E5%85%AC%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A",
-    "首段": "公园都市线（）是一条连结日本兵库县三田市横山站至同市木城中央站，属于神户电铁的铁路线。",
-    "章节": {
-     "路线资料": "路线距离（）：5.5公里\n 轨距：1067毫米\n 站数：4个（包括起终点站）\n 复线路段：没有（全线单线）\n 电气化路段：全线电气化（直流1500V）\n 闭塞方式：自动闭塞式\n 最高速度：80公里/小时",
-     "车站列表": "车站编号自2014年4月1日起引入。\n 所有车站都位于兵库县三田市。横山站分岔附近起至2条隧道之间没有车站部分通过神户市北区。\n 线内各站停车只限普通运行（表中省略）。\n 轨道 … ◇：单线路段（可进行列车交会），∨：此起往下为单线"
+    {
+      "序号": 2,
+      "名称": {
+        "日文原名": "フラワータウン",
+        "词条": "フラワータウン駅",
+        "中文": "フラワータウン站",
+        "英文": "Flower Town Station"
+      },
+      "百科": {
+        "日文": {
+          "词条标题": "フラワータウン駅",
+          "链接": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%AF%E3%83%BC%E3%82%BF%E3%82%A6%E3%83%B3%E9%A7%85",
+          "首段": "フラワータウン駅（フラワータウンえき）は、兵庫県三田市弥生が丘一丁目にある神戸電鉄公園都市線の駅。駅番号はKB31。標高188 m。\n\n\n\n  - 神戸電鉄",
+          "章节": {
+            "歴史": "1991年（平成3年）10月28日：横山当駅間開通と同時に開業。\n 1996年（平成8年）3月28日：当駅ウッディタウン中央間が延伸開業、中間駅となる。",
+            "駅構造": "島式1面2線のホームを持つ駅。ホーム有効長は5両、ただし、通常は3両編成の運用のみである。緊急時の代替や、ウッディタウンサティ（現在のイオンウッディタウン店）開業など多客時に4両編成が入線したこともある。\nダイヤの関係により稀にこの駅ですれ違う。\n\n駅ビルは7階建てで改札口が1階に見えるが、実際はホームが1階で改札口は2階の扱いになっている。\n隣接するフローラ88ショッピングセンター（イオン三田店）2階と駅ビルの3階が連絡通路で接続されているが、その連絡通路の先には近隣のスーパー1階やホテル2階と段差なく行き来できる。\n\n構内売店が設置されていた頃もあったが、2015年2月現在は撤退している。\n\nホームへのエレベーターが一つ設置されている。\n\n神戸電鉄の方向幕には、当駅が中間駅になった現在でも『フラワータウン』の表示が残っている。\n\nのりば\n\nダイヤ \n上下とも、毎時4本が発着する。",
+            "利用状況": "1日あたりの乗車人員 2,177人（2021年度）\n\n線内ではもっとも利用客の多い駅であるが、近年は減少傾向が続いている。\n\n近年の1日平均乗車人員は下表のとおりである。",
+            "駅周辺": "駅周辺は商業地、他は住宅地である。神戸三田国際公園都市の一角を担う。",
+            "三田フラワータウン駅前郵便局": "フローラ88ショッピングセンター（イオン三田店）",
+            "その他": "公園都市線計画時の駅名は北摂南駅であった。",
+            "公園都市線": "横山駅 (KB27) - フラワータウン駅 (KB31) - 南ウッディタウン駅 (KB32)",
+            "三田市の鉄道駅": "らわあたうん"
+          },
+          "全文": "フラワータウン駅（フラワータウンえき）は、兵庫県三田市弥生が丘一丁目にある神戸電鉄公園都市線の駅。駅番号はKB31。標高188 m。\n\n歴史 \n 1991年（平成3年）10月28日：横山当駅間開通と同時に開業。\n 1996年（平成8年）3月28日：当駅ウッディタウン中央間が延伸開業、中間駅となる。\n\n駅構造 \n島式1面2線のホームを持つ駅。ホーム有効長は5両、ただし、通常は3両編成の運用のみである。緊急時の代替や、ウッディタウンサティ（現在のイオンウッディタウン店）開業など多客時に4両編成が入線したこともある。\nダイヤの関係により稀にこの駅ですれ違う。\n\n駅ビルは7階建てで改札口が1階に見えるが、実際はホームが1階で改札口は2階の扱いになっている。\n隣接するフローラ88ショッピングセンター（イオン三田店）2階と駅ビルの3階が連絡通路で接続されているが、その連絡通路の先には近隣のスーパー1階やホテル2階と段差なく行き来できる。\n\n構内売店が設置されていた頃もあったが、2015年2月現在は撤退している。\n\nホームへのエレベーターが一つ設置されている。\n\n神戸電鉄の方向幕には、当駅が中間駅になった現在でも『フラワータウン』の表示が残っている。\n\nのりば\n\nダイヤ \n上下とも、毎時4本が発着する。\n\n利用状況 \n1日あたりの乗車人員 2,177人（2021年度）\n\n線内ではもっとも利用客の多い駅であるが、近年は減少傾向が続いている。\n\n近年の1日平均乗車人員は下表のとおりである。\n\n駅周辺 \n駅周辺は商業地、他は住宅地である。神戸三田国際公園都市の一角を担う。\n\n 兵庫県道720号テクノパーク三田線\n 三田フラワータウン駅前郵便局\n フローラ88ショッピングセンター（イオン三田店）\n 兵庫県立人と自然の博物館\n スーパーマーケットNISHIYAMA\n 三田サミットホテル\n 三田屋本店―やすらぎの郷―本店\n\nバス路線\n\nその他 \n 公園都市線計画時の駅名は北摂南駅であった。\n\n隣の駅 \n 神戸電鉄\n 公園都市線\n 横山駅 (KB27) - フラワータウン駅 (KB31) - 南ウッディタウン駅 (KB32)\n\n脚注\n\n関連項目 \n\n 日本の鉄道駅一覧\n\n外部リンク \n  - 神戸電鉄\n\n三田市の鉄道駅\nらわあたうん\n神戸電鉄の鉄道駅\n1991年開業の鉄道駅",
+          "字数": 990
+        },
+        "中文": {
+          "来源": "LLM全文翻译（据日文维基全文）",
+          "词条标题": "フラワータウン站",
+          "首段": "フラワータウン站（フラワータウンえき）是位于兵库县三田市弥生丘一丁目的神户电铁公园都市线的车站。车站编号为KB31。标高188米。\n\n\n\n  - 神户电铁",
+          "章节": {
+            "历史": "1991年（平成3年）10月28日：随横山至本站间开通同时开业。\n 1996年（平成8年）3月28日：本站至ウッディタウン中央间延伸开业，成为中间站。",
+            "车站构造": "拥有岛式1面2线站台的车站。站台有效长度为5辆，但通常仅运用3辆编组。紧急时的替代以及ウッディタウンSathy（现在的永旺ウッディタウン店）开业等客流多时，也曾有4辆编组入线。\n因时刻表的关系，偶尔在本站交会。\n\n站房为7层建筑，检票口看似在1层，但实际上是站台在1层、检票口按2层处理。\n相邻的Flora88购物中心（永旺三田店）2层与站房的3层通过联络通道连接，在该联络通道的另一端，可与邻近的超市1层和酒店2层无高低差地往来。\n\n曾经设有站内小卖店，但截至2015年2月已撤出。\n\n设置了1部通往站台的电梯。\n\n神户电铁的方向幕上，即使在本站成为中间站的现在，仍保留着『フラワータウン』的显示。\n\n站台\n\n时刻表\n上下行均为每小时到发4班。",
+            "利用状况": "1日平均乘车人员 2,177人（2021年度）\n\n是线内利用客最多的车站，但近年来持续呈减少趋势。\n\n近年来的1日平均乘车人员如下表所示。",
+            "车站周边": "车站周边为商业地，其余为住宅地。承担神户三田国际公园都市的一角。",
+            "三田フラワータウン站前邮局": "Flora88购物中心（永旺三田店）",
+            "其他": "公园都市线计划时的站名为北摄南站。",
+            "公园都市线": "横山站 (KB27) - フラワータウン站 (KB31) - 南ウッディタウン站 (KB32)",
+            "三田市的铁路车站": "らわあたうん"
+          },
+          "全文": "フラワータウン站（フラワータウンえき）是位于兵库县三田市弥生丘一丁目的神户电铁公园都市线的车站。车站编号为KB31。标高188米。\n\n\n\n  - 神户电铁\n\n历史 \n1991年（平成3年）10月28日：随横山至本站间开通同时开业。\n 1996年（平成8年）3月28日：本站至ウッディタウン中央间延伸开业，成为中间站。\n\n车站构造 \n拥有岛式1面2线站台的车站。站台有效长度为5辆，但通常仅运用3辆编组。紧急时的替代以及ウッディタウンSathy（现在的永旺ウッディタウン店）开业等客流多时，也曾有4辆编组入线。\n因时刻表的关系，偶尔在本站交会。\n\n站房为7层建筑，检票口看似在1层，但实际上是站台在1层、检票口按2层处理。\n相邻的Flora88购物中心（永旺三田店）2层与站房的3层通过联络通道连接，在该联络通道的另一端，可与邻近的超市1层和酒店2层无高低差地往来。\n\n曾经设有站内小卖店，但截至2015年2月已撤出。\n\n设置了1部通往站台的电梯。\n\n神户电铁的方向幕上，即使在本站成为中间站的现在，仍保留着『フラワータウン』的显示。\n\n站台\n\n时刻表\n上下行均为每小时到发4班。\n\n利用状况 \n1日平均乘车人员 2,177人（2021年度）\n\n是线内利用客最多的车站，但近年来持续呈减少趋势。\n\n近年来的1日平均乘车人员如下表所示。\n\n车站周边 \n车站周边为商业地，其余为住宅地。承担神户三田国际公园都市的一角。\n\n三田フラワータウン站前邮局 \nFlora88购物中心（永旺三田店）\n\n其他 \n公园都市线计划时的站名为北摄南站。\n\n公园都市线 \n横山站 (KB27) - フラワータウン站 (KB31) - 南ウッディタウン站 (KB32)\n\n三田市的铁路车站 \nらわあたうん",
+          "字数": 738
+        },
+        "英文": {
+          "来源": "LLM全文翻译（据日文维基全文）",
+          "词条标题": "Flower Town Station",
+          "首段": "Flower Town Station (フラワータウン駅, Furawā Taun-eki) is a station on the Kōbe Electric Railway Kōen-Toshi Line in Yayoigaoka 1-chōme, Sanda, Hyōgo Prefecture, Japan. The station number is KB31. The elevation is 188 m.\n\n\n\n  - Kōbe Electric Railway",
+          "章节": {
+            "History": "October 28, 1991 (Heisei 3): Opened at the same time as the opening of the Yokoyama–this station section.\n March 28, 1996 (Heisei 8): The section from this station to Woody Town Chūō opened in extension, and it became an intermediate station.",
+            "Station layout": "A station with an island platform, one face and two tracks. The effective platform length is 5 cars, but normally only 3-car formations are used. There have been cases where 4-car formations entered for emergency substitution or during busy periods such as the opening of Woody Town Sathy (present-day AEON Woody Town Store).\nDue to timetable arrangements, trains occasionally pass each other at this station.\n\nThe station building is a seven-story building; the ticket gates appear to be on the first floor, but in fact the platform is on the first floor and the ticket gates are treated as being on the second floor.\nThe adjacent Flora 88 Shopping Center (AEON Sanda Store) second floor and the station building's third floor are connected by a connecting passage, and beyond that connecting passage one can move to and from the neighboring supermarket's first floor and hotel's second floor without any steps.\n\nThere used to be a shop within the station, but as of February 2015 it has withdrawn.\n\nOne elevator to the platform has been installed.\n\nOn Kōbe Electric Railway's destination signs, the display \"フラワータウン\" remains even now that this station has become an intermediate station.\n\nPlatforms\n\nTimetable\nIn both directions, four trains arrive and depart per hour.",
+            "Usage": "Daily ridership 2,177 (fiscal 2021)\n\nIt is the station with the most passengers on the line, but the number has been on a declining trend in recent years.\n\nRecent average daily ridership is as shown in the table below.",
+            "Surroundings": "The area around the station is a commercial district, and the rest is residential. It forms part of the Kōbe-Sanda International Park City.",
+            "Sanda Flower Town Station-mae Post Office": "Flora 88 Shopping Center (AEON Sanda Store)",
+            "Other": "The station name at the time of the Kōen-Toshi Line plan was Hokusetsu-Minami Station.",
+            "Kōen-Toshi Line": "Yokoyama Station (KB27) - Flower Town Station (KB31) - Minami-Woody Town Station (KB32)",
+            "Railway stations in Sanda": "らわあたうん"
+          },
+          "全文": "Flower Town Station (フラワータウン駅, Furawā Taun-eki) is a station on the Kōbe Electric Railway Kōen-Toshi Line in Yayoigaoka 1-chōme, Sanda, Hyōgo Prefecture, Japan. The station number is KB31. The elevation is 188 m.\n\n\n\n  - Kōbe Electric Railway\n\nHistory \nOctober 28, 1991 (Heisei 3): Opened at the same time as the opening of the Yokoyama–this station section.\n March 28, 1996 (Heisei 8): The section from this station to Woody Town Chūō opened in extension, and it became an intermediate station.\n\nStation layout \nA station with an island platform, one face and two tracks. The effective platform length is 5 cars, but normally only 3-car formations are used. There have been cases where 4-car formations entered for emergency substitution or during busy periods such as the opening of Woody Town Sathy (present-day AEON Woody Town Store).\nDue to timetable arrangements, trains occasionally pass each other at this station.\n\nThe station building is a seven-story building; the ticket gates appear to be on the first floor, but in fact the platform is on the first floor and the ticket gates are treated as being on the second floor.\nThe adjacent Flora 88 Shopping Center (AEON Sanda Store) second floor and the station building's third floor are connected by a connecting passage, and beyond that connecting passage one can move to and from the neighboring supermarket's first floor and hotel's second floor without any steps.\n\nThere used to be a shop within the station, but as of February 2015 it has withdrawn.\n\nOne elevator to the platform has been installed.\n\nOn Kōbe Electric Railway's destination signs, the display \"フラワータウン\" remains even now that this station has become an intermediate station.\n\nPlatforms\n\nTimetable\nIn both directions, four trains arrive and depart per hour.\n\nUsage \nDaily ridership 2,177 (fiscal 2021)\n\nIt is the station with the most passengers on the line, but the number has been on a declining trend in recent years.\n\nRecent average daily ridership is as shown in the table below.\n\nSurroundings \nThe area around the station is a commercial district, and the rest is residential. It forms part of the Kōbe-Sanda International Park City.\n\nSanda Flower Town Station-mae Post Office \nFlora 88 Shopping Center (AEON Sanda Store)\n\nOther \nThe station name at the time of the Kōen-Toshi Line plan was Hokusetsu-Minami Station.\n\nKōen-Toshi Line \nYokoyama Station (KB27) - Flower Town Station (KB31) - Minami-Woody Town Station (KB32)\n\nRailway stations in Sanda \nらわあたうん",
+          "字数": 2489
+        }
+      },
+      "结构化信息": {
+        "读音": "フラワータウンえき",
+        "罗马字": "Ō",
+        "开业年份": 1991,
+        "所属公司": [
+          "三田市",
+          "神戸電鉄"
+        ],
+        "分类": [
+          "公園都市線計画時の駅名は北摂南駅であった。",
+          "公園都市線",
+          "日本の鉄道駅一覧",
+          "三田市の鉄道駅",
+          "神戸電鉄の鉄道駅",
+          "1991年開業の鉄道駅"
+        ],
+        "章节目录": [
+          "歴史",
+          "駅構造",
+          "利用状況",
+          "駅周辺",
+          "バス路線",
+          "その他",
+          "隣の駅",
+          "らわあたうん"
+        ],
+        "相邻车站": "神戸電鉄\n 公園都市線\n 横山駅 (KB27) - フラワータウン駅 (KB31) - 南ウッディタウン駅 (KB32)"
+      }
     },
-    "全文": "公园都市线（）是一条连结日本兵库县三田市横山站至同市木城中央站，属于神户电铁的铁路线。\n\n路线资料 \n 路线距离（）：5.5公里\n 轨距：1067毫米\n 站数：4个（包括起终点站）\n 复线路段：没有（全线单线）\n 电气化路段：全线电气化（直流1500V）\n 闭塞方式：自动闭塞式\n 最高速度：80公里/小时\n\n车站列表 \n 车站编号自2014年4月1日起引入。\n 所有车站都位于兵库县三田市。横山站分岔附近起至2条隧道之间没有车站部分通过神户市北区。\n 线内各站停车只限普通运行（表中省略）。\n 轨道 … ◇：单线路段（可进行列车交会），∨：此起往下为单线\n\n参考资料\n\n外部连结 \n\n1991年日本建立\n1991年启用的铁路线\n近畿地方铁路路线\n兵库县铁路\n三田市交通\n神户电铁路线",
-    "字数": 342,
-    "来源": "维基百科中文版（已转简体）"
-   },
-   "英文": {
-    "来源": "LLM全文翻译（据日文维基全文）",
-    "词条标题": "Kobe Electric Railway Kōen-Toshi Line",
-    "首段": "The Kōen-Toshi Line (こうえんとしせん) is a railway line of the Kobe Electric Railway connecting Yokoyama Station in Sanda, Hyogo Prefecture, with Woody Town Chūō Station.\n\nIt is a railway line running through the center of Flower Town and Woody Town in the Hokusetsu Sanda New Town, on the Sanda side of the Kobe Sanda International Park City. At Yokoyama Station it branches from the Shin-Kaiji side and can run directly to Sanda Station on the Sanda Line, with emphasis placed on use toward Osaka via the Fukuchiyama Line (JR Takarazuka Line).\n\nAt most stations and at the through-connected Sanda Station, the number of boarding and alighting passengers is on an increasing trend, and at Woody Town Chūō Station the number of users has roughly doubled compared with the time of opening.\n\nIn addition, although the official starting point is Yokoyama Station, in train operation and passenger information, trains from Woody Town Chūō Station toward Yokoyama Station are \"down\", and the opposite direction is \"up\".\n\nFor connecting transport from Kōen-Toshi to the JR Takarazuka Line, it competes with Shinki Bus.\n\nAt the concept stage it was called the Hokusetsu New Town Line (ほくせつニュータウンせん), and at the start of construction, the Hokusetsu Line (ほくせつせん).",
-    "章节": {
-     "Route data": "Route distance (operating km): 5.5 km\nTrack gauge: 1,067 mm\nNumber of stations: 4 (including the termini)\nDouble-track sections: none (single track throughout)\nElectrified sections: entire line electrified (1,500 V DC)\nBlock system: automatic block\nMaximum speed: 80 km/h\nIC card compatible section:\nPiTaPa area: entire line",
-     "Operations": "All trains are local trains that enter the Sanda Line and operate between Sanda and Woody Town Chūō. One-man operation is carried out. Four trains per hour are operated except late at night. The last train from Sanda departs at 0:32 and arrives at Woody Town Chūō at 0:44.\n\nBefore the March 13, 2021 revision, the last train from Sanda departed later, at 0:53, arriving at Woody Town Chūō after 1:00.\n\nThe effective platform length at all stations is secured for 4 cars, but all service trains are 3-car formations. Four-car formations may enter on charter extra trains.\n\nAs of the March 13, 2021 revision, a pattern timetable is in effect with trains crossing at Minami-Woody Town Station and Yokoyama Station during most operating hours, with some morning and evening trains running to a timetable with crossing at Flower Town Station.",
-     "History": "1987 (Showa 62):\nMay 28: Railway business license obtained.\nOctober 28: Urban planning decision as an urban rapid railway.\nNovember 18: Construction work authorization.\nDecember 23: Kōen-Toshi Line construction Phase 1 (Yokoyama Station - Flower Town Station) commenced.\n1988 (Showa 63):\nJanuary 5: Environmental impact assessment announcement.\nNovember 10: Flower Town Station building construction commenced.\n1989 (Heisei 1):\nJuly 14: Arii Tunnel breakthrough.\nMay 25, 1990 (Heisei 2): Flower Town Station building completed.\n1991 (Heisei 3):\nOctober 22: Kōen-Toshi Line construction Phase 1 (Yokoyama Station - Flower Town Station) completed.\nOctober 28: The Yokoyama Station - Flower Town Station section opens; one-man through operation with Sanda Station begins between Flower Town and Sanda stations.\nOctober 29, 1993 (Heisei 5): Kōen-Toshi Line construction Phase 2 (Flower Town Station - Woody Town Chūō Station) commenced.\nNovember 26, 1995 (Heisei 7): Maximum speed raised to 80 km/h.\n1996 (Heisei 8):\nMarch 22: Kōen-Toshi Line construction Phase 2 (Flower Town Station - Woody Town Chūō Station) completed.\nMarch 28: The Flower Town Station - Woody Town Chūō Station section opens.",
-     "Station list": "Station numbers were introduced on April 1, 2014.\nAll stations are located within Sanda, Hyogo. Although there are no stations between the vicinity of the Yokoyama branch and the second tunnel, that stretch passes through Kita Ward, Kobe City.\nWithin the line, only local trains stopping at all stations operate (omitted from the table).\nTrack: ◇: single-track section (trains can pass); ∨: single track below this point.",
-     "Usage": "Sanda City Statistics",
-     "Future": "Answer No. 10 of the Transport Policy Council in 1989, \"Basic plan concerning the development of a transport network centered on high-speed railways in the Osaka area\", included an extension from Woody Town Chūō Station to Culture Town. However, it is not included in Answer No. 8 of the Kinki District Transport Council in 2004, among \"main projects that should be studied for improvement of existing facilities in the Keihanshin area\" or \"new lines forming a desirable railway network in the medium to long term in the Keihanshin area\". In addition, Hyogo Prefecture is conceiving a further extension to Ao under the name Hōgo Inland Railway.\n\nSome members of the Sanda City Council have proposed extensions from Culture Town further toward Technopark and Tsutsujigaoka, and the establishment of a Hokusetsu Sanda High School Front Station (tentative name) between Yokoyama Station and Flower Town Station.",
-     "Footnotes": "",
-     "Notes": "",
-     "Sources": "",
-     "References": "",
-     "See also": "List of railway lines in Japan\nKōen-Toshi Line (こうえんとしせん)\nMichi-Kōen-Toshi-sen (路こうえんとしせん)\nTransportation in Hyogo Prefecture"
+    {
+      "序号": 3,
+      "名称": {
+        "日文原名": "三田",
+        "词条": "三田駅",
+        "中文": "三田站",
+        "英文": null
+      },
+      "百科": {
+        "日文": {
+          "词条标题": "三田駅",
+          "链接": "https://ja.wikipedia.org/wiki/%E4%B8%89%E7%94%B0%E9%A7%85",
+          "首段": "",
+          "章节": {
+            "三田駅": "三田駅 (東京都) （みたえき） - 東京都港区にある、東京都交通局（都営地下鉄）浅草線・三田線の駅。\n 三田駅 (兵庫県) （さんだえき） - 兵庫県三田市にある、西日本旅客鉄道（JR西日本）福知山線・神戸電鉄三田線の駅。\n 三田駅 (ソウル特別市) （サムジョンえき） - 大韓民国ソウル特別市松坡区にある、ソウル地下鉄9号線の駅。"
+          },
+          "全文": "三田駅\n\n 三田駅 (東京都) （みたえき） - 東京都港区にある、東京都交通局（都営地下鉄）浅草線・三田線の駅。\n 三田駅 (兵庫県) （さんだえき） - 兵庫県三田市にある、西日本旅客鉄道（JR西日本）福知山線・神戸電鉄三田線の駅。\n 三田駅 (ソウル特別市) （サムジョンえき） - 大韓民国ソウル特別市松坡区にある、ソウル地下鉄9号線の駅。\n\n同名の鉄道駅",
+          "字数": 182
+        },
+        "中文": {
+          "词条标题": "三田站",
+          "链接": "https://zh.wikipedia.org/wiki/%E4%B8%89%E7%94%B0%E7%AB%99",
+          "首段": "三田站可能是指以下车站：\n\n 三田站 (东京都)，位于日本东京都港区，为都营地下铁浅草线及三田线的交会站。\n 三田站 (兵库县)，位于日本兵库县三田市，为JR西日本福知山线及神户电铁三田线的交会站。\n 三田站 (首尔)，位于南韩首尔特别市松坡区，为首尔地铁9号线沿线的地铁站。",
+          "章节": {},
+          "全文": "三田站可能是指以下车站：\n\n 三田站 (东京都)，位于日本东京都港区，为都营地下铁浅草线及三田线的交会站。\n 三田站 (兵库县)，位于日本兵库县三田市，为JR西日本福知山线及神户电铁三田线的交会站。\n 三田站 (首尔)，位于南韩首尔特别市松坡区，为首尔地铁9号线沿线的地铁站。",
+          "字数": 138,
+          "来源": "维基百科中文版（已转简体）"
+        },
+        "英文": null
+      },
+      "结构化信息": {
+        "读音": null,
+        "罗马字": null,
+        "开业年份": null,
+        "所属公司": [
+          "同名"
+        ],
+        "分类": [
+          "同名の鉄道駅"
+        ],
+        "章节目录": [
+          "三田駅"
+        ],
+        "相邻车站": null
+      }
     },
-    "全文": "The Kōen-Toshi Line (こうえんとしせん) is a railway line of the Kobe Electric Railway connecting Yokoyama Station in Sanda, Hyogo Prefecture, with Woody Town Chūō Station.\n\nIt is a railway line running through the center of Flower Town and Woody Town in the Hokusetsu Sanda New Town, on the Sanda side of the Kobe Sanda International Park City. At Yokoyama Station it branches from the Shin-Kaiji side and can run directly to Sanda Station on the Sanda Line, with emphasis placed on use toward Osaka via the Fukuchiyama Line (JR Takarazuka Line).\n\nAt most stations and at the through-connected Sanda Station, the number of boarding and alighting passengers is on an increasing trend, and at Woody Town Chūō Station the number of users has roughly doubled compared with the time of opening.\n\nIn addition, although the official starting point is Yokoyama Station, in train operation and passenger information, trains from Woody Town Chūō Station toward Yokoyama Station are \"down\", and the opposite direction is \"up\".\n\nFor connecting transport from Kōen-Toshi to the JR Takarazuka Line, it competes with Shinki Bus.\n\nAt the concept stage it was called the Hokusetsu New Town Line (ほくせつニュータウンせん), and at the start of construction, the Hokusetsu Line (ほくせつせん).\n\nRoute data \nRoute distance (operating km): 5.5 km\nTrack gauge: 1,067 mm\nNumber of stations: 4 (including the termini)\nDouble-track sections: none (single track throughout)\nElectrified sections: entire line electrified (1,500 V DC)\nBlock system: automatic block\nMaximum speed: 80 km/h\nIC card compatible section:\nPiTaPa area: entire line\n\nOperations \nAll trains are local trains that enter the Sanda Line and operate between Sanda and Woody Town Chūō. One-man operation is carried out. Four trains per hour are operated except late at night. The last train from Sanda departs at 0:32 and arrives at Woody Town Chūō at 0:44.\n\nBefore the March 13, 2021 revision, the last train from Sanda departed later, at 0:53, arriving at Woody Town Chūō after 1:00.\n\nThe effective platform length at all stations is secured for 4 cars, but all service trains are 3-car formations. Four-car formations may enter on charter extra trains.\n\nAs of the March 13, 2021 revision, a pattern timetable is in effect with trains crossing at Minami-Woody Town Station and Yokoyama Station during most operating hours, with some morning and evening trains running to a timetable with crossing at Flower Town Station.\n\nHistory \n1987 (Showa 62):\nMay 28: Railway business license obtained.\nOctober 28: Urban planning decision as an urban rapid railway.\nNovember 18: Construction work authorization.\nDecember 23: Kōen-Toshi Line construction Phase 1 (Yokoyama Station - Flower Town Station) commenced.\n1988 (Showa 63):\nJanuary 5: Environmental impact assessment announcement.\nNovember 10: Flower Town Station building construction commenced.\n1989 (Heisei 1):\nJuly 14: Arii Tunnel breakthrough.\nMay 25, 1990 (Heisei 2): Flower Town Station building completed.\n1991 (Heisei 3):\nOctober 22: Kōen-Toshi Line construction Phase 1 (Yokoyama Station - Flower Town Station) completed.\nOctober 28: The Yokoyama Station - Flower Town Station section opens; one-man through operation with Sanda Station begins between Flower Town and Sanda stations.\nOctober 29, 1993 (Heisei 5): Kōen-Toshi Line construction Phase 2 (Flower Town Station - Woody Town Chūō Station) commenced.\nNovember 26, 1995 (Heisei 7): Maximum speed raised to 80 km/h.\n1996 (Heisei 8):\nMarch 22: Kōen-Toshi Line construction Phase 2 (Flower Town Station - Woody Town Chūō Station) completed.\nMarch 28: The Flower Town Station - Woody Town Chūō Station section opens.\n\nStation list \nStation numbers were introduced on April 1, 2014.\nAll stations are located within Sanda, Hyogo. Although there are no stations between the vicinity of the Yokoyama branch and the second tunnel, that stretch passes through Kita Ward, Kobe City.\nWithin the line, only local trains stopping at all stations operate (omitted from the table).\nTrack: ◇: single-track section (trains can pass); ∨: single track below this point.\n\nUsage \nThe average daily number of boarding passengers at each station of the Kōen-Toshi Line for each fiscal year is as follows (for data before 2001, rounding has occurred).\n\nFuture \nAnswer No. 10 of the Transport Policy Council in 1989, \"Basic plan concerning the development of a transport network centered on high-speed railways in the Osaka area\", included an extension from Woody Town Chūō Station to Culture Town. However, it is not included in Answer No. 8 of the Kinki District Transport Council in 2004, among \"main projects that should be studied for improvement of existing facilities in the Keihanshin area\" or \"new lines forming a desirable railway network in the medium to long term in the Keihanshin area\". In addition, Hyogo Prefecture is conceiving a further extension to Ao under the name Hōgo Inland Railway.\n\nSome members of the Sanda City Council have proposed extensions from Culture Town further toward Technopark and Tsutsujigaoka, and the establishment of a Hokusetsu Sanda High School Front Station (tentative name) between Yokoyama Station and Flower Town Station.\n\nFootnotes \n\n\nNotes \n\n\nSources \n\n\nUsage \nSanda City Statistics\n\nReferences \n\n\nSee also \nList of railway lines in Japan\nKōen-Toshi Line (こうえんとしせん)\nMichi-Kōen-Toshi-sen (路こうえんとしせん)\nTransportation in Hyogo Prefecture",
-    "字数": 5387
-   }
+    {
+      "序号": 4,
+      "名称": {
+        "日文原名": "三田本町",
+        "词条": "三田本町駅",
+        "中文": "三田本町站",
+        "英文": null
+      },
+      "百科": {
+        "日文": {
+          "词条标题": "三田本町駅",
+          "链接": "https://ja.wikipedia.org/wiki/%E4%B8%89%E7%94%B0%E6%9C%AC%E7%94%BA%E9%A7%85",
+          "首段": "三田本町駅（さんだほんまちえき）は、兵庫県三田市相生町にある、神戸電鉄三田線の駅。駅番号はKB28。標高146 m。\n\n線路名称上は三田線単独駅であるが、運転系統上では公園都市線の列車も乗り入れている。このため列車の本数は多い。車内放送での駅名連呼の際は「本町、三田本町」と案内される。\n\n\n\n  - 神戸電鉄",
+          "章节": {
+            "歴史": "1929年（昭和4年）10月10日：神戸有馬電気鉄道三田線の電鉄横山（現・横山） - 三田間に新設開業。\n 1947年（昭和22年）1月9日：三木電気鉄道との合併により、神有三木電気鉄道（現在の神戸電鉄）の駅となる。\n 1991年（平成3年）3月21日：横山三田間複線化（同月24日）に伴い島式ホームとなり、駅舎を改築。",
+            "駅構造": "島式1面2線のホームを持つ地平駅。駅舎は下り線側にあり、ホームへは地下道で連絡している。駅の南側へ直接出ることのできる出口はなく、駅構外の地下道を利用する。\n\n沿線光ネットワークに接続された駅務遠隔システムが導入されており、センター駅から自動券売機、自動改札機、自動精算機、TVカメラ、インターホン、シャッターが遠隔操作される。そのため駅員巡回駅となっており、構内売店も設けられていない。以前は駅近辺の鍵屋で割引乗車券の委託販売を実施していたが、2009年11月時点では既に行われなくなっている。\n\nのりば",
+            "利用状況": "1日あたりの乗車人員 306人（2021年度）\n\n近年の1日平均乗車人員は下表のとおりである。",
+            "駅周辺": "三田市の市街地の外れにあるが、旧市街の中心であった本町には近い。\n住宅が多いが、農地もある。",
+            "神戸電鉄": "三田線（公園都市線直通含む）",
+            "特快速（新開地行のみ運転）・急行・準急・普通": "横山駅 (KB27) - 三田本町駅 (KB28) - 三田駅 (KB29)",
+            "三田市の鉄道駅": "んたほんまち"
+          },
+          "全文": "三田本町駅（さんだほんまちえき）は、兵庫県三田市相生町にある、神戸電鉄三田線の駅。駅番号はKB28。標高146 m。\n\n線路名称上は三田線単独駅であるが、運転系統上では公園都市線の列車も乗り入れている。このため列車の本数は多い。車内放送での駅名連呼の際は「本町、三田本町」と案内される。\n\n歴史 \n 1929年（昭和4年）10月10日：神戸有馬電気鉄道三田線の電鉄横山（現・横山） - 三田間に新設開業。\n 1947年（昭和22年）1月9日：三木電気鉄道との合併により、神有三木電気鉄道（現在の神戸電鉄）の駅となる。\n 1991年（平成3年）3月21日：横山三田間複線化（同月24日）に伴い島式ホームとなり、駅舎を改築。\n\n駅構造 \n\n島式1面2線のホームを持つ地平駅。駅舎は下り線側にあり、ホームへは地下道で連絡している。駅の南側へ直接出ることのできる出口はなく、駅構外の地下道を利用する。\n\n沿線光ネットワークに接続された駅務遠隔システムが導入されており、センター駅から自動券売機、自動改札機、自動精算機、TVカメラ、インターホン、シャッターが遠隔操作される。そのため駅員巡回駅となっており、構内売店も設けられていない。以前は駅近辺の鍵屋で割引乗車券の委託販売を実施していたが、2009年11月時点では既に行われなくなっている。\n\nのりば\n\n利用状況 \n1日あたりの乗車人員 306人（2021年度）\n\n近年の1日平均乗車人員は下表のとおりである。\n\n駅周辺 \n三田市の市街地の外れにあるが、旧市街の中心であった本町には近い。\n住宅が多いが、農地もある。\n 国道176号\n 兵庫県道720号テクノパーク三田線\n 三田本町郵便局\n\n隣の駅 \n 神戸電鉄\n 三田線（公園都市線直通含む）\n 特快速（新開地行のみ運転）・急行・準急・普通\n 横山駅 (KB27) - 三田本町駅 (KB28) - 三田駅 (KB29)\n\n脚注\n\n関連項目 \n\n 日本の鉄道駅一覧\n\n外部リンク \n  - 神戸電鉄\n\n三田市の鉄道駅\nんたほんまち\n神戸電鉄の鉄道駅\n1929年開業の鉄道駅",
+          "字数": 883
+        },
+        "中文": {
+          "词条标题": "三田本町站",
+          "链接": "https://zh.wikipedia.org/wiki/%E4%B8%89%E7%94%B0%E6%9C%AC%E7%94%BA%E7%AB%99",
+          "首段": "三田本町站（）是一个位于日本兵库县三田市相生町，属于神户电铁的铁路车站。车站编号为KB28。海拔146公尺。",
+          "章节": {
+            "车站构造": "岛式月台1面2线的地面车站。站舍位于下行线侧，与月台以地下道联络。",
+            "神户电铁": "三田线（包括直通公园都市线）",
+            "特快速（只限往新开地运行）、急行、准急、普通": "横山（KB27）－三田本町（KB28）－三田（KB29）",
+            "ndahonmachi": "三田线车站 (神户电铁)"
+          },
+          "全文": "三田本町站（）是一个位于日本兵库县三田市相生町，属于神户电铁的铁路车站。车站编号为KB28。海拔146公尺。\n\n车站构造 \n岛式月台1面2线的地面车站。站舍位于下行线侧，与月台以地下道联络。\n\n月台配置\n\n相邻车站 \n 神户电铁\n 三田线（包括直通公园都市线）\n 特快速（只限往新开地运行）、急行、准急、普通\n 横山（KB27）－三田本町（KB28）－三田（KB29）\n\n参考资料\n\n参见 \n\n 日本铁路车站列表\n\n外部连结 \n \n\n兵库县铁路车站\nndahonmachi\n三田线车站 (神户电铁)\n1929年启用的铁路车站\n三田市交通",
+          "字数": 268,
+          "来源": "维基百科中文版（已转简体）"
+        },
+        "英文": null
+      },
+      "结构化信息": {
+        "读音": "さんだほんまちえき",
+        "罗马字": "Sandahonmachi",
+        "开业年份": 1929,
+        "所属公司": [
+          "三田市",
+          "神戸電鉄"
+        ],
+        "分类": [
+          "三田線（公園都市線直通含む）",
+          "日本の鉄道駅一覧",
+          "三田市の鉄道駅",
+          "神戸電鉄の鉄道駅",
+          "1929年開業の鉄道駅"
+        ],
+        "章节目录": [
+          "歴史",
+          "駅構造",
+          "利用状況",
+          "駅周辺",
+          "隣の駅",
+          "んたほんまち"
+        ],
+        "相邻车站": "神戸電鉄\n 三田線（公園都市線直通含む）\n 特快速（新開地行のみ運転）・急行・準急・普通\n 横山駅 (KB27) - 三田本町駅 (KB28) - 三田駅 (KB29)"
+      }
+    },
+    {
+      "序号": 5,
+      "名称": {
+        "日文原名": "南ウッディタウン",
+        "词条": "南ウッディタウン駅",
+        "中文": "南ウッディタウン站",
+        "英文": "Minami-Woody Town Station"
+      },
+      "百科": {
+        "日文": {
+          "词条标题": "南ウッディタウン駅",
+          "链接": "https://ja.wikipedia.org/wiki/%E5%8D%97%E3%82%A6%E3%83%83%E3%83%87%E3%82%A3%E3%82%BF%E3%82%A6%E3%83%B3%E9%A7%85",
+          "首段": "南ウッディタウン駅（みなみウッディタウンえき）は、兵庫県三田市あかしあ台五丁目にある、神戸電鉄公園都市線の駅。駅番号はKB32。標高198 m。\n\n\n\n  - 神戸電鉄",
+          "章节": {
+            "歴史": "1996年（平成8年）3月28日：フラワータウン - ウッディタウン中央間延伸時に開業。",
+            "駅構造": "島式1面2線のホームを持つ駅。ホーム有効長は5両、但し通常は3両編成の運用のみである。緊急時の代替や、ウッディタウンサティ開業など、多客時に4両編成が入線したこともある。\n\n盛土式の2層構造で地上1階にコンコースが、地上2階にホームがある。なおホームの一部は道路上の高架になっている。\n\n沿線光ネットワークに接続された駅務遠隔システムが導入されており、センター駅から自動券売機、自動改札機、自動精算機、TVカメラ、インターホン、シャッターが遠隔操作される。そのため駅員巡回駅となっており、構内売店も存在しない。ほとんどの電車は、この駅ですれ違いを行う。\n\nのりば",
+            "利用状況": "1日あたりの乗車人員 837人（2021年度）\n\n近年の1日平均乗車人員は下表のとおりである。",
+            "駅周辺": "大規模な住宅地である。商店等もある。神戸三田国際公園都市の一角を担う。\n\n駅に売店はないが、周辺にローソンがある。",
+            "エディオン三田ウッディタウン店": "ケーズデンキ三田ウッディタウン店（旧八千代ムセン三田ウッディタウン店）",
+            "三井住友銀行ウッディタウン支店・フラワータウン出張所": "※2019年12月2日より、フラワータウン出張所が移転し共同店舗となる。",
+            "はじかみ池公園": "えるむプラザ前停留所（神戸空港・三宮発着の特急バスが停車する）",
+            "その他": "公園都市線計画時の駅名は北摂中央南駅であった。",
+            "公園都市線": "フラワータウン駅 (KB31) - 南ウッディタウン駅 (KB32) - ウッディタウン中央駅 (KB33)",
+            "三田市の鉄道駅": "なみうつていたうん"
+          },
+          "全文": "南ウッディタウン駅（みなみウッディタウンえき）は、兵庫県三田市あかしあ台五丁目にある、神戸電鉄公園都市線の駅。駅番号はKB32。標高198 m。\n\n歴史 \n 1996年（平成8年）3月28日：フラワータウン - ウッディタウン中央間延伸時に開業。\n\n駅構造  \n島式1面2線のホームを持つ駅。ホーム有効長は5両、但し通常は3両編成の運用のみである。緊急時の代替や、ウッディタウンサティ開業など、多客時に4両編成が入線したこともある。\n\n盛土式の2層構造で地上1階にコンコースが、地上2階にホームがある。なおホームの一部は道路上の高架になっている。\n\n沿線光ネットワークに接続された駅務遠隔システムが導入されており、センター駅から自動券売機、自動改札機、自動精算機、TVカメラ、インターホン、シャッターが遠隔操作される。そのため駅員巡回駅となっており、構内売店も存在しない。ほとんどの電車は、この駅ですれ違いを行う。\n\nのりば\n\n利用状況 \n1日あたりの乗車人員 837人（2021年度）\n\n近年の1日平均乗車人員は下表のとおりである。\n\n駅周辺 \n大規模な住宅地である。商店等もある。神戸三田国際公園都市の一角を担う。\n\n駅に売店はないが、周辺にローソンがある。\n\t\n\n 兵庫県道720号テクノパーク三田線\n エディオン三田ウッディタウン店\n ケーズデンキ三田ウッディタウン店（旧八千代ムセン三田ウッディタウン店）\n コーナン新三田店\n 三井住友銀行ウッディタウン支店・フラワータウン出張所\n ※2019年12月2日より、フラワータウン出張所が移転し共同店舗となる。\n 池田泉州銀行三田ウッディタウン支店\n 三田ウッディタウン郵便局\n 阪急オアシスえるむプラザ店\n マルハチウッディタウン店\n 万代三田店\n はじかみ池公園\n えるむプラザ前停留所（神戸空港・三宮発着の特急バスが停車する）\n\nバス路線\n\nその他 \n 公園都市線計画時の駅名は北摂中央南駅であった。\n\n隣の駅 \n 神戸電鉄\n 公園都市線\n フラワータウン駅 (KB31) - 南ウッディタウン駅 (KB32) - ウッディタウン中央駅 (KB33)\n\n脚注\n\n関連項目 \n\n 日本の鉄道駅一覧\n\n外部リンク \n  - 神戸電鉄\n\n三田市の鉄道駅\nなみうつていたうん\n神戸電鉄の鉄道駅\n1996年開業の鉄道駅",
+          "字数": 985
+        },
+        "中文": {
+          "来源": "LLM全文翻译（据日文维基全文）",
+          "词条标题": "南ウッディタウン站",
+          "首段": "南ウッディタウン站（みなみウッディタウンえき）是位于兵库县三田市阿卡西亚台五丁目的神户电铁公园都市线的车站。车站编号为KB32。标高198米。\n\n\n\n  - 神户电铁",
+          "章节": {
+            "历史": "1996年（平成8年）3月28日：フラワータウン - ウッディタウン中央间延伸时开业。",
+            "车站构造": "拥有岛式1面2线站台的车站。站台有效长度为5辆，但通常仅运用3辆编组。紧急时的替代以及ウッディタウンSathy开业等客流多时，也曾有4辆编组入线。\n\n为填土式的2层构造，地面1层为大厅，地面2层为站台。另外站台的一部分成为道路上方的的高架。\n\n导入了连接沿线光网络的站务远程系统，从中心站远程操作自动售票机、自动检票机、自动补票机、电视摄像机、对讲机、卷帘门。因此为站务员巡回站，也不存在站内小卖店。几乎所有电车都在本站进行交会。\n\n站台",
+            "利用状况": "1日平均乘车人员 837人（2021年度）\n\n近年来的1日平均乘车人员如下表所示。",
+            "车站周边": "为大规摸住宅地。也有商店等。承担神户三田国际公园都市的一角。\n\n车站没有小卖店，但周边有罗森。",
+            "Edion三田ウッディタウン店": "K's电机三田ウッディタウン店（旧八千代无线三田ウッディタウン店）",
+            "三井住友银行ウッディタウン支店·フラワータウン办事处": "※自2019年12月2日起，フラワータウン办事处迁址，成为共同店铺。",
+            "椒池公园": "榎广场前停留所（神户机场·三宫到发的特急巴士停靠）",
+            "其他": "公园都市线计划时的站名为北摄中央南站。",
+            "公园都市线": "フラワータウン站 (KB31) - 南ウッディタウン站 (KB32) - ウッディタウン中央站 (KB33)",
+            "三田市的铁路车站": "なみうつていたうん"
+          },
+          "全文": "南ウッディタウン站（みなみウッディタウンえき）是位于兵库县三田市阿卡西亚台五丁目的神户电铁公园都市线的车站。车站编号为KB32。标高198米。\n\n\n\n  - 神户电铁\n\n历史 \n1996年（平成8年）3月28日：フラワータウン - ウッディタウン中央间延伸时开业。\n\n车站构造 \n拥有岛式1面2线站台的车站。站台有效长度为5辆，但通常仅运用3辆编组。紧急时的替代以及ウッディタウンSathy开业等客流多时，也曾有4辆编组入线。\n\n为填土式的2层构造，地面1层为大厅，地面2层为站台。另外站台的一部分成为道路上方的的高架。\n\n导入了连接沿线光网络的站务远程系统，从中心站远程操作自动售票机、自动检票机、自动补票机、电视摄像机、对讲机、卷帘门。因此为站务员巡回站，也不存在站内小卖店。几乎所有电车都在本站进行交会。\n\n站台\n\n利用状况 \n1日平均乘车人员 837人（2021年度）\n\n近年来的1日平均乘车人员如下表所示。\n\n车站周边 \n为大规摸住宅地。也有商店等。承担神户三田国际公园都市的一角。\n\n车站没有小卖店，但周边有罗森。\n\nEdion三田ウッディタウン店 \nK's电机三田ウッディタウン店（旧八千代无线三田ウッディタウン店）\n\n三井住友银行ウッディタウン支店·フラワータウン办事处 \n※自2019年12月2日起，フラワータウン办事处迁址，成为共同店铺。\n\n椒池公园 \n榎广场前停留所（神户机场·三宫到发的特急巴士停靠）\n\n其他 \n公园都市线计划时的站名为北摄中央南站。\n\n公园都市线 \nフラワータウン站 (KB31) - 南ウッディタウン站 (KB32) - ウッディタウン中央站 (KB33)\n\n三田市的铁路车站 \nなみうつていたうん",
+          "字数": 721
+        },
+        "英文": {
+          "来源": "LLM全文翻译（据日文维基全文）",
+          "词条标题": "Minami-Woody Town Station",
+          "首段": "Minami-Woody Town Station (南ウッディタウン駅, Minami Uddi Taun-eki) is a station on the Kōbe Electric Railway Kōen-Toshi Line in Akashia-dai 5-chōme, Sanda, Hyōgo Prefecture, Japan. The station number is KB32. The elevation is 198 m.\n\n\n\n  - Kōbe Electric Railway",
+          "章节": {
+            "History": "March 28, 1996 (Heisei 8): Opened when the Flower Town–Woody Town Chūō section was extended.",
+            "Station layout": "A station with an island platform, one face and two tracks. The effective platform length is 5 cars, but normally only 3-car formations are used. There have been cases where 4-car formations entered for emergency substitution or during busy periods such as the opening of Woody Town Sathy.\n\nIt has an embankment-type two-level structure, with the concourse on the first floor above ground and the platforms on the second floor above ground. Part of the platform is elevated over a road.\n\nA remote station-operation system connected to an along-the-line optical network has been introduced; automatic ticket machines, automatic ticket gates, automatic fare adjustment machines, TV cameras, intercoms, and shutters are remotely operated from a center station. Therefore, it is a station patrolled by station staff, and there is no shop within the station. Most trains pass each other at this station.\n\nPlatforms",
+            "Usage": "Daily ridership 837 (fiscal 2021)\n\nRecent average daily ridership is as shown in the table below.",
+            "Surroundings": "A large-scale residential area. There are also shops and the like. It forms part of the Kōbe-Sanda International Park City.\n\nThere is no shop at the station, but there is a Lawson nearby.",
+            "Edion Sanda Woody Town Store": "K's Denki Sanda Woody Town Store (former Yachiyo Musen Sanda Woody Town Store)",
+            "Sumitomo Mitsui Banking Corporation Woody Town Branch / Flower Town Sub-branch": "※ From December 2, 2019, the Flower Town Sub-branch relocated and became a joint store.",
+            "Hajikami-ike Park": "Erumu Plaza-mae Stop (limited express buses to and from Kōbe Airport and Sannomiya stop here)",
+            "Other": "The station name at the time of the Kōen-Toshi Line plan was Hokusetsu-Chūō-Minami Station.",
+            "Kōen-Toshi Line": "Flower Town Station (KB31) - Minami-Woody Town Station (KB32) - Woody Town Chūō Station (KB33)",
+            "Railway stations in Sanda": "なみうつていたうん"
+          },
+          "全文": "Minami-Woody Town Station (南ウッディタウン駅, Minami Uddi Taun-eki) is a station on the Kōbe Electric Railway Kōen-Toshi Line in Akashia-dai 5-chōme, Sanda, Hyōgo Prefecture, Japan. The station number is KB32. The elevation is 198 m.\n\n\n\n  - Kōbe Electric Railway\n\nHistory \nMarch 28, 1996 (Heisei 8): Opened when the Flower Town–Woody Town Chūō section was extended.\n\nStation layout \nA station with an island platform, one face and two tracks. The effective platform length is 5 cars, but normally only 3-car formations are used. There have been cases where 4-car formations entered for emergency substitution or during busy periods such as the opening of Woody Town Sathy.\n\nIt has an embankment-type two-level structure, with the concourse on the first floor above ground and the platforms on the second floor above ground. Part of the platform is elevated over a road.\n\nA remote station-operation system connected to an along-the-line optical network has been introduced; automatic ticket machines, automatic ticket gates, automatic fare adjustment machines, TV cameras, intercoms, and shutters are remotely operated from a center station. Therefore, it is a station patrolled by station staff, and there is no shop within the station. Most trains pass each other at this station.\n\nPlatforms\n\nUsage \nDaily ridership 837 (fiscal 2021)\n\nRecent average daily ridership is as shown in the table below.\n\nSurroundings \nA large-scale residential area. There are also shops and the like. It forms part of the Kōbe-Sanda International Park City.\n\nThere is no shop at the station, but there is a Lawson nearby.\n\nEdion Sanda Woody Town Store \nK's Denki Sanda Woody Town Store (former Yachiyo Musen Sanda Woody Town Store)\n\nSumitomo Mitsui Banking Corporation Woody Town Branch / Flower Town Sub-branch \n※ From December 2, 2019, the Flower Town Sub-branch relocated and became a joint store.\n\nHajikami-ike Park \nErumu Plaza-mae Stop (limited express buses to and from Kōbe Airport and Sannomiya stop here)\n\nOther \nThe station name at the time of the Kōen-Toshi Line plan was Hokusetsu-Chūō-Minami Station.\n\nKōen-Toshi Line \nFlower Town Station (KB31) - Minami-Woody Town Station (KB32) - Woody Town Chūō Station (KB33)\n\nRailway stations in Sanda \nなみうつていたうん",
+          "字数": 2237
+        }
+      },
+      "结构化信息": {
+        "读音": "みなみウッディタウンえき",
+        "罗马字": "Minami",
+        "开业年份": 1996,
+        "所属公司": [
+          "三田市",
+          "神戸電鉄"
+        ],
+        "分类": [
+          "公園都市線計画時の駅名は北摂中央南駅であった。",
+          "公園都市線",
+          "日本の鉄道駅一覧",
+          "三田市の鉄道駅",
+          "神戸電鉄の鉄道駅",
+          "1996年開業の鉄道駅"
+        ],
+        "章节目录": [
+          "歴史",
+          "駅構造",
+          "利用状況",
+          "駅周辺",
+          "バス路線",
+          "その他",
+          "隣の駅",
+          "なみうつていたうん"
+        ],
+        "相邻车站": "神戸電鉄\n 公園都市線\n フラワータウン駅 (KB31) - 南ウッディタウン駅 (KB32) - ウッディタウン中央駅 (KB33)"
+      }
+    },
+    {
+      "序号": 6,
+      "名称": {
+        "日文原名": "横山",
+        "词条": "横山駅",
+        "中文": "橫山站",
+        "英文": null
+      },
+      "百科": {
+        "日文": {
+          "词条标题": "横山駅",
+          "链接": "https://ja.wikipedia.org/wiki/%E6%A8%AA%E5%B1%B1%E9%A7%85",
+          "首段": "横山駅（よこやまえき、おうざんえき、こうざんえき）\n\n横山駅 (石川県) - 石川県かほく市にあるJR西日本七尾線の駅\n横山駅 (兵庫県) - 兵庫県三田市にある神戸電鉄三田線・神戸電鉄公園都市線の駅\n愛知県瀬戸市にある名鉄瀬戸線新瀬戸駅の旧称。「尾張横山駅」とも称していた。\n陸前横山駅 - 宮城県登米市にあるJR東日本気仙沼線の駅\n武蔵横山駅 - 東京都八王子市にあった京王御陵線の駅。開業当初、横山駅と名乗っていた。\n相模横山駅 - 神奈川県相模原市にあるJR東日本相模線上溝駅の旧称\n志摩横山駅 - 三重県志摩市にある近鉄志摩線の駅\n馬喰横山駅 - 東京都中央区にある都営地下鉄新宿線の駅。\n横山駅 (新竹県) - 台湾新竹県横山郷にある台湾鉄路管理局内湾線の駅\n横山駅 (桃園市) - 台湾桃園市大園区にある桃園捷運藍線の駅\n - 中華人民共和国江蘇省蘇州市虎丘区にある蘇州軌道交通3号線の駅。\n - 中華人民共和国広西チワン自治区林桂県にある湘桂線の駅。",
+          "章节": {},
+          "全文": "横山駅（よこやまえき、おうざんえき、こうざんえき）\n\n横山駅 (石川県) - 石川県かほく市にあるJR西日本七尾線の駅\n横山駅 (兵庫県) - 兵庫県三田市にある神戸電鉄三田線・神戸電鉄公園都市線の駅\n愛知県瀬戸市にある名鉄瀬戸線新瀬戸駅の旧称。「尾張横山駅」とも称していた。\n陸前横山駅 - 宮城県登米市にあるJR東日本気仙沼線の駅\n武蔵横山駅 - 東京都八王子市にあった京王御陵線の駅。開業当初、横山駅と名乗っていた。\n相模横山駅 - 神奈川県相模原市にあるJR東日本相模線上溝駅の旧称\n志摩横山駅 - 三重県志摩市にある近鉄志摩線の駅\n馬喰横山駅 - 東京都中央区にある都営地下鉄新宿線の駅。\n横山駅 (新竹県) - 台湾新竹県横山郷にある台湾鉄路管理局内湾線の駅\n横山駅 (桃園市) - 台湾桃園市大園区にある桃園捷運藍線の駅\n - 中華人民共和国江蘇省蘇州市虎丘区にある蘇州軌道交通3号線の駅。\n - 中華人民共和国広西チワン自治区林桂県にある湘桂線の駅。\n\n同名の鉄道駅",
+          "字数": 441
+        },
+        "中文": {
+          "词条标题": "横山站",
+          "链接": "https://zh.wikipedia.org/wiki/%E6%A9%AB%E5%B1%B1%E7%AB%99",
+          "首段": "横山站或横山车站可以指以下铁路车站：",
+          "章节": {
+            "台湾": "横山车站 (新竹县)，位于台湾新竹县横山乡，为台湾铁路管理局内湾线的铁路车站。\n横山站 (桃园市)，位于台湾桃园市大园区横山社区自强桥附近，为桃园捷运机场线及绿线的捷运车站。",
+            "中国": "横山站 (广西壮族自治区)，位于广西壮族自治区林桂县四塘乡，为中国铁路湘桂铁路的铁路车站。\n横山站 (江苏省)，位于江苏省镇江市丹徒区，为中国铁路连淮扬镇铁路的技术站、线路所。\n横山站 (苏州)，位于江苏省苏州市，为苏州轨道交通3号线的车站。",
+            "现存车站": "横山站 (石川县)，西日本旅客铁道（JR西日本）七尾线的车站，位于石川县河北市。\n横山站 (兵库县)，神户电铁三田线、公园都市线的车站，位于兵库县三田市。\n陆前横山站，东日本旅客铁道（JR东日本）气仙沼线的车站，位于宫城县登米市。\n相模横山站，现称上沟站，东日本旅客铁道（JR东日本）相模线的车站，位于神奈川县相模原市。\n志摩横山站，近畿日本铁道（近铁）志摩线的车站，位于三重县志摩市。\n马喰横山站，都营地下铁浅草线的车站，位于东京都日本桥横山町。",
+            "已废除车站": "武藏横山站，已废除的京王电铁御陵线的车站，位于东京都八王子市。开业初期只称「横山站」，其后才改用现称。"
+          },
+          "全文": "横山站或横山车站可以指以下铁路车站：\n台湾\n横山车站 (新竹县)，位于台湾新竹县横山乡，为台湾铁路管理局内湾线的铁路车站。\n横山站 (桃园市)，位于台湾桃园市大园区横山社区自强桥附近，为桃园捷运机场线及绿线的捷运车站。\n中国\n横山站 (广西壮族自治区)，位于广西壮族自治区林桂县四塘乡，为中国铁路湘桂铁路的铁路车站。\n横山站 (江苏省)，位于江苏省镇江市丹徒区，为中国铁路连淮扬镇铁路的技术站、线路所。\n横山站 (苏州)，位于江苏省苏州市，为苏州轨道交通3号线的车站。\n日本\n现存车站\n横山站 (石川县)，西日本旅客铁道（JR西日本）七尾线的车站，位于石川县河北市。\n横山站 (兵库县)，神户电铁三田线、公园都市线的车站，位于兵库县三田市。\n陆前横山站，东日本旅客铁道（JR东日本）气仙沼线的车站，位于宫城县登米市。\n相模横山站，现称上沟站，东日本旅客铁道（JR东日本）相模线的车站，位于神奈川县相模原市。\n志摩横山站，近畿日本铁道（近铁）志摩线的车站，位于三重县志摩市。\n马喰横山站，都营地下铁浅草线的车站，位于东京都日本桥横山町。\n已废除车站\n武藏横山站，已废除的京王电铁御陵线的车站，位于东京都八王子市。开业初期只称「横山站」，其后才改用现称。",
+          "字数": 525,
+          "来源": "维基百科中文版（已转简体）"
+        },
+        "英文": null
+      },
+      "结构化信息": {
+        "读音": null,
+        "罗马字": null,
+        "开业年份": null,
+        "所属公司": [
+          "同名"
+        ],
+        "分类": [
+          "陸前横山駅 - 宮城県登米市にあるJR東日本気仙沼線の駅",
+          "志摩横山駅 - 三重県志摩市にある近鉄志摩線の駅",
+          "馬喰横山駅 - 東京都中央区にある都営地下鉄新宿線の駅。",
+          "- 中華人民共和国広西チワン自治区林桂県にある湘桂線の駅。",
+          "同名の鉄道駅"
+        ],
+        "章节目录": [],
+        "相邻车站": null
+      }
+    }
+  ],
+  "统计": {
+    "车站总数": 6,
+    "有日文词条": 6,
+    "有中文词条": 6,
+    "已千问汉化": 0,
+    "待汉化": 0,
+    "有英文词条": 3
   }
- },
- "车站": [
-  {
-   "序号": 1,
-   "名称": {
-    "日文原名": "ウッディタウン中央",
-    "词条": "ウッディタウン中央駅",
-    "中文": "ウッディタウン中央站",
-    "英文": "Woody Town Chūō Station"
-   },
-   "百科": {
-    "日文": {
-     "词条标题": "ウッディタウン中央駅",
-     "链接": "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%83%83%E3%83%87%E3%82%A3%E3%82%BF%E3%82%A6%E3%83%B3%E4%B8%AD%E5%A4%AE%E9%A7%85",
-     "首段": "ウッディタウン中央駅（ウッディタウンちゅうおうえき）は、兵庫県三田市ゆりのき台一丁目にある神戸電鉄公園都市線の駅であり、同線の終点。駅番号はKB33。標高200 m。神戸電鉄では最北端の駅である。\n\n\n\n\n\n  - 神戸電鉄",
-     "章节": {
-      "歴史": "1996年（平成8年）3月28日：フラワータウン当駅間延伸と同時に開業。",
-      "駅構造": "島式ホーム1面2線の構造。ホーム有効長は5両だが、通常は3両編成の運用のみである。緊急時の代替や、ウッディタウンサティ開業など多客時に4両編成が入線したこともある。\n\n橋上駅舎で、近畿の駅百選に選出された。遠隔管理による無人駅となっている。\n\n隣接するカルチャータウンへの延伸構想があり、1989年の運輸政策審議会答申第10号では今後整備を検討すべき方向とされていたが、その後の2004年の近畿地方交通審議会答申第8号には盛り込まれていない。\n\nのりば \n\n1番線、2番線共に夜間停泊が設定されている。日中は2番線のみが使用されるが、試運転や検査の兼ね合いでごく稀に1番線を使用することもある。\n\nダイヤ \n毎時4本が発車する。",
-      "利用状況": "1日あたりの乗車人員 1,477人（2021年度）\n\n近年の1日平均乗車人員は下表のとおりである。",
-      "駅周辺": "大規模な住宅地で、商店等もある。神戸三田国際公園都市の一角を担うウッディタウンの中心駅である。",
-      "イオン三田ウッディタウン店": "三田ホテル（旧：神戸三田新阪急ホテル）\n 個別館 ウッディタウン中央校（アップ教育企画）",
-      "三田けやき台郵便局": "センチュリーガーデン フレスポ\n センチュリープラザ前停留所（神戸空港・三宮発着の特急バス等が停車する）",
-      "その他": "公園都市線計画時の駅名は北摂中央北駅であった。\n 第2回近畿の駅百選に選定されている。\n 始発列車が4時52分と早い（※2022年3月改正時点）。",
-      "公園都市線": "南ウッディタウン駅 (KB32) - ウッディタウン中央駅 (KB33)",
-      "三田市の鉄道駅": "つてたうんちゆうおう"
-     },
-     "全文": "ウッディタウン中央駅（ウッディタウンちゅうおうえき）は、兵庫県三田市ゆりのき台一丁目にある神戸電鉄公園都市線の駅であり、同線の終点。駅番号はKB33。標高200 m。神戸電鉄では最北端の駅である。\n\n歴史 \n 1996年（平成8年）3月28日：フラワータウン当駅間延伸と同時に開業。\n\n駅構造  \n島式ホーム1面2線の構造。ホーム有効長は5両だが、通常は3両編成の運用のみである。緊急時の代替や、ウッディタウンサティ開業など多客時に4両編成が入線したこともある。\n\n橋上駅舎で、近畿の駅百選に選出された。遠隔管理による無人駅となっている。\n\n隣接するカルチャータウンへの延伸構想があり、1989年の運輸政策審議会答申第10号では今後整備を検討すべき方向とされていたが、その後の2004年の近畿地方交通審議会答申第8号には盛り込まれていない。\n\nのりば \n\n1番線、2番線共に夜間停泊が設定されている。日中は2番線のみが使用されるが、試運転や検査の兼ね合いでごく稀に1番線を使用することもある。\n\nダイヤ \n毎時4本が発車する。\n\n利用状況 \n1日あたりの乗車人員 1,477人（2021年度）\n\n近年の1日平均乗車人員は下表のとおりである。\n\n駅周辺 \n大規模な住宅地で、商店等もある。神戸三田国際公園都市の一角を担うウッディタウンの中心駅である。\n\n イオン三田ウッディタウン店\n 三田ホテル（旧：神戸三田新阪急ホテル）\n 個別館 ウッディタウン中央校（アップ教育企画）\n 三田けやき台郵便局\n センチュリーガーデン フレスポ\n センチュリープラザ前停留所（神戸空港・三宮発着の特急バス等が停車する）\n 兵庫県道720号テクノパーク三田線\n\nバス路線\n\nその他 \n 公園都市線計画時の駅名は北摂中央北駅であった。\n 第2回近畿の駅百選に選定されている。\n 始発列車が4時52分と早い（※2022年3月改正時点）。\n\n隣の駅 \n 神戸電鉄\n 公園都市線\n 南ウッディタウン駅 (KB32) - ウッディタウン中央駅 (KB33)\n\n脚注\n\n注釈\n\n出典\n\n関連項目 \n\n 日本の鉄道駅一覧\n\n外部リンク \n  - 神戸電鉄\n\n三田市の鉄道駅\nつてたうんちゆうおう\n神戸電鉄の鉄道駅\n1996年開業の鉄道駅",
-     "字数": 952
-    },
-    "中文": {
-     "来源": "LLM全文翻译（据日文维基全文）",
-     "词条标题": "ウッディタウン中央站",
-     "首段": "ウッディタウン中央站（ウッディタウンちゅうおうえき）是位于兵库县三田市百合木台一丁目的神户电铁公园都市线的车站，是同线的终点。车站编号为KB33。标高200米。是神户电铁最北端的车站。\n\n\n\n\n\n  - 神户电铁",
-     "章节": {
-      "历史": "1996年（平成8年）3月28日：随フラワータウン至本站间延伸同时开业。",
-      "车站构造": "岛式站台1面2线的构造。站台有效长度为5辆，但通常仅运用3辆编组。紧急时的替代以及ウッディタウンSathy开业等客流多时，也曾有4辆编组入线。\n\n为桥上站房，被选入近畿车站百选。为远程管理的无人站。\n\n有向相邻的カルチャータウン延伸的构想，1989年运输政策审议会答申第10号将其列为今后应探讨整备的方向，但之后的2004年近畿地方交通审议会答申第8号未将其纳入。\n\n站台\n\n1号线、2号线均设定有夜间停泊。白天仅使用2号线，但因试运转和检查的关系，极少数情况下也会使用1号线。\n\n时刻表\n每小时发车4班。",
-      "利用状况": "1日平均乘车人员 1,477人（2021年度）\n\n近年来的1日平均乘车人员如下表所示。",
-      "车站周边": "为大规摸住宅区，也有商店等。是承担神户三田国际公园都市一角、ウッディタウン的中心车站。",
-      "永旺三田ウッディタウン店": "三田酒店（旧：神户三田新阪急酒店）\n 个别馆 ウッディタウン中央校（Up教育企划）",
-      "三田けやき台邮局": "Century Garden Frespo\n Century Plaza前停留所（神户机场·三宫到发的特急巴士等停靠）",
-      "其他": "公园都市线计划时的站名为北摄中央北站。\n 被选入第2回近畿车站百选。\n 始发列车为4点52分，很早（※2022年3月修订时点）。",
-      "公园都市线": "南ウッディタウン站 (KB32) - ウッディタウン中央站 (KB33)",
-      "三田市的铁路车站": "つてたうんちゆうおう"
-     },
-     "全文": "ウッディタウン中央站（ウッディタウンちゅうおうえき）是位于兵库县三田市百合木台一丁目的神户电铁公园都市线的车站，是同线的终点。车站编号为KB33。标高200米。是神户电铁最北端的车站。\n\n\n\n\n\n  - 神户电铁\n\n历史 \n1996年（平成8年）3月28日：随フラワータウン至本站间延伸同时开业。\n\n车站构造 \n岛式站台1面2线的构造。站台有效长度为5辆，但通常仅运用3辆编组。紧急时的替代以及ウッディタウンSathy开业等客流多时，也曾有4辆编组入线。\n\n为桥上站房，被选入近畿车站百选。为远程管理的无人站。\n\n有向相邻的カルチャータウン延伸的构想，1989年运输政策审议会答申第10号将其列为今后应探讨整备的方向，但之后的2004年近畿地方交通审议会答申第8号未将其纳入。\n\n站台\n\n1号线、2号线均设定有夜间停泊。白天仅使用2号线，但因试运转和检查的关系，极少数情况下也会使用1号线。\n\n时刻表\n每小时发车4班。\n\n利用状况 \n1日平均乘车人员 1,477人（2021年度）\n\n近年来的1日平均乘车人员如下表所示。\n\n车站周边 \n为大规摸住宅区，也有商店等。是承担神户三田国际公园都市一角、ウッディタウン的中心车站。\n\n永旺三田ウッディタウン店 \n三田酒店（旧：神户三田新阪急酒店）\n 个别馆 ウッディタウン中央校（Up教育企划）\n\n三田けやき台邮局 \nCentury Garden Frespo\n Century Plaza前停留所（神户机场·三宫到发的特急巴士等停靠）\n\n其他 \n公园都市线计划时的站名为北摄中央北站。\n 被选入第2回近畿车站百选。\n 始发列车为4点52分，很早（※2022年3月修订时点）。\n\n公园都市线 \n南ウッディタウン站 (KB32) - ウッディタウン中央站 (KB33)\n\n三田市的铁路车站 \nつてたうんちゆうおう",
-     "字数": 776
-    },
-    "英文": {
-     "来源": "LLM全文翻译（据日文维基全文）",
-     "词条标题": "Woody Town Chūō Station",
-     "首段": "Woody Town Chūō Station (ウッディタウン中央駅, Uddi Taun Chūō-eki) is a station on the Kōbe Electric Railway Kōen-Toshi Line in Yurinokidai 1-chōme, Sanda, Hyōgo Prefecture, Japan, and is the terminus of the line. The station number is KB33. The elevation is 200 m. It is the northernmost station of Kōbe Electric Railway.\n\n\n\n\n\n  - Kōbe Electric Railway",
-     "章节": {
-      "History": "March 28, 1996 (Heisei 8): Opened at the same time as the extension from Flower Town to this station.",
-      "Station layout": "An island platform with one face and two tracks. The effective platform length is 5 cars, but normally only 3-car formations are used. There have been cases where 4-car formations entered for emergency substitution or during busy periods such as the opening of Woody Town Sathy.\n\nIt is a bridge-type station building and was selected as one of the Kinki Station 100 Selections. It is an unstaffed station under remote management.\n\nThere is a plan to extend to the adjacent Culture Town; in the 1989 Transport Policy Council Report No. 10 it was stated as a direction that should be studied for future development, but it was not included in the later 2004 Kinki District Transport Council Report No. 8.\n\nPlatforms\n\nNight stabling is set for both Track 1 and Track 2. During the day only Track 2 is used, but Track 1 may be used very rarely for test runs and inspections.\n\nTimetable\nFour trains depart per hour.",
-      "Usage": "Daily ridership 1,477 (fiscal 2021)\n\nRecent average daily ridership is as shown in the table below.",
-      "Surroundings": "A large-scale residential area with shops and the like. It is the central station of Woody Town, which forms part of the Kōbe-Sanda International Park City.",
-      "AEON Sanda Woody Town Store": "Sanda Hotel (former: Kōbe-Sanda New Hankyu Hotel)\n Kobetsukan Woody Town Chūō School (Up Kyōiku Kikaku)",
-      "Sanda Keyakidai Post Office": "Century Garden Frespo\n Century Plaza-mae Stop (limited express buses to and from Kōbe Airport and Sannomiya stop here)",
-      "Other": "The station name at the time of the Kōen-Toshi Line plan was Hokusetsu-Chūō-Kita Station.\n It was selected in the 2nd Kinki Station 100 Selections.\n The first train departs at 4:52, which is early (as of the March 2022 revision).",
-      "Kōen-Toshi Line": "Minami-Woody Town Station (KB32) - Woody Town Chūō Station (KB33)",
-      "Railway stations in Sanda": "つてたうんちゆうおう"
-     },
-     "全文": "Woody Town Chūō Station (ウッディタウン中央駅, Uddi Taun Chūō-eki) is a station on the Kōbe Electric Railway Kōen-Toshi Line in Yurinokidai 1-chōme, Sanda, Hyōgo Prefecture, Japan, and is the terminus of the line. The station number is KB33. The elevation is 200 m. It is the northernmost station of Kōbe Electric Railway.\n\n\n\n\n\n  - Kōbe Electric Railway\n\nHistory \nMarch 28, 1996 (Heisei 8): Opened at the same time as the extension from Flower Town to this station.\n\nStation layout \nAn island platform with one face and two tracks. The effective platform length is 5 cars, but normally only 3-car formations are used. There have been cases where 4-car formations entered for emergency substitution or during busy periods such as the opening of Woody Town Sathy.\n\nIt is a bridge-type station building and was selected as one of the Kinki Station 100 Selections. It is an unstaffed station under remote management.\n\nThere is a plan to extend to the adjacent Culture Town; in the 1989 Transport Policy Council Report No. 10 it was stated as a direction that should be studied for future development, but it was not included in the later 2004 Kinki District Transport Council Report No. 8.\n\nPlatforms\n\nNight stabling is set for both Track 1 and Track 2. During the day only Track 2 is used, but Track 1 may be used very rarely for test runs and inspections.\n\nTimetable\nFour trains depart per hour.\n\nUsage \nDaily ridership 1,477 (fiscal 2021)\n\nRecent average daily ridership is as shown in the table below.\n\nSurroundings \nA large-scale residential area with shops and the like. It is the central station of Woody Town, which forms part of the Kōbe-Sanda International Park City.\n\nAEON Sanda Woody Town Store \nSanda Hotel (former: Kōbe-Sanda New Hankyu Hotel)\n Kobetsukan Woody Town Chūō School (Up Kyōiku Kikaku)\n\nSanda Keyakidai Post Office \nCentury Garden Frespo\n Century Plaza-mae Stop (limited express buses to and from Kōbe Airport and Sannomiya stop here)\n\nOther \nThe station name at the time of the Kōen-Toshi Line plan was Hokusetsu-Chūō-Kita Station.\n It was selected in the 2nd Kinki Station 100 Selections.\n The first train departs at 4:52, which is early (as of the March 2022 revision).\n\nKōen-Toshi Line \nMinami-Woody Town Station (KB32) - Woody Town Chūō Station (KB33)\n\nRailway stations in Sanda \nつてたうんちゆうおう",
-     "字数": 2307
-    }
-   },
-   "结构化信息": {
-    "读音": "ウッディタウンちゅうおうえき",
-    "罗马字": "Chyūō",
-    "开业年份": 1996,
-    "所属公司": [
-     "三田市",
-     "神戸電鉄"
-    ],
-    "分类": [
-     "公園都市線計画時の駅名は北摂中央北駅であった。",
-     "公園都市線",
-     "日本の鉄道駅一覧",
-     "三田市の鉄道駅",
-     "神戸電鉄の鉄道駅",
-     "1996年開業の鉄道駅"
-    ],
-    "章节目录": [
-     "歴史",
-     "駅構造",
-     "利用状況",
-     "駅周辺",
-     "バス路線",
-     "その他",
-     "隣の駅",
-     "つてたうんちゆうおう"
-    ],
-    "相邻车站": "神戸電鉄\n 公園都市線\n 南ウッディタウン駅 (KB32) - ウッディタウン中央駅 (KB33)"
-   }
-  },
-  {
-   "序号": 2,
-   "名称": {
-    "日文原名": "フラワータウン",
-    "词条": "フラワータウン駅",
-    "中文": "フラワータウン站",
-    "英文": "Flower Town Station"
-   },
-   "百科": {
-    "日文": {
-     "词条标题": "フラワータウン駅",
-     "链接": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%AF%E3%83%BC%E3%82%BF%E3%82%A6%E3%83%B3%E9%A7%85",
-     "首段": "フラワータウン駅（フラワータウンえき）は、兵庫県三田市弥生が丘一丁目にある神戸電鉄公園都市線の駅。駅番号はKB31。標高188 m。\n\n\n\n  - 神戸電鉄",
-     "章节": {
-      "歴史": "1991年（平成3年）10月28日：横山当駅間開通と同時に開業。\n 1996年（平成8年）3月28日：当駅ウッディタウン中央間が延伸開業、中間駅となる。",
-      "駅構造": "島式1面2線のホームを持つ駅。ホーム有効長は5両、ただし、通常は3両編成の運用のみである。緊急時の代替や、ウッディタウンサティ（現在のイオンウッディタウン店）開業など多客時に4両編成が入線したこともある。\nダイヤの関係により稀にこの駅ですれ違う。\n\n駅ビルは7階建てで改札口が1階に見えるが、実際はホームが1階で改札口は2階の扱いになっている。\n隣接するフローラ88ショッピングセンター（イオン三田店）2階と駅ビルの3階が連絡通路で接続されているが、その連絡通路の先には近隣のスーパー1階やホテル2階と段差なく行き来できる。\n\n構内売店が設置されていた頃もあったが、2015年2月現在は撤退している。\n\nホームへのエレベーターが一つ設置されている。\n\n神戸電鉄の方向幕には、当駅が中間駅になった現在でも『フラワータウン』の表示が残っている。\n\nのりば\n\nダイヤ \n上下とも、毎時4本が発着する。",
-      "利用状況": "1日あたりの乗車人員 2,177人（2021年度）\n\n線内ではもっとも利用客の多い駅であるが、近年は減少傾向が続いている。\n\n近年の1日平均乗車人員は下表のとおりである。",
-      "駅周辺": "駅周辺は商業地、他は住宅地である。神戸三田国際公園都市の一角を担う。",
-      "三田フラワータウン駅前郵便局": "フローラ88ショッピングセンター（イオン三田店）",
-      "その他": "公園都市線計画時の駅名は北摂南駅であった。",
-      "公園都市線": "横山駅 (KB27) - フラワータウン駅 (KB31) - 南ウッディタウン駅 (KB32)",
-      "三田市の鉄道駅": "らわあたうん"
-     },
-     "全文": "フラワータウン駅（フラワータウンえき）は、兵庫県三田市弥生が丘一丁目にある神戸電鉄公園都市線の駅。駅番号はKB31。標高188 m。\n\n歴史 \n 1991年（平成3年）10月28日：横山当駅間開通と同時に開業。\n 1996年（平成8年）3月28日：当駅ウッディタウン中央間が延伸開業、中間駅となる。\n\n駅構造 \n島式1面2線のホームを持つ駅。ホーム有効長は5両、ただし、通常は3両編成の運用のみである。緊急時の代替や、ウッディタウンサティ（現在のイオンウッディタウン店）開業など多客時に4両編成が入線したこともある。\nダイヤの関係により稀にこの駅ですれ違う。\n\n駅ビルは7階建てで改札口が1階に見えるが、実際はホームが1階で改札口は2階の扱いになっている。\n隣接するフローラ88ショッピングセンター（イオン三田店）2階と駅ビルの3階が連絡通路で接続されているが、その連絡通路の先には近隣のスーパー1階やホテル2階と段差なく行き来できる。\n\n構内売店が設置されていた頃もあったが、2015年2月現在は撤退している。\n\nホームへのエレベーターが一つ設置されている。\n\n神戸電鉄の方向幕には、当駅が中間駅になった現在でも『フラワータウン』の表示が残っている。\n\nのりば\n\nダイヤ \n上下とも、毎時4本が発着する。\n\n利用状況 \n1日あたりの乗車人員 2,177人（2021年度）\n\n線内ではもっとも利用客の多い駅であるが、近年は減少傾向が続いている。\n\n近年の1日平均乗車人員は下表のとおりである。\n\n駅周辺 \n駅周辺は商業地、他は住宅地である。神戸三田国際公園都市の一角を担う。\n\n 兵庫県道720号テクノパーク三田線\n 三田フラワータウン駅前郵便局\n フローラ88ショッピングセンター（イオン三田店）\n 兵庫県立人と自然の博物館\n スーパーマーケットNISHIYAMA\n 三田サミットホテル\n 三田屋本店―やすらぎの郷―本店\n\nバス路線\n\nその他 \n 公園都市線計画時の駅名は北摂南駅であった。\n\n隣の駅 \n 神戸電鉄\n 公園都市線\n 横山駅 (KB27) - フラワータウン駅 (KB31) - 南ウッディタウン駅 (KB32)\n\n脚注\n\n関連項目 \n\n 日本の鉄道駅一覧\n\n外部リンク \n  - 神戸電鉄\n\n三田市の鉄道駅\nらわあたうん\n神戸電鉄の鉄道駅\n1991年開業の鉄道駅",
-     "字数": 990
-    },
-    "中文": {
-     "来源": "LLM全文翻译（据日文维基全文）",
-     "词条标题": "フラワータウン站",
-     "首段": "フラワータウン站（フラワータウンえき）是位于兵库县三田市弥生丘一丁目的神户电铁公园都市线的车站。车站编号为KB31。标高188米。\n\n\n\n  - 神户电铁",
-     "章节": {
-      "历史": "1991年（平成3年）10月28日：随横山至本站间开通同时开业。\n 1996年（平成8年）3月28日：本站至ウッディタウン中央间延伸开业，成为中间站。",
-      "车站构造": "拥有岛式1面2线站台的车站。站台有效长度为5辆，但通常仅运用3辆编组。紧急时的替代以及ウッディタウンSathy（现在的永旺ウッディタウン店）开业等客流多时，也曾有4辆编组入线。\n因时刻表的关系，偶尔在本站交会。\n\n站房为7层建筑，检票口看似在1层，但实际上是站台在1层、检票口按2层处理。\n相邻的Flora88购物中心（永旺三田店）2层与站房的3层通过联络通道连接，在该联络通道的另一端，可与邻近的超市1层和酒店2层无高低差地往来。\n\n曾经设有站内小卖店，但截至2015年2月已撤出。\n\n设置了1部通往站台的电梯。\n\n神户电铁的方向幕上，即使在本站成为中间站的现在，仍保留着『フラワータウン』的显示。\n\n站台\n\n时刻表\n上下行均为每小时到发4班。",
-      "利用状况": "1日平均乘车人员 2,177人（2021年度）\n\n是线内利用客最多的车站，但近年来持续呈减少趋势。\n\n近年来的1日平均乘车人员如下表所示。",
-      "车站周边": "车站周边为商业地，其余为住宅地。承担神户三田国际公园都市的一角。",
-      "三田フラワータウン站前邮局": "Flora88购物中心（永旺三田店）",
-      "其他": "公园都市线计划时的站名为北摄南站。",
-      "公园都市线": "横山站 (KB27) - フラワータウン站 (KB31) - 南ウッディタウン站 (KB32)",
-      "三田市的铁路车站": "らわあたうん"
-     },
-     "全文": "フラワータウン站（フラワータウンえき）是位于兵库县三田市弥生丘一丁目的神户电铁公园都市线的车站。车站编号为KB31。标高188米。\n\n\n\n  - 神户电铁\n\n历史 \n1991年（平成3年）10月28日：随横山至本站间开通同时开业。\n 1996年（平成8年）3月28日：本站至ウッディタウン中央间延伸开业，成为中间站。\n\n车站构造 \n拥有岛式1面2线站台的车站。站台有效长度为5辆，但通常仅运用3辆编组。紧急时的替代以及ウッディタウンSathy（现在的永旺ウッディタウン店）开业等客流多时，也曾有4辆编组入线。\n因时刻表的关系，偶尔在本站交会。\n\n站房为7层建筑，检票口看似在1层，但实际上是站台在1层、检票口按2层处理。\n相邻的Flora88购物中心（永旺三田店）2层与站房的3层通过联络通道连接，在该联络通道的另一端，可与邻近的超市1层和酒店2层无高低差地往来。\n\n曾经设有站内小卖店，但截至2015年2月已撤出。\n\n设置了1部通往站台的电梯。\n\n神户电铁的方向幕上，即使在本站成为中间站的现在，仍保留着『フラワータウン』的显示。\n\n站台\n\n时刻表\n上下行均为每小时到发4班。\n\n利用状况 \n1日平均乘车人员 2,177人（2021年度）\n\n是线内利用客最多的车站，但近年来持续呈减少趋势。\n\n近年来的1日平均乘车人员如下表所示。\n\n车站周边 \n车站周边为商业地，其余为住宅地。承担神户三田国际公园都市的一角。\n\n三田フラワータウン站前邮局 \nFlora88购物中心（永旺三田店）\n\n其他 \n公园都市线计划时的站名为北摄南站。\n\n公园都市线 \n横山站 (KB27) - フラワータウン站 (KB31) - 南ウッディタウン站 (KB32)\n\n三田市的铁路车站 \nらわあたうん",
-     "字数": 738
-    },
-    "英文": {
-     "来源": "LLM全文翻译（据日文维基全文）",
-     "词条标题": "Flower Town Station",
-     "首段": "Flower Town Station (フラワータウン駅, Furawā Taun-eki) is a station on the Kōbe Electric Railway Kōen-Toshi Line in Yayoigaoka 1-chōme, Sanda, Hyōgo Prefecture, Japan. The station number is KB31. The elevation is 188 m.\n\n\n\n  - Kōbe Electric Railway",
-     "章节": {
-      "History": "October 28, 1991 (Heisei 3): Opened at the same time as the opening of the Yokoyama–this station section.\n March 28, 1996 (Heisei 8): The section from this station to Woody Town Chūō opened in extension, and it became an intermediate station.",
-      "Station layout": "A station with an island platform, one face and two tracks. The effective platform length is 5 cars, but normally only 3-car formations are used. There have been cases where 4-car formations entered for emergency substitution or during busy periods such as the opening of Woody Town Sathy (present-day AEON Woody Town Store).\nDue to timetable arrangements, trains occasionally pass each other at this station.\n\nThe station building is a seven-story building; the ticket gates appear to be on the first floor, but in fact the platform is on the first floor and the ticket gates are treated as being on the second floor.\nThe adjacent Flora 88 Shopping Center (AEON Sanda Store) second floor and the station building's third floor are connected by a connecting passage, and beyond that connecting passage one can move to and from the neighboring supermarket's first floor and hotel's second floor without any steps.\n\nThere used to be a shop within the station, but as of February 2015 it has withdrawn.\n\nOne elevator to the platform has been installed.\n\nOn Kōbe Electric Railway's destination signs, the display \"フラワータウン\" remains even now that this station has become an intermediate station.\n\nPlatforms\n\nTimetable\nIn both directions, four trains arrive and depart per hour.",
-      "Usage": "Daily ridership 2,177 (fiscal 2021)\n\nIt is the station with the most passengers on the line, but the number has been on a declining trend in recent years.\n\nRecent average daily ridership is as shown in the table below.",
-      "Surroundings": "The area around the station is a commercial district, and the rest is residential. It forms part of the Kōbe-Sanda International Park City.",
-      "Sanda Flower Town Station-mae Post Office": "Flora 88 Shopping Center (AEON Sanda Store)",
-      "Other": "The station name at the time of the Kōen-Toshi Line plan was Hokusetsu-Minami Station.",
-      "Kōen-Toshi Line": "Yokoyama Station (KB27) - Flower Town Station (KB31) - Minami-Woody Town Station (KB32)",
-      "Railway stations in Sanda": "らわあたうん"
-     },
-     "全文": "Flower Town Station (フラワータウン駅, Furawā Taun-eki) is a station on the Kōbe Electric Railway Kōen-Toshi Line in Yayoigaoka 1-chōme, Sanda, Hyōgo Prefecture, Japan. The station number is KB31. The elevation is 188 m.\n\n\n\n  - Kōbe Electric Railway\n\nHistory \nOctober 28, 1991 (Heisei 3): Opened at the same time as the opening of the Yokoyama–this station section.\n March 28, 1996 (Heisei 8): The section from this station to Woody Town Chūō opened in extension, and it became an intermediate station.\n\nStation layout \nA station with an island platform, one face and two tracks. The effective platform length is 5 cars, but normally only 3-car formations are used. There have been cases where 4-car formations entered for emergency substitution or during busy periods such as the opening of Woody Town Sathy (present-day AEON Woody Town Store).\nDue to timetable arrangements, trains occasionally pass each other at this station.\n\nThe station building is a seven-story building; the ticket gates appear to be on the first floor, but in fact the platform is on the first floor and the ticket gates are treated as being on the second floor.\nThe adjacent Flora 88 Shopping Center (AEON Sanda Store) second floor and the station building's third floor are connected by a connecting passage, and beyond that connecting passage one can move to and from the neighboring supermarket's first floor and hotel's second floor without any steps.\n\nThere used to be a shop within the station, but as of February 2015 it has withdrawn.\n\nOne elevator to the platform has been installed.\n\nOn Kōbe Electric Railway's destination signs, the display \"フラワータウン\" remains even now that this station has become an intermediate station.\n\nPlatforms\n\nTimetable\nIn both directions, four trains arrive and depart per hour.\n\nUsage \nDaily ridership 2,177 (fiscal 2021)\n\nIt is the station with the most passengers on the line, but the number has been on a declining trend in recent years.\n\nRecent average daily ridership is as shown in the table below.\n\nSurroundings \nThe area around the station is a commercial district, and the rest is residential. It forms part of the Kōbe-Sanda International Park City.\n\nSanda Flower Town Station-mae Post Office \nFlora 88 Shopping Center (AEON Sanda Store)\n\nOther \nThe station name at the time of the Kōen-Toshi Line plan was Hokusetsu-Minami Station.\n\nKōen-Toshi Line \nYokoyama Station (KB27) - Flower Town Station (KB31) - Minami-Woody Town Station (KB32)\n\nRailway stations in Sanda \nらわあたうん",
-     "字数": 2489
-    }
-   },
-   "结构化信息": {
-    "读音": "フラワータウンえき",
-    "罗马字": "Ō",
-    "开业年份": 1991,
-    "所属公司": [
-     "三田市",
-     "神戸電鉄"
-    ],
-    "分类": [
-     "公園都市線計画時の駅名は北摂南駅であった。",
-     "公園都市線",
-     "日本の鉄道駅一覧",
-     "三田市の鉄道駅",
-     "神戸電鉄の鉄道駅",
-     "1991年開業の鉄道駅"
-    ],
-    "章节目录": [
-     "歴史",
-     "駅構造",
-     "利用状況",
-     "駅周辺",
-     "バス路線",
-     "その他",
-     "隣の駅",
-     "らわあたうん"
-    ],
-    "相邻车站": "神戸電鉄\n 公園都市線\n 横山駅 (KB27) - フラワータウン駅 (KB31) - 南ウッディタウン駅 (KB32)"
-   }
-  },
-  {
-   "序号": 3,
-   "名称": {
-    "日文原名": "三田",
-    "词条": "三田駅",
-    "中文": "三田站",
-    "英文": null
-   },
-   "百科": {
-    "日文": {
-     "词条标题": "三田駅",
-     "链接": "https://ja.wikipedia.org/wiki/%E4%B8%89%E7%94%B0%E9%A7%85",
-     "首段": "",
-     "章节": {
-      "三田駅": "三田駅 (東京都) （みたえき） - 東京都港区にある、東京都交通局（都営地下鉄）浅草線・三田線の駅。\n 三田駅 (兵庫県) （さんだえき） - 兵庫県三田市にある、西日本旅客鉄道（JR西日本）福知山線・神戸電鉄三田線の駅。\n 三田駅 (ソウル特別市) （サムジョンえき） - 大韓民国ソウル特別市松坡区にある、ソウル地下鉄9号線の駅。"
-     },
-     "全文": "三田駅\n\n 三田駅 (東京都) （みたえき） - 東京都港区にある、東京都交通局（都営地下鉄）浅草線・三田線の駅。\n 三田駅 (兵庫県) （さんだえき） - 兵庫県三田市にある、西日本旅客鉄道（JR西日本）福知山線・神戸電鉄三田線の駅。\n 三田駅 (ソウル特別市) （サムジョンえき） - 大韓民国ソウル特別市松坡区にある、ソウル地下鉄9号線の駅。\n\n同名の鉄道駅",
-     "字数": 182
-    },
-    "中文": {
-     "词条标题": "三田站",
-     "链接": "https://zh.wikipedia.org/wiki/%E4%B8%89%E7%94%B0%E7%AB%99",
-     "首段": "三田站可能是指以下车站：\n\n 三田站 (东京都)，位于日本东京都港区，为都营地下铁浅草线及三田线的交会站。\n 三田站 (兵库县)，位于日本兵库县三田市，为JR西日本福知山线及神户电铁三田线的交会站。\n 三田站 (首尔)，位于南韩首尔特别市松坡区，为首尔地铁9号线沿线的地铁站。",
-     "章节": {},
-     "全文": "三田站可能是指以下车站：\n\n 三田站 (东京都)，位于日本东京都港区，为都营地下铁浅草线及三田线的交会站。\n 三田站 (兵库县)，位于日本兵库县三田市，为JR西日本福知山线及神户电铁三田线的交会站。\n 三田站 (首尔)，位于南韩首尔特别市松坡区，为首尔地铁9号线沿线的地铁站。",
-     "字数": 138,
-     "来源": "维基百科中文版（已转简体）"
-    },
-    "英文": null
-   },
-   "结构化信息": {
-    "读音": null,
-    "罗马字": null,
-    "开业年份": null,
-    "所属公司": [
-     "同名"
-    ],
-    "分类": [
-     "同名の鉄道駅"
-    ],
-    "章节目录": [
-     "三田駅"
-    ],
-    "相邻车站": null
-   }
-  },
-  {
-   "序号": 4,
-   "名称": {
-    "日文原名": "三田本町",
-    "词条": "三田本町駅",
-    "中文": "三田本町站",
-    "英文": null
-   },
-   "百科": {
-    "日文": {
-     "词条标题": "三田本町駅",
-     "链接": "https://ja.wikipedia.org/wiki/%E4%B8%89%E7%94%B0%E6%9C%AC%E7%94%BA%E9%A7%85",
-     "首段": "三田本町駅（さんだほんまちえき）は、兵庫県三田市相生町にある、神戸電鉄三田線の駅。駅番号はKB28。標高146 m。\n\n線路名称上は三田線単独駅であるが、運転系統上では公園都市線の列車も乗り入れている。このため列車の本数は多い。車内放送での駅名連呼の際は「本町、三田本町」と案内される。\n\n\n\n  - 神戸電鉄",
-     "章节": {
-      "歴史": "1929年（昭和4年）10月10日：神戸有馬電気鉄道三田線の電鉄横山（現・横山） - 三田間に新設開業。\n 1947年（昭和22年）1月9日：三木電気鉄道との合併により、神有三木電気鉄道（現在の神戸電鉄）の駅となる。\n 1991年（平成3年）3月21日：横山三田間複線化（同月24日）に伴い島式ホームとなり、駅舎を改築。",
-      "駅構造": "島式1面2線のホームを持つ地平駅。駅舎は下り線側にあり、ホームへは地下道で連絡している。駅の南側へ直接出ることのできる出口はなく、駅構外の地下道を利用する。\n\n沿線光ネットワークに接続された駅務遠隔システムが導入されており、センター駅から自動券売機、自動改札機、自動精算機、TVカメラ、インターホン、シャッターが遠隔操作される。そのため駅員巡回駅となっており、構内売店も設けられていない。以前は駅近辺の鍵屋で割引乗車券の委託販売を実施していたが、2009年11月時点では既に行われなくなっている。\n\nのりば",
-      "利用状況": "1日あたりの乗車人員 306人（2021年度）\n\n近年の1日平均乗車人員は下表のとおりである。",
-      "駅周辺": "三田市の市街地の外れにあるが、旧市街の中心であった本町には近い。\n住宅が多いが、農地もある。",
-      "神戸電鉄": "三田線（公園都市線直通含む）",
-      "特快速（新開地行のみ運転）・急行・準急・普通": "横山駅 (KB27) - 三田本町駅 (KB28) - 三田駅 (KB29)",
-      "三田市の鉄道駅": "んたほんまち"
-     },
-     "全文": "三田本町駅（さんだほんまちえき）は、兵庫県三田市相生町にある、神戸電鉄三田線の駅。駅番号はKB28。標高146 m。\n\n線路名称上は三田線単独駅であるが、運転系統上では公園都市線の列車も乗り入れている。このため列車の本数は多い。車内放送での駅名連呼の際は「本町、三田本町」と案内される。\n\n歴史 \n 1929年（昭和4年）10月10日：神戸有馬電気鉄道三田線の電鉄横山（現・横山） - 三田間に新設開業。\n 1947年（昭和22年）1月9日：三木電気鉄道との合併により、神有三木電気鉄道（現在の神戸電鉄）の駅となる。\n 1991年（平成3年）3月21日：横山三田間複線化（同月24日）に伴い島式ホームとなり、駅舎を改築。\n\n駅構造 \n\n島式1面2線のホームを持つ地平駅。駅舎は下り線側にあり、ホームへは地下道で連絡している。駅の南側へ直接出ることのできる出口はなく、駅構外の地下道を利用する。\n\n沿線光ネットワークに接続された駅務遠隔システムが導入されており、センター駅から自動券売機、自動改札機、自動精算機、TVカメラ、インターホン、シャッターが遠隔操作される。そのため駅員巡回駅となっており、構内売店も設けられていない。以前は駅近辺の鍵屋で割引乗車券の委託販売を実施していたが、2009年11月時点では既に行われなくなっている。\n\nのりば\n\n利用状況 \n1日あたりの乗車人員 306人（2021年度）\n\n近年の1日平均乗車人員は下表のとおりである。\n\n駅周辺 \n三田市の市街地の外れにあるが、旧市街の中心であった本町には近い。\n住宅が多いが、農地もある。\n 国道176号\n 兵庫県道720号テクノパーク三田線\n 三田本町郵便局\n\n隣の駅 \n 神戸電鉄\n 三田線（公園都市線直通含む）\n 特快速（新開地行のみ運転）・急行・準急・普通\n 横山駅 (KB27) - 三田本町駅 (KB28) - 三田駅 (KB29)\n\n脚注\n\n関連項目 \n\n 日本の鉄道駅一覧\n\n外部リンク \n  - 神戸電鉄\n\n三田市の鉄道駅\nんたほんまち\n神戸電鉄の鉄道駅\n1929年開業の鉄道駅",
-     "字数": 883
-    },
-    "中文": {
-     "词条标题": "三田本町站",
-     "链接": "https://zh.wikipedia.org/wiki/%E4%B8%89%E7%94%B0%E6%9C%AC%E7%94%BA%E7%AB%99",
-     "首段": "三田本町站（）是一个位于日本兵库县三田市相生町，属于神户电铁的铁路车站。车站编号为KB28。海拔146公尺。",
-     "章节": {
-      "车站构造": "岛式月台1面2线的地面车站。站舍位于下行线侧，与月台以地下道联络。",
-      "神户电铁": "三田线（包括直通公园都市线）",
-      "特快速（只限往新开地运行）、急行、准急、普通": "横山（KB27）－三田本町（KB28）－三田（KB29）",
-      "ndahonmachi": "三田线车站 (神户电铁)"
-     },
-     "全文": "三田本町站（）是一个位于日本兵库县三田市相生町，属于神户电铁的铁路车站。车站编号为KB28。海拔146公尺。\n\n车站构造 \n岛式月台1面2线的地面车站。站舍位于下行线侧，与月台以地下道联络。\n\n月台配置\n\n相邻车站 \n 神户电铁\n 三田线（包括直通公园都市线）\n 特快速（只限往新开地运行）、急行、准急、普通\n 横山（KB27）－三田本町（KB28）－三田（KB29）\n\n参考资料\n\n参见 \n\n 日本铁路车站列表\n\n外部连结 \n \n\n兵库县铁路车站\nndahonmachi\n三田线车站 (神户电铁)\n1929年启用的铁路车站\n三田市交通",
-     "字数": 268,
-     "来源": "维基百科中文版（已转简体）"
-    },
-    "英文": null
-   },
-   "结构化信息": {
-    "读音": "さんだほんまちえき",
-    "罗马字": "Sandahonmachi",
-    "开业年份": 1929,
-    "所属公司": [
-     "三田市",
-     "神戸電鉄"
-    ],
-    "分类": [
-     "三田線（公園都市線直通含む）",
-     "日本の鉄道駅一覧",
-     "三田市の鉄道駅",
-     "神戸電鉄の鉄道駅",
-     "1929年開業の鉄道駅"
-    ],
-    "章节目录": [
-     "歴史",
-     "駅構造",
-     "利用状況",
-     "駅周辺",
-     "隣の駅",
-     "んたほんまち"
-    ],
-    "相邻车站": "神戸電鉄\n 三田線（公園都市線直通含む）\n 特快速（新開地行のみ運転）・急行・準急・普通\n 横山駅 (KB27) - 三田本町駅 (KB28) - 三田駅 (KB29)"
-   }
-  },
-  {
-   "序号": 5,
-   "名称": {
-    "日文原名": "南ウッディタウン",
-    "词条": "南ウッディタウン駅",
-    "中文": "南ウッディタウン站",
-    "英文": "Minami-Woody Town Station"
-   },
-   "百科": {
-    "日文": {
-     "词条标题": "南ウッディタウン駅",
-     "链接": "https://ja.wikipedia.org/wiki/%E5%8D%97%E3%82%A6%E3%83%83%E3%83%87%E3%82%A3%E3%82%BF%E3%82%A6%E3%83%B3%E9%A7%85",
-     "首段": "南ウッディタウン駅（みなみウッディタウンえき）は、兵庫県三田市あかしあ台五丁目にある、神戸電鉄公園都市線の駅。駅番号はKB32。標高198 m。\n\n\n\n  - 神戸電鉄",
-     "章节": {
-      "歴史": "1996年（平成8年）3月28日：フラワータウン - ウッディタウン中央間延伸時に開業。",
-      "駅構造": "島式1面2線のホームを持つ駅。ホーム有効長は5両、但し通常は3両編成の運用のみである。緊急時の代替や、ウッディタウンサティ開業など、多客時に4両編成が入線したこともある。\n\n盛土式の2層構造で地上1階にコンコースが、地上2階にホームがある。なおホームの一部は道路上の高架になっている。\n\n沿線光ネットワークに接続された駅務遠隔システムが導入されており、センター駅から自動券売機、自動改札機、自動精算機、TVカメラ、インターホン、シャッターが遠隔操作される。そのため駅員巡回駅となっており、構内売店も存在しない。ほとんどの電車は、この駅ですれ違いを行う。\n\nのりば",
-      "利用状況": "1日あたりの乗車人員 837人（2021年度）\n\n近年の1日平均乗車人員は下表のとおりである。",
-      "駅周辺": "大規模な住宅地である。商店等もある。神戸三田国際公園都市の一角を担う。\n\n駅に売店はないが、周辺にローソンがある。",
-      "エディオン三田ウッディタウン店": "ケーズデンキ三田ウッディタウン店（旧八千代ムセン三田ウッディタウン店）",
-      "三井住友銀行ウッディタウン支店・フラワータウン出張所": "※2019年12月2日より、フラワータウン出張所が移転し共同店舗となる。",
-      "はじかみ池公園": "えるむプラザ前停留所（神戸空港・三宮発着の特急バスが停車する）",
-      "その他": "公園都市線計画時の駅名は北摂中央南駅であった。",
-      "公園都市線": "フラワータウン駅 (KB31) - 南ウッディタウン駅 (KB32) - ウッディタウン中央駅 (KB33)",
-      "三田市の鉄道駅": "なみうつていたうん"
-     },
-     "全文": "南ウッディタウン駅（みなみウッディタウンえき）は、兵庫県三田市あかしあ台五丁目にある、神戸電鉄公園都市線の駅。駅番号はKB32。標高198 m。\n\n歴史 \n 1996年（平成8年）3月28日：フラワータウン - ウッディタウン中央間延伸時に開業。\n\n駅構造  \n島式1面2線のホームを持つ駅。ホーム有効長は5両、但し通常は3両編成の運用のみである。緊急時の代替や、ウッディタウンサティ開業など、多客時に4両編成が入線したこともある。\n\n盛土式の2層構造で地上1階にコンコースが、地上2階にホームがある。なおホームの一部は道路上の高架になっている。\n\n沿線光ネットワークに接続された駅務遠隔システムが導入されており、センター駅から自動券売機、自動改札機、自動精算機、TVカメラ、インターホン、シャッターが遠隔操作される。そのため駅員巡回駅となっており、構内売店も存在しない。ほとんどの電車は、この駅ですれ違いを行う。\n\nのりば\n\n利用状況 \n1日あたりの乗車人員 837人（2021年度）\n\n近年の1日平均乗車人員は下表のとおりである。\n\n駅周辺 \n大規模な住宅地である。商店等もある。神戸三田国際公園都市の一角を担う。\n\n駅に売店はないが、周辺にローソンがある。\n\t\n\n 兵庫県道720号テクノパーク三田線\n エディオン三田ウッディタウン店\n ケーズデンキ三田ウッディタウン店（旧八千代ムセン三田ウッディタウン店）\n コーナン新三田店\n 三井住友銀行ウッディタウン支店・フラワータウン出張所\n ※2019年12月2日より、フラワータウン出張所が移転し共同店舗となる。\n 池田泉州銀行三田ウッディタウン支店\n 三田ウッディタウン郵便局\n 阪急オアシスえるむプラザ店\n マルハチウッディタウン店\n 万代三田店\n はじかみ池公園\n えるむプラザ前停留所（神戸空港・三宮発着の特急バスが停車する）\n\nバス路線\n\nその他 \n 公園都市線計画時の駅名は北摂中央南駅であった。\n\n隣の駅 \n 神戸電鉄\n 公園都市線\n フラワータウン駅 (KB31) - 南ウッディタウン駅 (KB32) - ウッディタウン中央駅 (KB33)\n\n脚注\n\n関連項目 \n\n 日本の鉄道駅一覧\n\n外部リンク \n  - 神戸電鉄\n\n三田市の鉄道駅\nなみうつていたうん\n神戸電鉄の鉄道駅\n1996年開業の鉄道駅",
-     "字数": 985
-    },
-    "中文": {
-     "来源": "LLM全文翻译（据日文维基全文）",
-     "词条标题": "南ウッディタウン站",
-     "首段": "南ウッディタウン站（みなみウッディタウンえき）是位于兵库县三田市阿卡西亚台五丁目的神户电铁公园都市线的车站。车站编号为KB32。标高198米。\n\n\n\n  - 神户电铁",
-     "章节": {
-      "历史": "1996年（平成8年）3月28日：フラワータウン - ウッディタウン中央间延伸时开业。",
-      "车站构造": "拥有岛式1面2线站台的车站。站台有效长度为5辆，但通常仅运用3辆编组。紧急时的替代以及ウッディタウンSathy开业等客流多时，也曾有4辆编组入线。\n\n为填土式的2层构造，地面1层为大厅，地面2层为站台。另外站台的一部分成为道路上方的的高架。\n\n导入了连接沿线光网络的站务远程系统，从中心站远程操作自动售票机、自动检票机、自动补票机、电视摄像机、对讲机、卷帘门。因此为站务员巡回站，也不存在站内小卖店。几乎所有电车都在本站进行交会。\n\n站台",
-      "利用状况": "1日平均乘车人员 837人（2021年度）\n\n近年来的1日平均乘车人员如下表所示。",
-      "车站周边": "为大规摸住宅地。也有商店等。承担神户三田国际公园都市的一角。\n\n车站没有小卖店，但周边有罗森。",
-      "Edion三田ウッディタウン店": "K's电机三田ウッディタウン店（旧八千代无线三田ウッディタウン店）",
-      "三井住友银行ウッディタウン支店·フラワータウン办事处": "※自2019年12月2日起，フラワータウン办事处迁址，成为共同店铺。",
-      "椒池公园": "榎广场前停留所（神户机场·三宫到发的特急巴士停靠）",
-      "其他": "公园都市线计划时的站名为北摄中央南站。",
-      "公园都市线": "フラワータウン站 (KB31) - 南ウッディタウン站 (KB32) - ウッディタウン中央站 (KB33)",
-      "三田市的铁路车站": "なみうつていたうん"
-     },
-     "全文": "南ウッディタウン站（みなみウッディタウンえき）是位于兵库县三田市阿卡西亚台五丁目的神户电铁公园都市线的车站。车站编号为KB32。标高198米。\n\n\n\n  - 神户电铁\n\n历史 \n1996年（平成8年）3月28日：フラワータウン - ウッディタウン中央间延伸时开业。\n\n车站构造 \n拥有岛式1面2线站台的车站。站台有效长度为5辆，但通常仅运用3辆编组。紧急时的替代以及ウッディタウンSathy开业等客流多时，也曾有4辆编组入线。\n\n为填土式的2层构造，地面1层为大厅，地面2层为站台。另外站台的一部分成为道路上方的的高架。\n\n导入了连接沿线光网络的站务远程系统，从中心站远程操作自动售票机、自动检票机、自动补票机、电视摄像机、对讲机、卷帘门。因此为站务员巡回站，也不存在站内小卖店。几乎所有电车都在本站进行交会。\n\n站台\n\n利用状况 \n1日平均乘车人员 837人（2021年度）\n\n近年来的1日平均乘车人员如下表所示。\n\n车站周边 \n为大规摸住宅地。也有商店等。承担神户三田国际公园都市的一角。\n\n车站没有小卖店，但周边有罗森。\n\nEdion三田ウッディタウン店 \nK's电机三田ウッディタウン店（旧八千代无线三田ウッディタウン店）\n\n三井住友银行ウッディタウン支店·フラワータウン办事处 \n※自2019年12月2日起，フラワータウン办事处迁址，成为共同店铺。\n\n椒池公园 \n榎广场前停留所（神户机场·三宫到发的特急巴士停靠）\n\n其他 \n公园都市线计划时的站名为北摄中央南站。\n\n公园都市线 \nフラワータウン站 (KB31) - 南ウッディタウン站 (KB32) - ウッディタウン中央站 (KB33)\n\n三田市的铁路车站 \nなみうつていたうん",
-     "字数": 721
-    },
-    "英文": {
-     "来源": "LLM全文翻译（据日文维基全文）",
-     "词条标题": "Minami-Woody Town Station",
-     "首段": "Minami-Woody Town Station (南ウッディタウン駅, Minami Uddi Taun-eki) is a station on the Kōbe Electric Railway Kōen-Toshi Line in Akashia-dai 5-chōme, Sanda, Hyōgo Prefecture, Japan. The station number is KB32. The elevation is 198 m.\n\n\n\n  - Kōbe Electric Railway",
-     "章节": {
-      "History": "March 28, 1996 (Heisei 8): Opened when the Flower Town–Woody Town Chūō section was extended.",
-      "Station layout": "A station with an island platform, one face and two tracks. The effective platform length is 5 cars, but normally only 3-car formations are used. There have been cases where 4-car formations entered for emergency substitution or during busy periods such as the opening of Woody Town Sathy.\n\nIt has an embankment-type two-level structure, with the concourse on the first floor above ground and the platforms on the second floor above ground. Part of the platform is elevated over a road.\n\nA remote station-operation system connected to an along-the-line optical network has been introduced; automatic ticket machines, automatic ticket gates, automatic fare adjustment machines, TV cameras, intercoms, and shutters are remotely operated from a center station. Therefore, it is a station patrolled by station staff, and there is no shop within the station. Most trains pass each other at this station.\n\nPlatforms",
-      "Usage": "Daily ridership 837 (fiscal 2021)\n\nRecent average daily ridership is as shown in the table below.",
-      "Surroundings": "A large-scale residential area. There are also shops and the like. It forms part of the Kōbe-Sanda International Park City.\n\nThere is no shop at the station, but there is a Lawson nearby.",
-      "Edion Sanda Woody Town Store": "K's Denki Sanda Woody Town Store (former Yachiyo Musen Sanda Woody Town Store)",
-      "Sumitomo Mitsui Banking Corporation Woody Town Branch / Flower Town Sub-branch": "※ From December 2, 2019, the Flower Town Sub-branch relocated and became a joint store.",
-      "Hajikami-ike Park": "Erumu Plaza-mae Stop (limited express buses to and from Kōbe Airport and Sannomiya stop here)",
-      "Other": "The station name at the time of the Kōen-Toshi Line plan was Hokusetsu-Chūō-Minami Station.",
-      "Kōen-Toshi Line": "Flower Town Station (KB31) - Minami-Woody Town Station (KB32) - Woody Town Chūō Station (KB33)",
-      "Railway stations in Sanda": "なみうつていたうん"
-     },
-     "全文": "Minami-Woody Town Station (南ウッディタウン駅, Minami Uddi Taun-eki) is a station on the Kōbe Electric Railway Kōen-Toshi Line in Akashia-dai 5-chōme, Sanda, Hyōgo Prefecture, Japan. The station number is KB32. The elevation is 198 m.\n\n\n\n  - Kōbe Electric Railway\n\nHistory \nMarch 28, 1996 (Heisei 8): Opened when the Flower Town–Woody Town Chūō section was extended.\n\nStation layout \nA station with an island platform, one face and two tracks. The effective platform length is 5 cars, but normally only 3-car formations are used. There have been cases where 4-car formations entered for emergency substitution or during busy periods such as the opening of Woody Town Sathy.\n\nIt has an embankment-type two-level structure, with the concourse on the first floor above ground and the platforms on the second floor above ground. Part of the platform is elevated over a road.\n\nA remote station-operation system connected to an along-the-line optical network has been introduced; automatic ticket machines, automatic ticket gates, automatic fare adjustment machines, TV cameras, intercoms, and shutters are remotely operated from a center station. Therefore, it is a station patrolled by station staff, and there is no shop within the station. Most trains pass each other at this station.\n\nPlatforms\n\nUsage \nDaily ridership 837 (fiscal 2021)\n\nRecent average daily ridership is as shown in the table below.\n\nSurroundings \nA large-scale residential area. There are also shops and the like. It forms part of the Kōbe-Sanda International Park City.\n\nThere is no shop at the station, but there is a Lawson nearby.\n\nEdion Sanda Woody Town Store \nK's Denki Sanda Woody Town Store (former Yachiyo Musen Sanda Woody Town Store)\n\nSumitomo Mitsui Banking Corporation Woody Town Branch / Flower Town Sub-branch \n※ From December 2, 2019, the Flower Town Sub-branch relocated and became a joint store.\n\nHajikami-ike Park \nErumu Plaza-mae Stop (limited express buses to and from Kōbe Airport and Sannomiya stop here)\n\nOther \nThe station name at the time of the Kōen-Toshi Line plan was Hokusetsu-Chūō-Minami Station.\n\nKōen-Toshi Line \nFlower Town Station (KB31) - Minami-Woody Town Station (KB32) - Woody Town Chūō Station (KB33)\n\nRailway stations in Sanda \nなみうつていたうん",
-     "字数": 2237
-    }
-   },
-   "结构化信息": {
-    "读音": "みなみウッディタウンえき",
-    "罗马字": "Minami",
-    "开业年份": 1996,
-    "所属公司": [
-     "三田市",
-     "神戸電鉄"
-    ],
-    "分类": [
-     "公園都市線計画時の駅名は北摂中央南駅であった。",
-     "公園都市線",
-     "日本の鉄道駅一覧",
-     "三田市の鉄道駅",
-     "神戸電鉄の鉄道駅",
-     "1996年開業の鉄道駅"
-    ],
-    "章节目录": [
-     "歴史",
-     "駅構造",
-     "利用状況",
-     "駅周辺",
-     "バス路線",
-     "その他",
-     "隣の駅",
-     "なみうつていたうん"
-    ],
-    "相邻车站": "神戸電鉄\n 公園都市線\n フラワータウン駅 (KB31) - 南ウッディタウン駅 (KB32) - ウッディタウン中央駅 (KB33)"
-   }
-  },
-  {
-   "序号": 6,
-   "名称": {
-    "日文原名": "横山",
-    "词条": "横山駅",
-    "中文": "橫山站",
-    "英文": null
-   },
-   "百科": {
-    "日文": {
-     "词条标题": "横山駅",
-     "链接": "https://ja.wikipedia.org/wiki/%E6%A8%AA%E5%B1%B1%E9%A7%85",
-     "首段": "横山駅（よこやまえき、おうざんえき、こうざんえき）\n\n横山駅 (石川県) - 石川県かほく市にあるJR西日本七尾線の駅\n横山駅 (兵庫県) - 兵庫県三田市にある神戸電鉄三田線・神戸電鉄公園都市線の駅\n愛知県瀬戸市にある名鉄瀬戸線新瀬戸駅の旧称。「尾張横山駅」とも称していた。\n陸前横山駅 - 宮城県登米市にあるJR東日本気仙沼線の駅\n武蔵横山駅 - 東京都八王子市にあった京王御陵線の駅。開業当初、横山駅と名乗っていた。\n相模横山駅 - 神奈川県相模原市にあるJR東日本相模線上溝駅の旧称\n志摩横山駅 - 三重県志摩市にある近鉄志摩線の駅\n馬喰横山駅 - 東京都中央区にある都営地下鉄新宿線の駅。\n横山駅 (新竹県) - 台湾新竹県横山郷にある台湾鉄路管理局内湾線の駅\n横山駅 (桃園市) - 台湾桃園市大園区にある桃園捷運藍線の駅\n - 中華人民共和国江蘇省蘇州市虎丘区にある蘇州軌道交通3号線の駅。\n - 中華人民共和国広西チワン自治区林桂県にある湘桂線の駅。",
-     "章节": {},
-     "全文": "横山駅（よこやまえき、おうざんえき、こうざんえき）\n\n横山駅 (石川県) - 石川県かほく市にあるJR西日本七尾線の駅\n横山駅 (兵庫県) - 兵庫県三田市にある神戸電鉄三田線・神戸電鉄公園都市線の駅\n愛知県瀬戸市にある名鉄瀬戸線新瀬戸駅の旧称。「尾張横山駅」とも称していた。\n陸前横山駅 - 宮城県登米市にあるJR東日本気仙沼線の駅\n武蔵横山駅 - 東京都八王子市にあった京王御陵線の駅。開業当初、横山駅と名乗っていた。\n相模横山駅 - 神奈川県相模原市にあるJR東日本相模線上溝駅の旧称\n志摩横山駅 - 三重県志摩市にある近鉄志摩線の駅\n馬喰横山駅 - 東京都中央区にある都営地下鉄新宿線の駅。\n横山駅 (新竹県) - 台湾新竹県横山郷にある台湾鉄路管理局内湾線の駅\n横山駅 (桃園市) - 台湾桃園市大園区にある桃園捷運藍線の駅\n - 中華人民共和国江蘇省蘇州市虎丘区にある蘇州軌道交通3号線の駅。\n - 中華人民共和国広西チワン自治区林桂県にある湘桂線の駅。\n\n同名の鉄道駅",
-     "字数": 441
-    },
-    "中文": {
-     "词条标题": "横山站",
-     "链接": "https://zh.wikipedia.org/wiki/%E6%A9%AB%E5%B1%B1%E7%AB%99",
-     "首段": "横山站或横山车站可以指以下铁路车站：",
-     "章节": {
-      "台湾": "横山车站 (新竹县)，位于台湾新竹县横山乡，为台湾铁路管理局内湾线的铁路车站。\n横山站 (桃园市)，位于台湾桃园市大园区横山社区自强桥附近，为桃园捷运机场线及绿线的捷运车站。",
-      "中国": "横山站 (广西壮族自治区)，位于广西壮族自治区林桂县四塘乡，为中国铁路湘桂铁路的铁路车站。\n横山站 (江苏省)，位于江苏省镇江市丹徒区，为中国铁路连淮扬镇铁路的技术站、线路所。\n横山站 (苏州)，位于江苏省苏州市，为苏州轨道交通3号线的车站。",
-      "现存车站": "横山站 (石川县)，西日本旅客铁道（JR西日本）七尾线的车站，位于石川县河北市。\n横山站 (兵库县)，神户电铁三田线、公园都市线的车站，位于兵库县三田市。\n陆前横山站，东日本旅客铁道（JR东日本）气仙沼线的车站，位于宫城县登米市。\n相模横山站，现称上沟站，东日本旅客铁道（JR东日本）相模线的车站，位于神奈川县相模原市。\n志摩横山站，近畿日本铁道（近铁）志摩线的车站，位于三重县志摩市。\n马喰横山站，都营地下铁浅草线的车站，位于东京都日本桥横山町。",
-      "已废除车站": "武藏横山站，已废除的京王电铁御陵线的车站，位于东京都八王子市。开业初期只称「横山站」，其后才改用现称。"
-     },
-     "全文": "横山站或横山车站可以指以下铁路车站：\n台湾\n横山车站 (新竹县)，位于台湾新竹县横山乡，为台湾铁路管理局内湾线的铁路车站。\n横山站 (桃园市)，位于台湾桃园市大园区横山社区自强桥附近，为桃园捷运机场线及绿线的捷运车站。\n中国\n横山站 (广西壮族自治区)，位于广西壮族自治区林桂县四塘乡，为中国铁路湘桂铁路的铁路车站。\n横山站 (江苏省)，位于江苏省镇江市丹徒区，为中国铁路连淮扬镇铁路的技术站、线路所。\n横山站 (苏州)，位于江苏省苏州市，为苏州轨道交通3号线的车站。\n日本\n现存车站\n横山站 (石川县)，西日本旅客铁道（JR西日本）七尾线的车站，位于石川县河北市。\n横山站 (兵库县)，神户电铁三田线、公园都市线的车站，位于兵库县三田市。\n陆前横山站，东日本旅客铁道（JR东日本）气仙沼线的车站，位于宫城县登米市。\n相模横山站，现称上沟站，东日本旅客铁道（JR东日本）相模线的车站，位于神奈川县相模原市。\n志摩横山站，近畿日本铁道（近铁）志摩线的车站，位于三重县志摩市。\n马喰横山站，都营地下铁浅草线的车站，位于东京都日本桥横山町。\n已废除车站\n武藏横山站，已废除的京王电铁御陵线的车站，位于东京都八王子市。开业初期只称「横山站」，其后才改用现称。",
-     "字数": 525,
-     "来源": "维基百科中文版（已转简体）"
-    },
-    "英文": null
-   },
-   "结构化信息": {
-    "读音": null,
-    "罗马字": null,
-    "开业年份": null,
-    "所属公司": [
-     "同名"
-    ],
-    "分类": [
-     "陸前横山駅 - 宮城県登米市にあるJR東日本気仙沼線の駅",
-     "志摩横山駅 - 三重県志摩市にある近鉄志摩線の駅",
-     "馬喰横山駅 - 東京都中央区にある都営地下鉄新宿線の駅。",
-     "- 中華人民共和国広西チワン自治区林桂県にある湘桂線の駅。",
-     "同名の鉄道駅"
-    ],
-    "章节目录": [],
-    "相邻车站": null
-   }
-  }
- ],
- "统计": {
-  "车站总数": 6,
-  "有日文词条": 6,
-  "有中文词条": 6,
-  "已千问汉化": 3,
-  "待汉化": 0,
-  "有英文词条": 3
- }
 }
