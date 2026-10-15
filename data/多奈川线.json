@@ -192,16 +192,11 @@
         },
         "英文": {
           "词条标题": "Tanagawa Station",
-          "链接": "https://en.wikipedia.org/wiki/Tanagawa%20Station",
-          "首段": "is a passenger railway station located in the town of Misaki, Sennan District, Osaka Prefecture, Japan, operated by the private railway operator Nankai Electric Railway. It has the station number \"NK41-3\".",
-          "章节": {
-            "Lines": "Tanagawa Station is the terminus of the Tanagawa Line, and is 2.6 kilometers from the opposing terminus of the line at .",
-            "Layout": "The station consists of a single dead-headed island platform, of which only one side is in use.\n\nAdjacent stations",
-            "History": "Tanagawa Station opened on June 1, 1944.\n\nPassenger statistics\nIn fiscal 2019, the station was used by an average of 602 passengers daily.\n\nSurrounding area\n Misaki Municipal Cultural Center.\n\nSee also\n List of railway stations in Japan",
-            "References": "External links\n\n  \n\nRailway stations in Japan opened in 1944\nRailway stations in Osaka Prefecture\nMisaki, Osaka"
-          },
-          "全文": "is a passenger railway station located in the town of Misaki, Sennan District, Osaka Prefecture, Japan, operated by the private railway operator Nankai Electric Railway. It has the station number \"NK41-3\".\n\nLines\nTanagawa Station is the terminus of the Tanagawa Line, and is 2.6 kilometers from the opposing terminus of the line at .\n\nLayout\nThe station consists of a single dead-headed island platform, of which only one side is in use.\n\nAdjacent stations\n\nHistory\nTanagawa Station opened on June 1, 1944.\n\nPassenger statistics\nIn fiscal 2019, the station was used by an average of 602 passengers daily.\n\nSurrounding area\n Misaki Municipal Cultural Center.\n\nSee also\n List of railway stations in Japan\n\nReferences\n\nExternal links\n\n  \n\nRailway stations in Japan opened in 1944\nRailway stations in Osaka Prefecture\nMisaki, Osaka",
-          "字数": 827
+          "链接": "https://en.wikipedia.org/wiki/Tanagawa_Station",
+          "首段": "Tanagawa Station (多奈川駅, Tanagawa-eki) is the terminus of the Nankai Tanagawa Line in Misaki, Sen'nan District, Osaka Prefecture, Japan. Station number NK41-3.",
+          "章节": {},
+          "全文": "Tanagawa Station (多奈川駅, Tanagawa-eki) is the terminus of the Nankai Tanagawa Line in Misaki, Sen'nan District, Osaka Prefecture, Japan. Station number NK41-3.",
+          "字数": 158
         }
       },
       "结构化信息": {
@@ -277,16 +272,11 @@
         },
         "英文": {
           "词条标题": "Fukekō Station",
-          "链接": "https://en.wikipedia.org/wiki/Fukek%C5%8D%20Station",
-          "首段": "is a passenger railway station located in the town of Misaki, Sennan District, Osaka Prefecture, Japan, operated by the private railway operator Nankai Electric Railway. It has the station number \"NK41-2\".",
-          "章节": {
-            "Lines": "Fukekō Station is served by the Tanagawa Line, and is 2.1 kilometers from the terminus of the line at .",
-            "Layout": "The station consists of one side platform serving a single bi-directional track. The station is unattended.\n\nAdjacent stations",
-            "History": "Fukekō Station opened on November 3, 1948.\n\nPassenger statistics\nIn fiscal 2019, the station was used by an average of 698 passengers daily.\n\nSurrounding area\n Misaki Town Office\n\nSee also\n List of railway stations in Japan",
-            "References": "External links\n\n  \n\nRailway stations in Japan opened in 1948\nRailway stations in Osaka Prefecture\nMisaki, Osaka"
-          },
-          "全文": "is a passenger railway station located in the town of Misaki, Sennan District, Osaka Prefecture, Japan, operated by the private railway operator Nankai Electric Railway. It has the station number \"NK41-2\".\n\nLines\nFukekō Station is served by the Tanagawa Line, and is 2.1 kilometers from the terminus of the line at .\n\nLayout\nThe station consists of one side platform serving a single bi-directional track. The station is unattended.\n\nAdjacent stations\n\nHistory\nFukekō Station opened on November 3, 1948.\n\nPassenger statistics\nIn fiscal 2019, the station was used by an average of 698 passengers daily.\n\nSurrounding area\n Misaki Town Office\n\nSee also\n List of railway stations in Japan\n\nReferences\n\nExternal links\n\n  \n\nRailway stations in Japan opened in 1948\nRailway stations in Osaka Prefecture\nMisaki, Osaka",
-          "字数": 809
+          "链接": "https://en.wikipedia.org/wiki/Fukek%C5%8D_Station",
+          "首段": "Fukekō Station (深日港駅, Fukekō-eki) is a station on the Nankai Tanagawa Line in Misaki, Sen'nan District, Osaka Prefecture, Japan. Station number NK41-2.",
+          "章节": {},
+          "全文": "Fukekō Station (深日港駅, Fukekō-eki) is a station on the Nankai Tanagawa Line in Misaki, Sen'nan District, Osaka Prefecture, Japan. Station number NK41-2.",
+          "字数": 151
         }
       },
       "结构化信息": {
@@ -357,7 +347,14 @@
           "字数": 576,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Fukechō Station",
+          "链接": "https://en.wikipedia.org/wiki/Fukech%C5%8D_Station",
+          "首段": "Fukechō Station (深日町駅, Fukechō-eki) is a station on the Nankai Tanagawa Line in Misaki, Sen'nan District, Osaka Prefecture, Japan. Station number NK41-1.",
+          "章节": {},
+          "全文": "Fukechō Station (深日町駅, Fukechō-eki) is a station on the Nankai Tanagawa Line in Misaki, Sen'nan District, Osaka Prefecture, Japan. Station number NK41-1.",
+          "字数": 153
+        }
       },
       "结构化信息": {
         "读音": "ふけちょうえき",
@@ -393,6 +390,6 @@
     "有中文词条": 4,
     "已千问汉化": 0,
     "待汉化": 0,
-    "有英文词条": 3
+    "有英文词条": 4
   }
 }
