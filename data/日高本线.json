@@ -82,10 +82,10 @@
       "英文": {
         "词条标题": "日高本线",
         "链接": "https://ja.wikipedia.org/wiki/%E6%97%A5%E9%AB%98%E6%9C%AC%E7%B7%9A",
-        "首段": "The 日高本线 is a railway line in Japan.",
+        "首段": "The Hidaka Main Line (日高本線) is a regional railway line in Hokkaido, Japan, operated by Hokkaido Railway Company (JR Hokkaido), connecting Tomakomai Station in Tomakomai with Yūkawa Station in Mukawa, Yūfutsu District.",
         "章节": {},
-        "全文": "The 日高本线 is a railway line in Japan.",
-        "字数": 36
+        "全文": "The Hidaka Main Line (日高本線) is a regional railway line in Hokkaido, Japan, operated by Hokkaido Railway Company (JR Hokkaido), connecting Tomakomai Station in Tomakomai with Yūkawa Station in Mukawa, Yūfutsu District.",
+        "字数": 217
       }
     }
   },
@@ -138,9 +138,19 @@
           "词条标题": "Yūfutsu Station",
           "链接": "https://ja.wikipedia.org/wiki/%E5%8B%87%E6%89%95%E9%A7%85",
           "首段": "Yūfutsu Station (勇払駅) is a railway station in 道（胆振総合振興局）苫小牧市字勇払, Japan.",
-          "章节": {},
-          "全文": "Yūfutsu Station (勇払駅) is a railway station in 道（胆振総合振興局）苫小牧市字勇払, Japan.",
-          "字数": 71
+          "章节": {
+            "History": "The station was once fairly large, with a siding serving a nearby paper mill; it was also a stop on the express 'Erimo' until October 1986.",
+            "Chronology": "Oct 1, 1913: opened as Yūfutsu Station on the Tomakomai Light Railway. Aug 1, 1927: the line was nationalized and renamed the Hidaka Line. 1929: the station building was rebuilt during gauge conversion. Oct 25, 1941: a siding for the Nippon Seishi paper mill came into use. Nov 1, 1943: the line was renamed the Hidaka Main Line.",
+            "Origin of name": "The name derives from the local place name; several etymologies have been proposed.",
+            "Station layout": "An at-grade station with a single side platform serving one track. It was formerly an interchange station with an island platform and two tracks; the unused track on the station-building side was removed after the passing loop was abolished.",
+            "Usage": "A lightly used local station; passenger numbers have declined over the years.",
+            "Surrounding area": "The station sits where the line emerges through an industrial zone toward the coast.",
+            "Hamanasu nursery": "The municipal Hamanasu nursery and the nearby Yūbutsu Historical Museum, which exhibits materials on the Yūfutsu district, are in the vicinity.",
+            "Adjacent stations": "Hokkaido Railway Company (JR Hokkaido).",
+            "Hidaka Main Line": "Tomakomai Station (H18) – (freight) Tomakomai Freight Station – Yūfutsu Station – Hama-Atsuma Station."
+          },
+          "全文": "Yūfutsu Station (勇払駅) is a railway station in 道（胆振総合振興局）苫小牧市字勇払, Japan.\n\nHistory\nThe station was once fairly large, with a siding serving a nearby paper mill; it was also a stop on the express 'Erimo' until October 1986.\n\nChronology\nOct 1, 1913: opened as Yūfutsu Station on the Tomakomai Light Railway. Aug 1, 1927: the line was nationalized and renamed the Hidaka Line. 1929: the station building was rebuilt during gauge conversion. Oct 25, 1941: a siding for the Nippon Seishi paper mill came into use. Nov 1, 1943: the line was renamed the Hidaka Main Line.\n\nOrigin of name\nThe name derives from the local place name; several etymologies have been proposed.\n\nStation layout\nAn at-grade station with a single side platform serving one track. It was formerly an interchange station with an island platform and two tracks; the unused track on the station-building side was removed after the passing loop was abolished.\n\nUsage\nA lightly used local station; passenger numbers have declined over the years.\n\nSurrounding area\nThe station sits where the line emerges through an industrial zone toward the coast.\n\nHamanasu nursery\nThe municipal Hamanasu nursery and the nearby Yūbutsu Historical Museum, which exhibits materials on the Yūfutsu district, are in the vicinity.\n\nAdjacent stations\nHokkaido Railway Company (JR Hokkaido).\n\nHidaka Main Line\nTomakomai Station (H18) – (freight) Tomakomai Freight Station – Yūfutsu Station – Hama-Atsuma Station.",
+          "字数": 1450
         }
       },
       "结构化信息": {
@@ -226,9 +236,20 @@
           "词条标题": "浜厚真駅",
           "链接": "https://ja.wikipedia.org/wiki/%E6%B5%9C%E5%8E%9A%E7%9C%9F%E9%A7%85",
           "首段": "浜厚真駅 (浜厚真駅) is a railway station in 道（胆振総合振興局）勇払郡厚真町字浜厚真, Japan.",
-          "章节": {},
-          "全文": "浜厚真駅 (浜厚真駅) is a railway station in 道（胆振総合振興局）勇払郡厚真町字浜厚真, Japan.",
-          "字数": 64
+          "章节": {
+            "History": "Oct 1, 1913: opened as Azuma Station on the Tomakomai Light Railway. Nov 15, 1925: renamed Hama-Azuma. Aug 1, 1927: nationalized and transferred to the Hidaka Line, with the reading changed to Hama-Atsuma. Nov 1, 1943: the line was renamed the Hidaka Main Line.",
+            "Origin of name": "The prefix 'Hama' (coast) was added because the station lies nearer the coast than Atsuma.",
+            "Station layout": "An at-grade station with a single side platform serving one track and no switches. It was formerly an interchange station with two opposed side platforms.",
+            "Usage": "A lightly used local station.",
+            "Surrounding area": "The eastern Tomakomai industrial zone spreads around; the area is quiet after National Route 235 was realigned away from the station.",
+            "Tomakomai Port East": "The Shin-Nihonkai Ferry terminal at Tomakomai East Port is about 1.6 km from the station.",
+            "Atsuma River": "The 'Hama-Atsuma' bus stop served by Donan Bus and Atsuma Bus is located along National Route 235.",
+            "Adjacent stations": "Hokkaido Railway Company (JR Hokkaido).",
+            "Hidaka Main Line": "Yūfutsu Station – Hama-Atsuma Station – (closed) Hama-Taura Station – Mukawa Station.",
+            "Railway stations in Atsuma": "Hama-Atsuma Station is one of the railway stations located in Atsuma, Yūfutsu District, Hokkaido."
+          },
+          "全文": "浜厚真駅 (浜厚真駅) is a railway station in 道（胆振総合振興局）勇払郡厚真町字浜厚真, Japan.\n\nHistory\nOct 1, 1913: opened as Azuma Station on the Tomakomai Light Railway. Nov 15, 1925: renamed Hama-Azuma. Aug 1, 1927: nationalized and transferred to the Hidaka Line, with the reading changed to Hama-Atsuma. Nov 1, 1943: the line was renamed the Hidaka Main Line.\n\nOrigin of name\nThe prefix 'Hama' (coast) was added because the station lies nearer the coast than Atsuma.\n\nStation layout\nAn at-grade station with a single side platform serving one track and no switches. It was formerly an interchange station with two opposed side platforms.\n\nUsage\nA lightly used local station.\n\nSurrounding area\nThe eastern Tomakomai industrial zone spreads around; the area is quiet after National Route 235 was realigned away from the station.\n\nTomakomai Port East\nThe Shin-Nihonkai Ferry terminal at Tomakomai East Port is about 1.6 km from the station.\n\nAtsuma River\nThe 'Hama-Atsuma' bus stop served by Donan Bus and Atsuma Bus is located along National Route 235.\n\nAdjacent stations\nHokkaido Railway Company (JR Hokkaido).\n\nHidaka Main Line\nYūfutsu Station – Hama-Atsuma Station – (closed) Hama-Taura Station – Mukawa Station.\n\nRailway stations in Atsuma\nHama-Atsuma Station is one of the railway stations located in Atsuma, Yūfutsu District, Hokkaido.",
+          "字数": 1315
         }
       },
       "结构化信息": {
@@ -314,9 +335,24 @@
           "词条标题": "Tomakomai Station",
           "链接": "https://ja.wikipedia.org/wiki/%E8%8B%AB%E5%B0%8F%E7%89%A7%E9%A7%85",
           "首段": "Tomakomai Station (苫小牧駅) is a railway station in 道苫小牧市表町6丁目, Japan.",
-          "章节": {},
-          "全文": "Tomakomai Station (苫小牧駅) is a railway station in 道苫小牧市表町6丁目, Japan.",
-          "字数": 67
+          "章节": {
+            "Overview": "The representative station of Tomakomai. It is on the Muroran Main Line and, as the starting point, the Hidaka Main Line; in practice Chitose Line trains also run through to it, making it a three-line junction.",
+            "History": "Aug 1, 1892: opened on the Hokkaido Colliery and Railway. Oct 1, 1906: nationalized under the Railway Nationalization Act. Oct 12, 1909: assigned to the Muroran Main Line.",
+            "1962 realignment": "On Dec 1, 1962, the Hidaka Main Line between this station and Hama-Atsuma was realigned to allow construction of Tomakomai West Port, a change of +9.4 km, and Yūfutsu Station was moved to the north.",
+            "Station layout": "An elevated station with two island platforms serving four tracks and a footbridge station building. It is staffed throughout the day, with a Midori no Madoguchi ticket office and automatic ticket gates.",
+            "Other": "A freight station, Shin-Tomakomai, formerly stood to the south; it was suspended in 1998 and closed in 2001.",
+            "Usage": "A major junction station handling moderate passenger traffic.",
+            "Ekiben": "The principal station bento are listed below.",
+            "Hokkaido Shiosai bento": "A local seafood ekiben featuring hokki (surf clam) meshi.",
+            "Salmon sushi": "Ezo-zushi salmon sushi is a famous ekiben sold at the station.",
+            "Surrounding area": "The station is in the city center; Tomakomai City Hall and the Oji Paper Tomakomai factory are nearby.",
+            "Bus routes": "Donan Bus, Hokkaido Chuo Bus (highway services to Sapporo and the ferry terminal), and Atsuma Bus serve the station.",
+            "Adjacent stations": "Hokkaido Railway Company (JR Hokkaido).",
+            "Muroran Main Line": "Aoba Station (H19) – Tomakomai Station (H18) – (freight) Tomakomai Freight Station – Numanohata Station (H17).",
+            "Hidaka Main Line": "Tomakomai Station (H18) – (freight) Tomakomai Freight Station – Yūfutsu Station."
+          },
+          "全文": "Tomakomai Station (苫小牧駅) is a railway station in 道苫小牧市表町6丁目, Japan.\n\nOverview\nThe representative station of Tomakomai. It is on the Muroran Main Line and, as the starting point, the Hidaka Main Line; in practice Chitose Line trains also run through to it, making it a three-line junction.\n\nHistory\nAug 1, 1892: opened on the Hokkaido Colliery and Railway. Oct 1, 1906: nationalized under the Railway Nationalization Act. Oct 12, 1909: assigned to the Muroran Main Line.\n\n1962 realignment\nOn Dec 1, 1962, the Hidaka Main Line between this station and Hama-Atsuma was realigned to allow construction of Tomakomai West Port, a change of +9.4 km, and Yūfutsu Station was moved to the north.\n\nStation layout\nAn elevated station with two island platforms serving four tracks and a footbridge station building. It is staffed throughout the day, with a Midori no Madoguchi ticket office and automatic ticket gates.\n\nOther\nA freight station, Shin-Tomakomai, formerly stood to the south; it was suspended in 1998 and closed in 2001.\n\nUsage\nA major junction station handling moderate passenger traffic.\n\nEkiben\nThe principal station bento are listed below.\n\nHokkaido Shiosai bento\nA local seafood ekiben featuring hokki (surf clam) meshi.\n\nSalmon sushi\nEzo-zushi salmon sushi is a famous ekiben sold at the station.\n\nSurrounding area\nThe station is in the city center; Tomakomai City Hall and the Oji Paper Tomakomai factory are nearby.\n\nBus routes\nDonan Bus, Hokkaido Chuo Bus (highway services to Sapporo and the ferry terminal), and Atsuma Bus serve the station.\n\nAdjacent stations\nHokkaido Railway Company (JR Hokkaido).\n\nMuroran Main Line\nAoba Station (H19) – Tomakomai Station (H18) – (freight) Tomakomai Freight Station – Numanohata Station (H17).\n\nHidaka Main Line\nTomakomai Station (H18) – (freight) Tomakomai Freight Station – Yūfutsu Station.",
+          "字数": 1842
         }
       },
       "结构化信息": {
@@ -419,10 +455,31 @@
         "英文": {
           "词条标题": "Mukawa Station",
           "链接": "https://ja.wikipedia.org/wiki/%E9%B5%A1%E5%B7%9D%E9%A7%85",
-          "首段": "Mukawa Station (鵡川駅) is a railway station in 道（胆振総合振興局）勇払郡むかわ町末広, Japan.",
-          "章节": {},
-          "全文": "Mukawa Station (鵡川駅) is a railway station in 道（胆振総合振興局）勇払郡むかわ町末広, Japan.",
-          "字数": 72
+          "首段": "Mukawa Station (鵡川駅) is a railway station in Suehiro, Mukawa, Yufutsu District, Hokkaido, Japan.",
+          "章节": {
+            "History": "Formerly the junction for the Fūhoku Line and a stop on the express 'Erimo' until October 1986; it remained a key station on the Hidaka Main Line until the section to Samani closed on April 1, 2021.",
+            "Chronology": "Oct 1, 1913: opened as an intermediate station on the Tomakomai Light Railway. Aug 1, 1927: nationalized and transferred to the Hidaka Line, with the Mukawa freight station closed at the same time.",
+            "Origin of name": "Named after Mukawa Village, the locality at the time of opening.",
+            "Station layout": "An at-grade station with a single side platform serving one track, plus one siding; the platform is reached by a level crossing.",
+            "Usage": "A lightly used station; passenger figures are affected by the bus-replacement period after the line closed southward.",
+            "Former ekiben": "Bentō featuring local shishamo smelt, prepared by the Tomakage shop in front of the station, were famous but have been discontinued.",
+            "Shishamo sushi": "Shishamo sushi was a local specialty ekiben sold at the station.",
+            "Tomakomai Shinkin Bank": "The Tomakomai Shinkin Bank Mukawa branch and the JA Mukawa agricultural cooperative are nearby.",
+            "Mukawa Atsu Hospital": "The Mukawa Town Kōsei Hospital and the Imedo Jizō temple are nearby; former JR Hokkaido company housing once stood in front of the station.",
+            "Bus routes": "Following the April 2021 closure south of this station, Donan Bus took over replacement services; most buses run to and from Tomakomai Station.",
+            "Donan Bus": "Services run toward Tomakomai, and onward to Fūkawa, Niikappu and Shizunai.",
+            "Fukikawa/Horobetsu": "Local bus services toward Fukikawa and Biratori.",
+            "Hospital/Horobetsu": "Services running via the hospital to the Horobetsu branch office.",
+            "Adjacent stations": "Hokkaido Railway Company (JR Hokkaido).",
+            "Hidaka Main Line": "Hama-Atsuma Station – (closed) Hama-Taura Station – Mukawa Station.",
+            "Former lines": "Hidaka Main Line closed section: Mukawa Station – Shiomi Station.",
+            "Fūhoku Line": "Mukawa Station – Toyoshiro Station (closed).",
+            "Hidaka Line depot": "Mukawa Station is noted as the terminus in Naoki Tanemura's book about the longest single train ticket route.",
+            "Railway stations in Mukawa": "Mukawa Station is one of the railway stations located in Mukawa, Hokkaido.",
+            "JNR stations": "Mukawa Station is listed among the former railway stations of Japanese National Railways."
+          },
+          "全文": "Mukawa Station (鵡川駅) is a railway station in Suehiro, Mukawa, Yufutsu District, Hokkaido, Japan.\n\nHistory\nFormerly the junction for the Fūhoku Line and a stop on the express 'Erimo' until October 1986; it remained a key station on the Hidaka Main Line until the section to Samani closed on April 1, 2021.\n\nChronology\nOct 1, 1913: opened as an intermediate station on the Tomakomai Light Railway. Aug 1, 1927: nationalized and transferred to the Hidaka Line, with the Mukawa freight station closed at the same time.\n\nOrigin of name\nNamed after Mukawa Village, the locality at the time of opening.\n\nStation layout\nAn at-grade station with a single side platform serving one track, plus one siding; the platform is reached by a level crossing.\n\nUsage\nA lightly used station; passenger figures are affected by the bus-replacement period after the line closed southward.\n\nFormer ekiben\nBentō featuring local shishamo smelt, prepared by the Tomakage shop in front of the station, were famous but have been discontinued.\n\nShishamo sushi\nShishamo sushi was a local specialty ekiben sold at the station.\n\nTomakomai Shinkin Bank\nThe Tomakomai Shinkin Bank Mukawa branch and the JA Mukawa agricultural cooperative are nearby.\n\nMukawa Atsu Hospital\nThe Mukawa Town Kōsei Hospital and the Imedo Jizō temple are nearby; former JR Hokkaido company housing once stood in front of the station.\n\nBus routes\nFollowing the April 2021 closure south of this station, Donan Bus took over replacement services; most buses run to and from Tomakomai Station.\n\nDonan Bus\nServices run toward Tomakomai, and onward to Fūkawa, Niikappu and Shizunai.\n\nFukikawa/Horobetsu\nLocal bus services toward Fukikawa and Biratori.\n\nHospital/Horobetsu\nServices running via the hospital to the Horobetsu branch office.\n\nAdjacent stations\nHokkaido Railway Company (JR Hokkaido).\n\nHidaka Main Line\nHama-Atsuma Station – (closed) Hama-Taura Station – Mukawa Station.\n\nFormer lines\nHidaka Main Line closed section: Mukawa Station – Shiomi Station.\n\nFūhoku Line\nMukawa Station – Toyoshiro Station (closed).\n\nHidaka Line depot\nMukawa Station is noted as the terminus in Naoki Tanemura's book about the longest single train ticket route.\n\nRailway stations in Mukawa\nMukawa Station is one of the railway stations located in Mukawa, Hokkaido.\n\nJNR stations\nMukawa Station is listed among the former railway stations of Japanese National Railways.",
+          "字数": 2393
         }
       },
       "结构化信息": {
