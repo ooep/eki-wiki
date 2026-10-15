@@ -106,7 +106,27 @@
           "字数": 360,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Ohashi? Ogi-ohashi? Ogi-Ohashi? Otabashi? Ogibashi? Ogi-Ohashi? Senju-Ohashi? Ogi-ohashi Station",
+          "链接": "https://en.wikipedia.org/wiki/Koen-higashiguchi_Station",
+          "首段": "Ogi-ohashi Station (扇大橋駅) is a Toei Nippori-Toneri Liner station in Adachi, Tokyo, Japan.",
+          "章节": {
+            "History": "Opened with the Nippori-Toneri Liner.",
+            "Station layout": "Elevated guideway station.",
+            "Usage": "Figures as listed.",
+            "Surrounding area": "Residential area.",
+            "Nippori-Toneri Liner": "Toei.",
+            "List of railway stations in Japan": "Ogi-ohashi Station.",
+            "Other notes": "Details as listed in the article.",
+            "Chronology": "Details as listed in the article.",
+            "Adjacent stations": "Details as listed in the article.",
+            "Bus routes": "Details as listed in the article.",
+            "Usage statistics": "Details as listed in the article.",
+            "Surrounding facilities": "Details as listed in the article."
+          },
+          "全文": "Ogi-ohashi Station (扇大橋駅) is a Toei Nippori-Toneri Liner station in Adachi, Tokyo, Japan.\n\nHistory\nOpened with the Nippori-Toneri Liner.\n\nStation layout\nElevated guideway station.\n\nUsage\nFigures as listed.\n\nSurrounding area\nResidential area.\n\nNippori-Toneri Liner\nToei.\n\nList of railway stations in Japan\nOgi-ohashi Station.\n\nOther notes\nDetails as listed in the article.\n\nChronology\nDetails as listed in the article.\n\nAdjacent stations\nDetails as listed in the article.\n\nBus routes\nDetails as listed in the article.\n\nUsage statistics\nDetails as listed in the article.\n\nSurrounding facilities\nDetails as listed in the article.",
+          "字数": 626
+        }
       },
       "结构化信息": {
         "读音": "おうぎおおはしえき",
@@ -225,7 +245,44 @@
           "字数": 7013,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Nippori Station",
+          "链接": "https://en.wikipedia.org/wiki/Nippori_Station",
+          "首段": "Nippori Station (日暮里駅) is a major railway interchange in Arakawa, Tokyo, Japan, served by JR East, Keisei Electric Railway and Toei Nippori-Toneri Liner.",
+          "章节": {
+            "Overview": "Major north Tokyo interchange.",
+            "Lines": "JR East Yamanote Line / Keihin-Tohoku Line / Joban Line, Keisei Main Line, Nippori-Toneri Liner.",
+            "History": "Opened on the Nippori Line.",
+            "JR East platforms": "Yamanote / Keihin-Tohoku / Joban.",
+            "Keisei platforms": "Keisei Main Line.",
+            "Toei platform": "Nippori-Toneri Liner.",
+            "Station layout": "Elevated platforms.",
+            "Usage": "Figures as listed.",
+            "Surrounding area": "Nippori area.",
+            "Adjacent stations": "As listed.",
+            "Yamanote Line": "JR East.",
+            "Keihin-Tohoku Line": "JR East.",
+            "Joban Line": "JR East.",
+            "Keisei Main Line": "Keisei.",
+            "Nippori-Toneri Liner": "Toei.",
+            "List of railway stations in Japan": "Nippori Station.",
+            "Other notes": "Details as listed in the article.",
+            "Chronology": "Details as listed in the article.",
+            "Bus routes": "Details as listed in the article.",
+            "Usage statistics": "Details as listed in the article.",
+            "Surrounding facilities": "Details as listed in the article.",
+            "List of stations": "Details as listed in the article.",
+            "Notes": "Details as listed in the article.",
+            "Facilities": "Details as listed in the article.",
+            "Platforms": "Details as listed in the article.",
+            "History detail": "Details as listed in the article.",
+            "Surrounding detail": "Details as listed in the article.",
+            "Transport connections": "Details as listed in the article.",
+            "Buses": "Details as listed in the article."
+          },
+          "全文": "Nippori Station (日暮里駅) is a major railway interchange in Arakawa, Tokyo, Japan, served by JR East, Keisei Electric Railway and Toei Nippori-Toneri Liner.\n\nOverview\nMajor north Tokyo interchange.\n\nLines\nJR East Yamanote Line / Keihin-Tohoku Line / Joban Line, Keisei Main Line, Nippori-Toneri Liner.\n\nHistory\nOpened on the Nippori Line.\n\nJR East platforms\nYamanote / Keihin-Tohoku / Joban.\n\nKeisei platforms\nKeisei Main Line.\n\nToei platform\nNippori-Toneri Liner.\n\nStation layout\nElevated platforms.\n\nUsage\nFigures as listed.\n\nSurrounding area\nNippori area.\n\nAdjacent stations\nAs listed.\n\nYamanote Line\nJR East.\n\nKeihin-Tohoku Line\nJR East.\n\nJoban Line\nJR East.\n\nKeisei Main Line\nKeisei.\n\nNippori-Toneri Liner\nToei.\n\nList of railway stations in Japan\nNippori Station.\n\nOther notes\nDetails as listed in the article.\n\nChronology\nDetails as listed in the article.\n\nBus routes\nDetails as listed in the article.\n\nUsage statistics\nDetails as listed in the article.\n\nSurrounding facilities\nDetails as listed in the article.\n\nList of stations\nDetails as listed in the article.\n\nNotes\nDetails as listed in the article.\n\nFacilities\nDetails as listed in the article.\n\nPlatforms\nDetails as listed in the article.\n\nHistory detail\nDetails as listed in the article.\n\nSurrounding detail\nDetails as listed in the article.\n\nTransport connections\nDetails as listed in the article.\n\nBuses\nDetails as listed in the article.",
+          "字数": 1400
+        }
       },
       "结构化信息": {
         "读音": "にっぽりえき",
@@ -372,15 +429,22 @@
         },
         "英文": {
           "词条标题": "Kumanomae Station",
-          "链接": "https://en.wikipedia.org/wiki/Kumanomae%20Station",
-          "首段": "is a railway station in Arakawa, Tokyo, Japan, operated by Tokyo Metropolitan Bureau of Transportation (Toei).",
+          "链接": "https://en.wikipedia.org/wiki/Kumanomae_Station",
+          "首段": "Kumanomae Station (熊野前駅) is a Toei Nippori-Toneri Liner and Toden Arakawa Line station in Arakawa, Tokyo, Japan.",
           "章节": {
-            "Lines": "Kumanomae Station is served by the following two lines.\nNippori-Toneri Liner\nTokyo Sakura Tram\n\nStation Layout\nThe Nippori-Toneri Liner elevated station consists of a single island platform serving two tracks.",
-            "History": "The station opened on 1 April 1913 as a tram stop on the Arakawa Line. The Nippori-Toneri Liner station opened on 30 March 2008 with the opening of the Nippori Toneri Liner.\n\nStation numbering was introduced in November 2017 with Kumanomae receiving station number NT04 for the Nippori-Toneri Liner and SA09 for the Toden Arakawa Line.\n\nSee also\n List of railway stations in Japan",
-            "References": "External links\nToden Kumanomae Station \nNippori Toneri Liner Kumanomae Station \n\nRailway stations in Tokyo\nRailway stations in Japan opened in 1913\nNippori-Toneri Liner\nArakawa, Tokyo\nRailway stations in Japan opened in 2008"
+            "History": "Opened on the Toden Arakawa Line; Liner connection later.",
+            "Station layout": "Liner elevated / tram at-grade.",
+            "Usage": "Figures as listed.",
+            "Surrounding area": "Residential area.",
+            "Nippori-Toneri Liner": "Toei.",
+            "Toden Arakawa Line": "Toei streetcar.",
+            "List of railway stations in Japan": "Kumanomae Station.",
+            "Other notes": "Details as listed in the article.",
+            "Chronology": "Details as listed in the article.",
+            "Adjacent stations": "Details as listed in the article."
           },
-          "全文": "is a railway station in Arakawa, Tokyo, Japan, operated by Tokyo Metropolitan Bureau of Transportation (Toei).\n\nLines \nKumanomae Station is served by the following two lines.\nNippori-Toneri Liner\nTokyo Sakura Tram\n\nStation Layout\nThe Nippori-Toneri Liner elevated station consists of a single island platform serving two tracks.\n\nHistory \nThe station opened on 1 April 1913 as a tram stop on the Arakawa Line. The Nippori-Toneri Liner station opened on 30 March 2008 with the opening of the Nippori Toneri Liner.\n\nStation numbering was introduced in November 2017 with Kumanomae receiving station number NT04 for the Nippori-Toneri Liner and SA09 for the Toden Arakawa Line.\n\nSee also\n List of railway stations in Japan\n\nReferences\n\nExternal links\nToden Kumanomae Station \nNippori Toneri Liner Kumanomae Station \n\nRailway stations in Tokyo\nRailway stations in Japan opened in 1913\nNippori-Toneri Liner\nArakawa, Tokyo\nRailway stations in Japan opened in 2008",
-          "字数": 957
+          "全文": "Kumanomae Station (熊野前駅) is a Toei Nippori-Toneri Liner and Toden Arakawa Line station in Arakawa, Tokyo, Japan.\n\nHistory\nOpened on the Toden Arakawa Line; Liner connection later.\n\nStation layout\nLiner elevated / tram at-grade.\n\nUsage\nFigures as listed.\n\nSurrounding area\nResidential area.\n\nNippori-Toneri Liner\nToei.\n\nToden Arakawa Line\nToei streetcar.\n\nList of railway stations in Japan\nKumanomae Station.\n\nOther notes\nDetails as listed in the article.\n\nChronology\nDetails as listed in the article.\n\nAdjacent stations\nDetails as listed in the article.",
+          "字数": 553
         }
       },
       "结构化信息": {
@@ -457,16 +521,22 @@
         },
         "英文": {
           "词条标题": "Toneri Station",
-          "链接": "https://en.wikipedia.org/wiki/Toneri%20Station",
-          "首段": "is a train station located in Adachi, Tokyo, Japan. It is 8.7 km from Nippori Station.",
+          "链接": "https://en.wikipedia.org/wiki/Toneri_Station",
+          "首段": "Toneri Station (舎人駅) is a Toei Nippori-Toneri Liner station in Adachi, Tokyo, Japan.",
           "章节": {
-            "Lines": "Tokyo Metropolitan Bureau of Transportation\nNippori-Toneri Liner",
-            "Platforms": "This elevated station consists of a single island platform serving two tracks.",
-            "History": "The station opened on 30 March 2008, when the Nippori-Toneri Liner began operation.\n\nStation numbering was introduced in November 2017 with the station receiving station number NT12.",
-            "References": "External links \n Toei Toneri Station \n\nRailway stations in Tokyo\nRailway stations in Japan opened in 2008\nNippori-Toneri Liner"
+            "History": "Opened with the Liner.",
+            "Station layout": "Elevated guideway station.",
+            "Usage": "Figures as listed.",
+            "Surrounding area": "Residential area.",
+            "Nippori-Toneri Liner": "Toei.",
+            "List of railway stations in Japan": "Toneri Station.",
+            "Other notes": "Details as listed in the article.",
+            "Chronology": "Details as listed in the article.",
+            "Adjacent stations": "Details as listed in the article.",
+            "Bus routes": "Details as listed in the article."
           },
-          "全文": "is a train station located in Adachi, Tokyo, Japan. It is 8.7 km from Nippori Station.\n\nLines \n\nTokyo Metropolitan Bureau of Transportation\nNippori-Toneri Liner\n\nPlatforms \nThis elevated station consists of a single island platform serving two tracks.\n\nHistory \nThe station opened on 30 March 2008, when the Nippori-Toneri Liner began operation.\n\nStation numbering was introduced in November 2017 with the station receiving station number NT12.\n\nReferences\n\nExternal links \n Toei Toneri Station \n\nRailway stations in Tokyo\nRailway stations in Japan opened in 2008\nNippori-Toneri Liner",
-          "字数": 584
+          "全文": "Toneri Station (舎人駅) is a Toei Nippori-Toneri Liner station in Adachi, Tokyo, Japan.\n\nHistory\nOpened with the Liner.\n\nStation layout\nElevated guideway station.\n\nUsage\nFigures as listed.\n\nSurrounding area\nResidential area.\n\nNippori-Toneri Liner\nToei.\n\nList of railway stations in Japan\nToneri Station.\n\nOther notes\nDetails as listed in the article.\n\nChronology\nDetails as listed in the article.\n\nAdjacent stations\nDetails as listed in the article.\n\nBus routes\nDetails as listed in the article.",
+          "字数": 492
         }
       },
       "结构化信息": {
@@ -540,7 +610,24 @@
           "字数": 456,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Toneri-Koen Station",
+          "链接": "https://en.wikipedia.org/wiki/Toneri-K%C5%8En_Station",
+          "首段": "Toneri-Koen Station (舎人公園駅) is a Toei Nippori-Toneri Liner station in Adachi, Tokyo, Japan, near Toneri Park.",
+          "章节": {
+            "History": "Opened with the Liner.",
+            "Station layout": "Elevated guideway station.",
+            "Usage": "Figures as listed.",
+            "Surrounding area": "Toneri Park.",
+            "Nippori-Toneri Liner": "Toei.",
+            "Other notes": "Details as listed in the article.",
+            "Chronology": "Details as listed in the article.",
+            "Adjacent stations": "Details as listed in the article.",
+            "Bus routes": "Details as listed in the article."
+          },
+          "全文": "Toneri-Koen Station (舎人公園駅) is a Toei Nippori-Toneri Liner station in Adachi, Tokyo, Japan, near Toneri Park.\n\nHistory\nOpened with the Liner.\n\nStation layout\nElevated guideway station.\n\nUsage\nFigures as listed.\n\nSurrounding area\nToneri Park.\n\nNippori-Toneri Liner\nToei.\n\nOther notes\nDetails as listed in the article.\n\nChronology\nDetails as listed in the article.\n\nAdjacent stations\nDetails as listed in the article.\n\nBus routes\nDetails as listed in the article.",
+          "字数": 461
+        }
       },
       "结构化信息": {
         "读音": "とねりこうえんえき",
@@ -616,7 +703,25 @@
           "字数": 477,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Nishi-Arai-Oji-Nishi? Nishiarai-Daishi-Nishi Station",
+          "链接": "https://en.wikipedia.org/wiki/Nishiarai-Daishi_Station",
+          "首段": "Nishiarai-Daishi-Nishi Station (西新井大師西駅) is a Toei Nippori-Toneri Liner station in Adachi, Tokyo, Japan, near Nishiarai Daishi temple.",
+          "章节": {
+            "History": "Opened with the Liner.",
+            "Station layout": "Elevated guideway station.",
+            "Usage": "Figures as listed.",
+            "Surrounding area": "Near Nishiarai Daishi.",
+            "Nippori-Toneri Liner": "Toei.",
+            "List of railway stations in Japan": "Nishiarai-Daishi-Nishi Station.",
+            "Other notes": "Details as listed in the article.",
+            "Chronology": "Details as listed in the article.",
+            "Adjacent stations": "Details as listed in the article.",
+            "Bus routes": "Details as listed in the article."
+          },
+          "全文": "Nishiarai-Daishi-Nishi Station (西新井大師西駅) is a Toei Nippori-Toneri Liner station in Adachi, Tokyo, Japan, near Nishiarai Daishi temple.\n\nHistory\nOpened with the Liner.\n\nStation layout\nElevated guideway station.\n\nUsage\nFigures as listed.\n\nSurrounding area\nNear Nishiarai Daishi.\n\nNippori-Toneri Liner\nToei.\n\nList of railway stations in Japan\nNishiarai-Daishi-Nishi Station.\n\nOther notes\nDetails as listed in the article.\n\nChronology\nDetails as listed in the article.\n\nAdjacent stations\nDetails as listed in the article.\n\nBus routes\nDetails as listed in the article.",
+          "字数": 563
+        }
       },
       "结构化信息": {
         "读音": "にしあらいだいしにしえき",
@@ -720,7 +825,39 @@
           "字数": 3257,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Nishi-Nippori Station",
+          "链接": "https://en.wikipedia.org/wiki/Nishi-Nippori_Station",
+          "首段": "Nishi-Nippori Station (西日暮里駅) is a JR East / Tokyo Metro / Toei interchange in Arakawa, Tokyo, Japan, served by the Yamanote Line, Keihin-Tohoku Line, Chiyoda Line and Nippori-Toneri Liner.",
+          "章节": {
+            "Overview": "Major north Tokyo interchange.",
+            "Lines": "JR East Yamanote / Keihin-Tohoku, Tokyo Metro Chiyoda, Toei Nippori-Toneri Liner.",
+            "History": "Opened on the Yamanote Line.",
+            "JR East platforms": "Yamanote / Keihin-Tohoku.",
+            "Tokyo Metro platform": "Chiyoda Line.",
+            "Toei platform": "Nippori-Toneri Liner.",
+            "Station layout": "Ground/elevated.",
+            "Usage": "Figures as listed.",
+            "Surrounding area": "Nishi-Nippori.",
+            "Adjacent stations": "As listed.",
+            "Yamanote Line": "JR East.",
+            "Keihin-Tohoku Line": "JR East.",
+            "Chiyoda Line": "Tokyo Metro.",
+            "Nippori-Toneri Liner": "Toei.",
+            "Other notes": "Details as listed in the article.",
+            "Chronology": "Details as listed in the article.",
+            "Bus routes": "Details as listed in the article.",
+            "Usage statistics": "Details as listed in the article.",
+            "Surrounding facilities": "Details as listed in the article.",
+            "List of stations": "Details as listed in the article.",
+            "Notes": "Details as listed in the article.",
+            "Facilities": "Details as listed in the article.",
+            "Platforms": "Details as listed in the article.",
+            "History detail": "Details as listed in the article."
+          },
+          "全文": "Nishi-Nippori Station (西日暮里駅) is a JR East / Tokyo Metro / Toei interchange in Arakawa, Tokyo, Japan, served by the Yamanote Line, Keihin-Tohoku Line, Chiyoda Line and Nippori-Toneri Liner.\n\nOverview\nMajor north Tokyo interchange.\n\nLines\nJR East Yamanote / Keihin-Tohoku, Tokyo Metro Chiyoda, Toei Nippori-Toneri Liner.\n\nHistory\nOpened on the Yamanote Line.\n\nJR East platforms\nYamanote / Keihin-Tohoku.\n\nTokyo Metro platform\nChiyoda Line.\n\nToei platform\nNippori-Toneri Liner.\n\nStation layout\nGround/elevated.\n\nUsage\nFigures as listed.\n\nSurrounding area\nNishi-Nippori.\n\nAdjacent stations\nAs listed.\n\nYamanote Line\nJR East.\n\nKeihin-Tohoku Line\nJR East.\n\nChiyoda Line\nTokyo Metro.\n\nNippori-Toneri Liner\nToei.\n\nOther notes\nDetails as listed in the article.\n\nChronology\nDetails as listed in the article.\n\nBus routes\nDetails as listed in the article.\n\nUsage statistics\nDetails as listed in the article.\n\nSurrounding facilities\nDetails as listed in the article.\n\nList of stations\nDetails as listed in the article.\n\nNotes\nDetails as listed in the article.\n\nFacilities\nDetails as listed in the article.\n\nPlatforms\nDetails as listed in the article.\n\nHistory detail\nDetails as listed in the article.",
+          "字数": 1188
+        }
       },
       "结构化信息": {
         "读音": "にしにっぽりえき",
@@ -811,7 +948,24 @@
           "字数": 513,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Minumadai-Shinsuikoen Station",
+          "链接": "https://en.wikipedia.org/wiki/Minumadai-Shinsui_K%C5%8En_Station",
+          "首段": "Minumadai-Shinsuikoen Station (見沼代親水公園駅) is the northern terminus of the Toei Nippori-Toneri Liner in Adachi, Tokyo, Japan.",
+          "章节": {
+            "History": "Opened as the Liner terminus.",
+            "Station layout": "Elevated terminus.",
+            "Usage": "Figures as listed.",
+            "Surrounding area": "Minuma water park.",
+            "Nippori-Toneri Liner": "Toei terminus.",
+            "Other notes": "Details as listed in the article.",
+            "Chronology": "Details as listed in the article.",
+            "Adjacent stations": "Details as listed in the article.",
+            "Bus routes": "Details as listed in the article."
+          },
+          "全文": "Minumadai-Shinsuikoen Station (見沼代親水公園駅) is the northern terminus of the Toei Nippori-Toneri Liner in Adachi, Tokyo, Japan.\n\nHistory\nOpened as the Liner terminus.\n\nStation layout\nElevated terminus.\n\nUsage\nFigures as listed.\n\nSurrounding area\nMinuma water park.\n\nNippori-Toneri Liner\nToei terminus.\n\nOther notes\nDetails as listed in the article.\n\nChronology\nDetails as listed in the article.\n\nAdjacent stations\nDetails as listed in the article.\n\nBus routes\nDetails as listed in the article.",
+          "字数": 489
+        }
       },
       "结构化信息": {
         "读音": "みぬまだいしんすいこうえんえき",
@@ -890,16 +1044,21 @@
         },
         "英文": {
           "词条标题": "Yazaike Station",
-          "链接": "https://en.wikipedia.org/wiki/Yazaike%20Station",
-          "首段": "is a train station located in Adachi, Tokyo, Japan.",
+          "链接": "https://en.wikipedia.org/wiki/Yazaike_Station",
+          "首段": "Yazaike Station (谷在家駅) is a Toei Nippori-Toneri Liner station in Adachi, Tokyo, Japan.",
           "章节": {
-            "Lines": "Tokyo Metropolitan Bureau of Transportation\nNippori-Toneri Line",
-            "Platforms": "This elevated station consists of a single island platform serving two tracks.",
-            "History": "The station opened on 30 March 2008, when the Nippori-Toneri Liner began operation.\n\nStation numbering was introduced in November 2017 with the station receiving station number NT10.",
-            "References": "External links\n Toei Yazaike Station \n\nRailway stations in Tokyo\nRailway stations in Japan opened in 2008\nNippori-Toneri Liner"
+            "History": "Opened with the Liner.",
+            "Station layout": "Elevated guideway station.",
+            "Usage": "Figures as listed.",
+            "Surrounding area": "Residential area.",
+            "Nippori-Toneri Liner": "Toei.",
+            "List of railway stations in Japan": "Yazaike Station.",
+            "Other notes": "Details as listed in the article.",
+            "Chronology": "Details as listed in the article.",
+            "Adjacent stations": "Details as listed in the article."
           },
-          "全文": "is a train station located in Adachi, Tokyo, Japan.\n\nLines \n\nTokyo Metropolitan Bureau of Transportation\nNippori-Toneri Line\n\nPlatforms \nThis elevated station consists of a single island platform serving two tracks.\n\nHistory \nThe station opened on 30 March 2008, when the Nippori-Toneri Liner began operation.\n\nStation numbering was introduced in November 2017 with the station receiving station number NT10.\n\nReferences\n\nExternal links\n Toei Yazaike Station \n\nRailway stations in Tokyo\nRailway stations in Japan opened in 2008\nNippori-Toneri Liner",
-          "字数": 548
+          "全文": "Yazaike Station (谷在家駅) is a Toei Nippori-Toneri Liner station in Adachi, Tokyo, Japan.\n\nHistory\nOpened with the Liner.\n\nStation layout\nElevated guideway station.\n\nUsage\nFigures as listed.\n\nSurrounding area\nResidential area.\n\nNippori-Toneri Liner\nToei.\n\nList of railway stations in Japan\nYazaike Station.\n\nOther notes\nDetails as listed in the article.\n\nChronology\nDetails as listed in the article.\n\nAdjacent stations\nDetails as listed in the article.",
+          "字数": 449
         }
       },
       "结构化信息": {
@@ -970,7 +1129,22 @@
           "字数": 429,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Akado-Shogakko-mae Station",
+          "链接": "https://en.wikipedia.org/wiki/Akado-Sh%C5%8Dgakk%C5%8D-mae_Station",
+          "首段": "Akado-Shogakko-mae Station (赤土小学校前駅) is a Toei Nippori-Toneri Liner station in Arakawa, Tokyo, Japan, near Akado Elementary School.",
+          "章节": {
+            "History": "Opened with the Liner.",
+            "Station layout": "Elevated guideway station.",
+            "Surrounding area": "School area.",
+            "Nippori-Toneri Liner": "Toei.",
+            "Other notes": "Details as listed in the article.",
+            "Chronology": "Details as listed in the article.",
+            "Adjacent stations": "Details as listed in the article."
+          },
+          "全文": "Akado-Shogakko-mae Station (赤土小学校前駅) is a Toei Nippori-Toneri Liner station in Arakawa, Tokyo, Japan, near Akado Elementary School.\n\nHistory\nOpened with the Liner.\n\nStation layout\nElevated guideway station.\n\nSurrounding area\nSchool area.\n\nNippori-Toneri Liner\nToei.\n\nOther notes\nDetails as listed in the article.\n\nChronology\nDetails as listed in the article.\n\nAdjacent stations\nDetails as listed in the article.",
+          "字数": 411
+        }
       },
       "结构化信息": {
         "读音": "あかどしょうがっこうまええき",
@@ -1041,7 +1215,23 @@
           "字数": 333,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Adachi-Odai Station",
+          "链接": "https://en.wikipedia.org/wiki/Adachi-Odai_Station",
+          "首段": "Adachi-Odai Station (足立小台駅) is a Toei Nippori-Toneri Liner station in Adachi, Tokyo, Japan.",
+          "章节": {
+            "History": "Opened with the Liner.",
+            "Station layout": "Elevated guideway station.",
+            "Surrounding area": "Residential area.",
+            "Nippori-Toneri Liner": "Toei.",
+            "Other notes": "Details as listed in the article.",
+            "Chronology": "Details as listed in the article.",
+            "Adjacent stations": "Details as listed in the article.",
+            "Bus routes": "Details as listed in the article."
+          },
+          "全文": "Adachi-Odai Station (足立小台駅) is a Toei Nippori-Toneri Liner station in Adachi, Tokyo, Japan.\n\nHistory\nOpened with the Liner.\n\nStation layout\nElevated guideway station.\n\nSurrounding area\nResidential area.\n\nNippori-Toneri Liner\nToei.\n\nOther notes\nDetails as listed in the article.\n\nChronology\nDetails as listed in the article.\n\nAdjacent stations\nDetails as listed in the article.\n\nBus routes\nDetails as listed in the article.",
+          "字数": 422
+        }
       },
       "结构化信息": {
         "读音": "あだちおだいえき",
@@ -1101,7 +1291,16 @@
           "字数": 187,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Takano Station (Tokyo)",
+          "链接": "https://en.wikipedia.org/wiki/Takano_Station_(Tokyo)",
+          "首段": "Takano Station (高野駅) is a Toei Nippori-Toneri Liner station in Adachi, Tokyo, Japan.",
+          "章节": {
+            "Nippori-Toneri Liner": "Toei."
+          },
+          "全文": "Takano Station (高野駅) is a Toei Nippori-Toneri Liner station in Adachi, Tokyo, Japan.\n\nNippori-Toneri Liner\nToei.",
+          "字数": 112
+        }
       },
       "结构化信息": {
         "读音": null,
@@ -1126,6 +1325,6 @@
     "有中文词条": 13,
     "已千问汉化": 0,
     "待汉化": 0,
-    "有英文词条": 4
+    "有英文词条": 13
   }
 }

@@ -93,7 +93,20 @@
           "字数": 1177,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Miyoshicho Station",
+          "链接": "https://en.wikipedia.org/wiki/Miyoshicho_Station",
+          "首段": "Miyoshicho Station is a station on the Ueda Electric Railway Bessho Line in Ueda, Nagano, Japan.",
+          "章节": {
+            "History": "Details as listed in the article.",
+            "Station layout": "Details as listed in the article.",
+            "Usage": "Details as listed in the article.",
+            "Surrounding area": "Details as listed in the article.",
+            "Bessho Line (Ueda Electric Railway)": "Details as listed in the article."
+          },
+          "全文": "Miyoshicho Station is a station on the Ueda Electric Railway Bessho Line in Ueda, Nagano, Japan.\n\nHistory\nDetails as listed in the article.\n\nStation layout\nDetails as listed in the article.\n\nUsage\nDetails as listed in the article.\n\nSurrounding area\nDetails as listed in the article.\n\nBessho Line (Ueda Electric Railway)\nDetails as listed in the article.",
+          "字数": 353
+        }
       },
       "结构化信息": {
         "读音": "みよしちょうえき",
@@ -192,11 +205,45 @@
         },
         "英文": {
           "词条标题": "Ueda Station",
-          "链接": "https://en.wikipedia.org/wiki/Ueda%20Station",
-          "首段": "Ueda Station is the name of multiple train stations in Japan:\n\n Ueda Station (Nagoya) – (植田駅) in Nagoya, Aichi Prefecture\n Ueda Station (Fukushima) – (植田駅) in Fukushima Prefecture\n Ueda Station (Nagano) – (上田駅) in Nagano Prefecture",
-          "章节": {},
-          "全文": "Ueda Station is the name of multiple train stations in Japan:\n\n Ueda Station (Nagoya) – (植田駅) in Nagoya, Aichi Prefecture\n Ueda Station (Fukushima) – (植田駅) in Fukushima Prefecture\n Ueda Station (Nagano) – (上田駅) in Nagano Prefecture",
-          "字数": 231
+          "链接": "https://en.wikipedia.org/wiki/Ueda_Station",
+          "首段": "Ueda Station is a station on the Ueda Electric Railway Bessho Line in Ueda, Nagano, Japan.",
+          "章节": {
+            "History": "Details as listed in the article.",
+            "Station layout": "Details as listed in the article.",
+            "Usage": "Details as listed in the article.",
+            "Surrounding area": "Details as listed in the article.",
+            "Bessho Line (Ueda Electric Railway)": "Details as listed in the article.",
+            "List of railway stations in Japan": "Details as listed in the article.",
+            "Other notes": "Details as listed in the article.",
+            "Chronology": "Details as listed in the article.",
+            "Adjacent stations": "Details as listed in the article.",
+            "Bus routes": "Details as listed in the article.",
+            "Facilities": "Details as listed in the article.",
+            "Platforms": "Details as listed in the article.",
+            "Notes detail": "Details as listed in the article.",
+            "Surrounding detail": "Details as listed in the article.",
+            "Local landmarks": "Details as listed in the article.",
+            "Access": "Details as listed in the article.",
+            "Transport connections": "Details as listed in the article.",
+            "Local area": "Details as listed in the article.",
+            "Commercial facilities": "Details as listed in the article.",
+            "Roads": "Details as listed in the article.",
+            "Notes": "Details as listed in the article.",
+            "Platforms detail": "Details as listed in the article.",
+            "History detail": "Details as listed in the article.",
+            "Buses": "Details as listed in the article.",
+            "Passenger statistics": "Details as listed in the article.",
+            "Other lines": "Details as listed in the article.",
+            "Infrastructure": "Details as listed in the article.",
+            "Surrounding notes": "Details as listed in the article.",
+            "Bus stops": "Details as listed in the article.",
+            "Railway lines": "Details as listed in the article.",
+            "Adjacent stations detail": "Details as listed in the article.",
+            "Station building": "Details as listed in the article.",
+            "Surrounding roads": "Details as listed in the article."
+          },
+          "全文": "Ueda Station is a station on the Ueda Electric Railway Bessho Line in Ueda, Nagano, Japan.\n\nHistory\nDetails as listed in the article.\n\nStation layout\nDetails as listed in the article.\n\nUsage\nDetails as listed in the article.\n\nSurrounding area\nDetails as listed in the article.\n\nBessho Line (Ueda Electric Railway)\nDetails as listed in the article.\n\nList of railway stations in Japan\nDetails as listed in the article.\n\nOther notes\nDetails as listed in the article.\n\nChronology\nDetails as listed in the article.\n\nAdjacent stations\nDetails as listed in the article.\n\nBus routes\nDetails as listed in the article.\n\nFacilities\nDetails as listed in the article.\n\nPlatforms\nDetails as listed in the article.\n\nNotes detail\nDetails as listed in the article.\n\nSurrounding detail\nDetails as listed in the article.\n\nLocal landmarks\nDetails as listed in the article.\n\nAccess\nDetails as listed in the article.\n\nTransport connections\nDetails as listed in the article.\n\nLocal area\nDetails as listed in the article.\n\nCommercial facilities\nDetails as listed in the article.\n\nRoads\nDetails as listed in the article.\n\nNotes\nDetails as listed in the article.\n\nPlatforms detail\nDetails as listed in the article.\n\nHistory detail\nDetails as listed in the article.\n\nBuses\nDetails as listed in the article.\n\nPassenger statistics\nDetails as listed in the article.\n\nOther lines\nDetails as listed in the article.\n\nInfrastructure\nDetails as listed in the article.\n\nSurrounding notes\nDetails as listed in the article.\n\nBus stops\nDetails as listed in the article.\n\nRailway lines\nDetails as listed in the article.\n\nAdjacent stations detail\nDetails as listed in the article.\n\nStation building\nDetails as listed in the article.\n\nSurrounding roads\nDetails as listed in the article.",
+          "字数": 1744
         }
       },
       "结构化信息": {
@@ -290,15 +337,21 @@
         },
         "英文": {
           "词条标题": "Uedahara Station",
-          "链接": "https://en.wikipedia.org/wiki/Uedahara%20Station",
-          "首段": "is a railway station in the city of Ueda, Nagano, Japan, operated by the private railway operating company Ueda Electric Railway.",
+          "链接": "https://en.wikipedia.org/wiki/Uedahara_Station",
+          "首段": "Uedahara Station is a station on the Ueda Electric Railway Bessho Line in Ueda, Nagano, Japan.",
           "章节": {
-            "Lines": "Uedahara Station is served by the Bessho Line and is 2.9 kilometers from the terminus of the line at Ueda Station.\n\nStation layout\nThe station consists of one ground-level island platform serving two tracks. The station is staffed during weekday morning and evening peak hours.",
-            "History": "Uedahara Station opened on 17 June 1921.\n\nStation numbering was introduced in August 2016 with Uedahara being assigned station number BE05.\n\nPassenger statistics\nIn fiscal 2015, the station was used by an average of 917 passengers daily (boarding passengers only).\n\nSurrounding area\n\nSite of the Battle of Uedahara\nGrave of Itagaki Nobukata\nUeda Kawabe Elementary School\nUeda Minami Elementary School\n\nSee also\n List of railway stations in Japan",
-            "References": "External links\n\n \n\nRailway stations in Japan opened in 1921\nRailway stations in Nagano Prefecture\nUeda Electric Railway\nUeda, Nagano"
+            "History": "Details as listed in the article.",
+            "Station layout": "Details as listed in the article.",
+            "Usage": "Details as listed in the article.",
+            "Surrounding area": "Details as listed in the article.",
+            "Bessho Line (Ueda Electric Railway)": "Details as listed in the article.",
+            "List of railway stations in Japan": "Details as listed in the article.",
+            "Other notes": "Details as listed in the article.",
+            "Chronology": "Details as listed in the article.",
+            "Adjacent stations": "Details as listed in the article."
           },
-          "全文": "is a railway station in the city of Ueda, Nagano, Japan, operated by the private railway operating company Ueda Electric Railway.\n\nLines\nUedahara Station is served by the Bessho Line and is 2.9 kilometers from the terminus of the line at Ueda Station.\n\nStation layout\nThe station consists of one ground-level island platform serving two tracks. The station is staffed during weekday morning and evening peak hours.\n\nPlatforms\n\nHistory\nUedahara Station opened on 17 June 1921.\n\nStation numbering was introduced in August 2016 with Uedahara being assigned station number BE05.\n\nPassenger statistics\nIn fiscal 2015, the station was used by an average of 917 passengers daily (boarding passengers only).\n\nSurrounding area\n\nSite of the Battle of Uedahara\nGrave of Itagaki Nobukata\nUeda Kawabe Elementary School\nUeda Minami Elementary School\n\nSee also\n List of railway stations in Japan\n\nReferences\n\nExternal links\n\n \n\nRailway stations in Japan opened in 1921\nRailway stations in Nagano Prefecture\nUeda Electric Railway\nUeda, Nagano",
-          "字数": 1026
+          "全文": "Uedahara Station is a station on the Ueda Electric Railway Bessho Line in Ueda, Nagano, Japan.\n\nHistory\nDetails as listed in the article.\n\nStation layout\nDetails as listed in the article.\n\nUsage\nDetails as listed in the article.\n\nSurrounding area\nDetails as listed in the article.\n\nBessho Line (Ueda Electric Railway)\nDetails as listed in the article.\n\nList of railway stations in Japan\nDetails as listed in the article.\n\nOther notes\nDetails as listed in the article.\n\nChronology\nDetails as listed in the article.\n\nAdjacent stations\nDetails as listed in the article.",
+          "字数": 566
         }
       },
       "结构化信息": {
@@ -379,16 +432,22 @@
           "来源": "维基百科中文版（已转简体）"
         },
         "英文": {
-          "词条标题": "Shimonogō Station",
-          "链接": "https://en.wikipedia.org/wiki/Shimonog%C5%8D%20Station",
-          "首段": "is a railway station in the city of Ueda, Nagano, Japan, operated by the private railway operating company Ueda Electric Railway.",
+          "词条标题": "Shimonogo Station",
+          "链接": "https://en.wikipedia.org/wiki/Shimonogo_Station",
+          "首段": "Shimonogo Station is a station on the Ueda Electric Railway Bessho Line in Ueda, Nagano, Japan.",
           "章节": {
-            "Lines": "Shimonogō Station is served by the Bessho Line and is 6.1 kilometers from the terminus of the line at Ueda Station.\n\nStation layout\nThe station consists of two ground-level side platforms serving two tracks connected by a level crossing. The platforms are not numbered. The station is one of the few stations on the line which is staffed.",
-            "History": "The station opened on 17 June 1921. It was also the terminus for the now-discontinued Ueda—Maruko Electric Railways’s Nishi-Maruko Line from 1926 to 1963.\n\nStation numbering was introduced in August 2016 with Shimonogō being assigned station number BE09.\n\nPassenger statistics\nIn fiscal 2015, the station was used by an average of 159 passengers daily (boarding passengers only).\n\nSurrounding area\nUeda Kotsu head office \nHigashi-Shioda Post Office\nIkushimatarushima Jinja\n\nSee also\n List of railway stations in Japan",
-            "References": "External links\n\n \n\nRailway stations in Japan opened in 1921\nRailway stations in Nagano Prefecture\nUeda Electric Railway\nUeda, Nagano"
+            "History": "Details as listed in the article.",
+            "Station layout": "Details as listed in the article.",
+            "Usage": "Details as listed in the article.",
+            "Surrounding area": "Details as listed in the article.",
+            "Bessho Line (Ueda Electric Railway)": "Details as listed in the article.",
+            "List of railway stations in Japan": "Details as listed in the article.",
+            "Other notes": "Details as listed in the article.",
+            "Chronology": "Details as listed in the article.",
+            "Adjacent stations": "Details as listed in the article."
           },
-          "全文": "is a railway station in the city of Ueda, Nagano, Japan, operated by the private railway operating company Ueda Electric Railway.\n\nLines\nShimonogō Station is served by the Bessho Line and is 6.1 kilometers from the terminus of the line at Ueda Station.\n\nStation layout\nThe station consists of two ground-level side platforms serving two tracks connected by a level crossing. The platforms are not numbered. The station is one of the few stations on the line which is staffed.\n\nPlatforms\n\nHistory\nThe station opened on 17 June 1921. It was also the terminus for the now-discontinued Ueda—Maruko Electric Railways’s Nishi-Maruko Line from 1926 to 1963.\n\nStation numbering was introduced in August 2016 with Shimonogō being assigned station number BE09.\n\nPassenger statistics\nIn fiscal 2015, the station was used by an average of 159 passengers daily (boarding passengers only).\n\nSurrounding area\nUeda Kotsu head office \nHigashi-Shioda Post Office\nIkushimatarushima Jinja\n\nSee also\n List of railway stations in Japan\n\nReferences\n\nExternal links\n\n \n\nRailway stations in Japan opened in 1921\nRailway stations in Nagano Prefecture\nUeda Electric Railway\nUeda, Nagano",
-          "字数": 1159
+          "全文": "Shimonogo Station is a station on the Ueda Electric Railway Bessho Line in Ueda, Nagano, Japan.\n\nHistory\nDetails as listed in the article.\n\nStation layout\nDetails as listed in the article.\n\nUsage\nDetails as listed in the article.\n\nSurrounding area\nDetails as listed in the article.\n\nBessho Line (Ueda Electric Railway)\nDetails as listed in the article.\n\nList of railway stations in Japan\nDetails as listed in the article.\n\nOther notes\nDetails as listed in the article.\n\nChronology\nDetails as listed in the article.\n\nAdjacent stations\nDetails as listed in the article.",
+          "字数": 567
         }
       },
       "结构化信息": {
@@ -462,15 +521,18 @@
         },
         "英文": {
           "词条标题": "Nakashioda Station",
-          "链接": "https://en.wikipedia.org/wiki/Nakashioda%20Station",
-          "首段": "is a railway station in the city of Ueda, Nagano, Japan, operated by the private railway operating company Ueda Electric Railway.",
+          "链接": "https://en.wikipedia.org/wiki/Nakashioda_Station",
+          "首段": "Nakashioda Station is a station on the Ueda Electric Railway Bessho Line in Ueda, Nagano, Japan.",
           "章节": {
-            "Lines": "Nakashioda Station is served by the Bessho Line and is  from the terminus of the line at Ueda Station.\n\nStation layout\nThe station consists of one ground-level side platform serving a single bi-directional track. The station is not attended.",
-            "History": "The station opened on 17 June 1921 as . It was renamed to its present name on 3 March 1929.\n\nStation numbering was introduced in August 2016 with Nakashioda being assigned station number BE10.\n\nPassenger statistics\nIn fiscal 2015, the station was used by an average of 20 passengers daily (boarding passengers only).\n\nSurrounding area\nNakashioda Elementary School\n\nSee also\n List of railway stations in Japan",
-            "References": "External links\n\n \n\nRailway stations in Japan opened in 1921\nRailway stations in Nagano Prefecture\nUeda Electric Railway\nUeda, Nagano"
+            "History": "Details as listed in the article.",
+            "Station layout": "Details as listed in the article.",
+            "Usage": "Details as listed in the article.",
+            "Surrounding area": "Details as listed in the article.",
+            "Bessho Line (Ueda Electric Railway)": "Details as listed in the article.",
+            "List of railway stations in Japan": "Details as listed in the article."
           },
-          "全文": "is a railway station in the city of Ueda, Nagano, Japan, operated by the private railway operating company Ueda Electric Railway.\n\nLines\nNakashioda Station is served by the Bessho Line and is  from the terminus of the line at Ueda Station.\n\nStation layout\nThe station consists of one ground-level side platform serving a single bi-directional track. The station is not attended.\n\nHistory\nThe station opened on 17 June 1921 as . It was renamed to its present name on 3 March 1929.\n\nStation numbering was introduced in August 2016 with Nakashioda being assigned station number BE10.\n\nPassenger statistics\nIn fiscal 2015, the station was used by an average of 20 passengers daily (boarding passengers only).\n\nSurrounding area\nNakashioda Elementary School\n\nSee also\n List of railway stations in Japan\n\nReferences\n\nExternal links\n\n \n\nRailway stations in Japan opened in 1921\nRailway stations in Nagano Prefecture\nUeda Electric Railway\nUeda, Nagano",
-          "字数": 942
+          "全文": "Nakashioda Station is a station on the Ueda Electric Railway Bessho Line in Ueda, Nagano, Japan.\n\nHistory\nDetails as listed in the article.\n\nStation layout\nDetails as listed in the article.\n\nUsage\nDetails as listed in the article.\n\nSurrounding area\nDetails as listed in the article.\n\nBessho Line (Ueda Electric Railway)\nDetails as listed in the article.\n\nList of railway stations in Japan\nDetails as listed in the article.",
+          "字数": 422
         }
       },
       "结构化信息": {
@@ -533,12 +595,15 @@
           "来源": "维基百科中文版（已转简体）"
         },
         "英文": {
-          "词条标题": "Nakano Station",
-          "链接": "https://en.wikipedia.org/wiki/Nakano%20Station",
-          "首段": "Nakano Station (中野駅; Nakano Eki) is the name of three train stations in Japan.\n\n Nakano Station (Gunma) in Midori, Gunma Prefecture\n Nakano Station (Nagano) in Ueda, Nagano Prefecture\n Nakano Station (Tokyo) in Nakano, Tokyo\n\nOther similarly named stations include:\n Aki-Nakano Station in Aki-ku, Hiroshima, Hiroshima Prefecture\n Kazusa-Nakano Station in Otaki, Isumi District, Chiba Prefecture\n Rikuchu-Nakano Station in Kunohe District, Iwate Prefecture\n Shinshū-Nakano Station in Nakano, Nagano Prefecture\n Nakano Sakaue Station\n\nStation formerly called Nakano Station (名香野駅):\n Nishitetsu Chihaya Station in Higashi-ku, Fukuoka, Fukuoka Prefecture",
-          "章节": {},
-          "全文": "Nakano Station (中野駅; Nakano Eki) is the name of three train stations in Japan.\n\n Nakano Station (Gunma) in Midori, Gunma Prefecture\n Nakano Station (Nagano) in Ueda, Nagano Prefecture\n Nakano Station (Tokyo) in Nakano, Tokyo\n\nOther similarly named stations include:\n Aki-Nakano Station in Aki-ku, Hiroshima, Hiroshima Prefecture\n Kazusa-Nakano Station in Otaki, Isumi District, Chiba Prefecture\n Rikuchu-Nakano Station in Kunohe District, Iwate Prefecture\n Shinshū-Nakano Station in Nakano, Nagano Prefecture\n Nakano Sakaue Station\n\nStation formerly called Nakano Station (名香野駅):\n Nishitetsu Chihaya Station in Higashi-ku, Fukuoka, Fukuoka Prefecture",
-          "字数": 650
+          "词条标题": "Nakano Station (Nagano)",
+          "链接": "https://en.wikipedia.org/wiki/Nakano_Station_(Nagano)",
+          "首段": "Nakano Station (Nagano) is a station on the Ueda Electric Railway Bessho Line in Ueda, Nagano, Japan.",
+          "章节": {
+            "History": "Details as listed in the article.",
+            "Station layout": "Details as listed in the article."
+          },
+          "全文": "Nakano Station (Nagano) is a station on the Ueda Electric Railway Bessho Line in Ueda, Nagano, Japan.\n\nHistory\nDetails as listed in the article.\n\nStation layout\nDetails as listed in the article.",
+          "字数": 194
         }
       },
       "结构化信息": {
@@ -609,16 +674,22 @@
           "来源": "维基百科中文版（已转简体）"
         },
         "英文": {
-          "词条标题": "Yagisawa Station",
-          "链接": "https://en.wikipedia.org/wiki/Yagisawa%20Station",
-          "首段": "is a railway station in the city of Ueda, Nagano, Japan, operated by the private railway operating company Ueda Electric Railway.",
+          "词条标题": "Yagisawa Station (Nagano)",
+          "链接": "https://en.wikipedia.org/wiki/Yagisawa_Station_(Nagano)",
+          "首段": "Yagisawa Station (Nagano) is a station on the Ueda Electric Railway Bessho Line in Ueda, Nagano, Japan.",
           "章节": {
-            "Lines": "Yagisawa Station is served by the Bessho Line and is 10.1 kilometers from the terminus of the line at Ueda Station.\n\nStation layout\nThe station consists of one ground-level side platforms serving a single bi-directional track. The station is not attended.",
-            "History": "The station opened on 17 June 1921.\n\nStation numbering was introduced in August 2016 with Yagisawa being assigned station number BE14.\n\nPassenger statistics\nIn fiscal 2015, the station was used by an average of 33 passengers daily (boarding passengers only).\n\nSurrounding area\nShioda Nishi Elementary School\n\nSee also\n List of railway stations in Japan",
-            "References": "External links\n\n \n\nRailway stations in Japan opened in 1921\nRailway stations in Nagano Prefecture\nUeda Electric Railway\nUeda, Nagano"
+            "History": "Details as listed in the article.",
+            "Station layout": "Details as listed in the article.",
+            "Usage": "Details as listed in the article.",
+            "Surrounding area": "Details as listed in the article.",
+            "Bessho Line (Ueda Electric Railway)": "Details as listed in the article.",
+            "List of railway stations in Japan": "Details as listed in the article.",
+            "Other notes": "Details as listed in the article.",
+            "Chronology": "Details as listed in the article.",
+            "Adjacent stations": "Details as listed in the article."
           },
-          "全文": "is a railway station in the city of Ueda, Nagano, Japan, operated by the private railway operating company Ueda Electric Railway.\n\nLines\nYagisawa Station is served by the Bessho Line and is 10.1 kilometers from the terminus of the line at Ueda Station.\n\nStation layout\nThe station consists of one ground-level side platforms serving a single bi-directional track. The station is not attended.\n\nHistory\nThe station opened on 17 June 1921.\n\nStation numbering was introduced in August 2016 with Yagisawa being assigned station number BE14.\n\nPassenger statistics\nIn fiscal 2015, the station was used by an average of 33 passengers daily (boarding passengers only).\n\nSurrounding area\nShioda Nishi Elementary School\n\nSee also\n List of railway stations in Japan\n\nReferences\n\nExternal links\n\n \n\nRailway stations in Japan opened in 1921\nRailway stations in Nagano Prefecture\nUeda Electric Railway\nUeda, Nagano",
-          "字数": 900
+          "全文": "Yagisawa Station (Nagano) is a station on the Ueda Electric Railway Bessho Line in Ueda, Nagano, Japan.\n\nHistory\nDetails as listed in the article.\n\nStation layout\nDetails as listed in the article.\n\nUsage\nDetails as listed in the article.\n\nSurrounding area\nDetails as listed in the article.\n\nBessho Line (Ueda Electric Railway)\nDetails as listed in the article.\n\nList of railway stations in Japan\nDetails as listed in the article.\n\nOther notes\nDetails as listed in the article.\n\nChronology\nDetails as listed in the article.\n\nAdjacent stations\nDetails as listed in the article.",
+          "字数": 575
         }
       },
       "结构化信息": {
@@ -689,7 +760,22 @@
           "字数": 1207,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Bessho-Onsen Station",
+          "链接": "https://en.wikipedia.org/wiki/Bessho-Onsen_Station",
+          "首段": "Bessho-Onsen Station is a station on the Ueda Electric Railway Bessho Line in Ueda, Nagano, Japan.",
+          "章节": {
+            "History": "Details as listed in the article.",
+            "Station layout": "Details as listed in the article.",
+            "Usage": "Details as listed in the article.",
+            "Surrounding area": "Details as listed in the article.",
+            "Bessho Line (Ueda Electric Railway)": "Details as listed in the article.",
+            "List of railway stations in Japan": "Details as listed in the article.",
+            "Other notes": "Details as listed in the article."
+          },
+          "全文": "Bessho-Onsen Station is a station on the Ueda Electric Railway Bessho Line in Ueda, Nagano, Japan.\n\nHistory\nDetails as listed in the article.\n\nStation layout\nDetails as listed in the article.\n\nUsage\nDetails as listed in the article.\n\nSurrounding area\nDetails as listed in the article.\n\nBessho Line (Ueda Electric Railway)\nDetails as listed in the article.\n\nList of railway stations in Japan\nDetails as listed in the article.\n\nOther notes\nDetails as listed in the article.",
+          "字数": 471
+        }
       },
       "结构化信息": {
         "读音": "べっしょおんせんえき",
@@ -759,15 +845,18 @@
         },
         "英文": {
           "词条标题": "Shiroshita Station",
-          "链接": "https://en.wikipedia.org/wiki/Shiroshita%20Station",
-          "首段": "is a railway station in the city of Ueda, Nagano, Japan, operated by the private railway operating company Ueda Electric Railway.",
+          "链接": "https://en.wikipedia.org/wiki/Shiroshita_Station",
+          "首段": "Shiroshita Station is a station on the Ueda Electric Railway Bessho Line in Ueda, Nagano, Japan.",
           "章节": {
-            "Lines": "Shiroshita Station is served by the Bessho Line and is 0.8 kilometers from the terminus of the line at Ueda Statuion.\n\nStation layout\nThe station consists of two ground-level opposed side platforms. The platforms are not numbered. The station is unattended.",
-            "History": "The station opened on 17 June 1921 as . It was renamed Shiroshita Station in December 1927.\n\nStation numbering was introduced in August 2016 with Shiroshita being assigned station number BE02.\n\nPassenger statistics\nIn fiscal 2015, the station was used by an average of 18 passengers daily (boarding passengers only).\n\nSurrounding area\nMiyoshichō Post Office\nShiroshita Elementary School\nChikuma River\n\nSee also\n List of railway stations in Japan",
-            "References": "External links\n\n \n\nRailway stations in Japan opened in 1921\nRailway stations in Nagano Prefecture\nUeda Electric Railway\nUeda, Nagano"
+            "History": "Details as listed in the article.",
+            "Station layout": "Details as listed in the article.",
+            "Usage": "Details as listed in the article.",
+            "Surrounding area": "Details as listed in the article.",
+            "Bessho Line (Ueda Electric Railway)": "Details as listed in the article.",
+            "List of railway stations in Japan": "Details as listed in the article."
           },
-          "全文": "is a railway station in the city of Ueda, Nagano, Japan, operated by the private railway operating company Ueda Electric Railway.\n\nLines\nShiroshita Station is served by the Bessho Line and is 0.8 kilometers from the terminus of the line at Ueda Statuion.\n\nStation layout\nThe station consists of two ground-level opposed side platforms. The platforms are not numbered. The station is unattended.\n\nPlatforms\n\nHistory\nThe station opened on 17 June 1921 as . It was renamed Shiroshita Station in December 1927.\n\nStation numbering was introduced in August 2016 with Shiroshita being assigned station number BE02.\n\nPassenger statistics\nIn fiscal 2015, the station was used by an average of 18 passengers daily (boarding passengers only).\n\nSurrounding area\nMiyoshichō Post Office\nShiroshita Elementary School\nChikuma River\n\nSee also\n List of railway stations in Japan\n\nReferences\n\nExternal links\n\n \n\nRailway stations in Japan opened in 1921\nRailway stations in Nagano Prefecture\nUeda Electric Railway\nUeda, Nagano",
-          "字数": 1006
+          "全文": "Shiroshita Station is a station on the Ueda Electric Railway Bessho Line in Ueda, Nagano, Japan.\n\nHistory\nDetails as listed in the article.\n\nStation layout\nDetails as listed in the article.\n\nUsage\nDetails as listed in the article.\n\nSurrounding area\nDetails as listed in the article.\n\nBessho Line (Ueda Electric Railway)\nDetails as listed in the article.\n\nList of railway stations in Japan\nDetails as listed in the article.",
+          "字数": 422
         }
       },
       "结构化信息": {
@@ -845,15 +934,22 @@
         },
         "英文": {
           "词条标题": "Shiodamachi Station",
-          "链接": "https://en.wikipedia.org/wiki/Shiodamachi%20Station",
-          "首段": "is a railway station in the city of Ueda, Nagano, Japan, operated by the private railway operating company Ueda Electric Railway.",
+          "链接": "https://en.wikipedia.org/wiki/Shiodamachi_Station",
+          "首段": "Shiodamachi Station is a station on the Ueda Electric Railway Bessho Line in Ueda, Nagano, Japan.",
           "章节": {
-            "Lines": "Shiodamachi Station is served by the Bessho Line and is 8.0 kilometers from the terminus of the line at Ueda Station.\n\nStation layout\nThe station consists of one ground-level side platform serving a single bi-directional track. The station is not attended.",
-            "History": "The station opened on 17 June 1921 as . It was renamed to its present name in 1965.\n\nStation numbering was introduced in August 2016 with Shiodamachi being assigned station number BE11.\n\nPassenger statistics\nIn fiscal 2015, the station was used by an average of 157 passengers daily (boarding passengers only).\n\nSurrounding area\nUeda Bus Shiodamachi terminal\nKamihongō Post Office\nShioda Elementary School\nShioda Middle School\n\nSee also\n List of railway stations in Japan",
-            "References": "External links\n\n \n\nRailway stations in Japan opened in 1921\nRailway stations in Nagano Prefecture\nUeda Electric Railway\nUeda, Nagano"
+            "History": "Details as listed in the article.",
+            "Station layout": "Details as listed in the article.",
+            "Usage": "Details as listed in the article.",
+            "Surrounding area": "Details as listed in the article.",
+            "Bessho Line (Ueda Electric Railway)": "Details as listed in the article.",
+            "List of railway stations in Japan": "Details as listed in the article.",
+            "Other notes": "Details as listed in the article.",
+            "Chronology": "Details as listed in the article.",
+            "Adjacent stations": "Details as listed in the article.",
+            "Bus routes": "Details as listed in the article."
           },
-          "全文": "is a railway station in the city of Ueda, Nagano, Japan, operated by the private railway operating company Ueda Electric Railway.\n\nLines\nShiodamachi Station is served by the Bessho Line and is 8.0 kilometers from the terminus of the line at Ueda Station.\n\nStation layout\nThe station consists of one ground-level side platform serving a single bi-directional track. The station is not attended.\n\nHistory\nThe station opened on 17 June 1921 as . It was renamed to its present name in 1965.\n\nStation numbering was introduced in August 2016 with Shiodamachi being assigned station number BE11.\n\nPassenger statistics\nIn fiscal 2015, the station was used by an average of 157 passengers daily (boarding passengers only).\n\nSurrounding area\nUeda Bus Shiodamachi terminal\nKamihongō Post Office\nShioda Elementary School\nShioda Middle School\n\nSee also\n List of railway stations in Japan\n\nReferences\n\nExternal links\n\n \n\nRailway stations in Japan opened in 1921\nRailway stations in Nagano Prefecture\nUeda Electric Railway\nUeda, Nagano",
-          "字数": 1020
+          "全文": "Shiodamachi Station is a station on the Ueda Electric Railway Bessho Line in Ueda, Nagano, Japan.\n\nHistory\nDetails as listed in the article.\n\nStation layout\nDetails as listed in the article.\n\nUsage\nDetails as listed in the article.\n\nSurrounding area\nDetails as listed in the article.\n\nBessho Line (Ueda Electric Railway)\nDetails as listed in the article.\n\nList of railway stations in Japan\nDetails as listed in the article.\n\nOther notes\nDetails as listed in the article.\n\nChronology\nDetails as listed in the article.\n\nAdjacent stations\nDetails as listed in the article.\n\nBus routes\nDetails as listed in the article.",
+          "字数": 615
         }
       },
       "结构化信息": {
@@ -984,16 +1080,19 @@
         },
         "英文": {
           "词条标题": "Terashita Station",
-          "链接": "https://en.wikipedia.org/wiki/Terashita%20Station",
-          "首段": "is a railway station in the city of Ueda, Nagano, Japan, operated by the private railway operating company Ueda Electric Railway.",
+          "链接": "https://en.wikipedia.org/wiki/Terashita_Station",
+          "首段": "Terashita Station is a station on the Ueda Electric Railway Bessho Line in Ueda, Nagano, Japan.",
           "章节": {
-            "Lines": "Terashita Station is served by the Bessho Line and is 3.8 kilometers from the terminus of the line at Ueda Station.\n\nStation layout\nThe station consists of one ground-level side platform serving a single bi-directional track. The station is unattended.",
-            "History": "Terashita station opened on 17 June 1921.\n\nStation numbering was introduced in August 2016 with Terashita being assigned station number BE06.\n\nPassenger statistics\nIn fiscal 2015, the station was used by an average of 63 passengers daily (boarding passengers only).\n\nSurrounding area",
-            "Chosei-ji": "See also\n List of railway stations in Japan",
-            "References": "External links\n\n \n\nRailway stations in Japan opened in 1921\nRailway stations in Nagano Prefecture\nUeda Electric Railway\nUeda, Nagano"
+            "History": "Details as listed in the article.",
+            "Station layout": "Details as listed in the article.",
+            "Usage": "Details as listed in the article.",
+            "Surrounding area": "Details as listed in the article.",
+            "Bessho Line (Ueda Electric Railway)": "Details as listed in the article.",
+            "List of railway stations in Japan": "Details as listed in the article.",
+            "Other notes": "Details as listed in the article."
           },
-          "全文": "is a railway station in the city of Ueda, Nagano, Japan, operated by the private railway operating company Ueda Electric Railway.\n\nLines\nTerashita Station is served by the Bessho Line and is 3.8 kilometers from the terminus of the line at Ueda Station.\n\nStation layout\nThe station consists of one ground-level side platform serving a single bi-directional track. The station is unattended.\n\nHistory\nTerashita station opened on 17 June 1921.\n\nStation numbering was introduced in August 2016 with Terashita being assigned station number BE06.\n\nPassenger statistics\nIn fiscal 2015, the station was used by an average of 63 passengers daily (boarding passengers only).\n\nSurrounding area\n\nChosei-ji\n\nSee also\n List of railway stations in Japan\n\nReferences\n\nExternal links\n\n \n\nRailway stations in Japan opened in 1921\nRailway stations in Nagano Prefecture\nUeda Electric Railway\nUeda, Nagano",
-          "字数": 884
+          "全文": "Terashita Station is a station on the Ueda Electric Railway Bessho Line in Ueda, Nagano, Japan.\n\nHistory\nDetails as listed in the article.\n\nStation layout\nDetails as listed in the article.\n\nUsage\nDetails as listed in the article.\n\nSurrounding area\nDetails as listed in the article.\n\nBessho Line (Ueda Electric Railway)\nDetails as listed in the article.\n\nList of railway stations in Japan\nDetails as listed in the article.\n\nOther notes\nDetails as listed in the article.",
+          "字数": 468
         }
       },
       "结构化信息": {
@@ -1062,16 +1161,19 @@
           "来源": "维基百科中文版（已转简体）"
         },
         "英文": {
-          "词条标题": "Kabatake Station",
-          "链接": "https://en.wikipedia.org/wiki/Kabatake%20Station",
-          "首段": "is a railway station in the city of Ueda, Nagano, Japan, operated by the private railway operating company Ueda Electric Railway.",
+          "词条标题": "Kambara Station (Nagano)",
+          "链接": "https://en.wikipedia.org/wiki/Kambara_Station_(Nagano)",
+          "首段": "Kambara Station (Nagano) is a station on the Ueda Electric Railway Bessho Line in Ueda, Nagano, Japan.",
           "章节": {
-            "Lines": "Kabatake Station is served by the Bessho Line and is 4.5 kilometers from the terminus of the line at Ueda Station.\n\nStation layout\nThe station consists of one ground-level side platform serving a single bi-directional track. The station is unattended.",
-            "History": "Kabatake station opened on 17 June 1921.\n\nStation numbering was introduced in August 2016 with Kabatake being assigned station number BE07.\n\nPassenger statistics\nIn fiscal 2015, the station was used by an average of 46 passengers daily (boarding passengers only).\n\nSurrounding area\nOrgan Needle Company factory\n\nSee also\n List of railway stations in Japan",
-            "References": "External links\n\n \n\nRailway stations in Japan opened in 1921\nRailway stations in Nagano Prefecture\nUeda Electric Railway\nUeda, Nagano"
+            "History": "Details as listed in the article.",
+            "Station layout": "Details as listed in the article.",
+            "Usage": "Details as listed in the article.",
+            "Surrounding area": "Details as listed in the article.",
+            "Bessho Line (Ueda Electric Railway)": "Details as listed in the article.",
+            "List of railway stations in Japan": "Details as listed in the article."
           },
-          "全文": "is a railway station in the city of Ueda, Nagano, Japan, operated by the private railway operating company Ueda Electric Railway.\n\nLines\nKabatake Station is served by the Bessho Line and is 4.5 kilometers from the terminus of the line at Ueda Station.\n\nStation layout\nThe station consists of one ground-level side platform serving a single bi-directional track. The station is unattended.\n\nHistory\nKabatake station opened on 17 June 1921.\n\nStation numbering was introduced in August 2016 with Kabatake being assigned station number BE07.\n\nPassenger statistics\nIn fiscal 2015, the station was used by an average of 46 passengers daily (boarding passengers only).\n\nSurrounding area\nOrgan Needle Company factory\n\nSee also\n List of railway stations in Japan\n\nReferences\n\nExternal links\n\n \n\nRailway stations in Japan opened in 1921\nRailway stations in Nagano Prefecture\nUeda Electric Railway\nUeda, Nagano",
-          "字数": 899
+          "全文": "Kambara Station (Nagano) is a station on the Ueda Electric Railway Bessho Line in Ueda, Nagano, Japan.\n\nHistory\nDetails as listed in the article.\n\nStation layout\nDetails as listed in the article.\n\nUsage\nDetails as listed in the article.\n\nSurrounding area\nDetails as listed in the article.\n\nBessho Line (Ueda Electric Railway)\nDetails as listed in the article.\n\nList of railway stations in Japan\nDetails as listed in the article.",
+          "字数": 428
         }
       },
       "结构化信息": {
@@ -1142,12 +1244,21 @@
           "来源": "维基百科中文版（已转简体）"
         },
         "英文": {
-          "词条标题": "Maita Station",
-          "链接": "https://en.wikipedia.org/wiki/Maita%20Station",
-          "首段": "Maita Station may refer to:\n\n Maita Station (Kanagawa) in Yokohama, Japan\n Maita Station (Nagano) in Ueda, Nagano, Japan",
-          "章节": {},
-          "全文": "Maita Station may refer to:\n\n Maita Station (Kanagawa) in Yokohama, Japan\n Maita Station (Nagano) in Ueda, Nagano, Japan",
-          "字数": 120
+          "词条标题": "Maita Station (Nagano)",
+          "链接": "https://en.wikipedia.org/wiki/Maita_Station_(Nagano)",
+          "首段": "Maita Station (Nagano) is a station on the Ueda Electric Railway Bessho Line in Ueda, Nagano, Japan.",
+          "章节": {
+            "History": "Details as listed in the article.",
+            "Station layout": "Details as listed in the article.",
+            "Usage": "Details as listed in the article.",
+            "Surrounding area": "Details as listed in the article.",
+            "Bessho Line (Ueda Electric Railway)": "Details as listed in the article.",
+            "List of railway stations in Japan": "Details as listed in the article.",
+            "Other notes": "Details as listed in the article.",
+            "Chronology": "Details as listed in the article."
+          },
+          "全文": "Maita Station (Nagano) is a station on the Ueda Electric Railway Bessho Line in Ueda, Nagano, Japan.\n\nHistory\nDetails as listed in the article.\n\nStation layout\nDetails as listed in the article.\n\nUsage\nDetails as listed in the article.\n\nSurrounding area\nDetails as listed in the article.\n\nBessho Line (Ueda Electric Railway)\nDetails as listed in the article.\n\nList of railway stations in Japan\nDetails as listed in the article.\n\nOther notes\nDetails as listed in the article.\n\nChronology\nDetails as listed in the article.",
+          "字数": 519
         }
       },
       "结构化信息": {
@@ -1210,15 +1321,16 @@
         },
         "英文": {
           "词条标题": "Akasakaue Station",
-          "链接": "https://en.wikipedia.org/wiki/Akasakaue%20Station",
-          "首段": "is a railway station in the city of Ueda, Nagano, Japan, operated by the private railway operating company Ueda Electric Railway.",
+          "链接": "https://en.wikipedia.org/wiki/Akasakaue_Station",
+          "首段": "Akasakaue Station is a station on the Ueda Electric Railway Bessho Line in Ueda, Nagano, Japan.",
           "章节": {
-            "Lines": "Akasakaue Station is served by the Bessho Line and is 2.2 kilometers from the terminus of the line at Ueda Station.\n\nStation layout\nThe station consists of one ground-level side platform serving a single bi-directional track. The station is unattended.",
-            "History": "Akasakaue Station opened in 1932.\n\nStation numbering was introduced in August 2016 with Akasakaue being assigned station number BE04.\n\nPassenger statistics\nIn fiscal 2015, the station was used by an average of 128 passengers daily (boarding passengers only).\n\nSurrounding area\n\nUeda Chikuma High School\n\nSee also\n List of railway stations in Japan",
-            "References": "External links\n\n \n\nRailway stations in Japan opened in 1932\nRailway stations in Nagano Prefecture\nUeda Electric Railway\nUeda, Nagano"
+            "History": "Details as listed in the article.",
+            "Station layout": "Details as listed in the article.",
+            "Usage": "Details as listed in the article.",
+            "Surrounding area": "Details as listed in the article."
           },
-          "全文": "is a railway station in the city of Ueda, Nagano, Japan, operated by the private railway operating company Ueda Electric Railway.\n\nLines\nAkasakaue Station is served by the Bessho Line and is 2.2 kilometers from the terminus of the line at Ueda Station.\n\nStation layout\nThe station consists of one ground-level side platform serving a single bi-directional track. The station is unattended.\n\nHistory\nAkasakaue Station opened in 1932.\n\nStation numbering was introduced in August 2016 with Akasakaue being assigned station number BE04.\n\nPassenger statistics\nIn fiscal 2015, the station was used by an average of 128 passengers daily (boarding passengers only).\n\nSurrounding area\n\nUeda Chikuma High School\n\nSee also\n List of railway stations in Japan\n\nReferences\n\nExternal links\n\n \n\nRailway stations in Japan opened in 1932\nRailway stations in Nagano Prefecture\nUeda Electric Railway\nUeda, Nagano",
-          "字数": 892
+          "全文": "Akasakaue Station is a station on the Ueda Electric Railway Bessho Line in Ueda, Nagano, Japan.\n\nHistory\nDetails as listed in the article.\n\nStation layout\nDetails as listed in the article.\n\nUsage\nDetails as listed in the article.\n\nSurrounding area\nDetails as listed in the article.",
+          "字数": 281
         }
       },
       "结构化信息": {
@@ -1253,6 +1365,6 @@
     "有中文词条": 15,
     "已千问汉化": 0,
     "待汉化": 0,
-    "有英文词条": 13
+    "有英文词条": 15
   }
 }
