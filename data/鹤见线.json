@@ -142,10 +142,23 @@
         "英文": {
           "词条标题": "Kokudō Station",
           "链接": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E9%81%93%E9%A7%85",
-          "首段": "Kokudō Station (国道駅) is a railway station in 県横浜市鶴見区生麦五丁目, Japan.",
-          "章节": {},
-          "全文": "Kokudō Station (国道駅) is a railway station in 県横浜市鶴見区生麦五丁目, Japan.",
-          "字数": 65
+          "首段": "Kokudō Station (国道駅) is an elevated station on the JR Tsurumi Line in Tsurumi Ward, Yokohama, Kanagawa Prefecture, Japan.",
+          "章节": {
+            "History": "Oct 28, 1930: opened as a Tsurumi Rinkō Railway station (passenger only). Jul 1, 1943: nationalized.",
+            "Origin of name": "Named for its location at the crossing of the Tsurumi Line and the Keihin National Route (present National Route 15 / Dai-Keihin).",
+            "Station layout": "An elevated, unattended station with two opposed side platforms; the platform is on a curve, with simple Suica gates.",
+            "Usage": "Average daily passengers were 1,539 in fiscal 2008; not published since it became unattended.",
+            "Surrounding area": "National Route 15 (Dai-Keihin) runs nearby.",
+            "Kagetsu-sōjiji": "The Tsurumi River rail bridge is visible from the platform.",
+            "Bus routes": "Yokohama Municipal Bus serves the 'Kokudō-ekimae' stop.",
+            "Other": "Before nationalization a 'Rinkō Department Store' stood under the elevated track.",
+            "Adjacent stations": "East Japan Railway Company (JR East).",
+            "Tsurumi Line": "Tsurumi (JI 01) – (closed) Motoyama stop – Kokudō (JI 02) – Tsurumi-Ono (JI 03).",
+            "In fiction": "Featured in the game FRAGILE: Farewell to the Moon's Ruins.",
+            "Railway stations in Tsurumi": "Kokudō Station is one of the railway stations in Tsurumi Ward, Yokohama."
+          },
+          "全文": "Kokudō Station (国道駅) is an elevated station on the JR Tsurumi Line in Tsurumi Ward, Yokohama, Kanagawa Prefecture, Japan.\n\nHistory\nOct 28, 1930: opened as a Tsurumi Rinkō Railway station (passenger only). Jul 1, 1943: nationalized.\n\nOrigin of name\nNamed for its location at the crossing of the Tsurumi Line and the Keihin National Route (present National Route 15 / Dai-Keihin).\n\nStation layout\nAn elevated, unattended station with two opposed side platforms; the platform is on a curve, with simple Suica gates.\n\nUsage\nAverage daily passengers were 1,539 in fiscal 2008; not published since it became unattended.\n\nSurrounding area\nNational Route 15 (Dai-Keihin) runs nearby.\n\nKagetsu-sōjiji\nThe Tsurumi River rail bridge is visible from the platform.\n\nBus routes\nYokohama Municipal Bus serves the 'Kokudō-ekimae' stop.\n\nOther\nBefore nationalization a 'Rinkō Department Store' stood under the elevated track.\n\nAdjacent stations\nEast Japan Railway Company (JR East).\n\nTsurumi Line\nTsurumi (JI 01) – (closed) Motoyama stop – Kokudō (JI 02) – Tsurumi-Ono (JI 03).\n\nIn fiction\nFeatured in the game FRAGILE: Farewell to the Moon's Ruins.\n\nRailway stations in Tsurumi\nKokudō Station is one of the railway stations in Tsurumi Ward, Yokohama.",
+          "字数": 1234
         }
       },
       "结构化信息": {
@@ -224,10 +237,20 @@
         "英文": {
           "词条标题": "Ōkawa Station",
           "链接": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%B7%9D%E9%A7%85",
-          "首段": "Ōkawa Station (大川駅) is a railway station in 県川崎市川崎区大川町, Japan.",
-          "章节": {},
-          "全文": "Ōkawa Station (大川駅) is a railway station in 県川崎市川崎区大川町, Japan.",
-          "字数": 62
+          "首段": "Ōkawa Station (大川駅) is the terminus of the JR Tsurumi Line Ōkawa branch in Kawasaki Ward, Kawasaki, Kanagawa Prefecture, Japan.",
+          "章节": {
+            "Overview": "The terminus of the Ōkawa branch; passenger trains run only morning and evening, with an 8-hour midday gap.",
+            "History": "Mar 10, 1926: opened as a Tsurumi Rinkō Railway freight station. Oct 28, 1930: passenger service began.",
+            "Origin of name": "Named for Heibei Ōkawa, the 'paper king' who founded many paper companies.",
+            "Station layout": "An at-grade, unattended station with a single side platform, on the west side of the track.",
+            "Freight": "JR Freight handles temporary car-load freight.",
+            "JR East": "Average daily passengers were 1,009 in fiscal 2008.",
+            "JR Freight": "Annual freight tonnage is as recorded in station statistics.",
+            "Adjacent stations": "Tsurumi Line Ōkawa branch: Anzen (JI 06) – (Musashi-Shiraishi) – Ōkawa.",
+            "Railway stations in Kawasaki": "Ōkawa Station is one of the railway stations in Kawasaki Ward, Kawasaki."
+          },
+          "全文": "Ōkawa Station (大川駅) is the terminus of the JR Tsurumi Line Ōkawa branch in Kawasaki Ward, Kawasaki, Kanagawa Prefecture, Japan.\n\nOverview\nThe terminus of the Ōkawa branch; passenger trains run only morning and evening, with an 8-hour midday gap.\n\nHistory\nMar 10, 1926: opened as a Tsurumi Rinkō Railway freight station. Oct 28, 1930: passenger service began.\n\nOrigin of name\nNamed for Heibei Ōkawa, the 'paper king' who founded many paper companies.\n\nStation layout\nAn at-grade, unattended station with a single side platform, on the west side of the track.\n\nFreight\nJR Freight handles temporary car-load freight.\n\nJR East\nAverage daily passengers were 1,009 in fiscal 2008.\n\nJR Freight\nAnnual freight tonnage is as recorded in station statistics.\n\nAdjacent stations\nTsurumi Line Ōkawa branch: Anzen (JI 06) – (Musashi-Shiraishi) – Ōkawa.\n\nRailway stations in Kawasaki\nŌkawa Station is one of the railway stations in Kawasaki Ward, Kawasaki.",
+          "字数": 941
         }
       },
       "结构化信息": {
@@ -315,10 +338,21 @@
         "英文": {
           "词条标题": "Anzen Station",
           "链接": "https://ja.wikipedia.org/wiki/%E5%AE%89%E5%96%84%E9%A7%85",
-          "首段": "Anzen Station (安善駅) is a railway station in 県横浜市鶴見区安善町一丁目, Japan.",
-          "章节": {},
-          "全文": "Anzen Station (安善駅) is a railway station in 県横浜市鶴見区安善町一丁目, Japan.",
-          "字数": 65
+          "首段": "Anzen Station (安善駅) is a station on the JR Tsurumi Line in Tsurumi Ward, Yokohama, Kanagawa Prefecture, Japan.",
+          "章节": {
+            "Overview": "Officially a main-line station, it also turns the Ōkawa branch trains back from Musashi-Shiraishi.",
+            "History": "Mar 10, 1926: opened as Anzen-chō freight station on the Tsurumi Rinkō Railway.",
+            "Origin of name": "Named for Zenjiro Yasuda, founder of the Yasuda zaibatsu who supported the Tsurumi Rinkō Railway.",
+            "Station layout": "An at-grade station with one island platform serving two tracks, linked by a foot crossing.",
+            "Freight/siding": "Handles private-siding freight; a siding runs toward the former Hama-Anzen station and the US military Tsurumi depot.",
+            "Passengers": "Average daily passengers were 1,625 in fiscal 2008.",
+            "Freight": "Annual freight tonnage is as recorded.",
+            "Other": "Tickets briefly sold well among young people because 'Anzen' means 'safety'.",
+            "Adjacent stations": "Asano (JI 05) – Anzen (JI 06) – Musashi-Shiraishi.",
+            "Railway stations in Tsurumi": "Anzen Station is one of the railway stations in Tsurumi Ward, Yokohama."
+          },
+          "全文": "Anzen Station (安善駅) is a station on the JR Tsurumi Line in Tsurumi Ward, Yokohama, Kanagawa Prefecture, Japan.\n\nOverview\nOfficially a main-line station, it also turns the Ōkawa branch trains back from Musashi-Shiraishi.\n\nHistory\nMar 10, 1926: opened as Anzen-chō freight station on the Tsurumi Rinkō Railway.\n\nOrigin of name\nNamed for Zenjiro Yasuda, founder of the Yasuda zaibatsu who supported the Tsurumi Rinkō Railway.\n\nStation layout\nAn at-grade station with one island platform serving two tracks, linked by a foot crossing.\n\nFreight/siding\nHandles private-siding freight; a siding runs toward the former Hama-Anzen station and the US military Tsurumi depot.\n\nPassengers\nAverage daily passengers were 1,625 in fiscal 2008.\n\nFreight\nAnnual freight tonnage is as recorded.\n\nOther\nTickets briefly sold well among young people because 'Anzen' means 'safety'.\n\nAdjacent stations\nAsano (JI 05) – Anzen (JI 06) – Musashi-Shiraishi.\n\nRailway stations in Tsurumi\nAnzen Station is one of the railway stations in Tsurumi Ward, Yokohama.",
+          "字数": 1031
         }
       },
       "结构化信息": {
@@ -411,10 +445,21 @@
         "英文": {
           "词条标题": "弁天橋駅",
           "链接": "https://ja.wikipedia.org/wiki/%E5%BC%81%E5%A4%A9%E6%A9%8B%E9%A7%85",
-          "首段": "弁天橋駅 (弁天橋駅) is a railway station in 県横浜市鶴見区弁天町, Japan.",
-          "章节": {},
-          "全文": "弁天橋駅 (弁天橋駅) is a railway station in 県横浜市鶴見区弁天町, Japan.",
-          "字数": 54
+          "首段": "Bentembashi Station (弁天橋駅) is a station on the JR Tsurumi Line in Tsurumi Ward, Yokohama, Kanagawa Prefecture, Japan.",
+          "章节": {
+            "History": "Mar 10, 1926: opened as the terminus of the Tsurumi Rinkō Railway from Hamakawasaki, as a freight station.",
+            "Origin of name": "Named for the red bridge over a pond dedicated to Benten, the fishermen's guardian, near the station.",
+            "Station layout": "An at-grade station with one island platform serving two tracks, reached by a foot crossing, with simple Suica gates.",
+            "Usage": "Average daily passengers were 5,416 in fiscal 2008.",
+            "Surrounding area": "An industrial zone surrounds the station.",
+            "Yokohama Municipal Bus": "Route 15 to Tsurumi Station.",
+            "Kawasaki Tsurumi Rinkō Bus": "Route Tsurumi 08 to Tsurumi east exit / Fure-yu.",
+            "Adjacent stations": "Tsurumi-Ono (JI 03) – Bentembashi (JI 04) – Asano (JI 05).",
+            "Tsurumi Line": "Bentembashi Station is on the Tsurumi Line.",
+            "Railway stations in Tsurumi": "Bentembashi Station is one of the railway stations in Tsurumi Ward, Yokohama."
+          },
+          "全文": "Bentembashi Station (弁天橋駅) is a station on the JR Tsurumi Line in Tsurumi Ward, Yokohama, Kanagawa Prefecture, Japan.\n\nHistory\nMar 10, 1926: opened as the terminus of the Tsurumi Rinkō Railway from Hamakawasaki, as a freight station.\n\nOrigin of name\nNamed for the red bridge over a pond dedicated to Benten, the fishermen's guardian, near the station.\n\nStation layout\nAn at-grade station with one island platform serving two tracks, reached by a foot crossing, with simple Suica gates.\n\nUsage\nAverage daily passengers were 5,416 in fiscal 2008.\n\nSurrounding area\nAn industrial zone surrounds the station.\n\nYokohama Municipal Bus\nRoute 15 to Tsurumi Station.\n\nKawasaki Tsurumi Rinkō Bus\nRoute Tsurumi 08 to Tsurumi east exit / Fure-yu.\n\nAdjacent stations\nTsurumi-Ono (JI 03) – Bentembashi (JI 04) – Asano (JI 05).\n\nTsurumi Line\nBentembashi Station is on the Tsurumi Line.\n\nRailway stations in Tsurumi\nBentembashi Station is one of the railway stations in Tsurumi Ward, Yokohama.",
+          "字数": 977
         }
       },
       "结构化信息": {
@@ -548,10 +593,20 @@
         "英文": {
           "词条标题": "新芝浦駅",
           "链接": "https://ja.wikipedia.org/wiki/%E6%96%B0%E8%8A%9D%E6%B5%A6%E9%A7%85",
-          "首段": "新芝浦駅 (新芝浦駅) is a railway station in 県横浜市鶴見区末広町二丁目, Japan.",
-          "章节": {},
-          "全文": "新芝浦駅 (新芝浦駅) is a railway station in 県横浜市鶴見区末広町二丁目, Japan.",
-          "字数": 57
+          "首段": "Shin-Shibaura Station (新芝浦駅) is a station on the JR Tsurumi Line Umishibaura branch in Tsurumi Ward, Yokohama, Kanagawa Prefecture, Japan.",
+          "章节": {
+            "History": "Jun 10, 1932: opened as the terminus from Asano on the Tsurumi Rinkō Railway.",
+            "Origin of name": "Opened as the nearest station to Shibaura Seisakusho (now Toshiba); 'Shin' distinguishes it from Tokyo's Shibaura freight station.",
+            "Station layout": "An at-grade station with two opposed side platforms; up trains (Asano) on the west, down trains (Umishibaura) on the east.",
+            "Freight/siding": "Handles temporary car-load freight for Toshiba Energy Systems.",
+            "JR East": "Average daily passengers were 362 in fiscal 2008, the least-used on the Tsurumi Line.",
+            "JR Freight": "Annual freight tonnage is as recorded.",
+            "Surrounding area": "On reclaimed land in an industrial zone; the Toshiba Keihin works entrance is just to the south.",
+            "Adjacent stations": "Asano (JI 05) – Shin-Shibaura (JI 51) – Umishibaura.",
+            "Railway stations in Tsurumi": "Shin-Shibaura Station is one of the railway stations in Tsurumi Ward, Yokohama."
+          },
+          "全文": "Shin-Shibaura Station (新芝浦駅) is a station on the JR Tsurumi Line Umishibaura branch in Tsurumi Ward, Yokohama, Kanagawa Prefecture, Japan.\n\nHistory\nJun 10, 1932: opened as the terminus from Asano on the Tsurumi Rinkō Railway.\n\nOrigin of name\nOpened as the nearest station to Shibaura Seisakusho (now Toshiba); 'Shin' distinguishes it from Tokyo's Shibaura freight station.\n\nStation layout\nAn at-grade station with two opposed side platforms; up trains (Asano) on the west, down trains (Umishibaura) on the east.\n\nFreight/siding\nHandles temporary car-load freight for Toshiba Energy Systems.\n\nJR East\nAverage daily passengers were 362 in fiscal 2008, the least-used on the Tsurumi Line.\n\nJR Freight\nAnnual freight tonnage is as recorded.\n\nSurrounding area\nOn reclaimed land in an industrial zone; the Toshiba Keihin works entrance is just to the south.\n\nAdjacent stations\nAsano (JI 05) – Shin-Shibaura (JI 51) – Umishibaura.\n\nRailway stations in Tsurumi\nShin-Shibaura Station is one of the railway stations in Tsurumi Ward, Yokohama.",
+          "字数": 1032
         }
       },
       "结构化信息": {
@@ -637,10 +692,20 @@
         "英文": {
           "词条标题": "昭和駅",
           "链接": "https://ja.wikipedia.org/wiki/%E6%98%AD%E5%92%8C%E9%A7%85",
-          "首段": "昭和駅 (昭和駅) is a railway station in 県川崎市川崎区扇町, Japan.",
-          "章节": {},
-          "全文": "昭和駅 (昭和駅) is a railway station in 県川崎市川崎区扇町, Japan.",
-          "字数": 51
+          "首段": "Shōwa Station (昭和駅) is a station on the JR Tsurumi Line in Kawasaki Ward, Kawasaki, Kanagawa Prefecture, Japan.",
+          "章节": {
+            "History": "Mar 20, 1931: opened as the Shōwa stop on the Tsurumi Rinkō Railway (passenger only).",
+            "Origin of name": "Named for the Shōwa Fertilizer plant (later Shōwa Denkō, now Resonac) nearby.",
+            "Station layout": "An at-grade, unattended station with a single side platform; the station building was rebuilt in 2017.",
+            "Usage": "Average daily passengers were 569 in fiscal 2008, the least-used on the Tsurumi main line.",
+            "Kawasaki City Bus": "Route Kawa 13 to Kawasaki Station / Ōgimachi.",
+            "Kawasaki Tsurumi Rinkō Bus": "Route Kawa 22 to Kawasaki Station / Mitsui Futo.",
+            "Adjacent stations": "Hamakawasaki (JI 08) – Shōwa (JI 09) – Ōgimachi (JI 10).",
+            "Tsurumi Line": "Shōwa Station is on the Tsurumi Line.",
+            "Railway stations in Kawasaki": "Shōwa Station is one of the railway stations in Kawasaki Ward, Kawasaki."
+          },
+          "全文": "Shōwa Station (昭和駅) is a station on the JR Tsurumi Line in Kawasaki Ward, Kawasaki, Kanagawa Prefecture, Japan.\n\nHistory\nMar 20, 1931: opened as the Shōwa stop on the Tsurumi Rinkō Railway (passenger only).\n\nOrigin of name\nNamed for the Shōwa Fertilizer plant (later Shōwa Denkō, now Resonac) nearby.\n\nStation layout\nAn at-grade, unattended station with a single side platform; the station building was rebuilt in 2017.\n\nUsage\nAverage daily passengers were 569 in fiscal 2008, the least-used on the Tsurumi main line.\n\nKawasaki City Bus\nRoute Kawa 13 to Kawasaki Station / Ōgimachi.\n\nKawasaki Tsurumi Rinkō Bus\nRoute Kawa 22 to Kawasaki Station / Mitsui Futo.\n\nAdjacent stations\nHamakawasaki (JI 08) – Shōwa (JI 09) – Ōgimachi (JI 10).\n\nTsurumi Line\nShōwa Station is on the Tsurumi Line.\n\nRailway stations in Kawasaki\nShōwa Station is one of the railway stations in Kawasaki Ward, Kawasaki.",
+          "字数": 890
         }
       },
       "结构化信息": {
@@ -720,10 +785,21 @@
         "英文": {
           "词条标题": "武蔵白石駅",
           "链接": "https://ja.wikipedia.org/wiki/%E6%AD%A6%E8%94%B5%E7%99%BD%E7%9F%B3%E9%A7%85",
-          "首段": "武蔵白石駅 (武蔵白石駅) is a railway station in 県川崎市川崎区白石町, Japan.",
-          "章节": {},
-          "全文": "武蔵白石駅 (武蔵白石駅) is a railway station in 県川崎市川崎区白石町, Japan.",
-          "字数": 56
+          "首段": "Musashi-Shiraishi Station (武蔵白石駅) is a station on the JR Tsurumi Line in Kawasaki Ward, Kawasaki, Kanagawa Prefecture, Japan.",
+          "章节": {
+            "Overview": "Although in Kawasaki, it is treated as a 'Yokohama' station under JR's special metropolitan fare system; it is the junction for the Ōkawa branch.",
+            "History": "Mar 10, 1926: opened as the first Musashi-Shiraishi freight station on the Tsurumi Rinkō Railway.",
+            "Origin of name": "Named for Genjirō Shiraishi, founder of Nippon Kōkan (NKK); 'Musashi' was added because Shiraishi Station already existed elsewhere.",
+            "Station layout": "An at-grade station with two opposed side platforms; the station building on the north connects directly to the Ōgimachi-bound platform.",
+            "Former Ōkawa platform": "Until March 1996 the Ōkawa branch had its own platform on a sharp 90-degree curve.",
+            "Usage": "Average daily passengers were 1,601 in fiscal 2008.",
+            "Adjacent stations": "Anzen (JI 06) – Musashi-Shiraishi (JI 07) – Hamakawasaki (JI 08).",
+            "Facility adjacent": "Ōkawa branch trains do not stop here.",
+            "Railway stations in Kawasaki": "Musashi-Shiraishi Station is one of the railway stations in Kawasaki Ward, Kawasaki.",
+            "Tsurumi Line": "Musashi-Shiraishi Station is an interchange on the Tsurumi Line main line and the Ōkawa branch."
+          },
+          "全文": "Musashi-Shiraishi Station (武蔵白石駅) is a station on the JR Tsurumi Line in Kawasaki Ward, Kawasaki, Kanagawa Prefecture, Japan.\n\nOverview\nAlthough in Kawasaki, it is treated as a 'Yokohama' station under JR's special metropolitan fare system; it is the junction for the Ōkawa branch.\n\nHistory\nMar 10, 1926: opened as the first Musashi-Shiraishi freight station on the Tsurumi Rinkō Railway.\n\nOrigin of name\nNamed for Genjirō Shiraishi, founder of Nippon Kōkan (NKK); 'Musashi' was added because Shiraishi Station already existed elsewhere.\n\nStation layout\nAn at-grade station with two opposed side platforms; the station building on the north connects directly to the Ōgimachi-bound platform.\n\nFormer Ōkawa platform\nUntil March 1996 the Ōkawa branch had its own platform on a sharp 90-degree curve.\n\nUsage\nAverage daily passengers were 1,601 in fiscal 2008.\n\nAdjacent stations\nAnzen (JI 06) – Musashi-Shiraishi (JI 07) – Hamakawasaki (JI 08).\n\nFacility adjacent\nŌkawa branch trains do not stop here.\n\nRailway stations in Kawasaki\nMusashi-Shiraishi Station is one of the railway stations in Kawasaki Ward, Kawasaki.\n\nTsurumi Line\nMusashi-Shiraishi Station is an interchange on the Tsurumi Line main line and the Ōkawa branch.",
+          "字数": 1222
         }
       },
       "结构化信息": {
@@ -805,10 +881,18 @@
         "英文": {
           "词条标题": "Asano Station",
           "链接": "https://ja.wikipedia.org/wiki/%E6%B5%85%E9%87%8E%E9%A7%85",
-          "首段": "Asano Station (浅野駅) is a railway station in 県横浜市鶴見区末広町二丁目, Japan.",
-          "章节": {},
-          "全文": "Asano Station (浅野駅) is a railway station in 県横浜市鶴見区末広町二丁目, Japan.",
-          "字数": 65
+          "首段": "Asano Station (浅野駅) is a station on the JR Tsurumi Line in Tsurumi Ward, Yokohama, Kanagawa Prefecture, Japan.",
+          "章节": {
+            "History": "Mar 10, 1926: opened as a freight station on the Tsurumi Rinkō Railway.",
+            "Origin of name": "Named for Sōichirō Asano, founder of the Asano zaibatsu and the Tsurumi Rinkō Railway.",
+            "Station layout": "The Ōgimachi and Umishibaura routes diverge here; Ōgimachi uses an island platform, Umishibaura uses two opposed side platforms.",
+            "Usage": "Average daily passengers were 894 in fiscal 2008.",
+            "Irifune Park": "Pilots Studio ZONE ID (a film studio on a former factory site) and Kanagawa Prefectural Route 6 are nearby.",
+            "Adjacent stations": "Bentembashi (JI 04) – Asano (JI 05) – Anzen.",
+            "Railway stations in Tsurumi": "Asano Station is one of the railway stations in Tsurumi Ward, Yokohama."
+          },
+          "全文": "Asano Station (浅野駅) is a station on the JR Tsurumi Line in Tsurumi Ward, Yokohama, Kanagawa Prefecture, Japan.\n\nHistory\nMar 10, 1926: opened as a freight station on the Tsurumi Rinkō Railway.\n\nOrigin of name\nNamed for Sōichirō Asano, founder of the Asano zaibatsu and the Tsurumi Rinkō Railway.\n\nStation layout\nThe Ōgimachi and Umishibaura routes diverge here; Ōgimachi uses an island platform, Umishibaura uses two opposed side platforms.\n\nUsage\nAverage daily passengers were 894 in fiscal 2008.\n\nIrifune Park\nPilots Studio ZONE ID (a film studio on a former factory site) and Kanagawa Prefectural Route 6 are nearby.\n\nAdjacent stations\nBentembashi (JI 04) – Asano (JI 05) – Anzen.\n\nRailway stations in Tsurumi\nAsano Station is one of the railway stations in Tsurumi Ward, Yokohama.",
+          "字数": 783
         }
       },
       "结构化信息": {
@@ -895,10 +979,21 @@
         "英文": {
           "词条标题": "浜川崎駅",
           "链接": "https://ja.wikipedia.org/wiki/%E6%B5%9C%E5%B7%9D%E5%B4%8E%E9%A7%85",
-          "首段": "浜川崎駅 (浜川崎駅) is a railway station in 県川崎市川崎区, Japan.",
-          "章节": {},
-          "全文": "浜川崎駅 (浜川崎駅) is a railway station in 県川崎市川崎区, Japan.",
-          "字数": 51
+          "首段": "Hamakawasaki Station (浜川崎駅) is a junction of the JR Tsurumi Line, Nambu Line and Tokaido Line freight branch in Kawasaki Ward, Kawasaki, Kanagawa Prefecture, Japan.",
+          "章节": {
+            "Lines": "Served by the Tokaido Line freight branch, the Tsurumi Line and the Nambu Line (Hamakawasaki branch).",
+            "History": "May 1, 1918: opened as the terminus freight station of the JNR Tokaido Line freight branch.",
+            "Passenger station": "The Nambu and Tsurumi passenger stations have separate buildings across the road; both are unattended.",
+            "Freight station": "The JR Freight station, east of the passenger platforms, is staffed and sorts freight cars.",
+            "JR East": "Average daily passengers were 2,606 in fiscal 2008.",
+            "JR Freight": "Annual freight tonnage is as recorded.",
+            "Adjacent stations": "Musashi-Shiraishi (JI 07) – Hamakawasaki (JI 08) – Shōwa (JI 09).",
+            "Tokaido freight branch": "Kawasaki Freight – Hamakawasaki.",
+            "Tsurumi Line": "Hamakawasaki Station is on the Tsurumi Line.",
+            "Railway stations in Kawasaki": "Hamakawasaki Station is one of the railway stations in Kawasaki Ward, Kawasaki."
+          },
+          "全文": "Hamakawasaki Station (浜川崎駅) is a junction of the JR Tsurumi Line, Nambu Line and Tokaido Line freight branch in Kawasaki Ward, Kawasaki, Kanagawa Prefecture, Japan.\n\nLines\nServed by the Tokaido Line freight branch, the Tsurumi Line and the Nambu Line (Hamakawasaki branch).\n\nHistory\nMay 1, 1918: opened as the terminus freight station of the JNR Tokaido Line freight branch.\n\nPassenger station\nThe Nambu and Tsurumi passenger stations have separate buildings across the road; both are unattended.\n\nFreight station\nThe JR Freight station, east of the passenger platforms, is staffed and sorts freight cars.\n\nJR East\nAverage daily passengers were 2,606 in fiscal 2008.\n\nJR Freight\nAnnual freight tonnage is as recorded.\n\nAdjacent stations\nMusashi-Shiraishi (JI 07) – Hamakawasaki (JI 08) – Shōwa (JI 09).\n\nTokaido freight branch\nKawasaki Freight – Hamakawasaki.\n\nTsurumi Line\nHamakawasaki Station is on the Tsurumi Line.\n\nRailway stations in Kawasaki\nHamakawasaki Station is one of the railway stations in Kawasaki Ward, Kawasaki.",
+          "字数": 1028
         }
       },
       "结构化信息": {
@@ -991,10 +1086,22 @@
         "英文": {
           "词条标题": "海芝浦駅",
           "链接": "https://ja.wikipedia.org/wiki/%E6%B5%B7%E8%8A%9D%E6%B5%A6%E9%A7%85",
-          "首段": "海芝浦駅 (海芝浦駅) is a railway station in 県横浜市鶴見区末広町二丁目, Japan.",
-          "章节": {},
-          "全文": "海芝浦駅 (海芝浦駅) is a railway station in 県横浜市鶴見区末広町二丁目, Japan.",
-          "字数": 57
+          "首段": "Umishibaura Station (海芝浦駅) is the terminus of the JR Tsurumi Line Umishibaura branch in Tsurumi Ward, Yokohama, Kanagawa Prefecture, Japan.",
+          "章节": {
+            "History": "Nov 1, 1940: opened as a Tsurumi Rinkō Railway station (passenger only).",
+            "Origin of name": "Combines 'Shibaura' (from Toshiba's predecessor Shibaura Seisakusho) with 'Umi' (sea) because the station adjoins the sea.",
+            "Station layout": "An at-grade terminus with a single side platform; the ticket gate at the terminal end has only a simple Suica gate.",
+            "Authorized visitors": "Outside visitors to the Toshiba works are directed to alight at Shin-Shibaura instead.",
+            "Usage": "Average daily passengers were 3,250 in fiscal 2008.",
+            "Umi-Shiba Park": "A private park next to the station created by Toshiba for waiting passengers.",
+            "Media coverage": "The distinctive station has featured on television several times.",
+            "Adjacent stations": "Shin-Shibaura (JI 51) – Umishibaura (JI 52).",
+            "List of railway stations in Japan": "One of several unusual 'secret' stations in Japan.",
+            "Railway stations in Tsurumi": "Umishibaura Station is one of the railway stations in Tsurumi Ward, Yokohama.",
+            "Tsurumi Line": "Umishibaura Station is the Umishibaura branch terminus."
+          },
+          "全文": "Umishibaura Station (海芝浦駅) is the terminus of the JR Tsurumi Line Umishibaura branch in Tsurumi Ward, Yokohama, Kanagawa Prefecture, Japan.\n\nHistory\nNov 1, 1940: opened as a Tsurumi Rinkō Railway station (passenger only).\n\nOrigin of name\nCombines 'Shibaura' (from Toshiba's predecessor Shibaura Seisakusho) with 'Umi' (sea) because the station adjoins the sea.\n\nStation layout\nAn at-grade terminus with a single side platform; the ticket gate at the terminal end has only a simple Suica gate.\n\nAuthorized visitors\nOutside visitors to the Toshiba works are directed to alight at Shin-Shibaura instead.\n\nUsage\nAverage daily passengers were 3,250 in fiscal 2008.\n\nUmi-Shiba Park\nA private park next to the station created by Toshiba for waiting passengers.\n\nMedia coverage\nThe distinctive station has featured on television several times.\n\nAdjacent stations\nShin-Shibaura (JI 51) – Umishibaura (JI 52).\n\nList of railway stations in Japan\nOne of several unusual 'secret' stations in Japan.\n\nRailway stations in Tsurumi\nUmishibaura Station is one of the railway stations in Tsurumi Ward, Yokohama.\n\nTsurumi Line\nUmishibaura Station is the Umishibaura branch terminus.",
+          "字数": 1162
         }
       },
       "结构化信息": {
@@ -1094,10 +1201,28 @@
         "英文": {
           "词条标题": "Tsurumi Station",
           "链接": "https://ja.wikipedia.org/wiki/%E9%B6%B4%E8%A6%8B%E9%A7%85",
-          "首段": "Tsurumi Station (鶴見駅) is a railway station in 県横浜市鶴見区鶴見中央一丁目, Japan.",
-          "章节": {},
-          "全文": "Tsurumi Station (鶴見駅) is a railway station in 県横浜市鶴見区鶴見中央一丁目, Japan.",
-          "字数": 68
+          "首段": "Tsurumi Station (鶴見駅) is a major JR interchange in Tsurumi Ward, Yokohama, Kanagawa Prefecture, Japan, served by the Keihin-Tōhoku and Tsurumi lines.",
+          "章节": {
+            "Lines": "A key junction served by the Keihin-Tōhoku Line, Tsurumi Line and several freight branches.",
+            "Tokaido branch": "The 'Tsurumi-Shio' branch runs to Hatchōnawate.",
+            "History": "Opened Oct 14, 1872 with the opening of the Shinbashi–Yokohama line, Japan's first railway.",
+            "Chronology": "Oct 15, 1872: opened, the sixth railway station in Japan.",
+            "Station layout": "Keihin-Tōhoku Line uses an at-grade island platform; the Tsurumi Line uses an elevated bay platform to the west.",
+            "Departure melody": "Uses melodies by Toyo Media Links (Keihin-Tōhoku) and Teichiku (Tsurumi Line).",
+            "Shops": "NewDays kiosks are located outside the west gate and inside the concourse.",
+            "Usage": "Average daily passengers were 66,024 in fiscal 2022.",
+            "Surrounding area": "The area is designated a major urban sub-center of Yokohama.",
+            "East exit": "Kawasaki Tsurumi Rinkō and Yokohama Municipal buses depart from the east exit.",
+            "West exit": "The west exit rotary has bus stops 1–10 and the 'Tsurumi-iriguchi' stop 11.",
+            "Other": "A planned extension of the Yokohama Municipal Subway Green Line from Hiyoshi has not begun construction.",
+            "Adjacent stations": "Kawasaki (JK 16) – Tsurumi (JK 15) – Shin-Koyasu (JK 14).",
+            "Rapid/local": "Keihin-Tōhoku local services stop at all stations.",
+            "Tsurumi Line": "Tsurumi (JI 01) – (closed) Motoyama – Kokudō (JI 02).",
+            "Freight branch": "Tsurumi–Hatchōnawate; and Shin-Kawasaki–Shin-Tsurumi signal base.",
+            "Railway stations in Tsurumi": "Tsurumi Station is one of the railway stations in Tsurumi Ward, Yokohama."
+          },
+          "全文": "Tsurumi Station (鶴見駅) is a major JR interchange in Tsurumi Ward, Yokohama, Kanagawa Prefecture, Japan, served by the Keihin-Tōhoku and Tsurumi lines.\n\nLines\nA key junction served by the Keihin-Tōhoku Line, Tsurumi Line and several freight branches.\n\nTokaido branch\nThe 'Tsurumi-Shio' branch runs to Hatchōnawate.\n\nHistory\nOpened Oct 14, 1872 with the opening of the Shinbashi–Yokohama line, Japan's first railway.\n\nChronology\nOct 15, 1872: opened, the sixth railway station in Japan.\n\nStation layout\nKeihin-Tōhoku Line uses an at-grade island platform; the Tsurumi Line uses an elevated bay platform to the west.\n\nDeparture melody\nUses melodies by Toyo Media Links (Keihin-Tōhoku) and Teichiku (Tsurumi Line).\n\nShops\nNewDays kiosks are located outside the west gate and inside the concourse.\n\nUsage\nAverage daily passengers were 66,024 in fiscal 2022.\n\nSurrounding area\nThe area is designated a major urban sub-center of Yokohama.\n\nEast exit\nKawasaki Tsurumi Rinkō and Yokohama Municipal buses depart from the east exit.\n\nWest exit\nThe west exit rotary has bus stops 1–10 and the 'Tsurumi-iriguchi' stop 11.\n\nOther\nA planned extension of the Yokohama Municipal Subway Green Line from Hiyoshi has not begun construction.\n\nAdjacent stations\nKawasaki (JK 16) – Tsurumi (JK 15) – Shin-Koyasu (JK 14).\n\nRapid/local\nKeihin-Tōhoku local services stop at all stations.\n\nTsurumi Line\nTsurumi (JI 01) – (closed) Motoyama – Kokudō (JI 02).\n\nFreight branch\nTsurumi–Hatchōnawate; and Shin-Kawasaki–Shin-Tsurumi signal base.\n\nRailway stations in Tsurumi\nTsurumi Station is one of the railway stations in Tsurumi Ward, Yokohama.",
+          "字数": 1613
         }
       },
       "结构化信息": {
@@ -1196,10 +1321,20 @@
         "英文": {
           "词条标题": "鶴見小野駅",
           "链接": "https://ja.wikipedia.org/wiki/%E9%B6%B4%E8%A6%8B%E5%B0%8F%E9%87%8E%E9%A7%85",
-          "首段": "鶴見小野駅 (鶴見小野駅) is a railway station in 県横浜市鶴見区小野町, Japan.",
-          "章节": {},
-          "全文": "鶴見小野駅 (鶴見小野駅) is a railway station in 県横浜市鶴見区小野町, Japan.",
-          "字数": 56
+          "首段": "Tsurumi-Ono Station (鶴見小野駅) is a station on the JR Tsurumi Line in Tsurumi Ward, Yokohama, Kanagawa Prefecture, Japan.",
+          "章节": {
+            "History": "Dec 8, 1936: opened as the Kōgyō-gakkō-mae stop on the Tsurumi Rinkō Railway.",
+            "Origin of name": "Named for Ono-chō, the locality, itself named for the local Ono family headmen of the late Edo/Meiji era.",
+            "Station layout": "An at-grade station with two opposed side platforms beside a level crossing, with separate up/down station buildings.",
+            "Usage": "Average daily passengers were 4,905 in fiscal 2008.",
+            "Surrounding area": "Residential areas and the Ono-chō shopping street spread around; the Yokohama Science Frontier district is nearby.",
+            "Music": "A once-'Japan's only' analog record-pressing plant and the Toyo Kaseki Suehiro factory are nearby.",
+            "Adjacent stations": "Kokudō (JI 02) – Tsurumi-Ono (JI 03) – Bentembashi (JI 04).",
+            "Tsurumi Line": "Tsurumi-Ono Station is on the Tsurumi Line.",
+            "Railway stations in Tsurumi": "Tsurumi-Ono Station is one of the railway stations in Tsurumi Ward, Yokohama."
+          },
+          "全文": "Tsurumi-Ono Station (鶴見小野駅) is a station on the JR Tsurumi Line in Tsurumi Ward, Yokohama, Kanagawa Prefecture, Japan.\n\nHistory\nDec 8, 1936: opened as the Kōgyō-gakkō-mae stop on the Tsurumi Rinkō Railway.\n\nOrigin of name\nNamed for Ono-chō, the locality, itself named for the local Ono family headmen of the late Edo/Meiji era.\n\nStation layout\nAn at-grade station with two opposed side platforms beside a level crossing, with separate up/down station buildings.\n\nUsage\nAverage daily passengers were 4,905 in fiscal 2008.\n\nSurrounding area\nResidential areas and the Ono-chō shopping street spread around; the Yokohama Science Frontier district is nearby.\n\nMusic\nA once-'Japan's only' analog record-pressing plant and the Toyo Kaseki Suehiro factory are nearby.\n\nAdjacent stations\nKokudō (JI 02) – Tsurumi-Ono (JI 03) – Bentembashi (JI 04).\n\nTsurumi Line\nTsurumi-Ono Station is on the Tsurumi Line.\n\nRailway stations in Tsurumi\nTsurumi-Ono Station is one of the railway stations in Tsurumi Ward, Yokohama.",
+          "字数": 1003
         }
       },
       "结构化信息": {
