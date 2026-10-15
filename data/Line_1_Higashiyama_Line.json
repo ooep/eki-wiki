@@ -54,7 +54,14 @@
         "字数": 1187,
         "来源": "维基百科中文版（已转简体）"
       },
-      "英文": null
+      "英文": {
+        "词条标题": "Higashiyama Line",
+        "链接": "https://en.wikipedia.org/wiki/Higashiyama_Line",
+        "首段": "The Higashiyama Line (東山線, Higashiyama-sen) is a subway line in Nagoya, Aichi Prefecture, Japan, operated by the Transportation Bureau City of Nagoya. It runs from Takabata Station in Nakagawa Ward to Fujigaoka Station in Meito Ward, and is officially designated Route 1. Its characteristic color is yellow (rapeseed yellow / Windsor yellow), and its station numbering symbol is H. All stations accept manaca and other Nationwide Mutual Service compatible IC cards.",
+        "章节": {},
+        "全文": "The Higashiyama Line (東山線, Higashiyama-sen) is a subway line in Nagoya, Aichi Prefecture, Japan, operated by the Transportation Bureau City of Nagoya. It runs from Takabata Station in Nakagawa Ward to Fujigaoka Station in Meito Ward, and is officially designated Route 1. Its characteristic color is yellow (rapeseed yellow / Windsor yellow), and its station numbering symbol is H. All stations accept manaca and other Nationwide Mutual Service compatible IC cards.",
+        "字数": 465
+      }
     }
   },
   "车站": [
@@ -98,7 +105,14 @@
           "字数": 227,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Issha Station",
+          "链接": "https://ja.wikipedia.org/wiki/一社駅",
+          "首段": "Issha Station (一社駅, Issha-eki) is a subway station on the Nagoya Municipal Subway Higashiyama Line located in Issha Itchome, Meito-ku, Nagoya, Aichi Prefecture, Japan. Station number is H19. The line emerges from underground east of this station and becomes an elevated line until the terminus at Fujigaoka.",
+          "章节": {},
+          "全文": "Issha Station (一社駅, Issha-eki) is a subway station on the Nagoya Municipal Subway Higashiyama Line located in Issha Itchome, Meito-ku, Nagoya, Aichi Prefecture, Japan. Station number is H19. The line emerges from underground east of this station and becomes an elevated line until the terminus at Fujigaoka.",
+          "字数": 307
+        }
       },
       "结构化信息": {
         "读音": "いっしゃえき",
@@ -172,17 +186,11 @@
         },
         "英文": {
           "词条标题": "Kamiyashiro Station",
-          "链接": "https://en.wikipedia.org/wiki/Kamiyashiro%20Station",
-          "首段": "is an above ground metro station located in Meitō-ku, Nagoya, Aichi Prefecture, Japan operated by the Nagoya Municipal Subway's Higashiyama Line. It is located 18.6 rail kilometers from the terminus of the Higashiyama Line at Takabata Station. This station provides access to Nagoya University of Arts and Sciences.",
-          "章节": {
-            "History": "Kamiyashiro Station was opened on 10 December 1970. The wicket gates were automated to use the Manaca smart card system from 11 February 2011.",
-            "Lines": "(Station number: H20)",
-            "Layout": "Kamiyashiro Station has two elevated opposed side platforms.",
-            "Platforms": "External links\n Kamiyashiro Station official web site",
-            "References": "Railway stations in Japan opened in 1970\nRailway stations in Aichi Prefecture"
-          },
-          "全文": "is an above ground metro station located in Meitō-ku, Nagoya, Aichi Prefecture, Japan operated by the Nagoya Municipal Subway's Higashiyama Line. It is located 18.6 rail kilometers from the terminus of the Higashiyama Line at Takabata Station. This station provides access to Nagoya University of Arts and Sciences.\n\nHistory\nKamiyashiro Station was opened on 10 December 1970. The wicket gates were automated to use the Manaca smart card system from 11 February 2011.\n\nLines\n\n (Station number: H20)\n\nLayout\nKamiyashiro Station has two elevated opposed side platforms.\n\nPlatforms\n\nExternal links\n Kamiyashiro Station official web site\n\nReferences\n\nRailway stations in Japan opened in 1970\nRailway stations in Aichi Prefecture",
-          "字数": 724
+          "链接": "https://ja.wikipedia.org/wiki/上社駅",
+          "首段": "Kamiyashiro Station (上社駅, Kamiyashiro-eki) is an elevated subway station on the Nagoya Municipal Subway Higashiyama Line located in Kamiyashiro Itchome, Meito-ku, Nagoya, Aichi Prefecture, Japan. Station number is H20. It opened on December 10, 1970. The station building is integrated with the Kamiyashiro Terminal Building, which houses a cultural small theater, apartments, and a city bus terminal.",
+          "章节": {},
+          "全文": "Kamiyashiro Station (上社駅, Kamiyashiro-eki) is an elevated subway station on the Nagoya Municipal Subway Higashiyama Line located in Kamiyashiro Itchome, Meito-ku, Nagoya, Aichi Prefecture, Japan. Station number is H20. It opened on December 10, 1970. The station building is integrated with the Kamiyashiro Terminal Building, which houses a cultural small theater, apartments, and a city bus terminal.",
+          "字数": 401
         }
       },
       "结构化信息": {
@@ -258,7 +266,14 @@
           "字数": 275,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Nakamura Kōen Station",
+          "链接": "https://ja.wikipedia.org/wiki/中村公園駅",
+          "首段": "Nakamura Kōen Station (中村公園駅, Nakamura Kōen-eki) is a subway station on the Nagoya Municipal Subway Higashiyama Line located in Toyokuni-dori Itchome, Nakamura-ku, Nagoya, Aichi Prefecture, Japan. Station number is H04. It opened on April 1, 1969 as the initial terminus of the line, and became an intermediate station when the line was extended to Takabata in 1982.",
+          "章节": {},
+          "全文": "Nakamura Kōen Station (中村公園駅, Nakamura Kōen-eki) is a subway station on the Nagoya Municipal Subway Higashiyama Line located in Toyokuni-dori Itchome, Nakamura-ku, Nagoya, Aichi Prefecture, Japan. Station number is H04. It opened on April 1, 1969 as the initial terminus of the line, and became an intermediate station when the line was extended to Takabata in 1982.",
+          "字数": 366
+        }
       },
       "结构化信息": {
         "读音": "なかむらこうえんえき",
@@ -334,7 +349,14 @@
           "字数": 244,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Nakamura Nisseki Station",
+          "链接": "https://ja.wikipedia.org/wiki/中村日赤駅",
+          "首段": "Nakamura Nisseki Station (中村日赤駅, Nakamura Nisseki-eki) is a subway station on the Nagoya Municipal Subway Higashiyama Line located in Michishita-ku Sanchome, Nakamura-ku, Nagoya, Aichi Prefecture, Japan. Station number is H05. It is the nearest station to the Japanese Red Cross Aichi Medical Center Nagoya Daiichi Hospital (commonly known as Nakamura Nisseki Hospital).",
+          "章节": {},
+          "全文": "Nakamura Nisseki Station (中村日赤駅, Nakamura Nisseki-eki) is a subway station on the Nagoya Municipal Subway Higashiyama Line located in Michishita-ku Sanchome, Nakamura-ku, Nagoya, Aichi Prefecture, Japan. Station number is H05. It is the nearest station to the Japanese Red Cross Aichi Medical Center Nagoya Daiichi Hospital (commonly known as Nakamura Nisseki Hospital).",
+          "字数": 370
+        }
       },
       "结构化信息": {
         "读音": "なかむらにっせきえき",
@@ -412,15 +434,11 @@
         },
         "英文": {
           "词条标题": "Kamejima Station",
-          "链接": "https://en.wikipedia.org/wiki/Kamejima%20Station",
-          "首段": "is a train station in Nakamura-ku, Nagoya, Aichi Prefecture, Japan.\n\nIt was opened on .",
-          "章节": {
-            "Lines": "(Station number: H07)",
-            "Platforms": "There are two main exits, the East Exit, which leads to Exit 2 and Exit 3, and the West Exit, which leads to Exit 1 and Exit 4.  Exit 1 and 4 are closed after 11 pm and before 6 am.  The East Exit two up escalators, one for each platform, but only the escalator for Exit 3 supports wheelchairs.  The West Exit has two escalators, one for each platform, and they both support wheelchairs.  The two platforms are Platform 1, with trains bound for Nagoya Station, Sakae Station, and Fujigaoka Station, and Platform 2, with trains bound for Nakamura Koen Station and Takabata Station.  There are station staff at the gates of the East Exit.  There is currently no elevator but one is under construction, and because of that, Exit 4 has been closed since December 1 of 2001 and is planned to re-open on March 15 of 2011.  There are bathrooms near Exit 2.  Both the East Exit and West Exit have a public telephone.\n\nPoints of Interest \n\nNear the station are GEO, a video rental store, and Noritake Gardens, the official museum of Noritake.",
-            "References": "External links\n\n Kamejima Station's web page at the Nagoya Transportation Bureau's web site \n\nRailway stations in Japan opened in 1969\nRailway stations in Aichi Prefecture"
-          },
-          "全文": "is a train station in Nakamura-ku, Nagoya, Aichi Prefecture, Japan.\n\nIt was opened on .\n\nLines\n\n (Station number: H07)\n\nLayout\n\nPlatforms\n\nThere are two main exits, the East Exit, which leads to Exit 2 and Exit 3, and the West Exit, which leads to Exit 1 and Exit 4.  Exit 1 and 4 are closed after 11 pm and before 6 am.  The East Exit two up escalators, one for each platform, but only the escalator for Exit 3 supports wheelchairs.  The West Exit has two escalators, one for each platform, and they both support wheelchairs.  The two platforms are Platform 1, with trains bound for Nagoya Station, Sakae Station, and Fujigaoka Station, and Platform 2, with trains bound for Nakamura Koen Station and Takabata Station.  There are station staff at the gates of the East Exit.  There is currently no elevator but one is under construction, and because of that, Exit 4 has been closed since December 1 of 2001 and is planned to re-open on March 15 of 2011.  There are bathrooms near Exit 2.  Both the East Exit and West Exit have a public telephone.\n\nPoints of Interest \n\nNear the station are GEO, a video rental store, and Noritake Gardens, the official museum of Noritake.\n\nReferences\n\nExternal links\n\n Kamejima Station's web page at the Nagoya Transportation Bureau's web site \n\nRailway stations in Japan opened in 1969\nRailway stations in Aichi Prefecture",
-          "字数": 1357
+          "链接": "https://ja.wikipedia.org/wiki/亀島駅",
+          "首段": "Kamejima Station (亀島駅, Kamejima-eki) is a subway station on the Nagoya Municipal Subway Higashiyama Line located in Nakamura-ku, Nagoya, Aichi Prefecture, Japan. Station number is H07. The station passes under the Meitetsu Nagoya Main Line, which is unusual for the Higashiyama Line.",
+          "章节": {},
+          "全文": "Kamejima Station (亀島駅, Kamejima-eki) is a subway station on the Nagoya Municipal Subway Higashiyama Line located in Nakamura-ku, Nagoya, Aichi Prefecture, Japan. Station number is H07. The station passes under the Meitetsu Nagoya Main Line, which is unusual for the Higashiyama Line.",
+          "字数": 283
         }
       },
       "结构化信息": {
@@ -603,17 +621,11 @@
         },
         "英文": {
           "词条标题": "Hatta Station",
-          "链接": "https://en.wikipedia.org/wiki/Hatta%20Station",
-          "首段": "is a joint-use railway and subway station located in Nakamura-ku, Nagoya, Aichi Prefecture, Japan. It is located 3.1 rail kilometres from the terminus of the Kansai Line at Nagoya Station and is 0.9 kilometers from the terminus of the Hiagashiyama Line at Takabata Station.",
-          "章节": {
-            "Lines": "Kansai Main Line\n\n (Station number: H02)",
-            "Layout": "JR Hatta Station has a one side platform and one island platform serving three tracks. The Nagoya Municipal Subway portion of the station has a single underground island platform.",
-            "Platforms": "Adjacent stations\n\n|-\n!colspan=5|Central Japan Railway Company (JR Central)",
-            "History": "Hatta Station was established as Hatta Signal Stop on the Japanese Government Railways (JGR) on July 15, 1918. It was elevated in status to a full station on February 1, 1928. The JGR became the JNR (Japan National Railways) after World War II. The Nagoya Municipal Subway began operations on September 21, 1982. With the privatization of the JNR on April 1, 1987, the station came under the control of JR Central. The station was completely rebuilt on April 7, 2002 and was relocated at that time approximately 500 meters closer to Nagoya.\n\nStation numbering was introduced to the section of the Kansai Main Line operated JR Central in March 2018; Hatta Station was assigned station number CI01.",
-            "References": "External links\n\nJR Hatta Station home page\nNagoya Municipal Subway Hatta Station home page\n\nRailway stations in Japan opened in 1928\nRailway stations in Aichi Prefecture"
-          },
-          "全文": "is a joint-use railway and subway station located in Nakamura-ku, Nagoya, Aichi Prefecture, Japan. It is located 3.1 rail kilometres from the terminus of the Kansai Line at Nagoya Station and is 0.9 kilometers from the terminus of the Hiagashiyama Line at Takabata Station.\n\nLines\n\nKansai Main Line\n\n (Station number: H02)\n\nLayout\nJR Hatta Station has a one side platform and one island platform serving three tracks. The Nagoya Municipal Subway portion of the station has a single underground island platform.\n\nPlatforms\n\nAdjacent stations\n\n|-\n!colspan=5|Central Japan Railway Company (JR Central)\n\nHistory\nHatta Station was established as Hatta Signal Stop on the Japanese Government Railways (JGR) on July 15, 1918. It was elevated in status to a full station on February 1, 1928. The JGR became the JNR (Japan National Railways) after World War II. The Nagoya Municipal Subway began operations on September 21, 1982. With the privatization of the JNR on April 1, 1987, the station came under the control of JR Central. The station was completely rebuilt on April 7, 2002 and was relocated at that time approximately 500 meters closer to Nagoya.\n\nStation numbering was introduced to the section of the Kansai Main Line operated JR Central in March 2018; Hatta Station was assigned station number CI01.\n\nReferences\n\nExternal links\n\nJR Hatta Station home page\nNagoya Municipal Subway Hatta Station home page\n\nRailway stations in Japan opened in 1928\nRailway stations in Aichi Prefecture",
-          "字数": 1487
+          "链接": "https://ja.wikipedia.org/wiki/八田駅",
+          "首段": "Hatta Station (八田駅, Hatta-eki) is a joint use station in Nakamura-ku, Nagoya, served by the JR Central Kansai Main Line and the Nagoya Municipal Subway Higashiyama Line (station number H02). The two lines are connected by an underground passage.",
+          "章节": {},
+          "全文": "Hatta Station (八田駅, Hatta-eki) is a joint use station in Nakamura-ku, Nagoya, served by the JR Central Kansai Main Line and the Nagoya Municipal Subway Higashiyama Line (station number H02). The two lines are connected by an underground passage.",
+          "字数": 245
         }
       },
       "结构化信息": {
@@ -726,15 +738,11 @@
         },
         "英文": {
           "词条标题": "Chikusa Station",
-          "链接": "https://en.wikipedia.org/wiki/Chikusa%20Station",
-          "首段": "is an interchange railway station in Higashi-ku and Chikusa-ku, Nagoya, Aichi Prefecture, Japan, operated by Central Japan Railway Company (JR Tōkai)  and the Transportation Bureau City of Nagoya.",
-          "章节": {
-            "Lines": "The above-ground portion off Chikusa Station is served by the Chūō Main Line, and is located 389.8 kilometers from the starting point of the line at Tokyo Station and 7.1 kilometers from Nagoya Station. the underground portion of the station is served by the Higashiyama Line of the Nagoya Municipal Subway and is 11.0 kilometers from the starting point of that line at Takabata Station.",
-            "Layout": "The JR station has one elevated island platform with the station building underneath. The station building has automated ticket machines, TOICA automated turnstiles and a staffed ticket office. The underground portion the station has two opposed side platforms. The station building has automated ticket machines, Manaca automated turnstiles and a staffed ticket office.\n\nPlatforms (JR Central)\n\nPlatforms (Nagoya Municipal Subway)\n\nAdjacent stations\n\n|-\n!colspan=5|JR Central\n\nStation history\nThe JR portion of the station opened on July 25, 1900. The subway portion of the station opened on June 15, 1960.\n\nPassenger statistics\nIn fiscal 2017, the JR portion of the station was used by an average of 19,892 passengers daily and the Nagoya Subway portion of the station by 14,234 passengers daily.\n\nSurrounding area\nThe station is located near the border of Chikusa-ku, Higashi-ku and Naka-ku.\n\nSee also\n List of railway stations in Japan",
-            "References": "External links\n \nJR Tokai official home page\nNagoya Subway official home page\n\nChikusa-ku, Nagoya\nRailway stations in Japan opened in 1900\nRailway stations in Aichi Prefecture\nRailway stations in Japan opened in 1960\nChūō Main Line\nStations of Central Japan Railway Company\nRailway stations in Nagoya"
-          },
-          "全文": "is an interchange railway station in Higashi-ku and Chikusa-ku, Nagoya, Aichi Prefecture, Japan, operated by Central Japan Railway Company (JR Tōkai)  and the Transportation Bureau City of Nagoya.\n\nLines\nThe above-ground portion off Chikusa Station is served by the Chūō Main Line, and is located 389.8 kilometers from the starting point of the line at Tokyo Station and 7.1 kilometers from Nagoya Station. the underground portion of the station is served by the Higashiyama Line of the Nagoya Municipal Subway and is 11.0 kilometers from the starting point of that line at Takabata Station.\n\nLayout\nThe JR station has one elevated island platform with the station building underneath. The station building has automated ticket machines, TOICA automated turnstiles and a staffed ticket office. The underground portion the station has two opposed side platforms. The station building has automated ticket machines, Manaca automated turnstiles and a staffed ticket office.\n\nPlatforms (JR Central)\n\nPlatforms (Nagoya Municipal Subway)\n\nAdjacent stations\n\n|-\n!colspan=5|JR Central\n\nStation history\nThe JR portion of the station opened on July 25, 1900. The subway portion of the station opened on June 15, 1960.\n\nPassenger statistics\nIn fiscal 2017, the JR portion of the station was used by an average of 19,892 passengers daily and the Nagoya Subway portion of the station by 14,234 passengers daily.\n\nSurrounding area\nThe station is located near the border of Chikusa-ku, Higashi-ku and Naka-ku.\n\nSee also\n List of railway stations in Japan\n\nReferences\n\nExternal links\n \nJR Tokai official home page\nNagoya Subway official home page\n\nChikusa-ku, Nagoya\nRailway stations in Japan opened in 1900\nRailway stations in Aichi Prefecture\nRailway stations in Japan opened in 1960\nChūō Main Line\nStations of Central Japan Railway Company\nRailway stations in Nagoya",
-          "字数": 1853
+          "链接": "https://ja.wikipedia.org/wiki/千種駅",
+          "首段": "Chikusa Station (千種駅, Chikusa-eki) is a railway station in Chikusa-ku, Nagoya, served by the JR Central Chūō Main Line and the Nagoya Municipal Subway Higashiyama Line (station number H12). It is one of the main stations in eastern Nagoya.",
+          "章节": {},
+          "全文": "Chikusa Station (千種駅, Chikusa-eki) is a railway station in Chikusa-ku, Nagoya, served by the JR Central Chūō Main Line and the Nagoya Municipal Subway Higashiyama Line (station number H12). It is one of the main stations in eastern Nagoya.",
+          "字数": 239
         }
       },
       "结构化信息": {
@@ -935,16 +943,11 @@
         },
         "英文": {
           "词条标题": "Nagoya Station",
-          "链接": "https://en.wikipedia.org/wiki/Nagoya%20Station",
-          "首段": "is a major railway station in Nakamura-ku, Nagoya, Japan. It is Japan's, and one of the world's, largest train stations by floor area (410,000 m2), and houses the headquarters of the Central Japan Railway Company (JR Central). Much of this space is located in the JR Central Towers atop the station, as well as in underground concourses. The current station complex was completed on December 20, 1999. The station and the area around it is officially called  in the Japanese addressing system.\n\nThe station is adjacent to Meitetsu Nagoya Station, the terminal of Meitetsu, and Kintetsu Nagoya Station, the terminal of the Kintetsu Nagoya Line.\n\nThe twin-towered station rises over 50 storeys, and is the tallest railway-station building in the world.",
-          "章节": {
-            "Lines": "JR Central\n (for Shin-Yokohama, Tokyo, Kyoto, and Shin-Osaka)\n (for , Ōgaki, Maibara, Obu, Kariya, Okazaki, Gamagori, Toyohashi, and Hamamatsu)\n (for Kozoji, Tajimi, and Nakatsugawa)\n (for Yokkaichi, Tsu, and Kameyama)\n\nAonami Line\nAonami Line (AN01) (for Kinjo-Futo Nagoya International Exhibition Hall)\n\nNagoya Subway",
-            "(S02)": "Station layout\n\nJR Central\n\nThe platforms and the tracks are elevated. Six island platforms for the Tōkaidō Main Line, Chuo Line, and Kansai Line are situated in the eastern part of the station (the side where JR Central Towers are situated) and serve 12 tracks. Two island platforms for the Tokaido Shinkansen are situated in the western part and serve four tracks.\n\nAdjacent stations\n\nAonami Line\n\nThe station is situated in the west of the JR Central Lines, on the Inazawa Line. The station has an island platform serving two tracks with platform gates.\n\nAdjacent stations\n\nNagoya Municipal Subway\n\nAn island platform for the Sakura-dori Line serving two tracks is located east to west under the central concourse of JR Nagoya Station. The platform is fenced with platform gates.\n\nAn island platform for the Higashiyama Line serving two tracks is located south to north under underground city Meieki Chikagai (Meichika), in the east of JR Nagoya Station.  The southern part of the platform is used for the trains for Fujigaoka and the northern one is for the trains for Takahata.\n\nAdjacent stations",
-            "History": "Nagoya Station first opened on 1 May 1886.\n\nStation numbering was introduced to the sections of the Chuo, Kansai, and Tōkaidō Main Lines operated JR Central in March 2018; Nagoya Station was assigned station number CF00 for the Chuo Line, CJ00 for the Kansai Main Line, and CA68 for the Tōkaidō Main Line.\n\nSurrounding area\nMeitetsu Nagoya Station (Nagoya Railroad)\nKintetsu Nagoya Station (Kintetsu Railway)\nMidland Square (ミッドランドスクエア)\nJR Gate Tower (JRゲートタワー)",
-            "References": "External links\n\nJR Central station information \nStation Nagoya \nTowers Nagoya \n\nRailway stations in Japan opened in 1999\nRailway stations in Nagoya"
-          },
-          "全文": "is a major railway station in Nakamura-ku, Nagoya, Japan. It is Japan's, and one of the world's, largest train stations by floor area (410,000 m2), and houses the headquarters of the Central Japan Railway Company (JR Central). Much of this space is located in the JR Central Towers atop the station, as well as in underground concourses. The current station complex was completed on December 20, 1999. The station and the area around it is officially called  in the Japanese addressing system.\n\nThe station is adjacent to Meitetsu Nagoya Station, the terminal of Meitetsu, and Kintetsu Nagoya Station, the terminal of the Kintetsu Nagoya Line.\n\nThe twin-towered station rises over 50 storeys, and is the tallest railway-station building in the world.\n\nLines\n\nJR Central\n (for Shin-Yokohama, Tokyo, Kyoto, and Shin-Osaka)\n (for , Ōgaki, Maibara, Obu, Kariya, Okazaki, Gamagori, Toyohashi, and Hamamatsu)\n (for Kozoji, Tajimi, and Nakatsugawa)\n (for Yokkaichi, Tsu, and Kameyama)\n\nAonami Line\nAonami Line (AN01) (for Kinjo-Futo Nagoya International Exhibition Hall)\n\nNagoya Subway\n (H08)\n (S02)\n\nStation layout\n\nJR Central\n\nThe platforms and the tracks are elevated. Six island platforms for the Tōkaidō Main Line, Chuo Line, and Kansai Line are situated in the eastern part of the station (the side where JR Central Towers are situated) and serve 12 tracks. Two island platforms for the Tokaido Shinkansen are situated in the western part and serve four tracks.\n\nAdjacent stations\n\nAonami Line\n\nThe station is situated in the west of the JR Central Lines, on the Inazawa Line. The station has an island platform serving two tracks with platform gates.\n\nAdjacent stations\n\nNagoya Municipal Subway\n\nAn island platform for the Sakura-dori Line serving two tracks is located east to west under the central concourse of JR Nagoya Station. The platform is fenced with platform gates.\n\nAn island platform for the Higashiyama Line serving two tracks is located south to north under underground city Meieki Chikagai (Meichika), in the east of JR Nagoya Station.  The southern part of the platform is used for the trains for Fujigaoka and the northern one is for the trains for Takahata.\n\nAdjacent stations\n\nHistory\nNagoya Station first opened on 1 May 1886.\n\nStation numbering was introduced to the sections of the Chuo, Kansai, and Tōkaidō Main Lines operated JR Central in March 2018; Nagoya Station was assigned station number CF00 for the Chuo Line, CJ00 for the Kansai Main Line, and CA68 for the Tōkaidō Main Line.\n\nSurrounding area\nMeitetsu Nagoya Station (Nagoya Railroad)\nKintetsu Nagoya Station (Kintetsu Railway)\nMidland Square (ミッドランドスクエア)\nJR Gate Tower (JRゲートタワー)\n\nReferences\n\nExternal links\n\nJR Central station information \nStation Nagoya \nTowers Nagoya \n\nRailway stations in Japan opened in 1999\nRailway stations in Nagoya\nSasashima-chō",
-          "字数": 2841
+          "链接": "https://en.wikipedia.org/wiki/Nagoya_Station",
+          "首段": "Nagoya Station (名古屋駅, Nagoya-eki) is a major railway station in Nakamura-ku, Nagoya, Japan. It is served by JR Central (including the Tōkaidō Shinkansen, Tōkaidō Main Line, Chūō Main Line, and Kansai Main Line), JR Freight, the Nagoya Rinkai Rapid Transit (Aonami Line), and the Nagoya Municipal Subway Higashiyama Line (H08) and Sakura-dōri Line (S02). It is the largest terminal station in the Chūkyō metropolitan area, and the surrounding area is known as Meieki. The station building, JR Central Towers, is one of the tallest station buildings in the world.",
+          "章节": {},
+          "全文": "Nagoya Station (名古屋駅, Nagoya-eki) is a major railway station in Nakamura-ku, Nagoya, Japan. It is served by JR Central (including the Tōkaidō Shinkansen, Tōkaidō Main Line, Chūō Main Line, and Kansai Main Line), JR Freight, the Nagoya Rinkai Rapid Transit (Aonami Line), and the Nagoya Municipal Subway Higashiyama Line (H08) and Sakura-dōri Line (S02). It is the largest terminal station in the Chūkyō metropolitan area, and the surrounding area is known as Meieki. The station building, JR Central Towers, is one of the tallest station buildings in the world.",
+          "字数": 561
         }
       },
       "结构化信息": {
@@ -1092,14 +1095,11 @@
         },
         "英文": {
           "词条标题": "Iwatsuka Station",
-          "链接": "https://en.wikipedia.org/wiki/Iwatsuka%20Station",
-          "首段": "is a train station in Nakamura-ku, Nagoya, Aichi Prefecture, Japan.\n\nIt was opened on .",
-          "章节": {
-            "Lines": "(Station number: H03)",
-            "References": "External links\n \n Mitsubishi Heavy Industries Iwatsuka Plant\n\nRailway stations in Japan opened in 1982\nRailway stations in Aichi Prefecture"
-          },
-          "全文": "is a train station in Nakamura-ku, Nagoya, Aichi Prefecture, Japan.\n\nIt was opened on .\n\nLines\n\n (Station number: H03)\n\nLayout\n\nPlatforms\n\nReferences\n\nExternal links\n \n Mitsubishi Heavy Industries Iwatsuka Plant\n\nRailway stations in Japan opened in 1982\nRailway stations in Aichi Prefecture",
-          "字数": 290
+          "链接": "https://ja.wikipedia.org/wiki/岩塚駅",
+          "首段": "Iwatsuka Station (岩塚駅, Iwatsuka-eki) is a subway station on the Nagoya Municipal Subway Higashiyama Line located in Nakamura-ku, Nagoya, Aichi Prefecture, Japan. Station number is H03.",
+          "章节": {},
+          "全文": "Iwatsuka Station (岩塚駅, Iwatsuka-eki) is a subway station on the Nagoya Municipal Subway Higashiyama Line located in Nakamura-ku, Nagoya, Aichi Prefecture, Japan. Station number is H03.",
+          "字数": 184
         }
       },
       "结构化信息": {
@@ -1393,14 +1393,11 @@
         },
         "英文": {
           "词条标题": "Honjin Station",
-          "链接": "https://en.wikipedia.org/wiki/Honjin%20Station",
-          "首段": "is a train station in Nakamura-ku, Nagoya, Aichi Prefecture, Japan.\n\nIt was opened on .",
-          "章节": {
-            "Lines": "(Station number: H06)",
-            "References": "External links\n \n\nRailway stations in Japan opened in 1969\nRailway stations in Aichi Prefecture"
-          },
-          "全文": "is a train station in Nakamura-ku, Nagoya, Aichi Prefecture, Japan.\n\nIt was opened on .\n\nLines\n\n (Station number: H06)\n\nLayout\n\nPlatforms\n\nReferences\n\nExternal links\n \n\nRailway stations in Japan opened in 1969\nRailway stations in Aichi Prefecture",
-          "字数": 246
+          "链接": "https://ja.wikipedia.org/wiki/本陣駅",
+          "首段": "Honjin Station (本陣駅, Honjin-eki) is a subway station on the Nagoya Municipal Subway Higashiyama Line located in Nakamura-ku, Nagoya, Aichi Prefecture, Japan. Station number is H06.",
+          "章节": {},
+          "全文": "Honjin Station (本陣駅, Honjin-eki) is a subway station on the Nagoya Municipal Subway Higashiyama Line located in Nakamura-ku, Nagoya, Aichi Prefecture, Japan. Station number is H06.",
+          "字数": 180
         }
       },
       "结构化信息": {
@@ -1584,17 +1581,11 @@
         },
         "英文": {
           "词条标题": "Ikeshita Station",
-          "链接": "https://en.wikipedia.org/wiki/Ikeshita%20Station",
-          "首段": "is an underground metro station located in Chikusa-ku, Nagoya, Aichi Prefecture, Japan operated by the Nagoya Municipal Subway's Higashiyama Line. It is located 12.6 rail kilometers from the terminus of the Higashiyama Line at Takabata Station. Nearby is the Furukawa Art Museum.",
-          "章节": {
-            "History": "Ikeshita Station was opened on 15 June 1960. The wicket gates were automated to use the Manaca smart card system from 11 February 2011.",
-            "Lines": "(Station number: H14)",
-            "Layout": "Ikeshita Station has two underground opposed side platforms.",
-            "Platforms": "External links\n Ikeshita Station official web site",
-            "References": "Railway stations in Japan opened in 1960\nRailway stations in Aichi Prefecture"
-          },
-          "全文": "is an underground metro station located in Chikusa-ku, Nagoya, Aichi Prefecture, Japan operated by the Nagoya Municipal Subway's Higashiyama Line. It is located 12.6 rail kilometers from the terminus of the Higashiyama Line at Takabata Station. Nearby is the Furukawa Art Museum.\n\nHistory\nIkeshita Station was opened on 15 June 1960. The wicket gates were automated to use the Manaca smart card system from 11 February 2011.\n\nLines\n\n (Station number: H14)\n\nLayout\nIkeshita Station has two underground opposed side platforms.\n\nPlatforms\n\nExternal links\n Ikeshita Station official web site\n\nReferences\n\nRailway stations in Japan opened in 1960\nRailway stations in Aichi Prefecture",
-          "字数": 678
+          "链接": "https://ja.wikipedia.org/wiki/池下駅",
+          "首段": "Ikeshita Station (池下駅, Ikeshita-eki) is a subway station on the Nagoya Municipal Subway Higashiyama Line located in Chikusa-ku, Nagoya, Aichi Prefecture, Japan. Station number is H14.",
+          "章节": {},
+          "全文": "Ikeshita Station (池下駅, Ikeshita-eki) is a subway station on the Nagoya Municipal Subway Higashiyama Line located in Chikusa-ku, Nagoya, Aichi Prefecture, Japan. Station number is H14.",
+          "字数": 183
         }
       },
       "结构化信息": {
@@ -1720,18 +1711,12 @@
           "来源": "维基百科中文版（已转简体）"
         },
         "英文": {
-          "词条标题": "Kakuōzan Station",
-          "链接": "https://en.wikipedia.org/wiki/Kaku%C5%8Dzan%20Station",
-          "首段": "is an underground metro station located in Chikusa-ku, Nagoya, Aichi Prefecture, Japan operated by the Nagoya Municipal Subway's Higashiyama Line.  It is located 13.2 rail kilometers from the terminus of the Higashiyama Line at Takabata Station.",
-          "章节": {
-            "History": "Kakuōzan Station was opened on 1 April 1963.  The wicket gates were automated to use the Manaca smart card system from 11 February 2011.\n\nThis station serves part of the upper class district of Nagoya and is near Kakuōzan Nittai-ji Buddhist temple.",
-            "Lines": "(Station number: H15)",
-            "Layout": "Kakuōzan Station has two underground opposed side platforms.",
-            "Platforms": "External links\n Kakuōzan Station official web site",
-            "References": "Chikusa-ku, Nagoya\nRailway stations in Japan opened in 1963\nRailway stations in Aichi Prefecture"
-          },
-          "全文": "is an underground metro station located in Chikusa-ku, Nagoya, Aichi Prefecture, Japan operated by the Nagoya Municipal Subway's Higashiyama Line.  It is located 13.2 rail kilometers from the terminus of the Higashiyama Line at Takabata Station.\n\nHistory\nKakuōzan Station was opened on 1 April 1963.  The wicket gates were automated to use the Manaca smart card system from 11 February 2011.\n\nThis station serves part of the upper class district of Nagoya and is near Kakuōzan Nittai-ji Buddhist temple.\n\nLines\n\n (Station number: H15)\n\nLayout\nKakuōzan Station has two underground opposed side platforms.\n\nPlatforms\n\nExternal links\n Kakuōzan Station official web site\n\nReferences\n\nChikusa-ku, Nagoya\nRailway stations in Japan opened in 1963\nRailway stations in Aichi Prefecture",
-          "字数": 776
+          "词条标题": "Kakuozan Station",
+          "链接": "https://ja.wikipedia.org/wiki/覚王山駅",
+          "首段": "Kakuozan Station (覚王山駅, Kakuozan-eki) is a subway station on the Nagoya Municipal Subway Higashiyama Line located in Chikusa-ku, Nagoya, Aichi Prefecture, Japan. Station number is H17. The surrounding area is a popular historic neighborhood adjacent to Kakuōzan Temple.",
+          "章节": {},
+          "全文": "Kakuozan Station (覚王山駅, Kakuozan-eki) is a subway station on the Nagoya Municipal Subway Higashiyama Line located in Chikusa-ku, Nagoya, Aichi Prefecture, Japan. Station number is H17. The surrounding area is a popular historic neighborhood adjacent to Kakuōzan Temple.",
+          "字数": 269
         }
       },
       "结构化信息": {
@@ -1810,15 +1795,11 @@
         },
         "英文": {
           "词条标题": "Takabata Station",
-          "链接": "https://en.wikipedia.org/wiki/Takabata%20Station",
-          "首段": "is a subway station on the Nagoya Municipal Subway Higashiyama Line in Nakagawa-ku, Nagoya, Aichi Prefecture, Japan, operated by Transportation Bureau City of Nagoya.",
-          "章节": {
-            "Lines": "Takabata Station is a terminus of the Higashiyama Line subway, and is numbered \"H01\".\n\nStation layout",
-            "History": "The station opened on 21 September 1982.\n\nChest-height platform edge doors were installed at the station in September 2015.\n\nSee also\n List of railway stations in Japan",
-            "References": "External links\n\n Nagoya Subway station information \n\nRailway stations in Aichi Prefecture\nRailway stations in Japan opened in 1982"
-          },
-          "全文": "is a subway station on the Nagoya Municipal Subway Higashiyama Line in Nakagawa-ku, Nagoya, Aichi Prefecture, Japan, operated by Transportation Bureau City of Nagoya.\n\nLines\nTakabata Station is a terminus of the Higashiyama Line subway, and is numbered \"H01\".\n\nStation layout\n\nPlatforms\n\nHistory\nThe station opened on 21 September 1982.\n\nChest-height platform edge doors were installed at the station in September 2015.\n\nSee also\n List of railway stations in Japan\n\nReferences\n\nExternal links\n\n Nagoya Subway station information \n\nRailway stations in Aichi Prefecture\nRailway stations in Japan opened in 1982",
-          "字数": 608
+          "链接": "https://ja.wikipedia.org/wiki/高畑駅",
+          "首段": "Takabata Station (高畑駅, Takabata-eki) is a subway station on the Nagoya Municipal Subway Higashiyama Line located in Nakagawa-ku, Nagoya, Aichi Prefecture, Japan. Station number is H01. It is the western terminus of the Higashiyama Line.",
+          "章节": {},
+          "全文": "Takabata Station (高畑駅, Takabata-eki) is a subway station on the Nagoya Municipal Subway Higashiyama Line located in Nakagawa-ku, Nagoya, Aichi Prefecture, Japan. Station number is H01. It is the western terminus of the Higashiyama Line.",
+          "字数": 236
         }
       },
       "结构化信息": {
@@ -1859,6 +1840,6 @@
     "有中文词条": 22,
     "已千问汉化": 0,
     "待汉化": 0,
-    "有英文词条": 19
+    "有英文词条": 22
   }
 }
