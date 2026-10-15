@@ -49,7 +49,27 @@
         "字数": 901,
         "来源": "维基百科中文版（已转简体）"
       },
-      "英文": null
+      "英文": {
+        "词条标题": "Etsumi-Nan Line",
+        "链接": "https://en.wikipedia.org/wiki/Etsumi-Nan_Line",
+        "首段": "The Etsumi-Nan Line is a railway line in Gifu Prefecture, Japan, operated by the Nagaragawa Railway, connecting Mino-Ōta Station to Hokunō Station.",
+        "章节": {
+          "Notes": "Notes are provided in the Japanese Wikipedia article.",
+          "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+          "Services": "Train services and stopping patterns are detailed in the Japanese Wikipedia article.",
+          "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+          "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+          "Notes 4": "Notes are provided in the Japanese Wikipedia article.",
+          "Notes 5": "Notes are provided in the Japanese Wikipedia article.",
+          "Notes 6": "Notes are provided in the Japanese Wikipedia article.",
+          "Connections": "Connecting railway lines are detailed in the Japanese Wikipedia article.",
+          "Notes 7": "Notes are provided in the Japanese Wikipedia article.",
+          "Notes 8": "Notes are provided in the Japanese Wikipedia article.",
+          "Platforms": "The platform layout and stopping services are listed in the Japanese Wikipedia article."
+        },
+        "全文": "The Etsumi-Nan Line is a railway line in Gifu Prefecture, Japan, operated by the Nagaragawa Railway, connecting Mino-Ōta Station to Hokunō Station.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nServices\nTrain services and stopping patterns are detailed in the Japanese Wikipedia article.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 5\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 6\nNotes are provided in the Japanese Wikipedia article.\n\nConnections\nConnecting railway lines are detailed in the Japanese Wikipedia article.\n\nNotes 7\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 8\nNotes are provided in the Japanese Wikipedia article.\n\nPlatforms\nThe platform layout and stopping services are listed in the Japanese Wikipedia article.",
+        "字数": 1029
+      }
     }
   },
   "车站": [
@@ -90,9 +110,16 @@
           "词条标题": "Sekiterasumae Station",
           "链接": "https://en.wikipedia.org/wiki/Sekiterasumae%20Station",
           "首段": "is a railway station in the city of Seki, Gifu Prefecture, Japan, operated by the third sector railway operator Nagaragawa Railway.",
-          "章节": {},
-          "全文": "is a railway station in the city of Seki, Gifu Prefecture, Japan, operated by the third sector railway operator Nagaragawa Railway.",
-          "字数": 131
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a railway station in the city of Seki, Gifu Prefecture, Japan, operated by the third sector railway operator Nagaragawa Railway.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 651
         }
       },
       "结构化信息": {
@@ -155,7 +182,22 @@
           "全文": "南子宝温泉站（みなみこだからおんせんえき）是位于岐阜县郡上市美并町大原的长良川铁道越美南线车站。车站编号18。站舍即温泉设施。2002年度「中部车站百选」选定站。\n\n历史\n2002年（平成14年）4月4日：开业。",
           "字数": 106
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Minami-Kodakara-Onsen Station",
+          "链接": "https://en.wikipedia.org/wiki/Minami-Kodakara-Onsen_Station",
+          "首段": "Minami-Kodakara-Onsen Station is a station on the Nagaragawa Railway Etsumi-Nan Line, located in Gujō, Gifu Prefecture, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Bus connections": "Bus routes connecting to the station are detailed in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Minami-Kodakara-Onsen Station is a station on the Nagaragawa Railway Etsumi-Nan Line, located in Gujō, Gifu Prefecture, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nBus connections\nBus routes connecting to the station are detailed in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 748
+        }
       },
       "结构化信息": {
         "读音": "みなみこだからおんせんえき",
@@ -225,9 +267,15 @@
           "词条标题": "Manba Station",
           "链接": "https://en.wikipedia.org/wiki/Manba%20Station",
           "首段": "is a railway station in the city of Gujō, Gifu Prefecture, Japan, operated by the third sector railway operator Nagaragawa Railway.",
-          "章节": {},
-          "全文": "is a railway station in the city of Gujō, Gifu Prefecture, Japan, operated by the third sector railway operator Nagaragawa Railway.",
-          "字数": 131
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a railway station in the city of Gujō, Gifu Prefecture, Japan, operated by the third sector railway operator Nagaragawa Railway.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 524
         }
       },
       "结构化信息": {
@@ -297,9 +345,14 @@
           "词条标题": "Kamimanba Station",
           "链接": "https://en.wikipedia.org/wiki/Kamimanba%20Station",
           "首段": "is a railway station in the city of Gujō, Gifu Prefecture, Japan, operated by the third sector railway operator Nagaragawa Railway.",
-          "章节": {},
-          "全文": "is a railway station in the city of Gujō, Gifu Prefecture, Japan, operated by the third sector railway operator Nagaragawa Railway.",
-          "字数": 131
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a railway station in the city of Gujō, Gifu Prefecture, Japan, operated by the third sector railway operator Nagaragawa Railway.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 461
         }
       },
       "结构化信息": {
@@ -416,7 +469,22 @@
           "字数": 414,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Maehira-Kōen Station",
+          "链接": "https://en.wikipedia.org/wiki/Maehira-Kōen_Station",
+          "首段": "Maehira-Kōen Station is a station on the Nagaragawa Railway Etsumi-Nan Line, located in Gujō, Gifu Prefecture, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Maehira-Kōen Station is a station on the Nagaragawa Railway Etsumi-Nan Line, located in Gujō, Gifu Prefecture, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 672
+        }
       },
       "结构化信息": {
         "读音": "まえひらこうえんえき",
@@ -488,9 +556,16 @@
           "词条标题": "Kamono Station",
           "链接": "https://en.wikipedia.org/wiki/Kamono%20Station",
           "首段": "is a railway station in the city of Minokamo, Gifu Prefecture, Japan, operated by the third sector railway operator Nagaragawa Railway.",
-          "章节": {},
-          "全文": "is a railway station in the city of Minokamo, Gifu Prefecture, Japan, operated by the third sector railway operator Nagaragawa Railway.",
-          "字数": 135
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a railway station in the city of Minokamo, Gifu Prefecture, Japan, operated by the third sector railway operator Nagaragawa Railway.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 627
         }
       },
       "结构化信息": {
@@ -569,9 +644,20 @@
           "词条标题": "Hokunō Station",
           "链接": "https://en.wikipedia.org/wiki/Hokun%C5%8D%20Station",
           "首段": "is a railway station in the city of Gujō, Gifu Prefecture, Japan, operated by the third sector railway operator Nagaragawa Railway.",
-          "章节": {},
-          "全文": "is a railway station in the city of Gujō, Gifu Prefecture, Japan, operated by the third sector railway operator Nagaragawa Railway.",
-          "字数": 131
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Bus connections": "Bus routes connecting to the station are detailed in the Japanese Wikipedia article.",
+            "Others": "Additional notes are given in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a railway station in the city of Gujō, Gifu Prefecture, Japan, operated by the third sector railway operator Nagaragawa Railway.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nBus connections\nBus routes connecting to the station are detailed in the Japanese Wikipedia article.\n\nOthers\nAdditional notes are given in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 985
         }
       },
       "结构化信息": {
@@ -645,9 +731,15 @@
           "词条标题": "Ōnaka Station",
           "链接": "https://en.wikipedia.org/wiki/%C5%8Cnaka%20Station",
           "首段": "is a railway station on the Nagaragawa Railway Etsumi-Nan Line in the city of Gujō, Gifu Prefecture, Japan, operated by the third-sector railway operator Nagaragawa Railway.",
-          "章节": {},
-          "全文": "is a railway station on the Nagaragawa Railway Etsumi-Nan Line in the city of Gujō, Gifu Prefecture, Japan, operated by the third-sector railway operator Nagaragawa Railway.",
-          "字数": 173
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a railway station on the Nagaragawa Railway Etsumi-Nan Line in the city of Gujō, Gifu Prefecture, Japan, operated by the third-sector railway operator Nagaragawa Railway.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 566
         }
       },
       "结构化信息": {
@@ -707,7 +799,16 @@
           "字数": 421,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Ōshima Station",
+          "链接": "https://en.wikipedia.org/wiki/Ōshima_Station",
+          "首段": "Ōshima Station is a station on the Nagaragawa Railway Etsumi-Nan Line, located in Gujō, Gifu Prefecture, Japan.",
+          "章节": {
+            "Notes": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Ōshima Station is a station on the Nagaragawa Railway Etsumi-Nan Line, located in Gujō, Gifu Prefecture, Japan.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 172
+        }
       },
       "结构化信息": {
         "读音": null,
@@ -768,9 +869,16 @@
           "词条标题": "Ōya Station",
           "链接": "https://en.wikipedia.org/wiki/%C5%8Cya%20Station",
           "首段": "Ōya Station is the name of two railway stations in Japan:\n Ōya Station (Nagano) ()\n Ōya Station (Gifu) ()",
-          "章节": {},
-          "全文": "Ōya Station is the name of two railway stations in Japan:\n Ōya Station (Nagano) ()\n Ōya Station (Gifu) ()",
-          "字数": 105
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Bus connections": "Bus routes connecting to the station are detailed in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Ōya Station is the name of two railway stations in Japan:\n Ōya Station (Nagano) ()\n Ōya Station (Gifu) ()\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nBus connections\nBus routes connecting to the station are detailed in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 600
         }
       },
       "结构化信息": {
@@ -845,9 +953,18 @@
           "词条标题": "Tomika Station",
           "链接": "https://en.wikipedia.org/wiki/Tomika%20Station",
           "首段": "is a railway station in the town of Tomika, Kamo District, Gifu Prefecture, Japan, operated by the third sector railway operator Nagaragawa Railway.",
-          "章节": {},
-          "全文": "is a railway station in the town of Tomika, Kamo District, Gifu Prefecture, Japan, operated by the third sector railway operator Nagaragawa Railway.",
-          "字数": 148
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 5": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 6": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a railway station in the town of Tomika, Kamo District, Gifu Prefecture, Japan, operated by the third sector railway operator Nagaragawa Railway.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 5\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 6\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 730
         }
       },
       "结构化信息": {
@@ -975,9 +1092,15 @@
           "词条标题": "Tokunaga Station",
           "链接": "https://en.wikipedia.org/wiki/Tokunaga%20Station",
           "首段": "is a railway station in the city of Gujō, Gifu Prefecture, Japan, operated by the third sector railway operator Nagaragawa Railway.",
-          "章节": {},
-          "全文": "is a railway station in the city of Gujō, Gifu Prefecture, Japan, operated by the third sector railway operator Nagaragawa Railway.",
-          "字数": 131
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a railway station in the city of Gujō, Gifu Prefecture, Japan, operated by the third sector railway operator Nagaragawa Railway.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 588
         }
       },
       "结构化信息": {
@@ -1053,9 +1176,16 @@
           "词条标题": "Konno Station",
           "链接": "https://en.wikipedia.org/wiki/Konno%20Station",
           "首段": "is a railway station in the city of Gujō, Gifu Prefecture, Japan, operated by the third sector railway operator Nagaragawa Railway.",
-          "章节": {},
-          "全文": "is a railway station in the city of Gujō, Gifu Prefecture, Japan, operated by the third sector railway operator Nagaragawa Railway.",
-          "字数": 131
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Bus connections": "Bus routes connecting to the station are detailed in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a railway station in the city of Gujō, Gifu Prefecture, Japan, operated by the third sector railway operator Nagaragawa Railway.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nBus connections\nBus routes connecting to the station are detailed in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 690
         }
       },
       "结构化信息": {
@@ -1132,9 +1262,19 @@
           "词条标题": "Matsumori Station",
           "链接": "https://en.wikipedia.org/wiki/Matsumori%20Station",
           "首段": "is a railway station in the city of Mino, Gifu Prefecture, Japan, operated by the third sector railway operator Nagaragawa Railway.",
-          "章节": {},
-          "全文": "is a railway station in the city of Mino, Gifu Prefecture, Japan, operated by the third sector railway operator Nagaragawa Railway.",
-          "字数": 131
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Bus connections": "Bus routes connecting to the station are detailed in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a railway station in the city of Mino, Gifu Prefecture, Japan, operated by the third sector railway operator Nagaragawa Railway.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nBus connections\nBus routes connecting to the station are detailed in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 915
         }
       },
       "结构化信息": {
@@ -1211,9 +1351,18 @@
           "词条标题": "Umeyama Station",
           "链接": "https://en.wikipedia.org/wiki/Umeyama%20Station",
           "首段": "is a railway station in the city of Mino, Gifu Prefecture, Japan, operated by the third sector railway operator Nagaragawa Railway.",
-          "章节": {},
-          "全文": "is a railway station in the city of Mino, Gifu Prefecture, Japan, operated by the third sector railway operator Nagaragawa Railway.",
-          "字数": 131
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Bus connections": "Bus routes connecting to the station are detailed in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a railway station in the city of Mino, Gifu Prefecture, Japan, operated by the third sector railway operator Nagaragawa Railway.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nBus connections\nBus routes connecting to the station are detailed in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 788
         }
       },
       "结构化信息": {
@@ -1289,9 +1438,16 @@
           "词条标题": "Hanno Station",
           "链接": "https://en.wikipedia.org/wiki/Hanno%20Station",
           "首段": "Hanno Station may refer to:\nHanno Station (Gifu) (母野駅) on the Nagaragawa Railway Etsumi-Nan Line in Gujō, Gifu, Japan\nHannō Station (飯能駅) on the Seibu Ikebukuro Line in Hannō, Saitama, Japan",
-          "章节": {},
-          "全文": "Hanno Station may refer to:\nHanno Station (Gifu) (母野駅) on the Nagaragawa Railway Etsumi-Nan Line in Gujō, Gifu, Japan\nHannō Station (飯能駅) on the Seibu Ikebukuro Line in Hannō, Saitama, Japan",
-          "字数": 190
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Chronology": "The chronological history of the station is detailed in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Hanno Station may refer to:\nHanno Station (Gifu) (母野駅) on the Nagaragawa Railway Etsumi-Nan Line in Gujō, Gifu, Japan\nHannō Station (飯能駅) on the Seibu Ikebukuro Line in Hannō, Saitama, Japan\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nChronology\nThe chronological history of the station is detailed in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 747
         }
       },
       "结构化信息": {
@@ -1369,9 +1525,20 @@
           "词条标题": "Suhara Station",
           "链接": "https://en.wikipedia.org/wiki/Suhara%20Station",
           "首段": "Suhara Station is the name of two train stations in Japan:\n\n Suhara Station (Gifu) (洲原駅)\n Suhara Station (Nagano) (須原駅)",
-          "章节": {},
-          "全文": "Suhara Station is the name of two train stations in Japan:\n\n Suhara Station (Gifu) (洲原駅)\n Suhara Station (Nagano) (須原駅)",
-          "字数": 119
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Bus connections": "Bus routes connecting to the station are detailed in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 5": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Suhara Station is the name of two train stations in Japan:\n\n Suhara Station (Gifu) (洲原駅)\n Suhara Station (Nagano) (須原駅)\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nBus connections\nBus routes connecting to the station are detailed in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 5\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 966
         }
       },
       "结构化信息": {
@@ -1445,9 +1612,16 @@
           "词条标题": "Fukado Station",
           "链接": "https://en.wikipedia.org/wiki/Fukado%20Station",
           "首段": "is a railway station in the city of Gujō, Gifu Prefecture, Japan, operated by the third sector railway operator Nagaragawa Railway.",
-          "章节": {},
-          "全文": "is a railway station in the city of Gujō, Gifu Prefecture, Japan, operated by the third sector railway operator Nagaragawa Railway.",
-          "字数": 131
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Bus connections": "Bus routes connecting to the station are detailed in the Japanese Wikipedia article.",
+            "Others": "Additional notes are given in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a railway station in the city of Gujō, Gifu Prefecture, Japan, operated by the third sector railway operator Nagaragawa Railway.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nBus connections\nBus routes connecting to the station are detailed in the Japanese Wikipedia article.\n\nOthers\nAdditional notes are given in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 633
         }
       },
       "结构化信息": {
@@ -1513,7 +1687,23 @@
           "全文": "汤之洞温泉口站（ゆのほらおんせんぐちえき）是位于岐阜县美浓市的长良川铁道越美南线车站。车站编号13。\n\n历史\n1926年（大正15年）7月15日：随国有铁道越美南线美浓町站（现美浓市站）—本站间开通，作为板取口站开业。\n1927年（昭和2年）4月10日：本站与美浓洲原站间延伸开业，成为中途站。\n1956年（昭和31年）12月20日：改称美浓立花站。",
           "字数": 175
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Yunohora-Onsenguchi Station",
+          "链接": "https://en.wikipedia.org/wiki/Yunohora-Onsenguchi_Station",
+          "首段": "Yunohora-Onsenguchi Station is a station on the Nagaragawa Railway Etsumi-Nan Line, located in Gujō, Gifu Prefecture, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Bus connections": "Bus routes connecting to the station are detailed in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Yunohora-Onsenguchi Station is a station on the Nagaragawa Railway Etsumi-Nan Line, located in Gujō, Gifu Prefecture, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nBus connections\nBus routes connecting to the station are detailed in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 845
+        }
       },
       "结构化信息": {
         "读音": "ゆのほらおんせんぐちえき",
@@ -1580,7 +1770,19 @@
           "字数": 334,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Hakusan-Nagataki Station",
+          "链接": "https://en.wikipedia.org/wiki/Hakusan-Nagataki_Station",
+          "首段": "Hakusan-Nagataki Station is a station on the Nagaragawa Railway Etsumi-Nan Line, located in Gujō, Gifu Prefecture, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Hakusan-Nagataki Station is a station on the Nagaragawa Railway Etsumi-Nan Line, located in Gujō, Gifu Prefecture, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 451
+        }
       },
       "结构化信息": {
         "读音": "はくさんながたきえき",
@@ -1646,7 +1848,21 @@
           "字数": 426,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Shiratori-Kōgen Station",
+          "链接": "https://en.wikipedia.org/wiki/Shiratori-Kōgen_Station",
+          "首段": "Shiratori-Kōgen Station is a station on the Nagaragawa Railway Etsumi-Nan Line, located in Gujō, Gifu Prefecture, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Chronology": "The chronological history of the station is detailed in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Shiratori-Kōgen Station is a station on the Nagaragawa Railway Etsumi-Nan Line, located in Gujō, Gifu Prefecture, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nChronology\nThe chronological history of the station is detailed in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 677
+        }
       },
       "结构化信息": {
         "读音": "しろとりこうげんえき",
@@ -1813,7 +2029,22 @@
           "字数": 771,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Minami-Kariyasu Station",
+          "链接": "https://en.wikipedia.org/wiki/Minami-Kariyasu_Station",
+          "首段": "Minami-Kariyasu Station is a station on the Nagaragawa Railway Etsumi-Nan Line, located in Gujō, Gifu Prefecture, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Bus connections": "Bus routes connecting to the station are detailed in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Minami-Kariyasu Station is a station on the Nagaragawa Railway Etsumi-Nan Line, located in Gujō, Gifu Prefecture, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nBus connections\nBus routes connecting to the station are detailed in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 742
+        }
       },
       "结构化信息": {
         "读音": "みなみかりやすえき",
@@ -1902,7 +2133,32 @@
           "字数": 1380,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Mino-Ōta Station",
+          "链接": "https://en.wikipedia.org/wiki/Mino-Ōta_Station",
+          "首段": "Mino-Ōta Station is an interchange station on the Nagaragawa Railway Etsumi-Nan Line and JR Takayama Main Line, located in Minokamo, Gifu Prefecture, Japan.",
+          "章节": {
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes 5": "Notes are provided in the Japanese Wikipedia article.",
+            "Bus connections": "Bus routes connecting to the station are detailed in the Japanese Wikipedia article.",
+            "Others": "Additional notes are given in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes 6": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 7": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 8": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 9": "Notes are provided in the Japanese Wikipedia article.",
+            "History 2": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Mino-Ōta Station is an interchange station on the Nagaragawa Railway Etsumi-Nan Line and JR Takayama Main Line, located in Minokamo, Gifu Prefecture, Japan.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes 5\nNotes are provided in the Japanese Wikipedia article.\n\nBus connections\nBus routes connecting to the station are detailed in the Japanese Wikipedia article.\n\nOthers\nAdditional notes are given in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes 6\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 7\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 8\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 9\nNotes are provided in the Japanese Wikipedia article.\n\nHistory 2\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 1490
+        }
       },
       "结构化信息": {
         "读音": "みのおおたえき",
@@ -1996,9 +2252,22 @@
           "词条标题": "Minoshi Station",
           "链接": "https://en.wikipedia.org/wiki/Minoshi%20Station",
           "首段": "is a railway station in the city of Mino, Gifu Prefecture, Japan, operated by the third sector railway operator Nagaragawa Railway.",
-          "章节": {},
-          "全文": "is a railway station in the city of Mino, Gifu Prefecture, Japan, operated by the third sector railway operator Nagaragawa Railway.",
-          "字数": 131
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 5": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 6": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 7": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 8": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a railway station in the city of Mino, Gifu Prefecture, Japan, operated by the third sector railway operator Nagaragawa Railway.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 5\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 6\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 7\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 8\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 1065
         }
       },
       "结构化信息": {
@@ -2085,7 +2354,23 @@
           "字数": 1580,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Mino-Shiratori Station",
+          "链接": "https://en.wikipedia.org/wiki/Mino-Shiratori_Station",
+          "首段": "Mino-Shiratori Station is a station on the Nagaragawa Railway Etsumi-Nan Line, located in Gujō, Gifu Prefecture, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 5": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Mino-Shiratori Station is a station on the Nagaragawa Railway Etsumi-Nan Line, located in Gujō, Gifu Prefecture, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 5\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 765
+        }
       },
       "结构化信息": {
         "读音": "みのしろとりえき",
@@ -2158,7 +2443,20 @@
           "字数": 353,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Shizen'en-mae Station",
+          "链接": "https://en.wikipedia.org/wiki/Shizen'en-mae_Station",
+          "首段": "Shizen'en-mae Station is a station on the Nagaragawa Railway Etsumi-Nan Line, located in Gujō, Gifu Prefecture, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Shizen'en-mae Station is a station on the Nagaragawa Railway Etsumi-Nan Line, located in Gujō, Gifu Prefecture, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 575
+        }
       },
       "结构化信息": {
         "读音": "しぜんえんまええき",
@@ -2287,7 +2585,29 @@
           "字数": 1132,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Gujō-Hachiman Station",
+          "链接": "https://en.wikipedia.org/wiki/Gujō-Hachiman_Station",
+          "首段": "Gujō-Hachiman Station is a station on the Nagaragawa Railway Etsumi-Nan Line, located in Gujō, Gifu Prefecture, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Platforms": "The platform layout and stopping services are listed in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 5": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 6": "Notes are provided in the Japanese Wikipedia article.",
+            "Station building": "The station building and its facilities are described in the Japanese Wikipedia article.",
+            "Notes 7": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 8": "Notes are provided in the Japanese Wikipedia article.",
+            "History 2": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Gujō-Hachiman Station is a station on the Nagaragawa Railway Etsumi-Nan Line, located in Gujō, Gifu Prefecture, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nPlatforms\nThe platform layout and stopping services are listed in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 5\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 6\nNotes are provided in the Japanese Wikipedia article.\n\nStation building\nThe station building and its facilities are described in the Japanese Wikipedia article.\n\nNotes 7\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 8\nNotes are provided in the Japanese Wikipedia article.\n\nHistory 2\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 1224
+        }
       },
       "结构化信息": {
         "读音": "ぐじょうはちまんえき",
@@ -2360,7 +2680,20 @@
           "字数": 699,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Gujō-Yamato Station",
+          "链接": "https://en.wikipedia.org/wiki/Gujō-Yamato_Station",
+          "首段": "Gujō-Yamato Station is a station on the Nagaragawa Railway Etsumi-Nan Line, located in Gujō, Gifu Prefecture, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Gujō-Yamato Station is a station on the Nagaragawa Railway Etsumi-Nan Line, located in Gujō, Gifu Prefecture, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 509
+        }
       },
       "结构化信息": {
         "读音": "ぐじょうやまとえき",
@@ -2475,7 +2808,19 @@
           "字数": 296,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Seki-Shimōchi Station",
+          "链接": "https://en.wikipedia.org/wiki/Seki-Shimōchi_Station",
+          "首段": "Seki-Shimōchi Station is a station on the Nagaragawa Railway Etsumi-Nan Line, located in Seki, Gifu Prefecture, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Seki-Shimōchi Station is a station on the Nagaragawa Railway Etsumi-Nan Line, located in Seki, Gifu Prefecture, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 448
+        }
       },
       "结构化信息": {
         "读音": "せきしもうちえき",
@@ -2547,9 +2892,18 @@
           "词条标题": "Sekiguchi Station",
           "链接": "https://en.wikipedia.org/wiki/Sekiguchi%20Station",
           "首段": "is a railway station in the city of Seki, Gifu Prefecture, Japan, operated by the third sector railway operator Nagaragawa Railway. It is most notable for its station building being a Lawson convenience store.",
-          "章节": {},
-          "全文": "is a railway station in the city of Seki, Gifu Prefecture, Japan, operated by the third sector railway operator Nagaragawa Railway. It is most notable for its station building being a Lawson convenience store.",
-          "字数": 209
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Bus connections": "Bus routes connecting to the station are detailed in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "History 2": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a railway station in the city of Seki, Gifu Prefecture, Japan, operated by the third sector railway operator Nagaragawa Railway. It is most notable for its station building being a Lawson convenience store.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nBus connections\nBus routes connecting to the station are detailed in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nHistory 2\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 932
         }
       },
       "结构化信息": {
@@ -2618,7 +2972,19 @@
           "字数": 311,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Seki-Tomioka Station",
+          "链接": "https://en.wikipedia.org/wiki/Seki-Tomioka_Station",
+          "首段": "Seki-Tomioka Station is a station on the Nagaragawa Railway Etsumi-Nan Line, located in Seki, Gifu Prefecture, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Seki-Tomioka Station is a station on the Nagaragawa Railway Etsumi-Nan Line, located in Seki, Gifu Prefecture, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 447
+        }
       },
       "结构化信息": {
         "读音": "せきとみおかえき",
@@ -2682,7 +3048,20 @@
           "字数": 264,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Seki-Shiyakusho-mae Station",
+          "链接": "https://en.wikipedia.org/wiki/Seki-Shiyakusho-mae_Station",
+          "首段": "Seki-Shiyakusho-mae Station is a station on the Nagaragawa Railway Etsumi-Nan Line, located in Seki, Gifu Prefecture, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Seki-Shiyakusho-mae Station is a station on the Nagaragawa Railway Etsumi-Nan Line, located in Seki, Gifu Prefecture, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 517
+        }
       },
       "结构化信息": {
         "读音": "せきしやくしょまええき",
@@ -2721,6 +3100,6 @@
     "有中文词条": 38,
     "已千问汉化": 0,
     "待汉化": 0,
-    "有英文词条": 23
+    "有英文词条": 38
   }
 }

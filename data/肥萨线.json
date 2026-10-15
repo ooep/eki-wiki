@@ -75,9 +75,32 @@
         "词条标题": "Hisatsu Line",
         "链接": "https://en.wikipedia.org/wiki/Hisatsu%20Line",
         "首段": "The  is a railway line in Kyushu, Japan, operated by the Kyushu Railway Company (JR Kyushu). It connects Yatsushiro on the Kagoshima Main Line to Hayato station, Kirishima on the Nippo Main Line. From 1909 the line was the original rail connection from Yatsushiro to Kagoshima (and via the Kitto Line, Miyazaki) until the Yatsushiro – Kagoshima coastal route via Sendai opened in 1927.\n\nThe major part of the line is in the mountainous Kirishima range. No through trains are operated on this line, rather, trains go from Yatsushiro to Hitoyoshi, from Hitoyoshi to Yoshimatsu, and from Yoshimatsu to Hayato. Until 2000, some trains operated direct from Kumamoto to Miyazaki via the Yatsushiro to Yoshimatsu section of the line.",
-        "章节": {},
-        "全文": "The  is a railway line in Kyushu, Japan, operated by the Kyushu Railway Company (JR Kyushu). It connects Yatsushiro on the Kagoshima Main Line to Hayato station, Kirishima on the Nippo Main Line. From 1909 the line was the original rail connection from Yatsushiro to Kagoshima (and via the Kitto Line, Miyazaki) until the Yatsushiro – Kagoshima coastal route via Sendai opened in 1927.\n\nThe major part of the line is in the mountainous Kirishima range. No through trains are operated on this line, rather, trains go from Yatsushiro to Hitoyoshi, from Hitoyoshi to Yoshimatsu, and from Yoshimatsu to Hayato. Until 2000, some trains operated direct from Kumamoto to Miyazaki via the Yatsushiro to Yoshimatsu section of the line.",
-        "字数": 726
+        "章节": {
+          "Notes": "Notes are provided in the Japanese Wikipedia article.",
+          "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+          "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+          "Services": "Train services and stopping patterns are detailed in the Japanese Wikipedia article.",
+          "Notes 4": "Notes are provided in the Japanese Wikipedia article.",
+          "Services 2": "Notes are provided in the Japanese Wikipedia article.",
+          "Services 3": "Notes are provided in the Japanese Wikipedia article.",
+          "Services 4": "Notes are provided in the Japanese Wikipedia article.",
+          "Services 5": "Notes are provided in the Japanese Wikipedia article.",
+          "Notes 5": "Notes are provided in the Japanese Wikipedia article.",
+          "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+          "Notes 6": "Notes are provided in the Japanese Wikipedia article.",
+          "Notes 7": "Notes are provided in the Japanese Wikipedia article.",
+          "Notes 8": "Notes are provided in the Japanese Wikipedia article.",
+          "Notes 9": "Notes are provided in the Japanese Wikipedia article.",
+          "Notes 10": "Notes are provided in the Japanese Wikipedia article.",
+          "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+          "Notes 11": "Notes are provided in the Japanese Wikipedia article.",
+          "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+          "Notes 12": "Notes are provided in the Japanese Wikipedia article.",
+          "Connections": "Connecting railway lines are detailed in the Japanese Wikipedia article.",
+          "Notes 13": "Notes are provided in the Japanese Wikipedia article."
+        },
+        "全文": "The  is a railway line in Kyushu, Japan, operated by the Kyushu Railway Company (JR Kyushu). It connects Yatsushiro on the Kagoshima Main Line to Hayato station, Kirishima on the Nippo Main Line. From 1909 the line was the original rail connection from Yatsushiro to Kagoshima (and via the Kitto Line, Miyazaki) until the Yatsushiro – Kagoshima coastal route via Sendai opened in 1927.\n\nThe major part of the line is in the mountainous Kirishima range. No through trains are operated on this line, rather, trains go from Yatsushiro to Hitoyoshi, from Hitoyoshi to Yoshimatsu, and from Yoshimatsu to Hayato. Until 2000, some trains operated direct from Kumamoto to Miyazaki via the Yatsushiro to Yoshimatsu section of the line.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nServices\nTrain services and stopping patterns are detailed in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.\n\nServices 2\nNotes are provided in the Japanese Wikipedia article.\n\nServices 3\nNotes are provided in the Japanese Wikipedia article.\n\nServices 4\nNotes are provided in the Japanese Wikipedia article.\n\nServices 5\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 5\nNotes are provided in the Japanese Wikipedia article.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nNotes 6\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 7\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 8\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 9\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 10\nNotes are provided in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes 11\nNotes are provided in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nNotes 12\nNotes are provided in the Japanese Wikipedia article.\n\nConnections\nConnecting railway lines are detailed in the Japanese Wikipedia article.\n\nNotes 13\nNotes are provided in the Japanese Wikipedia article.",
+        "字数": 2318
       }
     }
   },
@@ -126,9 +149,15 @@
           "词条标题": "Nakafukura Station",
           "链接": "https://en.wikipedia.org/wiki/Nakafukura%20Station",
           "首段": "is a railway station on the Hisatsu Line in Kirishima, Kagoshima, Japan, operated by Kyushu Railway Company (JR Kyushu). The station opened in 1958.",
-          "章节": {},
-          "全文": "is a railway station on the Hisatsu Line in Kirishima, Kagoshima, Japan, operated by Kyushu Railway Company (JR Kyushu). The station opened in 1958.",
-          "字数": 148
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a railway station on the Hisatsu Line in Kirishima, Kagoshima, Japan, operated by Kyushu Railway Company (JR Kyushu). The station opened in 1958.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 614
         }
       },
       "结构化信息": {
@@ -208,9 +237,22 @@
           "词条标题": "Yoshimatsu Station",
           "链接": "https://en.wikipedia.org/wiki/Yoshimatsu%20Station",
           "首段": "is a railway station on the Hisatsu Line and Kitto Line in Yūsui, Aira District, Kagoshima, Japan, operated by Kyushu Railway Company (JR Kyushu). The station opened in 1903.",
-          "章节": {},
-          "全文": "is a railway station on the Hisatsu Line and Kitto Line in Yūsui, Aira District, Kagoshima, Japan, operated by Kyushu Railway Company (JR Kyushu). The station opened in 1903.",
-          "字数": 174
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Chronology": "The chronological history of the station is detailed in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Bus connections": "Bus routes connecting to the station are detailed in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Limited express services": "Limited express services stopping at this station are listed in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a railway station on the Hisatsu Line and Kitto Line in Yūsui, Aira District, Kagoshima, Japan, operated by Kyushu Railway Company (JR Kyushu). The station opened in 1903.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nChronology\nThe chronological history of the station is detailed in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nBus connections\nBus routes connecting to the station are detailed in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nLimited express services\nLimited express services stopping at this station are listed in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 1280
         }
       },
       "结构化信息": {
@@ -293,9 +335,26 @@
           "词条标题": "Kareigawa Station",
           "链接": "https://en.wikipedia.org/wiki/Kareigawa%20Station",
           "首段": "Kareigawa Station (Kareigawa-eki) is a train station on the Hisatsu Line operated by Kyushu Railway Company (JR Kyushu) located in Kareigawa, Hayato-cho, Kirishima City, Kagoshima Prefecture. The station building is the oldest in the prefecture and is registered as a National Registered Tangible Cultural Property, managed by the local government. Until 2022, it was one of the few unmanned stations in the country to have a limited express train stop.\n\nThe station began operation on January 15, 1903, with one stationmaster, one ticket and telegraph clerk, and five station attendants. The station was the gateway to the Myoken Onsen hot spring, and as such, it served as a hub for the transport of luggage and goods.\n\nThe station was bustling with activity, as it served as a loading and unloading point for fertilizer and crops bound for the Jusanzuka plateau until it was unmanned in 1984. In 2003, former station employees organized a 100th anniversary celebration, but JR Kyushu did not take notice due to the station's small size. Nonetheless, the celebration attracted 1,300 people, and the station was purchased by JR Kyushu in 2004 for its commemorative and cultural value. After the opening of the Kyushu Shinkansen, the limited express train \"Hayato no Kaze\" began stopping at the station to promote the economic benefits of the high-speed rail line.",
-          "章节": {},
-          "全文": "Kareigawa Station (Kareigawa-eki) is a train station on the Hisatsu Line operated by Kyushu Railway Company (JR Kyushu) located in Kareigawa, Hayato-cho, Kirishima City, Kagoshima Prefecture. The station building is the oldest in the prefecture and is registered as a National Registered Tangible Cultural Property, managed by the local government. Until 2022, it was one of the few unmanned stations in the country to have a limited express train stop.\n\nThe station began operation on January 15, 1903, with one stationmaster, one ticket and telegraph clerk, and five station attendants. The station was the gateway to the Myoken Onsen hot spring, and as such, it served as a hub for the transport of luggage and goods.\n\nThe station was bustling with activity, as it served as a loading and unloading point for fertilizer and crops bound for the Jusanzuka plateau until it was unmanned in 1984. In 2003, former station employees organized a 100th anniversary celebration, but JR Kyushu did not take notice due to the station's small size. Nonetheless, the celebration attracted 1,300 people, and the station was purchased by JR Kyushu in 2004 for its commemorative and cultural value. After the opening of the Kyushu Shinkansen, the limited express train \"Hayato no Kaze\" began stopping at the station to promote the economic benefits of the high-speed rail line.",
-          "字数": 1364
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Chronology": "The chronological history of the station is detailed in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Bus connections": "Bus routes connecting to the station are detailed in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 5": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 6": "Notes are provided in the Japanese Wikipedia article.",
+            "Others": "Additional notes are given in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes 7": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 8": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Kareigawa Station (Kareigawa-eki) is a train station on the Hisatsu Line operated by Kyushu Railway Company (JR Kyushu) located in Kareigawa, Hayato-cho, Kirishima City, Kagoshima Prefecture. The station building is the oldest in the prefecture and is registered as a National Registered Tangible Cultural Property, managed by the local government. Until 2022, it was one of the few unmanned stations in the country to have a limited express train stop.\n\nThe station began operation on January 15, 1903, with one stationmaster, one ticket and telegraph clerk, and five station attendants. The station was the gateway to the Myoken Onsen hot spring, and as such, it served as a hub for the transport of luggage and goods.\n\nThe station was bustling with activity, as it served as a loading and unloading point for fertilizer and crops bound for the Jusanzuka plateau until it was unmanned in 1984. In 2003, former station employees organized a 100th anniversary celebration, but JR Kyushu did not take notice due to the station's small size. Nonetheless, the celebration attracted 1,300 people, and the station was purchased by JR Kyushu in 2004 for its commemorative and cultural value. After the opening of the Kyushu Shinkansen, the limited express train \"Hayato no Kaze\" began stopping at the station to promote the economic benefits of the high-speed rail line.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nChronology\nThe chronological history of the station is detailed in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nBus connections\nBus routes connecting to the station are detailed in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 5\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 6\nNotes are provided in the Japanese Wikipedia article.\n\nOthers\nAdditional notes are given in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes 7\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 8\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 2670
         }
       },
       "结构化信息": {
@@ -365,7 +424,22 @@
           "字数": 179,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Ōsumi-Yokogawa Station",
+          "链接": "https://en.wikipedia.org/wiki/Ōsumi-Yokogawa_Station",
+          "首段": "Ōsumi-Yokogawa Station is a station on the JR Kyushu Kitto Line, located in Kirishima, Kagoshima Prefecture, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Others": "Additional notes are given in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Ōsumi-Yokogawa Station is a station on the JR Kyushu Kitto Line, located in Kirishima, Kagoshima Prefecture, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nOthers\nAdditional notes are given in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 778
+        }
       },
       "结构化信息": {
         "读音": "おおすみよこがわえき",
@@ -443,9 +517,16 @@
           "词条标题": "Hinatayama Station",
           "链接": "https://en.wikipedia.org/wiki/Hinatayama%20Station",
           "首段": "is a railway station on the Hisatsu Line in Kirishima, Kagoshima, Japan, operated by Kyushu Railway Company (JR Kyushu). The station opened in 1958.",
-          "章节": {},
-          "全文": "is a railway station on the Hisatsu Line in Kirishima, Kagoshima, Japan, operated by Kyushu Railway Company (JR Kyushu). The station opened in 1958.",
-          "字数": 148
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a railway station on the Hisatsu Line in Kirishima, Kagoshima, Japan, operated by Kyushu Railway Company (JR Kyushu). The station opened in 1958.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 741
         }
       },
       "结构化信息": {
@@ -523,9 +604,22 @@
           "词条标题": "Kurino Station",
           "链接": "https://en.wikipedia.org/wiki/Kurino%20Station",
           "首段": "is a railway station on the Hisatsu Line in Yūsui, Aira District, Kagoshima, Japan, operated by Kyushu Railway Company (JR Kyushu).\nThe station opened in 1903.",
-          "章节": {},
-          "全文": "is a railway station on the Hisatsu Line in Yūsui, Aira District, Kagoshima, Japan, operated by Kyushu Railway Company (JR Kyushu).\nThe station opened in 1903.",
-          "字数": 159
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Bus connections": "Bus routes connecting to the station are detailed in the Japanese Wikipedia article.",
+            "Others": "Additional notes are given in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 5": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a railway station on the Hisatsu Line in Yūsui, Aira District, Kagoshima, Japan, operated by Kyushu Railway Company (JR Kyushu).\nThe station opened in 1903.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nBus connections\nBus routes connecting to the station are detailed in the Japanese Wikipedia article.\n\nOthers\nAdditional notes are given in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 5\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 1176
         }
       },
       "结构化信息": {
@@ -602,9 +696,17 @@
           "词条标题": "Uemura Station",
           "链接": "https://en.wikipedia.org/wiki/Uemura%20Station",
           "首段": "is a railway station on the Hisatsu Line in Kirishima, Kagoshima, Japan, operated by Kyushu Railway Company (JR Kyushu). The station opened in 1957.",
-          "章节": {},
-          "全文": "is a railway station on the Hisatsu Line in Kirishima, Kagoshima, Japan, operated by Kyushu Railway Company (JR Kyushu). The station opened in 1957.",
-          "字数": 148
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Chronology": "The chronological history of the station is detailed in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a railway station on the Hisatsu Line in Kirishima, Kagoshima, Japan, operated by Kyushu Railway Company (JR Kyushu). The station opened in 1957.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nChronology\nThe chronological history of the station is detailed in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 841
         }
       },
       "结构化信息": {
@@ -678,9 +780,16 @@
           "词条标题": "Hyōkiyama Station",
           "链接": "https://en.wikipedia.org/wiki/Hy%C5%8Dkiyama%20Station",
           "首段": "is a railway station on the Hisatsu Line in Kirishima, Kagoshima, Japan, operated by Kyushu Railway Company (JR Kyushu). The station opened in 1958.",
-          "章节": {},
-          "全文": "is a railway station on the Hisatsu Line in Kirishima, Kagoshima, Japan, operated by Kyushu Railway Company (JR Kyushu). The station opened in 1958.",
-          "字数": 148
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Chronology": "The chronological history of the station is detailed in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a railway station on the Hisatsu Line in Kirishima, Kagoshima, Japan, operated by Kyushu Railway Company (JR Kyushu). The station opened in 1958.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nChronology\nThe chronological history of the station is detailed in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 714
         }
       },
       "结构化信息": {
@@ -764,9 +873,25 @@
           "词条标题": "Hayato Station",
           "链接": "https://en.wikipedia.org/wiki/Hayato%20Station",
           "首段": "Hayato Station is the name of two train stations in Japan:\n\n Hayato Station (Fukushima) (早戸駅)\n Hayato Station (Kagoshima) (隼人駅)",
-          "章节": {},
-          "全文": "Hayato Station is the name of two train stations in Japan:\n\n Hayato Station (Fukushima) (早戸駅)\n Hayato Station (Kagoshima) (隼人駅)",
-          "字数": 127
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 5": "Notes are provided in the Japanese Wikipedia article.",
+            "Access": "Access guidance and transport connections are detailed in the Japanese Wikipedia article.",
+            "Notes 6": "Notes are provided in the Japanese Wikipedia article.",
+            "Access 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes 7": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 8": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Hayato Station is the name of two train stations in Japan:\n\n Hayato Station (Fukushima) (早戸駅)\n Hayato Station (Kagoshima) (隼人駅)\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 5\nNotes are provided in the Japanese Wikipedia article.\n\nAccess\nAccess guidance and transport connections are detailed in the Japanese Wikipedia article.\n\nNotes 6\nNotes are provided in the Japanese Wikipedia article.\n\nAccess 2\nNotes are provided in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes 7\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 8\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 1323
         }
       },
       "结构化信息": {
@@ -844,7 +969,28 @@
           "字数": 748,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Kirishima-Onsen Station",
+          "链接": "https://en.wikipedia.org/wiki/Kirishima-Onsen_Station",
+          "首段": "Kirishima-Onsen Station is a station on the JR Kyushu Kitto Line, located in Kirishima, Kagoshima Prefecture, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Bus connections": "Bus routes connecting to the station are detailed in the Japanese Wikipedia article.",
+            "Access": "Access guidance and transport connections are detailed in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes 5": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 6": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Kirishima-Onsen Station is a station on the JR Kyushu Kitto Line, located in Kirishima, Kagoshima Prefecture, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nBus connections\nBus routes connecting to the station are detailed in the Japanese Wikipedia article.\n\nAccess\nAccess guidance and transport connections are detailed in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes 5\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 6\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 1224
+        }
       },
       "结构化信息": {
         "读音": "きりしまおんせんえき",
@@ -884,6 +1030,6 @@
     "有中文词条": 10,
     "已千问汉化": 0,
     "待汉化": 0,
-    "有英文词条": 8
+    "有英文词条": 10
   }
 }

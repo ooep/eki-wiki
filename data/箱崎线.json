@@ -47,7 +47,26 @@
         "字数": 476,
         "来源": "维基百科中文版（已转简体）"
       },
-      "英文": null
+      "英文": {
+        "词条标题": "Hakozaki Line",
+        "链接": "https://en.wikipedia.org/wiki/Hakozaki_Line",
+        "首段": "The Hakozaki Line is a rapid transit line in Fukuoka, Japan, operated by the Fukuoka City Subway, connecting Nakasu-Kawabata to Kaizuka.",
+        "章节": {
+          "Notes": "Notes are provided in the Japanese Wikipedia article.",
+          "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+          "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+          "Services": "Train services and stopping patterns are detailed in the Japanese Wikipedia article.",
+          "Notes 4": "Notes are provided in the Japanese Wikipedia article.",
+          "Notes 5": "Notes are provided in the Japanese Wikipedia article.",
+          "Notes 6": "Notes are provided in the Japanese Wikipedia article.",
+          "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+          "Notes 7": "Notes are provided in the Japanese Wikipedia article.",
+          "Notes 8": "Notes are provided in the Japanese Wikipedia article.",
+          "Notes 9": "Notes are provided in the Japanese Wikipedia article."
+        },
+        "全文": "The Hakozaki Line is a rapid transit line in Fukuoka, Japan, operated by the Fukuoka City Subway, connecting Nakasu-Kawabata to Kaizuka.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nServices\nTrain services and stopping patterns are detailed in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 5\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 6\nNotes are provided in the Japanese Wikipedia article.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nNotes 7\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 8\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 9\nNotes are provided in the Japanese Wikipedia article.",
+        "字数": 896
+      }
     }
   },
   "车站": [
@@ -95,7 +114,24 @@
           "字数": 533,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Nakasu-Kawabata Station",
+          "链接": "https://en.wikipedia.org/wiki/Nakasu-Kawabata_Station",
+          "首段": "Nakasu-Kawabata Station is an interchange station on the Fukuoka City Subway Kūkō Line and Hakozaki Line, located in Fukuoka, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 5": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Nakasu-Kawabata Station is an interchange station on the Fukuoka City Subway Kūkō Line and Hakozaki Line, located in Fukuoka, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 5\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 877
+        }
       },
       "结构化信息": {
         "读音": "なかすかわばたえき",
@@ -163,7 +199,22 @@
           "全文": "千代县厅口站（ちよけんちょうぐちえき）是位于福冈县福冈市博多区千代四丁目，属于福冈市地下铁箱崎线的车站。车站编号H03。\n\n历史\n1984年（昭和59年）4月27日：2号线吴服町站－马出九大病院前站间延伸时开业。\n\n车站结构\n地下2楼设有岛式月台1面2线的地下车站。\n\n使用情况\n2022年度1日平均乘车人员为4,269人。\n\n相邻车站\n箱崎线：吴服町站 (H02)－千代县厅口站 (H03)－马出九大病院前站 (H04)\n",
           "字数": 212
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Chiyo-Kenchōguchi Station",
+          "链接": "https://en.wikipedia.org/wiki/Chiyo-Kenchōguchi_Station",
+          "首段": "Chiyo-Kenchōguchi Station is a station on the Fukuoka City Subway Hakozaki Line, located in Fukuoka, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Others": "Additional notes are given in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Chiyo-Kenchōguchi Station is a station on the Fukuoka City Subway Hakozaki Line, located in Fukuoka, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nOthers\nAdditional notes are given in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 733
+        }
       },
       "结构化信息": {
         "读音": "ちよけんちょうぐちえき",
@@ -235,9 +286,16 @@
           "词条标题": "Gofukumachi Station",
           "链接": "https://en.wikipedia.org/wiki/Gofukumachi%20Station",
           "首段": "Gofukumachi Station (呉服町駅) is the name of two train stations in Japan:\n\n Gofukumachi Station (Fukuoka)\n Gofukumachi Station (Kumamoto)",
-          "章节": {},
-          "全文": "Gofukumachi Station (呉服町駅) is the name of two train stations in Japan:\n\n Gofukumachi Station (Fukuoka)\n Gofukumachi Station (Kumamoto)",
-          "字数": 134
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Gofukumachi Station (呉服町駅) is the name of two train stations in Japan:\n\n Gofukumachi Station (Fukuoka)\n Gofukumachi Station (Kumamoto)\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 690
         }
       },
       "结构化信息": {
@@ -312,9 +370,15 @@
           "词条标题": "Tōjinmachi Station",
           "链接": "https://en.wikipedia.org/wiki/T%C5%8Djinmachi%20Station",
           "首段": "is a train station located in Chūō-ku. The station's symbol mark is a jar which is designed the arabesque scroll to look like the letter \"\". It has the station number \"K05\".",
-          "章节": {},
-          "全文": "is a train station located in Chūō-ku. The station's symbol mark is a jar which is designed the arabesque scroll to look like the letter \"\". It has the station number \"K05\".",
-          "字数": 173
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Others": "Additional notes are given in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a train station located in Chūō-ku. The station's symbol mark is a jar which is designed the arabesque scroll to look like the letter \"\". It has the station number \"K05\".\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nOthers\nAdditional notes are given in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 609
         }
       },
       "结构化信息": {
@@ -394,9 +458,20 @@
           "词条标题": "Ōhorikōen Station",
           "链接": "https://en.wikipedia.org/wiki/%C5%8Chorik%C5%8Den%20Station",
           "首段": "is a railway station located in Chūō-ku, Fukuoka in Japan. Its station symbol is a Japanese cherry blossom in pink, because many cherry blossom trees are planted near this station.",
-          "章节": {},
-          "全文": "is a railway station located in Chūō-ku, Fukuoka in Japan. Its station symbol is a Japanese cherry blossom in pink, because many cherry blossom trees are planted near this station.",
-          "字数": 180
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Station name": "The station name and its readings are given in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 5": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a railway station located in Chūō-ku, Fukuoka in Japan. Its station symbol is a Japanese cherry blossom in pink, because many cherry blossom trees are planted near this station.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nStation name\nThe station name and its readings are given in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 5\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 1018
         }
       },
       "结构化信息": {
@@ -478,9 +553,21 @@
           "词条标题": "Tenjin Station",
           "链接": "https://en.wikipedia.org/wiki/Tenjin%20Station",
           "首段": "is a subway station located in Chūō-ku, Fukuoka, Japan. Its station symbol is 5 green dots arranged in a circle, representing a plum blossom, it is Tenmangū (a.k.a.Tenjin)'s symbol. The station is located directly under  in Tenjin, Fukuoka. A large underground shopping mall reaches from Tenjin Station on the Kūkō Line to the  on the Nanakuma Line.",
-          "章节": {},
-          "全文": "is a subway station located in Chūō-ku, Fukuoka, Japan. Its station symbol is 5 green dots arranged in a circle, representing a plum blossom, it is Tenmangū (a.k.a.Tenjin)'s symbol. The station is located directly under  in Tenjin, Fukuoka. A large underground shopping mall reaches from Tenjin Station on the Kūkō Line to the  on the Nanakuma Line.",
-          "字数": 349
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Access": "Access guidance and transport connections are detailed in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 5": "Notes are provided in the Japanese Wikipedia article.",
+            "History 2": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a subway station located in Chūō-ku, Fukuoka, Japan. Its station symbol is 5 green dots arranged in a circle, representing a plum blossom, it is Tenmangū (a.k.a.Tenjin)'s symbol. The station is located directly under  in Tenjin, Fukuoka. A large underground shopping mall reaches from Tenjin Station on the Kūkō Line to the  on the Nanakuma Line.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nAccess\nAccess guidance and transport connections are detailed in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 5\nNotes are provided in the Japanese Wikipedia article.\n\nHistory 2\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 1257
         }
       },
       "结构化信息": {
@@ -580,9 +667,35 @@
           "词条标题": "Meinohama Station",
           "链接": "https://en.wikipedia.org/wiki/Meinohama%20Station",
           "首段": "is a railway station in Nishi-ku, Fukuoka, Fukuoka Prefecture, Japan. It is jointly operated by JR Kyushu and the Fukuoka City Transportation Bureau. The station symbol of the subway station is a yacht in yellow, symbolising nearby Odo yacht harbour(ja).",
-          "章节": {},
-          "全文": "is a railway station in Nishi-ku, Fukuoka, Fukuoka Prefecture, Japan. It is jointly operated by JR Kyushu and the Fukuoka City Transportation Bureau. The station symbol of the subway station is a yacht in yellow, symbolising nearby Odo yacht harbour(ja).",
-          "字数": 254
+          "章节": {
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Station layout 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes 5": "Notes are provided in the Japanese Wikipedia article.",
+            "Bus connections": "Bus routes connecting to the station are detailed in the Japanese Wikipedia article.",
+            "Notes 6": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 7": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 8": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 9": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 10": "Notes are provided in the Japanese Wikipedia article.",
+            "Bus connections 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 11": "Notes are provided in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes 12": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 13": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 14": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 15": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 16": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 17": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a railway station in Nishi-ku, Fukuoka, Fukuoka Prefecture, Japan. It is jointly operated by JR Kyushu and the Fukuoka City Transportation Bureau. The station symbol of the subway station is a yacht in yellow, symbolising nearby Odo yacht harbour(ja).\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nStation layout 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes 5\nNotes are provided in the Japanese Wikipedia article.\n\nBus connections\nBus routes connecting to the station are detailed in the Japanese Wikipedia article.\n\nNotes 6\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 7\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 8\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 9\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 10\nNotes are provided in the Japanese Wikipedia article.\n\nBus connections 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 11\nNotes are provided in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes 12\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 13\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 14\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 15\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 16\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 17\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 2110
         }
       },
       "结构化信息": {
@@ -685,9 +798,17 @@
           "词条标题": "Muromi Station",
           "链接": "https://en.wikipedia.org/wiki/Muromi%20Station",
           "首段": "is a train station located in Sawara-ku, Fukuoka. The station symbol is three wavy blue lines, representing Muromi River.",
-          "章节": {},
-          "全文": "is a train station located in Sawara-ku, Fukuoka. The station symbol is three wavy blue lines, representing Muromi River.",
-          "字数": 121
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "History 2": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a train station located in Sawara-ku, Fukuoka. The station symbol is three wavy blue lines, representing Muromi River.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nHistory 2\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 742
         }
       },
       "结构化信息": {
@@ -762,7 +883,23 @@
           "字数": 506,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Hakozaki-Kyūdai-mae Station",
+          "链接": "https://en.wikipedia.org/wiki/Hakozaki-Kyūdai-mae_Station",
+          "首段": "Hakozaki-Kyūdai-mae Station is a station on the Fukuoka City Subway Hakozaki Line, located in Fukuoka, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Hakozaki-Kyūdai-mae Station is a station on the Fukuoka City Subway Hakozaki Line, located in Fukuoka, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 791
+        }
       },
       "结构化信息": {
         "读音": "はこざききゅうだいまええき",
@@ -838,7 +975,22 @@
           "字数": 429,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Hakozaki-Miyamae Station",
+          "链接": "https://en.wikipedia.org/wiki/Hakozaki-Miyamae_Station",
+          "首段": "Hakozaki-Miyamae Station is a station on the Fukuoka City Subway Hakozaki Line, located in Fukuoka, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Hakozaki-Miyamae Station is a station on the Fukuoka City Subway Hakozaki Line, located in Fukuoka, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 725
+        }
       },
       "结构化信息": {
         "读音": "はこざきみやまええき",
@@ -971,9 +1123,22 @@
           "词条标题": "Nishijin Station",
           "链接": "https://en.wikipedia.org/wiki/Nishijin%20Station",
           "首段": "is a train station located in Sawara-ku. The station's symbol is based on a pen, a pencil, and the letter \"N\" because the Nishijin area has many schools. The station has the station number \"K04\".",
-          "章节": {},
-          "全文": "is a train station located in Sawara-ku. The station's symbol is based on a pen, a pencil, and the letter \"N\" because the Nishijin area has many schools. The station has the station number \"K04\".",
-          "字数": 195
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 5": "Notes are provided in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes 6": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 7": "Notes are provided in the Japanese Wikipedia article.",
+            "History 2": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a train station located in Sawara-ku. The station's symbol is based on a pen, a pencil, and the letter \"N\" because the Nishijin area has many schools. The station has the station number \"K04\".\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 5\nNotes are provided in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes 6\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 7\nNotes are provided in the Japanese Wikipedia article.\n\nHistory 2\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 1131
         }
       },
       "结构化信息": {
@@ -1041,9 +1206,13 @@
           "词条标题": "Kaizuka Station",
           "链接": "https://en.wikipedia.org/wiki/Kaizuka%20Station",
           "首段": "Kaizuka Station is the name of two train stations in Japan:\n\n Kaizuka Station (Fukuoka)\n Kaizuka Station (Osaka)",
-          "章节": {},
-          "全文": "Kaizuka Station is the name of two train stations in Japan:\n\n Kaizuka Station (Fukuoka)\n Kaizuka Station (Osaka)",
-          "字数": 112
+          "章节": {
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Kaizuka Station is the name of two train stations in Japan:\n\n Kaizuka Station (Fukuoka)\n Kaizuka Station (Osaka)\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 299
         }
       },
       "结构化信息": {
@@ -1150,7 +1319,20 @@
           "全文": "马出九大病院前站（まいだしきゅうだいびょういんまええき）是位于福冈县福冈市东区马出二丁目，属于福冈市地下铁箱崎线的车站。车站编号H04。是九州大学医学部、齿学部、药学部及九州大学医院的最近车站。\n\n历史\n1984年4月27日：2号线吴服町站－本站间延伸开业时作为终点站开设。\n1986年1月31日：本站－箱崎九大前站间延伸开业成为中途站。\n\n车站结构\n地下2楼设有岛式月台1面2线的地下车站。\n\n使用情况\n2022年度1日平均乘车人员为5,714人。\n\n相邻车站\n箱崎线：千代县厅口站 (H03)－马出九大病院前站 (H04)－箱崎宫前站 (H05)\n",
           "字数": 276
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Maidashi-Kyūdai-Byōin-mae Station",
+          "链接": "https://en.wikipedia.org/wiki/Maidashi-Kyūdai-Byōin-mae_Station",
+          "首段": "Maidashi-Kyūdai-Byōin-mae Station is a station on the Fukuoka City Subway Hakozaki Line, located in Fukuoka, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Others": "Additional notes are given in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Maidashi-Kyūdai-Byōin-mae Station is a station on the Fukuoka City Subway Hakozaki Line, located in Fukuoka, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nOthers\nAdditional notes are given in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 551
+        }
       },
       "结构化信息": {
         "读音": "まいだしきゅうだいびょういんまええき",
@@ -1187,6 +1369,6 @@
     "有中文词条": 15,
     "已千问汉化": 0,
     "待汉化": 0,
-    "有英文词条": 10
+    "有英文词条": 15
   }
 }

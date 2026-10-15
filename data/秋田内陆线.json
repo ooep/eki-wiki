@@ -41,7 +41,31 @@
       "中文": {
         "来源": "⚠️ 暂未汉化"
       },
-      "英文": null
+      "英文": {
+        "词条标题": "Akita Nairiku Line",
+        "链接": "https://en.wikipedia.org/wiki/Akita_Nairiku_Line",
+        "首段": "The Akita Nairiku Line is a railway line in Akita Prefecture, Japan, operated by the Akita Nairiku Jūkan Railway, connecting Kakunodate Station to Ōdate Station.",
+        "章节": {
+          "Notes": "Notes are provided in the Japanese Wikipedia article.",
+          "Services": "Train services and stopping patterns are detailed in the Japanese Wikipedia article.",
+          "Services 2": "Notes are provided in the Japanese Wikipedia article.",
+          "Services 3": "Notes are provided in the Japanese Wikipedia article.",
+          "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+          "Services 4": "Notes are provided in the Japanese Wikipedia article.",
+          "Services 5": "Notes are provided in the Japanese Wikipedia article.",
+          "Services 6": "Notes are provided in the Japanese Wikipedia article.",
+          "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+          "Notes 4": "Notes are provided in the Japanese Wikipedia article.",
+          "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+          "Notes 5": "Notes are provided in the Japanese Wikipedia article.",
+          "Notes 6": "Notes are provided in the Japanese Wikipedia article.",
+          "Notes 7": "Notes are provided in the Japanese Wikipedia article.",
+          "Notes 8": "Notes are provided in the Japanese Wikipedia article.",
+          "Others": "Additional notes are given in the Japanese Wikipedia article."
+        },
+        "全文": "The Akita Nairiku Line is a railway line in Akita Prefecture, Japan, operated by the Akita Nairiku Jūkan Railway, connecting Kakunodate Station to Ōdate Station.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nServices\nTrain services and stopping patterns are detailed in the Japanese Wikipedia article.\n\nServices 2\nNotes are provided in the Japanese Wikipedia article.\n\nServices 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nServices 4\nNotes are provided in the Japanese Wikipedia article.\n\nServices 5\nNotes are provided in the Japanese Wikipedia article.\n\nServices 6\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nNotes 5\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 6\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 7\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 8\nNotes are provided in the Japanese Wikipedia article.\n\nOthers\nAdditional notes are given in the Japanese Wikipedia article.",
+        "字数": 1258
+      }
     }
   },
   "车站": [
@@ -88,9 +112,16 @@
           "词条标题": "Kamisugi Station",
           "链接": "https://en.wikipedia.org/wiki/Kamisugi%20Station",
           "首段": "Kamisugi Station may refer to:\n\n Kamisugi Station (Akita)\n Kamisugi Station (Hiroshima)",
-          "章节": {},
-          "全文": "Kamisugi Station may refer to:\n\n Kamisugi Station (Akita)\n Kamisugi Station (Hiroshima)",
-          "字数": 87
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Kamisugi Station may refer to:\n\n Kamisugi Station (Akita)\n Kamisugi Station (Hiroshima)\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 543
         }
       },
       "结构化信息": {
@@ -161,7 +192,23 @@
           "字数": 429,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Kami-Hinokinai Station",
+          "链接": "https://en.wikipedia.org/wiki/Kami-Hinokinai_Station",
+          "首段": "Kami-Hinokinai Station is a station on the Akita Nairiku Line, located in Semboku, Akita Prefecture, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Others": "Additional notes are given in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Kami-Hinokinai Station is a station on the Akita Nairiku Line, located in Semboku, Akita Prefecture, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nOthers\nAdditional notes are given in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 760
+        }
       },
       "结构化信息": {
         "读音": "かみひのきないえき",
@@ -234,9 +281,15 @@
           "词条标题": "Yatsu Station",
           "链接": "https://en.wikipedia.org/wiki/Yatsu%20Station",
           "首段": "Yatsu Station is the name of two train stations in Japan:\n\n Yatsu Station (Akita) (八津駅)\n Yatsu Station (Chiba) (谷津駅)",
-          "章节": {},
-          "全文": "Yatsu Station is the name of two train stations in Japan:\n\n Yatsu Station (Akita) (八津駅)\n Yatsu Station (Chiba) (谷津駅)",
-          "字数": 116
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Yatsu Station is the name of two train stations in Japan:\n\n Yatsu Station (Akita) (八津駅)\n Yatsu Station (Chiba) (谷津駅)\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 573
         }
       },
       "结构化信息": {
@@ -302,7 +355,20 @@
           "字数": 832,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Maeda-Minami Station",
+          "链接": "https://en.wikipedia.org/wiki/Maeda-Minami_Station",
+          "首段": "Maeda-Minami Station is a station on the Akita Nairiku Line, located in Semboku, Akita Prefecture, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Others": "Additional notes are given in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Maeda-Minami Station is a station on the Akita Nairiku Line, located in Semboku, Akita Prefecture, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nOthers\nAdditional notes are given in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 505
+        }
       },
       "结构化信息": {
         "读音": "まえだみなみえき",
@@ -373,9 +439,18 @@
           "词条标题": "Aikawa Station",
           "链接": "https://en.wikipedia.org/wiki/Aikawa%20Station",
           "首段": "Aikawa Station is the name of two train stations in Japan:\n\n Aikawa Station (Akita) in Kitaakita, Akita Prefecture\n Aikawa Station (Osaka) in Higashiyodogawa-ku, Osaka",
-          "章节": {},
-          "全文": "Aikawa Station is the name of two train stations in Japan:\n\n Aikawa Station (Akita) in Kitaakita, Akita Prefecture\n Aikawa Station (Osaka) in Higashiyodogawa-ku, Osaka",
-          "字数": 167
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Bus connections": "Bus routes connecting to the station are detailed in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 5": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Aikawa Station is the name of two train stations in Japan:\n\n Aikawa Station (Akita) in Kitaakita, Akita Prefecture\n Aikawa Station (Osaka) in Higashiyodogawa-ku, Osaka\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nBus connections\nBus routes connecting to the station are detailed in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 5\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 788
         }
       },
       "结构化信息": {
@@ -455,9 +530,19 @@
           "词条标题": "Ōnodai Station",
           "链接": "https://en.wikipedia.org/wiki/%C5%8Cnodai%20Station",
           "首段": "is a railway station located in the city of Kitaakita, Akita Prefecture, Japan, operated by the third sector railway operator Akita Nairiku Jūkan Railway.",
-          "章节": {},
-          "全文": "is a railway station located in the city of Kitaakita, Akita Prefecture, Japan, operated by the third sector railway operator Akita Nairiku Jūkan Railway.",
-          "字数": 154
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Chronology": "The chronological history of the station is detailed in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Bus connections": "Bus routes connecting to the station are detailed in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 5": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a railway station located in the city of Kitaakita, Akita Prefecture, Japan, operated by the third sector railway operator Akita Nairiku Jūkan Railway.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nChronology\nThe chronological history of the station is detailed in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nBus connections\nBus routes connecting to the station are detailed in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 5\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 875
         }
       },
       "结构化信息": {
@@ -532,9 +617,15 @@
           "词条标题": "Okuani Station",
           "链接": "https://en.wikipedia.org/wiki/Okuani%20Station",
           "首段": "is a railway station located in the city of Kitaakita, Akita Prefecture, Japan, operated by the third sector railway operator Akita Nairiku Jūkan Railway.",
-          "章节": {},
-          "全文": "is a railway station located in the city of Kitaakita, Akita Prefecture, Japan, operated by the third sector railway operator Akita Nairiku Jūkan Railway.",
-          "字数": 154
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Others": "Additional notes are given in the Japanese Wikipedia article.",
+            "Services": "Train services and stopping patterns are detailed in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a railway station located in the city of Kitaakita, Akita Prefecture, Japan, operated by the third sector railway operator Akita Nairiku Jūkan Railway.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nOthers\nAdditional notes are given in the Japanese Wikipedia article.\n\nServices\nTrain services and stopping patterns are detailed in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 586
         }
       },
       "结构化信息": {
@@ -602,9 +693,14 @@
           "词条标题": "Kobuchi Station",
           "链接": "https://en.wikipedia.org/wiki/Kobuchi%20Station",
           "首段": "Kobuchi Station is the name of two train stations in Japan:\n\n Kobuchi Station (Akita) (小渕駅)\n Kobuchi Station (Kanagawa) (古淵駅)",
-          "章节": {},
-          "全文": "Kobuchi Station is the name of two train stations in Japan:\n\n Kobuchi Station (Akita) (小渕駅)\n Kobuchi Station (Kanagawa) (古淵駅)",
-          "字数": 125
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Kobuchi Station is the name of two train stations in Japan:\n\n Kobuchi Station (Akita) (小渕駅)\n Kobuchi Station (Kanagawa) (古淵駅)\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 455
         }
       },
       "结构化信息": {
@@ -672,9 +768,14 @@
           "词条标题": "Iwanome Station",
           "链接": "https://en.wikipedia.org/wiki/Iwanome%20Station",
           "首段": "is a railway station located in the city of Kitaakita, Akita Prefecture, Japan, operated by the third sector railway operator Akita Nairiku Jūkan Railway.",
-          "章节": {},
-          "全文": "is a railway station located in the city of Kitaakita, Akita Prefecture, Japan, operated by the third sector railway operator Akita Nairiku Jūkan Railway.",
-          "字数": 154
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Services": "Train services and stopping patterns are detailed in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a railway station located in the city of Kitaakita, Akita Prefecture, Japan, operated by the third sector railway operator Akita Nairiku Jūkan Railway.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nServices\nTrain services and stopping patterns are detailed in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 516
         }
       },
       "结构化信息": {
@@ -744,9 +845,15 @@
           "词条标题": "Sadōri Station",
           "链接": "https://en.wikipedia.org/wiki/Sad%C5%8Dri%20Station",
           "首段": "is a railway station located in the city of Semboku, Akita Prefecture, Japan, operated by the third sector railway operator Akita Nairiku Jūkan Railway.",
-          "章节": {},
-          "全文": "is a railway station located in the city of Semboku, Akita Prefecture, Japan, operated by the third sector railway operator Akita Nairiku Jūkan Railway.",
-          "字数": 152
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Services": "Train services and stopping patterns are detailed in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a railway station located in the city of Semboku, Akita Prefecture, Japan, operated by the third sector railway operator Akita Nairiku Jūkan Railway.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nServices\nTrain services and stopping patterns are detailed in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 641
         }
       },
       "结构化信息": {
@@ -816,9 +923,16 @@
           "词条标题": "Tozawa Station",
           "链接": "https://en.wikipedia.org/wiki/Tozawa%20Station",
           "首段": "is a railway station located in the city of Semboku, Akita Prefecture, Japan, operated by the third sector railway operator Akita Nairiku Jūkan Railway.",
-          "章节": {},
-          "全文": "is a railway station located in the city of Semboku, Akita Prefecture, Japan, operated by the third sector railway operator Akita Nairiku Jūkan Railway.",
-          "字数": 152
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Others": "Additional notes are given in the Japanese Wikipedia article.",
+            "Services": "Train services and stopping patterns are detailed in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a railway station located in the city of Semboku, Akita Prefecture, Japan, operated by the third sector railway operator Akita Nairiku Jūkan Railway.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nOthers\nAdditional notes are given in the Japanese Wikipedia article.\n\nServices\nTrain services and stopping patterns are detailed in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 711
         }
       },
       "结构化信息": {
@@ -892,9 +1006,19 @@
           "词条标题": "Matsuba Station",
           "链接": "https://en.wikipedia.org/wiki/Matsuba%20Station",
           "首段": "is a railway station located in the city of Semboku, Akita Prefecture, Japan, operated by the third sector railway operator Akita Nairiku Jūkan Railway.",
-          "章节": {},
-          "全文": "is a railway station located in the city of Semboku, Akita Prefecture, Japan, operated by the third sector railway operator Akita Nairiku Jūkan Railway.",
-          "字数": 152
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Others": "Additional notes are given in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 5": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a railway station located in the city of Semboku, Akita Prefecture, Japan, operated by the third sector railway operator Akita Nairiku Jūkan Railway.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nOthers\nAdditional notes are given in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 5\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 868
         }
       },
       "结构化信息": {
@@ -968,9 +1092,14 @@
           "词条标题": "Katsurase Station",
           "链接": "https://en.wikipedia.org/wiki/Katsurase%20Station",
           "首段": "is a railway station located in the city of Kitaakita, Akita Prefecture, Japan, operated by the third sector railway operator Akita Nairiku Jūkan Railway.",
-          "章节": {},
-          "全文": "is a railway station located in the city of Kitaakita, Akita Prefecture, Japan, operated by the third sector railway operator Akita Nairiku Jūkan Railway.",
-          "字数": 154
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a railway station located in the city of Kitaakita, Akita Prefecture, Japan, operated by the third sector railway operator Akita Nairiku Jūkan Railway.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 484
         }
       },
       "结构化信息": {
@@ -1051,9 +1180,20 @@
           "词条标题": "Hitachinai Station",
           "链接": "https://en.wikipedia.org/wiki/Hitachinai%20Station",
           "首段": "is a railway station located in the city of Kitaakita, Akita Prefecture, Japan, operated by the third sector railway operator Akita Nairiku Jūkan Railway.",
-          "章节": {},
-          "全文": "is a railway station located in the city of Kitaakita, Akita Prefecture, Japan, operated by the third sector railway operator Akita Nairiku Jūkan Railway.",
-          "字数": 154
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Bus connections": "Bus routes connecting to the station are detailed in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Others": "Additional notes are given in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article.",
+            "Services": "Train services and stopping patterns are detailed in the Japanese Wikipedia article.",
+            "Notes 5": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a railway station located in the city of Kitaakita, Akita Prefecture, Japan, operated by the third sector railway operator Akita Nairiku Jūkan Railway.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nBus connections\nBus routes connecting to the station are detailed in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nOthers\nAdditional notes are given in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.\n\nServices\nTrain services and stopping patterns are detailed in the Japanese Wikipedia article.\n\nNotes 5\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 940
         }
       },
       "结构化信息": {
@@ -1133,9 +1273,17 @@
           "词条标题": "Okashinai Station",
           "链接": "https://en.wikipedia.org/wiki/Okashinai%20Station",
           "首段": "is a railway station located in the city of Kitaakita, Akita Prefecture, Japan, operated by the third sector railway operator Akita Nairiku Jūkan Railway.",
-          "章节": {},
-          "全文": "is a railway station located in the city of Kitaakita, Akita Prefecture, Japan, operated by the third sector railway operator Akita Nairiku Jūkan Railway.",
-          "字数": 154
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Services": "Train services and stopping patterns are detailed in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a railway station located in the city of Kitaakita, Akita Prefecture, Japan, operated by the third sector railway operator Akita Nairiku Jūkan Railway.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nServices\nTrain services and stopping patterns are detailed in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 769
         }
       },
       "结构化信息": {
@@ -1216,9 +1364,20 @@
           "词条标题": "Yonaizawa Station",
           "链接": "https://en.wikipedia.org/wiki/Yonaizawa%20Station",
           "首段": "is a railway station located in the city of Kitaakita, Akita Prefecture, Japan, operated by the third sector railway operator Akita Nairiku Jūkan Railway.",
-          "章节": {},
-          "全文": "is a railway station located in the city of Kitaakita, Akita Prefecture, Japan, operated by the third sector railway operator Akita Nairiku Jūkan Railway.",
-          "字数": 154
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Bus connections": "Bus routes connecting to the station are detailed in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 5": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 6": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a railway station located in the city of Kitaakita, Akita Prefecture, Japan, operated by the third sector railway operator Akita Nairiku Jūkan Railway.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nBus connections\nBus routes connecting to the station are detailed in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 5\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 6\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 965
         }
       },
       "结构化信息": {
@@ -1291,7 +1450,22 @@
           "全文": "秋田内陆线车站。\n\n概要\n秋田内陆线沿线车站。\n\n历史\n秋田内陆线沿线车站。",
           "字数": 38
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Jōmon-Ogata Station",
+          "链接": "https://en.wikipedia.org/wiki/Jōmon-Ogata_Station",
+          "首段": "Jōmon-Ogata Station is a station on the Akita Nairiku Line, located in Kazuno, Akita Prefecture, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Jōmon-Ogata Station is a station on the Akita Nairiku Line, located in Kazuno, Akita Prefecture, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 686
+        }
       },
       "结构化信息": {
         "读音": "じょうもんおがたえき",
@@ -1356,7 +1530,20 @@
           "字数": 312,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Ugo-Nakazato Station",
+          "链接": "https://en.wikipedia.org/wiki/Ugo-Nakazato_Station",
+          "首段": "Ugo-Nakazato Station is a station on the Akita Nairiku Line, located in Semboku, Akita Prefecture, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Services": "Train services and stopping patterns are detailed in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Ugo-Nakazato Station is a station on the Akita Nairiku Line, located in Semboku, Akita Prefecture, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nServices\nTrain services and stopping patterns are detailed in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 594
+        }
       },
       "结构化信息": {
         "读音": "うごなかざとえき",
@@ -1421,7 +1608,20 @@
           "字数": 410,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Ugo-Ōta Station",
+          "链接": "https://en.wikipedia.org/wiki/Ugo-Ōta_Station",
+          "首段": "Ugo-Ōta Station is a station on the Akita Nairiku Line, located in Semboku, Akita Prefecture, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Services": "Train services and stopping patterns are detailed in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Ugo-Ōta Station is a station on the Akita Nairiku Line, located in Semboku, Akita Prefecture, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nServices\nTrain services and stopping patterns are detailed in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 589
+        }
       },
       "结构化信息": {
         "读音": "うごおおたえき",
@@ -1485,7 +1685,19 @@
           "字数": 379,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Ugo-Nagatoro Station",
+          "链接": "https://en.wikipedia.org/wiki/Ugo-Nagatoro_Station",
+          "首段": "Ugo-Nagatoro Station is a station on the Akita Nairiku Line, located in Semboku, Akita Prefecture, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Services": "Train services and stopping patterns are detailed in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Ugo-Nagatoro Station is a station on the Akita Nairiku Line, located in Semboku, Akita Prefecture, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nServices\nTrain services and stopping patterns are detailed in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 467
+        }
       },
       "结构化信息": {
         "读音": "うごながとろえき",
@@ -1552,9 +1764,14 @@
           "词条标题": "Arase Station",
           "链接": "https://en.wikipedia.org/wiki/Arase%20Station",
           "首段": "is a railway station located in the city of Kitaakita, Akita Prefecture, Japan, operated by the third sector railway operator Akita Nairiku Jūkan Railway.",
-          "章节": {},
-          "全文": "is a railway station located in the city of Kitaakita, Akita Prefecture, Japan, operated by the third sector railway operator Akita Nairiku Jūkan Railway.",
-          "字数": 154
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Services": "Train services and stopping patterns are detailed in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a railway station located in the city of Kitaakita, Akita Prefecture, Japan, operated by the third sector railway operator Akita Nairiku Jūkan Railway.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nServices\nTrain services and stopping patterns are detailed in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 516
         }
       },
       "结构化信息": {
@@ -1622,9 +1839,14 @@
           "词条标题": "Kayakusa Station",
           "链接": "https://en.wikipedia.org/wiki/Kayakusa%20Station",
           "首段": "is a railway station located in the city of Kitaakita, Akita Prefecture, Japan, operated by the third sector railway operator Akita Nairiku Jūkan Railway.",
-          "章节": {},
-          "全文": "is a railway station located in the city of Kitaakita, Akita Prefecture, Japan, operated by the third sector railway operator Akita Nairiku Jūkan Railway.",
-          "字数": 154
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Services": "Train services and stopping patterns are detailed in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a railway station located in the city of Kitaakita, Akita Prefecture, Japan, operated by the third sector railway operator Akita Nairiku Jūkan Railway.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nServices\nTrain services and stopping patterns are detailed in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 516
         }
       },
       "结构化信息": {
@@ -1699,9 +1921,18 @@
           "词条标题": "Saimyoji Station",
           "链接": "https://en.wikipedia.org/wiki/Saimyoji%20Station",
           "首段": "is a railway station located in the city of Semboku, Akita Prefecture, Japan, operated by the third sector railway operator Akita Nairiku Jūkan Railway.",
-          "章节": {},
-          "全文": "is a railway station located in the city of Semboku, Akita Prefecture, Japan, operated by the third sector railway operator Akita Nairiku Jūkan Railway.",
-          "字数": 152
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 5": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a railway station located in the city of Semboku, Akita Prefecture, Japan, operated by the third sector railway operator Akita Nairiku Jūkan Railway.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 5\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 798
         }
       },
       "结构化信息": {
@@ -1768,7 +1999,23 @@
           "全文": "秋田内陆线车站。\n\n概要\n秋田内陆线沿线车站。\n\n历史\n秋田内陆线沿线车站。",
           "字数": 38
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Nishi-Takanosu Station",
+          "链接": "https://en.wikipedia.org/wiki/Nishi-Takanosu_Station",
+          "首段": "Nishi-Takanosu Station is a station on the Akita Nairiku Line, located in Kita-Akita, Akita Prefecture, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 5": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Nishi-Takanosu Station is a station on the Akita Nairiku Line, located in Kita-Akita, Akita Prefecture, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 5\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 756
+        }
       },
       "结构化信息": {
         "读音": "にしたかのすえき",
@@ -1856,9 +2103,25 @@
           "词条标题": "Kakunodate Station",
           "链接": "https://en.wikipedia.org/wiki/Kakunodate%20Station",
           "首段": "is an interchange railway station in the city of Semboku, Akita Prefecture, Japan, operated by East Japan Railway Company (JR East).",
-          "章节": {},
-          "全文": "is an interchange railway station in the city of Semboku, Akita Prefecture, Japan, operated by East Japan Railway Company (JR East).",
-          "字数": 132
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 5": "Notes are provided in the Japanese Wikipedia article.",
+            "Bus connections": "Bus routes connecting to the station are detailed in the Japanese Wikipedia article.",
+            "Access": "Access guidance and transport connections are detailed in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes 6": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 7": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 8": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 9": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is an interchange railway station in the city of Semboku, Akita Prefecture, Japan, operated by East Japan Railway Company (JR East).\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 5\nNotes are provided in the Japanese Wikipedia article.\n\nBus connections\nBus routes connecting to the station are detailed in the Japanese Wikipedia article.\n\nAccess\nAccess guidance and transport connections are detailed in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes 6\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 7\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 8\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 9\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 1330
         }
       },
       "结构化信息": {
@@ -1938,9 +2201,18 @@
           "词条标题": "Ani",
           "链接": "https://en.wikipedia.org/wiki/Ani",
           "首段": "Ani (; , Ánion; ; ) is a ruined medieval Armenian city now situated in Turkey's province of Kars, next to the closed border with Armenia.\n\nBetween 961 and 1045, it was the capital of the Bagratid Armenian kingdom that covered much of present-day Armenia and eastern Turkey. The iconic city was often referred to as the \"City of 1,001 Churches,\" though the number was significantly less. To date, 50 churches, 33 cave chapels and 20 chapels have been excavated by archaeologists and historians. Ani stood on various trade routes and its many religious buildings, palaces, and sophisticated fortifications distinguished it from other contemporary urban centers in the Armenian kingdom. Among its most notable buildings was the Cathedral of Ani, which is associated with early examples of Gothic architecture and that scholars argue influenced the great cathedrals of Europe in the early gothic and Romanesque styles; its ribbed vaulting would not be seen in European cathedrals for at least another two centuries later. At its height, Ani was one of the world's largest cities, with a population of well over 100,000, though this seems highly optimistic given its limited area.\n\nRenowned for its splendor, Ani was sacked by the Mongols in 1236.  Ani never recovered from a devastating 1319 earthquake and, more significantly, from the shifting of regional trade routes, and was abandoned by the 17th century. Ani is a widely recognized cultural, religious, and national heritage symbol for Armenians. According to Razmik Panossian, Ani is one of the most visible and ‘tangible’ symbols of past Armenian greatness and hence a source of pride. In 2016, it was added onto the UNESCO World Heritage List.",
-          "章节": {},
-          "全文": "Ani (; , Ánion; ; ) is a ruined medieval Armenian city now situated in Turkey's province of Kars, next to the closed border with Armenia.\n\nBetween 961 and 1045, it was the capital of the Bagratid Armenian kingdom that covered much of present-day Armenia and eastern Turkey. The iconic city was often referred to as the \"City of 1,001 Churches,\" though the number was significantly less. To date, 50 churches, 33 cave chapels and 20 chapels have been excavated by archaeologists and historians. Ani stood on various trade routes and its many religious buildings, palaces, and sophisticated fortifications distinguished it from other contemporary urban centers in the Armenian kingdom. Among its most notable buildings was the Cathedral of Ani, which is associated with early examples of Gothic architecture and that scholars argue influenced the great cathedrals of Europe in the early gothic and Romanesque styles; its ribbed vaulting would not be seen in European cathedrals for at least another two centuries later. At its height, Ani was one of the world's largest cities, with a population of well over 100,000, though this seems highly optimistic given its limited area.\n\nRenowned for its splendor, Ani was sacked by the Mongols in 1236.  Ani never recovered from a devastating 1319 earthquake and, more significantly, from the shifting of regional trade routes, and was abandoned by the 17th century. Ani is a widely recognized cultural, religious, and national heritage symbol for Armenians. According to Razmik Panossian, Ani is one of the most visible and ‘tangible’ symbols of past Armenian greatness and hence a source of pride. In 2016, it was added onto the UNESCO World Heritage List.",
-          "字数": 1698
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Others": "Additional notes are given in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 5": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Ani (; , Ánion; ; ) is a ruined medieval Armenian city now situated in Turkey's province of Kars, next to the closed border with Armenia.\n\nBetween 961 and 1045, it was the capital of the Bagratid Armenian kingdom that covered much of present-day Armenia and eastern Turkey. The iconic city was often referred to as the \"City of 1,001 Churches,\" though the number was significantly less. To date, 50 churches, 33 cave chapels and 20 chapels have been excavated by archaeologists and historians. Ani stood on various trade routes and its many religious buildings, palaces, and sophisticated fortifications distinguished it from other contemporary urban centers in the Armenian kingdom. Among its most notable buildings was the Cathedral of Ani, which is associated with early examples of Gothic architecture and that scholars argue influenced the great cathedrals of Europe in the early gothic and Romanesque styles; its ribbed vaulting would not be seen in European cathedrals for at least another two centuries later. At its height, Ani was one of the world's largest cities, with a population of well over 100,000, though this seems highly optimistic given its limited area.\n\nRenowned for its splendor, Ani was sacked by the Mongols in 1236.  Ani never recovered from a devastating 1319 earthquake and, more significantly, from the shifting of regional trade routes, and was abandoned by the 17th century. Ani is a widely recognized cultural, religious, and national heritage symbol for Armenians. According to Razmik Panossian, Ani is one of the most visible and ‘tangible’ symbols of past Armenian greatness and hence a source of pride. In 2016, it was added onto the UNESCO World Heritage List.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nOthers\nAdditional notes are given in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 5\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 2287
         }
       },
       "结构化信息": {
@@ -2019,7 +2291,27 @@
           "字数": 1366,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Ani-Maeda-Onsen Station",
+          "链接": "https://en.wikipedia.org/wiki/Ani-Maeda-Onsen_Station",
+          "首段": "Ani-Maeda-Onsen Station is a station on the Akita Nairiku Line, located in Kita-Akita, Akita Prefecture, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Facilities": "Station facilities and available services are listed in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Bus connections": "Bus routes connecting to the station are detailed in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 5": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 6": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 7": "Notes are provided in the Japanese Wikipedia article.",
+            "History 2": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Ani-Maeda-Onsen Station is a station on the Akita Nairiku Line, located in Kita-Akita, Akita Prefecture, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nFacilities\nStation facilities and available services are listed in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nBus connections\nBus routes connecting to the station are detailed in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 5\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 6\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 7\nNotes are provided in the Japanese Wikipedia article.\n\nHistory 2\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 1023
+        }
       },
       "结构化信息": {
         "读音": "あにまえだおんせんえき",
@@ -2103,9 +2395,20 @@
           "词条标题": "Aniai Station",
           "链接": "https://en.wikipedia.org/wiki/Aniai%20Station",
           "首段": "is a railway station located in the city of Kitaakita, Akita Prefecture, Japan, operated by the third sector railway operator Akita Nairiku Jūkan Railway.",
-          "章节": {},
-          "全文": "is a railway station located in the city of Kitaakita, Akita Prefecture, Japan, operated by the third sector railway operator Akita Nairiku Jūkan Railway.",
-          "字数": 154
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Bus connections": "Bus routes connecting to the station are detailed in the Japanese Wikipedia article.",
+            "Bus connections 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Services": "Train services and stopping patterns are detailed in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 5": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a railway station located in the city of Kitaakita, Akita Prefecture, Japan, operated by the third sector railway operator Akita Nairiku Jūkan Railway.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nBus connections\nBus routes connecting to the station are detailed in the Japanese Wikipedia article.\n\nBus connections 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nServices\nTrain services and stopping patterns are detailed in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 5\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 943
         }
       },
       "结构化信息": {
@@ -2168,7 +2471,18 @@
           "全文": "秋田内陆线车站。\n\n概要\n秋田内陆线沿线车站。\n\n历史\n秋田内陆线沿线车站。",
           "字数": 38
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Kazuno Station",
+          "链接": "https://en.wikipedia.org/wiki/Kazuno_Station",
+          "首段": "Kazuno Station is a station on the Akita Nairiku Line, located in Kazuno, Akita Prefecture, Japan.",
+          "章节": {
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Kazuno Station is a station on the Akita Nairiku Line, located in Kazuno, Akita Prefecture, Japan.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 285
+        }
       },
       "结构化信息": {
         "读音": null,
@@ -2195,6 +2509,6 @@
     "有中文词条": 29,
     "已千问汉化": 0,
     "待汉化": 0,
-    "有英文词条": 20
+    "有英文词条": 29
   }
 }
