@@ -399,7 +399,14 @@
           "字数": 1059,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Bingo-Honjō Station",
+          "链接": "https://en.wikipedia.org/wiki/Bingo-Honjō_Station",
+          "首段": "Bingo-Honjō Station is a station on the JR West Fukuen Line, located in Fukuyama, Hiroshima Prefecture, Japan.",
+          "章节": {},
+          "全文": "Bingo-Honjō Station is a station on the JR West Fukuen Line, located in Fukuyama, Hiroshima Prefecture, Japan.",
+          "字数": 110
+        }
       },
       "结构化信息": {
         "读音": "びんごほんじょうえき",
@@ -692,7 +699,14 @@
           "字数": 553,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Kawabejuku Station",
+          "链接": "https://en.wikipedia.org/wiki/Kawabejuku_Station",
+          "首段": "Kawabejuku Station is a station on the Ibara Railway Ibara Line, located in Kurashiki, Okayama Prefecture, Japan.",
+          "章节": {},
+          "全文": "Kawabejuku Station is a station on the Ibara Railway Ibara Line, located in Kurashiki, Okayama Prefecture, Japan.",
+          "字数": 113
+        }
       },
       "结构化信息": {
         "读音": "かわべじゅくえき",
@@ -1459,7 +1473,14 @@
           "字数": 661,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Sōja Station",
+          "链接": "https://en.wikipedia.org/wiki/Sōja_Station",
+          "首段": "Sōja Station is an interchange station on the JR West Hakubi Line and the Ibara Railway, located in Sōja, Okayama Prefecture, Japan.",
+          "章节": {},
+          "全文": "Sōja Station is an interchange station on the JR West Hakubi Line and the Ibara Railway, located in Sōja, Okayama Prefecture, Japan.",
+          "字数": 132
+        }
       },
       "结构化信息": {
         "读音": "そうじゃえき",
@@ -1500,6 +1521,6 @@
     "有中文词条": 18,
     "已千问汉化": 0,
     "待汉化": 0,
-    "有英文词条": 15
+    "有英文词条": 18
   }
 }
