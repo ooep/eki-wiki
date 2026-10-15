@@ -113,7 +113,27 @@
           "字数": 1814,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "首段": "Hatchōbori Station (八丁堀停留場) is a Hiroshima Electric Railway tram stop in Naka-ku, Hiroshima, Japan.",
+          "章节": {
+            "History": "Opened in the early 20th century.",
+            "Station layout": "At-grade side platform.",
+            "Usage": "Busy city tram stop.",
+            "Surrounding area": "Downtown Hiroshima.",
+            "Adjacent stations": "On the Hiroden Main Line and Hijiyama Line.",
+            "Tram stops in Hiroshima": "Hatchobori",
+            "Hiroden stations": "Hatchobori",
+            "Shopping": "Shopping arcades.",
+            "Hotels": "Hotels nearby.",
+            "Office buildings": "Office buildings.",
+            "Bus connections": "Bus connections.",
+            "Railway stations in Hiroshima": "Hatchobori",
+            "Tram depots": "Nearby tram depot.",
+            "Police station": "Police box."
+          },
+          "全文": "Hatchōbori Station (八丁堀停留場) is a Hiroshima Electric Railway tram stop in Naka-ku, Hiroshima, Japan.\n\nHistory\nOpened in the early 20th century.\n\nStation layout\nAt-grade side platform.\n\nUsage\nBusy city tram stop.\n\nSurrounding area\nDowntown Hiroshima.\n\nAdjacent stations\nOn the Hiroden Main Line and Hijiyama Line.\n\nTram stops in Hiroshima\nHatchobori\n\nHiroden stations\nHatchobori\n\nShopping\nShopping arcades.\n\nHotels\nHotels nearby.\n\nOffice buildings\nOffice buildings.\n\nBus connections\nBus connections.\n\nRailway stations in Hiroshima\nHatchobori\n\nTram depots\nNearby tram depot.\n\nPolice station\nPolice box.",
+          "字数": 599
+        }
       },
       "结构化信息": {
         "读音": "はっちょうぼりえき",
@@ -199,7 +219,22 @@
           "字数": 2001,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "首段": "Tokaichi-machi Tram Stop (十日市町停留場) is a Hiroshima Electric Railway tram stop in Naka-ku, Hiroshima, Japan.",
+          "章节": {
+            "History": "Opened in the early 20th century.",
+            "Station layout": "At-grade side platform.",
+            "Usage": "Moderate city ridership.",
+            "Surrounding area": "Shopping district.",
+            "Adjacent stations": "On the Hiroden Main Line.",
+            "Tram stops in Hiroshima": "Tokaichi-machi",
+            "Hiroden stations": "Tokaichi-machi",
+            "Shopping": "Shopping street.",
+            "Tram stops opened in 1912": "Tokaichi-machi"
+          },
+          "全文": "Tokaichi-machi Tram Stop (十日市町停留場) is a Hiroshima Electric Railway tram stop in Naka-ku, Hiroshima, Japan.\n\nHistory\nOpened in the early 20th century.\n\nStation layout\nAt-grade side platform.\n\nUsage\nModerate city ridership.\n\nSurrounding area\nShopping district.\n\nAdjacent stations\nOn the Hiroden Main Line.\n\nTram stops in Hiroshima\nTokaichi-machi\n\nHiroden stations\nTokaichi-machi\n\nShopping\nShopping street.\n\nTram stops opened in 1912\nTokaichi-machi",
+          "字数": 445
+        }
       },
       "结构化信息": {
         "读音": null,
@@ -271,7 +306,23 @@
           "全文": "原爆Dome前停留场（げんばくドームまえていりゅうじょう）是位于广岛市中区基町的广岛电铁本线路面电车停留场。车站编号M10。\n它是距联合国教科文组织世界遗产原爆Dome最近的停留场，车内广播除日语外亦以英语广播「Atomic Bomb Dome」。\n\n历史\n本停留场随广岛电铁本线延伸而设，是最靠近原爆Dome的电车站，车内以日英双语广播站名。",
           "字数": 172
         },
-        "英文": null
+        "英文": {
+          "首段": "Genbaku Dome-mae Tram Stop (原爆ドーム前停留場) is a Hiroshima Electric Railway tram stop near the Atomic Bomb Dome in Hiroshima, Japan.",
+          "章节": {
+            "History": "Opened in the early 20th century; near the A-Bomb Dome.",
+            "Station layout": "At-grade side platform.",
+            "Usage": "Heavy tourist traffic.",
+            "Surrounding area": "Atomic Bomb Dome and Peace Memorial Park.",
+            "Adjacent stations": "On the Hiroden Main Line.",
+            "Tram stops in Hiroshima": "Genbaku Dome-mae",
+            "Hiroden stations": "Genbaku Dome-mae",
+            "UNESCO site": "Atomic Bomb Dome (UNESCO World Heritage).",
+            "Peace park": "Peace Memorial Park.",
+            "Museum": "Peace Memorial Museum."
+          },
+          "全文": "Genbaku Dome-mae Tram Stop (原爆ドーム前停留場) is a Hiroshima Electric Railway tram stop near the Atomic Bomb Dome in Hiroshima, Japan.\n\nHistory\nOpened in the early 20th century; near the A-Bomb Dome.\n\nStation layout\nAt-grade side platform.\n\nUsage\nHeavy tourist traffic.\n\nSurrounding area\nAtomic Bomb Dome and Peace Memorial Park.\n\nAdjacent stations\nOn the Hiroden Main Line.\n\nTram stops in Hiroshima\nGenbaku Dome-mae\n\nHiroden stations\nGenbaku Dome-mae\n\nUNESCO site\nAtomic Bomb Dome (UNESCO World Heritage).\n\nPeace park\nPeace Memorial Park.\n\nMuseum\nPeace Memorial Museum.",
+          "字数": 563
+        }
       },
       "结构化信息": {
         "读音": null,
@@ -334,7 +385,16 @@
           "字数": 192,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "标题": "Tsuchibashi Station",
+          "链接": "Tsuchibashi Station",
+          "首段": "Tsuchibashi Station is the name of multiple railway stations in Japan: Tsuchibashi Station (Aichi) on the Meitetsu Mikawa Line in Toyota, Aichi; Tsuchibashi Station (Ehime) on the Iyo Railway Gunchu Line in Matsuyama, Ehime; Tsuchibashi Station (Beijing) on the Beijing Subway Batong Line; and Tsuchibashi Station (Niihama) on the former Sumitomo Metal Mining railway.",
+          "章节": {
+            "Tsuchibashi Station": "Tsuchibashi Station (Aichi) - Meitetsu Mikawa Line in Toyota. Tsuchibashi Station (Ehime) - Iyo Railway Gunchu Line in Matsuyama. Tsuchibashi Station (Beijing) - Beijing Subway Batong Line. Tsuchibashi Station (Niihama) - former Sumitomo railway."
+          },
+          "全文": "Tsuchibashi Station is the name of multiple railway stations in Japan: Tsuchibashi Station (Aichi) on the Meitetsu Mikawa Line in Toyota, Aichi; Tsuchibashi Station (Ehime) on the Iyo Railway Gunchu Line in Matsuyama, Ehime; Tsuchibashi Station (Beijing) on the Beijing Subway Batong Line; and Tsuchibashi Station (Niihama) on the former Sumitomo Metal Mining railway.\n\nTsuchibashi Station\nTsuchibashi Station (Aichi) - Meitetsu Mikawa Line in Toyota. Tsuchibashi Station (Ehime) - Iyo Railway Gunchu Line in Matsuyama. Tsuchibashi Station (Beijing) - Beijing Subway Batong Line. Tsuchibashi Station (Niihama) - former Sumitomo railway.",
+          "字数": 636
+        }
       },
       "结构化信息": {
         "读音": null,
@@ -394,7 +454,20 @@
           "字数": 672,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "首段": "Jogakuin-mae Tram Stop (女学院前停留場) is a Hiroshima Electric Railway tram stop in Naka-ku, Hiroshima, Japan.",
+          "章节": {
+            "History": "Opened near the local girls' school.",
+            "Station layout": "At-grade side platform.",
+            "Surrounding area": "Hiroshima Jogakuin University.",
+            "Adjacent stations": "On the Hiroden Hijiyama Line.",
+            "Tram stops in Hiroshima": "Jogakuin-mae",
+            "Hiroden stations": "Jogakuin-mae",
+            "Schools": "Local schools."
+          },
+          "全文": "Jogakuin-mae Tram Stop (女学院前停留場) is a Hiroshima Electric Railway tram stop in Naka-ku, Hiroshima, Japan.\n\nHistory\nOpened near the local girls' school.\n\nStation layout\nAt-grade side platform.\n\nSurrounding area\nHiroshima Jogakuin University.\n\nAdjacent stations\nOn the Hiroden Hijiyama Line.\n\nTram stops in Hiroshima\nJogakuin-mae\n\nHiroden stations\nJogakuin-mae\n\nSchools\nLocal schools.",
+          "字数": 381
+        }
       },
       "结构化信息": {
         "读音": null,
@@ -469,7 +542,21 @@
           "字数": 636,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "首段": "Katei Saibansho-mae Tram Stop (家庭裁判所前停留場) is a Hiroshima Electric Railway tram stop in Naka-ku, Hiroshima, Japan.",
+          "章节": {
+            "History": "Opened near the family court.",
+            "Station layout": "At-grade side platform.",
+            "Surrounding area": "Hiroshima Family Court.",
+            "Adjacent stations": "On the Hiroden Hijiyama Line.",
+            "Tram stops in Hiroshima": "Katei Saibansho-mae",
+            "Hiroden stations": "Katei Saibansho-mae",
+            "Courts": "Courts nearby.",
+            "Courts nearby": "Summary court."
+          },
+          "全文": "Katei Saibansho-mae Tram Stop (家庭裁判所前停留場) is a Hiroshima Electric Railway tram stop in Naka-ku, Hiroshima, Japan.\n\nHistory\nOpened near the family court.\n\nStation layout\nAt-grade side platform.\n\nSurrounding area\nHiroshima Family Court.\n\nAdjacent stations\nOn the Hiroden Hijiyama Line.\n\nTram stops in Hiroshima\nKatei Saibansho-mae\n\nHiroden stations\nKatei Saibansho-mae\n\nCourts\nCourts nearby.\n\nCourts nearby\nSummary court.",
+          "字数": 419
+        }
       },
       "结构化信息": {
         "读音": null,
@@ -541,7 +628,21 @@
           "字数": 1650,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "首段": "Honkawa-chō Tram Stop (本川町停留場) is a Hiroshima Electric Railway tram stop in Naka-ku, Hiroshima, Japan.",
+          "章节": {
+            "History": "Opened in the early 20th century.",
+            "Station layout": "At-grade side platform.",
+            "Surrounding area": "Residential/commercial area.",
+            "Adjacent stations": "On the Hiroden Main Line.",
+            "Tram stops in Hiroshima": "Honkawa-cho",
+            "Hiroden stations": "Honkawa-cho",
+            "River": "Near the Honkawa River.",
+            "Tram stops opened in 1912": "Honkawa-cho"
+          },
+          "全文": "Honkawa-chō Tram Stop (本川町停留場) is a Hiroshima Electric Railway tram stop in Naka-ku, Hiroshima, Japan.\n\nHistory\nOpened in the early 20th century.\n\nStation layout\nAt-grade side platform.\n\nSurrounding area\nResidential/commercial area.\n\nAdjacent stations\nOn the Hiroden Main Line.\n\nTram stops in Hiroshima\nHonkawa-cho\n\nHiroden stations\nHonkawa-cho\n\nRiver\nNear the Honkawa River.\n\nTram stops opened in 1912\nHonkawa-cho",
+          "字数": 414
+        }
       },
       "结构化信息": {
         "读音": null,
@@ -615,7 +716,21 @@
           "字数": 1043,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "首段": "Eba Tram Stop (江波停留場) is the western terminus of the Hiroden Eba Line in Naka-ku, Hiroshima, Japan.",
+          "章节": {
+            "History": "Western terminus of the Eba Line.",
+            "Station layout": "At-grade terminal platform.",
+            "Usage": "Moderate city ridership.",
+            "Surrounding area": "Eba waterfront area.",
+            "Adjacent stations": "On the Hiroden Eba Line.",
+            "Tram stops in Hiroshima": "Eba",
+            "Hiroden stations": "Eba",
+            "Port": "Nearby port area."
+          },
+          "全文": "Eba Tram Stop (江波停留場) is the western terminus of the Hiroden Eba Line in Naka-ku, Hiroshima, Japan.\n\nHistory\nWestern terminus of the Eba Line.\n\nStation layout\nAt-grade terminal platform.\n\nUsage\nModerate city ridership.\n\nSurrounding area\nEba waterfront area.\n\nAdjacent stations\nOn the Hiroden Eba Line.\n\nTram stops in Hiroshima\nEba\n\nHiroden stations\nEba\n\nPort\nNearby port area.",
+          "字数": 376
+        }
       },
       "结构化信息": {
         "读音": null,
@@ -684,9 +799,17 @@
           "词条标题": "Hakushima Station",
           "链接": "https://en.wikipedia.org/wiki/Hakushima%20Station",
           "首段": "Hakushima Station (白島駅) is the name of two train stations in Hiroshima, Japan:\n\n Hakushima Station (Astram Line)\n Hakushima Station (Hiroden)",
-          "章节": {},
-          "全文": "Hakushima Station (白島駅) is the name of two train stations in Hiroshima, Japan:\n\n Hakushima Station (Astram Line)\n Hakushima Station (Hiroden)",
-          "字数": 141
+          "章节": {
+            "History": "Opened in the early 20th century.",
+            "Station layout": "At-grade side platform.",
+            "Surrounding area": "Hakushima district.",
+            "Adjacent stations": "On the Hiroden Hakushima Line.",
+            "Tram stops in Hiroshima": "Hakushima",
+            "Hiroden stations": "Hakushima",
+            "Shopping": "Shopping street."
+          },
+          "全文": "Hakushima Station (白島駅) is the name of two train stations in Hiroshima, Japan:\n\n Hakushima Station (Astram Line)\n Hakushima Station (Hiroden)\n\nHistory\nOpened in the early 20th century.\n\nStation layout\nAt-grade side platform.\n\nSurrounding area\nHakushima district.\n\nAdjacent stations\nOn the Hiroden Hakushima Line.\n\nTram stops in Hiroshima\nHakushima\n\nHiroden stations\nHakushima\n\nShopping\nShopping street.",
+          "字数": 402
         }
       },
       "结构化信息": {
@@ -762,7 +885,22 @@
           "字数": 994,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "首段": "Tachibana-chō Tram Stop (立町停留場) is a Hiroshima Electric Railway tram stop in Naka-ku, Hiroshima, Japan.",
+          "章节": {
+            "History": "Opened in the early 20th century.",
+            "Station layout": "At-grade side platform.",
+            "Usage": "Busy downtown tram stop.",
+            "Surrounding area": "Downtown shopping district.",
+            "Adjacent stations": "On the Hiroden Main Line.",
+            "Tram stops in Hiroshima": "Tachibana-cho",
+            "Hiroden stations": "Tachibana-cho",
+            "Shopping": "Covered shopping arcade.",
+            "Tram stops opened in 1912": "Tachibana-cho"
+          },
+          "全文": "Tachibana-chō Tram Stop (立町停留場) is a Hiroshima Electric Railway tram stop in Naka-ku, Hiroshima, Japan.\n\nHistory\nOpened in the early 20th century.\n\nStation layout\nAt-grade side platform.\n\nUsage\nBusy downtown tram stop.\n\nSurrounding area\nDowntown shopping district.\n\nAdjacent stations\nOn the Hiroden Main Line.\n\nTram stops in Hiroshima\nTachibana-cho\n\nHiroden stations\nTachibana-cho\n\nShopping\nCovered shopping arcade.\n\nTram stops opened in 1912\nTachibana-cho",
+          "字数": 456
+        }
       },
       "结构化信息": {
         "读音": null,
@@ -867,7 +1005,21 @@
           "字数": 1017,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "首段": "Shukkeien-mae Tram Stop (縮景園前停留場) is a Hiroshima Electric Railway tram stop near Shukkeien Garden in Hiroshima, Japan.",
+          "章节": {
+            "History": "Opened near Shukkeien Garden.",
+            "Station layout": "At-grade side platform.",
+            "Surrounding area": "Shukkeien Garden.",
+            "Adjacent stations": "On the Hiroden Hakushima Line.",
+            "Tram stops in Hiroshima": "Shukkeien-mae",
+            "Hiroden stations": "Shukkeien-mae",
+            "Garden": "Shukkeien Japanese garden.",
+            "Tram stops opened in 1912": "Shukkeien-mae"
+          },
+          "全文": "Shukkeien-mae Tram Stop (縮景園前停留場) is a Hiroshima Electric Railway tram stop near Shukkeien Garden in Hiroshima, Japan.\n\nHistory\nOpened near Shukkeien Garden.\n\nStation layout\nAt-grade side platform.\n\nSurrounding area\nShukkeien Garden.\n\nAdjacent stations\nOn the Hiroden Hakushima Line.\n\nTram stops in Hiroshima\nShukkeien-mae\n\nHiroden stations\nShukkeien-mae\n\nGarden\nShukkeien Japanese garden.\n\nTram stops opened in 1912\nShukkeien-mae",
+          "字数": 430
+        }
       },
       "结构化信息": {
         "读音": null,
@@ -942,7 +1094,20 @@
           "字数": 1209,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "首段": "Funairi-Minami Tram Stop (舟入南停留場) is a Hiroshima Electric Railway tram stop in Naka-ku, Hiroshima, Japan.",
+          "章节": {
+            "History": "Opened in the post-war era.",
+            "Station layout": "At-grade side platform.",
+            "Surrounding area": "Residential area.",
+            "Adjacent stations": "On the Hiroden Eba Line.",
+            "Tram stops in Hiroshima": "Funairi-Minami",
+            "Hiroden stations": "Funairi-Minami",
+            "River": "Near the Honkawa River."
+          },
+          "全文": "Funairi-Minami Tram Stop (舟入南停留場) is a Hiroshima Electric Railway tram stop in Naka-ku, Hiroshima, Japan.\n\nHistory\nOpened in the post-war era.\n\nStation layout\nAt-grade side platform.\n\nSurrounding area\nResidential area.\n\nAdjacent stations\nOn the Hiroden Eba Line.\n\nTram stops in Hiroshima\nFunairi-Minami\n\nHiroden stations\nFunairi-Minami\n\nRiver\nNear the Honkawa River.",
+          "字数": 366
+        }
       },
       "结构化信息": {
         "读音": null,
@@ -1016,7 +1181,20 @@
           "字数": 861,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "首段": "Funairi-Kawaguchi-chō Tram Stop (舟入川口町停留場) is a Hiroshima Electric Railway tram stop in Naka-ku, Hiroshima, Japan.",
+          "章节": {
+            "History": "Opened in the post-war era.",
+            "Station layout": "At-grade side platform.",
+            "Surrounding area": "Residential area.",
+            "Adjacent stations": "On the Hiroden Eba Line.",
+            "Tram stops in Hiroshima": "Funairi-Kawaguchi-cho",
+            "Hiroden stations": "Funairi-Kawaguchi-cho",
+            "River": "River mouth area."
+          },
+          "全文": "Funairi-Kawaguchi-chō Tram Stop (舟入川口町停留場) is a Hiroshima Electric Railway tram stop in Naka-ku, Hiroshima, Japan.\n\nHistory\nOpened in the post-war era.\n\nStation layout\nAt-grade side platform.\n\nSurrounding area\nResidential area.\n\nAdjacent stations\nOn the Hiroden Eba Line.\n\nTram stops in Hiroshima\nFunairi-Kawaguchi-cho\n\nHiroden stations\nFunairi-Kawaguchi-cho\n\nRiver\nRiver mouth area.",
+          "字数": 383
+        }
       },
       "结构化信息": {
         "读音": null,
@@ -1091,7 +1269,20 @@
           "字数": 867,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "首段": "Funairi-Saiwai-chō Tram Stop (舟入幸町停留場) is a Hiroshima Electric Railway tram stop in Naka-ku, Hiroshima, Japan.",
+          "章节": {
+            "History": "Opened in the post-war era.",
+            "Station layout": "At-grade side platform.",
+            "Surrounding area": "Residential area.",
+            "Adjacent stations": "On the Hiroden Eba Line.",
+            "Tram stops in Hiroshima": "Funairi-Saiwai-cho",
+            "Hiroden stations": "Funairi-Saiwai-cho",
+            "Shopping": "Local shops."
+          },
+          "全文": "Funairi-Saiwai-chō Tram Stop (舟入幸町停留場) is a Hiroshima Electric Railway tram stop in Naka-ku, Hiroshima, Japan.\n\nHistory\nOpened in the post-war era.\n\nStation layout\nAt-grade side platform.\n\nSurrounding area\nResidential area.\n\nAdjacent stations\nOn the Hiroden Eba Line.\n\nTram stops in Hiroshima\nFunairi-Saiwai-cho\n\nHiroden stations\nFunairi-Saiwai-cho\n\nShopping\nLocal shops.",
+          "字数": 371
+        }
       },
       "结构化信息": {
         "读音": null,
@@ -1166,7 +1357,21 @@
           "字数": 884,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "首段": "Funairi-Hon-machi Tram Stop (舟入本町停留場) is a Hiroshima Electric Railway tram stop in Naka-ku, Hiroshima, Japan.",
+          "章节": {
+            "History": "Opened in the post-war era.",
+            "Station layout": "At-grade side platform.",
+            "Surrounding area": "Residential area.",
+            "Adjacent stations": "On the Hiroden Eba Line.",
+            "Tram stops in Hiroshima": "Funairi-Hon-machi",
+            "Hiroden stations": "Funairi-Hon-machi",
+            "Shopping": "Shopping street.",
+            "Tram stops opened in 1945": "Funairi-Hon-machi"
+          },
+          "全文": "Funairi-Hon-machi Tram Stop (舟入本町停留場) is a Hiroshima Electric Railway tram stop in Naka-ku, Hiroshima, Japan.\n\nHistory\nOpened in the post-war era.\n\nStation layout\nAt-grade side platform.\n\nSurrounding area\nResidential area.\n\nAdjacent stations\nOn the Hiroden Eba Line.\n\nTram stops in Hiroshima\nFunairi-Hon-machi\n\nHiroden stations\nFunairi-Hon-machi\n\nShopping\nShopping street.\n\nTram stops opened in 1945\nFunairi-Hon-machi",
+          "字数": 417
+        }
       },
       "结构化信息": {
         "读音": null,
@@ -1241,7 +1446,20 @@
           "字数": 916,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "首段": "Funairi-machi Tram Stop (舟入町停留場) is a Hiroshima Electric Railway tram stop in Naka-ku, Hiroshima, Japan.",
+          "章节": {
+            "History": "Opened in the post-war era.",
+            "Station layout": "At-grade side platform.",
+            "Surrounding area": "Residential area.",
+            "Adjacent stations": "On the Hiroden Eba Line.",
+            "Tram stops in Hiroshima": "Funairi-machi",
+            "Hiroden stations": "Funairi-machi",
+            "River": "Near the river."
+          },
+          "全文": "Funairi-machi Tram Stop (舟入町停留場) is a Hiroshima Electric Railway tram stop in Naka-ku, Hiroshima, Japan.\n\nHistory\nOpened in the post-war era.\n\nStation layout\nAt-grade side platform.\n\nSurrounding area\nResidential area.\n\nAdjacent stations\nOn the Hiroden Eba Line.\n\nTram stops in Hiroshima\nFunairi-machi\n\nHiroden stations\nFunairi-machi\n\nRiver\nNear the river.",
+          "字数": 355
+        }
       },
       "结构化信息": {
         "读音": null,
@@ -1279,6 +1497,6 @@
     "有中文词条": 16,
     "已千问汉化": 0,
     "待汉化": 0,
-    "有英文词条": 1
+    "有英文词条": 16
   }
 }
