@@ -161,7 +161,14 @@
           "字数": 1058,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "YRP Nobi Station",
+          "链接": "https://en.wikipedia.org/wiki/YRP_Nobi_Station",
+          "首段": "YRP Nobi Station is a station on the Keikyū Kurihama Line, located in Nobi 1-chōme, Yokosuka, Kanagawa Prefecture, Japan. Its station number is KK68.",
+          "章节": {},
+          "全文": "YRP Nobi Station is a station on the Keikyū Kurihama Line, located in Nobi 1-chōme, Yokosuka, Kanagawa Prefecture, Japan. Its station number is KK68.",
+          "字数": 149
+        }
       },
       "结构化信息": {
         "读音": "ワイアールピーのびえき",
@@ -461,7 +468,14 @@
           "字数": 1954,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Keikyū Kurihama Station",
+          "链接": "https://en.wikipedia.org/wiki/Keikyū_Kurihama_Station",
+          "首段": "Keikyū Kurihama Station is a station on the Keikyū Kurihama Line, located in Kurihama 4-chōme, Yokosuka, Kanagawa Prefecture, Japan. Its station number is KK67.",
+          "章节": {},
+          "全文": "Keikyū Kurihama Station is a station on the Keikyū Kurihama Line, located in Kurihama 4-chōme, Yokosuka, Kanagawa Prefecture, Japan. Its station number is KK67.",
+          "字数": 160
+        }
       },
       "结构化信息": {
         "读音": "けいきゅうくりはまえき",
@@ -538,7 +552,14 @@
           "字数": 819,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Keikyū Nagasawa Station",
+          "链接": "https://en.wikipedia.org/wiki/Keikyū_Nagasawa_Station",
+          "首段": "Keikyū Nagasawa Station is a station on the Keikyū Kurihama Line, located in Nagasawa 1-chōme, Yokosuka, Kanagawa Prefecture, Japan. Its station number is KK69.",
+          "章节": {},
+          "全文": "Keikyū Nagasawa Station is a station on the Keikyū Kurihama Line, located in Nagasawa 1-chōme, Yokosuka, Kanagawa Prefecture, Japan. Its station number is KK69.",
+          "字数": 160
+        }
       },
       "结构化信息": {
         "读音": "けいきゅうながさわえき",
@@ -711,7 +732,14 @@
           "字数": 1538,
           "来源": "豆包全文翻译（据日文维基全文）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Horinouchi Station",
+          "链接": "https://en.wikipedia.org/wiki/Horinouchi_Station",
+          "首段": "Horinouchi Station is a station on the Keikyū Main Line, located in Miharu-chō 3-chōme, Yokosuka, Kanagawa Prefecture, Japan. Its station number is KK61.",
+          "章节": {},
+          "全文": "Horinouchi Station is a station on the Keikyū Main Line, located in Miharu-chō 3-chōme, Yokosuka, Kanagawa Prefecture, Japan. Its station number is KK61.",
+          "字数": 153
+        }
       },
       "结构化信息": {
         "读音": "ほりのうちえき",
@@ -784,7 +812,14 @@
           "字数": 804,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Shin-Ōtsu Station",
+          "链接": "https://en.wikipedia.org/wiki/Shin-Ōtsu_Station",
+          "首段": "Shin-Ōtsu Station is a station on the Keikyū Kurihama Line, located in Ōtsu-chō 4-chōme, Yokosuka, Kanagawa Prefecture, Japan. Its station number is KK65.",
+          "章节": {},
+          "全文": "Shin-Ōtsu Station is a station on the Keikyū Kurihama Line, located in Ōtsu-chō 4-chōme, Yokosuka, Kanagawa Prefecture, Japan. Its station number is KK65.",
+          "字数": 154
+        }
       },
       "结构化信息": {
         "读音": "しんおおつえき",
@@ -907,6 +942,6 @@
     "有中文词条": 9,
     "已千问汉化": 0,
     "待汉化": 0,
-    "有英文词条": 4
+    "有英文词条": 9
   }
 }
