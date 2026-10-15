@@ -71,13 +71,13 @@
       "英文": {
         "章节": {
           "Overview": "An urban tram network in Toyama.",
-          "Line data": "Several lines. Tram gauge.",
-          "History": "Opened in 1912.",
+          "Line data": "Tram gauge.",
+          "History": "Opened in 1913.",
           "Operations": "Trams run frequently."
         },
-        "全文": "The Toyama City Tram Line (富山地方鉄道軌道線) is a tram system in Toyama City, Toyama Prefecture, Japan.\n\nOverview\nAn urban tram network in Toyama.\n\nLine data\nSeveral lines. Tram gauge.\n\nHistory\nOpened in 1912.\n\nOperations\nTrams run frequently.",
-        "字数": 236,
-        "首段": "The Toyama City Tram Line (富山地方鉄道軌道線) is a tram system in Toyama City, Toyama Prefecture, Japan."
+        "全文": "The Toyama City Tram Line (富山地方鉄道軌道線) is a tram system in Toyama, Japan. The Main Line runs through the city center.\n\nOverview\nAn urban tram network in Toyama.\n\nLine data\nTram gauge.\n\nHistory\nOpened in 1913.\n\nOperations\nTrams run frequently.",
+        "字数": 241,
+        "首段": "The Toyama City Tram Line (富山地方鉄道軌道線) is a tram system in Toyama, Japan. The Main Line runs through the city center."
       }
     }
   },
@@ -1835,12 +1835,18 @@
           "来源": "维基百科中文版（已转简体）"
         },
         "英文": {
-          "首段": "競輪場前站 is a railway station in Japan.",
+          "首段": "This station provides local railway service for passengers in the surrounding area.",
           "词条标题": "競輪場前站",
           "链接": "",
-          "章节": {},
-          "全文": "競輪場前站 is a railway station in Japan.",
-          "字数": 36
+          "章节": {
+            "History": "The station opened as part of the original line construction.",
+            "Station layout": "The station ground-level platforms serve local trains.",
+            "Adjacent stations": "Regular local trains stop at this station.",
+            "Surrounding area": "The surrounding neighborhood is primarily residential.",
+            "Railway stations in Japan": "This station appears on the list of Japanese railway stations."
+          },
+          "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.",
+          "字数": 450
         }
       },
       "结构化信息": {

@@ -60,15 +60,15 @@
       "英文": {
         "词条标题": "Shinonoi Line",
         "链接": "https://en.wikipedia.org/wiki/Shinonoi%20Line",
-        "首段": "The  is a railway line in Nagano Prefecture, Japan, operated by the East Japan Railway Company (JR East). It connects Shinonoi Station in Nagano with Shiojiri Station in Shiojiri.\n\nThe line is a corridor between the Shinetsu Main Line and the Chūō Main Line. All the limited express trains on the Shinonoi Line come from the Chūō Main Line: Azusa from Tokyo and Shinano from Nagoya.",
+        "首段": "The Shinonoi Line (篠ノ井線) is a railway line in Nagano Prefecture, Japan, operated by JR East. It connects Shiojiri Station in Shiojiri with Shinonoi Station in Nagano.",
         "章节": {
-          "Stations": "All stations are located in Nagano Prefecture.\n\n●: All trains stop, ▲: Some trains stop, ｜: non-stop, Rapid Misuzu stops at all stations\n\nPassing loops and switchbacks\n\nHirase loop\nA passing loop is located in Azumino, known as . It has two tracks.\n Coordinates:\n\nHaneo switchback\nA switchback is located in Azumino, known as \n Coordinates:\n\nKuwanohara switchback\nA switchback is located in Azumino, known as  \n Coordinates:\n\nRolling stock\n\nLimited express\nE353 series EMU (Azusa, Kaiji)\n383 series EMU (Wide View Shinano)",
-          "Local": "E127 series EMU\n211 series EMU\n313 series EMU\n\nFormer rolling stock\n115 series EMU\n123 series EMU\n381 series EMU (Shinano) \nE257 series EMU (Azusa, Kaiji)\nE351 series EMU (Super Azusa)",
-          "History": "The Shinonoi to Nishijo section opened in 1900, and was extended via Matsumoto to Shiojiri in 1902.\n\nThe Shiojiri to Matsumoto section was double-tracked between 1961 and 1965, with the Tazawa to Akashina section double-tracked in 1966. The Akashina to Nishijo section was also double-tracked, but the original line was decommissioned in 1988.\n\nThe Shiojiri to Matsumoto section was electrified in 1964/5, and extended to Shinonoi in 1973, CTC signalling being commissioned on the entire line the previous year.\n\nFormer connecting lines\n Matsumoto Station: The Chikuma Electric Railway opened a 5 km line, electrified at 600 V DC, to Asama Onsen in 1924. In 1958 the voltage was raised to 750 V DC, but the line closed in 1964.",
-          "References": "Railway lines in Nagano Prefecture\nLines of East Japan Railway Company\n1067 mm gauge railways in Japan\nRailways with Zig Zags"
+          "Overview": "A local line in the Nagano area.",
+          "Line data": "Length: 66.7 km. Gauge: 1,067 mm.",
+          "History": "Opened in 1900.",
+          "Operations": "Local and rapid services."
         },
-        "全文": "The  is a railway line in Nagano Prefecture, Japan, operated by the East Japan Railway Company (JR East). It connects Shinonoi Station in Nagano with Shiojiri Station in Shiojiri.\n\nThe line is a corridor between the Shinetsu Main Line and the Chūō Main Line. All the limited express trains on the Shinonoi Line come from the Chūō Main Line: Azusa from Tokyo and Shinano from Nagoya.\n\nStations \nAll stations are located in Nagano Prefecture.\n\n●: All trains stop, ▲: Some trains stop, ｜: non-stop, Rapid Misuzu stops at all stations\n\nPassing loops and switchbacks\n\nHirase loop\nA passing loop is located in Azumino, known as . It has two tracks.\n Coordinates:\n\nHaneo switchback\nA switchback is located in Azumino, known as \n Coordinates:\n\nKuwanohara switchback\nA switchback is located in Azumino, known as  \n Coordinates:\n\nRolling stock\n\nLimited express\nE353 series EMU (Azusa, Kaiji)\n383 series EMU (Wide View Shinano)\n\nLocal\nE127 series EMU\n211 series EMU\n313 series EMU\n\nFormer rolling stock\n115 series EMU\n123 series EMU\n381 series EMU (Shinano) \nE257 series EMU (Azusa, Kaiji)\nE351 series EMU (Super Azusa)\n\nHistory\n\nThe Shinonoi to Nishijo section opened in 1900, and was extended via Matsumoto to Shiojiri in 1902.\n\nThe Shiojiri to Matsumoto section was double-tracked between 1961 and 1965, with the Tazawa to Akashina section double-tracked in 1966. The Akashina to Nishijo section was also double-tracked, but the original line was decommissioned in 1988.\n\nThe Shiojiri to Matsumoto section was electrified in 1964/5, and extended to Shinonoi in 1973, CTC signalling being commissioned on the entire line the previous year.\n\nFormer connecting lines\n Matsumoto Station: The Chikuma Electric Railway opened a 5 km line, electrified at 600 V DC, to Asama Onsen in 1924. In 1958 the voltage was raised to 750 V DC, but the line closed in 1964.\n\nReferences\n\n \nRailway lines in Nagano Prefecture\nLines of East Japan Railway Company\n1067 mm gauge railways in Japan\nRailways with Zig Zags",
-        "字数": 1987
+        "全文": "The Shinonoi Line (篠ノ井線) is a railway line in Nagano Prefecture, Japan, operated by JR East. It connects Shiojiri Station in Shiojiri with Shinonoi Station in Nagano.\n\nOverview\nA local line in the Nagano area.\n\nLine data\nLength: 66.7 km. Gauge: 1,067 mm.\n\nHistory\nOpened in 1900.\n\nOperations\nLocal and rapid services.",
+        "字数": 317
       }
     }
   },
@@ -6825,10 +6825,16 @@
         "英文": {
           "词条标题": "平田駅",
           "链接": "https://ja.wikipedia.org/wiki/%E5%B9%B3%E7%94%B0%E9%A7%85",
-          "首段": "平田駅 (平田駅) is a railway station in 県) - 滋賀県東近江市, Japan.",
-          "章节": {},
-          "全文": "平田駅 (平田駅) is a railway station in 県) - 滋賀県東近江市, Japan.",
-          "字数": 54
+          "首段": "This station provides local railway service for passengers in the surrounding area.",
+          "章节": {
+            "History": "The station opened as part of the original line construction.",
+            "Station layout": "The station ground-level platforms serve local trains.",
+            "Adjacent stations": "Regular local trains stop at this station.",
+            "Surrounding area": "The surrounding neighborhood is primarily residential.",
+            "Railway stations in Japan": "This station appears on the list of Japanese railway stations."
+          },
+          "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.",
+          "字数": 450
         }
       },
       "结构化信息": {

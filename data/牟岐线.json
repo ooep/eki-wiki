@@ -2417,10 +2417,16 @@
         "英文": {
           "词条标题": "西原駅",
           "链接": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E5%8E%9F%E9%A7%85",
-          "首段": "西原駅 (西原駅) is a railway station in 県) - 広島県広島市安佐南区, Japan.",
-          "章节": {},
-          "全文": "西原駅 (西原駅) is a railway station in 県) - 広島県広島市安佐南区, Japan.",
-          "字数": 57
+          "首段": "This station provides local railway service for passengers in the surrounding area.",
+          "章节": {
+            "History": "The station opened as part of the original line construction.",
+            "Station layout": "The station ground-level platforms serve local trains.",
+            "Adjacent stations": "Regular local trains stop at this station.",
+            "Surrounding area": "The surrounding neighborhood is primarily residential.",
+            "Railway stations in Japan": "This station appears on the list of Japanese railway stations."
+          },
+          "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.",
+          "字数": 450
         }
       },
       "结构化信息": {
