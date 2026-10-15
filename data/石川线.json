@@ -46,7 +46,36 @@
       "中文": {
         "来源": "⚠️ 暂未汉化"
       },
-      "英文": null
+      "英文": {
+        "词条标题": "Hokutetsu Ishikawa Line",
+        "链接": null,
+        "首段": "The Ishikawa Line (石川線) is a railway line operated by Hokuriku Railroad, connecting Nomachi Station in Kanazawa, with Tsurugi Station in Hakusan, Ishikawa Prefecture, Japan.",
+        "章节": {
+          "Line data": "",
+          "石川鉄道": "",
+          "鉄道院鉄道統計資料、鉄道省鉄道統計資料各年度版": "",
+          "Chronology": "",
+          "Service patterns": "",
+          "Usage": "",
+          "Traffic statistics": "",
+          "収入実績": "",
+          "電車": "",
+          "DL7形": "",
+          "モハ3000形": "",
+          "モハ3150形・クハ1150形": "",
+          "モハ3740形": "",
+          "ED30形": "",
+          "DL1形": "",
+          "DL3形": "",
+          "ホム1形": "",
+          "Station list": "",
+          "廃止駅": "",
+          "Former connecting lines": "",
+          "岡本憲之『軽便鉄道時代』JTBパブリッシング、2010年": ""
+        },
+        "全文": "The Ishikawa Line (石川線) is a railway line operated by Hokuriku Railroad, connecting Nomachi Station in Kanazawa, with Tsurugi Station in Hakusan, Ishikawa Prefecture, Japan.\n\nLine data\n\n\n石川鉄道\n\n\n鉄道院鉄道統計資料、鉄道省鉄道統計資料各年度版\n\n\nChronology\n\n\nService patterns\n\n\nUsage\n\n\nTraffic statistics\n\n\n収入実績\n\n\n電車\n\n\nDL7形\n\n\nモハ3000形\n\n\nモハ3150形・クハ1150形\n\n\nモハ3740形\n\n\nED30形\n\n\nDL1形\n\n\nDL3形\n\n\nホム1形\n\n\nStation list\n\n\n廃止駅\n\n\nFormer connecting lines\n\n\n岡本憲之『軽便鉄道時代』JTBパブリッシング、2010年\n",
+        "字数": 443
+      }
     }
   },
   "车站": [
@@ -92,12 +121,16 @@
           "链接": "https://en.wikipedia.org/wiki/Otomaru%20Station",
           "首段": "is a railway station on the Hokuriku Railroad Ishikawa Line in the city of Kanazawa, Ishikawa Prefecture, Japan, operated by the private railway operator Hokuriku Railroad (Hokutetsu).",
           "章节": {
-            "Lines": "Otomaru Station is served by the  Hokuriku Railroad Ishikawa Line between  and , and is 6.8 km from the starting point of the line at .\n\nStation layout\nThe station consists of one side platform serving a single bi-directional track. The station is unattended.\n\nAdjacent stations",
             "History": "Otomaru Station opened on 2 March 1935.\n\nSurrounding area\n Nuka Junior High School\n Nuka Elementary School\n\nSee also\n List of railway stations in Japan",
+            "Chronology": "",
+            "Station layout": "",
+            "石川線": "",
+            "Railway stations in 金沢市": "",
+            "Lines": "Otomaru Station is served by the  Hokuriku Railroad Ishikawa Line between  and , and is 6.8 km from the starting point of the line at .\n\nStation layout\nThe station consists of one side platform serving a single bi-directional track. The station is unattended.\n\nAdjacent stations",
             "References": "External links\n\n  \n\nRailway stations in Ishikawa Prefecture\nRailway stations in Japan opened in 1935\nHokuriku Railroad Ishikawa Line"
           },
-          "全文": "is a railway station on the Hokuriku Railroad Ishikawa Line in the city of Kanazawa, Ishikawa Prefecture, Japan, operated by the private railway operator Hokuriku Railroad (Hokutetsu).\n\nLines\nOtomaru Station is served by the  Hokuriku Railroad Ishikawa Line between  and , and is 6.8 km from the starting point of the line at .\n\nStation layout\nThe station consists of one side platform serving a single bi-directional track. The station is unattended.\n\nAdjacent stations\n\nHistory\nOtomaru Station opened on 2 March 1935.\n\nSurrounding area\n Nuka Junior High School\n Nuka Elementary School\n\nSee also\n List of railway stations in Japan\n\nReferences\n\nExternal links\n\n  \n\nRailway stations in Ishikawa Prefecture\nRailway stations in Japan opened in 1935\nHokuriku Railroad Ishikawa Line",
-          "字数": 777
+          "全文": "is a railway station on the Hokuriku Railroad Ishikawa Line in the city of Kanazawa, Ishikawa Prefecture, Japan, operated by the private railway operator Hokuriku Railroad (Hokutetsu).\n\nHistory\nOtomaru Station opened on 2 March 1935.\n\nSurrounding area\n Nuka Junior High School\n Nuka Elementary School\n\nSee also\n List of railway stations in Japan\n\nChronology\n\n\nStation layout\n\n\n石川線\n\n\nRailway stations in 金沢市\n\n\nLines\nOtomaru Station is served by the  Hokuriku Railroad Ishikawa Line between  and , and is 6.8 km from the starting point of the line at .\n\nStation layout\nThe station consists of one side platform serving a single bi-directional track. The station is unattended.\n\nAdjacent stations\n\nReferences\nExternal links\n\n  \n\nRailway stations in Ishikawa Prefecture\nRailway stations in Japan opened in 1935\nHokuriku Railroad Ishikawa Line",
+          "字数": 838
         }
       },
       "结构化信息": {
@@ -221,12 +254,16 @@
           "链接": "https://en.wikipedia.org/wiki/Shijima%20Station",
           "首段": "is a railway station on the Hokuriku Railroad Ishikawa Line in the city of Kanazawa, Ishikawa Prefecture, Japan, operated by the private railway operator Hokuriku Railroad (Hokutetsu).",
           "章节": {
-            "Lines": "Shijima Station is served by the 13.8 km Hokuriku Railroad Ishikawa Line between  and , and is 8.2 km from the starting point of the line at .\n\nStation layout\nThe station consists of one side platform serving a single bi-directional track. The station is unattended.\n\nAdjacent stations",
             "History": "Shijima Station opened on 22 June 1915.\n\nSurrounding area\n Shijima Elementary School\n Kanazawa Murata Manufacturing Co., Ltd\n Ikeda Hospital\n Arcland Sakamoto Co., Ltd\n\nSee also\n List of railway stations in Japan",
+            "Station layout": "",
+            "ホームセンタームサシ金沢南店": "",
+            "石川線": "",
+            "Railway stations in 金沢市": "",
+            "Lines": "Shijima Station is served by the 13.8 km Hokuriku Railroad Ishikawa Line between  and , and is 8.2 km from the starting point of the line at .\n\nStation layout\nThe station consists of one side platform serving a single bi-directional track. The station is unattended.\n\nAdjacent stations",
             "References": "External links\n\n Shijima Station information \n\nRailway stations in Ishikawa Prefecture\nRailway stations in Japan opened in 1915\nHokuriku Railroad Ishikawa Line"
           },
-          "全文": "is a railway station on the Hokuriku Railroad Ishikawa Line in the city of Kanazawa, Ishikawa Prefecture, Japan, operated by the private railway operator Hokuriku Railroad (Hokutetsu).\n\nLines\nShijima Station is served by the 13.8 km Hokuriku Railroad Ishikawa Line between  and , and is 8.2 km from the starting point of the line at .\n\nStation layout\nThe station consists of one side platform serving a single bi-directional track. The station is unattended.\n\nAdjacent stations\n\nHistory\nShijima Station opened on 22 June 1915.\n\nSurrounding area\n Shijima Elementary School\n Kanazawa Murata Manufacturing Co., Ltd\n Ikeda Hospital\n Arcland Sakamoto Co., Ltd\n\nSee also\n List of railway stations in Japan\n\nReferences\n\nExternal links\n\n Shijima Station information \n\nRailway stations in Ishikawa Prefecture\nRailway stations in Japan opened in 1915\nHokuriku Railroad Ishikawa Line",
-          "字数": 872
+          "全文": "is a railway station on the Hokuriku Railroad Ishikawa Line in the city of Kanazawa, Ishikawa Prefecture, Japan, operated by the private railway operator Hokuriku Railroad (Hokutetsu).\n\nHistory\nShijima Station opened on 22 June 1915.\n\nSurrounding area\n Shijima Elementary School\n Kanazawa Murata Manufacturing Co., Ltd\n Ikeda Hospital\n Arcland Sakamoto Co., Ltd\n\nSee also\n List of railway stations in Japan\n\nStation layout\n\n\nホームセンタームサシ金沢南店\n\n\n石川線\n\n\nRailway stations in 金沢市\n\n\nLines\nShijima Station is served by the 13.8 km Hokuriku Railroad Ishikawa Line between  and , and is 8.2 km from the starting point of the line at .\n\nStation layout\nThe station consists of one side platform serving a single bi-directional track. The station is unattended.\n\nAdjacent stations\n\nReferences\nExternal links\n\n Shijima Station information \n\nRailway stations in Ishikawa Prefecture\nRailway stations in Japan opened in 1915\nHokuriku Railroad Ishikawa Line",
+          "字数": 937
         }
       },
       "结构化信息": {
@@ -286,7 +323,16 @@
           "字数": 34,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Koyanagi Station",
+          "链接": null,
+          "首段": "Koyanagi Station (小柳駅) is a Hokuriku Railroad Ishikawa Line station in Kanazawa, Ishikawa Prefecture, Japan.",
+          "章节": {
+            "小柳駅": ""
+          },
+          "全文": "Koyanagi Station (小柳駅) is a Hokuriku Railroad Ishikawa Line station in Kanazawa, Ishikawa Prefecture, Japan.\n\n小柳駅\n",
+          "字数": 114
+        }
       },
       "结构化信息": {
         "读音": null,
@@ -352,12 +398,19 @@
           "链接": "https://en.wikipedia.org/wiki/Oshino%20Station",
           "首段": "is a railway station on the Hokuriku Railroad Ishikawa Line in the city of Nonoichi, Ishikawa, Japan, operated by the private railway operator Hokuriku Railroad (Hokutetsu).",
           "章节": {
-            "Lines": "Oshino Station is served by the  Hokuriku Railroad Ishikawa Line between  and , and is 3.4 km from the starting point of the line at .\n\nStation layout\nThe station consists of one side platform serving a single bi-directional track. The station is unattended.\n\nAdjacent stations",
             "History": "Oshino Station opened on 22 June 1915.\n\nSurrounding area\n Shibafune Koide headquarters\n \n Oshino Chuo Park\n Oshino Post Office\n\nSee also\n List of railway stations in Japan",
+            "Station layout": "",
+            "Usage": "",
+            "国道157号": "",
+            "Bus routes": "",
+            "石川線": "",
+            "Railway stations in 石川県": "",
+            "Railway stations in 1915年開業": "",
+            "Lines": "Oshino Station is served by the  Hokuriku Railroad Ishikawa Line between  and , and is 3.4 km from the starting point of the line at .\n\nStation layout\nThe station consists of one side platform serving a single bi-directional track. The station is unattended.\n\nAdjacent stations",
             "References": "External links\n\n Oshino Station information \n\nRailway stations in Ishikawa Prefecture\nRailway stations in Japan opened in 1915\nHokuriku Railroad Ishikawa Line\nNonoichi, Ishikawa"
           },
-          "全文": "is a railway station on the Hokuriku Railroad Ishikawa Line in the city of Nonoichi, Ishikawa, Japan, operated by the private railway operator Hokuriku Railroad (Hokutetsu).\n\nLines\nOshino Station is served by the  Hokuriku Railroad Ishikawa Line between  and , and is 3.4 km from the starting point of the line at .\n\nStation layout\nThe station consists of one side platform serving a single bi-directional track. The station is unattended.\n\nAdjacent stations\n\nHistory\nOshino Station opened on 22 June 1915.\n\nSurrounding area\n Shibafune Koide headquarters\n \n Oshino Chuo Park\n Oshino Post Office\n\nSee also\n List of railway stations in Japan\n\nReferences\n\nExternal links\n\n Oshino Station information \n\nRailway stations in Ishikawa Prefecture\nRailway stations in Japan opened in 1915\nHokuriku Railroad Ishikawa Line\nNonoichi, Ishikawa",
-          "字数": 830
+          "全文": "is a railway station on the Hokuriku Railroad Ishikawa Line in the city of Nonoichi, Ishikawa, Japan, operated by the private railway operator Hokuriku Railroad (Hokutetsu).\n\nHistory\nOshino Station opened on 22 June 1915.\n\nSurrounding area\n Shibafune Koide headquarters\n \n Oshino Chuo Park\n Oshino Post Office\n\nSee also\n List of railway stations in Japan\n\nStation layout\n\n\nUsage\n\n\n国道157号\n\n\nBus routes\n\n\n石川線\n\n\nRailway stations in 石川県\n\n\nRailway stations in 1915年開業\n\n\nLines\nOshino Station is served by the  Hokuriku Railroad Ishikawa Line between  and , and is 3.4 km from the starting point of the line at .\n\nStation layout\nThe station consists of one side platform serving a single bi-directional track. The station is unattended.\n\nAdjacent stations\n\nReferences\nExternal links\n\n Oshino Station information \n\nRailway stations in Ishikawa Prefecture\nRailway stations in Japan opened in 1915\nHokuriku Railroad Ishikawa Line\nNonoichi, Ishikawa",
+          "字数": 938
         }
       },
       "结构化信息": {
@@ -403,7 +456,14 @@
           },
           "来源": "豆包全文翻译（据日文维基全文）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Ishikawa Line Station",
+          "链接": null,
+          "首段": "This is a station on the Hokuriku Railroad Ishikawa Line in Ishikawa Prefecture, Japan.",
+          "章节": {},
+          "全文": "This is a station on the Hokuriku Railroad Ishikawa Line in Ishikawa Prefecture, Japan.",
+          "字数": 87
+        }
       },
       "结构化信息": {}
     },
@@ -454,12 +514,18 @@
           "链接": "https://en.wikipedia.org/wiki/Hinomiko%20Station",
           "首段": "is a railway station on the Hokuriku Railroad Ishikawa Line in Hakusan, Ishikawa, Japan, operated by the private railway operator Hokuriku Railroad (Hokutetsu).",
           "章节": {
-            "Lines": "Hinomiko Station is served by the 13.8 km Hokuriku Railroad Ishikawa Line between  and , and is 12.1 km from the starting point of the line at .\n\nStation layout\nThe station consists of one side platform serving a single bi-directional track. The station is unattended.\n\nAdjacent stations",
             "History": "Hinomiko Station opened on 5 September 1925.\n\nSurrounding area\n Ishikawa Prefectural Route 179\n Ishikawa Prefectural Route 45\n \n Tsurugi Nikko Factory\n Tsurugi Rbcontrols Factory\n JA Hakusan Zoyama Branch\n Tsurugu Senior Living Center\n Hakusan Community Center\n Hinomiko Post Office\n Daianji Temple\n\nSee also\n List of railway stations in Japan",
+            "Station layout": "",
+            "Usage": "",
+            "Surrounding area": "",
+            "ニッコー鶴来工場": "",
+            "石川線": "",
+            "Railway stations in 白山市": "",
+            "Lines": "Hinomiko Station is served by the 13.8 km Hokuriku Railroad Ishikawa Line between  and , and is 12.1 km from the starting point of the line at .\n\nStation layout\nThe station consists of one side platform serving a single bi-directional track. The station is unattended.\n\nAdjacent stations",
             "References": "External links\n\n  \n\nRailway stations in Ishikawa Prefecture\nRailway stations in Japan opened in 1925\nHokuriku Railroad Ishikawa Line\nHakusan, Ishikawa"
           },
-          "全文": "is a railway station on the Hokuriku Railroad Ishikawa Line in Hakusan, Ishikawa, Japan, operated by the private railway operator Hokuriku Railroad (Hokutetsu).\n\nLines\nHinomiko Station is served by the 13.8 km Hokuriku Railroad Ishikawa Line between  and , and is 12.1 km from the starting point of the line at .\n\nStation layout\nThe station consists of one side platform serving a single bi-directional track. The station is unattended.\n\nAdjacent stations\n\nHistory\nHinomiko Station opened on 5 September 1925.\n\nSurrounding area\n Ishikawa Prefectural Route 179\n Ishikawa Prefectural Route 45\n \n Tsurugi Nikko Factory\n Tsurugi Rbcontrols Factory\n JA Hakusan Zoyama Branch\n Tsurugu Senior Living Center\n Hakusan Community Center\n Hinomiko Post Office\n Daianji Temple\n\nSee also\n List of railway stations in Japan\n\nReferences\n\nExternal links\n\n  \n\nRailway stations in Ishikawa Prefecture\nRailway stations in Japan opened in 1925\nHokuriku Railroad Ishikawa Line\nHakusan, Ishikawa",
-          "字数": 972
+          "全文": "is a railway station on the Hokuriku Railroad Ishikawa Line in Hakusan, Ishikawa, Japan, operated by the private railway operator Hokuriku Railroad (Hokutetsu).\n\nHistory\nHinomiko Station opened on 5 September 1925.\n\nSurrounding area\n Ishikawa Prefectural Route 179\n Ishikawa Prefectural Route 45\n \n Tsurugi Nikko Factory\n Tsurugi Rbcontrols Factory\n JA Hakusan Zoyama Branch\n Tsurugu Senior Living Center\n Hakusan Community Center\n Hinomiko Post Office\n Daianji Temple\n\nSee also\n List of railway stations in Japan\n\nStation layout\n\n\nUsage\n\n\nSurrounding area\n\n\nニッコー鶴来工場\n\n\n石川線\n\n\nRailway stations in 白山市\n\n\nLines\nHinomiko Station is served by the 13.8 km Hokuriku Railroad Ishikawa Line between  and , and is 12.1 km from the starting point of the line at .\n\nStation layout\nThe station consists of one side platform serving a single bi-directional track. The station is unattended.\n\nAdjacent stations\n\nReferences\nExternal links\n\n  \n\nRailway stations in Ishikawa Prefecture\nRailway stations in Japan opened in 1925\nHokuriku Railroad Ishikawa Line\nHakusan, Ishikawa",
+          "字数": 1058
         }
       },
       "结构化信息": {
@@ -526,12 +592,17 @@
           "链接": "https://en.wikipedia.org/wiki/Sodani%20Station",
           "首段": "is a railway station on the Hokuriku Railroad Ishikawa Line in the city of Hakusan, Ishikawa, Japan, operated by the private railway operator Hokuriku Railroad (Hokutetsu).",
           "章节": {
-            "Lines": "Sodani Station is served by the 13.8 km Hokuriku Railroad Ishikawa Line between  and , and is 9.3 km from the starting point of the line at .\n\nStation layout\nThe station consists of one side platform serving a single bi-directional track. The station is unattended.\n\nAdjacent stations",
             "History": "Sodani Station opened on 22 June 1915.\n\nSurrounding area\n Ishikawa Prefectural Route 179\n Nakamura-tome Precision Industry Co., Ltd\n\nSee also\n List of railway stations in Japan",
+            "Station layout": "",
+            "Usage": "",
+            "Surrounding area": "",
+            "石川線": "",
+            "Railway stations in 白山市": "",
+            "Lines": "Sodani Station is served by the 13.8 km Hokuriku Railroad Ishikawa Line between  and , and is 9.3 km from the starting point of the line at .\n\nStation layout\nThe station consists of one side platform serving a single bi-directional track. The station is unattended.\n\nAdjacent stations",
             "References": "External links\n\nRailway stations in Ishikawa Prefecture\nRailway stations in Japan opened in 1915\nHokuriku Railroad Ishikawa Line\nHakusan, Ishikawa"
           },
-          "全文": "is a railway station on the Hokuriku Railroad Ishikawa Line in the city of Hakusan, Ishikawa, Japan, operated by the private railway operator Hokuriku Railroad (Hokutetsu).\n\nLines\nSodani Station is served by the 13.8 km Hokuriku Railroad Ishikawa Line between  and , and is 9.3 km from the starting point of the line at .\n\nStation layout\nThe station consists of one side platform serving a single bi-directional track. The station is unattended.\n\nAdjacent stations\n\nHistory\nSodani Station opened on 22 June 1915.\n\nSurrounding area\n Ishikawa Prefectural Route 179\n Nakamura-tome Precision Industry Co., Ltd\n\nSee also\n List of railway stations in Japan\n\nReferences\n\nExternal links\n\nRailway stations in Ishikawa Prefecture\nRailway stations in Japan opened in 1915\nHokuriku Railroad Ishikawa Line\nHakusan, Ishikawa",
-          "字数": 810
+          "全文": "is a railway station on the Hokuriku Railroad Ishikawa Line in the city of Hakusan, Ishikawa, Japan, operated by the private railway operator Hokuriku Railroad (Hokutetsu).\n\nHistory\nSodani Station opened on 22 June 1915.\n\nSurrounding area\n Ishikawa Prefectural Route 179\n Nakamura-tome Precision Industry Co., Ltd\n\nSee also\n List of railway stations in Japan\n\nStation layout\n\n\nUsage\n\n\nSurrounding area\n\n\n石川線\n\n\nRailway stations in 白山市\n\n\nLines\nSodani Station is served by the 13.8 km Hokuriku Railroad Ishikawa Line between  and , and is 9.3 km from the starting point of the line at .\n\nStation layout\nThe station consists of one side platform serving a single bi-directional track. The station is unattended.\n\nAdjacent stations\n\nReferences\nExternal links\n\nRailway stations in Ishikawa Prefecture\nRailway stations in Japan opened in 1915\nHokuriku Railroad Ishikawa Line\nHakusan, Ishikawa",
+          "字数": 885
         }
       },
       "结构化信息": {
@@ -606,12 +677,18 @@
           "链接": "https://en.wikipedia.org/wiki/Nishiizumi%20Station",
           "首段": "is a railway station on the Hokuriku Railroad Ishikawa Line in the city of Kanazawa, Ishikawa Prefecture, Japan, operated by the private railway operator Hokuriku Railroad (Hokutetsu).",
           "章节": {
-            "Lines": "Nishi-Izumi Station is served by the 13.8 km Hokuriku Railroad Ishikawa Line between  and , and is 1.0 km from the starting point of the line at .\n\nStation layout\nThe station consists of one side platform serving a single bi-directional track. The station is unattended.\n\nAdjacent stations",
             "History": "Nishi-Izumi Station opened on 1 December 1934.\n\nSurrounding area\n Kanazawa High School\n Kanazawa Fushimi High School\n Kanazawa Central High School\n Kanazawa Municipal Seisen Junior High School\n Kanazawa Nishi-Izumi Post Office\n Kanazawa City Fire Departments\n\nSee also\n List of railway stations in Japan",
+            "Station layout": "",
+            "金沢西泉郵便局": "",
+            "金沢市南斎場": "",
+            "Bus routes": "",
+            "石川線": "",
+            "Railway stations in 金沢市": "",
+            "Lines": "Nishi-Izumi Station is served by the 13.8 km Hokuriku Railroad Ishikawa Line between  and , and is 1.0 km from the starting point of the line at .\n\nStation layout\nThe station consists of one side platform serving a single bi-directional track. The station is unattended.\n\nAdjacent stations",
             "References": "External links\n\n Nish-Izumi Station information \n\nRailway stations in Ishikawa Prefecture\nRailway stations in Japan opened in 1934\nHokuriku Railroad Ishikawa Line"
           },
-          "全文": "is a railway station on the Hokuriku Railroad Ishikawa Line in the city of Kanazawa, Ishikawa Prefecture, Japan, operated by the private railway operator Hokuriku Railroad (Hokutetsu).\n\nLines\nNishi-Izumi Station is served by the 13.8 km Hokuriku Railroad Ishikawa Line between  and , and is 1.0 km from the starting point of the line at .\n\nStation layout\nThe station consists of one side platform serving a single bi-directional track. The station is unattended.\n\nAdjacent stations\n\nHistory\nNishi-Izumi Station opened on 1 December 1934.\n\nSurrounding area\n Kanazawa High School\n Kanazawa Fushimi High School\n Kanazawa Central High School\n Kanazawa Municipal Seisen Junior High School\n Kanazawa Nishi-Izumi Post Office\n Kanazawa City Fire Departments\n\nSee also\n List of railway stations in Japan\n\nReferences\n\nExternal links\n\n Nish-Izumi Station information \n\nRailway stations in Ishikawa Prefecture\nRailway stations in Japan opened in 1934\nHokuriku Railroad Ishikawa Line",
-          "字数": 970
+          "全文": "is a railway station on the Hokuriku Railroad Ishikawa Line in the city of Kanazawa, Ishikawa Prefecture, Japan, operated by the private railway operator Hokuriku Railroad (Hokutetsu).\n\nHistory\nNishi-Izumi Station opened on 1 December 1934.\n\nSurrounding area\n Kanazawa High School\n Kanazawa Fushimi High School\n Kanazawa Central High School\n Kanazawa Municipal Seisen Junior High School\n Kanazawa Nishi-Izumi Post Office\n Kanazawa City Fire Departments\n\nSee also\n List of railway stations in Japan\n\nStation layout\n\n\n金沢西泉郵便局\n\n\n金沢市南斎場\n\n\nBus routes\n\n\n石川線\n\n\nRailway stations in 金沢市\n\n\nLines\nNishi-Izumi Station is served by the 13.8 km Hokuriku Railroad Ishikawa Line between  and , and is 1.0 km from the starting point of the line at .\n\nStation layout\nThe station consists of one side platform serving a single bi-directional track. The station is unattended.\n\nAdjacent stations\n\nReferences\nExternal links\n\n Nish-Izumi Station information \n\nRailway stations in Ishikawa Prefecture\nRailway stations in Japan opened in 1934\nHokuriku Railroad Ishikawa Line",
+          "字数": 1050
         }
       },
       "结构化信息": {
@@ -689,12 +766,17 @@
           "链接": "https://en.wikipedia.org/wiki/D%C5%8Dh%C5%8Dji%20Station",
           "首段": "is a railway station on the Hokuriku Railroad Ishikawa Line in the city of Hakusan, Ishikawa, Japan, operated by the private railway operator Hokuriku Railroad (Hokutetsu).",
           "章节": {
-            "Lines": "Dōhōji Station is served by the 13.8 km Hokuriku Railroad Ishikawa Line between  and , and is 9.9 km from the starting point of the line at .\n\nStation layout\nThe station consists of one island platform serving two tracks, connected to the station building by a level crossing. The station is unattended.\n\nAdjacent stations",
             "History": "Dōhōji Station opened on 22 June 1915.\n\nSurrounding area\n Ishikawa Prefectural Route 179\n Kuragatake (about 2 hours' walk)\n Hayashi Tsurugi Post Office\n\nSee also\n List of railway stations in Japan",
+            "Station layout": "",
+            "Usage": "",
+            "Surrounding area": "",
+            "石川線": "",
+            "Railway stations in 白山市": "",
+            "Lines": "Dōhōji Station is served by the 13.8 km Hokuriku Railroad Ishikawa Line between  and , and is 9.9 km from the starting point of the line at .\n\nStation layout\nThe station consists of one island platform serving two tracks, connected to the station building by a level crossing. The station is unattended.\n\nAdjacent stations",
             "References": "External links\n\n  \n\nRailway stations in Ishikawa Prefecture\nRailway stations in Japan opened in 1915\nHokuriku Railroad Ishikawa Line\nHakusan, Ishikawa"
           },
-          "全文": "is a railway station on the Hokuriku Railroad Ishikawa Line in the city of Hakusan, Ishikawa, Japan, operated by the private railway operator Hokuriku Railroad (Hokutetsu).\n\nLines\nDōhōji Station is served by the 13.8 km Hokuriku Railroad Ishikawa Line between  and , and is 9.9 km from the starting point of the line at .\n\nStation layout\nThe station consists of one island platform serving two tracks, connected to the station building by a level crossing. The station is unattended.\n\nAdjacent stations\n\nHistory\nDōhōji Station opened on 22 June 1915.\n\nSurrounding area\n Ishikawa Prefectural Route 179\n Kuragatake (about 2 hours' walk)\n Hayashi Tsurugi Post Office\n\nSee also\n List of railway stations in Japan\n\nReferences\n\nExternal links\n\n  \n\nRailway stations in Ishikawa Prefecture\nRailway stations in Japan opened in 1915\nHokuriku Railroad Ishikawa Line\nHakusan, Ishikawa",
-          "字数": 872
+          "全文": "is a railway station on the Hokuriku Railroad Ishikawa Line in the city of Hakusan, Ishikawa, Japan, operated by the private railway operator Hokuriku Railroad (Hokutetsu).\n\nHistory\nDōhōji Station opened on 22 June 1915.\n\nSurrounding area\n Ishikawa Prefectural Route 179\n Kuragatake (about 2 hours' walk)\n Hayashi Tsurugi Post Office\n\nSee also\n List of railway stations in Japan\n\nStation layout\n\n\nUsage\n\n\nSurrounding area\n\n\n石川線\n\n\nRailway stations in 白山市\n\n\nLines\nDōhōji Station is served by the 13.8 km Hokuriku Railroad Ishikawa Line between  and , and is 9.9 km from the starting point of the line at .\n\nStation layout\nThe station consists of one island platform serving two tracks, connected to the station building by a level crossing. The station is unattended.\n\nAdjacent stations\n\nReferences\nExternal links\n\n  \n\nRailway stations in Ishikawa Prefecture\nRailway stations in Japan opened in 1915\nHokuriku Railroad Ishikawa Line\nHakusan, Ishikawa",
+          "字数": 947
         }
       },
       "结构化信息": {
@@ -810,7 +892,23 @@
           "全文": "石川线车站。\n\n概要\n石川线沿线车站。\n\n历史\n石川线沿线车站。",
           "字数": 32
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Nonoichi-Kōdaimae Station",
+          "链接": null,
+          "首段": "Nonoichi-Kōdaimae Station (野々市工大前駅) is a Hokuriku Railroad Ishikawa Line station in Honchō 2-chōme, Nonoichi, Ishikawa Prefecture, Japan. Its station number is I06.",
+          "章节": {
+            "History": "",
+            "Chronology": "",
+            "Station layout": "",
+            "Surrounding area": "",
+            "Usage": "",
+            "Bus routes": "",
+            "石川線": "",
+            "Railway stations in 石川県": ""
+          },
+          "全文": "Nonoichi-Kōdaimae Station (野々市工大前駅) is a Hokuriku Railroad Ishikawa Line station in Honchō 2-chōme, Nonoichi, Ishikawa Prefecture, Japan. Its station number is I06.\n\nHistory\n\n\nChronology\n\n\nStation layout\n\n\nSurrounding area\n\n\nUsage\n\n\nBus routes\n\n\n石川線\n\n\nRailway stations in 石川県\n",
+          "字数": 276
+        }
       },
       "结构化信息": {
         "读音": "ののいちこうだいまええき",
@@ -897,12 +995,21 @@
           "链接": "https://en.wikipedia.org/wiki/Nomachi%20Station",
           "首段": "is a railway station on the Hokuriku Railroad Ishikawa Line, in the city of Kanazawa, Ishikawa, Japan, operated by the private railway operator Hokuriku Railroad.",
           "章节": {
-            "Lines": "Nomachi Station is the terminus of the 13.8 km Hokuriku Railroad Ishikawa Line to .\n\nStation layout\nThe station consists of two bay platforms serving two tracks.\n\nAdjacent stations",
+            "Overview": "",
             "History": "Nomachi Station opened on 1 October 1922. The station became the terminus of the Ishikawa Line when the section between Nomachi and Shiragikuchō was closed on September 20, 1972.\n\nSurrounding area\n Tsudakoma Corporation Headquarters\n Fujitsu Hokuriku Systems Headquarters\n Ishikawa Prefectural Kanazawa Central High School\n Kanazawa Tatsuizumi Junior High School\n Apita Kanazawa Shop\n Manten Spa Kanazawa\n Nishi Chaya (Old town)\n Ninja Temple\n Nomachi Station branch office\n APA Hotel Kanazawa Nomachi\n\nSee also\n List of railway stations in Japan",
+            "Station layout": "",
+            "Usage": "",
+            "Surrounding area": "",
+            "にし茶屋街": "",
+            "Bus routes": "",
+            "津幡線": "",
+            "石川線": "",
+            "Railway stations in 金沢市": "",
+            "Lines": "Nomachi Station is the terminus of the 13.8 km Hokuriku Railroad Ishikawa Line to .\n\nStation layout\nThe station consists of two bay platforms serving two tracks.\n\nAdjacent stations",
             "References": "External links\n\n Nomachi Station information \n\nRailway stations in Ishikawa Prefecture\nRailway stations in Japan opened in 1922\nHokuriku Railroad Ishikawa Line"
           },
-          "全文": "is a railway station on the Hokuriku Railroad Ishikawa Line, in the city of Kanazawa, Ishikawa, Japan, operated by the private railway operator Hokuriku Railroad.\n\nLines\nNomachi Station is the terminus of the 13.8 km Hokuriku Railroad Ishikawa Line to .\n\nStation layout\nThe station consists of two bay platforms serving two tracks.\n\nAdjacent stations\n\nHistory\n\nNomachi Station opened on 1 October 1922. The station became the terminus of the Ishikawa Line when the section between Nomachi and Shiragikuchō was closed on September 20, 1972.\n\nSurrounding area\n Tsudakoma Corporation Headquarters\n Fujitsu Hokuriku Systems Headquarters\n Ishikawa Prefectural Kanazawa Central High School\n Kanazawa Tatsuizumi Junior High School\n Apita Kanazawa Shop\n Manten Spa Kanazawa\n Nishi Chaya (Old town)\n Ninja Temple\n Nomachi Station branch office\n APA Hotel Kanazawa Nomachi\n\nSee also\n List of railway stations in Japan\n\nReferences\n\nExternal links\n\n Nomachi Station information \n\nRailway stations in Ishikawa Prefecture\nRailway stations in Japan opened in 1922\nHokuriku Railroad Ishikawa Line",
-          "字数": 1080
+          "全文": "is a railway station on the Hokuriku Railroad Ishikawa Line, in the city of Kanazawa, Ishikawa, Japan, operated by the private railway operator Hokuriku Railroad.\n\nOverview\n\n\nHistory\nNomachi Station opened on 1 October 1922. The station became the terminus of the Ishikawa Line when the section between Nomachi and Shiragikuchō was closed on September 20, 1972.\n\nSurrounding area\n Tsudakoma Corporation Headquarters\n Fujitsu Hokuriku Systems Headquarters\n Ishikawa Prefectural Kanazawa Central High School\n Kanazawa Tatsuizumi Junior High School\n Apita Kanazawa Shop\n Manten Spa Kanazawa\n Nishi Chaya (Old town)\n Ninja Temple\n Nomachi Station branch office\n APA Hotel Kanazawa Nomachi\n\nSee also\n List of railway stations in Japan\n\nStation layout\n\n\nUsage\n\n\nSurrounding area\n\n\nにし茶屋街\n\n\nBus routes\n\n\n津幡線\n\n\n石川線\n\n\nRailway stations in 金沢市\n\n\nLines\nNomachi Station is the terminus of the 13.8 km Hokuriku Railroad Ishikawa Line to .\n\nStation layout\nThe station consists of two bay platforms serving two tracks.\n\nAdjacent stations\n\nReferences\nExternal links\n\n Nomachi Station information \n\nRailway stations in Ishikawa Prefecture\nRailway stations in Japan opened in 1922\nHokuriku Railroad Ishikawa Line",
+          "字数": 1192
         }
       },
       "结构化信息": {
@@ -989,12 +1096,20 @@
           "链接": "https://en.wikipedia.org/wiki/Hibari%20Station",
           "首段": "is a railway station on the Hokuriku Railroad Ishikawa Line in the city of Hakusan, Ishikawa, Japan, operated by the private railway operator Hokuriku Railroad (Hokutetsu).",
           "章节": {
-            "Lines": "Hibari Station is served by the 13.8 km Hokuriku Railroad Ishikawa Line between  and , and is 8.8 km from the starting point of the line at .\n\nStation layout\nThe station consists of one 41 m long side platform serving a single bi-directional track. A small waiting shelter is provided on the platform. The station is unattended.\n\nAdjacent stations",
             "History": "Hibari Station opened on 14 March 2015, coinciding with the introduction of a revised timetable. A completion ceremony for the station was held on 8 March 2015.\n\nSurrounding area\n Hibari New Town\n\nSee also\n List of railway stations in Japan",
+            "Chronology": "",
+            "Origin of the station name": "",
+            "Station layout": "",
+            "Usage": "",
+            "Surrounding area": "",
+            "Bus routes": "",
+            "石川線": "",
+            "Railway stations in 白山市": "",
+            "Lines": "Hibari Station is served by the 13.8 km Hokuriku Railroad Ishikawa Line between  and , and is 8.8 km from the starting point of the line at .\n\nStation layout\nThe station consists of one 41 m long side platform serving a single bi-directional track. A small waiting shelter is provided on the platform. The station is unattended.\n\nAdjacent stations",
             "References": "External links\n\n Hibari Station information \n\nRailway stations in Ishikawa Prefecture\nRailway stations in Japan opened in 2015\nHokuriku Railroad Ishikawa Line\nHakusan, Ishikawa"
           },
-          "全文": "is a railway station on the Hokuriku Railroad Ishikawa Line in the city of Hakusan, Ishikawa, Japan, operated by the private railway operator Hokuriku Railroad (Hokutetsu).\n\nLines\nHibari Station is served by the 13.8 km Hokuriku Railroad Ishikawa Line between  and , and is 8.8 km from the starting point of the line at .\n\nStation layout\nThe station consists of one 41 m long side platform serving a single bi-directional track. A small waiting shelter is provided on the platform. The station is unattended.\n\nAdjacent stations\n\nHistory\nHibari Station opened on 14 March 2015, coinciding with the introduction of a revised timetable. A completion ceremony for the station was held on 8 March 2015.\n\nSurrounding area\n Hibari New Town\n\nSee also\n List of railway stations in Japan\n\nReferences\n\nExternal links\n\n Hibari Station information \n\nRailway stations in Ishikawa Prefecture\nRailway stations in Japan opened in 2015\nHokuriku Railroad Ishikawa Line\nHakusan, Ishikawa",
-          "字数": 967
+          "全文": "is a railway station on the Hokuriku Railroad Ishikawa Line in the city of Hakusan, Ishikawa, Japan, operated by the private railway operator Hokuriku Railroad (Hokutetsu).\n\nHistory\nHibari Station opened on 14 March 2015, coinciding with the introduction of a revised timetable. A completion ceremony for the station was held on 8 March 2015.\n\nSurrounding area\n Hibari New Town\n\nSee also\n List of railway stations in Japan\n\nChronology\n\n\nOrigin of the station name\n\n\nStation layout\n\n\nUsage\n\n\nSurrounding area\n\n\nBus routes\n\n\n石川線\n\n\nRailway stations in 白山市\n\n\nLines\nHibari Station is served by the 13.8 km Hokuriku Railroad Ishikawa Line between  and , and is 8.8 km from the starting point of the line at .\n\nStation layout\nThe station consists of one 41 m long side platform serving a single bi-directional track. A small waiting shelter is provided on the platform. The station is unattended.\n\nAdjacent stations\n\nReferences\nExternal links\n\n Hibari Station information \n\nRailway stations in Ishikawa Prefecture\nRailway stations in Japan opened in 2015\nHokuriku Railroad Ishikawa Line\nHakusan, Ishikawa",
+          "字数": 1097
         }
       },
       "结构化信息": {
@@ -1065,7 +1180,22 @@
           "字数": 471,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Nuka-Jūtaku-mae Station",
+          "链接": null,
+          "首段": "Nuka-Jūtaku-mae Station (額住宅前駅) is a Hokuriku Railroad Ishikawa Line station in Nuka-Shinmachi 1-chōme, Kanazawa, Ishikawa Prefecture, Japan. Its station number is I08.",
+          "章节": {
+            "History": "",
+            "Station layout": "",
+            "石川県営額住宅": "",
+            "額ショッピングセンター(商店街)": "",
+            "Bus routes": "",
+            "石川線": "",
+            "Railway stations in 金沢市": ""
+          },
+          "全文": "Nuka-Jūtaku-mae Station (額住宅前駅) is a Hokuriku Railroad Ishikawa Line station in Nuka-Shinmachi 1-chōme, Kanazawa, Ishikawa Prefecture, Japan. Its station number is I08.\n\nHistory\n\n\nStation layout\n\n\n石川県営額住宅\n\n\n額ショッピングセンター(商店街)\n\n\nBus routes\n\n\n石川線\n\n\nRailway stations in 金沢市\n",
+          "字数": 269
+        }
       },
       "结构化信息": {
         "读音": "ぬかじゅうたくまええき",
@@ -1136,12 +1266,15 @@
           "链接": "https://en.wikipedia.org/wiki/Magae%20Station",
           "首段": "is a railway station on the Hokuriku Railroad Ishikawa Line in the city of Kanazawa, Ishikawa Prefecture Japan, operated by the private railway operator Hokuriku Railroad (Hokutetsu).",
           "章节": {
-            "Lines": "Magae Station is served by the 13.8 km Hokuriku Railroad Ishikawa Line between  and , and is 5.5 km from the starting point of the line at .\n\nStation layout\nThe station consists of one side platform serving a single bi-directional track. The station is unattended.\n\nAdjacent stations",
             "History": "Magae Station opened on 1 February 1943.\n\nSurrounding area\n Kanazawa Municipal Ogidai Elementary School\n Nonoichi City Sugawara Elementary School\n Minamigaoka Hospital\n\nSee also\n List of railway stations in Japan",
+            "Station layout": "",
+            "石川線": "",
+            "Railway stations in 金沢市": "",
+            "Lines": "Magae Station is served by the 13.8 km Hokuriku Railroad Ishikawa Line between  and , and is 5.5 km from the starting point of the line at .\n\nStation layout\nThe station consists of one side platform serving a single bi-directional track. The station is unattended.\n\nAdjacent stations",
             "References": "External links\n\n Magae Station information \n\nRailway stations in Ishikawa Prefecture\nRailway stations in Japan opened in 1943\nHokuriku Railroad Ishikawa Line"
           },
-          "全文": "is a railway station on the Hokuriku Railroad Ishikawa Line in the city of Kanazawa, Ishikawa Prefecture Japan, operated by the private railway operator Hokuriku Railroad (Hokutetsu).\n\nLines\nMagae Station is served by the 13.8 km Hokuriku Railroad Ishikawa Line between  and , and is 5.5 km from the starting point of the line at .\n\nStation layout\nThe station consists of one side platform serving a single bi-directional track. The station is unattended.\n\nAdjacent stations\n\nHistory\nMagae Station opened on 1 February 1943.\n\nSurrounding area\n Kanazawa Municipal Ogidai Elementary School\n Nonoichi City Sugawara Elementary School\n Minamigaoka Hospital\n\nSee also\n List of railway stations in Japan\n\nReferences\n\nExternal links\n\n Magae Station information \n\nRailway stations in Ishikawa Prefecture\nRailway stations in Japan opened in 1943\nHokuriku Railroad Ishikawa Line",
-          "字数": 867
+          "全文": "is a railway station on the Hokuriku Railroad Ishikawa Line in the city of Kanazawa, Ishikawa Prefecture Japan, operated by the private railway operator Hokuriku Railroad (Hokutetsu).\n\nHistory\nMagae Station opened on 1 February 1943.\n\nSurrounding area\n Kanazawa Municipal Ogidai Elementary School\n Nonoichi City Sugawara Elementary School\n Minamigaoka Hospital\n\nSee also\n List of railway stations in Japan\n\nStation layout\n\n\n石川線\n\n\nRailway stations in 金沢市\n\n\nLines\nMagae Station is served by the 13.8 km Hokuriku Railroad Ishikawa Line between  and , and is 5.5 km from the starting point of the line at .\n\nStation layout\nThe station consists of one side platform serving a single bi-directional track. The station is unattended.\n\nAdjacent stations\n\nReferences\nExternal links\n\n Magae Station information \n\nRailway stations in Ishikawa Prefecture\nRailway stations in Japan opened in 1943\nHokuriku Railroad Ishikawa Line",
+          "字数": 915
         }
       },
       "结构化信息": {
@@ -1229,12 +1362,23 @@
           "链接": "https://en.wikipedia.org/wiki/Tsurugi%20Station",
           "首段": "is a railway station on the Hokuriku Railroad Ishikawa Line in Hakusan, Ishikawa, Japan, operated by the private railway operator Hokuriku Railroad (Hokutetsu).",
           "章节": {
-            "Lines": "Tsurugi Station is southern terminus of the 13.8 km Hokuriku Railroad Ishikawa Line from .\n\nStation layout\nThe station consists of two side platforms serving two tracks. The station is staffed.\n\nAdjacent stations",
             "History": "Tsurugi Station opened on 22 June 1915.\n\nPassenger statistics\nIn fiscal 2011, the station was used by an average of 830 passengers daily.\n\nSurrounding area\n Tsurugi Town Office\n Tsurugi High School\n Tsurugi Junior High School\n Tsurugi Post Office\n Kaga Hakusan Bus Headquarters\n\n Ishikawa Prefectural Route 45\n Ishikawa Prefectural Route 179\n\nSee also\n List of railway stations in Japan",
+            "Station layout": "",
+            "Usage": "",
+            "Surrounding area": "",
+            "石川県立鶴来高等学校": "",
+            "石川県道45号金沢鶴来線": "",
+            "北鉄白山バス": "",
+            "車両基地": "",
+            "石川線": "",
+            "能美線": "",
+            "Railway stations in 白山市": "",
+            "Railway stations in 北陸鉄道": "",
+            "Lines": "Tsurugi Station is southern terminus of the 13.8 km Hokuriku Railroad Ishikawa Line from .\n\nStation layout\nThe station consists of two side platforms serving two tracks. The station is staffed.\n\nAdjacent stations",
             "References": "External links\n\n Tsurugi Station information \n\nRailway stations in Ishikawa Prefecture\nRailway stations in Japan opened in 1915\nHokuriku Railroad Ishikawa Line\nHakusan, Ishikawa"
           },
-          "全文": "is a railway station on the Hokuriku Railroad Ishikawa Line in Hakusan, Ishikawa, Japan, operated by the private railway operator Hokuriku Railroad (Hokutetsu).\n\nLines\nTsurugi Station is southern terminus of the 13.8 km Hokuriku Railroad Ishikawa Line from .\n\nStation layout\nThe station consists of two side platforms serving two tracks. The station is staffed.\n\nAdjacent stations\n\nHistory\nTsurugi Station opened on 22 June 1915.\n\nPassenger statistics\nIn fiscal 2011, the station was used by an average of 830 passengers daily.\n\nSurrounding area\n Tsurugi Town Office\n Tsurugi High School\n Tsurugi Junior High School\n Tsurugi Post Office\n Kaga Hakusan Bus Headquarters\n\n Ishikawa Prefectural Route 45\n Ishikawa Prefectural Route 179\n\nSee also\n List of railway stations in Japan\n\nReferences\n\nExternal links\n\n Tsurugi Station information \n\nRailway stations in Ishikawa Prefecture\nRailway stations in Japan opened in 1915\nHokuriku Railroad Ishikawa Line\nHakusan, Ishikawa",
-          "字数": 967
+          "全文": "is a railway station on the Hokuriku Railroad Ishikawa Line in Hakusan, Ishikawa, Japan, operated by the private railway operator Hokuriku Railroad (Hokutetsu).\n\nHistory\nTsurugi Station opened on 22 June 1915.\n\nPassenger statistics\nIn fiscal 2011, the station was used by an average of 830 passengers daily.\n\nSurrounding area\n Tsurugi Town Office\n Tsurugi High School\n Tsurugi Junior High School\n Tsurugi Post Office\n Kaga Hakusan Bus Headquarters\n\n Ishikawa Prefectural Route 45\n Ishikawa Prefectural Route 179\n\nSee also\n List of railway stations in Japan\n\nStation layout\n\n\nUsage\n\n\nSurrounding area\n\n\n石川県立鶴来高等学校\n\n\n石川県道45号金沢鶴来線\n\n\n北鉄白山バス\n\n\n車両基地\n\n\n石川線\n\n\n能美線\n\n\nRailway stations in 白山市\n\n\nRailway stations in 北陸鉄道\n\n\nLines\nTsurugi Station is southern terminus of the 13.8 km Hokuriku Railroad Ishikawa Line from .\n\nStation layout\nThe station consists of two side platforms serving two tracks. The station is staffed.\n\nAdjacent stations\n\nReferences\nExternal links\n\n Tsurugi Station information \n\nRailway stations in Ishikawa Prefecture\nRailway stations in Japan opened in 1915\nHokuriku Railroad Ishikawa Line\nHakusan, Ishikawa",
+          "字数": 1119
         }
       },
       "结构化信息": {
@@ -1278,6 +1422,6 @@
     "有中文词条": 17,
     "已千问汉化": 0,
     "待汉化": 0,
-    "有英文词条": 13
+    "有英文词条": 17
   }
 }

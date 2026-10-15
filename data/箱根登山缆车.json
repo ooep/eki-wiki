@@ -39,7 +39,21 @@
         "字数": 130,
         "来源": "维基百科中文版（已转简体）"
       },
-      "英文": null
+      "英文": {
+        "词条标题": "Hakone Tozan Cable Car",
+        "链接": null,
+        "首段": "The Hakone Tozan Cable Car (鋼索線) is a funicular of the Hakone Tozan Railway connecting Gōra Station with Sōunzan Station in Hakone, Kanagawa Prefecture, Japan. It is the oldest cable car line in the Kantō region.",
+        "章节": {
+          "Line data": "",
+          "History": "",
+          "Station list": "",
+          "運賃": "",
+          "Rolling stock": "",
+          "Departure melody": ""
+        },
+        "全文": "The Hakone Tozan Cable Car (鋼索線) is a funicular of the Hakone Tozan Railway connecting Gōra Station with Sōunzan Station in Hakone, Kanagawa Prefecture, Japan. It is the oldest cable car line in the Kantō region.\n\nLine data\n\n\nHistory\n\n\nStation list\n\n\n運賃\n\n\nRolling stock\n\n\nDeparture melody\n",
+        "字数": 289
+      }
     }
   },
   "车站": [
@@ -83,7 +97,21 @@
           "字数": 709,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Kami-Gōra Station",
+          "链接": null,
+          "首段": "Kami-Gōra Station (上強羅駅) is a Hakone Tozan Cable Car station in Hakone, Kanagawa Prefecture, Japan. Its station number is OH61.",
+          "章节": {
+            "History": "",
+            "Station layout": "",
+            "Usage": "",
+            "Surrounding area": "",
+            "箱根登山鉄道": "",
+            "Railway stations in 箱根町": ""
+          },
+          "全文": "Kami-Gōra Station (上強羅駅) is a Hakone Tozan Cable Car station in Hakone, Kanagawa Prefecture, Japan. Its station number is OH61.\n\nHistory\n\n\nStation layout\n\n\nUsage\n\n\nSurrounding area\n\n\n箱根登山鉄道\n\n\nRailway stations in 箱根町\n",
+          "字数": 216
+        }
       },
       "结构化信息": {
         "读音": "かみごうらえき",
@@ -150,7 +178,21 @@
           "字数": 650,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Naka-Gōra Station",
+          "链接": null,
+          "首段": "Naka-Gōra Station (中強羅駅) is a Hakone Tozan Cable Car station in Hakone, Kanagawa Prefecture, Japan. Its station number is OH60.",
+          "章节": {
+            "History": "",
+            "Station layout": "",
+            "Usage": "",
+            "Surrounding area": "",
+            "箱根登山鉄道": "",
+            "Railway stations in 箱根町": ""
+          },
+          "全文": "Naka-Gōra Station (中強羅駅) is a Hakone Tozan Cable Car station in Hakone, Kanagawa Prefecture, Japan. Its station number is OH60.\n\nHistory\n\n\nStation layout\n\n\nUsage\n\n\nSurrounding area\n\n\n箱根登山鉄道\n\n\nRailway stations in 箱根町\n",
+          "字数": 216
+        }
       },
       "结构化信息": {
         "读音": "なかごうらえき",
@@ -218,7 +260,21 @@
           "字数": 496,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Kōen-kami Station",
+          "链接": null,
+          "首段": "Kōen-kami Station (公園上駅) is a Hakone Tozan Cable Car station in Hakone, Kanagawa Prefecture, Japan. Its station number is OH59.",
+          "章节": {
+            "History": "",
+            "Station layout": "",
+            "Usage": "",
+            "Surrounding area": "",
+            "箱根登山鉄道": "",
+            "Railway stations in 箱根町": ""
+          },
+          "全文": "Kōen-kami Station (公園上駅) is a Hakone Tozan Cable Car station in Hakone, Kanagawa Prefecture, Japan. Its station number is OH59.\n\nHistory\n\n\nStation layout\n\n\nUsage\n\n\nSurrounding area\n\n\n箱根登山鉄道\n\n\nRailway stations in 箱根町\n",
+          "字数": 216
+        }
       },
       "结构化信息": {
         "读音": "こうえんかみえき",
@@ -285,7 +341,21 @@
           "字数": 507,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Kōen-shimo Station",
+          "链接": null,
+          "首段": "Kōen-shimo Station (公園下駅) is a Hakone Tozan Cable Car station in Hakone, Kanagawa Prefecture, Japan. Its station number is OH58.",
+          "章节": {
+            "History": "",
+            "Station layout": "",
+            "Usage": "",
+            "Surrounding area": "",
+            "箱根登山鉄道": "",
+            "Railway stations in 箱根町": ""
+          },
+          "全文": "Kōen-shimo Station (公園下駅) is a Hakone Tozan Cable Car station in Hakone, Kanagawa Prefecture, Japan. Its station number is OH58.\n\nHistory\n\n\nStation layout\n\n\nUsage\n\n\nSurrounding area\n\n\n箱根登山鉄道\n\n\nRailway stations in 箱根町\n",
+          "字数": 217
+        }
       },
       "结构化信息": {
         "读音": "こうえんしもえき",
@@ -364,12 +434,21 @@
           "链接": "https://en.wikipedia.org/wiki/G%C5%8Dra%20Station",
           "首段": "is a terminal railway station on the Hakone Tozan Line as well as the Hakone Tozan Cable Car, and is located in Hakone, Kanagawa, Japan. It is 15.0 km from the Hakone Tozan Line's southern terminus at Odawara Station. At an altitude of , it is the highest railway station in Kanagawa Prefecture.",
           "章节": {
-            "Lines": "Gōra Station is served by the Hakone Tozan Line and also by the Hakone Tozan Cable Car.\n\nStation layout\nGōra Station has two side platforms, which are staggered, so that they do not directly oppose each other.",
             "History": "Gōra Station was opened on June 1, 1919 as a station on the Hakone Tozan Line. The Hakone Tozan Cable Car began operations from December 1, 1921, but operations were suspended from February 11, 1944 through July 1, 1950. The present station building was opened on April 16, 1977.\n\nBus services\nHakone Tozan Bus\nBus stop 1\n for Hakone Open-Air Museum, Kowaki-en (transfer for Moto-Hakone (Lake Ashi) direction), Yunessun, and Ten-yu\nBus stop 2\n for Gora Park, Hakone Art Museum (Kōen-Kami Station), Pola Museum of Art, The Little Prince and Saint-Exupéry Museum, Senkyoro-mae (transfer for Togendai (Lake Ashi)), Hakone Venetian Glass Museum, Sengoku (transfer for JR Gotemba Station and Shinjuku Station), and Hakone Botanical Garden of Wetlands\nBus stop 3\n for Miyagino, Hakone Venetian Glass Museum, Sengoku (transfer for Shinjuku Station), Otome Toge, Gotemba Premium Outlets, and JR Gotemba Station\nBus stop (Extra)\n for Hakone Yumoto Station via Chōkoku-no-Mori Station, Kowakidani Station, Miyanoshita, and Ohiradai Station",
+            "Station layout": "",
+            "Departure melody": "",
+            "Usage": "",
+            "学校法人函嶺白百合学園": "",
+            "Bus routes": "",
+            "Platform 3": "",
+            "Other": "",
+            "箱根登山鉄道": "",
+            "Railway stations in 箱根町": "",
+            "Lines": "Gōra Station is served by the Hakone Tozan Line and also by the Hakone Tozan Cable Car.\n\nStation layout\nGōra Station has two side platforms, which are staggered, so that they do not directly oppose each other.",
             "References": "External links\n\n Hakone Tozan Railway official website\n Hakone Tozan Bus official website (Gora Station)\n Gora Station Map (Hakone Navi)\n\nRailway stations in Japan opened in 1919\nRailway stations in Kanagawa Prefecture\nBuildings and structures in Hakone, Kanagawa"
           },
-          "全文": "is a terminal railway station on the Hakone Tozan Line as well as the Hakone Tozan Cable Car, and is located in Hakone, Kanagawa, Japan. It is 15.0 km from the Hakone Tozan Line's southern terminus at Odawara Station. At an altitude of , it is the highest railway station in Kanagawa Prefecture.\n\nLines\nGōra Station is served by the Hakone Tozan Line and also by the Hakone Tozan Cable Car.\n\nStation layout\nGōra Station has two side platforms, which are staggered, so that they do not directly oppose each other.\n\nHistory\nGōra Station was opened on June 1, 1919 as a station on the Hakone Tozan Line. The Hakone Tozan Cable Car began operations from December 1, 1921, but operations were suspended from February 11, 1944 through July 1, 1950. The present station building was opened on April 16, 1977.\n\nBus services\nHakone Tozan Bus\nBus stop 1\n for Hakone Open-Air Museum, Kowaki-en (transfer for Moto-Hakone (Lake Ashi) direction), Yunessun, and Ten-yu\nBus stop 2\n for Gora Park, Hakone Art Museum (Kōen-Kami Station), Pola Museum of Art, The Little Prince and Saint-Exupéry Museum, Senkyoro-mae (transfer for Togendai (Lake Ashi)), Hakone Venetian Glass Museum, Sengoku (transfer for JR Gotemba Station and Shinjuku Station), and Hakone Botanical Garden of Wetlands\nBus stop 3\n for Miyagino, Hakone Venetian Glass Museum, Sengoku (transfer for Shinjuku Station), Otome Toge, Gotemba Premium Outlets, and JR Gotemba Station\nBus stop (Extra)\n for Hakone Yumoto Station via Chōkoku-no-Mori Station, Kowakidani Station, Miyanoshita, and Ohiradai Station\n\nReferences\n\nExternal links\n\n Hakone Tozan Railway official website\n Hakone Tozan Bus official website (Gora Station)\n Gora Station Map (Hakone Navi)\n\nRailway stations in Japan opened in 1919\nRailway stations in Kanagawa Prefecture\nBuildings and structures in Hakone, Kanagawa",
-          "字数": 1828
+          "全文": "is a terminal railway station on the Hakone Tozan Line as well as the Hakone Tozan Cable Car, and is located in Hakone, Kanagawa, Japan. It is 15.0 km from the Hakone Tozan Line's southern terminus at Odawara Station. At an altitude of , it is the highest railway station in Kanagawa Prefecture.\n\nHistory\nGōra Station was opened on June 1, 1919 as a station on the Hakone Tozan Line. The Hakone Tozan Cable Car began operations from December 1, 1921, but operations were suspended from February 11, 1944 through July 1, 1950. The present station building was opened on April 16, 1977.\n\nBus services\nHakone Tozan Bus\nBus stop 1\n for Hakone Open-Air Museum, Kowaki-en (transfer for Moto-Hakone (Lake Ashi) direction), Yunessun, and Ten-yu\nBus stop 2\n for Gora Park, Hakone Art Museum (Kōen-Kami Station), Pola Museum of Art, The Little Prince and Saint-Exupéry Museum, Senkyoro-mae (transfer for Togendai (Lake Ashi)), Hakone Venetian Glass Museum, Sengoku (transfer for JR Gotemba Station and Shinjuku Station), and Hakone Botanical Garden of Wetlands\nBus stop 3\n for Miyagino, Hakone Venetian Glass Museum, Sengoku (transfer for Shinjuku Station), Otome Toge, Gotemba Premium Outlets, and JR Gotemba Station\nBus stop (Extra)\n for Hakone Yumoto Station via Chōkoku-no-Mori Station, Kowakidani Station, Miyanoshita, and Ohiradai Station\n\nStation layout\n\n\nDeparture melody\n\n\nUsage\n\n\n学校法人函嶺白百合学園\n\n\nBus routes\n\n\nPlatform 3\n\n\nOther\n\n\n箱根登山鉄道\n\n\nRailway stations in 箱根町\n\n\nLines\nGōra Station is served by the Hakone Tozan Line and also by the Hakone Tozan Cable Car.\n\nStation layout\nGōra Station has two side platforms, which are staggered, so that they do not directly oppose each other.\n\nReferences\nExternal links\n\n Hakone Tozan Railway official website\n Hakone Tozan Bus official website (Gora Station)\n Gora Station Map (Hakone Navi)\n\nRailway stations in Japan opened in 1919\nRailway stations in Kanagawa Prefecture\nBuildings and structures in Hakone, Kanagawa",
+          "字数": 1954
         }
       },
       "结构化信息": {
@@ -449,13 +528,22 @@
           "链接": "https://en.wikipedia.org/wiki/S%C5%8Dunzan%20Station",
           "首段": "is a terminal funicular railway station on the Hakone Tozan Cable Car Line in the town of Hakone, Ashigarashimo District, Kanagawa Prefecture, Japan. It is  by rail from the Hakone Tozan Cable Car Line's opposing terminus at Gōra Station. It is also the lower terminus for the Hakone Ropeway, from Tōgendai Station, and is located at an altitude of .",
           "章节": {
+            "Overview": "",
             "History": "Sōunzan Station opened on December 1, 1921 with the opening of the Hakone Tozan Cable Car Line.",
+            "Station layout": "Sōunzan Station on the Hakone Tozan Cable Car has a bay platform serving one track. The station is elevated to incorporate the cable winding equipment necessary for the operation of funicular railway and the cable car.\nThe boarding area for the Hakone Cable Car is on the second floor, with access by stairs or by elevator, as the station is built barrier free for use by handicapped customers.\n\nBus services\nIzuhakone Bus  Bus Stop \n\"J\" line for Hakone-en (Lake Ashi) via Ōwakudani, Kojiri\n\"J\" line for Odawara Station via Kowaki-en, Kowakidani Station, Miyanoshita, Hakone-Yumoto Station",
+            "Usage": "",
+            "大雄山箱根別院": "",
+            "Bus routes": "",
+            "箱根登山鉄道": "",
+            "箱根ロープウェイ": "",
+            "Railway stations in 箱根町": "",
+            "Railway stations in 箱根登山鉄道": "",
             "Lines": "Hakone Tozan Cable Car\nHakone Ropeway",
             "Layout": "Sōunzan Station on the Hakone Tozan Cable Car has a bay platform serving one track. The station is elevated to incorporate the cable winding equipment necessary for the operation of funicular railway and the cable car.\nThe boarding area for the Hakone Cable Car is on the second floor, with access by stairs or by elevator, as the station is built barrier free for use by handicapped customers.\n\nBus services\nIzuhakone Bus  Bus Stop \n\"J\" line for Hakone-en (Lake Ashi) via Ōwakudani, Kojiri\n\"J\" line for Odawara Station via Kowaki-en, Kowakidani Station, Miyanoshita, Hakone-Yumoto Station",
             "References": "External links\nHakone Tozan Railway\nHakone Ropeway\nLocation map \n\nRailway stations in Kanagawa Prefecture\nRailway stations in Japan opened in 1921\nBuildings and structures in Hakone, Kanagawa"
           },
-          "全文": "is a terminal funicular railway station on the Hakone Tozan Cable Car Line in the town of Hakone, Ashigarashimo District, Kanagawa Prefecture, Japan. It is  by rail from the Hakone Tozan Cable Car Line's opposing terminus at Gōra Station. It is also the lower terminus for the Hakone Ropeway, from Tōgendai Station, and is located at an altitude of .\n\nHistory\nSōunzan Station opened on December 1, 1921 with the opening of the Hakone Tozan Cable Car Line.\n\nLines\nHakone Tozan Cable Car\nHakone Ropeway\n\nLayout\nSōunzan Station on the Hakone Tozan Cable Car has a bay platform serving one track. The station is elevated to incorporate the cable winding equipment necessary for the operation of funicular railway and the cable car.\nThe boarding area for the Hakone Cable Car is on the second floor, with access by stairs or by elevator, as the station is built barrier free for use by handicapped customers.\n\nBus services\nIzuhakone Bus  Bus Stop \n\"J\" line for Hakone-en (Lake Ashi) via Ōwakudani, Kojiri\n\"J\" line for Odawara Station via Kowaki-en, Kowakidani Station, Miyanoshita, Hakone-Yumoto Station\n\nReferences\n\nExternal links\nHakone Tozan Railway\nHakone Ropeway\nLocation map \n\nRailway stations in Kanagawa Prefecture\nRailway stations in Japan opened in 1921\nBuildings and structures in Hakone, Kanagawa",
-          "字数": 1303
+          "全文": "is a terminal funicular railway station on the Hakone Tozan Cable Car Line in the town of Hakone, Ashigarashimo District, Kanagawa Prefecture, Japan. It is  by rail from the Hakone Tozan Cable Car Line's opposing terminus at Gōra Station. It is also the lower terminus for the Hakone Ropeway, from Tōgendai Station, and is located at an altitude of .\n\nOverview\n\n\nHistory\nSōunzan Station opened on December 1, 1921 with the opening of the Hakone Tozan Cable Car Line.\n\nStation layout\nSōunzan Station on the Hakone Tozan Cable Car has a bay platform serving one track. The station is elevated to incorporate the cable winding equipment necessary for the operation of funicular railway and the cable car.\nThe boarding area for the Hakone Cable Car is on the second floor, with access by stairs or by elevator, as the station is built barrier free for use by handicapped customers.\n\nBus services\nIzuhakone Bus  Bus Stop \n\"J\" line for Hakone-en (Lake Ashi) via Ōwakudani, Kojiri\n\"J\" line for Odawara Station via Kowaki-en, Kowakidani Station, Miyanoshita, Hakone-Yumoto Station\n\nUsage\n\n\n大雄山箱根別院\n\n\nBus routes\n\n\n箱根登山鉄道\n\n\n箱根ロープウェイ\n\n\nRailway stations in 箱根町\n\n\nRailway stations in 箱根登山鉄道\n\n\nLines\nHakone Tozan Cable Car\nHakone Ropeway\n\nLayout\nSōunzan Station on the Hakone Tozan Cable Car has a bay platform serving one track. The station is elevated to incorporate the cable winding equipment necessary for the operation of funicular railway and the cable car.\nThe boarding area for the Hakone Cable Car is on the second floor, with access by stairs or by elevator, as the station is built barrier free for use by handicapped customers.\n\nBus services\nIzuhakone Bus  Bus Stop \n\"J\" line for Hakone-en (Lake Ashi) via Ōwakudani, Kojiri\n\"J\" line for Odawara Station via Kowaki-en, Kowakidani Station, Miyanoshita, Hakone-Yumoto Station\n\nReferences\nExternal links\nHakone Tozan Railway\nHakone Ropeway\nLocation map \n\nRailway stations in Kanagawa Prefecture\nRailway stations in Japan opened in 1921\nBuildings and structures in Hakone, Kanagawa",
+          "字数": 2025
         }
       },
       "结构化信息": {
@@ -493,6 +581,6 @@
     "有中文词条": 6,
     "已千问汉化": 0,
     "待汉化": 0,
-    "有英文词条": 2
+    "有英文词条": 6
   }
 }

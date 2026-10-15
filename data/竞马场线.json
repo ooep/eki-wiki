@@ -52,7 +52,27 @@
         "字数": 1531,
         "来源": "维基百科中文版（已转简体）"
       },
-      "英文": null
+      "英文": {
+        "词条标题": "Keiō Racecourse Line",
+        "链接": null,
+        "首段": "The Racecourse Line (競馬場線) is a short Keiō Railway branch line connecting Higashi-Fuchū Station with Fuchū-Keiba-Seimon-mae Station in Fuchū, Tokyo, Japan. It is only 0.9 km long and serves Tokyo Racecourse.",
+        "章节": {
+          "Line data": "",
+          "History": "",
+          "運転": "",
+          "ワンマン運転": "",
+          "Rolling stock": "",
+          "過去の車両": "",
+          "東京競馬開催時の運行": "",
+          "過去の運転": "",
+          "Station list": "",
+          "Other": "",
+          "List of railway lines in Japan": "",
+          "是政駅": ""
+        },
+        "全文": "The Racecourse Line (競馬場線) is a short Keiō Railway branch line connecting Higashi-Fuchū Station with Fuchū-Keiba-Seimon-mae Station in Fuchū, Tokyo, Japan. It is only 0.9 km long and serves Tokyo Racecourse.\n\nLine data\n\n\nHistory\n\n\n運転\n\n\nワンマン運転\n\n\nRolling stock\n\n\n過去の車両\n\n\n東京競馬開催時の運行\n\n\n過去の運転\n\n\nStation list\n\n\nOther\n\n\nList of railway lines in Japan\n\n\n是政駅\n",
+        "字数": 350
+      }
     }
   },
   "车站": [
@@ -102,7 +122,24 @@
           "字数": 1081,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Fuchū-Keiba-Seimon-mae Station",
+          "链接": null,
+          "首段": "Fuchū-Keiba-Seimon-mae Station (府中競馬正門前駅) is the terminus of the Keiō Racecourse Line in Hachiman-chō 1-chōme, Fuchū, Tokyo, Japan. Its station number is KO46.",
+          "章节": {
+            "Chronology": "",
+            "Station layout": "",
+            "Usage": "",
+            "Surrounding area": "",
+            "普門寺": "",
+            "Other": "",
+            "Origin of the station name": "",
+            "特急・急行（いずれも競馬開催時の上りのみ運転）・各駅停車": "",
+            "List of railway stations in Japan": ""
+          },
+          "全文": "Fuchū-Keiba-Seimon-mae Station (府中競馬正門前駅) is the terminus of the Keiō Racecourse Line in Hachiman-chō 1-chōme, Fuchū, Tokyo, Japan. Its station number is KO46.\n\nChronology\n\n\nStation layout\n\n\nUsage\n\n\nSurrounding area\n\n\n普門寺\n\n\nOther\n\n\nOrigin of the station name\n\n\n特急・急行（いずれも競馬開催時の上りのみ運転）・各駅停車\n\n\nList of railway stations in Japan\n",
+          "字数": 326
+        }
       },
       "结构化信息": {
         "读音": "ふちゅうけいばせいもんまええき",
@@ -191,7 +228,34 @@
           "字数": 1453,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Higashi-Fuchū Station",
+          "链接": null,
+          "首段": "Higashi-Fuchū Station (東府中駅) is a Keiō station in Shimizugaoka 1-chōme, Fuchū, Tokyo, Japan, the junction of the Keiō Line and the Racecourse Line. Its station number is KO23.",
+          "章节": {
+            "Overview": "",
+            "History": "",
+            "Station layout": "",
+            "京王リトナード東府中": "",
+            "Usage": "",
+            "Surrounding area": "",
+            "ライフ東府中店": "",
+            "府中市生涯学習センター": "",
+            "東京都立府中工科高等学校": "",
+            "株式会社ジャーマンモーター": "",
+            "レクサス府中": "",
+            "ヤナセ府中支店": "",
+            "ダイハツ東京販売府中店": "",
+            "Bus routes": "",
+            "Limited express": "",
+            "快速（下りのみ運転）・各駅停車": "",
+            "競馬場線": "",
+            "List of railway stations in Japan": "",
+            "Railway stations in 東京都府中市": ""
+          },
+          "全文": "Higashi-Fuchū Station (東府中駅) is a Keiō station in Shimizugaoka 1-chōme, Fuchū, Tokyo, Japan, the junction of the Keiō Line and the Racecourse Line. Its station number is KO23.\n\nOverview\n\n\nHistory\n\n\nStation layout\n\n\n京王リトナード東府中\n\n\nUsage\n\n\nSurrounding area\n\n\nライフ東府中店\n\n\n府中市生涯学習センター\n\n\n東京都立府中工科高等学校\n\n\n株式会社ジャーマンモーター\n\n\nレクサス府中\n\n\nヤナセ府中支店\n\n\nダイハツ東京販売府中店\n\n\nBus routes\n\n\nLimited express\n\n\n快速（下りのみ運転）・各駅停車\n\n\n競馬場線\n\n\nList of railway stations in Japan\n\n\nRailway stations in 東京都府中市\n",
+          "字数": 462
+        }
       },
       "结构化信息": {
         "读音": "ひがしふちゅうえき",
@@ -259,6 +323,6 @@
     "有中文词条": 2,
     "已千问汉化": 0,
     "待汉化": 0,
-    "有英文词条": 0
+    "有英文词条": 2
   }
 }
