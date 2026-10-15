@@ -62,7 +62,14 @@
           "全文": "山上站（さんじょうえき）是连接山上与山下的缆车、索道、缆车等位于上（山顶）侧的车站，或此类车站的名称·通称。山麓侧车站称山麓站。\n 山上站 (东京都) — 东京都八王子市高尾登山电铁缆车车站。\n 山上站 (大阪府) — 曾位于大阪府箕面市，箕面钢索铁道（箕面温泉缆车）车站。\n 山上站 (兵库县) — 兵库县姬路市书写山索道车站。\n 山上站 (福冈县) — 福冈县北九州市八幡东区皿仓山缆车车站。\n 缆车八幡宫山上站 — 京都府八幡市京阪钢索线（石清水八幡宫参道缆车）车站。\n 六甲山上站 — 兵库县神户市滩区六甲缆索线车站。\n 钵伏山上站 — 兵库县神户市须磨区须磨浦索道车站。\n 缆车上站 — 兵库县川西市能势电铁妙见之森缆车车站。\n 葛城山上站 — 奈良县御所市近铁葛城索道线（葛城山索道）车站。\n 生驹山上站 — 奈良县生驹市近铁生驹钢索线（生驹缆车）车站。",
           "字数": 383
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Sanrō Station",
+          "链接": null,
+          "首段": "Sanrō Station (山上駅) is a disambiguation entry; in this file it refers to the upper station of the Sarakurayama Cable Car in Yahata-higashi-ku, Kitakyūshū, Fukuoka Prefecture, Japan.",
+          "章节": {},
+          "全文": "Sanrō Station (山上駅) is a disambiguation entry; in this file it refers to the upper station of the Sarakurayama Cable Car in Yahata-higashi-ku, Kitakyūshū, Fukuoka Prefecture, Japan.",
+          "字数": 181
+        }
       },
       "结构化信息": {
         "读音": "さんじょうえき",
@@ -116,9 +123,11 @@
           "词条标题": "Sanroku Station",
           "链接": "https://en.wikipedia.org/wiki/Sanroku%20Station",
           "首段": "Sanroku Station (山麓駅) is the name of two train stations in Japan:\n\n Sanroku Station (Fukuoka)\nSanroku Station (Tokyo)",
-          "章节": {},
-          "全文": "Sanroku Station (山麓駅) is the name of two train stations in Japan:\n\n Sanroku Station (Fukuoka)\nSanroku Station (Tokyo)",
-          "字数": 117
+          "章节": {
+            "～～山麓駅": ""
+          },
+          "全文": "Sanroku Station (山麓駅) is the name of two train stations in Japan:\n\n Sanroku Station (Fukuoka)\nSanroku Station (Tokyo)\n\n～～山麓駅\n",
+          "字数": 125
         }
       },
       "结构化信息": {
@@ -148,6 +157,6 @@
     "有中文词条": 2,
     "已千问汉化": 0,
     "待汉化": 0,
-    "有英文词条": 1
+    "有英文词条": 2
   }
 }
