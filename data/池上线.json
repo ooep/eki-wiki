@@ -49,7 +49,26 @@
         "字数": 569,
         "来源": "维基百科中文版（已转简体）"
       },
-      "英文": null
+      "英文": {
+        "词条标题": "Tōkyū Ikegami Line",
+        "链接": null,
+        "首段": "The Ikegami Line (池上線) is a private railway line operated by Tōkyū Corporation, connecting Gotanda Station in Shinagawa, Tokyo, with Kamata Station in Ōta, Tokyo, Japan. Its color is pink and its symbol is IK.",
+        "章节": {
+          "Line data": "",
+          "運行概況": "",
+          "沿線風景": "",
+          "現在運用されている車両": "",
+          "過去に運用された車両": "",
+          "History": "",
+          "泉岳寺線の計画": "",
+          "Chronology": "",
+          "Station list": "",
+          "廃駅": "",
+          "List of railway lines in Japan": ""
+        },
+        "全文": "The Ikegami Line (池上線) is a private railway line operated by Tōkyū Corporation, connecting Gotanda Station in Shinagawa, Tokyo, with Kamata Station in Ōta, Tokyo, Japan. Its color is pink and its symbol is IK.\n\nLine data\n\n\n運行概況\n\n\n沿線風景\n\n\n現在運用されている車両\n\n\n過去に運用された車両\n\n\nHistory\n\n\n泉岳寺線の計画\n\n\nChronology\n\n\nStation list\n\n\n廃駅\n\n\nList of railway lines in Japan\n",
+        "字数": 348
+      }
     }
   },
   "车站": [
@@ -101,9 +120,19 @@
           "词条标题": "Kugahara Station",
           "链接": "https://en.wikipedia.org/wiki/Kugahara%20Station",
           "首段": "Kugahara Station is the name of two train stations in Japan:\n\n Kugahara Station (Chiba) (久我原駅)\n Kugahara Station (Tokyo) (久が原駅)",
-          "章节": {},
-          "全文": "Kugahara Station is the name of two train stations in Japan:\n\n Kugahara Station (Chiba) (久我原駅)\n Kugahara Station (Tokyo) (久が原駅)",
-          "字数": 127
+          "章节": {
+            "History": "",
+            "Origin of the station name": "",
+            "Station layout": "",
+            "Usage": "",
+            "大田区立久原小学校": "",
+            "昭和のくらし博物館": "",
+            "Bus routes": "",
+            "池上線": "",
+            "Railway stations in 大田区": ""
+          },
+          "全文": "Kugahara Station is the name of two train stations in Japan:\n\n Kugahara Station (Chiba) (久我原駅)\n Kugahara Station (Tokyo) (久が原駅)\n\nHistory\n\n\nOrigin of the station name\n\n\nStation layout\n\n\nUsage\n\n\n大田区立久原小学校\n\n\n昭和のくらし博物館\n\n\nBus routes\n\n\n池上線\n\n\nRailway stations in 大田区\n",
+          "字数": 260
         }
       },
       "结构化信息": {
@@ -212,14 +241,35 @@
           "链接": "https://en.wikipedia.org/wiki/Gotanda%20Station",
           "首段": "Gotanda Station (,) is a railway station in Shinagawa, Tokyo, Japan, operated by the East Japan Railway Company (JR East), the private railway operator Tokyu Corporation, and the Tokyo subway operator Toei.",
           "章节": {
+            "Through services": "",
+            "History": "The JR station first opened on 15 October 1911. The Tokyu Ikegami Line station opened on 17 June 1928. The Toei Asakusa Line station opened on 15 November 1968.\n\nStation numbering was introduced to the JR East platforms in 2016 with Gotanda being assigned JY23.\n\nPassenger statistics\nIn fiscal 2013, the JR East station was used by 132,524 passengers daily (boarding passengers only), making it the 24th-busiest station operated by JR East. Over the same fiscal year, the Tokyu station was used by an average of 108,025 passengers daily (entering and exiting passengers), making it the busiest station on the Ikegami Line.\n\nThe daily passenger figures for each operator in previous years are as shown below.\n\n Note that JR East figures are for boarding passengers only.\n\nSurrounding area\n Seisen University\n Rissho University\n Tokyo Health Care University\n NTT Medical Center Tokyo\n Ikedayama Park\n\nSee also\n\n List of railway stations in Japan",
+            "Origin of the station name": "",
+            "JR East": "",
+            "東急電鉄": "",
+            "Toei Bureau of Transportation": "The Toei subway station consists of one underground island platform serving two tracks.",
+            "Usage": "",
+            "Annual daily average boarding/alighting": "",
+            "Bus routes": "",
+            "Bus stop 4": "",
+            "Bus stop 5": "",
+            "Bus stop 6": "",
+            "Bus stop 7": "",
+            "Bus stop 8": "",
+            "Bus stop 9": "",
+            "Adjacent stations": "",
+            "山手線": "",
+            "池上線": "",
+            "都営浅草線": "",
+            "JR東日本の1999年度以降の乗車人員": "",
+            "Railway stations in 品川区": "",
+            "Railway stations in 1911年開業": "",
             "Lines": "Gotanda Station is served by the following lines:\n JR East Yamanote Line\n Toei Asakusa Line (Station number A-05)\n Tokyu Ikegami Line - terminus station\n\nStation layout\n\nJR East\nThe JR East station consists of an elevated island platform serving two tracks. The station has a \"Midori no Madoguchi\" staffed ticket office.\n\nChest-height platform edge doors were installed on the Yamanote Line platforms in February 2015, with operation commencing in March.",
             "Tokyu": "The Tokyu station consists of one elevated island platform serving two tracks, located above the JR platforms.",
             "Toei": "The Toei subway station consists of one underground island platform serving two tracks.",
-            "History": "The JR station first opened on 15 October 1911. The Tokyu Ikegami Line station opened on 17 June 1928. The Toei Asakusa Line station opened on 15 November 1968.\n\nStation numbering was introduced to the JR East platforms in 2016 with Gotanda being assigned JY23.\n\nPassenger statistics\nIn fiscal 2013, the JR East station was used by 132,524 passengers daily (boarding passengers only), making it the 24th-busiest station operated by JR East. Over the same fiscal year, the Tokyu station was used by an average of 108,025 passengers daily (entering and exiting passengers), making it the busiest station on the Ikegami Line.\n\nThe daily passenger figures for each operator in previous years are as shown below.\n\n Note that JR East figures are for boarding passengers only.\n\nSurrounding area\n Seisen University\n Rissho University\n Tokyo Health Care University\n NTT Medical Center Tokyo\n Ikedayama Park\n\nSee also\n\n List of railway stations in Japan",
             "References": "External links\n\n JR East station information \n JR Gotanda Station Map (JR East) \n Gotanda Station (Toei) \n Gotanda Station (Tokyu) \n\nYamanote Line\nTokyu Ikegami Line\nToei Asakusa Line\nStations of East Japan Railway Company\nStations of Tokyu Corporation\nStations of Tokyo Metropolitan Bureau of Transportation\nRailway stations in Tokyo\nRailway stations in Japan opened in 1911"
           },
-          "全文": "Gotanda Station (,) is a railway station in Shinagawa, Tokyo, Japan, operated by the East Japan Railway Company (JR East), the private railway operator Tokyu Corporation, and the Tokyo subway operator Toei.\n\nLines\nGotanda Station is served by the following lines:\n JR East Yamanote Line\n Toei Asakusa Line (Station number A-05)\n Tokyu Ikegami Line - terminus station\n\nStation layout\n\nJR East\nThe JR East station consists of an elevated island platform serving two tracks. The station has a \"Midori no Madoguchi\" staffed ticket office.\n\nChest-height platform edge doors were installed on the Yamanote Line platforms in February 2015, with operation commencing in March.\n\nTokyu\nThe Tokyu station consists of one elevated island platform serving two tracks, located above the JR platforms.\n\nToei\nThe Toei subway station consists of one underground island platform serving two tracks.\n\nHistory\nThe JR station first opened on 15 October 1911. The Tokyu Ikegami Line station opened on 17 June 1928. The Toei Asakusa Line station opened on 15 November 1968.\n\nStation numbering was introduced to the JR East platforms in 2016 with Gotanda being assigned JY23.\n\nPassenger statistics\nIn fiscal 2013, the JR East station was used by 132,524 passengers daily (boarding passengers only), making it the 24th-busiest station operated by JR East. Over the same fiscal year, the Tokyu station was used by an average of 108,025 passengers daily (entering and exiting passengers), making it the busiest station on the Ikegami Line.\n\nThe daily passenger figures for each operator in previous years are as shown below.\n\n Note that JR East figures are for boarding passengers only.\n\nSurrounding area\n Seisen University\n Rissho University\n Tokyo Health Care University\n NTT Medical Center Tokyo\n Ikedayama Park\n\nSee also\n\n List of railway stations in Japan\n\nReferences\n\nExternal links\n\n JR East station information \n JR Gotanda Station Map (JR East) \n Gotanda Station (Toei) \n Gotanda Station (Tokyu) \n\nYamanote Line\nTokyu Ikegami Line\nToei Asakusa Line\nStations of East Japan Railway Company\nStations of Tokyu Corporation\nStations of Tokyo Metropolitan Bureau of Transportation\nRailway stations in Tokyo\nRailway stations in Japan opened in 1911",
-          "字数": 2222
+          "全文": "Gotanda Station (,) is a railway station in Shinagawa, Tokyo, Japan, operated by the East Japan Railway Company (JR East), the private railway operator Tokyu Corporation, and the Tokyo subway operator Toei.\n\nThrough services\n\n\nHistory\nThe JR station first opened on 15 October 1911. The Tokyu Ikegami Line station opened on 17 June 1928. The Toei Asakusa Line station opened on 15 November 1968.\n\nStation numbering was introduced to the JR East platforms in 2016 with Gotanda being assigned JY23.\n\nPassenger statistics\nIn fiscal 2013, the JR East station was used by 132,524 passengers daily (boarding passengers only), making it the 24th-busiest station operated by JR East. Over the same fiscal year, the Tokyu station was used by an average of 108,025 passengers daily (entering and exiting passengers), making it the busiest station on the Ikegami Line.\n\nThe daily passenger figures for each operator in previous years are as shown below.\n\n Note that JR East figures are for boarding passengers only.\n\nSurrounding area\n Seisen University\n Rissho University\n Tokyo Health Care University\n NTT Medical Center Tokyo\n Ikedayama Park\n\nSee also\n\n List of railway stations in Japan\n\nOrigin of the station name\n\n\nJR East\n\n\n東急電鉄\n\n\nToei Bureau of Transportation\nThe Toei subway station consists of one underground island platform serving two tracks.\n\nUsage\n\n\nAnnual daily average boarding/alighting\n\n\nBus routes\n\n\nBus stop 4\n\n\nBus stop 5\n\n\nBus stop 6\n\n\nBus stop 7\n\n\nBus stop 8\n\n\nBus stop 9\n\n\nAdjacent stations\n\n\n山手線\n\n\n池上線\n\n\n都営浅草線\n\n\nJR東日本の1999年度以降の乗車人員\n\n\nRailway stations in 品川区\n\n\nRailway stations in 1911年開業\n\n\nLines\nGotanda Station is served by the following lines:\n JR East Yamanote Line\n Toei Asakusa Line (Station number A-05)\n Tokyu Ikegami Line - terminus station\n\nStation layout\n\nJR East\nThe JR East station consists of an elevated island platform serving two tracks. The station has a \"Midori no Madoguchi\" staffed ticket office.\n\nChest-height platform edge doors were installed on the Yamanote Line platforms in February 2015, with operation commencing in March.\n\nTokyu\nThe Tokyu station consists of one elevated island platform serving two tracks, located above the JR platforms.\n\nToei\nThe Toei subway station consists of one underground island platform serving two tracks.\n\nReferences\nExternal links\n\n JR East station information \n JR Gotanda Station Map (JR East) \n Gotanda Station (Toei) \n Gotanda Station (Tokyu) \n\nYamanote Line\nTokyu Ikegami Line\nToei Asakusa Line\nStations of East Japan Railway Company\nStations of Tokyu Corporation\nStations of Tokyo Metropolitan Bureau of Transportation\nRailway stations in Tokyo\nRailway stations in Japan opened in 1911",
+          "字数": 2664
         }
       },
       "结构化信息": {
@@ -294,7 +344,14 @@
           "字数": 82,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Chidori-chō Station",
+          "链接": null,
+          "首段": "Chidori-chō Station (千鳥町駅) is a disambiguation entry; in this file it refers to the Tōkyū Ikegami Line station in Ōta, Tokyo, Japan.",
+          "章节": {},
+          "全文": "Chidori-chō Station (千鳥町駅) is a disambiguation entry; in this file it refers to the Tōkyū Ikegami Line station in Ōta, Tokyo, Japan.",
+          "字数": 132
+        }
       },
       "结构化信息": {
         "读音": "ちどりちょうえき",
@@ -372,10 +429,24 @@
           "链接": "https://en.wikipedia.org/wiki/%C5%8Csakihirok%C5%8Dji%20Station",
           "首段": "is a station on the Tōkyū Ikegami Line in southeast Tokyo, Japan. The line originally terminated at this station, but was later extended to nearby Gotanda Station, a mere  away. It is also within walking distance from Osaki Station.\n\nStation layout\nAn elevated island platform.",
           "章节": {
-            "History": "October 9, 1927 Opened (Togoshi-Ginza - Ōsakihirokōji opened).\nJune 17, 1928 Ōsakihirokōji - Gotanda opened.\nOsakihirokoji Station features in Ozu Yasujiro's 1957 film Tokyo Twilight (Tokyo Boshoku).\n\nBus services \n bus stop\nTokyu Bus\n<渋41>Shibuya Sta. - Naka-Meguro Sta. - Ōtori Shrine mae - Ōsakihirokōji - Ōsaki Sta. - Ōimachi Sta.\n<渋72>Shibuya Sta. (East Exit) - Ebisu Sta. - Ōtori Shrine mae - Meguro Fudo - Ōsakihirokōji - Gotanda Sta.\n<反01>Gotanda Sta. - Ōsakihirokōji - Ebara Garage - Ikegami Police Station - Tamagawa Ōhashi - Kawasaki Sta.\n<反02>Gotanda Sta. - Ōsakihirokōji - Ebara Garage - Ikegami Police Station\n<反11>Gotanda Sta. - Ōsakihirokōji - Gakugeidaigaku Sta. - Setagaya Ward Citizen Hall\n\nExternal links   \n  Oosakihirokouji Station (Tokyu)\n\nTokyu Ikegami Line\nStations of Tokyu Corporation\nRailway stations in Japan opened in 1927\nRailway stations in Tokyo"
+            "History": "October 9, 1927 Opened (Togoshi-Ginza - Ōsakihirokōji opened).\nJune 17, 1928 Ōsakihirokōji - Gotanda opened.\nOsakihirokoji Station features in Ozu Yasujiro's 1957 film Tokyo Twilight (Tokyo Boshoku).\n\nBus services \n bus stop\nTokyu Bus\n<渋41>Shibuya Sta. - Naka-Meguro Sta. - Ōtori Shrine mae - Ōsakihirokōji - Ōsaki Sta. - Ōimachi Sta.\n<渋72>Shibuya Sta. (East Exit) - Ebisu Sta. - Ōtori Shrine mae - Meguro Fudo - Ōsakihirokōji - Gotanda Sta.\n<反01>Gotanda Sta. - Ōsakihirokōji - Ebara Garage - Ikegami Police Station - Tamagawa Ōhashi - Kawasaki Sta.\n<反02>Gotanda Sta. - Ōsakihirokōji - Ebara Garage - Ikegami Police Station\n<反11>Gotanda Sta. - Ōsakihirokōji - Gakugeidaigaku Sta. - Setagaya Ward Citizen Hall\n\nExternal links   \n  Oosakihirokouji Station (Tokyu)\n\nTokyu Ikegami Line\nStations of Tokyu Corporation\nRailway stations in Japan opened in 1927\nRailway stations in Tokyo",
+            "Chronology": "",
+            "Origin of the station name": "",
+            "Station layout": "",
+            "Usage": "",
+            "Surrounding area": "",
+            "TOCビル内郵便局": "",
+            "中原街道": "",
+            "Bus routes": "",
+            "山手通り・西方向": "",
+            "山手通り・東方向": "",
+            "中原街道・北方向": "",
+            "第二京浜・南方向": "",
+            "池上線": "",
+            "Railway stations in 品川区": ""
           },
-          "全文": "is a station on the Tōkyū Ikegami Line in southeast Tokyo, Japan. The line originally terminated at this station, but was later extended to nearby Gotanda Station, a mere  away. It is also within walking distance from Osaki Station.\n\nStation layout\nAn elevated island platform.\n\nHistory \nOctober 9, 1927 Opened (Togoshi-Ginza - Ōsakihirokōji opened).\nJune 17, 1928 Ōsakihirokōji - Gotanda opened.\nOsakihirokoji Station features in Ozu Yasujiro's 1957 film Tokyo Twilight (Tokyo Boshoku).\n\nBus services \n bus stop\nTokyu Bus\n<渋41>Shibuya Sta. - Naka-Meguro Sta. - Ōtori Shrine mae - Ōsakihirokōji - Ōsaki Sta. - Ōimachi Sta.\n<渋72>Shibuya Sta. (East Exit) - Ebisu Sta. - Ōtori Shrine mae - Meguro Fudo - Ōsakihirokōji - Gotanda Sta.\n<反01>Gotanda Sta. - Ōsakihirokōji - Ebara Garage - Ikegami Police Station - Tamagawa Ōhashi - Kawasaki Sta.\n<反02>Gotanda Sta. - Ōsakihirokōji - Ebara Garage - Ikegami Police Station\n<反11>Gotanda Sta. - Ōsakihirokōji - Gakugeidaigaku Sta. - Setagaya Ward Citizen Hall\n\nExternal links   \n  Oosakihirokouji Station (Tokyu)\n\nTokyu Ikegami Line\nStations of Tokyu Corporation\nRailway stations in Japan opened in 1927\nRailway stations in Tokyo",
-          "字数": 1166
+          "全文": "is a station on the Tōkyū Ikegami Line in southeast Tokyo, Japan. The line originally terminated at this station, but was later extended to nearby Gotanda Station, a mere  away. It is also within walking distance from Osaki Station.\n\nStation layout\nAn elevated island platform.\n\nHistory\nOctober 9, 1927 Opened (Togoshi-Ginza - Ōsakihirokōji opened).\nJune 17, 1928 Ōsakihirokōji - Gotanda opened.\nOsakihirokoji Station features in Ozu Yasujiro's 1957 film Tokyo Twilight (Tokyo Boshoku).\n\nBus services \n bus stop\nTokyu Bus\n<渋41>Shibuya Sta. - Naka-Meguro Sta. - Ōtori Shrine mae - Ōsakihirokōji - Ōsaki Sta. - Ōimachi Sta.\n<渋72>Shibuya Sta. (East Exit) - Ebisu Sta. - Ōtori Shrine mae - Meguro Fudo - Ōsakihirokōji - Gotanda Sta.\n<反01>Gotanda Sta. - Ōsakihirokōji - Ebara Garage - Ikegami Police Station - Tamagawa Ōhashi - Kawasaki Sta.\n<反02>Gotanda Sta. - Ōsakihirokōji - Ebara Garage - Ikegami Police Station\n<反11>Gotanda Sta. - Ōsakihirokōji - Gakugeidaigaku Sta. - Setagaya Ward Citizen Hall\n\nExternal links   \n  Oosakihirokouji Station (Tokyu)\n\nTokyu Ikegami Line\nStations of Tokyu Corporation\nRailway stations in Japan opened in 1927\nRailway stations in Tokyo\n\nChronology\n\n\nOrigin of the station name\n\n\nStation layout\n\n\nUsage\n\n\nSurrounding area\n\n\nTOCビル内郵便局\n\n\n中原街道\n\n\nBus routes\n\n\n山手通り・西方向\n\n\n山手通り・東方向\n\n\n中原街道・北方向\n\n\n第二京浜・南方向\n\n\n池上線\n\n\nRailway stations in 品川区\n",
+          "字数": 1359
         }
       },
       "结构化信息": {
@@ -460,12 +531,19 @@
           "链接": "https://en.wikipedia.org/wiki/Ontakesan%20Station",
           "首段": "is a railway station on the Tokyu Ikegami Line in Ōta, Tokyo, Japan, operated by the private railway operator Tokyu Corporation.",
           "章节": {
-            "Lines": "Ontakesan Station is served by the 10.9 km Tokyu Ikegami Line between  and , and lies 6.4 km from the starting point of the line at Gotanda.\n\nStation layout\nThe station has two ground-level (partly elevated) side platforms serving two tracks.",
             "History": "The station opened on 4 May 1923 as . It was renamed Otakesan on 1 June 1933.\n\nPassenger statistics\nIn fiscal 2011, the station was used by an average of 23,588 passengers daily.\n\nSurrounding area\n Den Enchofu High School\n\nSee also\n List of railway stations in Japan",
+            "Origin of the station name": "",
+            "Station layout": "",
+            "Usage": "",
+            "東京都立雪谷高等学校": "",
+            "オオゼキ御嶽山店": "",
+            "池上線": "",
+            "Railway stations in 大田区": "",
+            "Lines": "Ontakesan Station is served by the 10.9 km Tokyu Ikegami Line between  and , and lies 6.4 km from the starting point of the line at Gotanda.\n\nStation layout\nThe station has two ground-level (partly elevated) side platforms serving two tracks.",
             "References": "External links \n\n  \n\nTokyu Ikegami Line\nStations of Tokyu Corporation\nRailway stations in Japan opened in 1923\nRailway stations in Tokyo"
           },
-          "全文": "is a railway station on the Tokyu Ikegami Line in Ōta, Tokyo, Japan, operated by the private railway operator Tokyu Corporation.\n\nLines\nOntakesan Station is served by the 10.9 km Tokyu Ikegami Line between  and , and lies 6.4 km from the starting point of the line at Gotanda.\n\nStation layout\nThe station has two ground-level (partly elevated) side platforms serving two tracks.\n\nPlatforms\n\nHistory \nThe station opened on 4 May 1923 as . It was renamed Otakesan on 1 June 1933.\n\nPassenger statistics\nIn fiscal 2011, the station was used by an average of 23,588 passengers daily.\n\nSurrounding area\n Den Enchofu High School\n\nSee also\n List of railway stations in Japan\n\nReferences\n\nExternal links \n\n  \n\nTokyu Ikegami Line\nStations of Tokyu Corporation\nRailway stations in Japan opened in 1923\nRailway stations in Tokyo",
-          "字数": 816
+          "全文": "is a railway station on the Tokyu Ikegami Line in Ōta, Tokyo, Japan, operated by the private railway operator Tokyu Corporation.\n\nHistory\nThe station opened on 4 May 1923 as . It was renamed Otakesan on 1 June 1933.\n\nPassenger statistics\nIn fiscal 2011, the station was used by an average of 23,588 passengers daily.\n\nSurrounding area\n Den Enchofu High School\n\nSee also\n List of railway stations in Japan\n\nOrigin of the station name\n\n\nStation layout\n\n\nUsage\n\n\n東京都立雪谷高等学校\n\n\nオオゼキ御嶽山店\n\n\n池上線\n\n\nRailway stations in 大田区\n\n\nLines\nOntakesan Station is served by the 10.9 km Tokyu Ikegami Line between  and , and lies 6.4 km from the starting point of the line at Gotanda.\n\nStation layout\nThe station has two ground-level (partly elevated) side platforms serving two tracks.\n\nReferences\nExternal links \n\n  \n\nTokyu Ikegami Line\nStations of Tokyu Corporation\nRailway stations in Japan opened in 1923\nRailway stations in Tokyo",
+          "字数": 913
         }
       },
       "结构化信息": {
@@ -544,7 +622,25 @@
           "字数": 835,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Togoshi-Ginza Station",
+          "链接": null,
+          "首段": "Togoshi-Ginza Station (戸越銀座駅) is a Tōkyū Ikegami Line station in Hiratsuka 2-chōme, Shinagawa, Tokyo, Japan. Its station number is IK03.",
+          "章节": {
+            "History": "",
+            "Origin of the station name": "",
+            "Station layout": "",
+            "Usage": "",
+            "Surrounding area": "",
+            "星薬科大学": "",
+            "荏原消防署": "",
+            "Bus routes": "",
+            "池上線": "",
+            "Railway stations in 品川区": ""
+          },
+          "全文": "Togoshi-Ginza Station (戸越銀座駅) is a Tōkyū Ikegami Line station in Hiratsuka 2-chōme, Shinagawa, Tokyo, Japan. Its station number is IK03.\n\nHistory\n\n\nOrigin of the station name\n\n\nStation layout\n\n\nUsage\n\n\nSurrounding area\n\n\n星薬科大学\n\n\n荏原消防署\n\n\nBus routes\n\n\n池上線\n\n\nRailway stations in 品川区\n",
+          "字数": 280
+        }
       },
       "结构化信息": {
         "读音": "とごしぎんざえき",
@@ -635,11 +731,26 @@
           "链接": "https://en.wikipedia.org/wiki/Hatanodai%20Station",
           "首段": "is a station in southeast Tokyo, Japan. It is the only station on the Ōimachi Line with two tracks in each direction, being used for transfer between local and express trains.\n\nStation layout\n\nThe Tokyu Oimachi Line platforms are scheduled to be lengthened to handle seven-car trains on express services during fiscal 2017.",
           "章节": {
+            "Through services": "",
+            "東急電鉄": "",
             "History": "July 6, 1927: Higashi-senzoku Station (東洗足駅) of Meguro-Kamata Electric Railway opened.\nAugust 1927: Hatagaoka Station (旗ヶ岡駅) of Ikegami Electric Railway opened.\nMarch 1951: Higashi-senzoku Station was renamed Hatanodai and rebuilt on the present position on the Oimachi Line.\nMay 1951: Hatagaoka Station merged with Hatanodai Station and rebuilt on the present position on the Ikegami Line.\n\nSurrounding area \nShowa University (Hatanodai Campus) and the university hospital\n\nSee also\n List of railway stations in Japan",
+            "Origin of the station name": "",
+            "Station layout": "",
+            "駅改良工事": "",
+            "1960年代の改良工事計画": "",
+            "改良工事前": "",
+            "Usage": "",
+            "Annual daily average boarding/alighting": "",
+            "Surrounding area": "",
+            "香蘭女学校中等科・高等科": "",
+            "昭和大学病院附属東病院": "",
+            "Express": "",
+            "池上線": "",
+            "Railway stations in 品川区": "",
             "References": "External links  \n\n  \n\nRailway stations in Tokyo\nRailway stations in Japan opened in 1927\nTokyu Oimachi Line\nTokyu Ikegami Line\nStations of Tokyu Corporation"
           },
-          "全文": "is a station in southeast Tokyo, Japan. It is the only station on the Ōimachi Line with two tracks in each direction, being used for transfer between local and express trains.\n\nStation layout\n\nThe Tokyu Oimachi Line platforms are scheduled to be lengthened to handle seven-car trains on express services during fiscal 2017.\n\nHistory\n\nJuly 6, 1927: Higashi-senzoku Station (東洗足駅) of Meguro-Kamata Electric Railway opened.\nAugust 1927: Hatagaoka Station (旗ヶ岡駅) of Ikegami Electric Railway opened.\nMarch 1951: Higashi-senzoku Station was renamed Hatanodai and rebuilt on the present position on the Oimachi Line.\nMay 1951: Hatagaoka Station merged with Hatanodai Station and rebuilt on the present position on the Ikegami Line.\n\nSurrounding area \nShowa University (Hatanodai Campus) and the university hospital\n\nSee also\n List of railway stations in Japan\n\nReferences\n\nExternal links  \n\n  \n\nRailway stations in Tokyo\nRailway stations in Japan opened in 1927\nTokyu Oimachi Line\nTokyu Ikegami Line\nStations of Tokyu Corporation",
-          "字数": 1022
+          "全文": "is a station in southeast Tokyo, Japan. It is the only station on the Ōimachi Line with two tracks in each direction, being used for transfer between local and express trains.\n\nStation layout\n\nThe Tokyu Oimachi Line platforms are scheduled to be lengthened to handle seven-car trains on express services during fiscal 2017.\n\nThrough services\n\n\n東急電鉄\n\n\nHistory\nJuly 6, 1927: Higashi-senzoku Station (東洗足駅) of Meguro-Kamata Electric Railway opened.\nAugust 1927: Hatagaoka Station (旗ヶ岡駅) of Ikegami Electric Railway opened.\nMarch 1951: Higashi-senzoku Station was renamed Hatanodai and rebuilt on the present position on the Oimachi Line.\nMay 1951: Hatagaoka Station merged with Hatanodai Station and rebuilt on the present position on the Ikegami Line.\n\nSurrounding area \nShowa University (Hatanodai Campus) and the university hospital\n\nSee also\n List of railway stations in Japan\n\nOrigin of the station name\n\n\nStation layout\n\n\n駅改良工事\n\n\n1960年代の改良工事計画\n\n\n改良工事前\n\n\nUsage\n\n\nAnnual daily average boarding/alighting\n\n\nSurrounding area\n\n\n香蘭女学校中等科・高等科\n\n\n昭和大学病院附属東病院\n\n\nExpress\n\n\n池上線\n\n\nRailway stations in 品川区\n\n\nReferences\nExternal links  \n\n  \n\nRailway stations in Tokyo\nRailway stations in Japan opened in 1927\nTokyu Oimachi Line\nTokyu Ikegami Line\nStations of Tokyu Corporation",
+          "字数": 1264
         }
       },
       "结构化信息": {
@@ -739,10 +850,21 @@
           "链接": "https://en.wikipedia.org/wiki/Ikegami%20Station",
           "首段": "is a Tokyo Kyuko Electric Railway Ikegami Line station in Ōta, Tokyo. It is close to Ikegami Honmon-ji.\n\nStation layout \n\nTwo ground-level side platforms.\n\nBus service \n bus stop\nTokyu Bus\n<井03> Kamata Sta. - Ikegami Sta. mae - Ikegami Garage - Ōmori Sta. - Ōimachi Sta.\n<井09> Ikegami Sta. - Ikegami Garage - Ōmori Sta. - Ōimachi Sta.\n<蒲15> Kamata Sta. - Ikegami Sta. mae - Ikegami Garage - Ebaracho Sta. Entrance\n<森04> Ikegami Sta. mae - Ōmori Garage - Ōmori Sta. - Omori Garage\n<森05> Senzoku-ike - Ikegami police station - Ikegami Sta. mae - Ikegami Garage - Omori Sta. - Omori Garage\n<森06> Ōmori Sta. - Ikegami Garage - Ikegami Sta. mae - Magome Sta. mae - Omori Sta. (outer loop)\n<森07> Ōmori Sta. - Magome Sta. mae - Ikegami Sta. mae - Ikegami Garage - Ōmori Sta. (inner loop)\n<品94> Kamata Sta. - Ikegami Sta. mae - Ikegami Garage - Ōmori Sta. - Ōimachi Sta. - Shin-Baba Sta. - Shinagawa Sta.",
           "章节": {
-            "History": "October 1922 Opened as a station of Ikegami Electric Railway.\n\nExternal links \n  Ikegami Station  (Tokyu)  \n\nRailway stations in Japan opened in 1922\nTokyu Ikegami Line\nStations of Tokyu Corporation\nRailway stations in Tokyo"
+            "History": "October 1922 Opened as a station of Ikegami Electric Railway.\n\nExternal links \n  Ikegami Station  (Tokyu)  \n\nRailway stations in Japan opened in 1922\nTokyu Ikegami Line\nStations of Tokyu Corporation\nRailway stations in Tokyo",
+            "Origin of the station name": "",
+            "Station layout": "",
+            "Usage": "",
+            "大森第四中学校": "",
+            "Bus routes": "",
+            "Platform 1": "",
+            "Platform 2": "",
+            "Platform 3": "",
+            "Platform 5": "",
+            "池上線": "",
+            "Railway stations in 大田区": ""
           },
-          "全文": "is a Tokyo Kyuko Electric Railway Ikegami Line station in Ōta, Tokyo. It is close to Ikegami Honmon-ji.\n\nStation layout \n\nTwo ground-level side platforms.\n\nBus service \n bus stop\nTokyu Bus\n<井03> Kamata Sta. - Ikegami Sta. mae - Ikegami Garage - Ōmori Sta. - Ōimachi Sta.\n<井09> Ikegami Sta. - Ikegami Garage - Ōmori Sta. - Ōimachi Sta.\n<蒲15> Kamata Sta. - Ikegami Sta. mae - Ikegami Garage - Ebaracho Sta. Entrance\n<森04> Ikegami Sta. mae - Ōmori Garage - Ōmori Sta. - Omori Garage\n<森05> Senzoku-ike - Ikegami police station - Ikegami Sta. mae - Ikegami Garage - Omori Sta. - Omori Garage\n<森06> Ōmori Sta. - Ikegami Garage - Ikegami Sta. mae - Magome Sta. mae - Omori Sta. (outer loop)\n<森07> Ōmori Sta. - Magome Sta. mae - Ikegami Sta. mae - Ikegami Garage - Ōmori Sta. (inner loop)\n<品94> Kamata Sta. - Ikegami Sta. mae - Ikegami Garage - Ōmori Sta. - Ōimachi Sta. - Shin-Baba Sta. - Shinagawa Sta.\n\nHistory \nOctober 1922 Opened as a station of Ikegami Electric Railway.\n\nExternal links \n  Ikegami Station  (Tokyu)  \n\nRailway stations in Japan opened in 1922\nTokyu Ikegami Line\nStations of Tokyu Corporation\nRailway stations in Tokyo",
-          "字数": 1131
+          "全文": "is a Tokyo Kyuko Electric Railway Ikegami Line station in Ōta, Tokyo. It is close to Ikegami Honmon-ji.\n\nStation layout \n\nTwo ground-level side platforms.\n\nBus service \n bus stop\nTokyu Bus\n<井03> Kamata Sta. - Ikegami Sta. mae - Ikegami Garage - Ōmori Sta. - Ōimachi Sta.\n<井09> Ikegami Sta. - Ikegami Garage - Ōmori Sta. - Ōimachi Sta.\n<蒲15> Kamata Sta. - Ikegami Sta. mae - Ikegami Garage - Ebaracho Sta. Entrance\n<森04> Ikegami Sta. mae - Ōmori Garage - Ōmori Sta. - Omori Garage\n<森05> Senzoku-ike - Ikegami police station - Ikegami Sta. mae - Ikegami Garage - Omori Sta. - Omori Garage\n<森06> Ōmori Sta. - Ikegami Garage - Ikegami Sta. mae - Magome Sta. mae - Omori Sta. (outer loop)\n<森07> Ōmori Sta. - Magome Sta. mae - Ikegami Sta. mae - Ikegami Garage - Ōmori Sta. (inner loop)\n<品94> Kamata Sta. - Ikegami Sta. mae - Ikegami Garage - Ōmori Sta. - Ōimachi Sta. - Shin-Baba Sta. - Shinagawa Sta.\n\nHistory\nOctober 1922 Opened as a station of Ikegami Electric Railway.\n\nExternal links \n  Ikegami Station  (Tokyu)  \n\nRailway stations in Japan opened in 1922\nTokyu Ikegami Line\nStations of Tokyu Corporation\nRailway stations in Tokyo\n\nOrigin of the station name\n\n\nStation layout\n\n\nUsage\n\n\n大森第四中学校\n\n\nBus routes\n\n\nPlatform 1\n\n\nPlatform 2\n\n\nPlatform 3\n\n\nPlatform 5\n\n\n池上線\n\n\nRailway stations in 大田区\n",
+          "字数": 1291
         }
       },
       "结构化信息": {
@@ -829,7 +951,26 @@
           "字数": 606,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Senzoku-ike Station",
+          "链接": null,
+          "首段": "Senzoku-ike Station (洗足池駅) is a Tōkyū Ikegami Line station in Higashi-Yukigaya 1-chōme, Ōta, Tokyo, Japan. Its station number is IK07.",
+          "章节": {
+            "Chronology": "",
+            "Station layout": "",
+            "Usage": "",
+            "Surrounding area": "",
+            "東京都立荏原看護専門学校": "",
+            "大田洗足郵便局": "",
+            "東急バス「洗足池」停留所": "",
+            "Origin of the station name": "",
+            "池上線": "",
+            "List of railway stations in Japan": "",
+            "Railway stations in 大田区": ""
+          },
+          "全文": "Senzoku-ike Station (洗足池駅) is a Tōkyū Ikegami Line station in Higashi-Yukigaya 1-chōme, Ōta, Tokyo, Japan. Its station number is IK07.\n\nChronology\n\n\nStation layout\n\n\nUsage\n\n\nSurrounding area\n\n\n東京都立荏原看護専門学校\n\n\n大田洗足郵便局\n\n\n東急バス「洗足池」停留所\n\n\nOrigin of the station name\n\n\n池上線\n\n\nList of railway stations in Japan\n\n\nRailway stations in 大田区\n",
+          "字数": 328
+        }
       },
       "结构化信息": {
         "读音": "せんぞくいけえき",
@@ -908,7 +1049,25 @@
           "字数": 738,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Ishikawa-dai Station",
+          "链接": null,
+          "首段": "Ishikawa-dai Station (石川台駅) is a Tōkyū Ikegami Line station in Higashi-Yukigaya 2-chōme, Ōta, Tokyo, Japan. Its station number is IK08.",
+          "章节": {
+            "History": "",
+            "Origin of the station name": "",
+            "Station layout": "",
+            "Usage": "",
+            "Surrounding area": "",
+            "東京都立荏原病院": "",
+            "大田東雪谷二郵便局": "",
+            "Other": "",
+            "池上線": "",
+            "Railway stations in 大田区": ""
+          },
+          "全文": "Ishikawa-dai Station (石川台駅) is a Tōkyū Ikegami Line station in Higashi-Yukigaya 2-chōme, Ōta, Tokyo, Japan. Its station number is IK08.\n\nHistory\n\n\nOrigin of the station name\n\n\nStation layout\n\n\nUsage\n\n\nSurrounding area\n\n\n東京都立荏原病院\n\n\n大田東雪谷二郵便局\n\n\nOther\n\n\n池上線\n\n\nRailway stations in 大田区\n",
+          "字数": 281
+        }
       },
       "结构化信息": {
         "读音": "いしかわだいえき",
@@ -987,7 +1146,24 @@
           "字数": 622,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Ebara-Nakanobu Station",
+          "链接": null,
+          "首段": "Ebara-Nakanobu Station (荏原中延駅) is a Tōkyū Ikegami Line station in Nakanobu 2-chōme, Shinagawa, Tokyo, Japan. Its station number is IK04.",
+          "章节": {
+            "Chronology": "",
+            "連続立体交差事業": "",
+            "Station layout": "",
+            "Usage": "",
+            "Surrounding area": "",
+            "荏原中延東急ストア": "",
+            "Origin of the station name": "",
+            "池上線": "",
+            "Railway stations in 品川区": ""
+          },
+          "全文": "Ebara-Nakanobu Station (荏原中延駅) is a Tōkyū Ikegami Line station in Nakanobu 2-chōme, Shinagawa, Tokyo, Japan. Its station number is IK04.\n\nChronology\n\n\n連続立体交差事業\n\n\nStation layout\n\n\nUsage\n\n\nSurrounding area\n\n\n荏原中延東急ストア\n\n\nOrigin of the station name\n\n\n池上線\n\n\nRailway stations in 品川区\n",
+          "字数": 277
+        }
       },
       "结构化信息": {
         "读音": "えばらなかのぶえき",
@@ -1107,9 +1283,35 @@
           "词条标题": "Kamata Station",
           "链接": "https://en.wikipedia.org/wiki/Kamata%20Station",
           "首段": "Kamata Station can refer to multiple train stations in Japan:\nKamata Station (Tokyo), an interchange train station located in Ōta in Tokyo, Japan, served by the Keihin-Tōhoku Line, Tōkyū Tamagawa Line, and Tōkyū Ikegami Line\nKeikyū Kamata Station, a railway station located in Ōta in Tokyo, Japan, operated by Keihin Electric Express Railway (Keikyū)\nKamata Station (Ehime), a station in Ehime Prefecture served by the Iyo Railway Gunchū Line",
-          "章节": {},
-          "全文": "Kamata Station can refer to multiple train stations in Japan:\nKamata Station (Tokyo), an interchange train station located in Ōta in Tokyo, Japan, served by the Keihin-Tōhoku Line, Tōkyū Tamagawa Line, and Tōkyū Ikegami Line\nKeikyū Kamata Station, a railway station located in Ōta in Tokyo, Japan, operated by Keihin Electric Express Railway (Keikyū)\nKamata Station (Ehime), a station in Ehime Prefecture served by the Iyo Railway Gunchū Line",
-          "字数": 442
+          "章节": {
+            "Through services": "",
+            "History": "",
+            "Station layout": "",
+            "JR East": "",
+            "Departure melody": "",
+            "東西自由通路": "",
+            "駅北の地下通路": "",
+            "駅改修工事": "",
+            "駅改修構想": "",
+            "東急電鉄": "",
+            "多摩川アートラインプロジェクト": "",
+            "Usage": "",
+            "Annual daily average boarding/alighting": "",
+            "Surrounding area": "",
+            "駅ビル": "",
+            "East exit": "",
+            "West exit": "",
+            "将来計画": "",
+            "Adjacent stations": "",
+            "快速・各駅停車": "",
+            "池上線": "",
+            "東急多摩川線": "",
+            "List of railway stations in Japan": "",
+            "Railway stations in 大田区": "",
+            "Railway stations in 1904年開業": ""
+          },
+          "全文": "Kamata Station can refer to multiple train stations in Japan:\nKamata Station (Tokyo), an interchange train station located in Ōta in Tokyo, Japan, served by the Keihin-Tōhoku Line, Tōkyū Tamagawa Line, and Tōkyū Ikegami Line\nKeikyū Kamata Station, a railway station located in Ōta in Tokyo, Japan, operated by Keihin Electric Express Railway (Keikyū)\nKamata Station (Ehime), a station in Ehime Prefecture served by the Iyo Railway Gunchū Line\n\nThrough services\n\n\nHistory\n\n\nStation layout\n\n\nJR East\n\n\nDeparture melody\n\n\n東西自由通路\n\n\n駅北の地下通路\n\n\n駅改修工事\n\n\n駅改修構想\n\n\n東急電鉄\n\n\n多摩川アートラインプロジェクト\n\n\nUsage\n\n\nAnnual daily average boarding/alighting\n\n\nSurrounding area\n\n\n駅ビル\n\n\nEast exit\n\n\nWest exit\n\n\n将来計画\n\n\nAdjacent stations\n\n\n快速・各駅停車\n\n\n池上線\n\n\n東急多摩川線\n\n\nList of railway stations in Japan\n\n\nRailway stations in 大田区\n\n\nRailway stations in 1904年開業\n",
+          "字数": 820
         }
       },
       "结构化信息": {
@@ -1210,11 +1412,17 @@
           "链接": "https://en.wikipedia.org/wiki/Hasunuma%20Station",
           "首段": "is a Tokyo Kyuko Electric Railway Ikegami Line station located in Ōta, Tokyo.\n\nStation layout\nThe station has two ground-level side platforms.\n\nBus service \nHasunuma Station bus stop\nTokyu Bus\n<品94> Shinagawa Sta. (via Ikegami Sta., Ikegami Garage, Ōmori Sta. and Ōimachi Sta.)\n<井03> Oimachi Sta. (via Ikegami Sta., Ikegami Garage and Omori Sta.)\n<蒲15> Ebaracho Sta. Entrance (via Ikegami Sta., Ikegami Garage and Magome Sta.)\n<蒲12> Den-en-chofu Sta. (via Ikegami police station and Yukigaya)\n<蒲01> Rokugo-Dote\n<品94, 井03, 蒲01, 蒲12, 蒲15> Kamata Sta.",
           "章节": {
+            "Station layout": "",
+            "Usage": "",
+            "Bus routes": "",
+            "Origin of the station name": "",
+            "池上線": "",
+            "Railway stations in 大田区": "",
             "History": "The station was opened by Ikegami Electric Railway in October 1922.",
             "References": "External links   \n  Hasunuma Station  (Tokyu)  \n\nRailway stations in Tokyo\nRailway stations in Japan opened in 1922\nTokyu Ikegami Line\nStations of Tokyu Corporation"
           },
-          "全文": "is a Tokyo Kyuko Electric Railway Ikegami Line station located in Ōta, Tokyo.\n\nStation layout\nThe station has two ground-level side platforms.\n\nBus service \nHasunuma Station bus stop\nTokyu Bus\n<品94> Shinagawa Sta. (via Ikegami Sta., Ikegami Garage, Ōmori Sta. and Ōimachi Sta.)\n<井03> Oimachi Sta. (via Ikegami Sta., Ikegami Garage and Omori Sta.)\n<蒲15> Ebaracho Sta. Entrance (via Ikegami Sta., Ikegami Garage and Magome Sta.)\n<蒲12> Den-en-chofu Sta. (via Ikegami police station and Yukigaya)\n<蒲01> Rokugo-Dote\n<品94, 井03, 蒲01, 蒲12, 蒲15> Kamata Sta.\n\nHistory \nThe station was opened by Ikegami Electric Railway in October 1922.\n\nReferences\n\nExternal links   \n  Hasunuma Station  (Tokyu)  \n\nRailway stations in Tokyo\nRailway stations in Japan opened in 1922\nTokyu Ikegami Line\nStations of Tokyu Corporation",
-          "字数": 804
+          "全文": "is a Tokyo Kyuko Electric Railway Ikegami Line station located in Ōta, Tokyo.\n\nStation layout\nThe station has two ground-level side platforms.\n\nBus service \nHasunuma Station bus stop\nTokyu Bus\n<品94> Shinagawa Sta. (via Ikegami Sta., Ikegami Garage, Ōmori Sta. and Ōimachi Sta.)\n<井03> Oimachi Sta. (via Ikegami Sta., Ikegami Garage and Omori Sta.)\n<蒲15> Ebaracho Sta. Entrance (via Ikegami Sta., Ikegami Garage and Magome Sta.)\n<蒲12> Den-en-chofu Sta. (via Ikegami police station and Yukigaya)\n<蒲01> Rokugo-Dote\n<品94, 井03, 蒲01, 蒲12, 蒲15> Kamata Sta.\n\nStation layout\n\n\nUsage\n\n\nBus routes\n\n\nOrigin of the station name\n\n\n池上線\n\n\nRailway stations in 大田区\n\n\nHistory\nThe station was opened by Ikegami Electric Railway in October 1922.\n\nReferences\nExternal links   \n  Hasunuma Station  (Tokyu)  \n\nRailway stations in Tokyo\nRailway stations in Japan opened in 1922\nTokyu Ikegami Line\nStations of Tokyu Corporation",
+          "字数": 901
         }
       },
       "结构化信息": {
@@ -1344,7 +1552,24 @@
           "字数": 510,
           "来源": "豆包全文翻译（据日文维基全文）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Yukigaya-Ōtsuka Station",
+          "链接": null,
+          "首段": "Yukigaya-Ōtsuka Station (雪が谷大塚駅) is a Tōkyū Ikegami Line station in Minami-Yukigaya 2-chōme, Ōta, Tokyo, Japan. Its station number is IK09, and it adjoins the line's rail yard.",
+          "章节": {
+            "History": "",
+            "Origin of the station name": "",
+            "Station layout": "",
+            "Usage": "",
+            "嶺町特別出張所": "",
+            "東急バス「雪が谷」停留所": "",
+            "池上線": "",
+            "新奥沢線": "",
+            "Railway stations in 大田区": ""
+          },
+          "全文": "Yukigaya-Ōtsuka Station (雪が谷大塚駅) is a Tōkyū Ikegami Line station in Minami-Yukigaya 2-chōme, Ōta, Tokyo, Japan. Its station number is IK09, and it adjoins the line's rail yard.\n\nHistory\n\n\nOrigin of the station name\n\n\nStation layout\n\n\nUsage\n\n\n嶺町特別出張所\n\n\n東急バス「雪が谷」停留所\n\n\n池上線\n\n\n新奥沢線\n\n\nRailway stations in 大田区\n",
+          "字数": 304
+        }
       },
       "结构化信息": {
         "读音": "ゆきがやおおつかえき",
@@ -1385,6 +1610,6 @@
     "有中文词条": 15,
     "已千问汉化": 0,
     "待汉化": 0,
-    "有英文词条": 9
+    "有英文词条": 15
   }
 }

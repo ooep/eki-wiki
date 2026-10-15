@@ -52,7 +52,30 @@
         "字数": 602,
         "来源": "维基百科中文版（已转简体）"
       },
-      "英文": null
+      "英文": {
+        "词条标题": "Sapporo Municipal Subway Tōzai Line",
+        "链接": null,
+        "首段": "The Tōzai Line (東西線) is a rubber-tyred guideway subway of the Sapporo Municipal Subway, running from Miyanosawa Station in Nishi-ku to Shin-Sapporo Station in Atsubetsu-ku, Sapporo, Hokkaido, Japan. Its color is orange and its symbol is T.",
+        "章节": {
+          "Line data": "",
+          "History": "",
+          "Rolling stock": "",
+          "現用車両": "",
+          "過去の車両": "",
+          "東車両基地": "",
+          "西車両基地": "",
+          "Usage": "",
+          "収支": "",
+          "Service patterns": "",
+          "女性と子どもの安心車両": "",
+          "Station list": "",
+          "可動式ホーム柵": "",
+          "Notes": "",
+          "札幌市営地下鉄東豊線": ""
+        },
+        "全文": "The Tōzai Line (東西線) is a rubber-tyred guideway subway of the Sapporo Municipal Subway, running from Miyanosawa Station in Nishi-ku to Shin-Sapporo Station in Atsubetsu-ku, Sapporo, Hokkaido, Japan. Its color is orange and its symbol is T.\n\nLine data\n\n\nHistory\n\n\nRolling stock\n\n\n現用車両\n\n\n過去の車両\n\n\n東車両基地\n\n\n西車両基地\n\n\nUsage\n\n\n収支\n\n\nService patterns\n\n\n女性と子どもの安心車両\n\n\nStation list\n\n\n可動式ホーム柵\n\n\nNotes\n\n\n札幌市営地下鉄東豊線\n",
+        "字数": 400
+      }
     }
   },
   "车站": [
@@ -98,9 +121,20 @@
           "词条标题": "Hibarigaoka Station",
           "链接": "https://en.wikipedia.org/wiki/Hibarigaoka%20Station",
           "首段": "Hibarigaoka Station is the name of two train stations in Japan:\n\n Hibarigaoka Station (Hokkaido) (ひばりが丘駅) in Hokkaido\n Hibarigaoka Station (Tokyo) (ひばりヶ丘駅) in Tokyo",
-          "章节": {},
-          "全文": "Hibarigaoka Station is the name of two train stations in Japan:\n\n Hibarigaoka Station (Hokkaido) (ひばりが丘駅) in Hokkaido\n Hibarigaoka Station (Tokyo) (ひばりヶ丘駅) in Tokyo",
-          "字数": 164
+          "章节": {
+            "History": "",
+            "Station layout": "",
+            "Usage": "",
+            "Surrounding area": "",
+            "馬場公園": "",
+            "Bus routes": "",
+            "Other": "",
+            "東西線": "",
+            "Railway stations in 札幌市": "",
+            "Railway stations in 1982年開業": ""
+          },
+          "全文": "Hibarigaoka Station is the name of two train stations in Japan:\n\n Hibarigaoka Station (Hokkaido) (ひばりが丘駅) in Hokkaido\n Hibarigaoka Station (Tokyo) (ひばりヶ丘駅) in Tokyo\n\nHistory\n\n\nStation layout\n\n\nUsage\n\n\nSurrounding area\n\n\n馬場公園\n\n\nBus routes\n\n\nOther\n\n\n東西線\n\n\nRailway stations in 札幌市\n\n\nRailway stations in 1982年開業\n",
+          "字数": 308
         }
       },
       "结构化信息": {
@@ -184,11 +218,25 @@
           "链接": "https://en.wikipedia.org/wiki/%C5%8Cmae%20Station",
           "首段": "is a passenger railway station in the village of Tsumagoi, Gunma Prefecture, Japan, operated by East Japan Railway Company (JR East). This station is 840.4 meters AMSL.",
           "章节": {
-            "Lines": "Ōmae Station is a terminal station of the Agatsuma Line, and is located 55.3 rail kilometers from the opposing terminus of the line at Shibukawa Station.\n\nStation layout\nThe station consists of a single dead-headed side platform. The station is unattended.",
-            "History": "Ōmae Station was opened on 7 March 1971. The station was absorbed into the JR East network upon the privatization of the Japanese National Railways (JNR) on 1 April 1987.\n\nSurrounding area\n \nAgatsuma River\n\nSee also\n List of railway stations in Japan\n\nExternal links\n\n JR East Station information \n\nRailway stations in Gunma Prefecture\nAgatsuma Line\nStations of East Japan Railway Company\nRailway stations in Japan opened in 1971\nTsumagoi, Gunma"
+            "History": "Ōmae Station was opened on 7 March 1971. The station was absorbed into the JR East network upon the privatization of the Japanese National Railways (JNR) on 1 April 1987.\n\nSurrounding area\n \nAgatsuma River\n\nSee also\n List of railway stations in Japan\n\nExternal links\n\n JR East Station information \n\nRailway stations in Gunma Prefecture\nAgatsuma Line\nStations of East Japan Railway Company\nRailway stations in Japan opened in 1971\nTsumagoi, Gunma",
+            "Station layout": "",
+            "Usage": "",
+            "Surrounding area": "",
+            "500m美術館": "",
+            "大通バスセンター": "",
+            "地下1番のりば": "",
+            "地下2番のりば": "",
+            "北都交通・根室交通": "",
+            "宗谷バス・北都交通": "",
+            "宗谷バス": "",
+            "北海道バス": "",
+            "Other": "",
+            "東西線": "",
+            "Railway stations in 札幌市中央区": "",
+            "Lines": "Ōmae Station is a terminal station of the Agatsuma Line, and is located 55.3 rail kilometers from the opposing terminus of the line at Shibukawa Station.\n\nStation layout\nThe station consists of a single dead-headed side platform. The station is unattended."
           },
-          "全文": "is a passenger railway station in the village of Tsumagoi, Gunma Prefecture, Japan, operated by East Japan Railway Company (JR East). This station is 840.4 meters AMSL.\n\nLines\nŌmae Station is a terminal station of the Agatsuma Line, and is located 55.3 rail kilometers from the opposing terminus of the line at Shibukawa Station.\n\nStation layout\nThe station consists of a single dead-headed side platform. The station is unattended.\n\nHistory\nŌmae Station was opened on 7 March 1971. The station was absorbed into the JR East network upon the privatization of the Japanese National Railways (JNR) on 1 April 1987.\n\nSurrounding area\n \nAgatsuma River\n\nSee also\n List of railway stations in Japan\n\nExternal links\n\n JR East Station information \n\nRailway stations in Gunma Prefecture\nAgatsuma Line\nStations of East Japan Railway Company\nRailway stations in Japan opened in 1971\nTsumagoi, Gunma",
-          "字数": 887
+          "全文": "is a passenger railway station in the village of Tsumagoi, Gunma Prefecture, Japan, operated by East Japan Railway Company (JR East). This station is 840.4 meters AMSL.\n\nHistory\nŌmae Station was opened on 7 March 1971. The station was absorbed into the JR East network upon the privatization of the Japanese National Railways (JNR) on 1 April 1987.\n\nSurrounding area\n \nAgatsuma River\n\nSee also\n List of railway stations in Japan\n\nExternal links\n\n JR East Station information \n\nRailway stations in Gunma Prefecture\nAgatsuma Line\nStations of East Japan Railway Company\nRailway stations in Japan opened in 1971\nTsumagoi, Gunma\n\nStation layout\n\n\nUsage\n\n\nSurrounding area\n\n\n500m美術館\n\n\n大通バスセンター\n\n\n地下1番のりば\n\n\n地下2番のりば\n\n\n北都交通・根室交通\n\n\n宗谷バス・北都交通\n\n\n宗谷バス\n\n\n北海道バス\n\n\nOther\n\n\n東西線\n\n\nRailway stations in 札幌市中央区\n\n\nLines\nŌmae Station is a terminal station of the Agatsuma Line, and is located 55.3 rail kilometers from the opposing terminus of the line at Shibukawa Station.\n\nStation layout\nThe station consists of a single dead-headed side platform. The station is unattended.",
+          "字数": 1054
         }
       },
       "结构化信息": {
@@ -268,7 +316,27 @@
           "字数": 233,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Nijūyon-Ken Station",
+          "链接": null,
+          "首段": "Nijūyon-Ken Station (二十四軒駅) is a Sapporo Municipal Subway Tōzai Line station in Nijūyon-Ken, Nishi-ku, Sapporo, Japan. Its station number is T04.",
+          "章节": {
+            "History": "",
+            "Origin of the station name": "",
+            "Station layout": "",
+            "Usage": "",
+            "Surrounding area": "",
+            "Bus routes": "",
+            "二十四軒バス発着場": "",
+            "北都交通": "",
+            "Other": "",
+            "東西線": "",
+            "Railway stations in 札幌市": "",
+            "Railway stations in 1976年開業": ""
+          },
+          "全文": "Nijūyon-Ken Station (二十四軒駅) is a Sapporo Municipal Subway Tōzai Line station in Nijūyon-Ken, Nishi-ku, Sapporo, Japan. Its station number is T04.\n\nHistory\n\n\nOrigin of the station name\n\n\nStation layout\n\n\nUsage\n\n\nSurrounding area\n\n\nBus routes\n\n\n二十四軒バス発着場\n\n\n北都交通\n\n\nOther\n\n\n東西線\n\n\nRailway stations in 札幌市\n\n\nRailway stations in 1976年開業\n",
+          "字数": 330
+        }
       },
       "结构化信息": {
         "读音": "にじゅうよんけんえき",
@@ -344,7 +412,29 @@
           "全文": "札幌市营地铁东西线车站。\n\n概要\n札幌市营地铁东西线沿线车站。\n\n历史\n札幌市营地铁东西线沿线车站。",
           "字数": 50
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Maruyama-Kōen Station",
+          "链接": null,
+          "首段": "Maruyama-Kōen Station (円山公園駅) is a Sapporo Municipal Subway Tōzai Line station in Minami-1-jō Nishi-25-chōme, Chūō-ku, Sapporo, Japan. Its station number is T06.",
+          "章节": {
+            "History": "",
+            "Origin of the station name": "",
+            "Station layout": "",
+            "Usage": "",
+            "Surrounding area": "",
+            "北海道銀行鳥居前支店": "",
+            "Bus routes": "",
+            "Platform 1": "",
+            "Platform 2": "",
+            "Platform 4": "",
+            "Platform 5": "",
+            "Other": "",
+            "東西線": "",
+            "Railway stations in 札幌市中央区": ""
+          },
+          "全文": "Maruyama-Kōen Station (円山公園駅) is a Sapporo Municipal Subway Tōzai Line station in Minami-1-jō Nishi-25-chōme, Chūō-ku, Sapporo, Japan. Its station number is T06.\n\nHistory\n\n\nOrigin of the station name\n\n\nStation layout\n\n\nUsage\n\n\nSurrounding area\n\n\n北海道銀行鳥居前支店\n\n\nBus routes\n\n\nPlatform 1\n\n\nPlatform 2\n\n\nPlatform 4\n\n\nPlatform 5\n\n\nOther\n\n\n東西線\n\n\nRailway stations in 札幌市中央区\n",
+          "字数": 365
+        }
       },
       "结构化信息": {
         "读音": "まるやまこうえんえき",
@@ -418,7 +508,25 @@
           "字数": 256,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Nangō-Jūsan-Chōme Station",
+          "链接": null,
+          "首段": "Nangō-Jūsan-Chōme Station (南郷13丁目駅) is a Sapporo Municipal Subway Tōzai Line station in Nangō-dōri 13-chōme, Shiroishi-ku, Sapporo, Japan. Its station number is T15.",
+          "章节": {
+            "History": "",
+            "Origin of the station name": "",
+            "Station layout": "",
+            "Usage": "",
+            "Surrounding area": "",
+            "白石南郷郵便局": "",
+            "白石神社": "",
+            "Bus routes": "",
+            "Other": "",
+            "東西線": ""
+          },
+          "全文": "Nangō-Jūsan-Chōme Station (南郷13丁目駅) is a Sapporo Municipal Subway Tōzai Line station in Nangō-dōri 13-chōme, Shiroishi-ku, Sapporo, Japan. Its station number is T15.\n\nHistory\n\n\nOrigin of the station name\n\n\nStation layout\n\n\nUsage\n\n\nSurrounding area\n\n\n白石南郷郵便局\n\n\n白石神社\n\n\nBus routes\n\n\nOther\n\n\n東西線\n",
+          "字数": 292
+        }
       },
       "结构化信息": {
         "读音": "なんごうじゅうさんちょうめえき",
@@ -501,7 +609,31 @@
           "字数": 279,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Nangō-Jūhachi-Chōme Station",
+          "链接": null,
+          "首段": "Nangō-Jūhachi-Chōme Station (南郷18丁目駅) is a Sapporo Municipal Subway Tōzai Line station in Nangō-dōri 18-chōme, Shiroishi-ku, Sapporo, Japan. Its station number is T16.",
+          "章节": {
+            "History": "",
+            "Origin of the station name": "",
+            "Station layout": "",
+            "Usage": "",
+            "Surrounding area": "",
+            "スイートデコレーションなんごう店": "",
+            "道営白樺団地": "",
+            "Bus routes": "",
+            "平岡営業所": "",
+            "西岡営業所": "",
+            "札幌北営業所・道南バス": "",
+            "道南バス": "",
+            "北都交通": "",
+            "北海道中央バス": "",
+            "Other": "",
+            "東西線": ""
+          },
+          "全文": "Nangō-Jūhachi-Chōme Station (南郷18丁目駅) is a Sapporo Municipal Subway Tōzai Line station in Nangō-dōri 18-chōme, Shiroishi-ku, Sapporo, Japan. Its station number is T16.\n\nHistory\n\n\nOrigin of the station name\n\n\nStation layout\n\n\nUsage\n\n\nSurrounding area\n\n\nスイートデコレーションなんごう店\n\n\n道営白樺団地\n\n\nBus routes\n\n\n平岡営業所\n\n\n西岡営業所\n\n\n札幌北営業所・道南バス\n\n\n道南バス\n\n\n北都交通\n\n\n北海道中央バス\n\n\nOther\n\n\n東西線\n",
+          "字数": 359
+        }
       },
       "结构化信息": {
         "读音": "なんごうじゅうはっちょうめえき",
@@ -576,7 +708,27 @@
           "字数": 279,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Nangō-Nana-Chōme Station",
+          "链接": null,
+          "首段": "Nangō-Nana-Chōme Station (南郷7丁目駅) is a Sapporo Municipal Subway Tōzai Line station in Nangō-dōri 7-chōme-minami, Shiroishi-ku, Sapporo, Japan. Its station number is T14.",
+          "章节": {
+            "History": "",
+            "Station layout": "",
+            "可動式ホーム柵の先行設置": "",
+            "Usage": "",
+            "JiJiなんごう店": "",
+            "札幌市白石区体育館": "",
+            "札幌市立白石中学校": "",
+            "Bus routes": "",
+            "Platform 1": "",
+            "Platform 2": "",
+            "Other": "",
+            "東西線": ""
+          },
+          "全文": "Nangō-Nana-Chōme Station (南郷7丁目駅) is a Sapporo Municipal Subway Tōzai Line station in Nangō-dōri 7-chōme-minami, Shiroishi-ku, Sapporo, Japan. Its station number is T14.\n\nHistory\n\n\nStation layout\n\n\n可動式ホーム柵の先行設置\n\n\nUsage\n\n\nJiJiなんごう店\n\n\n札幌市白石区体育館\n\n\n札幌市立白石中学校\n\n\nBus routes\n\n\nPlatform 1\n\n\nPlatform 2\n\n\nOther\n\n\n東西線\n",
+          "字数": 308
+        }
       },
       "结构化信息": {
         "读音": "なんごうななちょうめえき",
@@ -659,9 +811,20 @@
           "词条标题": "Ōyachi Station",
           "链接": "https://en.wikipedia.org/wiki/%C5%8Cyachi%20Station",
           "首段": "Ōyachi Station may refer to:\n\n Ōyachi Station (Hokkaido), a train station in Hokkaido, Japan\n Ōyachi Station (Mie), a train station in Mie Prefecture, Japan",
-          "章节": {},
-          "全文": "Ōyachi Station may refer to:\n\n Ōyachi Station (Hokkaido), a train station in Hokkaido, Japan\n Ōyachi Station (Mie), a train station in Mie Prefecture, Japan",
-          "字数": 156
+          "章节": {
+            "History": "",
+            "Station layout": "",
+            "Usage": "",
+            "Surrounding area": "",
+            "北海道銀行大谷地支店": "",
+            "Bus routes": "",
+            "Other": "",
+            "東西線": "",
+            "札幌市営地下鉄駅構内図": "",
+            "Railway stations in 1982年開業": ""
+          },
+          "全文": "Ōyachi Station may refer to:\n\n Ōyachi Station (Hokkaido), a train station in Hokkaido, Japan\n Ōyachi Station (Mie), a train station in Mie Prefecture, Japan\n\nHistory\n\n\nStation layout\n\n\nUsage\n\n\nSurrounding area\n\n\n北海道銀行大谷地支店\n\n\nBus routes\n\n\nOther\n\n\n東西線\n\n\n札幌市営地下鉄駅構内図\n\n\nRailway stations in 1982年開業\n",
+          "字数": 294
         }
       },
       "结构化信息": {
@@ -749,13 +912,34 @@
           "链接": "https://en.wikipedia.org/wiki/%C5%8Cd%C5%8Dri%20Station",
           "首段": "is a subway station in Chūō-ku, Sapporo, Hokkaido, Japan, operated by Sapporo Municipal Subway. The station opened on 16 December 1971 as part of the first phase of the Namboku Line.",
           "章节": {
+            "History": "",
+            "Station layout": "",
+            "Usage": "",
+            "Surrounding area": "",
+            "駅構内の施設": "",
+            "公共施設・官公庁": "",
+            "南館": "",
+            "札幌パルコ": "",
+            "ル・トロワ": "",
+            "狸小路商店街": "",
+            "アパホテル札幌": "",
+            "都心ビル": "",
+            "Other": "",
+            "主な道路": "",
+            "さっぽろ地下街": "",
+            "札幌市電": "",
+            "Bus routes": "",
+            "南北線": "",
+            "東西線": "",
+            "東豊線": "",
+            "Railway stations in 札幌市中央区": "",
             "Lines": "Odori Station is served by all lines of the Sapporo Municipal Subway.",
             "Platforms": "Station layout\n\nNamboku Line\n\nTōzai Line\n\nTōhō Line\n\nSurrounding area\n Ōdōri Park\n 4th Ave (Sapporoeki-mae Avenue)",
             "Mitsukoshi": "Central business district\n Sapporo Citizens Hall\n Doshin Hall\n NHK Sapporo\n Sapporo TV Tower\n Sapporo Clock Tower\n Former Hokkaidō government office building\n Sapporo streetcar Nishi 4-Chome Station\n Hokkaido Police Headquarters\n Hokkaido University Botanical Gardens\n Tanukikoji shopping arcade\n Theater Kino\n Nijo fish market\n Hokkaido Chuo Bus Sapporo Terminal\n Odori bus Center Building\n Sapporo Grand Hotel\n\nSee also\n List of railway stations in Japan",
             "References": "External links\n\n Sapporo Subway Stations\n\nRailway stations in Japan opened in 1971\nRailway stations in Sapporo\nSapporo Municipal Subway\nChūō-ku, Sapporo"
           },
-          "全文": "is a subway station in Chūō-ku, Sapporo, Hokkaido, Japan, operated by Sapporo Municipal Subway. The station opened on 16 December 1971 as part of the first phase of the Namboku Line.\n\nLines\nOdori Station is served by all lines of the Sapporo Municipal Subway.\n\nPlatforms\n\nStation layout\n\nNamboku Line\n\nTōzai Line\n\nTōhō Line\n\nSurrounding area\n Ōdōri Park\n 4th Ave (Sapporoeki-mae Avenue)\n Mitsukoshi\n Central business district\n Sapporo Citizens Hall\n Doshin Hall\n NHK Sapporo\n Sapporo TV Tower\n Sapporo Clock Tower\n Former Hokkaidō government office building\n Sapporo streetcar Nishi 4-Chome Station\n Hokkaido Police Headquarters\n Hokkaido University Botanical Gardens\n Tanukikoji shopping arcade\n Theater Kino\n Nijo fish market\n Hokkaido Chuo Bus Sapporo Terminal\n Odori bus Center Building\n Sapporo Grand Hotel\n\nSee also\n List of railway stations in Japan\n\nReferences\n\nExternal links\n\n Sapporo Subway Stations\n\nRailway stations in Japan opened in 1971\nRailway stations in Sapporo\nSapporo Municipal Subway\nChūō-ku, Sapporo",
-          "字数": 1022
+          "全文": "is a subway station in Chūō-ku, Sapporo, Hokkaido, Japan, operated by Sapporo Municipal Subway. The station opened on 16 December 1971 as part of the first phase of the Namboku Line.\n\nHistory\n\n\nStation layout\n\n\nUsage\n\n\nSurrounding area\n\n\n駅構内の施設\n\n\n公共施設・官公庁\n\n\n南館\n\n\n札幌パルコ\n\n\nル・トロワ\n\n\n狸小路商店街\n\n\nアパホテル札幌\n\n\n都心ビル\n\n\nOther\n\n\n主な道路\n\n\nさっぽろ地下街\n\n\n札幌市電\n\n\nBus routes\n\n\n南北線\n\n\n東西線\n\n\n東豊線\n\n\nRailway stations in 札幌市中央区\n\n\nLines\nOdori Station is served by all lines of the Sapporo Municipal Subway.\n\nPlatforms\nStation layout\n\nNamboku Line\n\nTōzai Line\n\nTōhō Line\n\nSurrounding area\n Ōdōri Park\n 4th Ave (Sapporoeki-mae Avenue)\n\nMitsukoshi\nCentral business district\n Sapporo Citizens Hall\n Doshin Hall\n NHK Sapporo\n Sapporo TV Tower\n Sapporo Clock Tower\n Former Hokkaidō government office building\n Sapporo streetcar Nishi 4-Chome Station\n Hokkaido Police Headquarters\n Hokkaido University Botanical Gardens\n Tanukikoji shopping arcade\n Theater Kino\n Nijo fish market\n Hokkaido Chuo Bus Sapporo Terminal\n Odori bus Center Building\n Sapporo Grand Hotel\n\nSee also\n List of railway stations in Japan\n\nReferences\nExternal links\n\n Sapporo Subway Stations\n\nRailway stations in Japan opened in 1971\nRailway stations in Sapporo\nSapporo Municipal Subway\nChūō-ku, Sapporo",
+          "字数": 1232
         }
       },
       "结构化信息": {
@@ -845,11 +1029,22 @@
           "链接": "https://en.wikipedia.org/wiki/Miyanosawa%20Station",
           "首段": "Miyanosawa Station (宮の沢駅) is a metro station in Nishi-ku, Sapporo, Hokkaido, Japan. The station number is T01.\n\nThe Station is the northern terminus of the Tōzai Line.",
           "章节": {
+            "History": "",
+            "Station layout": "",
+            "Usage": "",
+            "Surrounding area": "",
+            "札樽自動車道札幌西インターチェンジ": "",
+            "勤医協札幌西区病院": "",
+            "Bus routes": "",
+            "Other": "",
+            "東西線": "",
+            "Railway stations in 札幌市": "",
+            "Railway stations in 1999年開業": "",
             "Platforms": "Surrounding area\nIshiya Chocolate Factory, Shiroi Koibito Park (via underground link near Exit 5)\nShiroi Koibito Football Stadium\nConsadole Sapporo Store & Museum\nMiyanooka Park\nJapan National Route 5 (to Hakodate)\nPost Office Miyanosawa\nSeiyu Store, Miyanosawa\nHokkaido Bank, Miyanosawa\nNorth Pacific Bank, Miyanosawa",
             "Gallery": "External links\n\n Sapporo Subway Stations)\n\n \n\nRailway stations in Japan opened in 1999\nRailway stations in Sapporo\nSapporo Municipal Subway"
           },
-          "全文": "Miyanosawa Station (宮の沢駅) is a metro station in Nishi-ku, Sapporo, Hokkaido, Japan. The station number is T01.\n\nThe Station is the northern terminus of the Tōzai Line.\n\nPlatforms\n\nSurrounding area\nIshiya Chocolate Factory, Shiroi Koibito Park (via underground link near Exit 5)\nShiroi Koibito Football Stadium\nConsadole Sapporo Store & Museum\nMiyanooka Park\nJapan National Route 5 (to Hakodate)\nPost Office Miyanosawa\nSeiyu Store, Miyanosawa\nHokkaido Bank, Miyanosawa\nNorth Pacific Bank, Miyanosawa\n\nGallery\n\nExternal links\n\n Sapporo Subway Stations)\n\n \n\nRailway stations in Japan opened in 1999\nRailway stations in Sapporo\nSapporo Municipal Subway",
-          "字数": 648
+          "全文": "Miyanosawa Station (宮の沢駅) is a metro station in Nishi-ku, Sapporo, Hokkaido, Japan. The station number is T01.\n\nThe Station is the northern terminus of the Tōzai Line.\n\nHistory\n\n\nStation layout\n\n\nUsage\n\n\nSurrounding area\n\n\n札樽自動車道札幌西インターチェンジ\n\n\n勤医協札幌西区病院\n\n\nBus routes\n\n\nOther\n\n\n東西線\n\n\nRailway stations in 札幌市\n\n\nRailway stations in 1999年開業\n\n\nPlatforms\nSurrounding area\nIshiya Chocolate Factory, Shiroi Koibito Park (via underground link near Exit 5)\nShiroi Koibito Football Stadium\nConsadole Sapporo Store & Museum\nMiyanooka Park\nJapan National Route 5 (to Hakodate)\nPost Office Miyanosawa\nSeiyu Store, Miyanosawa\nHokkaido Bank, Miyanosawa\nNorth Pacific Bank, Miyanosawa\n\nGallery\nExternal links\n\n Sapporo Subway Stations)\n\n \n\nRailway stations in Japan opened in 1999\nRailway stations in Sapporo\nSapporo Municipal Subway",
+          "字数": 815
         }
       },
       "结构化信息": {
@@ -924,7 +1119,22 @@
           "全文": "札幌市营地铁东西线车站。\n\n概要\n札幌市营地铁东西线沿线车站。\n\n历史\n札幌市营地铁东西线沿线车站。",
           "字数": 50
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Shin-Sapporo Station",
+          "链接": null,
+          "首段": "Shin-Sapporo Station (新さっぽろ駅) is a Sapporo Municipal Subway Tōzai Line station in Atsubetsu-Chūō 2-jō 5-chōme, Atsubetsu-ku, Sapporo, Japan. Its station number is T19, and it is the easternmost subway station in Japan.",
+          "章节": {
+            "Overview": "",
+            "History": "",
+            "Station layout": "",
+            "Usage": "",
+            "Surrounding area": "",
+            "東西線": "",
+            "Railway stations in 札幌市": ""
+          },
+          "全文": "Shin-Sapporo Station (新さっぽろ駅) is a Sapporo Municipal Subway Tōzai Line station in Atsubetsu-Chūō 2-jō 5-chōme, Atsubetsu-ku, Sapporo, Japan. Its station number is T19, and it is the easternmost subway station in Japan.\n\nOverview\n\n\nHistory\n\n\nStation layout\n\n\nUsage\n\n\nSurrounding area\n\n\n東西線\n\n\nRailway stations in 札幌市\n",
+          "字数": 315
+        }
       },
       "结构化信息": {
         "读音": "しんさっぽろえき",
@@ -1004,7 +1214,25 @@
           "字数": 287,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Higashi-Sapporo Station",
+          "链接": null,
+          "首段": "Higashi-Sapporo Station (東札幌駅) is a Sapporo Municipal Subway Tōzai Line station in Higashi-Sapporo 2-jō 2-chōme, Shiroishi-ku, Sapporo, Japan. Its station number is T12.",
+          "章节": {
+            "History": "",
+            "Station layout": "",
+            "Usage": "",
+            "Surrounding area": "",
+            "イオン東札幌店": "",
+            "札幌コンベンションセンター": "",
+            "東進衛星予備校東札幌校": "",
+            "Other": "",
+            "東西線": "",
+            "札幌市営地下鉄駅構内図": ""
+          },
+          "全文": "Higashi-Sapporo Station (東札幌駅) is a Sapporo Municipal Subway Tōzai Line station in Higashi-Sapporo 2-jō 2-chōme, Shiroishi-ku, Sapporo, Japan. Its station number is T12.\n\nHistory\n\n\nStation layout\n\n\nUsage\n\n\nSurrounding area\n\n\nイオン東札幌店\n\n\n札幌コンベンションセンター\n\n\n東進衛星予備校東札幌校\n\n\nOther\n\n\n東西線\n\n\n札幌市営地下鉄駅構内図\n",
+          "字数": 291
+        }
       },
       "结构化信息": {
         "读音": "ひがしさっぽろえき",
@@ -1131,7 +1359,31 @@
           "字数": 308,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Hassamu-Minami Station",
+          "链接": null,
+          "首段": "Hassamu-Minami Station (発寒南駅) is a Sapporo Municipal Subway Tōzai Line station in Nishimachi-Kita 7-chōme, Nishi-ku, Sapporo, Japan. Its station number is T02.",
+          "章节": {
+            "History": "",
+            "Station layout": "",
+            "Usage": "",
+            "新琴似通": "",
+            "札幌市立発寒中学校": "",
+            "Bus routes": "",
+            "Platform 1": "",
+            "Platform 2": "",
+            "Platform 3": "",
+            "北海道中央バス新川営業所": "",
+            "北海道中央バス札幌北営業所": "",
+            "札幌ばんけい": "",
+            "Other": "",
+            "東西線": "",
+            "札幌市営地下鉄駅構内図": "",
+            "Railway stations in 1999年開業": ""
+          },
+          "全文": "Hassamu-Minami Station (発寒南駅) is a Sapporo Municipal Subway Tōzai Line station in Nishimachi-Kita 7-chōme, Nishi-ku, Sapporo, Japan. Its station number is T02.\n\nHistory\n\n\nStation layout\n\n\nUsage\n\n\n新琴似通\n\n\n札幌市立発寒中学校\n\n\nBus routes\n\n\nPlatform 1\n\n\nPlatform 2\n\n\nPlatform 3\n\n\n北海道中央バス新川営業所\n\n\n北海道中央バス札幌北営業所\n\n\n札幌ばんけい\n\n\nOther\n\n\n東西線\n\n\n札幌市営地下鉄駅構内図\n\n\nRailway stations in 1999年開業\n",
+          "字数": 363
+        }
       },
       "结构化信息": {
         "读音": "はっさむみなみえき",
@@ -1269,11 +1521,19 @@
           "链接": "https://en.wikipedia.org/wiki/Kikusui%20Station",
           "首段": "Kikusui Station (菊水駅) is a Sapporo Municipal Subway station in Shiroishi-ku, Sapporo, Hokkaido, Japan. The station number is T11.",
           "章节": {
+            "History": "",
+            "Station layout": "",
+            "Usage": "",
+            "Surrounding area": "",
+            "Bus routes": "",
+            "Other": "",
+            "東西線": "",
+            "札幌市営地下鉄駅構内図": "",
             "Platforms": "Surrounding area\n Japan National Route 36\n Sapporo City Hall Building\n National Hospital Organization Hokkaido Cancer Center\n Sapporo Kin'ikyo Hospital\n Hokkaido Computer School HCS, (college)\n Shiraishi Police Department\n Sapporo Kikusui Sanjo Post Office\n ARCS super store, Kikusui\n Maxvalu supermarket, Kikusui",
             "Gallery": "External links\n\n Sapporo Subway Stations\n\n \n\nRailway stations in Japan opened in 1976\nRailway stations in Sapporo\nSapporo Municipal Subway"
           },
-          "全文": "Kikusui Station (菊水駅) is a Sapporo Municipal Subway station in Shiroishi-ku, Sapporo, Hokkaido, Japan. The station number is T11.\n\nPlatforms\n\nSurrounding area\n Japan National Route 36\n Sapporo City Hall Building\n National Hospital Organization Hokkaido Cancer Center\n Sapporo Kin'ikyo Hospital\n Hokkaido Computer School HCS, (college)\n Shiraishi Police Department\n Sapporo Kikusui Sanjo Post Office\n ARCS super store, Kikusui\n Maxvalu supermarket, Kikusui\n\nGallery\n\nExternal links\n\n Sapporo Subway Stations\n\n \n\nRailway stations in Japan opened in 1976\nRailway stations in Sapporo\nSapporo Municipal Subway",
-          "字数": 604
+          "全文": "Kikusui Station (菊水駅) is a Sapporo Municipal Subway station in Shiroishi-ku, Sapporo, Hokkaido, Japan. The station number is T11.\n\nHistory\n\n\nStation layout\n\n\nUsage\n\n\nSurrounding area\n\n\nBus routes\n\n\nOther\n\n\n東西線\n\n\n札幌市営地下鉄駅構内図\n\n\nPlatforms\nSurrounding area\n Japan National Route 36\n Sapporo City Hall Building\n National Hospital Organization Hokkaido Cancer Center\n Sapporo Kin'ikyo Hospital\n Hokkaido Computer School HCS, (college)\n Shiraishi Police Department\n Sapporo Kikusui Sanjo Post Office\n ARCS super store, Kikusui\n Maxvalu supermarket, Kikusui\n\nGallery\nExternal links\n\n Sapporo Subway Stations\n\n \n\nRailway stations in Japan opened in 1976\nRailway stations in Sapporo\nSapporo Municipal Subway",
+          "字数": 697
         }
       },
       "结构化信息": {
@@ -1350,7 +1610,26 @@
           "字数": 373,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Nishi-Jūitchōme Station",
+          "链接": null,
+          "首段": "Nishi-Jūitchōme Station (西11丁目駅) is a Sapporo Municipal Subway Tōzai Line station in Ōdōri-Nishi 11-chōme, Chūō-ku, Sapporo, Japan, beneath Odori Park. Its station number is T08.",
+          "章节": {
+            "History": "",
+            "Station layout": "",
+            "Usage": "",
+            "Surrounding area": "",
+            "札幌市資料館": "",
+            "札幌方面中央警察署御幸交番": "",
+            "ロイトン札幌": "",
+            "札幌市教育文化会館": "",
+            "Bus routes": "",
+            "Other": "",
+            "東西線": ""
+          },
+          "全文": "Nishi-Jūitchōme Station (西11丁目駅) is a Sapporo Municipal Subway Tōzai Line station in Ōdōri-Nishi 11-chōme, Chūō-ku, Sapporo, Japan, beneath Odori Park. Its station number is T08.\n\nHistory\n\n\nStation layout\n\n\nUsage\n\n\nSurrounding area\n\n\n札幌市資料館\n\n\n札幌方面中央警察署御幸交番\n\n\nロイトン札幌\n\n\n札幌市教育文化会館\n\n\nBus routes\n\n\nOther\n\n\n東西線\n",
+          "字数": 305
+        }
       },
       "结构化信息": {
         "读音": "にしじゅういっちょうめえき",
@@ -1423,7 +1702,23 @@
           "字数": 287,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Nishi-Jūhatchōme Station",
+          "链接": null,
+          "首段": "Nishi-Jūhatchōme Station (西18丁目駅) is a Sapporo Municipal Subway Tōzai Line station in Ōdōri-Nishi 18-chōme, Chūō-ku, Sapporo, Japan. Its station number is T07.",
+          "章节": {
+            "History": "",
+            "Station layout": "",
+            "Usage": "",
+            "Surrounding area": "",
+            "中村記念病院": "",
+            "札幌市電一条線、山鼻西線　西15丁目停留所": "",
+            "Other": "",
+            "東西線": ""
+          },
+          "全文": "Nishi-Jūhatchōme Station (西18丁目駅) is a Sapporo Municipal Subway Tōzai Line station in Ōdōri-Nishi 18-chōme, Chūō-ku, Sapporo, Japan. Its station number is T07.\n\nHistory\n\n\nStation layout\n\n\nUsage\n\n\nSurrounding area\n\n\n中村記念病院\n\n\n札幌市電一条線、山鼻西線　西15丁目停留所\n\n\nOther\n\n\n東西線\n",
+          "字数": 260
+        }
       },
       "结构化信息": {
         "读音": "にしじゅうはっちょうめえき",
@@ -1500,7 +1795,24 @@
           "字数": 229,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Nishi-Nijūhatchōme Station",
+          "链接": null,
+          "首段": "Nishi-Nijūhatchōme Station (西28丁目駅) is a Sapporo Municipal Subway Tōzai Line station in Kita-4-jō Nishi 28-chōme, Chūō-ku, Sapporo, Japan. Its station number is T05.",
+          "章节": {
+            "History": "",
+            "Station layout": "",
+            "Usage": "",
+            "Bus routes": "",
+            "Platform 1": "",
+            "Platform 2": "",
+            "Platform 3": "",
+            "Other": "",
+            "東西線": ""
+          },
+          "全文": "Nishi-Nijūhatchōme Station (西28丁目駅) is a Sapporo Municipal Subway Tōzai Line station in Kita-4-jō Nishi 28-chōme, Chūō-ku, Sapporo, Japan. Its station number is T05.\n\nHistory\n\n\nStation layout\n\n\nUsage\n\n\nBus routes\n\n\nPlatform 1\n\n\nPlatform 2\n\n\nPlatform 3\n\n\nOther\n\n\n東西線\n",
+          "字数": 266
+        }
       },
       "结构化信息": {
         "读音": "にしにじゅうはっちょうめえき",
@@ -1539,6 +1851,6 @@
     "有中文词条": 19,
     "已千问汉化": 0,
     "待汉化": 0,
-    "有英文词条": 8
+    "有英文词条": 19
   }
 }

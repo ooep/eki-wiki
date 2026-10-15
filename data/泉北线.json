@@ -26,7 +26,16 @@
       "中文": {
         "来源": "⚠️ 暂未汉化"
       },
-      "英文": null
+      "英文": {
+        "词条标题": "Osaka Senboku Line (abandoned expressway plan)",
+        "链接": null,
+        "首段": "The Hanshin Expressway Osaka Senboku Line (阪神高速道路大阪泉北線) was a planned north-south expressway through Osaka that was officially abandoned in 2003; no highway was completed, and the route was instead converted into a green boulevard.",
+        "章节": {
+          "計画されていた出入口など": ""
+        },
+        "全文": "The Hanshin Expressway Osaka Senboku Line (阪神高速道路大阪泉北線) was a planned north-south expressway through Osaka that was officially abandoned in 2003; no highway was completed, and the route was instead converted into a green boulevard.\n\n計画されていた出入口など\n",
+        "字数": 246
+      }
     }
   },
   "车站": [
@@ -100,9 +109,30 @@
           "词条标题": "Mikunigaoka Station",
           "链接": "https://en.wikipedia.org/wiki/Mikunigaoka%20Station",
           "首段": "Mikunigaoka Station may refer to:\n Mikunigaoka Station (Osaka) (三国ヶ丘駅), a train station in Sakai, Osaka, Japan\n Mikunigaoka Station (Fukuoka) (三国が丘駅), a train station in Ogōri, Fukuoka, Japan",
-          "章节": {},
-          "全文": "Mikunigaoka Station may refer to:\n Mikunigaoka Station (Osaka) (三国ヶ丘駅), a train station in Sakai, Osaka, Japan\n Mikunigaoka Station (Fukuoka) (三国が丘駅), a train station in Ogōri, Fukuoka, Japan",
-          "字数": 191
+          "章节": {
+            "Overview": "",
+            "History": "",
+            "南海三国ヶ丘駅": "",
+            "JR三国ケ丘駅": "",
+            "Usage": "",
+            "Surrounding area": "",
+            "N.KLASS三国ヶ丘": "",
+            "成城石井": "",
+            "ドトールコーヒーショップ": "",
+            "東出口": "",
+            "堺向陵中町郵便局": "",
+            "三国ヶ丘FUZZ": "",
+            "西出口": "",
+            "コーナン三国ヶ丘ショッピングセンター": "",
+            "Bus routes": "",
+            "Adjacent stations": "",
+            "準急・各停": "",
+            "関空快速・紀州路快速・快速・直通快速・区間快速": "",
+            "Local": "",
+            "Railway stations in 堺区": ""
+          },
+          "全文": "Mikunigaoka Station may refer to:\n Mikunigaoka Station (Osaka) (三国ヶ丘駅), a train station in Sakai, Osaka, Japan\n Mikunigaoka Station (Fukuoka) (三国が丘駅), a train station in Ogōri, Fukuoka, Japan\n\nOverview\n\n\nHistory\n\n\n南海三国ヶ丘駅\n\n\nJR三国ケ丘駅\n\n\nUsage\n\n\nSurrounding area\n\n\nN.KLASS三国ヶ丘\n\n\n成城石井\n\n\nドトールコーヒーショップ\n\n\n東出口\n\n\n堺向陵中町郵便局\n\n\n三国ヶ丘FUZZ\n\n\n西出口\n\n\nコーナン三国ヶ丘ショッピングセンター\n\n\nBus routes\n\n\nAdjacent stations\n\n\n準急・各停\n\n\n関空快速・紀州路快速・快速・直通快速・区間快速\n\n\nLocal\n\n\nRailway stations in 堺区\n",
+          "字数": 450
         }
       },
       "结构化信息": {
@@ -211,15 +241,34 @@
           "链接": "https://en.wikipedia.org/wiki/Nakamozu%20Station",
           "首段": "is the name of two adjacent railway stations located in Kita-ku, Sakai, Osaka Prefecture, Japan.  The above ground station is an interchange station operated jointly by the private  Nankai Electric Railway and the Semboku Rapid Railway, and the underground station is operated by the Osaka Metro. The name of the station is difficult to read in kanji. The subway station shows the name in hiragana (なかもず) for information, but uses kanji for the official station name. The Semboku Rapid Railway Line uses both kanji and hiragana (中もず) on the destination signs at the stations and on the destination displays on the trains.",
           "章节": {
+            "Overview": "",
+            "南海電気鉄道": "",
+            "泉北高速鉄道": "",
+            "History": "Nakamozu Station opened on October 10, 1912. The Semboku Rapid Railway Line opened on April 1, 1971 and the Osaka Municipal Subway Midosuji Line on April 18, 1987.\n\nThe facilities of the Midosuji Line were inherited by Osaka Metro after the privatization of the Osaka Municipal Transportation Bureau on 1 April 2018.\n\nPassenger statistics\nIn fiscal 2019, the Nankai portion of the station was used by an average of 24,442 passengers daily, the Senboku portion of the station by 39,021 passengers daily and the Osaka Metro by 76,151 passengers daily..\n\nSurrounding area\n Sakai Chamber of Commerce\n Osaka Prefecture University Nakamozu Campus\n\nSee also\n List of railway stations in Japan",
+            "Station layout": "Nankai Railway Koya Line, Semboku Rapid Railway\n\nThe above-ground Nakamozu Station has two island platforms serving four tracks, with an elevated station building. The outer tracks are used for the Kōya Line and the inner ones are for Semboku. A reversing track for Semboku is located in the west of the platforms and between 2 tracks for the Kōya Line.",
+            "大阪市高速電気軌道": "",
+            "Commercial facilities": "",
+            "ABC-MART": "",
+            "Other": "",
+            "Bus routes": "",
+            "Platform 1": "Adjacent stations",
+            "Platform 2": "Adjacent stations",
+            "Platform 3": "Adjacent stations",
+            "Platform 4": "Adjacent stations",
+            "準急行・各駅停車": "",
+            "準急行": "",
+            "Local": "",
+            "御堂筋線": "",
+            "Railway stations in 堺市": "",
+            "かつて近畿日本鉄道に所属した鉄道駅": "",
             "Lines": "Nakamozu Station is served by the Nankai Koya Line, and is 14.1 kilometers from the terminus of the line at  and 13.4 kilometers from . It is also the terminus of the 14.3 kilometer Semboku Rapid Railway Line to  and the terminus of the 24.5 kilometer Midōsuji Line to",
             "Layout": "Nankai Railway Koya Line, Semboku Rapid Railway\n\nThe above-ground Nakamozu Station has two island platforms serving four tracks, with an elevated station building. The outer tracks are used for the Kōya Line and the inner ones are for Semboku. A reversing track for Semboku is located in the west of the platforms and between 2 tracks for the Kōya Line.",
             "Platforms": "Osaka Metro Midosuji Line\n\nThe Osaka Municipal Subway station has an underground island platform serving two tracks. It is the southernmost station on the Osaka subway system.",
             "Platform": "Adjacent stations",
-            "History": "Nakamozu Station opened on October 10, 1912. The Semboku Rapid Railway Line opened on April 1, 1971 and the Osaka Municipal Subway Midosuji Line on April 18, 1987.\n\nThe facilities of the Midosuji Line were inherited by Osaka Metro after the privatization of the Osaka Municipal Transportation Bureau on 1 April 2018.\n\nPassenger statistics\nIn fiscal 2019, the Nankai portion of the station was used by an average of 24,442 passengers daily, the Senboku portion of the station by 39,021 passengers daily and the Osaka Metro by 76,151 passengers daily..\n\nSurrounding area\n Sakai Chamber of Commerce\n Osaka Prefecture University Nakamozu Campus\n\nSee also\n List of railway stations in Japan",
             "References": "External links\n\n Nakamozu Station from Nankai Electric Railway website \n Nakamozu Station from Osaka Municipal Transportation Bureau website \n\nRailway stations in Japan opened in 1987\nRailway stations in Japan opened in 1912\nRailway stations in Osaka Prefecture\nOsaka Metro stations\nSakai, Osaka"
           },
-          "全文": "is the name of two adjacent railway stations located in Kita-ku, Sakai, Osaka Prefecture, Japan.  The above ground station is an interchange station operated jointly by the private  Nankai Electric Railway and the Semboku Rapid Railway, and the underground station is operated by the Osaka Metro. The name of the station is difficult to read in kanji. The subway station shows the name in hiragana (なかもず) for information, but uses kanji for the official station name. The Semboku Rapid Railway Line uses both kanji and hiragana (中もず) on the destination signs at the stations and on the destination displays on the trains.\n\nLines\nNakamozu Station is served by the Nankai Koya Line, and is 14.1 kilometers from the terminus of the line at  and 13.4 kilometers from . It is also the terminus of the 14.3 kilometer Semboku Rapid Railway Line to  and the terminus of the 24.5 kilometer Midōsuji Line to\n\nLayout\n\nNankai Railway Koya Line, Semboku Rapid Railway\n\nThe above-ground Nakamozu Station has two island platforms serving four tracks, with an elevated station building. The outer tracks are used for the Kōya Line and the inner ones are for Semboku. A reversing track for Semboku is located in the west of the platforms and between 2 tracks for the Kōya Line.\n\nPlatforms\n\nOsaka Metro Midosuji Line\n\nThe Osaka Municipal Subway station has an underground island platform serving two tracks. It is the southernmost station on the Osaka subway system.\n\nPlatform\n\nAdjacent stations\n\nHistory\nNakamozu Station opened on October 10, 1912. The Semboku Rapid Railway Line opened on April 1, 1971 and the Osaka Municipal Subway Midosuji Line on April 18, 1987.\n\nThe facilities of the Midosuji Line were inherited by Osaka Metro after the privatization of the Osaka Municipal Transportation Bureau on 1 April 2018.\n\nPassenger statistics\nIn fiscal 2019, the Nankai portion of the station was used by an average of 24,442 passengers daily, the Senboku portion of the station by 39,021 passengers daily and the Osaka Metro by 76,151 passengers daily..\n\nSurrounding area\n Sakai Chamber of Commerce\n Osaka Prefecture University Nakamozu Campus\n\nSee also\n List of railway stations in Japan\n\nReferences\n\nExternal links\n\n Nakamozu Station from Nankai Electric Railway website \n Nakamozu Station from Osaka Municipal Transportation Bureau website \n\nRailway stations in Japan opened in 1987\nRailway stations in Japan opened in 1912\nRailway stations in Osaka Prefecture\nOsaka Metro stations\nSakai, Osaka",
-          "字数": 2481
+          "全文": "is the name of two adjacent railway stations located in Kita-ku, Sakai, Osaka Prefecture, Japan.  The above ground station is an interchange station operated jointly by the private  Nankai Electric Railway and the Semboku Rapid Railway, and the underground station is operated by the Osaka Metro. The name of the station is difficult to read in kanji. The subway station shows the name in hiragana (なかもず) for information, but uses kanji for the official station name. The Semboku Rapid Railway Line uses both kanji and hiragana (中もず) on the destination signs at the stations and on the destination displays on the trains.\n\nOverview\n\n\n南海電気鉄道\n\n\n泉北高速鉄道\n\n\nHistory\nNakamozu Station opened on October 10, 1912. The Semboku Rapid Railway Line opened on April 1, 1971 and the Osaka Municipal Subway Midosuji Line on April 18, 1987.\n\nThe facilities of the Midosuji Line were inherited by Osaka Metro after the privatization of the Osaka Municipal Transportation Bureau on 1 April 2018.\n\nPassenger statistics\nIn fiscal 2019, the Nankai portion of the station was used by an average of 24,442 passengers daily, the Senboku portion of the station by 39,021 passengers daily and the Osaka Metro by 76,151 passengers daily..\n\nSurrounding area\n Sakai Chamber of Commerce\n Osaka Prefecture University Nakamozu Campus\n\nSee also\n List of railway stations in Japan\n\nStation layout\nNankai Railway Koya Line, Semboku Rapid Railway\n\nThe above-ground Nakamozu Station has two island platforms serving four tracks, with an elevated station building. The outer tracks are used for the Kōya Line and the inner ones are for Semboku. A reversing track for Semboku is located in the west of the platforms and between 2 tracks for the Kōya Line.\n\n大阪市高速電気軌道\n\n\nCommercial facilities\n\n\nABC-MART\n\n\nOther\n\n\nBus routes\n\n\nPlatform 1\nAdjacent stations\n\nPlatform 2\nAdjacent stations\n\nPlatform 3\nAdjacent stations\n\nPlatform 4\nAdjacent stations\n\n準急行・各駅停車\n\n\n準急行\n\n\nLocal\n\n\n御堂筋線\n\n\nRailway stations in 堺市\n\n\nかつて近畿日本鉄道に所属した鉄道駅\n\n\nLines\nNakamozu Station is served by the Nankai Koya Line, and is 14.1 kilometers from the terminus of the line at  and 13.4 kilometers from . It is also the terminus of the 14.3 kilometer Semboku Rapid Railway Line to  and the terminus of the 24.5 kilometer Midōsuji Line to\n\nLayout\nNankai Railway Koya Line, Semboku Rapid Railway\n\nThe above-ground Nakamozu Station has two island platforms serving four tracks, with an elevated station building. The outer tracks are used for the Kōya Line and the inner ones are for Semboku. A reversing track for Semboku is located in the west of the platforms and between 2 tracks for the Kōya Line.\n\nPlatforms\nOsaka Metro Midosuji Line\n\nThe Osaka Municipal Subway station has an underground island platform serving two tracks. It is the southernmost station on the Osaka subway system.\n\nPlatform\nAdjacent stations\n\nReferences\nExternal links\n\n Nakamozu Station from Nankai Electric Railway website \n Nakamozu Station from Osaka Municipal Transportation Bureau website \n\nRailway stations in Japan opened in 1987\nRailway stations in Japan opened in 1912\nRailway stations in Osaka Prefecture\nOsaka Metro stations\nSakai, Osaka",
+          "字数": 3141
         }
       },
       "结构化信息": {
@@ -331,13 +380,35 @@
           "链接": "https://en.wikipedia.org/wiki/K%C5%8Dmy%C5%8Dike%20Station",
           "首段": "is a passenger railway station located in Minami-ku, Sakai, Osaka Prefecture, Japan, operated by the Semboku Rapid Railway. It is station number SB05. It is named for Kōmyōike Pond, an artificial lake that dates from 1936 and is itself named for Empress Kōmyō. A small monument at the lake commemorates the work of the Korean laborers who constructed it",
           "章节": {
+            "History": "Kōmyōike Station opened on August 20, 1977.\n\nPassenger statistics\nIn fiscal 2019, the station was used by an average of 30,149 passengers daily (boarding passengers only).\n\nSurrounding area\n Senboku New Town residential area\n Sakai City Kamotani Gymnasium\n Sakai City South Library Miki Tabunkan\nSakai City Minami Children's Rehabilitation Center\nOsaka Vocational Ability Development School for Persons with Disabilities\n\nSee also\nList of railway stations in Japan",
+            "Chronology": "",
+            "Station layout": "",
+            "Usage": "",
+            "Surrounding area": "",
+            "大阪府道216号": "",
+            "堺市立南こどもリハビリテーションセンター": "",
+            "南堺警察署光明池駅前交番": "",
+            "金融機関": "",
+            "Commercial facilities": "",
+            "光明池アクト": "",
+            "光明池スポーツガーデン": "",
+            "Highway / route buses": "",
+            "エアポートリムジンバス泉北・河内長野空港線": "",
+            "天野山線": "",
+            "堺東・光明池線": "",
+            "泉北光明池地区線": "",
+            "泉大津光明池線": "",
+            "Notes": "",
+            "南海バス": "",
+            "その他のバス": "",
+            "区間急行・準急行・各駅停車": "",
+            "Railway stations in 堺市": "",
             "Lines": "Kōmyōike Station is served by the Semboku Rapid Railway Line, and is located 12.1 kilometers from the opposing terminus of the line at  and 25.5 kilometers from .\n\nStation layout\nThe station consists of one elevated island platform with the station building underneath.",
             "Platforms": "Adjacent stations",
-            "History": "Kōmyōike Station opened on August 20, 1977.\n\nPassenger statistics\nIn fiscal 2019, the station was used by an average of 30,149 passengers daily (boarding passengers only).\n\nSurrounding area\n Senboku New Town residential area\n Sakai City Kamotani Gymnasium\n Sakai City South Library Miki Tabunkan\nSakai City Minami Children's Rehabilitation Center\nOsaka Vocational Ability Development School for Persons with Disabilities\n\nSee also\nList of railway stations in Japan",
             "References": "External links\n\nSemboku Rapid Railway official page\nInformation on services near the station\nKomyoike Pond\n\nRailway stations in Japan opened in 1977\nRailway stations in Osaka Prefecture\nSakai, Osaka"
           },
-          "全文": "is a passenger railway station located in Minami-ku, Sakai, Osaka Prefecture, Japan, operated by the Semboku Rapid Railway. It is station number SB05. It is named for Kōmyōike Pond, an artificial lake that dates from 1936 and is itself named for Empress Kōmyō. A small monument at the lake commemorates the work of the Korean laborers who constructed it\n\nLines\nKōmyōike Station is served by the Semboku Rapid Railway Line, and is located 12.1 kilometers from the opposing terminus of the line at  and 25.5 kilometers from .\n\nStation layout\nThe station consists of one elevated island platform with the station building underneath.\n\nPlatforms\n\nAdjacent stations\n\nHistory\nKōmyōike Station opened on August 20, 1977.\n\nPassenger statistics\nIn fiscal 2019, the station was used by an average of 30,149 passengers daily (boarding passengers only).\n\nSurrounding area\n Senboku New Town residential area\n Sakai City Kamotani Gymnasium\n Sakai City South Library Miki Tabunkan\nSakai City Minami Children's Rehabilitation Center\nOsaka Vocational Ability Development School for Persons with Disabilities\n\nSee also\nList of railway stations in Japan\n\nReferences\n\nExternal links\n\nSemboku Rapid Railway official page\nInformation on services near the station\nKomyoike Pond\n\nRailway stations in Japan opened in 1977\nRailway stations in Osaka Prefecture\nSakai, Osaka",
-          "字数": 1346
+          "全文": "is a passenger railway station located in Minami-ku, Sakai, Osaka Prefecture, Japan, operated by the Semboku Rapid Railway. It is station number SB05. It is named for Kōmyōike Pond, an artificial lake that dates from 1936 and is itself named for Empress Kōmyō. A small monument at the lake commemorates the work of the Korean laborers who constructed it\n\nHistory\nKōmyōike Station opened on August 20, 1977.\n\nPassenger statistics\nIn fiscal 2019, the station was used by an average of 30,149 passengers daily (boarding passengers only).\n\nSurrounding area\n Senboku New Town residential area\n Sakai City Kamotani Gymnasium\n Sakai City South Library Miki Tabunkan\nSakai City Minami Children's Rehabilitation Center\nOsaka Vocational Ability Development School for Persons with Disabilities\n\nSee also\nList of railway stations in Japan\n\nChronology\n\n\nStation layout\n\n\nUsage\n\n\nSurrounding area\n\n\n大阪府道216号\n\n\n堺市立南こどもリハビリテーションセンター\n\n\n南堺警察署光明池駅前交番\n\n\n金融機関\n\n\nCommercial facilities\n\n\n光明池アクト\n\n\n光明池スポーツガーデン\n\n\nHighway / route buses\n\n\nエアポートリムジンバス泉北・河内長野空港線\n\n\n天野山線\n\n\n堺東・光明池線\n\n\n泉北光明池地区線\n\n\n泉大津光明池線\n\n\nNotes\n\n\n南海バス\n\n\nその他のバス\n\n\n区間急行・準急行・各駅停車\n\n\nRailway stations in 堺市\n\n\nLines\nKōmyōike Station is served by the Semboku Rapid Railway Line, and is located 12.1 kilometers from the opposing terminus of the line at  and 25.5 kilometers from .\n\nStation layout\nThe station consists of one elevated island platform with the station building underneath.\n\nPlatforms\nAdjacent stations\n\nReferences\nExternal links\n\nSemboku Rapid Railway official page\nInformation on services near the station\nKomyoike Pond\n\nRailway stations in Japan opened in 1977\nRailway stations in Osaka Prefecture\nSakai, Osaka",
+          "字数": 1655
         }
       },
       "结构化信息": {
@@ -458,7 +529,56 @@
           "字数": 663,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Izumi-Chūō Station",
+          "链接": null,
+          "首段": "Izumi-Chūō Station (和泉中央駅) is the terminus of the Semboku Rapid Railway Line in Ibukino 5-chōme, Izumi, Osaka Prefecture, Japan. Its station number is SB06, and it houses the Semboku Rapid Railway head office.",
+          "章节": {
+            "History": "",
+            "Station layout": "",
+            "1階": "",
+            "PatSat(阪急阪神東宝グループ)ATMコーナー": "",
+            "三井住友銀行ATMコーナー": "",
+            "はるか耳鼻咽喉科": "",
+            "Usage": "",
+            "Surrounding area": "",
+            "弥生の風ホール": "",
+            "男女共同参画センター": "",
+            "和泉市駅前西駐輪場": "",
+            "和泉警察署和泉中央駅前交番": "",
+            "和泉郵便局": "",
+            "ショッピングセンター・飲食店など": "",
+            "イズミヤ和泉中央店": "",
+            "その他の商業施設": "",
+            "大学": "",
+            "私立クレアール保育園": "",
+            "アメリカンヴィレッジスクール幼稚園": "",
+            "能開センターいずみ校": "",
+            "育英塾": "",
+            "緑ケ丘予備校": "",
+            "弥生塾": "",
+            "藤原教育センター": "",
+            "Other": "",
+            "Bus routes": "",
+            "はつが野線": "",
+            "緑ヶ丘団地線": "",
+            "Platform 2": "",
+            "Platform 3": "",
+            "Platform 4": "",
+            "和泉中央線": "",
+            "テクノステージ線": "",
+            "Platform 6": "",
+            "和泉市観光周遊バス": "",
+            "Platform 9": "",
+            "山直線": "",
+            "タクシー・送迎バス": "",
+            "区間急行・準急行・各駅停車": "",
+            "Railway stations in 大阪府": "",
+            "Railway stations in 1995年開業": ""
+          },
+          "全文": "Izumi-Chūō Station (和泉中央駅) is the terminus of the Semboku Rapid Railway Line in Ibukino 5-chōme, Izumi, Osaka Prefecture, Japan. Its station number is SB06, and it houses the Semboku Rapid Railway head office.\n\nHistory\n\n\nStation layout\n\n\n1階\n\n\nPatSat(阪急阪神東宝グループ)ATMコーナー\n\n\n三井住友銀行ATMコーナー\n\n\nはるか耳鼻咽喉科\n\n\nUsage\n\n\nSurrounding area\n\n\n弥生の風ホール\n\n\n男女共同参画センター\n\n\n和泉市駅前西駐輪場\n\n\n和泉警察署和泉中央駅前交番\n\n\n和泉郵便局\n\n\nショッピングセンター・飲食店など\n\n\nイズミヤ和泉中央店\n\n\nその他の商業施設\n\n\n大学\n\n\n私立クレアール保育園\n\n\nアメリカンヴィレッジスクール幼稚園\n\n\n能開センターいずみ校\n\n\n育英塾\n\n\n緑ケ丘予備校\n\n\n弥生塾\n\n\n藤原教育センター\n\n\nOther\n\n\nBus routes\n\n\nはつが野線\n\n\n緑ヶ丘団地線\n\n\nPlatform 2\n\n\nPlatform 3\n\n\nPlatform 4\n\n\n和泉中央線\n\n\nテクノステージ線\n\n\nPlatform 6\n\n\n和泉市観光周遊バス\n\n\nPlatform 9\n\n\n山直線\n\n\nタクシー・送迎バス\n\n\n区間急行・準急行・各駅停車\n\n\nRailway stations in 大阪府\n\n\nRailway stations in 1995年開業\n",
+          "字数": 731
+        }
       },
       "结构化信息": {
         "读音": "いずみちゅうおうえき",
@@ -588,18 +708,60 @@
           "链接": "https://en.wikipedia.org/wiki/Sakaihigashi%20Station",
           "首段": "is a passenger railway station located in  Higashi-ku, Sakai, Osaka Prefecture, Japan, operated by the private railway operator Nankai Electric Railway. It has the station number \"NK56\".",
           "章节": {
+            "Overview": "",
+            "History": "Sakaihigashi Station opened on January 30,1898 as . It is one of the stations on the Koya Line with long history as it was the station of origin operated by Koya Railway, the predecessor of the Koya Line. It was renamed to its present name on September 3, 1900.\n\nPassenger statistics\nIn fiscal 2019, the station was used by an average of 60,486 passengers daily.\n\nSurrounding area",
+            "Chronology": "",
+            "Station layout": "The station consists of two island platforms with an elevated station building.",
+            "West exit": "",
+            "北西口": "",
+            "北東口": "",
+            "East exit": "",
+            "Usage": "",
+            "Surrounding area": "",
+            "堺市民活動サポートセンター": "",
+            "堺税務署": "",
+            "さかいJOBステーション": "",
+            "丸善高島屋堺店": "",
+            "ABCマート": "",
+            "コノミヤ堺東店": "",
+            "堺銀座商店街・銀座北商店街・銀座西商店街・銀座南商店街": "",
+            "ホテル第一堺": "",
+            "金融機関": "",
+            "三井住友信託銀行堺支店": "",
+            "希学園堺東教室": "",
+            "馬渕教室堺東校": "",
+            "土居川公園": "",
+            "Bus routes": "",
+            "南海バス": "",
+            "Platform 1": "See also\n List of railway stations in Japan",
+            "Platform 2": "See also\n List of railway stations in Japan",
+            "Platform 3": "See also\n List of railway stations in Japan",
+            "Platform 4": "See also\n List of railway stations in Japan",
+            "Platform 5": "See also\n List of railway stations in Japan",
+            "Platform 6": "See also\n List of railway stations in Japan",
+            "堺・なんば・京都⇔柏崎・長岡〔南海バス・越後交通〕": "",
+            "Platform 7": "See also\n List of railway stations in Japan",
+            "85系統　綾の町電停前経由　匠町行〔堺〕": "",
+            "Platform 8": "See also\n List of railway stations in Japan",
+            "1C系統　　塩穴通、緑ヶ丘止め〔堺〕": "",
+            "Platform 10": "See also\n List of railway stations in Japan",
+            "Platform 11": "See also\n List of railway stations in Japan",
+            "平成エンタープライズ": "",
+            "特急「こうや」「りんかん」停車駅": "",
+            "各停": "",
+            "List of railway stations in Japan": "",
+            "Railway stations in 堺区": "",
             "Lines": "Sakaihigashi Station is served by the Nankai Koya Line, and is 11.0 kilometers from the terminus of the line at  and 10.3 kilometers from .",
             "Layout": "The station consists of two island platforms with an elevated station building.",
             "Platforms": "Adjacent stations",
-            "History": "Sakaihigashi Station opened on January 30,1898 as . It is one of the stations on the Koya Line with long history as it was the station of origin operated by Koya Railway, the predecessor of the Koya Line. It was renamed to its present name on September 3, 1900.\n\nPassenger statistics\nIn fiscal 2019, the station was used by an average of 60,486 passengers daily.\n\nSurrounding area",
             "Public": "Sakai City Hall\nSakai Ward Office\nOsaka District Court Sakai Branch, Osaka Family Court Sakai Branch, Sakai Summary Court\nSakai Tax Office\nSakai Post Office (Japan Post Holdings)\nJapan Post Service Sakai\nJapan Post Bank Sakai\nJapan Post Insurance Sakai\nSakaihigashi ekimae Post Office (Japan Post Holdings)",
             "Others": "Nankai Bus Terminal\nHochigai Shrine\nTadeiyama Kofun",
             "Buses": "Sakaihigashi-ekimae (Nankai Bus)\nfor Oshoji and -ekimae\nfor Kanaoka\nfor Sakai City Hospital, Sagibashi and Dejima\nfor Kogyo-gakko-mae (Osaka Prefectural Sakai Technology High School), Sagibashi and Dejima\nfor Kogyo-gakko-mae,  and \nfor Intex Osaka, Asia & Pacific Trade Center, and Osaka Prefectural Government Sakishima Building\nKansai Airport limousine \"Sorae\" for Kansai Airport\nfor Asaka,  and \nfor Oshoji and Ayanocho\nfor Kinryocho and Ayanocho\nfor J-GREEN Sakai\nfor Sakaihama Seaside Stage\nExpressway buses for Shinjuku and Tokyo\nExpressway buses for Takeo Onsen, Sasebo and Huis Ten Bosch\nExpressway buses for Odawara, Fujisawa, Kamakura, Ofuna and Totsuka\nExpressway buses for Kashiwazaki, Nagaoka and Sanjo\nExpressway buses for Yokohama, Odaiba, Tokyo Disneyland and Chiba\nfor Sakai-eki nishiguchi and Takumicho (Sharp Sakai Factory)\nfor Sakaihama Seaside Stage and Sakai-eki nishiguchi",
             "for": "See also\n List of railway stations in Japan",
             "References": "External links\n\n  \n\nRailway stations in Japan opened in 1898\nRailway stations in Osaka Prefecture\nSakai, Osaka"
           },
-          "全文": "is a passenger railway station located in  Higashi-ku, Sakai, Osaka Prefecture, Japan, operated by the private railway operator Nankai Electric Railway. It has the station number \"NK56\".\n\nLines\nSakaihigashi Station is served by the Nankai Koya Line, and is 11.0 kilometers from the terminus of the line at  and 10.3 kilometers from .\n\nLayout\nThe station consists of two island platforms with an elevated station building.\n\nPlatforms\n\nAdjacent stations\n\nHistory\nSakaihigashi Station opened on January 30,1898 as . It is one of the stations on the Koya Line with long history as it was the station of origin operated by Koya Railway, the predecessor of the Koya Line. It was renamed to its present name on September 3, 1900.\n\nPassenger statistics\nIn fiscal 2019, the station was used by an average of 60,486 passengers daily.\n\nSurrounding area\n\nPublic\nSakai City Hall\nSakai Ward Office\nOsaka District Court Sakai Branch, Osaka Family Court Sakai Branch, Sakai Summary Court\nSakai Tax Office\nSakai Post Office (Japan Post Holdings)\nJapan Post Service Sakai\nJapan Post Bank Sakai\nJapan Post Insurance Sakai\nSakaihigashi ekimae Post Office (Japan Post Holdings)\n\nMarket\nTakashimaya\n\nOthers\nNankai Bus Terminal\nHochigai Shrine\nTadeiyama Kofun\n\nBuses\nSakaihigashi-ekimae (Nankai Bus)\nfor Oshoji and -ekimae\nfor Kanaoka\nfor Sakai City Hospital, Sagibashi and Dejima\nfor Kogyo-gakko-mae (Osaka Prefectural Sakai Technology High School), Sagibashi and Dejima\nfor Kogyo-gakko-mae,  and \nfor Intex Osaka, Asia & Pacific Trade Center, and Osaka Prefectural Government Sakishima Building\nKansai Airport limousine \"Sorae\" for Kansai Airport\nfor Asaka,  and \nfor Oshoji and Ayanocho\nfor Kinryocho and Ayanocho\nfor J-GREEN Sakai\nfor Sakaihama Seaside Stage\nExpressway buses for Shinjuku and Tokyo\nExpressway buses for Takeo Onsen, Sasebo and Huis Ten Bosch\nExpressway buses for Odawara, Fujisawa, Kamakura, Ofuna and Totsuka\nExpressway buses for Kashiwazaki, Nagaoka and Sanjo\nExpressway buses for Yokohama, Odaiba, Tokyo Disneyland and Chiba\nfor Sakai-eki nishiguchi and Takumicho (Sharp Sakai Factory)\nfor Sakaihama Seaside Stage and Sakai-eki nishiguchi\nfor\n\nSee also\n List of railway stations in Japan\n\nReferences\n\nExternal links\n\n  \n\nRailway stations in Japan opened in 1898\nRailway stations in Osaka Prefecture\nSakai, Osaka",
-          "字数": 2312
+          "全文": "is a passenger railway station located in  Higashi-ku, Sakai, Osaka Prefecture, Japan, operated by the private railway operator Nankai Electric Railway. It has the station number \"NK56\".\n\nOverview\n\n\nHistory\nSakaihigashi Station opened on January 30,1898 as . It is one of the stations on the Koya Line with long history as it was the station of origin operated by Koya Railway, the predecessor of the Koya Line. It was renamed to its present name on September 3, 1900.\n\nPassenger statistics\nIn fiscal 2019, the station was used by an average of 60,486 passengers daily.\n\nSurrounding area\n\nChronology\n\n\nStation layout\nThe station consists of two island platforms with an elevated station building.\n\nWest exit\n\n\n北西口\n\n\n北東口\n\n\nEast exit\n\n\nUsage\n\n\nSurrounding area\n\n\n堺市民活動サポートセンター\n\n\n堺税務署\n\n\nさかいJOBステーション\n\n\n丸善高島屋堺店\n\n\nABCマート\n\n\nコノミヤ堺東店\n\n\n堺銀座商店街・銀座北商店街・銀座西商店街・銀座南商店街\n\n\nホテル第一堺\n\n\n金融機関\n\n\n三井住友信託銀行堺支店\n\n\n希学園堺東教室\n\n\n馬渕教室堺東校\n\n\n土居川公園\n\n\nBus routes\n\n\n南海バス\n\n\nPlatform 1\nSee also\n List of railway stations in Japan\n\nPlatform 2\nSee also\n List of railway stations in Japan\n\nPlatform 3\nSee also\n List of railway stations in Japan\n\nPlatform 4\nSee also\n List of railway stations in Japan\n\nPlatform 5\nSee also\n List of railway stations in Japan\n\nPlatform 6\nSee also\n List of railway stations in Japan\n\n堺・なんば・京都⇔柏崎・長岡〔南海バス・越後交通〕\n\n\nPlatform 7\nSee also\n List of railway stations in Japan\n\n85系統　綾の町電停前経由　匠町行〔堺〕\n\n\nPlatform 8\nSee also\n List of railway stations in Japan\n\n1C系統　　塩穴通、緑ヶ丘止め〔堺〕\n\n\nPlatform 10\nSee also\n List of railway stations in Japan\n\nPlatform 11\nSee also\n List of railway stations in Japan\n\n平成エンタープライズ\n\n\n特急「こうや」「りんかん」停車駅\n\n\n各停\n\n\nList of railway stations in Japan\n\n\nRailway stations in 堺区\n\n\nLines\nSakaihigashi Station is served by the Nankai Koya Line, and is 11.0 kilometers from the terminus of the line at  and 10.3 kilometers from .\n\nLayout\nThe station consists of two island platforms with an elevated station building.\n\nPlatforms\nAdjacent stations\n\nPublic\nSakai City Hall\nSakai Ward Office\nOsaka District Court Sakai Branch, Osaka Family Court Sakai Branch, Sakai Summary Court\nSakai Tax Office\nSakai Post Office (Japan Post Holdings)\nJapan Post Service Sakai\nJapan Post Bank Sakai\nJapan Post Insurance Sakai\nSakaihigashi ekimae Post Office (Japan Post Holdings)\n\nOthers\nNankai Bus Terminal\nHochigai Shrine\nTadeiyama Kofun\n\nBuses\nSakaihigashi-ekimae (Nankai Bus)\nfor Oshoji and -ekimae\nfor Kanaoka\nfor Sakai City Hospital, Sagibashi and Dejima\nfor Kogyo-gakko-mae (Osaka Prefectural Sakai Technology High School), Sagibashi and Dejima\nfor Kogyo-gakko-mae,  and \nfor Intex Osaka, Asia & Pacific Trade Center, and Osaka Prefectural Government Sakishima Building\nKansai Airport limousine \"Sorae\" for Kansai Airport\nfor Asaka,  and \nfor Oshoji and Ayanocho\nfor Kinryocho and Ayanocho\nfor J-GREEN Sakai\nfor Sakaihama Seaside Stage\nExpressway buses for Shinjuku and Tokyo\nExpressway buses for Takeo Onsen, Sasebo and Huis Ten Bosch\nExpressway buses for Odawara, Fujisawa, Kamakura, Ofuna and Totsuka\nExpressway buses for Kashiwazaki, Nagaoka and Sanjo\nExpressway buses for Yokohama, Odaiba, Tokyo Disneyland and Chiba\nfor Sakai-eki nishiguchi and Takumicho (Sharp Sakai Factory)\nfor Sakaihama Seaside Stage and Sakai-eki nishiguchi\n\nfor\nSee also\n List of railway stations in Japan\n\nReferences\nExternal links\n\n  \n\nRailway stations in Japan opened in 1898\nRailway stations in Osaka Prefecture\nSakai, Osaka",
+          "字数": 3380
         }
       },
       "结构化信息": {
@@ -700,7 +862,27 @@
           "字数": 1271,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Tengachaya Station",
+          "链接": null,
+          "首段": "Tengachaya Station (天下茶屋駅) is an interchange in Kishinosato 1-chōme, Nishinari-ku, Osaka, Japan, served by the Nankai Main Line, the Nankai Kōya Line, and the Osaka Metro Sakaisuji Line.",
+          "章节": {
+            "History": "",
+            "Chronology": "",
+            "鉄道唱歌": "",
+            "南海電気鉄道": "",
+            "特記事項": "",
+            "Usage": "",
+            "Surrounding area": "",
+            "特急「ラピート」停車駅": "",
+            "快速急行・急行・区間急行・準急": "",
+            "各停": "",
+            "天王寺支線": "",
+            "Railway stations in 西成区": ""
+          },
+          "全文": "Tengachaya Station (天下茶屋駅) is an interchange in Kishinosato 1-chōme, Nishinari-ku, Osaka, Japan, served by the Nankai Main Line, the Nankai Kōya Line, and the Osaka Metro Sakaisuji Line.\n\nHistory\n\n\nChronology\n\n\n鉄道唱歌\n\n\n南海電気鉄道\n\n\n特記事項\n\n\nUsage\n\n\nSurrounding area\n\n\n特急「ラピート」停車駅\n\n\n快速急行・急行・区間急行・準急\n\n\n各停\n\n\n天王寺支線\n\n\nRailway stations in 西成区\n",
+          "字数": 330
+        }
       },
       "结构化信息": {
         "读音": "てんがちゃやえき",
@@ -816,7 +998,43 @@
           "字数": 1446,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Shin-Imamiya Station",
+          "链接": null,
+          "首段": "Shin-Imamiya Station (新今宮駅) is an interchange straddling Naniwa-ku and Nishinari-ku, Osaka, Japan, served by JR West and Nankai Electric Railway.",
+          "章节": {
+            "Overview": "",
+            "Through services": "",
+            "JR West": "",
+            "南海電気鉄道": "",
+            "Station layout": "",
+            "Departure melody": "",
+            "天王寺方面ゆき": "",
+            "今宮方面ゆき": "",
+            "Notes": "",
+            "Usage": "",
+            "Surrounding area": "",
+            "通天閣": "",
+            "西成警察署": "",
+            "大阪市立大国小学校": "",
+            "飛田本通商店街": "",
+            "Bus routes": "",
+            "大阪シティバス": "",
+            "アウル交通": "",
+            "Adjacent stations": "",
+            "大和路快速・関空快速・紀州路快速・快速": "",
+            "区間快速・直通快速・普通": "",
+            "Rapid": "",
+            "Local": "",
+            "特急「ラピート」停車駅": "",
+            "快速急行・急行・区間急行・準急": "",
+            "各停": "",
+            "Railway stations in 西成区": "",
+            "Railway stations in 1964年開業": ""
+          },
+          "全文": "Shin-Imamiya Station (新今宮駅) is an interchange straddling Naniwa-ku and Nishinari-ku, Osaka, Japan, served by JR West and Nankai Electric Railway.\n\nOverview\n\n\nThrough services\n\n\nJR West\n\n\n南海電気鉄道\n\n\nStation layout\n\n\nDeparture melody\n\n\n天王寺方面ゆき\n\n\n今宮方面ゆき\n\n\nNotes\n\n\nUsage\n\n\nSurrounding area\n\n\n通天閣\n\n\n西成警察署\n\n\n大阪市立大国小学校\n\n\n飛田本通商店街\n\n\nBus routes\n\n\n大阪シティバス\n\n\nアウル交通\n\n\nAdjacent stations\n\n\n大和路快速・関空快速・紀州路快速・快速\n\n\n区間快速・直通快速・普通\n\n\nRapid\n\n\nLocal\n\n\n特急「ラピート」停車駅\n\n\n快速急行・急行・区間急行・準急\n\n\n各停\n\n\nRailway stations in 西成区\n\n\nRailway stations in 1964年開業\n",
+          "字数": 517
+        }
       },
       "结构化信息": {
         "读音": "しんいまみやえき",
@@ -924,7 +1142,40 @@
           "全文": "栂·美木多站（とが·みきたえき）是位于大阪府堺市南区桃山台二丁的泉北高速铁道泉北高速铁道线车站。车站编号SB04。\n\n历史\n当初1975年春计划泉丘-光明池间一括开业。\n\n年表\n1973年（昭和48年）12月7日 - 伴随泉丘站-本站间延伸作为终点站开业。\n\n车站结构\n岛式月台1面2线的桥上站。\n\n使用情况\n2019年度1日平均上下车人员19,582人。",
           "字数": 178
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Toga-Mikita Station",
+          "链接": null,
+          "首段": "Toga-Mikita Station (栂・美木多駅) is a Semboku Rapid Railway Line station in Momoyama-dai 2-chōme, Minami-ku, Sakai, Osaka Prefecture, Japan. Its station number is SB04.",
+          "章节": {
+            "History": "",
+            "Chronology": "",
+            "Station layout": "",
+            "Usage": "",
+            "Bus routes": "",
+            "南海バス": "",
+            "エアポートリムジンバス泉北・河内長野空港線〔光明池〕": "",
+            "泉北栂地区線〔泉北〕": "",
+            "美木多線〔光明池〕": "",
+            "深夜急行バス": "",
+            "堺市乗合タクシー": "",
+            "Surrounding area": "",
+            "堺市立南図書館栂分館": "",
+            "御池公園": "",
+            "泉ヶ丘カントリークラブ": "",
+            "堺市立原山台中学校": "",
+            "医療機関": "",
+            "日本郵便": "",
+            "りそな銀行泉北とが支店": "",
+            "主な商業施設": "",
+            "東文堂書店": "",
+            "万代御池台店": "",
+            "業務スーパー檜尾店": "",
+            "区間急行・準急行・各駅停車": "",
+            "Railway stations in 堺市": ""
+          },
+          "全文": "Toga-Mikita Station (栂・美木多駅) is a Semboku Rapid Railway Line station in Momoyama-dai 2-chōme, Minami-ku, Sakai, Osaka Prefecture, Japan. Its station number is SB04.\n\nHistory\n\n\nChronology\n\n\nStation layout\n\n\nUsage\n\n\nBus routes\n\n\n南海バス\n\n\nエアポートリムジンバス泉北・河内長野空港線〔光明池〕\n\n\n泉北栂地区線〔泉北〕\n\n\n美木多線〔光明池〕\n\n\n深夜急行バス\n\n\n堺市乗合タクシー\n\n\nSurrounding area\n\n\n堺市立南図書館栂分館\n\n\n御池公園\n\n\n泉ヶ丘カントリークラブ\n\n\n堺市立原山台中学校\n\n\n医療機関\n\n\n日本郵便\n\n\nりそな銀行泉北とが支店\n\n\n主な商業施設\n\n\n東文堂書店\n\n\n万代御池台店\n\n\n業務スーパー檜尾店\n\n\n区間急行・準急行・各駅停車\n\n\nRailway stations in 堺市\n",
+          "字数": 478
+        }
       },
       "结构化信息": {
         "读音": null,
@@ -1052,13 +1303,43 @@
           "链接": "https://en.wikipedia.org/wiki/Izumigaoka%20Station",
           "首段": "is a passenger railway station located in Minami-ku, Sakai, Osaka Prefecture, Japan, operated by the Semboku Rapid Railway. It is station number SB03.",
           "章节": {
+            "History": "Izumigaoka Station opened on April 1, 1971.\n\nPassenger statistics\nIn fiscal 2019, the station was used by an average of 40,504 passengers daily (boarding passengers only).\n\nSurrounding area\n Senboku New Town residential area\n Sakai City Izumigaoka Civic Center\n Sakai City Minami Library\n Momoyama Gakuin College of Education\n Tezukayama Gakuin University\n Tezukayama Gakuin Izumigaoka Junior and Senior High School\n Osaka Prefectural Semboku High School\n Osaka Prefectural Sakai Higashi High School\n\nSee also\nList of railway stations in Japan",
+            "Station layout": "",
+            "Usage": "",
+            "Surrounding area": "",
+            "大阪府道38号富田林泉大津線": "",
+            "南海バス": "",
+            "のりば1": "",
+            "泉北泉ヶ丘地区線": "",
+            "畑・鉢ヶ峯線": "",
+            "泉北栂地区線": "",
+            "泉ヶ丘・ハーベストの丘線": "",
+            "河内長野・泉ヶ丘線": "",
+            "エアポートリムジンバス泉北・河内長野空港線": "",
+            "堺東・泉ヶ丘線": "",
+            "東山・泉ヶ丘線": "",
+            "泉北光明池地区線": "",
+            "堺市乗合タクシー": "",
+            "和歌山バス・成田空港交通": "",
+            "公共機関": "",
+            "勤労者体育センター": "",
+            "大阪府立堺東高等学校": "",
+            "赤井マタニティクリニック": "",
+            "Commercial facilities": "",
+            "スポーツクラブパンジョクラブイズ": "",
+            "ジョイパーク泉ヶ丘": "",
+            "ショップタウン泉ヶ丘3番街": "",
+            "三菱UFJ銀行泉ヶ丘支店　※光明池支店との共同店舗": "",
+            "小谷城郷土館": "",
+            "区間急行・準急行・各駅停車": "",
+            "Railway stations in 堺市": "",
+            "Railway stations in 1971年開業": "",
             "Lines": "Izumigaoka Station is served by the Semboku Rapid Railway Line, and is located 7.8 kilometers from the opposing terminus of the line at  and 21.2 kilometers from .\n\nStation layout\nThe station consists of one elevated island platform with the station building underneath.",
             "Platforms": "Adjacent stations",
-            "History": "Izumigaoka Station opened on April 1, 1971.\n\nPassenger statistics\nIn fiscal 2019, the station was used by an average of 40,504 passengers daily (boarding passengers only).\n\nSurrounding area\n Senboku New Town residential area\n Sakai City Izumigaoka Civic Center\n Sakai City Minami Library\n Momoyama Gakuin College of Education\n Tezukayama Gakuin University\n Tezukayama Gakuin Izumigaoka Junior and Senior High School\n Osaka Prefectural Semboku High School\n Osaka Prefectural Sakai Higashi High School\n\nSee also\nList of railway stations in Japan",
             "References": "External links\n\nSemboku Rapid Railway official page\n\nRailway stations in Japan opened in 1971\nRailway stations in Osaka Prefecture\nSakai, Osaka"
           },
-          "全文": "is a passenger railway station located in Minami-ku, Sakai, Osaka Prefecture, Japan, operated by the Semboku Rapid Railway. It is station number SB03.\n\nLines\nIzumigaoka Station is served by the Semboku Rapid Railway Line, and is located 7.8 kilometers from the opposing terminus of the line at  and 21.2 kilometers from .\n\nStation layout\nThe station consists of one elevated island platform with the station building underneath.\n\nPlatforms\n\nAdjacent stations\n\nHistory\nIzumigaoka Station opened on April 1, 1971.\n\nPassenger statistics\nIn fiscal 2019, the station was used by an average of 40,504 passengers daily (boarding passengers only).\n\nSurrounding area\n Senboku New Town residential area\n Sakai City Izumigaoka Civic Center\n Sakai City Minami Library\n Momoyama Gakuin College of Education\n Tezukayama Gakuin University\n Tezukayama Gakuin Izumigaoka Junior and Senior High School\n Osaka Prefectural Semboku High School\n Osaka Prefectural Sakai Higashi High School\n\nSee also\nList of railway stations in Japan\n\nReferences\n\nExternal links\n\nSemboku Rapid Railway official page\n\nRailway stations in Japan opened in 1971\nRailway stations in Osaka Prefecture\nSakai, Osaka",
-          "字数": 1168
+          "全文": "is a passenger railway station located in Minami-ku, Sakai, Osaka Prefecture, Japan, operated by the Semboku Rapid Railway. It is station number SB03.\n\nHistory\nIzumigaoka Station opened on April 1, 1971.\n\nPassenger statistics\nIn fiscal 2019, the station was used by an average of 40,504 passengers daily (boarding passengers only).\n\nSurrounding area\n Senboku New Town residential area\n Sakai City Izumigaoka Civic Center\n Sakai City Minami Library\n Momoyama Gakuin College of Education\n Tezukayama Gakuin University\n Tezukayama Gakuin Izumigaoka Junior and Senior High School\n Osaka Prefectural Semboku High School\n Osaka Prefectural Sakai Higashi High School\n\nSee also\nList of railway stations in Japan\n\nStation layout\n\n\nUsage\n\n\nSurrounding area\n\n\n大阪府道38号富田林泉大津線\n\n\n南海バス\n\n\nのりば1\n\n\n泉北泉ヶ丘地区線\n\n\n畑・鉢ヶ峯線\n\n\n泉北栂地区線\n\n\n泉ヶ丘・ハーベストの丘線\n\n\n河内長野・泉ヶ丘線\n\n\nエアポートリムジンバス泉北・河内長野空港線\n\n\n堺東・泉ヶ丘線\n\n\n東山・泉ヶ丘線\n\n\n泉北光明池地区線\n\n\n堺市乗合タクシー\n\n\n和歌山バス・成田空港交通\n\n\n公共機関\n\n\n勤労者体育センター\n\n\n大阪府立堺東高等学校\n\n\n赤井マタニティクリニック\n\n\nCommercial facilities\n\n\nスポーツクラブパンジョクラブイズ\n\n\nジョイパーク泉ヶ丘\n\n\nショップタウン泉ヶ丘3番街\n\n\n三菱UFJ銀行泉ヶ丘支店　※光明池支店との共同店舗\n\n\n小谷城郷土館\n\n\n区間急行・準急行・各駅停車\n\n\nRailway stations in 堺市\n\n\nRailway stations in 1971年開業\n\n\nLines\nIzumigaoka Station is served by the Semboku Rapid Railway Line, and is located 7.8 kilometers from the opposing terminus of the line at  and 21.2 kilometers from .\n\nStation layout\nThe station consists of one elevated island platform with the station building underneath.\n\nPlatforms\nAdjacent stations\n\nReferences\nExternal links\n\nSemboku Rapid Railway official page\n\nRailway stations in Japan opened in 1971\nRailway stations in Osaka Prefecture\nSakai, Osaka",
+          "字数": 1604
         }
       },
       "结构化信息": {
@@ -1178,13 +1459,34 @@
           "链接": "https://en.wikipedia.org/wiki/Fukai%20Station",
           "首段": "is a passenger railway station located in Naka-ku, Sakai, Osaka Prefecture, Japan, operated by the Semboku Rapid Railway. It is station number SB02.",
           "章节": {
+            "History": "Fukai Station opened on April 1, 1971.\n\nPassenger statistics\nIn fiscal 2019, the station was used by an average of 26,156 passengers daily (boarding passengers only).\n\nSurrounding area\n Sakai City Naka Ward Office\n Sakai City Peace and Human Rights Museum (Phoenix Museum)\n Osaka Prefectural Higashi Mozu High School\n\nSee also\nList of railway stations in Japan",
+            "Chronology": "",
+            "Origin of the station name": "",
+            "Station layout": "",
+            "Usage": "",
+            "堺市中保健センター": "",
+            "中文化会館": "",
+            "堺市立中図書館": "",
+            "深井プラザ": "",
+            "公園・その他": "",
+            "水賀池公園": "",
+            "原池公園・原池公園体育館": "",
+            "華林寺": "",
+            "府営八田荘住宅": "",
+            "東のりば1": "",
+            "東のりば2": "",
+            "西のりば3": "",
+            "西のりば4": "",
+            "堺市乗合タクシー": "",
+            "区間急行(当駅から和泉中央駅まで各駅に停車)": "",
+            "準急行・各駅停車": "",
+            "Railway stations in 堺市": "",
             "Lines": "Fukai Station is served by the Semboku Rapid Railway Line, and is located 3.7 kilometers from the opposing terminus of the line at  and 17.1 kilometers from .\n\nStation layout\nThe station consists of one elevated island platform with the station building underneath.",
             "Platforms": "Adjacent stations",
-            "History": "Fukai Station opened on April 1, 1971.\n\nPassenger statistics\nIn fiscal 2019, the station was used by an average of 26,156 passengers daily (boarding passengers only).\n\nSurrounding area\n Sakai City Naka Ward Office\n Sakai City Peace and Human Rights Museum (Phoenix Museum)\n Osaka Prefectural Higashi Mozu High School\n\nSee also\nList of railway stations in Japan",
             "References": "External links\n\nSemboku Rapid Railway official page\n\nRailway stations in Japan opened in 1971\nRailway stations in Osaka Prefecture\nSakai, Osaka"
           },
-          "全文": "is a passenger railway station located in Naka-ku, Sakai, Osaka Prefecture, Japan, operated by the Semboku Rapid Railway. It is station number SB02.\n\nLines\nFukai Station is served by the Semboku Rapid Railway Line, and is located 3.7 kilometers from the opposing terminus of the line at  and 17.1 kilometers from .\n\nStation layout\nThe station consists of one elevated island platform with the station building underneath.\n\nPlatforms\n\nAdjacent stations\n\nHistory\nFukai Station opened on April 1, 1971.\n\nPassenger statistics\nIn fiscal 2019, the station was used by an average of 26,156 passengers daily (boarding passengers only).\n\nSurrounding area\n Sakai City Naka Ward Office\n Sakai City Peace and Human Rights Museum (Phoenix Museum)\n Osaka Prefectural Higashi Mozu High School\n\nSee also\nList of railway stations in Japan\n\nReferences\n\nExternal links\n\nSemboku Rapid Railway official page\n\nRailway stations in Japan opened in 1971\nRailway stations in Osaka Prefecture\nSakai, Osaka",
-          "字数": 978
+          "全文": "is a passenger railway station located in Naka-ku, Sakai, Osaka Prefecture, Japan, operated by the Semboku Rapid Railway. It is station number SB02.\n\nHistory\nFukai Station opened on April 1, 1971.\n\nPassenger statistics\nIn fiscal 2019, the station was used by an average of 26,156 passengers daily (boarding passengers only).\n\nSurrounding area\n Sakai City Naka Ward Office\n Sakai City Peace and Human Rights Museum (Phoenix Museum)\n Osaka Prefectural Higashi Mozu High School\n\nSee also\nList of railway stations in Japan\n\nChronology\n\n\nOrigin of the station name\n\n\nStation layout\n\n\nUsage\n\n\n堺市中保健センター\n\n\n中文化会館\n\n\n堺市立中図書館\n\n\n深井プラザ\n\n\n公園・その他\n\n\n水賀池公園\n\n\n原池公園・原池公園体育館\n\n\n華林寺\n\n\n府営八田荘住宅\n\n\n東のりば1\n\n\n東のりば2\n\n\n西のりば3\n\n\n西のりば4\n\n\n堺市乗合タクシー\n\n\n区間急行(当駅から和泉中央駅まで各駅に停車)\n\n\n準急行・各駅停車\n\n\nRailway stations in 堺市\n\n\nLines\nFukai Station is served by the Semboku Rapid Railway Line, and is located 3.7 kilometers from the opposing terminus of the line at  and 17.1 kilometers from .\n\nStation layout\nThe station consists of one elevated island platform with the station building underneath.\n\nPlatforms\nAdjacent stations\n\nReferences\nExternal links\n\nSemboku Rapid Railway official page\n\nRailway stations in Japan opened in 1971\nRailway stations in Osaka Prefecture\nSakai, Osaka",
+          "字数": 1233
         }
       },
       "结构化信息": {
@@ -1265,15 +1567,22 @@
           "链接": "https://en.wikipedia.org/wiki/Mozuhachiman%20Station",
           "首段": "is a passenger railway station located in  Sakai-ku, Sakai, Osaka Prefecture, Japan, operated by the private railway operator Nankai Electric Railway. It has the station number \"NK58\".",
           "章节": {
+            "History": "Mozuhachiman Station opened on September 7, 1900.\n\nPassenger statistics\nIn fiscal 2019, the station was used by an average of 4,545 passengers daily.\n\nSurrounding area",
+            "Station layout": "The station consists of two opposed side platforms connected by a footbridge.",
+            "Usage": "",
+            "Surrounding area": "",
+            "百舌鳥八幡宮": "",
+            "旧是枝近有邸": "",
+            "準急・各停": "",
+            "Railway stations in 堺市": "",
             "Lines": "Mozuhachiman Station is served by the Nankai Kōya Line, and is 13.4 kilometers from the terminus of the line at  and 12.7 kilometers from .",
             "Layout": "The station consists of two opposed side platforms connected by a footbridge.",
             "Platforms": "Adjacent stations",
-            "History": "Mozuhachiman Station opened on September 7, 1900.\n\nPassenger statistics\nIn fiscal 2019, the station was used by an average of 4,545 passengers daily.\n\nSurrounding area",
             "Mozuhachiman-gu": "Sakai City Sakai High School\nSeikeikai Medical College\n\nSee also\n List of railway stations in Japan",
             "References": "External links\n\n  \n\nRailway stations in Japan opened in 1900\nRailway stations in Osaka Prefecture\nSakai, Osaka"
           },
-          "全文": "is a passenger railway station located in  Sakai-ku, Sakai, Osaka Prefecture, Japan, operated by the private railway operator Nankai Electric Railway. It has the station number \"NK58\".\n\nLines\nMozuhachiman Station is served by the Nankai Kōya Line, and is 13.4 kilometers from the terminus of the line at  and 12.7 kilometers from .\n\nLayout\nThe station consists of two opposed side platforms connected by a footbridge.\n\nPlatforms\n\nAdjacent stations\n\nHistory\nMozuhachiman Station opened on September 7, 1900.\n\nPassenger statistics\nIn fiscal 2019, the station was used by an average of 4,545 passengers daily.\n\nSurrounding area\nMozuhachiman-gu\nSakai City Sakai High School\nSeikeikai Medical College\n\nSee also\n List of railway stations in Japan\n\nReferences\n\nExternal links\n\n  \n\nRailway stations in Japan opened in 1900\nRailway stations in Osaka Prefecture\nSakai, Osaka",
-          "字数": 864
+          "全文": "is a passenger railway station located in  Sakai-ku, Sakai, Osaka Prefecture, Japan, operated by the private railway operator Nankai Electric Railway. It has the station number \"NK58\".\n\nHistory\nMozuhachiman Station opened on September 7, 1900.\n\nPassenger statistics\nIn fiscal 2019, the station was used by an average of 4,545 passengers daily.\n\nSurrounding area\n\nStation layout\nThe station consists of two opposed side platforms connected by a footbridge.\n\nUsage\n\n\nSurrounding area\n\n\n百舌鳥八幡宮\n\n\n旧是枝近有邸\n\n\n準急・各停\n\n\nRailway stations in 堺市\n\n\nLines\nMozuhachiman Station is served by the Nankai Kōya Line, and is 13.4 kilometers from the terminus of the line at  and 12.7 kilometers from .\n\nLayout\nThe station consists of two opposed side platforms connected by a footbridge.\n\nPlatforms\nAdjacent stations\n\nMozuhachiman-gu\nSakai City Sakai High School\nSeikeikai Medical College\n\nSee also\n List of railway stations in Japan\n\nReferences\nExternal links\n\n  \n\nRailway stations in Japan opened in 1900\nRailway stations in Osaka Prefecture\nSakai, Osaka",
+          "字数": 1035
         }
       },
       "结构化信息": {
@@ -1312,6 +1621,6 @@
     "有中文词条": 11,
     "已千问汉化": 1,
     "待汉化": 0,
-    "有英文词条": 7
+    "有英文词条": 11
   }
 }
