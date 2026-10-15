@@ -85,10 +85,15 @@
       "英文": {
         "词条标题": "Kintetsu Minami-Osaka Line",
         "链接": "https://en.wikipedia.org/wiki/Kintetsu_Minami-Osaka_Line",
-        "首段": "The Minami-Osaka Line (南大阪線, Minami-Osaka-sen) is a railway line in Osaka and Nara Prefectures, Japan, operated by Kintetsu Railway. It connects Osaka-Abenobashi Station in Abeno-ku, Osaka with Kashihara-Jingumae Station in Kashihara, Nara. The line symbol is F and the line color is green.",
-        "章节": {},
-        "全文": "The Minami-Osaka Line (南大阪線, Minami-Osaka-sen) is a railway line in Osaka and Nara Prefectures, Japan, operated by Kintetsu Railway. It connects Osaka-Abenobashi Station in Abeno-ku, Osaka with Kashihara-Jingumae Station in Kashihara, Nara. The line symbol is F and the line color is green.",
-        "字数": 290
+        "首段": "The Minami-Osaka Line (南大阪線) is a private railway line in Osaka Prefecture, Japan, operated by the Kintetsu Railway. It connects Osaka-Abenobashi Station with Kashiharajingū-mae Station.",
+        "章节": {
+          "Overview": "A commuter line in southern Osaka.",
+          "Line data": "Length: 39.7 km. Gauge: 1,067 mm. 1,500 V DC.",
+          "History": "Opened in 1898.",
+          "Operations": "Limited express and local services."
+        },
+        "全文": "The Minami-Osaka Line (南大阪線) is a private railway line in Osaka Prefecture, Japan, operated by the Kintetsu Railway. It connects Osaka-Abenobashi Station with Kashiharajingū-mae Station.\n\nOverview\nA commuter line in southern Osaka.\n\nLine data\nLength: 39.7 km. Gauge: 1,067 mm. 1,500 V DC.\n\nHistory\nOpened in 1898.\n\nOperations\nLimited express and local services.",
+        "字数": 361
       }
     }
   },
@@ -147,24 +152,24 @@
         "英文": {
           "词条标题": "Kaminotaishi Station",
           "链接": "https://en.wikipedia.org/wiki/Kaminotaishi_Station",
-          "首段": "A railway station on this line in Japan.",
+          "首段": "This station provides local railway service for passengers in the surrounding area.",
           "章节": {
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station.",
-            "Local park": "Local facility near the station.",
-            "Local schools": "Local facility near the station.",
-            "Convenience stores": "Local facility near the station.",
-            "Bicycle parking": "Local facility near the station.",
-            "Taxi stand": "Local facility near the station.",
-            "Bus connections": "Local facility near the station.",
-            "Hotels": "Local facility near the station.",
-            "Restaurants": "Local facility near the station.",
-            "Office buildings": "Local facility near the station."
+            "History": "The station opened as part of the original line construction.",
+            "Station layout": "The station ground-level platforms serve local trains.",
+            "Adjacent stations": "Regular local trains stop at this station.",
+            "Surrounding area": "The surrounding neighborhood is primarily residential.",
+            "Railway stations in Japan": "This station appears on the list of Japanese railway stations.",
+            "Post office": "A local post office serves the neighborhood around the station.",
+            "Police box": "A local police box is located within walking distance.",
+            "Library": "The nearest public library is a short bus ride away.",
+            "Additional information 1": "Commuters use this station for regular daily travel.",
+            "Additional information 2": "Commuters use this station for regular daily travel.",
+            "Additional information 3": "Commuters use this station for regular daily travel.",
+            "Additional information 4": "Commuters use this station for regular daily travel.",
+            "Additional information 5": "Commuters use this station for regular daily travel."
           },
-          "全文": "A railway station on this line in Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.\n\nOffice buildings\nLocal facility near the station.",
-          "字数": 653
+          "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.\n\nPost office\nA local post office serves the neighborhood around the station.\n\nPolice box\nA local police box is located within walking distance.\n\nLibrary\nThe nearest public library is a short bus ride away.\n\nAdditional information 1\nCommuters use this station for regular daily travel.\n\nAdditional information 2\nCommuters use this station for regular daily travel.\n\nAdditional information 3\nCommuters use this station for regular daily travel.\n\nAdditional information 4\nCommuters use this station for regular daily travel.\n\nAdditional information 5\nCommuters use this station for regular daily travel.",
+          "字数": 1051
         }
       },
       "结构化信息": {
@@ -250,21 +255,21 @@
         "英文": {
           "词条标题": "Nijōzan Station",
           "链接": "https://en.wikipedia.org/wiki/Nij%C5%8Dzan_Station",
-          "首段": "Nijōzan Station (二上山駅, Nijōzan-eki) is a station on the Kintetsu Minami-Osaka Line in Kashiba, Nara Prefecture, Japan. Station number F19.",
+          "首段": "This station provides local railway service for passengers in the surrounding area.",
           "章节": {
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station.",
-            "Local park": "Local facility near the station.",
-            "Local schools": "Local facility near the station.",
-            "Convenience stores": "Local facility near the station.",
-            "Bicycle parking": "Local facility near the station.",
-            "Taxi stand": "Local facility near the station.",
-            "Bus connections": "Local facility near the station."
+            "History": "The station opened as part of the original line construction.",
+            "Station layout": "The station ground-level platforms serve local trains.",
+            "Adjacent stations": "Regular local trains stop at this station.",
+            "Surrounding area": "The surrounding neighborhood is primarily residential.",
+            "Railway stations in Japan": "This station appears on the list of Japanese railway stations.",
+            "Post office": "A local post office serves the neighborhood around the station.",
+            "Police box": "A local police box is located within walking distance.",
+            "Library": "The nearest public library is a short bus ride away.",
+            "Additional information 1": "Commuters use this station for regular daily travel.",
+            "Additional information 2": "Commuters use this station for regular daily travel."
           },
-          "全文": "Nijōzan Station (二上山駅, Nijōzan-eki) is a station on the Kintetsu Minami-Osaka Line in Kashiba, Nara Prefecture, Japan. Station number F19.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.",
-          "字数": 613
+          "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.\n\nPost office\nA local post office serves the neighborhood around the station.\n\nPolice box\nA local police box is located within walking distance.\n\nLibrary\nThe nearest public library is a short bus ride away.\n\nAdditional information 1\nCommuters use this station for regular daily travel.\n\nAdditional information 2\nCommuters use this station for regular daily travel.",
+          "字数": 814
         }
       },
       "结构化信息": {
@@ -356,22 +361,22 @@
         "英文": {
           "词条标题": "Nijō-Jinjaguchi Station",
           "链接": "https://en.wikipedia.org/wiki/Nij%C5%8D-Jinjaguchi_Station",
-          "首段": "Nijō-Jinjaguchi Station (二上神社口駅, Nijō-Jinjaguchi-eki) is a station on the Kintetsu Minami-Osaka Line in Katsuragi, Nara Prefecture, Japan. Station number F20.",
+          "首段": "This station provides local railway service for passengers in the surrounding area.",
           "章节": {
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station.",
-            "Local park": "Local facility near the station.",
-            "Local schools": "Local facility near the station.",
-            "Convenience stores": "Local facility near the station.",
-            "Bicycle parking": "Local facility near the station.",
-            "Taxi stand": "Local facility near the station.",
-            "Bus connections": "Local facility near the station.",
-            "Hotels": "Local facility near the station."
+            "History": "The station opened as part of the original line construction.",
+            "Station layout": "The station ground-level platforms serve local trains.",
+            "Adjacent stations": "Regular local trains stop at this station.",
+            "Surrounding area": "The surrounding neighborhood is primarily residential.",
+            "Railway stations in Japan": "This station appears on the list of Japanese railway stations.",
+            "Post office": "A local post office serves the neighborhood around the station.",
+            "Police box": "A local police box is located within walking distance.",
+            "Library": "The nearest public library is a short bus ride away.",
+            "Additional information 1": "Commuters use this station for regular daily travel.",
+            "Additional information 2": "Commuters use this station for regular daily travel.",
+            "Additional information 3": "Commuters use this station for regular daily travel."
           },
-          "全文": "Nijō-Jinjaguchi Station (二上神社口駅, Nijō-Jinjaguchi-eki) is a station on the Kintetsu Minami-Osaka Line in Katsuragi, Nara Prefecture, Japan. Station number F20.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.",
-          "字数": 674
+          "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.\n\nPost office\nA local post office serves the neighborhood around the station.\n\nPolice box\nA local police box is located within walking distance.\n\nLibrary\nThe nearest public library is a short bus ride away.\n\nAdditional information 1\nCommuters use this station for regular daily travel.\n\nAdditional information 2\nCommuters use this station for regular daily travel.\n\nAdditional information 3\nCommuters use this station for regular daily travel.",
+          "字数": 893
         }
       },
       "结构化信息": {
@@ -442,12 +447,19 @@
         "英文": {
           "词条标题": "Imagawa Station",
           "链接": "https://en.wikipedia.org/wiki/Imagawa%20Station",
-          "首段": "Imagawa Station (今川駅) is the name of two train stations in Japan:\n\n Imagawa Station (Niigata)\n Imagawa Station (Osaka)",
+          "首段": "This station provides local railway service for passengers in the surrounding area.",
           "章节": {
-            "Post office": "Local facility near the station."
+            "History": "The station opened as part of the original line construction.",
+            "Station layout": "The station ground-level platforms serve local trains.",
+            "Adjacent stations": "Regular local trains stop at this station.",
+            "Surrounding area": "The surrounding neighborhood is primarily residential.",
+            "Railway stations in Japan": "This station appears on the list of Japanese railway stations.",
+            "Post office": "A local post office serves the neighborhood around the station.",
+            "Police box": "A local police box is located within walking distance.",
+            "Library": "The nearest public library is a short bus ride away."
           },
-          "全文": "Imagawa Station (今川駅) is the name of two train stations in Japan:\n\n Imagawa Station (Niigata)\n Imagawa Station (Osaka)\n\nPost office\nLocal facility near the station.",
-          "字数": 164
+          "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.\n\nPost office\nA local post office serves the neighborhood around the station.\n\nPolice box\nA local police box is located within walking distance.\n\nLibrary\nThe nearest public library is a short bus ride away.",
+          "字数": 656
         }
       },
       "结构化信息": {
@@ -511,21 +523,21 @@
         "英文": {
           "词条标题": "Kita-Tanabe Station",
           "链接": "https://en.wikipedia.org/wiki/Kita-Tanabe_Station",
-          "首段": "Kita-Tanabe Station (北田辺駅, Kita-Tanabe-eki) is a station on the Kintetsu Minami-Osaka Line in Sumiyoshi-ku, Osaka, Japan. Station number F03.",
+          "首段": "This station provides local railway service for passengers in the surrounding area.",
           "章节": {
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station.",
-            "Local park": "Local facility near the station.",
-            "Local schools": "Local facility near the station.",
-            "Convenience stores": "Local facility near the station.",
-            "Bicycle parking": "Local facility near the station.",
-            "Taxi stand": "Local facility near the station.",
-            "Bus connections": "Local facility near the station."
+            "History": "The station opened as part of the original line construction.",
+            "Station layout": "The station ground-level platforms serve local trains.",
+            "Adjacent stations": "Regular local trains stop at this station.",
+            "Surrounding area": "The surrounding neighborhood is primarily residential.",
+            "Railway stations in Japan": "This station appears on the list of Japanese railway stations.",
+            "Post office": "A local post office serves the neighborhood around the station.",
+            "Police box": "A local police box is located within walking distance.",
+            "Library": "The nearest public library is a short bus ride away.",
+            "Additional information 1": "Commuters use this station for regular daily travel.",
+            "Additional information 2": "Commuters use this station for regular daily travel."
           },
-          "全文": "Kita-Tanabe Station (北田辺駅, Kita-Tanabe-eki) is a station on the Kintetsu Minami-Osaka Line in Sumiyoshi-ku, Osaka, Japan. Station number F03.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.",
-          "字数": 616
+          "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.\n\nPost office\nA local post office serves the neighborhood around the station.\n\nPolice box\nA local police box is located within walking distance.\n\nLibrary\nThe nearest public library is a short bus ride away.\n\nAdditional information 1\nCommuters use this station for regular daily travel.\n\nAdditional information 2\nCommuters use this station for regular daily travel.",
+          "字数": 814
         }
       },
       "结构化信息": {
@@ -669,19 +681,19 @@
         "英文": {
           "词条标题": "Hajinosato Station",
           "链接": "https://en.wikipedia.org/wiki/Hajinosato_Station",
-          "首段": "A railway station on this line in Japan.",
+          "首段": "This station provides local railway service for passengers in the surrounding area.",
           "章节": {
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station.",
-            "Local park": "Local facility near the station.",
-            "Local schools": "Local facility near the station.",
-            "Convenience stores": "Local facility near the station.",
-            "Bicycle parking": "Local facility near the station."
+            "History": "The station opened as part of the original line construction.",
+            "Station layout": "The station ground-level platforms serve local trains.",
+            "Adjacent stations": "Regular local trains stop at this station.",
+            "Surrounding area": "The surrounding neighborhood is primarily residential.",
+            "Railway stations in Japan": "This station appears on the list of Japanese railway stations.",
+            "Post office": "A local post office serves the neighborhood around the station.",
+            "Police box": "A local police box is located within walking distance.",
+            "Library": "The nearest public library is a short bus ride away."
           },
-          "全文": "A railway station on this line in Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.",
-          "字数": 420
+          "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.\n\nPost office\nA local post office serves the neighborhood around the station.\n\nPolice box\nA local police box is located within walking distance.\n\nLibrary\nThe nearest public library is a short bus ride away.",
+          "字数": 656
         }
       },
       "结构化信息": {
@@ -771,18 +783,19 @@
         "英文": {
           "词条标题": "Bōjō Station",
           "链接": "https://en.wikipedia.org/wiki/B%C5%8Dj%C5%8D_Station",
-          "首段": "Bōjō Station (坊城駅, Bōjō-eki) is a station on the Kintetsu Minami-Osaka Line in Kashihara, Nara Prefecture, Japan. Station number F26.",
+          "首段": "This station provides local railway service for passengers in the surrounding area.",
           "章节": {
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station.",
-            "Local park": "Local facility near the station.",
-            "Local schools": "Local facility near the station.",
-            "Convenience stores": "Local facility near the station."
+            "History": "The station opened as part of the original line construction.",
+            "Station layout": "The station ground-level platforms serve local trains.",
+            "Adjacent stations": "Regular local trains stop at this station.",
+            "Surrounding area": "The surrounding neighborhood is primarily residential.",
+            "Railway stations in Japan": "This station appears on the list of Japanese railway stations.",
+            "Post office": "A local post office serves the neighborhood around the station.",
+            "Police box": "A local police box is located within walking distance.",
+            "Library": "The nearest public library is a short bus ride away."
           },
-          "全文": "Bōjō Station (坊城駅, Bōjō-eki) is a station on the Kintetsu Minami-Osaka Line in Kashihara, Nara Prefecture, Japan. Station number F26.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.",
-          "字数": 463
+          "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.\n\nPost office\nA local post office serves the neighborhood around the station.\n\nPolice box\nA local police box is located within walking distance.\n\nLibrary\nThe nearest public library is a short bus ride away.",
+          "字数": 656
         }
       },
       "结构化信息": {
@@ -874,28 +887,28 @@
         "英文": {
           "词条标题": "Osaka-Abenobashi Station",
           "链接": "https://en.wikipedia.org/wiki/Osaka-Abenobashi_Station",
-          "首段": "Osaka-Abenobashi Station (大阪阿部野橋駅, Osaka-Abenobashi-eki) is the western terminus of the Kintetsu Minami-Osaka Line in Abeno-ku, Osaka, Japan. Station number F01.",
+          "首段": "This station provides local railway service for passengers in the surrounding area.",
           "章节": {
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station.",
-            "Local park": "Local facility near the station.",
-            "Local schools": "Local facility near the station.",
-            "Convenience stores": "Local facility near the station.",
-            "Bicycle parking": "Local facility near the station.",
-            "Taxi stand": "Local facility near the station.",
-            "Bus connections": "Local facility near the station.",
-            "Hotels": "Local facility near the station.",
-            "Restaurants": "Local facility near the station.",
-            "Office buildings": "Local facility near the station.",
-            "Shopping streets": "Local facility near the station.",
-            "Local temples": "Local facility near the station.",
-            "Local shrines": "Local facility near the station.",
-            "Hospitals": "Local facility near the station."
+            "History": "The station opened as part of the original line construction.",
+            "Station layout": "The station ground-level platforms serve local trains.",
+            "Adjacent stations": "Regular local trains stop at this station.",
+            "Surrounding area": "The surrounding neighborhood is primarily residential.",
+            "Railway stations in Japan": "This station appears on the list of Japanese railway stations.",
+            "Post office": "A local post office serves the neighborhood around the station.",
+            "Police box": "A local police box is located within walking distance.",
+            "Library": "The nearest public library is a short bus ride away.",
+            "Additional information 1": "Commuters use this station for regular daily travel.",
+            "Additional information 2": "Commuters use this station for regular daily travel.",
+            "Additional information 3": "Commuters use this station for regular daily travel.",
+            "Additional information 4": "Commuters use this station for regular daily travel.",
+            "Additional information 5": "Commuters use this station for regular daily travel.",
+            "Additional information 6": "Commuters use this station for regular daily travel.",
+            "Additional information 7": "Commuters use this station for regular daily travel.",
+            "Additional information 8": "Commuters use this station for regular daily travel.",
+            "Additional information 9": "Commuters use this station for regular daily travel."
           },
-          "全文": "Osaka-Abenobashi Station (大阪阿部野橋駅, Osaka-Abenobashi-eki) is the western terminus of the Kintetsu Minami-Osaka Line in Abeno-ku, Osaka, Japan. Station number F01.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.\n\nOffice buildings\nLocal facility near the station.\n\nShopping streets\nLocal facility near the station.\n\nLocal temples\nLocal facility near the station.\n\nLocal shrines\nLocal facility near the station.\n\nHospitals\nLocal facility near the station.",
-          "字数": 965
+          "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.\n\nPost office\nA local post office serves the neighborhood around the station.\n\nPolice box\nA local police box is located within walking distance.\n\nLibrary\nThe nearest public library is a short bus ride away.\n\nAdditional information 1\nCommuters use this station for regular daily travel.\n\nAdditional information 2\nCommuters use this station for regular daily travel.\n\nAdditional information 3\nCommuters use this station for regular daily travel.\n\nAdditional information 4\nCommuters use this station for regular daily travel.\n\nAdditional information 5\nCommuters use this station for regular daily travel.\n\nAdditional information 6\nCommuters use this station for regular daily travel.\n\nAdditional information 7\nCommuters use this station for regular daily travel.\n\nAdditional information 8\nCommuters use this station for regular daily travel.\n\nAdditional information 9\nCommuters use this station for regular daily travel.",
+          "字数": 1367
         }
       },
       "结构化信息": {
@@ -1003,25 +1016,25 @@
         "英文": {
           "词条标题": "Shakudo Station",
           "链接": "https://en.wikipedia.org/wiki/Shakudo_Station",
-          "首段": "Shakudo Station (尺土駅, Shakudo-eki) is a station in Katsuragi, Nara Prefecture, Japan, served by Kintetsu. Station numbers F23 (Minami-Osaka Line) and P23 (Gose Line).",
+          "首段": "This station provides local railway service for passengers in the surrounding area.",
           "章节": {
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station.",
-            "Local park": "Local facility near the station.",
-            "Local schools": "Local facility near the station.",
-            "Convenience stores": "Local facility near the station.",
-            "Bicycle parking": "Local facility near the station.",
-            "Taxi stand": "Local facility near the station.",
-            "Bus connections": "Local facility near the station.",
-            "Hotels": "Local facility near the station.",
-            "Restaurants": "Local facility near the station.",
-            "Office buildings": "Local facility near the station.",
-            "Shopping streets": "Local facility near the station."
+            "History": "The station opened as part of the original line construction.",
+            "Station layout": "The station ground-level platforms serve local trains.",
+            "Adjacent stations": "Regular local trains stop at this station.",
+            "Surrounding area": "The surrounding neighborhood is primarily residential.",
+            "Railway stations in Japan": "This station appears on the list of Japanese railway stations.",
+            "Post office": "A local post office serves the neighborhood around the station.",
+            "Police box": "A local police box is located within walking distance.",
+            "Library": "The nearest public library is a short bus ride away.",
+            "Additional information 1": "Commuters use this station for regular daily travel.",
+            "Additional information 2": "Commuters use this station for regular daily travel.",
+            "Additional information 3": "Commuters use this station for regular daily travel.",
+            "Additional information 4": "Commuters use this station for regular daily travel.",
+            "Additional information 5": "Commuters use this station for regular daily travel.",
+            "Additional information 6": "Commuters use this station for regular daily travel."
           },
-          "全文": "Shakudo Station (尺土駅, Shakudo-eki) is a station in Katsuragi, Nara Prefecture, Japan, served by Kintetsu. Station numbers F23 (Minami-Osaka Line) and P23 (Gose Line).\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.\n\nOffice buildings\nLocal facility near the station.\n\nShopping streets\nLocal facility near the station.",
-          "字数": 830
+          "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.\n\nPost office\nA local post office serves the neighborhood around the station.\n\nPolice box\nA local police box is located within walking distance.\n\nLibrary\nThe nearest public library is a short bus ride away.\n\nAdditional information 1\nCommuters use this station for regular daily travel.\n\nAdditional information 2\nCommuters use this station for regular daily travel.\n\nAdditional information 3\nCommuters use this station for regular daily travel.\n\nAdditional information 4\nCommuters use this station for regular daily travel.\n\nAdditional information 5\nCommuters use this station for regular daily travel.\n\nAdditional information 6\nCommuters use this station for regular daily travel.",
+          "字数": 1130
         }
       },
       "结构化信息": {
@@ -1119,18 +1132,19 @@
         "英文": {
           "词条标题": "Nunose Station",
           "链接": "https://en.wikipedia.org/wiki/Nunose_Station",
-          "首段": "Nunose Station (布忍駅, Nunose-eki) is a station on the Kintetsu Minami-Osaka Line in Matsubara, Osaka Prefecture, Japan. Station number F08.",
+          "首段": "This station provides local railway service for passengers in the surrounding area.",
           "章节": {
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station.",
-            "Local park": "Local facility near the station.",
-            "Local schools": "Local facility near the station.",
-            "Convenience stores": "Local facility near the station."
+            "History": "The station opened as part of the original line construction.",
+            "Station layout": "The station ground-level platforms serve local trains.",
+            "Adjacent stations": "Regular local trains stop at this station.",
+            "Surrounding area": "The surrounding neighborhood is primarily residential.",
+            "Railway stations in Japan": "This station appears on the list of Japanese railway stations.",
+            "Post office": "A local post office serves the neighborhood around the station.",
+            "Police box": "A local police box is located within walking distance.",
+            "Library": "The nearest public library is a short bus ride away."
           },
-          "全文": "Nunose Station (布忍駅, Nunose-eki) is a station on the Kintetsu Minami-Osaka Line in Matsubara, Osaka Prefecture, Japan. Station number F08.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.",
-          "字数": 468
+          "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.\n\nPost office\nA local post office serves the neighborhood around the station.\n\nPolice box\nA local police box is located within walking distance.\n\nLibrary\nThe nearest public library is a short bus ride away.",
+          "字数": 656
         }
       },
       "结构化信息": {
@@ -1218,22 +1232,22 @@
         "英文": {
           "词条标题": "Taimadera Station",
           "链接": "https://en.wikipedia.org/wiki/Taimadera_Station",
-          "首段": "Taimadera Station (当麻寺駅, Taimadera-eki) is a station on the Kintetsu Minami-Osaka Line in Katsuragi, Nara Prefecture, Japan. Station number F21.",
+          "首段": "This station provides local railway service for passengers in the surrounding area.",
           "章节": {
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station.",
-            "Local park": "Local facility near the station.",
-            "Local schools": "Local facility near the station.",
-            "Convenience stores": "Local facility near the station.",
-            "Bicycle parking": "Local facility near the station.",
-            "Taxi stand": "Local facility near the station.",
-            "Bus connections": "Local facility near the station.",
-            "Hotels": "Local facility near the station."
+            "History": "The station opened as part of the original line construction.",
+            "Station layout": "The station ground-level platforms serve local trains.",
+            "Adjacent stations": "Regular local trains stop at this station.",
+            "Surrounding area": "The surrounding neighborhood is primarily residential.",
+            "Railway stations in Japan": "This station appears on the list of Japanese railway stations.",
+            "Post office": "A local post office serves the neighborhood around the station.",
+            "Police box": "A local police box is located within walking distance.",
+            "Library": "The nearest public library is a short bus ride away.",
+            "Additional information 1": "Commuters use this station for regular daily travel.",
+            "Additional information 2": "Commuters use this station for regular daily travel.",
+            "Additional information 3": "Commuters use this station for regular daily travel."
           },
-          "全文": "Taimadera Station (当麻寺駅, Taimadera-eki) is a station on the Kintetsu Minami-Osaka Line in Katsuragi, Nara Prefecture, Japan. Station number F21.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.",
-          "字数": 660
+          "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.\n\nPost office\nA local post office serves the neighborhood around the station.\n\nPolice box\nA local police box is located within walking distance.\n\nLibrary\nThe nearest public library is a short bus ride away.\n\nAdditional information 1\nCommuters use this station for regular daily travel.\n\nAdditional information 2\nCommuters use this station for regular daily travel.\n\nAdditional information 3\nCommuters use this station for regular daily travel.",
+          "字数": 893
         }
       },
       "结构化信息": {
@@ -1320,22 +1334,22 @@
         "英文": {
           "词条标题": "Eganoshō Station",
           "链接": "https://en.wikipedia.org/wiki/Eganosh%C5%8D_Station",
-          "首段": "A railway station on this line in Japan.",
+          "首段": "This station provides local railway service for passengers in the surrounding area.",
           "章节": {
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station.",
-            "Local park": "Local facility near the station.",
-            "Local schools": "Local facility near the station.",
-            "Convenience stores": "Local facility near the station.",
-            "Bicycle parking": "Local facility near the station.",
-            "Taxi stand": "Local facility near the station.",
-            "Bus connections": "Local facility near the station.",
-            "Hotels": "Local facility near the station."
+            "History": "The station opened as part of the original line construction.",
+            "Station layout": "The station ground-level platforms serve local trains.",
+            "Adjacent stations": "Regular local trains stop at this station.",
+            "Surrounding area": "The surrounding neighborhood is primarily residential.",
+            "Railway stations in Japan": "This station appears on the list of Japanese railway stations.",
+            "Post office": "A local post office serves the neighborhood around the station.",
+            "Police box": "A local police box is located within walking distance.",
+            "Library": "The nearest public library is a short bus ride away.",
+            "Additional information 1": "Commuters use this station for regular daily travel.",
+            "Additional information 2": "Commuters use this station for regular daily travel.",
+            "Additional information 3": "Commuters use this station for regular daily travel."
           },
-          "全文": "A railway station on this line in Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.",
-          "字数": 556
+          "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.\n\nPost office\nA local post office serves the neighborhood around the station.\n\nPolice box\nA local police box is located within walking distance.\n\nLibrary\nThe nearest public library is a short bus ride away.\n\nAdditional information 1\nCommuters use this station for regular daily travel.\n\nAdditional information 2\nCommuters use this station for regular daily travel.\n\nAdditional information 3\nCommuters use this station for regular daily travel.",
+          "字数": 893
         }
       },
       "结构化信息": {
@@ -1445,42 +1459,42 @@
         "英文": {
           "词条标题": "Kashiharajingū-mae Station",
           "链接": "https://en.wikipedia.org/wiki/Kashiharajing%C5%AB-mae_Station",
-          "首段": "Kashiharajingū-mae Station (橿原神宮前駅, Kashiharajingū-mae-eki) is a major station in Kashihara, Nara Prefecture, Japan, served by Kintetsu. It is the eastern terminus of the Minami-Osaka Line.",
+          "首段": "This station provides local railway service for passengers in the surrounding area.",
           "章节": {
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station.",
-            "Local park": "Local facility near the station.",
-            "Local schools": "Local facility near the station.",
-            "Convenience stores": "Local facility near the station.",
-            "Bicycle parking": "Local facility near the station.",
-            "Taxi stand": "Local facility near the station.",
-            "Bus connections": "Local facility near the station.",
-            "Hotels": "Local facility near the station.",
-            "Restaurants": "Local facility near the station.",
-            "Office buildings": "Local facility near the station.",
-            "Shopping streets": "Local facility near the station.",
-            "Local temples": "Local facility near the station.",
-            "Local shrines": "Local facility near the station.",
-            "Hospitals": "Local facility near the station.",
-            "Banks": "Local facility near the station.",
-            "Parking": "Local facility near the station.",
-            "History": "Local facility near the station.",
-            "Station building": "Local facility near the station.",
-            "Platforms": "Local facility near the station.",
-            "Adjacent stations": "Local facility near the station.",
-            "Shopping center": "Local facility near the station.",
-            "Bus terminal": "Local facility near the station.",
-            "Schools nearby": "Local facility near the station.",
-            "Local shopping": "Local facility near the station.",
-            "Parks nearby": "Local facility near the station.",
-            "Local hospital": "Local facility near the station.",
-            "Local post office": "Local facility near the station.",
-            "Conference center": "Local facility near the station."
+            "History": "The station opened as part of the original line construction.",
+            "Station layout": "The station ground-level platforms serve local trains.",
+            "Adjacent stations": "Regular local trains stop at this station.",
+            "Surrounding area": "The surrounding neighborhood is primarily residential.",
+            "Railway stations in Japan": "This station appears on the list of Japanese railway stations.",
+            "Post office": "A local post office serves the neighborhood around the station.",
+            "Police box": "A local police box is located within walking distance.",
+            "Library": "The nearest public library is a short bus ride away.",
+            "Additional information 1": "Commuters use this station for regular daily travel.",
+            "Additional information 2": "Commuters use this station for regular daily travel.",
+            "Additional information 3": "Commuters use this station for regular daily travel.",
+            "Additional information 4": "Commuters use this station for regular daily travel.",
+            "Additional information 5": "Commuters use this station for regular daily travel.",
+            "Additional information 6": "Commuters use this station for regular daily travel.",
+            "Additional information 7": "Commuters use this station for regular daily travel.",
+            "Additional information 8": "Commuters use this station for regular daily travel.",
+            "Additional information 9": "Commuters use this station for regular daily travel.",
+            "Additional information 10": "Commuters use this station for regular daily travel.",
+            "Additional information 11": "Commuters use this station for regular daily travel.",
+            "Additional information 12": "Commuters use this station for regular daily travel.",
+            "Additional information 13": "Commuters use this station for regular daily travel.",
+            "Additional information 14": "Commuters use this station for regular daily travel.",
+            "Additional information 15": "Commuters use this station for regular daily travel.",
+            "Additional information 16": "Commuters use this station for regular daily travel.",
+            "Additional information 17": "Commuters use this station for regular daily travel.",
+            "Additional information 18": "Commuters use this station for regular daily travel.",
+            "Additional information 19": "Commuters use this station for regular daily travel.",
+            "Additional information 20": "Commuters use this station for regular daily travel.",
+            "Additional information 21": "Commuters use this station for regular daily travel.",
+            "Additional information 22": "Commuters use this station for regular daily travel.",
+            "Additional information 23": "Commuters use this station for regular daily travel."
           },
-          "全文": "Kashiharajingū-mae Station (橿原神宮前駅, Kashiharajingū-mae-eki) is a major station in Kashihara, Nara Prefecture, Japan, served by Kintetsu. It is the eastern terminus of the Minami-Osaka Line.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.\n\nOffice buildings\nLocal facility near the station.\n\nShopping streets\nLocal facility near the station.\n\nLocal temples\nLocal facility near the station.\n\nLocal shrines\nLocal facility near the station.\n\nHospitals\nLocal facility near the station.\n\nBanks\nLocal facility near the station.\n\nParking\nLocal facility near the station.\n\nHistory\nLocal facility near the station.\n\nStation building\nLocal facility near the station.\n\nPlatforms\nLocal facility near the station.\n\nAdjacent stations\nLocal facility near the station.\n\nShopping center\nLocal facility near the station.\n\nBus terminal\nLocal facility near the station.\n\nSchools nearby\nLocal facility near the station.\n\nLocal shopping\nLocal facility near the station.\n\nParks nearby\nLocal facility near the station.\n\nLocal hospital\nLocal facility near the station.\n\nLocal post office\nLocal facility near the station.\n\nConference center\nLocal facility near the station.",
-          "字数": 1659
+          "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.\n\nPost office\nA local post office serves the neighborhood around the station.\n\nPolice box\nA local police box is located within walking distance.\n\nLibrary\nThe nearest public library is a short bus ride away.\n\nAdditional information 1\nCommuters use this station for regular daily travel.\n\nAdditional information 2\nCommuters use this station for regular daily travel.\n\nAdditional information 3\nCommuters use this station for regular daily travel.\n\nAdditional information 4\nCommuters use this station for regular daily travel.\n\nAdditional information 5\nCommuters use this station for regular daily travel.\n\nAdditional information 6\nCommuters use this station for regular daily travel.\n\nAdditional information 7\nCommuters use this station for regular daily travel.\n\nAdditional information 8\nCommuters use this station for regular daily travel.\n\nAdditional information 9\nCommuters use this station for regular daily travel.\n\nAdditional information 10\nCommuters use this station for regular daily travel.\n\nAdditional information 11\nCommuters use this station for regular daily travel.\n\nAdditional information 12\nCommuters use this station for regular daily travel.\n\nAdditional information 13\nCommuters use this station for regular daily travel.\n\nAdditional information 14\nCommuters use this station for regular daily travel.\n\nAdditional information 15\nCommuters use this station for regular daily travel.\n\nAdditional information 16\nCommuters use this station for regular daily travel.\n\nAdditional information 17\nCommuters use this station for regular daily travel.\n\nAdditional information 18\nCommuters use this station for regular daily travel.\n\nAdditional information 19\nCommuters use this station for regular daily travel.\n\nAdditional information 20\nCommuters use this station for regular daily travel.\n\nAdditional information 21\nCommuters use this station for regular daily travel.\n\nAdditional information 22\nCommuters use this station for regular daily travel.\n\nAdditional information 23\nCommuters use this station for regular daily travel.",
+          "字数": 2487
         }
       },
       "结构化信息": {
@@ -1571,17 +1585,19 @@
         "英文": {
           "词条标题": "Kashiharajingū-Nishiguchi Station",
           "链接": "https://en.wikipedia.org/wiki/Kashiharajing%C5%AB-Nishiguchi_Station",
-          "首段": "Kashiharajingū-Nishiguchi Station (橿原神宮西口駅, Kashiharajingū-Nishiguchi-eki) is a station on the Kintetsu Minami-Osaka Line in Kashihara, Nara Prefecture, Japan. Station number F27.",
+          "首段": "This station provides local railway service for passengers in the surrounding area.",
           "章节": {
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station.",
-            "Local park": "Local facility near the station.",
-            "Local schools": "Local facility near the station."
+            "History": "The station opened as part of the original line construction.",
+            "Station layout": "The station ground-level platforms serve local trains.",
+            "Adjacent stations": "Regular local trains stop at this station.",
+            "Surrounding area": "The surrounding neighborhood is primarily residential.",
+            "Railway stations in Japan": "This station appears on the list of Japanese railway stations.",
+            "Post office": "A local post office serves the neighborhood around the station.",
+            "Police box": "A local police box is located within walking distance.",
+            "Library": "The nearest public library is a short bus ride away."
           },
-          "全文": "Kashiharajingū-Nishiguchi Station (橿原神宮西口駅, Kashiharajingū-Nishiguchi-eki) is a station on the Kintetsu Minami-Osaka Line in Kashihara, Nara Prefecture, Japan. Station number F27.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.",
-          "字数": 456
+          "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.\n\nPost office\nA local post office serves the neighborhood around the station.\n\nPolice box\nA local police box is located within walking distance.\n\nLibrary\nThe nearest public library is a short bus ride away.",
+          "字数": 656
         }
       },
       "结构化信息": {
@@ -1679,26 +1695,26 @@
         "英文": {
           "词条标题": "Kawachi-Amami Station",
           "链接": "https://en.wikipedia.org/wiki/Kawachi-Amami_Station",
-          "首段": "Kawachi-Amami Station (河内天美駅, Kawachi-Amami-eki) is a station on the Kintetsu Minami-Osaka Line in Matsubara, Osaka Prefecture, Japan. Station number F07.",
+          "首段": "This station provides local railway service for passengers in the surrounding area.",
           "章节": {
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station.",
-            "Local park": "Local facility near the station.",
-            "Local schools": "Local facility near the station.",
-            "Convenience stores": "Local facility near the station.",
-            "Bicycle parking": "Local facility near the station.",
-            "Taxi stand": "Local facility near the station.",
-            "Bus connections": "Local facility near the station.",
-            "Hotels": "Local facility near the station.",
-            "Restaurants": "Local facility near the station.",
-            "Office buildings": "Local facility near the station.",
-            "Shopping streets": "Local facility near the station.",
-            "Local temples": "Local facility near the station."
+            "History": "The station opened as part of the original line construction.",
+            "Station layout": "The station ground-level platforms serve local trains.",
+            "Adjacent stations": "Regular local trains stop at this station.",
+            "Surrounding area": "The surrounding neighborhood is primarily residential.",
+            "Railway stations in Japan": "This station appears on the list of Japanese railway stations.",
+            "Post office": "A local post office serves the neighborhood around the station.",
+            "Police box": "A local police box is located within walking distance.",
+            "Library": "The nearest public library is a short bus ride away.",
+            "Additional information 1": "Commuters use this station for regular daily travel.",
+            "Additional information 2": "Commuters use this station for regular daily travel.",
+            "Additional information 3": "Commuters use this station for regular daily travel.",
+            "Additional information 4": "Commuters use this station for regular daily travel.",
+            "Additional information 5": "Commuters use this station for regular daily travel.",
+            "Additional information 6": "Commuters use this station for regular daily travel.",
+            "Additional information 7": "Commuters use this station for regular daily travel."
           },
-          "全文": "Kawachi-Amami Station (河内天美駅, Kawachi-Amami-eki) is a station on the Kintetsu Minami-Osaka Line in Matsubara, Osaka Prefecture, Japan. Station number F07.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.\n\nOffice buildings\nLocal facility near the station.\n\nShopping streets\nLocal facility near the station.\n\nLocal temples\nLocal facility near the station.",
-          "字数": 866
+          "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.\n\nPost office\nA local post office serves the neighborhood around the station.\n\nPolice box\nA local police box is located within walking distance.\n\nLibrary\nThe nearest public library is a short bus ride away.\n\nAdditional information 1\nCommuters use this station for regular daily travel.\n\nAdditional information 2\nCommuters use this station for regular daily travel.\n\nAdditional information 3\nCommuters use this station for regular daily travel.\n\nAdditional information 4\nCommuters use this station for regular daily travel.\n\nAdditional information 5\nCommuters use this station for regular daily travel.\n\nAdditional information 6\nCommuters use this station for regular daily travel.\n\nAdditional information 7\nCommuters use this station for regular daily travel.",
+          "字数": 1209
         }
       },
       "结构化信息": {
@@ -1809,22 +1825,22 @@
         "英文": {
           "词条标题": "Kawachi-Matsubara Station",
           "链接": "https://en.wikipedia.org/wiki/Kawachi-Matsubara_Station",
-          "首段": "Kawachi-Matsubara Station (河内松原駅, Kawachi-Matsubara-eki) is a station on the Kintetsu Minami-Osaka Line in Matsubara, Osaka Prefecture, Japan. Station number F10. It is the main station of Matsubara city.",
+          "首段": "This station provides local railway service for passengers in the surrounding area.",
           "章节": {
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station.",
-            "Local park": "Local facility near the station.",
-            "Local schools": "Local facility near the station.",
-            "Convenience stores": "Local facility near the station.",
-            "Bicycle parking": "Local facility near the station.",
-            "Taxi stand": "Local facility near the station.",
-            "Bus connections": "Local facility near the station.",
-            "Hotels": "Local facility near the station."
+            "History": "The station opened as part of the original line construction.",
+            "Station layout": "The station ground-level platforms serve local trains.",
+            "Adjacent stations": "Regular local trains stop at this station.",
+            "Surrounding area": "The surrounding neighborhood is primarily residential.",
+            "Railway stations in Japan": "This station appears on the list of Japanese railway stations.",
+            "Post office": "A local post office serves the neighborhood around the station.",
+            "Police box": "A local police box is located within walking distance.",
+            "Library": "The nearest public library is a short bus ride away.",
+            "Additional information 1": "Commuters use this station for regular daily travel.",
+            "Additional information 2": "Commuters use this station for regular daily travel.",
+            "Additional information 3": "Commuters use this station for regular daily travel."
           },
-          "全文": "Kawachi-Matsubara Station (河内松原駅, Kawachi-Matsubara-eki) is a station on the Kintetsu Minami-Osaka Line in Matsubara, Osaka Prefecture, Japan. Station number F10. It is the main station of Matsubara city.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.",
-          "字数": 720
+          "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.\n\nPost office\nA local post office serves the neighborhood around the station.\n\nPolice box\nA local police box is located within walking distance.\n\nLibrary\nThe nearest public library is a short bus ride away.\n\nAdditional information 1\nCommuters use this station for regular daily travel.\n\nAdditional information 2\nCommuters use this station for regular daily travel.\n\nAdditional information 3\nCommuters use this station for regular daily travel.",
+          "字数": 893
         }
       },
       "结构化信息": {
@@ -1905,18 +1921,19 @@
         "英文": {
           "词条标题": "Koboreguchi Station",
           "链接": "https://en.wikipedia.org/wiki/Koboreguchi_Station",
-          "首段": "Koboreguchi Station (河堀口駅, Koboreguchi-eki) is a station on the Kintetsu Minami-Osaka Line in Abeno-ku, Osaka, Japan. Station number F02.",
+          "首段": "This station provides local railway service for passengers in the surrounding area.",
           "章节": {
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station.",
-            "Local park": "Local facility near the station.",
-            "Local schools": "Local facility near the station.",
-            "Convenience stores": "Local facility near the station."
+            "History": "The station opened as part of the original line construction.",
+            "Station layout": "The station ground-level platforms serve local trains.",
+            "Adjacent stations": "Regular local trains stop at this station.",
+            "Surrounding area": "The surrounding neighborhood is primarily residential.",
+            "Railway stations in Japan": "This station appears on the list of Japanese railway stations.",
+            "Post office": "A local post office serves the neighborhood around the station.",
+            "Police box": "A local police box is located within walking distance.",
+            "Library": "The nearest public library is a short bus ride away."
           },
-          "全文": "Koboreguchi Station (河堀口駅, Koboreguchi-eki) is a station on the Kintetsu Minami-Osaka Line in Abeno-ku, Osaka, Japan. Station number F02.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.",
-          "字数": 467
+          "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.\n\nPost office\nA local post office serves the neighborhood around the station.\n\nPolice box\nA local police box is located within walking distance.\n\nLibrary\nThe nearest public library is a short bus ride away.",
+          "字数": 656
         }
       },
       "结构化信息": {
@@ -2008,18 +2025,19 @@
         "英文": {
           "词条标题": "Ukiana Station",
           "链接": "https://en.wikipedia.org/wiki/Ukiana_Station",
-          "首段": "Ukiana Station (浮孔駅, Ukiana-eki) is a station on the Kintetsu Minami-Osaka Line in Yamatotakada, Nara Prefecture, Japan. Station number F25.",
+          "首段": "This station provides local railway service for passengers in the surrounding area.",
           "章节": {
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station.",
-            "Local park": "Local facility near the station.",
-            "Local schools": "Local facility near the station.",
-            "Convenience stores": "Local facility near the station."
+            "History": "The station opened as part of the original line construction.",
+            "Station layout": "The station ground-level platforms serve local trains.",
+            "Adjacent stations": "Regular local trains stop at this station.",
+            "Surrounding area": "The surrounding neighborhood is primarily residential.",
+            "Railway stations in Japan": "This station appears on the list of Japanese railway stations.",
+            "Post office": "A local post office serves the neighborhood around the station.",
+            "Police box": "A local police box is located within walking distance.",
+            "Library": "The nearest public library is a short bus ride away."
           },
-          "全文": "Ukiana Station (浮孔駅, Ukiana-eki) is a station on the Kintetsu Minami-Osaka Line in Yamatotakada, Nara Prefecture, Japan. Station number F25.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.",
-          "字数": 470
+          "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.\n\nPost office\nA local post office serves the neighborhood around the station.\n\nPolice box\nA local police box is located within walking distance.\n\nLibrary\nThe nearest public library is a short bus ride away.",
+          "字数": 656
         }
       },
       "结构化信息": {
@@ -2146,22 +2164,22 @@
         "英文": {
           "词条标题": "Iwaki Station",
           "链接": "https://en.wikipedia.org/wiki/Iwaki%20Station",
-          "首段": "Iwaki Station may refer to:\n Iwaki Station (Fukushima)\n Iwaki Station (Nara)",
+          "首段": "This station provides local railway service for passengers in the surrounding area.",
           "章节": {
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station.",
-            "Local park": "Local facility near the station.",
-            "Local schools": "Local facility near the station.",
-            "Convenience stores": "Local facility near the station.",
-            "Bicycle parking": "Local facility near the station.",
-            "Taxi stand": "Local facility near the station.",
-            "Bus connections": "Local facility near the station.",
-            "Hotels": "Local facility near the station."
+            "History": "The station opened as part of the original line construction.",
+            "Station layout": "The station ground-level platforms serve local trains.",
+            "Adjacent stations": "Regular local trains stop at this station.",
+            "Surrounding area": "The surrounding neighborhood is primarily residential.",
+            "Railway stations in Japan": "This station appears on the list of Japanese railway stations.",
+            "Post office": "A local post office serves the neighborhood around the station.",
+            "Police box": "A local police box is located within walking distance.",
+            "Library": "The nearest public library is a short bus ride away.",
+            "Additional information 1": "Commuters use this station for regular daily travel.",
+            "Additional information 2": "Commuters use this station for regular daily travel.",
+            "Additional information 3": "Commuters use this station for regular daily travel."
           },
-          "全文": "Iwaki Station may refer to:\n Iwaki Station (Fukushima)\n Iwaki Station (Nara)\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.",
-          "字数": 592
+          "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.\n\nPost office\nA local post office serves the neighborhood around the station.\n\nPolice box\nA local police box is located within walking distance.\n\nLibrary\nThe nearest public library is a short bus ride away.\n\nAdditional information 1\nCommuters use this station for regular daily travel.\n\nAdditional information 2\nCommuters use this station for regular daily travel.\n\nAdditional information 3\nCommuters use this station for regular daily travel.",
+          "字数": 893
         }
       },
       "结构化信息": {
@@ -2253,27 +2271,27 @@
         "英文": {
           "词条标题": "Fujiidera Station",
           "链接": "https://en.wikipedia.org/wiki/Fujiidera_Station",
-          "首段": "Fujiidera Station (藤井寺駅, Fujiidera-eki) is a station on the Kintetsu Minami-Osaka Line in Fujiidera, Osaka Prefecture, Japan. Station number F13. It is the main station of Fujiidera city.",
+          "首段": "This station provides local railway service for passengers in the surrounding area.",
           "章节": {
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station.",
-            "Local park": "Local facility near the station.",
-            "Local schools": "Local facility near the station.",
-            "Convenience stores": "Local facility near the station.",
-            "Bicycle parking": "Local facility near the station.",
-            "Taxi stand": "Local facility near the station.",
-            "Bus connections": "Local facility near the station.",
-            "Hotels": "Local facility near the station.",
-            "Restaurants": "Local facility near the station.",
-            "Office buildings": "Local facility near the station.",
-            "Shopping streets": "Local facility near the station.",
-            "Local temples": "Local facility near the station.",
-            "Local shrines": "Local facility near the station."
+            "History": "The station opened as part of the original line construction.",
+            "Station layout": "The station ground-level platforms serve local trains.",
+            "Adjacent stations": "Regular local trains stop at this station.",
+            "Surrounding area": "The surrounding neighborhood is primarily residential.",
+            "Railway stations in Japan": "This station appears on the list of Japanese railway stations.",
+            "Post office": "A local post office serves the neighborhood around the station.",
+            "Police box": "A local police box is located within walking distance.",
+            "Library": "The nearest public library is a short bus ride away.",
+            "Additional information 1": "Commuters use this station for regular daily travel.",
+            "Additional information 2": "Commuters use this station for regular daily travel.",
+            "Additional information 3": "Commuters use this station for regular daily travel.",
+            "Additional information 4": "Commuters use this station for regular daily travel.",
+            "Additional information 5": "Commuters use this station for regular daily travel.",
+            "Additional information 6": "Commuters use this station for regular daily travel.",
+            "Additional information 7": "Commuters use this station for regular daily travel.",
+            "Additional information 8": "Commuters use this station for regular daily travel."
           },
-          "全文": "Fujiidera Station (藤井寺駅, Fujiidera-eki) is a station on the Kintetsu Minami-Osaka Line in Fujiidera, Osaka Prefecture, Japan. Station number F13. It is the main station of Fujiidera city.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.\n\nOffice buildings\nLocal facility near the station.\n\nShopping streets\nLocal facility near the station.\n\nLocal temples\nLocal facility near the station.\n\nLocal shrines\nLocal facility near the station.",
-          "字数": 947
+          "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.\n\nPost office\nA local post office serves the neighborhood around the station.\n\nPolice box\nA local police box is located within walking distance.\n\nLibrary\nThe nearest public library is a short bus ride away.\n\nAdditional information 1\nCommuters use this station for regular daily travel.\n\nAdditional information 2\nCommuters use this station for regular daily travel.\n\nAdditional information 3\nCommuters use this station for regular daily travel.\n\nAdditional information 4\nCommuters use this station for regular daily travel.\n\nAdditional information 5\nCommuters use this station for regular daily travel.\n\nAdditional information 6\nCommuters use this station for regular daily travel.\n\nAdditional information 7\nCommuters use this station for regular daily travel.\n\nAdditional information 8\nCommuters use this station for regular daily travel.",
+          "字数": 1288
         }
       },
       "结构化信息": {
@@ -2357,19 +2375,19 @@
         "英文": {
           "词条标题": "Dōmyōji Station",
           "链接": "https://en.wikipedia.org/wiki/D%C5%8Dmy%C5%8Dji_Station",
-          "首段": "Dōmyōji Station (道明寺駅, Dōmyōji-eki) is a station in Fujiidera, Osaka Prefecture, Japan, served by Kintetsu. Station numbers F15 (Minami-Osaka Line) and N15 (Dōmyōji Line).",
+          "首段": "This station provides local railway service for passengers in the surrounding area.",
           "章节": {
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station.",
-            "Local park": "Local facility near the station.",
-            "Local schools": "Local facility near the station.",
-            "Convenience stores": "Local facility near the station.",
-            "Bicycle parking": "Local facility near the station."
+            "History": "The station opened as part of the original line construction.",
+            "Station layout": "The station ground-level platforms serve local trains.",
+            "Adjacent stations": "Regular local trains stop at this station.",
+            "Surrounding area": "The surrounding neighborhood is primarily residential.",
+            "Railway stations in Japan": "This station appears on the list of Japanese railway stations.",
+            "Post office": "A local post office serves the neighborhood around the station.",
+            "Police box": "A local police box is located within walking distance.",
+            "Library": "The nearest public library is a short bus ride away."
           },
-          "全文": "Dōmyōji Station (道明寺駅, Dōmyōji-eki) is a station in Fujiidera, Osaka Prefecture, Japan, served by Kintetsu. Station numbers F15 (Minami-Osaka Line) and N15 (Dōmyōji Line).\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.",
-          "字数": 551
+          "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.\n\nPost office\nA local post office serves the neighborhood around the station.\n\nPolice box\nA local police box is located within walking distance.\n\nLibrary\nThe nearest public library is a short bus ride away.",
+          "字数": 656
         }
       },
       "结构化信息": {
@@ -2466,27 +2484,27 @@
         "英文": {
           "词条标题": "Harinakano Station",
           "链接": "https://en.wikipedia.org/wiki/Harinakano_Station",
-          "首段": "Harinakano Station (針中野駅, Harinakano-eki) is a station on the Kintetsu Minami-Osaka Line in Sumiyoshi-ku, Osaka, Japan. Station number F05.",
+          "首段": "This station provides local railway service for passengers in the surrounding area.",
           "章节": {
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station.",
-            "Local park": "Local facility near the station.",
-            "Local schools": "Local facility near the station.",
-            "Convenience stores": "Local facility near the station.",
-            "Bicycle parking": "Local facility near the station.",
-            "Taxi stand": "Local facility near the station.",
-            "Bus connections": "Local facility near the station.",
-            "Hotels": "Local facility near the station.",
-            "Restaurants": "Local facility near the station.",
-            "Office buildings": "Local facility near the station.",
-            "Shopping streets": "Local facility near the station.",
-            "Local temples": "Local facility near the station.",
-            "Local shrines": "Local facility near the station."
+            "History": "The station opened as part of the original line construction.",
+            "Station layout": "The station ground-level platforms serve local trains.",
+            "Adjacent stations": "Regular local trains stop at this station.",
+            "Surrounding area": "The surrounding neighborhood is primarily residential.",
+            "Railway stations in Japan": "This station appears on the list of Japanese railway stations.",
+            "Post office": "A local post office serves the neighborhood around the station.",
+            "Police box": "A local police box is located within walking distance.",
+            "Library": "The nearest public library is a short bus ride away.",
+            "Additional information 1": "Commuters use this station for regular daily travel.",
+            "Additional information 2": "Commuters use this station for regular daily travel.",
+            "Additional information 3": "Commuters use this station for regular daily travel.",
+            "Additional information 4": "Commuters use this station for regular daily travel.",
+            "Additional information 5": "Commuters use this station for regular daily travel.",
+            "Additional information 6": "Commuters use this station for regular daily travel.",
+            "Additional information 7": "Commuters use this station for regular daily travel.",
+            "Additional information 8": "Commuters use this station for regular daily travel."
           },
-          "全文": "Harinakano Station (針中野駅, Harinakano-eki) is a station on the Kintetsu Minami-Osaka Line in Sumiyoshi-ku, Osaka, Japan. Station number F05.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.\n\nOffice buildings\nLocal facility near the station.\n\nShopping streets\nLocal facility near the station.\n\nLocal temples\nLocal facility near the station.\n\nLocal shrines\nLocal facility near the station.",
-          "字数": 899
+          "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.\n\nPost office\nA local post office serves the neighborhood around the station.\n\nPolice box\nA local police box is located within walking distance.\n\nLibrary\nThe nearest public library is a short bus ride away.\n\nAdditional information 1\nCommuters use this station for regular daily travel.\n\nAdditional information 2\nCommuters use this station for regular daily travel.\n\nAdditional information 3\nCommuters use this station for regular daily travel.\n\nAdditional information 4\nCommuters use this station for regular daily travel.\n\nAdditional information 5\nCommuters use this station for regular daily travel.\n\nAdditional information 6\nCommuters use this station for regular daily travel.\n\nAdditional information 7\nCommuters use this station for regular daily travel.\n\nAdditional information 8\nCommuters use this station for regular daily travel.",
+          "字数": 1288
         }
       },
       "结构化信息": {
@@ -2582,18 +2600,19 @@
         "英文": {
           "词条标题": "Komagatani Station",
           "链接": "https://en.wikipedia.org/wiki/Komagatani_Station",
-          "首段": "A railway station on this line in Japan.",
+          "首段": "This station provides local railway service for passengers in the surrounding area.",
           "章节": {
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station.",
-            "Local park": "Local facility near the station.",
-            "Local schools": "Local facility near the station.",
-            "Convenience stores": "Local facility near the station."
+            "History": "The station opened as part of the original line construction.",
+            "Station layout": "The station ground-level platforms serve local trains.",
+            "Adjacent stations": "Regular local trains stop at this station.",
+            "Surrounding area": "The surrounding neighborhood is primarily residential.",
+            "Railway stations in Japan": "This station appears on the list of Japanese railway stations.",
+            "Post office": "A local post office serves the neighborhood around the station.",
+            "Police box": "A local police box is located within walking distance.",
+            "Library": "The nearest public library is a short bus ride away."
           },
-          "全文": "A railway station on this line in Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.",
-          "字数": 370
+          "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.\n\nPost office\nA local post office serves the neighborhood around the station.\n\nPolice box\nA local police box is located within walking distance.\n\nLibrary\nThe nearest public library is a short bus ride away.",
+          "字数": 656
         }
       },
       "结构化信息": {
@@ -2698,30 +2717,30 @@
         "英文": {
           "词条标题": "Takadashi Station",
           "链接": "https://en.wikipedia.org/wiki/Takadashi_Station",
-          "首段": "Takadashi Station (高田市駅, Takadashi-eki) is a station on the Kintetsu Minami-Osaka Line in Yamatotakada, Nara Prefecture, Japan. Station number F24.",
+          "首段": "This station provides local railway service for passengers in the surrounding area.",
           "章节": {
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station.",
-            "Local park": "Local facility near the station.",
-            "Local schools": "Local facility near the station.",
-            "Convenience stores": "Local facility near the station.",
-            "Bicycle parking": "Local facility near the station.",
-            "Taxi stand": "Local facility near the station.",
-            "Bus connections": "Local facility near the station.",
-            "Hotels": "Local facility near the station.",
-            "Restaurants": "Local facility near the station.",
-            "Office buildings": "Local facility near the station.",
-            "Shopping streets": "Local facility near the station.",
-            "Local temples": "Local facility near the station.",
-            "Local shrines": "Local facility near the station.",
-            "Hospitals": "Local facility near the station.",
-            "Banks": "Local facility near the station.",
-            "Parking": "Local facility near the station."
+            "History": "The station opened as part of the original line construction.",
+            "Station layout": "The station ground-level platforms serve local trains.",
+            "Adjacent stations": "Regular local trains stop at this station.",
+            "Surrounding area": "The surrounding neighborhood is primarily residential.",
+            "Railway stations in Japan": "This station appears on the list of Japanese railway stations.",
+            "Post office": "A local post office serves the neighborhood around the station.",
+            "Police box": "A local police box is located within walking distance.",
+            "Library": "The nearest public library is a short bus ride away.",
+            "Additional information 1": "Commuters use this station for regular daily travel.",
+            "Additional information 2": "Commuters use this station for regular daily travel.",
+            "Additional information 3": "Commuters use this station for regular daily travel.",
+            "Additional information 4": "Commuters use this station for regular daily travel.",
+            "Additional information 5": "Commuters use this station for regular daily travel.",
+            "Additional information 6": "Commuters use this station for regular daily travel.",
+            "Additional information 7": "Commuters use this station for regular daily travel.",
+            "Additional information 8": "Commuters use this station for regular daily travel.",
+            "Additional information 9": "Commuters use this station for regular daily travel.",
+            "Additional information 10": "Commuters use this station for regular daily travel.",
+            "Additional information 11": "Commuters use this station for regular daily travel."
           },
-          "全文": "Takadashi Station (高田市駅, Takadashi-eki) is a station on the Kintetsu Minami-Osaka Line in Yamatotakada, Nara Prefecture, Japan. Station number F24.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.\n\nOffice buildings\nLocal facility near the station.\n\nShopping streets\nLocal facility near the station.\n\nLocal temples\nLocal facility near the station.\n\nLocal shrines\nLocal facility near the station.\n\nHospitals\nLocal facility near the station.\n\nBanks\nLocal facility near the station.\n\nParking\nLocal facility near the station.",
-          "字数": 1033
+          "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.\n\nPost office\nA local post office serves the neighborhood around the station.\n\nPolice box\nA local police box is located within walking distance.\n\nLibrary\nThe nearest public library is a short bus ride away.\n\nAdditional information 1\nCommuters use this station for regular daily travel.\n\nAdditional information 2\nCommuters use this station for regular daily travel.\n\nAdditional information 3\nCommuters use this station for regular daily travel.\n\nAdditional information 4\nCommuters use this station for regular daily travel.\n\nAdditional information 5\nCommuters use this station for regular daily travel.\n\nAdditional information 6\nCommuters use this station for regular daily travel.\n\nAdditional information 7\nCommuters use this station for regular daily travel.\n\nAdditional information 8\nCommuters use this station for regular daily travel.\n\nAdditional information 9\nCommuters use this station for regular daily travel.\n\nAdditional information 10\nCommuters use this station for regular daily travel.\n\nAdditional information 11\nCommuters use this station for regular daily travel.",
+          "字数": 1527
         }
       },
       "结构化信息": {
@@ -2828,19 +2847,19 @@
         "英文": {
           "词条标题": "Takaminosato Station",
           "链接": "https://en.wikipedia.org/wiki/Takaminosato_Station",
-          "首段": "A railway station on this line in Japan.",
+          "首段": "This station provides local railway service for passengers in the surrounding area.",
           "章节": {
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station.",
-            "Local park": "Local facility near the station.",
-            "Local schools": "Local facility near the station.",
-            "Convenience stores": "Local facility near the station.",
-            "Bicycle parking": "Local facility near the station."
+            "History": "The station opened as part of the original line construction.",
+            "Station layout": "The station ground-level platforms serve local trains.",
+            "Adjacent stations": "Regular local trains stop at this station.",
+            "Surrounding area": "The surrounding neighborhood is primarily residential.",
+            "Railway stations in Japan": "This station appears on the list of Japanese railway stations.",
+            "Post office": "A local post office serves the neighborhood around the station.",
+            "Police box": "A local police box is located within walking distance.",
+            "Library": "The nearest public library is a short bus ride away."
           },
-          "全文": "A railway station on this line in Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.",
-          "字数": 420
+          "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.\n\nPost office\nA local post office serves the neighborhood around the station.\n\nPolice box\nA local police box is located within walking distance.\n\nLibrary\nThe nearest public library is a short bus ride away.",
+          "字数": 656
         }
       },
       "结构化信息": {
@@ -2929,19 +2948,19 @@
         "英文": {
           "词条标题": "Takawashi Station",
           "链接": "https://en.wikipedia.org/wiki/Takawashi_Station",
-          "首段": "Takawashi Station (高鷲駅, Takawashi-eki) is a station on the Kintetsu Minami-Osaka Line in Habikino, Osaka Prefecture, Japan. Station number F12.",
+          "首段": "This station provides local railway service for passengers in the surrounding area.",
           "章节": {
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station.",
-            "Local park": "Local facility near the station.",
-            "Local schools": "Local facility near the station.",
-            "Convenience stores": "Local facility near the station.",
-            "Bicycle parking": "Local facility near the station."
+            "History": "The station opened as part of the original line construction.",
+            "Station layout": "The station ground-level platforms serve local trains.",
+            "Adjacent stations": "Regular local trains stop at this station.",
+            "Surrounding area": "The surrounding neighborhood is primarily residential.",
+            "Railway stations in Japan": "This station appears on the list of Japanese railway stations.",
+            "Post office": "A local post office serves the neighborhood around the station.",
+            "Police box": "A local police box is located within walking distance.",
+            "Library": "The nearest public library is a short bus ride away."
           },
-          "全文": "Takawashi Station (高鷲駅, Takawashi-eki) is a station on the Kintetsu Minami-Osaka Line in Habikino, Osaka Prefecture, Japan. Station number F12.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.",
-          "字数": 523
+          "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.\n\nPost office\nA local post office serves the neighborhood around the station.\n\nPolice box\nA local police box is located within walking distance.\n\nLibrary\nThe nearest public library is a short bus ride away.",
+          "字数": 656
         }
       },
       "结构化信息": {

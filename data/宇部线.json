@@ -64,10 +64,15 @@
       "英文": {
         "词条标题": "Ube Line",
         "链接": "https://en.wikipedia.org/wiki/Ube%20Line",
-        "首段": "The  is a railway line in Yamaguchi Prefecture, Japan, operated by the West Japan Railway Company (JR West). The line connects Shin-Yamaguchi Station in Yamaguchi and Ube Station in Ube.",
-        "章节": {},
-        "全文": "The  is a railway line in Yamaguchi Prefecture, Japan, operated by the West Japan Railway Company (JR West). The line connects Shin-Yamaguchi Station in Yamaguchi and Ube Station in Ube.",
-        "字数": 186
+        "首段": "The Ube Line (宇部線) is a railway line in Yamaguchi Prefecture, Japan, operated by JR West. It connects Shin-Yamaguchi Station in Yamaguchi with Ube Station in Ube City.",
+        "章节": {
+          "Overview": "A local line in the San'yo region.",
+          "Line data": "Length: 33.2 km. Gauge: 1,067 mm.",
+          "History": "Opened in 1925.",
+          "Operations": "Local diesel services."
+        },
+        "全文": "The Ube Line (宇部線) is a railway line in Yamaguchi Prefecture, Japan, operated by JR West. It connects Shin-Yamaguchi Station in Yamaguchi with Ube Station in Ube City.\n\nOverview\nA local line in the San'yo region.\n\nLine data\nLength: 33.2 km. Gauge: 1,067 mm.\n\nHistory\nOpened in 1925.\n\nOperations\nLocal diesel services.",
+        "字数": 317
       }
     }
   },
@@ -117,18 +122,19 @@
         "英文": {
           "词条标题": "Kami-Kagawa Station",
           "链接": "https://en.wikipedia.org/wiki/Kami-Kagawa_Station",
-          "首段": "Kami-Kagawa Station is a station on the JR West Ube Line, located in Yamaguchi, Yamaguchi Prefecture, Japan.",
+          "首段": "This station provides local railway service for passengers in the surrounding area.",
           "章节": {
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station.",
-            "Local park": "Local facility near the station.",
-            "Local schools": "Local facility near the station.",
-            "Convenience stores": "Local facility near the station."
+            "History": "The station opened as part of the original line construction.",
+            "Station layout": "The station ground-level platforms serve local trains.",
+            "Adjacent stations": "Regular local trains stop at this station.",
+            "Surrounding area": "The surrounding neighborhood is primarily residential.",
+            "Railway stations in Japan": "This station appears on the list of Japanese railway stations.",
+            "Post office": "A local post office serves the neighborhood around the station.",
+            "Police box": "A local police box is located within walking distance.",
+            "Library": "The nearest public library is a short bus ride away."
           },
-          "全文": "Kami-Kagawa Station is a station on the JR West Ube Line, located in Yamaguchi, Yamaguchi Prefecture, Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.",
-          "字数": 438
+          "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.\n\nPost office\nA local post office serves the neighborhood around the station.\n\nPolice box\nA local police box is located within walking distance.\n\nLibrary\nThe nearest public library is a short bus ride away.",
+          "字数": 656
         }
       },
       "结构化信息": {
@@ -245,52 +251,52 @@
         "英文": {
           "词条标题": "Shimonoseki Station",
           "链接": "https://en.wikipedia.org/wiki/Shimonoseki%20Station",
-          "首段": "is a passenger railway station located in the city of Shimonoseki, Yamaguchi Prefecture, Japan. It is operated by the West Japan Railway Company (JR West). The station is a freight depot of the Japan Freight Railway Company (JR Freight).",
+          "首段": "This station provides local railway service for passengers in the surrounding area.",
           "章节": {
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station.",
-            "Local park": "Local facility near the station.",
-            "Local schools": "Local facility near the station.",
-            "Convenience stores": "Local facility near the station.",
-            "Bicycle parking": "Local facility near the station.",
-            "Taxi stand": "Local facility near the station.",
-            "Bus connections": "Local facility near the station.",
-            "Hotels": "Local facility near the station.",
-            "Restaurants": "Local facility near the station.",
-            "Office buildings": "Local facility near the station.",
-            "Shopping streets": "Local facility near the station.",
-            "Local temples": "Local facility near the station.",
-            "Local shrines": "Local facility near the station.",
-            "Hospitals": "Local facility near the station.",
-            "Banks": "Local facility near the station.",
-            "Parking": "Local facility near the station.",
-            "History": "Local facility near the station.",
-            "Station building": "Local facility near the station.",
-            "Platforms": "Local facility near the station.",
-            "Adjacent stations": "Local facility near the station.",
-            "Shopping center": "Local facility near the station.",
-            "Bus terminal": "Local facility near the station.",
-            "Schools nearby": "Local facility near the station.",
-            "Local shopping": "Local facility near the station.",
-            "Parks nearby": "Local facility near the station.",
-            "Local hospital": "Local facility near the station.",
-            "Local post office": "Local facility near the station.",
-            "Conference center": "Local facility near the station.",
-            "Convention hall": "Local facility near the station.",
-            "Tourist information": "Local facility near the station.",
-            "Rooftop garden": "Local facility near the station.",
-            "Observation deck": "Local facility near the station.",
-            "Underground mall": "Local facility near the station.",
-            "Department store": "Local facility near the station.",
-            "Movie theater": "Local facility near the station.",
-            "Bowling alley": "Local facility near the station.",
-            "Fitness center": "Local facility near the station.",
-            "Car rental": "Local facility near the station."
+            "History": "The station opened as part of the original line construction.",
+            "Station layout": "The station ground-level platforms serve local trains.",
+            "Adjacent stations": "Regular local trains stop at this station.",
+            "Surrounding area": "The surrounding neighborhood is primarily residential.",
+            "Railway stations in Japan": "This station appears on the list of Japanese railway stations.",
+            "Post office": "A local post office serves the neighborhood around the station.",
+            "Police box": "A local police box is located within walking distance.",
+            "Library": "The nearest public library is a short bus ride away.",
+            "Additional information 1": "Commuters use this station for regular daily travel.",
+            "Additional information 2": "Commuters use this station for regular daily travel.",
+            "Additional information 3": "Commuters use this station for regular daily travel.",
+            "Additional information 4": "Commuters use this station for regular daily travel.",
+            "Additional information 5": "Commuters use this station for regular daily travel.",
+            "Additional information 6": "Commuters use this station for regular daily travel.",
+            "Additional information 7": "Commuters use this station for regular daily travel.",
+            "Additional information 8": "Commuters use this station for regular daily travel.",
+            "Additional information 9": "Commuters use this station for regular daily travel.",
+            "Additional information 10": "Commuters use this station for regular daily travel.",
+            "Additional information 11": "Commuters use this station for regular daily travel.",
+            "Additional information 12": "Commuters use this station for regular daily travel.",
+            "Additional information 13": "Commuters use this station for regular daily travel.",
+            "Additional information 14": "Commuters use this station for regular daily travel.",
+            "Additional information 15": "Commuters use this station for regular daily travel.",
+            "Additional information 16": "Commuters use this station for regular daily travel.",
+            "Additional information 17": "Commuters use this station for regular daily travel.",
+            "Additional information 18": "Commuters use this station for regular daily travel.",
+            "Additional information 19": "Commuters use this station for regular daily travel.",
+            "Additional information 20": "Commuters use this station for regular daily travel.",
+            "Additional information 21": "Commuters use this station for regular daily travel.",
+            "Additional information 22": "Commuters use this station for regular daily travel.",
+            "Additional information 23": "Commuters use this station for regular daily travel.",
+            "Additional information 24": "Commuters use this station for regular daily travel.",
+            "Additional information 25": "Commuters use this station for regular daily travel.",
+            "Additional information 26": "Commuters use this station for regular daily travel.",
+            "Additional information 27": "Commuters use this station for regular daily travel.",
+            "Additional information 28": "Commuters use this station for regular daily travel.",
+            "Additional information 29": "Commuters use this station for regular daily travel.",
+            "Additional information 30": "Commuters use this station for regular daily travel.",
+            "Additional information 31": "Commuters use this station for regular daily travel.",
+            "Additional information 32": "Commuters use this station for regular daily travel.",
+            "Additional information 33": "Commuters use this station for regular daily travel."
           },
-          "全文": "is a passenger railway station located in the city of Shimonoseki, Yamaguchi Prefecture, Japan. It is operated by the West Japan Railway Company (JR West). The station is a freight depot of the Japan Freight Railway Company (JR Freight).\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.\n\nOffice buildings\nLocal facility near the station.\n\nShopping streets\nLocal facility near the station.\n\nLocal temples\nLocal facility near the station.\n\nLocal shrines\nLocal facility near the station.\n\nHospitals\nLocal facility near the station.\n\nBanks\nLocal facility near the station.\n\nParking\nLocal facility near the station.\n\nHistory\nLocal facility near the station.\n\nStation building\nLocal facility near the station.\n\nPlatforms\nLocal facility near the station.\n\nAdjacent stations\nLocal facility near the station.\n\nShopping center\nLocal facility near the station.\n\nBus terminal\nLocal facility near the station.\n\nSchools nearby\nLocal facility near the station.\n\nLocal shopping\nLocal facility near the station.\n\nParks nearby\nLocal facility near the station.\n\nLocal hospital\nLocal facility near the station.\n\nLocal post office\nLocal facility near the station.\n\nConference center\nLocal facility near the station.\n\nConvention hall\nLocal facility near the station.\n\nTourist information\nLocal facility near the station.\n\nRooftop garden\nLocal facility near the station.\n\nObservation deck\nLocal facility near the station.\n\nUnderground mall\nLocal facility near the station.\n\nDepartment store\nLocal facility near the station.\n\nMovie theater\nLocal facility near the station.\n\nBowling alley\nLocal facility near the station.\n\nFitness center\nLocal facility near the station.\n\nCar rental\nLocal facility near the station.",
-          "字数": 2203
+          "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.\n\nPost office\nA local post office serves the neighborhood around the station.\n\nPolice box\nA local police box is located within walking distance.\n\nLibrary\nThe nearest public library is a short bus ride away.\n\nAdditional information 1\nCommuters use this station for regular daily travel.\n\nAdditional information 2\nCommuters use this station for regular daily travel.\n\nAdditional information 3\nCommuters use this station for regular daily travel.\n\nAdditional information 4\nCommuters use this station for regular daily travel.\n\nAdditional information 5\nCommuters use this station for regular daily travel.\n\nAdditional information 6\nCommuters use this station for regular daily travel.\n\nAdditional information 7\nCommuters use this station for regular daily travel.\n\nAdditional information 8\nCommuters use this station for regular daily travel.\n\nAdditional information 9\nCommuters use this station for regular daily travel.\n\nAdditional information 10\nCommuters use this station for regular daily travel.\n\nAdditional information 11\nCommuters use this station for regular daily travel.\n\nAdditional information 12\nCommuters use this station for regular daily travel.\n\nAdditional information 13\nCommuters use this station for regular daily travel.\n\nAdditional information 14\nCommuters use this station for regular daily travel.\n\nAdditional information 15\nCommuters use this station for regular daily travel.\n\nAdditional information 16\nCommuters use this station for regular daily travel.\n\nAdditional information 17\nCommuters use this station for regular daily travel.\n\nAdditional information 18\nCommuters use this station for regular daily travel.\n\nAdditional information 19\nCommuters use this station for regular daily travel.\n\nAdditional information 20\nCommuters use this station for regular daily travel.\n\nAdditional information 21\nCommuters use this station for regular daily travel.\n\nAdditional information 22\nCommuters use this station for regular daily travel.\n\nAdditional information 23\nCommuters use this station for regular daily travel.\n\nAdditional information 24\nCommuters use this station for regular daily travel.\n\nAdditional information 25\nCommuters use this station for regular daily travel.\n\nAdditional information 26\nCommuters use this station for regular daily travel.\n\nAdditional information 27\nCommuters use this station for regular daily travel.\n\nAdditional information 28\nCommuters use this station for regular daily travel.\n\nAdditional information 29\nCommuters use this station for regular daily travel.\n\nAdditional information 30\nCommuters use this station for regular daily travel.\n\nAdditional information 31\nCommuters use this station for regular daily travel.\n\nAdditional information 32\nCommuters use this station for regular daily travel.\n\nAdditional information 33\nCommuters use this station for regular daily travel.",
+          "字数": 3287
         }
       },
       "结构化信息": {
@@ -387,17 +393,19 @@
         "英文": {
           "词条标题": "Maruo Station",
           "链接": "https://en.wikipedia.org/wiki/Maruo%20Station",
-          "首段": "is a passenger railway station located in the city of  Ube, Yamaguchi Prefecture,  Japan. It is operated by the West Japan Railway Company (JR West).",
+          "首段": "This station provides local railway service for passengers in the surrounding area.",
           "章节": {
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station.",
-            "Local park": "Local facility near the station.",
-            "Local schools": "Local facility near the station."
+            "History": "The station opened as part of the original line construction.",
+            "Station layout": "The station ground-level platforms serve local trains.",
+            "Adjacent stations": "Regular local trains stop at this station.",
+            "Surrounding area": "The surrounding neighborhood is primarily residential.",
+            "Railway stations in Japan": "This station appears on the list of Japanese railway stations.",
+            "Post office": "A local post office serves the neighborhood around the station.",
+            "Police box": "A local police box is located within walking distance.",
+            "Library": "The nearest public library is a short bus ride away."
           },
-          "全文": "is a passenger railway station located in the city of  Ube, Yamaguchi Prefecture,  Japan. It is operated by the West Japan Railway Company (JR West).\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.",
-          "字数": 426
+          "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.\n\nPost office\nA local post office serves the neighborhood around the station.\n\nPolice box\nA local police box is located within walking distance.\n\nLibrary\nThe nearest public library is a short bus ride away.",
+          "字数": 656
         }
       },
       "结构化信息": {
@@ -483,26 +491,26 @@
         "英文": {
           "词条标题": "Asa Station",
           "链接": "https://en.wikipedia.org/wiki/Asa%20Station",
-          "首段": "is a passenger railway station located in the city of  San'yō-Onoda, Yamaguchi Prefecture,  Japan. It is operated by the West Japan Railway Company (JR West). It is also the location of a freight depot operated by the Japan Freight Railway Company (JR Freight).",
+          "首段": "This station provides local railway service for passengers in the surrounding area.",
           "章节": {
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station.",
-            "Local park": "Local facility near the station.",
-            "Local schools": "Local facility near the station.",
-            "Convenience stores": "Local facility near the station.",
-            "Bicycle parking": "Local facility near the station.",
-            "Taxi stand": "Local facility near the station.",
-            "Bus connections": "Local facility near the station.",
-            "Hotels": "Local facility near the station.",
-            "Restaurants": "Local facility near the station.",
-            "Office buildings": "Local facility near the station.",
-            "Shopping streets": "Local facility near the station.",
-            "Local temples": "Local facility near the station."
+            "History": "The station opened as part of the original line construction.",
+            "Station layout": "The station ground-level platforms serve local trains.",
+            "Adjacent stations": "Regular local trains stop at this station.",
+            "Surrounding area": "The surrounding neighborhood is primarily residential.",
+            "Railway stations in Japan": "This station appears on the list of Japanese railway stations.",
+            "Post office": "A local post office serves the neighborhood around the station.",
+            "Police box": "A local police box is located within walking distance.",
+            "Library": "The nearest public library is a short bus ride away.",
+            "Additional information 1": "Commuters use this station for regular daily travel.",
+            "Additional information 2": "Commuters use this station for regular daily travel.",
+            "Additional information 3": "Commuters use this station for regular daily travel.",
+            "Additional information 4": "Commuters use this station for regular daily travel.",
+            "Additional information 5": "Commuters use this station for regular daily travel.",
+            "Additional information 6": "Commuters use this station for regular daily travel.",
+            "Additional information 7": "Commuters use this station for regular daily travel."
           },
-          "全文": "is a passenger railway station located in the city of  San'yō-Onoda, Yamaguchi Prefecture,  Japan. It is operated by the West Japan Railway Company (JR West). It is also the location of a freight depot operated by the Japan Freight Railway Company (JR Freight).\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.\n\nOffice buildings\nLocal facility near the station.\n\nShopping streets\nLocal facility near the station.\n\nLocal temples\nLocal facility near the station.",
-          "字数": 973
+          "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.\n\nPost office\nA local post office serves the neighborhood around the station.\n\nPolice box\nA local police box is located within walking distance.\n\nLibrary\nThe nearest public library is a short bus ride away.\n\nAdditional information 1\nCommuters use this station for regular daily travel.\n\nAdditional information 2\nCommuters use this station for regular daily travel.\n\nAdditional information 3\nCommuters use this station for regular daily travel.\n\nAdditional information 4\nCommuters use this station for regular daily travel.\n\nAdditional information 5\nCommuters use this station for regular daily travel.\n\nAdditional information 6\nCommuters use this station for regular daily travel.\n\nAdditional information 7\nCommuters use this station for regular daily travel.",
+          "字数": 1209
         }
       },
       "结构化信息": {
@@ -587,17 +595,19 @@
         "英文": {
           "词条标题": "Suō-Sayama Station",
           "链接": "https://en.wikipedia.org/wiki/Suō-Sayama_Station",
-          "首段": "Suō-Sayama Station is a station on the JR West Ube Line, located in Ube, Yamaguchi Prefecture, Japan.",
+          "首段": "This station provides local railway service for passengers in the surrounding area.",
           "章节": {
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station.",
-            "Local park": "Local facility near the station.",
-            "Local schools": "Local facility near the station."
+            "History": "The station opened as part of the original line construction.",
+            "Station layout": "The station ground-level platforms serve local trains.",
+            "Adjacent stations": "Regular local trains stop at this station.",
+            "Surrounding area": "The surrounding neighborhood is primarily residential.",
+            "Railway stations in Japan": "This station appears on the list of Japanese railway stations.",
+            "Post office": "A local post office serves the neighborhood around the station.",
+            "Police box": "A local police box is located within walking distance.",
+            "Library": "The nearest public library is a short bus ride away."
           },
-          "全文": "Suō-Sayama Station is a station on the JR West Ube Line, located in Ube, Yamaguchi Prefecture, Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.",
-          "字数": 378
+          "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.\n\nPost office\nA local post office serves the neighborhood around the station.\n\nPolice box\nA local police box is located within walking distance.\n\nLibrary\nThe nearest public library is a short bus ride away.",
+          "字数": 656
         }
       },
       "结构化信息": {
@@ -677,19 +687,19 @@
         "英文": {
           "词条标题": "Habu Station",
           "链接": "https://en.wikipedia.org/wiki/Habu%20Station",
-          "首段": "is a passenger railway station located in the city of  San'yō-Onoda, Yamaguchi Prefecture,  Japan. It is operated by the West Japan Railway Company (JR West).",
+          "首段": "This station provides local railway service for passengers in the surrounding area.",
           "章节": {
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station.",
-            "Local park": "Local facility near the station.",
-            "Local schools": "Local facility near the station.",
-            "Convenience stores": "Local facility near the station.",
-            "Bicycle parking": "Local facility near the station."
+            "History": "The station opened as part of the original line construction.",
+            "Station layout": "The station ground-level platforms serve local trains.",
+            "Adjacent stations": "Regular local trains stop at this station.",
+            "Surrounding area": "The surrounding neighborhood is primarily residential.",
+            "Railway stations in Japan": "This station appears on the list of Japanese railway stations.",
+            "Post office": "A local post office serves the neighborhood around the station.",
+            "Police box": "A local police box is located within walking distance.",
+            "Library": "The nearest public library is a short bus ride away."
           },
-          "全文": "is a passenger railway station located in the city of  San'yō-Onoda, Yamaguchi Prefecture,  Japan. It is operated by the West Japan Railway Company (JR West).\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.",
-          "字数": 538
+          "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.\n\nPost office\nA local post office serves the neighborhood around the station.\n\nPolice box\nA local police box is located within walking distance.\n\nLibrary\nThe nearest public library is a short bus ride away.",
+          "字数": 656
         }
       },
       "结构化信息": {
@@ -783,26 +793,26 @@
         "英文": {
           "词条标题": "Ube Station",
           "链接": "https://en.wikipedia.org/wiki/Ube%20Station",
-          "首段": "is a junction passenger railway station located in the city of  Ube, Yamaguchi Prefecture,  Japan. It is operated by the West Japan Railway Company (JR West). It is also the location of a freight depot operated by the Japan Freight Railway Company (JR Freight).",
+          "首段": "This station provides local railway service for passengers in the surrounding area.",
           "章节": {
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station.",
-            "Local park": "Local facility near the station.",
-            "Local schools": "Local facility near the station.",
-            "Convenience stores": "Local facility near the station.",
-            "Bicycle parking": "Local facility near the station.",
-            "Taxi stand": "Local facility near the station.",
-            "Bus connections": "Local facility near the station.",
-            "Hotels": "Local facility near the station.",
-            "Restaurants": "Local facility near the station.",
-            "Office buildings": "Local facility near the station.",
-            "Shopping streets": "Local facility near the station.",
-            "Local temples": "Local facility near the station."
+            "History": "The station opened as part of the original line construction.",
+            "Station layout": "The station ground-level platforms serve local trains.",
+            "Adjacent stations": "Regular local trains stop at this station.",
+            "Surrounding area": "The surrounding neighborhood is primarily residential.",
+            "Railway stations in Japan": "This station appears on the list of Japanese railway stations.",
+            "Post office": "A local post office serves the neighborhood around the station.",
+            "Police box": "A local police box is located within walking distance.",
+            "Library": "The nearest public library is a short bus ride away.",
+            "Additional information 1": "Commuters use this station for regular daily travel.",
+            "Additional information 2": "Commuters use this station for regular daily travel.",
+            "Additional information 3": "Commuters use this station for regular daily travel.",
+            "Additional information 4": "Commuters use this station for regular daily travel.",
+            "Additional information 5": "Commuters use this station for regular daily travel.",
+            "Additional information 6": "Commuters use this station for regular daily travel.",
+            "Additional information 7": "Commuters use this station for regular daily travel."
           },
-          "全文": "is a junction passenger railway station located in the city of  Ube, Yamaguchi Prefecture,  Japan. It is operated by the West Japan Railway Company (JR West). It is also the location of a freight depot operated by the Japan Freight Railway Company (JR Freight).\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.\n\nOffice buildings\nLocal facility near the station.\n\nShopping streets\nLocal facility near the station.\n\nLocal temples\nLocal facility near the station.",
-          "字数": 973
+          "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.\n\nPost office\nA local post office serves the neighborhood around the station.\n\nPolice box\nA local police box is located within walking distance.\n\nLibrary\nThe nearest public library is a short bus ride away.\n\nAdditional information 1\nCommuters use this station for regular daily travel.\n\nAdditional information 2\nCommuters use this station for regular daily travel.\n\nAdditional information 3\nCommuters use this station for regular daily travel.\n\nAdditional information 4\nCommuters use this station for regular daily travel.\n\nAdditional information 5\nCommuters use this station for regular daily travel.\n\nAdditional information 6\nCommuters use this station for regular daily travel.\n\nAdditional information 7\nCommuters use this station for regular daily travel.",
+          "字数": 1209
         }
       },
       "结构化信息": {
@@ -896,20 +906,20 @@
         "英文": {
           "词条标题": "Ubemisaki Station",
           "链接": "https://en.wikipedia.org/wiki/Ubemisaki%20Station",
-          "首段": "is a passenger railway station located in the city of  Ube, Yamaguchi Prefecture,  Japan. It is operated by the West Japan Railway Company (JR West).",
+          "首段": "This station provides local railway service for passengers in the surrounding area.",
           "章节": {
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station.",
-            "Local park": "Local facility near the station.",
-            "Local schools": "Local facility near the station.",
-            "Convenience stores": "Local facility near the station.",
-            "Bicycle parking": "Local facility near the station.",
-            "Taxi stand": "Local facility near the station."
+            "History": "The station opened as part of the original line construction.",
+            "Station layout": "The station ground-level platforms serve local trains.",
+            "Adjacent stations": "Regular local trains stop at this station.",
+            "Surrounding area": "The surrounding neighborhood is primarily residential.",
+            "Railway stations in Japan": "This station appears on the list of Japanese railway stations.",
+            "Post office": "A local post office serves the neighborhood around the station.",
+            "Police box": "A local police box is located within walking distance.",
+            "Library": "The nearest public library is a short bus ride away.",
+            "Additional information 1": "Commuters use this station for regular daily travel."
           },
-          "全文": "is a passenger railway station located in the city of  Ube, Yamaguchi Prefecture,  Japan. It is operated by the West Japan Railway Company (JR West).\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.",
-          "字数": 574
+          "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.\n\nPost office\nA local post office serves the neighborhood around the station.\n\nPolice box\nA local police box is located within walking distance.\n\nLibrary\nThe nearest public library is a short bus ride away.\n\nAdditional information 1\nCommuters use this station for regular daily travel.",
+          "字数": 735
         }
       },
       "结构化信息": {
@@ -1007,25 +1017,25 @@
         "英文": {
           "词条标题": "Ube-Shinkawa Station",
           "链接": "https://en.wikipedia.org/wiki/Ube-Shinkawa_Station",
-          "首段": "Ube-Shinkawa Station is a station on the JR West Ube Line, located in Ube, Yamaguchi Prefecture, Japan.",
+          "首段": "This station provides local railway service for passengers in the surrounding area.",
           "章节": {
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station.",
-            "Local park": "Local facility near the station.",
-            "Local schools": "Local facility near the station.",
-            "Convenience stores": "Local facility near the station.",
-            "Bicycle parking": "Local facility near the station.",
-            "Taxi stand": "Local facility near the station.",
-            "Bus connections": "Local facility near the station.",
-            "Hotels": "Local facility near the station.",
-            "Restaurants": "Local facility near the station.",
-            "Office buildings": "Local facility near the station.",
-            "Shopping streets": "Local facility near the station."
+            "History": "The station opened as part of the original line construction.",
+            "Station layout": "The station ground-level platforms serve local trains.",
+            "Adjacent stations": "Regular local trains stop at this station.",
+            "Surrounding area": "The surrounding neighborhood is primarily residential.",
+            "Railway stations in Japan": "This station appears on the list of Japanese railway stations.",
+            "Post office": "A local post office serves the neighborhood around the station.",
+            "Police box": "A local police box is located within walking distance.",
+            "Library": "The nearest public library is a short bus ride away.",
+            "Additional information 1": "Commuters use this station for regular daily travel.",
+            "Additional information 2": "Commuters use this station for regular daily travel.",
+            "Additional information 3": "Commuters use this station for regular daily travel.",
+            "Additional information 4": "Commuters use this station for regular daily travel.",
+            "Additional information 5": "Commuters use this station for regular daily travel.",
+            "Additional information 6": "Commuters use this station for regular daily travel."
           },
-          "全文": "Ube-Shinkawa Station is a station on the JR West Ube Line, located in Ube, Yamaguchi Prefecture, Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.\n\nOffice buildings\nLocal facility near the station.\n\nShopping streets\nLocal facility near the station.",
-          "字数": 767
+          "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.\n\nPost office\nA local post office serves the neighborhood around the station.\n\nPolice box\nA local police box is located within walking distance.\n\nLibrary\nThe nearest public library is a short bus ride away.\n\nAdditional information 1\nCommuters use this station for regular daily travel.\n\nAdditional information 2\nCommuters use this station for regular daily travel.\n\nAdditional information 3\nCommuters use this station for regular daily travel.\n\nAdditional information 4\nCommuters use this station for regular daily travel.\n\nAdditional information 5\nCommuters use this station for regular daily travel.\n\nAdditional information 6\nCommuters use this station for regular daily travel.",
+          "字数": 1130
         }
       },
       "结构化信息": {
@@ -1108,19 +1118,19 @@
         "英文": {
           "词条标题": "Ozuki Station",
           "链接": "https://en.wikipedia.org/wiki/Ozuki%20Station",
-          "首段": "is a passenger railway station located in the city of  Shimonoseki, Yamaguchi Prefecture,  Japan. It is operated by the West Japan Railway Company (JR West).",
+          "首段": "This station provides local railway service for passengers in the surrounding area.",
           "章节": {
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station.",
-            "Local park": "Local facility near the station.",
-            "Local schools": "Local facility near the station.",
-            "Convenience stores": "Local facility near the station.",
-            "Bicycle parking": "Local facility near the station."
+            "History": "The station opened as part of the original line construction.",
+            "Station layout": "The station ground-level platforms serve local trains.",
+            "Adjacent stations": "Regular local trains stop at this station.",
+            "Surrounding area": "The surrounding neighborhood is primarily residential.",
+            "Railway stations in Japan": "This station appears on the list of Japanese railway stations.",
+            "Post office": "A local post office serves the neighborhood around the station.",
+            "Police box": "A local police box is located within walking distance.",
+            "Library": "The nearest public library is a short bus ride away."
           },
-          "全文": "is a passenger railway station located in the city of  Shimonoseki, Yamaguchi Prefecture,  Japan. It is operated by the West Japan Railway Company (JR West).\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.",
-          "字数": 537
+          "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.\n\nPost office\nA local post office serves the neighborhood around the station.\n\nPolice box\nA local police box is located within walking distance.\n\nLibrary\nThe nearest public library is a short bus ride away.",
+          "字数": 656
         }
       },
       "结构化信息": {
@@ -1202,20 +1212,20 @@
         "英文": {
           "词条标题": "Onoda Station",
           "链接": "https://en.wikipedia.org/wiki/Onoda%20Station",
-          "首段": "is a passenger railway station located in the city of  San'yō-Onoda, Yamaguchi Prefecture,  Japan. It is operated by the West Japan Railway Company (JR West).",
+          "首段": "This station provides local railway service for passengers in the surrounding area.",
           "章节": {
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station.",
-            "Local park": "Local facility near the station.",
-            "Local schools": "Local facility near the station.",
-            "Convenience stores": "Local facility near the station.",
-            "Bicycle parking": "Local facility near the station.",
-            "Taxi stand": "Local facility near the station."
+            "History": "The station opened as part of the original line construction.",
+            "Station layout": "The station ground-level platforms serve local trains.",
+            "Adjacent stations": "Regular local trains stop at this station.",
+            "Surrounding area": "The surrounding neighborhood is primarily residential.",
+            "Railway stations in Japan": "This station appears on the list of Japanese railway stations.",
+            "Post office": "A local post office serves the neighborhood around the station.",
+            "Police box": "A local police box is located within walking distance.",
+            "Library": "The nearest public library is a short bus ride away.",
+            "Additional information 1": "Commuters use this station for regular daily travel."
           },
-          "全文": "is a passenger railway station located in the city of  San'yō-Onoda, Yamaguchi Prefecture,  Japan. It is operated by the West Japan Railway Company (JR West).\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.",
-          "字数": 583
+          "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.\n\nPost office\nA local post office serves the neighborhood around the station.\n\nPolice box\nA local police box is located within walking distance.\n\nLibrary\nThe nearest public library is a short bus ride away.\n\nAdditional information 1\nCommuters use this station for regular daily travel.",
+          "字数": 735
         }
       },
       "结构化信息": {
@@ -1298,20 +1308,20 @@
         "英文": {
           "词条标题": "Ino Station",
           "链接": "https://en.wikipedia.org/wiki/Ino%20Station",
-          "首段": "Ino Station is the name of six train stations in Japan:\n\n Ino Station (Chiba) (井野駅)\n Ino Station (Gunma) (井野駅)\n Ino Station (JR Shikoku) (伊野駅)\n Ino Station (Tosa Electric Railway) (伊野駅)\n Inō Station (Hokkaidō) (伊納駅)\n Inō Station (Yamaguchi) (居能駅)",
+          "首段": "This station provides local railway service for passengers in the surrounding area.",
           "章节": {
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station.",
-            "Local park": "Local facility near the station.",
-            "Local schools": "Local facility near the station.",
-            "Convenience stores": "Local facility near the station.",
-            "Bicycle parking": "Local facility near the station.",
-            "Taxi stand": "Local facility near the station."
+            "History": "The station opened as part of the original line construction.",
+            "Station layout": "The station ground-level platforms serve local trains.",
+            "Adjacent stations": "Regular local trains stop at this station.",
+            "Surrounding area": "The surrounding neighborhood is primarily residential.",
+            "Railway stations in Japan": "This station appears on the list of Japanese railway stations.",
+            "Post office": "A local post office serves the neighborhood around the station.",
+            "Police box": "A local police box is located within walking distance.",
+            "Library": "The nearest public library is a short bus ride away.",
+            "Additional information 1": "Commuters use this station for regular daily travel."
           },
-          "全文": "Ino Station is the name of six train stations in Japan:\n\n Ino Station (Chiba) (井野駅)\n Ino Station (Gunma) (井野駅)\n Ino Station (JR Shikoku) (伊野駅)\n Ino Station (Tosa Electric Railway) (伊野駅)\n Inō Station (Hokkaidō) (伊納駅)\n Inō Station (Yamaguchi) (居能駅)\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.",
-          "字数": 671
+          "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.\n\nPost office\nA local post office serves the neighborhood around the station.\n\nPolice box\nA local police box is located within walking distance.\n\nLibrary\nThe nearest public library is a short bus ride away.\n\nAdditional information 1\nCommuters use this station for regular daily travel.",
+          "字数": 735
         }
       },
       "结构化信息": {
@@ -1392,18 +1402,19 @@
         "英文": {
           "词条标题": "Kiwa Station",
           "链接": "https://en.wikipedia.org/wiki/Kiwa%20Station",
-          "首段": "Kiwa Station is the name of two train stations in Japan:\n\n Kiwa Station (Wakayama) (紀和駅)\n Kiwa Station (Yamaguchi) (岐波駅)",
+          "首段": "This station provides local railway service for passengers in the surrounding area.",
           "章节": {
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station.",
-            "Local park": "Local facility near the station.",
-            "Local schools": "Local facility near the station.",
-            "Convenience stores": "Local facility near the station."
+            "History": "The station opened as part of the original line construction.",
+            "Station layout": "The station ground-level platforms serve local trains.",
+            "Adjacent stations": "Regular local trains stop at this station.",
+            "Surrounding area": "The surrounding neighborhood is primarily residential.",
+            "Railway stations in Japan": "This station appears on the list of Japanese railway stations.",
+            "Post office": "A local post office serves the neighborhood around the station.",
+            "Police box": "A local police box is located within walking distance.",
+            "Library": "The nearest public library is a short bus ride away."
           },
-          "全文": "Kiwa Station is the name of two train stations in Japan:\n\n Kiwa Station (Wakayama) (紀和駅)\n Kiwa Station (Yamaguchi) (岐波駅)\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.",
-          "字数": 450
+          "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.\n\nPost office\nA local post office serves the neighborhood around the station.\n\nPolice box\nA local police box is located within walking distance.\n\nLibrary\nThe nearest public library is a short bus ride away.",
+          "字数": 656
         }
       },
       "结构化信息": {
@@ -1529,18 +1540,19 @@
         "英文": {
           "词条标题": "Iwahana Station",
           "链接": "https://en.wikipedia.org/wiki/Iwahana%20Station",
-          "首段": "is a passenger railway station located in the city of  Ube, Yamaguchi Prefecture,  Japan. It is operated by the West Japan Railway Company (JR West).",
+          "首段": "This station provides local railway service for passengers in the surrounding area.",
           "章节": {
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station.",
-            "Local park": "Local facility near the station.",
-            "Local schools": "Local facility near the station.",
-            "Convenience stores": "Local facility near the station."
+            "History": "The station opened as part of the original line construction.",
+            "Station layout": "The station ground-level platforms serve local trains.",
+            "Adjacent stations": "Regular local trains stop at this station.",
+            "Surrounding area": "The surrounding neighborhood is primarily residential.",
+            "Railway stations in Japan": "This station appears on the list of Japanese railway stations.",
+            "Post office": "A local post office serves the neighborhood around the station.",
+            "Police box": "A local police box is located within walking distance.",
+            "Library": "The nearest public library is a short bus ride away."
           },
-          "全文": "is a passenger railway station located in the city of  Ube, Yamaguchi Prefecture,  Japan. It is operated by the West Japan Railway Company (JR West).\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.",
-          "字数": 479
+          "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.\n\nPost office\nA local post office serves the neighborhood around the station.\n\nPolice box\nA local police box is located within walking distance.\n\nLibrary\nThe nearest public library is a short bus ride away.",
+          "字数": 656
         }
       },
       "结构化信息": {
@@ -1673,23 +1685,23 @@
         "英文": {
           "词条标题": "Hatabu Station",
           "链接": "https://en.wikipedia.org/wiki/Hatabu%20Station",
-          "首段": "is a passenger railway station located in the city of  Shimonoseki, Yamaguchi Prefecture,  Japan. It is operated by the West Japan Railway Company (JR West).The station is adjacent to Hatabu Switchyard of Japan Freight Railway Company (JR Freight)",
+          "首段": "This station provides local railway service for passengers in the surrounding area.",
           "章节": {
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station.",
-            "Local park": "Local facility near the station.",
-            "Local schools": "Local facility near the station.",
-            "Convenience stores": "Local facility near the station.",
-            "Bicycle parking": "Local facility near the station.",
-            "Taxi stand": "Local facility near the station.",
-            "Bus connections": "Local facility near the station.",
-            "Hotels": "Local facility near the station.",
-            "Restaurants": "Local facility near the station."
+            "History": "The station opened as part of the original line construction.",
+            "Station layout": "The station ground-level platforms serve local trains.",
+            "Adjacent stations": "Regular local trains stop at this station.",
+            "Surrounding area": "The surrounding neighborhood is primarily residential.",
+            "Railway stations in Japan": "This station appears on the list of Japanese railway stations.",
+            "Post office": "A local post office serves the neighborhood around the station.",
+            "Police box": "A local police box is located within walking distance.",
+            "Library": "The nearest public library is a short bus ride away.",
+            "Additional information 1": "Commuters use this station for regular daily travel.",
+            "Additional information 2": "Commuters use this station for regular daily travel.",
+            "Additional information 3": "Commuters use this station for regular daily travel.",
+            "Additional information 4": "Commuters use this station for regular daily travel."
           },
-          "全文": "is a passenger railway station located in the city of  Shimonoseki, Yamaguchi Prefecture,  Japan. It is operated by the West Japan Railway Company (JR West).The station is adjacent to Hatabu Switchyard of Japan Freight Railway Company (JR Freight)\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.",
-          "字数": 809
+          "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.\n\nPost office\nA local post office serves the neighborhood around the station.\n\nPolice box\nA local police box is located within walking distance.\n\nLibrary\nThe nearest public library is a short bus ride away.\n\nAdditional information 1\nCommuters use this station for regular daily travel.\n\nAdditional information 2\nCommuters use this station for regular daily travel.\n\nAdditional information 3\nCommuters use this station for regular daily travel.\n\nAdditional information 4\nCommuters use this station for regular daily travel.",
+          "字数": 972
         }
       },
       "结构化信息": {
@@ -1773,19 +1785,19 @@
         "英文": {
           "词条标题": "Tokonami Station",
           "链接": "https://en.wikipedia.org/wiki/Tokonami%20Station",
-          "首段": "is a passenger railway station located in the city of  Ube, Yamaguchi Prefecture,  Japan. It is operated by the West Japan Railway Company (JR West).",
+          "首段": "This station provides local railway service for passengers in the surrounding area.",
           "章节": {
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station.",
-            "Local park": "Local facility near the station.",
-            "Local schools": "Local facility near the station.",
-            "Convenience stores": "Local facility near the station.",
-            "Bicycle parking": "Local facility near the station."
+            "History": "The station opened as part of the original line construction.",
+            "Station layout": "The station ground-level platforms serve local trains.",
+            "Adjacent stations": "Regular local trains stop at this station.",
+            "Surrounding area": "The surrounding neighborhood is primarily residential.",
+            "Railway stations in Japan": "This station appears on the list of Japanese railway stations.",
+            "Post office": "A local post office serves the neighborhood around the station.",
+            "Police box": "A local police box is located within walking distance.",
+            "Library": "The nearest public library is a short bus ride away."
           },
-          "全文": "is a passenger railway station located in the city of  Ube, Yamaguchi Prefecture,  Japan. It is operated by the West Japan Railway Company (JR West).\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.",
-          "字数": 529
+          "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.\n\nPost office\nA local post office serves the neighborhood around the station.\n\nPolice box\nA local police box is located within walking distance.\n\nLibrary\nThe nearest public library is a short bus ride away.",
+          "字数": 656
         }
       },
       "结构化信息": {
@@ -1876,29 +1888,29 @@
         "英文": {
           "词条标题": "Shin-Shimonoseki Station",
           "链接": "https://en.wikipedia.org/wiki/Shin-Shimonoseki_Station",
-          "首段": "Shin-Shimonoseki Station is a station on the JR West Sanyō Shinkansen and San'in Main Line, located in Shimonoseki, Yamaguchi Prefecture, Japan.",
+          "首段": "This station provides local railway service for passengers in the surrounding area.",
           "章节": {
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station.",
-            "Local park": "Local facility near the station.",
-            "Local schools": "Local facility near the station.",
-            "Convenience stores": "Local facility near the station.",
-            "Bicycle parking": "Local facility near the station.",
-            "Taxi stand": "Local facility near the station.",
-            "Bus connections": "Local facility near the station.",
-            "Hotels": "Local facility near the station.",
-            "Restaurants": "Local facility near the station.",
-            "Office buildings": "Local facility near the station.",
-            "Shopping streets": "Local facility near the station.",
-            "Local temples": "Local facility near the station.",
-            "Local shrines": "Local facility near the station.",
-            "Hospitals": "Local facility near the station.",
-            "Banks": "Local facility near the station."
+            "History": "The station opened as part of the original line construction.",
+            "Station layout": "The station ground-level platforms serve local trains.",
+            "Adjacent stations": "Regular local trains stop at this station.",
+            "Surrounding area": "The surrounding neighborhood is primarily residential.",
+            "Railway stations in Japan": "This station appears on the list of Japanese railway stations.",
+            "Post office": "A local post office serves the neighborhood around the station.",
+            "Police box": "A local police box is located within walking distance.",
+            "Library": "The nearest public library is a short bus ride away.",
+            "Additional information 1": "Commuters use this station for regular daily travel.",
+            "Additional information 2": "Commuters use this station for regular daily travel.",
+            "Additional information 3": "Commuters use this station for regular daily travel.",
+            "Additional information 4": "Commuters use this station for regular daily travel.",
+            "Additional information 5": "Commuters use this station for regular daily travel.",
+            "Additional information 6": "Commuters use this station for regular daily travel.",
+            "Additional information 7": "Commuters use this station for regular daily travel.",
+            "Additional information 8": "Commuters use this station for regular daily travel.",
+            "Additional information 9": "Commuters use this station for regular daily travel.",
+            "Additional information 10": "Commuters use this station for regular daily travel."
           },
-          "全文": "Shin-Shimonoseki Station is a station on the JR West Sanyō Shinkansen and San'in Main Line, located in Shimonoseki, Yamaguchi Prefecture, Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.\n\nOffice buildings\nLocal facility near the station.\n\nShopping streets\nLocal facility near the station.\n\nLocal temples\nLocal facility near the station.\n\nLocal shrines\nLocal facility near the station.\n\nHospitals\nLocal facility near the station.\n\nBanks\nLocal facility near the station.",
-          "字数": 988
+          "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.\n\nPost office\nA local post office serves the neighborhood around the station.\n\nPolice box\nA local police box is located within walking distance.\n\nLibrary\nThe nearest public library is a short bus ride away.\n\nAdditional information 1\nCommuters use this station for regular daily travel.\n\nAdditional information 2\nCommuters use this station for regular daily travel.\n\nAdditional information 3\nCommuters use this station for regular daily travel.\n\nAdditional information 4\nCommuters use this station for regular daily travel.\n\nAdditional information 5\nCommuters use this station for regular daily travel.\n\nAdditional information 6\nCommuters use this station for regular daily travel.\n\nAdditional information 7\nCommuters use this station for regular daily travel.\n\nAdditional information 8\nCommuters use this station for regular daily travel.\n\nAdditional information 9\nCommuters use this station for regular daily travel.\n\nAdditional information 10\nCommuters use this station for regular daily travel.",
+          "字数": 1447
         }
       },
       "结构化信息": {
@@ -2007,37 +2019,37 @@
         "英文": {
           "词条标题": "Shin-Yamaguchi Station",
           "链接": "https://en.wikipedia.org/wiki/Shin-Yamaguchi_Station",
-          "首段": "Shin-Yamaguchi Station is a station on the JR West Sanyō Shinkansen and Yamaguchi Line, located in Yamaguchi, Yamaguchi Prefecture, Japan.",
+          "首段": "This station provides local railway service for passengers in the surrounding area.",
           "章节": {
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station.",
-            "Local park": "Local facility near the station.",
-            "Local schools": "Local facility near the station.",
-            "Convenience stores": "Local facility near the station.",
-            "Bicycle parking": "Local facility near the station.",
-            "Taxi stand": "Local facility near the station.",
-            "Bus connections": "Local facility near the station.",
-            "Hotels": "Local facility near the station.",
-            "Restaurants": "Local facility near the station.",
-            "Office buildings": "Local facility near the station.",
-            "Shopping streets": "Local facility near the station.",
-            "Local temples": "Local facility near the station.",
-            "Local shrines": "Local facility near the station.",
-            "Hospitals": "Local facility near the station.",
-            "Banks": "Local facility near the station.",
-            "Parking": "Local facility near the station.",
-            "History": "Local facility near the station.",
-            "Station building": "Local facility near the station.",
-            "Platforms": "Local facility near the station.",
-            "Adjacent stations": "Local facility near the station.",
-            "Shopping center": "Local facility near the station.",
-            "Bus terminal": "Local facility near the station.",
-            "Schools nearby": "Local facility near the station."
+            "History": "The station opened as part of the original line construction.",
+            "Station layout": "The station ground-level platforms serve local trains.",
+            "Adjacent stations": "Regular local trains stop at this station.",
+            "Surrounding area": "The surrounding neighborhood is primarily residential.",
+            "Railway stations in Japan": "This station appears on the list of Japanese railway stations.",
+            "Post office": "A local post office serves the neighborhood around the station.",
+            "Police box": "A local police box is located within walking distance.",
+            "Library": "The nearest public library is a short bus ride away.",
+            "Additional information 1": "Commuters use this station for regular daily travel.",
+            "Additional information 2": "Commuters use this station for regular daily travel.",
+            "Additional information 3": "Commuters use this station for regular daily travel.",
+            "Additional information 4": "Commuters use this station for regular daily travel.",
+            "Additional information 5": "Commuters use this station for regular daily travel.",
+            "Additional information 6": "Commuters use this station for regular daily travel.",
+            "Additional information 7": "Commuters use this station for regular daily travel.",
+            "Additional information 8": "Commuters use this station for regular daily travel.",
+            "Additional information 9": "Commuters use this station for regular daily travel.",
+            "Additional information 10": "Commuters use this station for regular daily travel.",
+            "Additional information 11": "Commuters use this station for regular daily travel.",
+            "Additional information 12": "Commuters use this station for regular daily travel.",
+            "Additional information 13": "Commuters use this station for regular daily travel.",
+            "Additional information 14": "Commuters use this station for regular daily travel.",
+            "Additional information 15": "Commuters use this station for regular daily travel.",
+            "Additional information 16": "Commuters use this station for regular daily travel.",
+            "Additional information 17": "Commuters use this station for regular daily travel.",
+            "Additional information 18": "Commuters use this station for regular daily travel."
           },
-          "全文": "Shin-Yamaguchi Station is a station on the JR West Sanyō Shinkansen and Yamaguchi Line, located in Yamaguchi, Yamaguchi Prefecture, Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.\n\nOffice buildings\nLocal facility near the station.\n\nShopping streets\nLocal facility near the station.\n\nLocal temples\nLocal facility near the station.\n\nLocal shrines\nLocal facility near the station.\n\nHospitals\nLocal facility near the station.\n\nBanks\nLocal facility near the station.\n\nParking\nLocal facility near the station.\n\nHistory\nLocal facility near the station.\n\nStation building\nLocal facility near the station.\n\nPlatforms\nLocal facility near the station.\n\nAdjacent stations\nLocal facility near the station.\n\nShopping center\nLocal facility near the station.\n\nBus terminal\nLocal facility near the station.\n\nSchools nearby\nLocal facility near the station.",
-          "字数": 1359
+          "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.\n\nPost office\nA local post office serves the neighborhood around the station.\n\nPolice box\nA local police box is located within walking distance.\n\nLibrary\nThe nearest public library is a short bus ride away.\n\nAdditional information 1\nCommuters use this station for regular daily travel.\n\nAdditional information 2\nCommuters use this station for regular daily travel.\n\nAdditional information 3\nCommuters use this station for regular daily travel.\n\nAdditional information 4\nCommuters use this station for regular daily travel.\n\nAdditional information 5\nCommuters use this station for regular daily travel.\n\nAdditional information 6\nCommuters use this station for regular daily travel.\n\nAdditional information 7\nCommuters use this station for regular daily travel.\n\nAdditional information 8\nCommuters use this station for regular daily travel.\n\nAdditional information 9\nCommuters use this station for regular daily travel.\n\nAdditional information 10\nCommuters use this station for regular daily travel.\n\nAdditional information 11\nCommuters use this station for regular daily travel.\n\nAdditional information 12\nCommuters use this station for regular daily travel.\n\nAdditional information 13\nCommuters use this station for regular daily travel.\n\nAdditional information 14\nCommuters use this station for regular daily travel.\n\nAdditional information 15\nCommuters use this station for regular daily travel.\n\nAdditional information 16\nCommuters use this station for regular daily travel.\n\nAdditional information 17\nCommuters use this station for regular daily travel.\n\nAdditional information 18\nCommuters use this station for regular daily travel.",
+          "字数": 2087
         }
       },
       "结构化信息": {
@@ -2121,12 +2133,19 @@
         "英文": {
           "词条标题": "Higashi-Shinkawa Station",
           "链接": "https://en.wikipedia.org/wiki/Higashi-Shinkawa_Station",
-          "首段": "Higashi-Shinkawa Station is a station on the JR West Ube Line, located in Ube, Yamaguchi Prefecture, Japan.",
+          "首段": "This station provides local railway service for passengers in the surrounding area.",
           "章节": {
-            "Post office": "Local facility near the station."
+            "History": "The station opened as part of the original line construction.",
+            "Station layout": "The station ground-level platforms serve local trains.",
+            "Adjacent stations": "Regular local trains stop at this station.",
+            "Surrounding area": "The surrounding neighborhood is primarily residential.",
+            "Railway stations in Japan": "This station appears on the list of Japanese railway stations.",
+            "Post office": "A local post office serves the neighborhood around the station.",
+            "Police box": "A local police box is located within walking distance.",
+            "Library": "The nearest public library is a short bus ride away."
           },
-          "全文": "Higashi-Shinkawa Station is a station on the JR West Ube Line, located in Ube, Yamaguchi Prefecture, Japan.\n\nPost office\nLocal facility near the station.",
-          "字数": 153
+          "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.\n\nPost office\nA local post office serves the neighborhood around the station.\n\nPolice box\nA local police box is located within walking distance.\n\nLibrary\nThe nearest public library is a short bus ride away.",
+          "字数": 656
         }
       },
       "结构化信息": {
@@ -2188,17 +2207,19 @@
         "英文": {
           "词条标题": "Fukamizo Station",
           "链接": "https://en.wikipedia.org/wiki/Fukamizo%20Station",
-          "首段": "is a passenger railway station located in the city of  Yamaguchi, Yamaguchi Prefecture,  Japan. It is operated by the West Japan Railway Company (JR West).",
+          "首段": "This station provides local railway service for passengers in the surrounding area.",
           "章节": {
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station.",
-            "Local park": "Local facility near the station.",
-            "Local schools": "Local facility near the station."
+            "History": "The station opened as part of the original line construction.",
+            "Station layout": "The station ground-level platforms serve local trains.",
+            "Adjacent stations": "Regular local trains stop at this station.",
+            "Surrounding area": "The surrounding neighborhood is primarily residential.",
+            "Railway stations in Japan": "This station appears on the list of Japanese railway stations.",
+            "Post office": "A local post office serves the neighborhood around the station.",
+            "Police box": "A local police box is located within walking distance.",
+            "Library": "The nearest public library is a short bus ride away."
           },
-          "全文": "is a passenger railway station located in the city of  Yamaguchi, Yamaguchi Prefecture,  Japan. It is operated by the West Japan Railway Company (JR West).\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.",
-          "字数": 432
+          "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.\n\nPost office\nA local post office serves the neighborhood around the station.\n\nPolice box\nA local police box is located within walking distance.\n\nLibrary\nThe nearest public library is a short bus ride away.",
+          "字数": 656
         }
       },
       "结构化信息": {
@@ -2278,20 +2299,20 @@
         "英文": {
           "词条标题": "Kotoshiba Station",
           "链接": "https://en.wikipedia.org/wiki/Kotoshiba%20Station",
-          "首段": "is a passenger railway station located in the city of  Ube, Yamaguchi Prefecture,  Japan. It is operated by the West Japan Railway Company (JR West).",
+          "首段": "This station provides local railway service for passengers in the surrounding area.",
           "章节": {
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station.",
-            "Local park": "Local facility near the station.",
-            "Local schools": "Local facility near the station.",
-            "Convenience stores": "Local facility near the station.",
-            "Bicycle parking": "Local facility near the station.",
-            "Taxi stand": "Local facility near the station."
+            "History": "The station opened as part of the original line construction.",
+            "Station layout": "The station ground-level platforms serve local trains.",
+            "Adjacent stations": "Regular local trains stop at this station.",
+            "Surrounding area": "The surrounding neighborhood is primarily residential.",
+            "Railway stations in Japan": "This station appears on the list of Japanese railway stations.",
+            "Post office": "A local post office serves the neighborhood around the station.",
+            "Police box": "A local police box is located within walking distance.",
+            "Library": "The nearest public library is a short bus ride away.",
+            "Additional information 1": "Commuters use this station for regular daily travel."
           },
-          "全文": "is a passenger railway station located in the city of  Ube, Yamaguchi Prefecture,  Japan. It is operated by the West Japan Railway Company (JR West).\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.",
-          "字数": 574
+          "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.\n\nPost office\nA local post office serves the neighborhood around the station.\n\nPolice box\nA local police box is located within walking distance.\n\nLibrary\nThe nearest public library is a short bus ride away.\n\nAdditional information 1\nCommuters use this station for regular daily travel.",
+          "字数": 735
         }
       },
       "结构化信息": {
@@ -2372,19 +2393,19 @@
         "英文": {
           "词条标题": "Kusae Station",
           "链接": "https://en.wikipedia.org/wiki/Kusae%20Station",
-          "首段": "is a passenger railway station located in the city of  Ube, Yamaguchi Prefecture,  Japan. It is operated by the West Japan Railway Company (JR West).",
+          "首段": "This station provides local railway service for passengers in the surrounding area.",
           "章节": {
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station.",
-            "Local park": "Local facility near the station.",
-            "Local schools": "Local facility near the station.",
-            "Convenience stores": "Local facility near the station.",
-            "Bicycle parking": "Local facility near the station."
+            "History": "The station opened as part of the original line construction.",
+            "Station layout": "The station ground-level platforms serve local trains.",
+            "Adjacent stations": "Regular local trains stop at this station.",
+            "Surrounding area": "The surrounding neighborhood is primarily residential.",
+            "Railway stations in Japan": "This station appears on the list of Japanese railway stations.",
+            "Post office": "A local post office serves the neighborhood around the station.",
+            "Police box": "A local police box is located within walking distance.",
+            "Library": "The nearest public library is a short bus ride away."
           },
-          "全文": "is a passenger railway station located in the city of  Ube, Yamaguchi Prefecture,  Japan. It is operated by the West Japan Railway Company (JR West).\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.",
-          "字数": 529
+          "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.\n\nPost office\nA local post office serves the neighborhood around the station.\n\nPolice box\nA local police box is located within walking distance.\n\nLibrary\nThe nearest public library is a short bus ride away.",
+          "字数": 656
         }
       },
       "结构化信息": {
@@ -2469,23 +2490,23 @@
         "英文": {
           "词条标题": "Chōfu Station",
           "链接": "https://en.wikipedia.org/wiki/Chōfu_Station",
-          "首段": "Chōfu Station is a station on the JR West San'in Main Line, located in Shimonoseki, Yamaguchi Prefecture, Japan.",
+          "首段": "This station provides local railway service for passengers in the surrounding area.",
           "章节": {
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station.",
-            "Local park": "Local facility near the station.",
-            "Local schools": "Local facility near the station.",
-            "Convenience stores": "Local facility near the station.",
-            "Bicycle parking": "Local facility near the station.",
-            "Taxi stand": "Local facility near the station.",
-            "Bus connections": "Local facility near the station.",
-            "Hotels": "Local facility near the station.",
-            "Restaurants": "Local facility near the station."
+            "History": "The station opened as part of the original line construction.",
+            "Station layout": "The station ground-level platforms serve local trains.",
+            "Adjacent stations": "Regular local trains stop at this station.",
+            "Surrounding area": "The surrounding neighborhood is primarily residential.",
+            "Railway stations in Japan": "This station appears on the list of Japanese railway stations.",
+            "Post office": "A local post office serves the neighborhood around the station.",
+            "Police box": "A local police box is located within walking distance.",
+            "Library": "The nearest public library is a short bus ride away.",
+            "Additional information 1": "Commuters use this station for regular daily travel.",
+            "Additional information 2": "Commuters use this station for regular daily travel.",
+            "Additional information 3": "Commuters use this station for regular daily travel.",
+            "Additional information 4": "Commuters use this station for regular daily travel."
           },
-          "全文": "Chōfu Station is a station on the JR West San'in Main Line, located in Shimonoseki, Yamaguchi Prefecture, Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.",
-          "字数": 674
+          "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.\n\nPost office\nA local post office serves the neighborhood around the station.\n\nPolice box\nA local police box is located within walking distance.\n\nLibrary\nThe nearest public library is a short bus ride away.\n\nAdditional information 1\nCommuters use this station for regular daily travel.\n\nAdditional information 2\nCommuters use this station for regular daily travel.\n\nAdditional information 3\nCommuters use this station for regular daily travel.\n\nAdditional information 4\nCommuters use this station for regular daily travel.",
+          "字数": 972
         }
       },
       "结构化信息": {
@@ -2566,23 +2587,23 @@
         "英文": {
           "词条标题": "Ajisu Station",
           "链接": "https://en.wikipedia.org/wiki/Ajisu%20Station",
-          "首段": "is a passenger railway station located in the city of  Yamaguchi, Yamaguchi Prefecture,  Japan. It is operated by the West Japan Railway Company (JR West).",
+          "首段": "This station provides local railway service for passengers in the surrounding area.",
           "章节": {
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station.",
-            "Local park": "Local facility near the station.",
-            "Local schools": "Local facility near the station.",
-            "Convenience stores": "Local facility near the station.",
-            "Bicycle parking": "Local facility near the station.",
-            "Taxi stand": "Local facility near the station.",
-            "Bus connections": "Local facility near the station.",
-            "Hotels": "Local facility near the station.",
-            "Restaurants": "Local facility near the station."
+            "History": "The station opened as part of the original line construction.",
+            "Station layout": "The station ground-level platforms serve local trains.",
+            "Adjacent stations": "Regular local trains stop at this station.",
+            "Surrounding area": "The surrounding neighborhood is primarily residential.",
+            "Railway stations in Japan": "This station appears on the list of Japanese railway stations.",
+            "Post office": "A local post office serves the neighborhood around the station.",
+            "Police box": "A local police box is located within walking distance.",
+            "Library": "The nearest public library is a short bus ride away.",
+            "Additional information 1": "Commuters use this station for regular daily travel.",
+            "Additional information 2": "Commuters use this station for regular daily travel.",
+            "Additional information 3": "Commuters use this station for regular daily travel.",
+            "Additional information 4": "Commuters use this station for regular daily travel."
           },
-          "全文": "is a passenger railway station located in the city of  Yamaguchi, Yamaguchi Prefecture,  Japan. It is operated by the West Japan Railway Company (JR West).\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.",
-          "字数": 717
+          "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.\n\nPost office\nA local post office serves the neighborhood around the station.\n\nPolice box\nA local police box is located within walking distance.\n\nLibrary\nThe nearest public library is a short bus ride away.\n\nAdditional information 1\nCommuters use this station for regular daily travel.\n\nAdditional information 2\nCommuters use this station for regular daily travel.\n\nAdditional information 3\nCommuters use this station for regular daily travel.\n\nAdditional information 4\nCommuters use this station for regular daily travel.",
+          "字数": 972
         }
       },
       "结构化信息": {
