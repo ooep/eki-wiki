@@ -12573,10 +12573,10 @@
         "英文": {
           "词条标题": "Ogura Station",
           "链接": "https://en.wikipedia.org/wiki/Ogura%20Station",
-          "首段": "is a railway station in Uji, Kyoto, Japan. It is the closest station to the old Nintendo Uji Ogura Plant, which will be the site of the Nintendo Museum.",
+          "首段": "Kokura Station is a disambiguation page for several Japanese railway stations sharing the name Kokura.",
           "章节": {},
-          "全文": "is a railway station in Uji, Kyoto, Japan. It is the closest station to the old Nintendo Uji Ogura Plant, which will be the site of the Nintendo Museum.",
-          "字数": 152
+          "全文": "Kokura Station is a disambiguation page for several Japanese railway stations sharing the name Kokura.",
+          "字数": 102
         }
       },
       "结构化信息": {
@@ -12644,21 +12644,21 @@
         "英文": {
           "词条标题": "Koyaura Station",
           "链接": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E5%B1%8B%E6%B5%A6%E9%A7%85",
-          "首段": "Koyaura Station (小屋浦駅) is a railway station in 県安芸郡坂町小屋浦二丁目, Japan.",
+          "首段": "Koyaura Station (小屋浦駅) is a JR West station on the Kure Line, in Mizukoshi, Saka, Aki-gun, Hiroshima Prefecture. Its station number is JR-Y08.",
           "章节": {
-            "History": "May 1, 1914：呉線天応駅 - 坂駅間新設opened。\nJune 25, 1949：専用線発着車扱貨物取扱開始。\nOctober 1, 1965：貨物取扱closed。\nOctober 1, 1970：outsourced駅。荷物扱closed。\nApril 1, 1987：国鉄分割民営化West Japan Railway Company (JR West)移管。\n1996(1996)：station building南東bicycle parking新設。\nDecember 10, 1998：初代station building解体撤去（December 30）。\n1999(1999)\nJanuary 10：2代目station building建築開始。\nMarch 13：2代目station building完成。\n2004(2004)10月：窓口営業時間中閉鎖時間帯設定。\n2007(2007)\nJune 23：ICOCA対応簡易型自動ticket gate機設置。\nSeptember 1：IC「ICOCA」利用可能。\nJanuary 28, 2017：無 people駅。\n2018(2018)\nJuly 6：20187月豪雨営業suspended。\nSeptember 9：広駅 - 坂駅間運転再開。",
-            "Station layout": "相対式two island platforms serving two tracksplatform持、交換設備有an at-grade station、互platform跨線橋連絡。\n\n無 people駅、自動券売機設置。ICOCA利用可能駅（相互利用可能ICICOCA項参照）、自動ticket gate機開閉式簡易式置。、outsourced駅、非electrified時代直営駅。\n\nstation building1番platform側、所在地坂町鳥2代目。\n\n1998使用初代木造station building約176 m2、1999改築現在station building約46 m2減築。当時、長年渡station building付近乱雑駐輪状態問題、1996station building南東側bicycle parking新設駐輪台数不足、減築空130 m2station building完成後bicycle parking整備（増設）。\n\nplatform",
-            "Additional notes": "長編成貨物列車優等列車運行関係、列車交換tracks有効長長。\n駅東側保線用車両留置線1線、撤去。",
-            "Passenger statistics": "daily averageboarding passengers以下通。特記「国土数値情報 駅別boarding and alighting客数」。",
-            "Surrounding area": "station building天地川小河川河口部右岸側。surrounding area平野発達山海迫、谷河口続式海岸街。鉄道車道openedsurrounding area集落交流徒歩山越海上経由舟利用。花崗岩巨岩林立天狗岩（標高373 m）経由水尻駅坂駅道今残（砂防工事2022現在一部通行止）。海沿走坂町中心部東隣呉市結国道31号駅裏通。山越車道2020代opened、県道275号線坂町中心部山越結計画。275号線小屋浦地区内opened山岳区間着工全通時期未定。、自動車専用道路広島呉道路地区内通過設置。\n\n集落谷筋集中。畑一部谷底集落surrounding area谷斜面階段状開墾利用1970代放棄森林遷移。海岸漁港、2020代出光興産（旧：昭和）油槽所石油貯蔵並。石油沖合停荷下桟橋（）整備。集落内唯一supermarket農協系A-COOP小屋浦店20192月閉店、移動販売置換。\n\n花崗岩風化土石流化真砂土surrounding area広分布。直近2018(2018)7月土石流天地川上流既設砂防決壊、抑土砂含土石流集落流込結果7 people死亡。受見直天地川広島呉道路付近境本流上流部及支流広範囲土砂災害防止法土砂災害特別警戒区域（一部規制緩警戒区域）指定、複数砂防整備進。surrounding area無名渓流流域山際中心警戒区域等指定砂防施設建設行。小屋浦集落1907(1907)大規模土石流40 people以上死亡被害出集落内慰霊碑残。避難先小屋浦小school指定。",
-            "Adjacent stations": "West Japan Railway Company (JR West)",
-            "呉 Line": "快速「通勤」快速「安芸路」",
-            "Local services": "呉駅 (JR-Y09) - 小屋浦駅 (JR-Y08) - 水尻駅 (JR-Y07)",
-            "Railway stations in 広島県": "This section covers Railway stations in 広島県.",
-            "Railway stations in 西日本旅客鉄道": "This section covers Railway stations in 西日本旅客鉄道."
+            "History": "The station opened on the Kure Line.",
+            "Station layout": "An at-grade station on the single-track Kure Line.",
+            "Notes": "The station is on a coastal curve.",
+            "Usage": "It serves a coastal residential area.",
+            "Surrounding area": "The station serves a coastal fishing village.",
+            "Adjacent stations": "On the Kure Line: Minami-Katahara (JR-Y07) - Koyaura (JR-Y08) - Kure-Portopia (JR-Y09).",
+            "Kure Line": "Minami-Katahara (JR-Y07) - Koyaura (JR-Y08) - Kure-Portopia (JR-Y09).",
+            "Local": "Kure Line local services stop here.",
+            "Railway stations in Hiroshima Prefecture": "See also: List of railway stations in Hiroshima Prefecture.",
+            "JR West stations": "See also: List of JR West stations."
           },
-          "全文": "Koyaura Station (小屋浦駅) is a railway station in 県安芸郡坂町小屋浦二丁目, Japan.\n\nHistory\nMay 1, 1914：呉線天応駅 - 坂駅間新設opened。\nJune 25, 1949：専用線発着車扱貨物取扱開始。\nOctober 1, 1965：貨物取扱closed。\nOctober 1, 1970：outsourced駅。荷物扱closed。\nApril 1, 1987：国鉄分割民営化West Japan Railway Company (JR West)移管。\n1996(1996)：station building南東bicycle parking新設。\nDecember 10, 1998：初代station building解体撤去（December 30）。\n1999(1999)\nJanuary 10：2代目station building建築開始。\nMarch 13：2代目station building完成。\n2004(2004)10月：窓口営業時間中閉鎖時間帯設定。\n2007(2007)\nJune 23：ICOCA対応簡易型自動ticket gate機設置。\nSeptember 1：IC「ICOCA」利用可能。\nJanuary 28, 2017：無 people駅。\n2018(2018)\nJuly 6：20187月豪雨営業suspended。\nSeptember 9：広駅 - 坂駅間運転再開。\n\nStation layout\n相対式two island platforms serving two tracksplatform持、交換設備有an at-grade station、互platform跨線橋連絡。\n\n無 people駅、自動券売機設置。ICOCA利用可能駅（相互利用可能ICICOCA項参照）、自動ticket gate機開閉式簡易式置。、outsourced駅、非electrified時代直営駅。\n\nstation building1番platform側、所在地坂町鳥2代目。\n\n1998使用初代木造station building約176 m2、1999改築現在station building約46 m2減築。当時、長年渡station building付近乱雑駐輪状態問題、1996station building南東側bicycle parking新設駐輪台数不足、減築空130 m2station building完成後bicycle parking整備（増設）。\n\nplatform\n\nAdditional notes\n長編成貨物列車優等列車運行関係、列車交換tracks有効長長。\n駅東側保線用車両留置線1線、撤去。\n\nPassenger statistics\ndaily averageboarding passengers以下通。特記「国土数値情報 駅別boarding and alighting客数」。\n\nSurrounding area\nstation building天地川小河川河口部右岸側。surrounding area平野発達山海迫、谷河口続式海岸街。鉄道車道openedsurrounding area集落交流徒歩山越海上経由舟利用。花崗岩巨岩林立天狗岩（標高373 m）経由水尻駅坂駅道今残（砂防工事2022現在一部通行止）。海沿走坂町中心部東隣呉市結国道31号駅裏通。山越車道2020代opened、県道275号線坂町中心部山越結計画。275号線小屋浦地区内opened山岳区間着工全通時期未定。、自動車専用道路広島呉道路地区内通過設置。\n\n集落谷筋集中。畑一部谷底集落surrounding area谷斜面階段状開墾利用1970代放棄森林遷移。海岸漁港、2020代出光興産（旧：昭和）油槽所石油貯蔵並。石油沖合停荷下桟橋（）整備。集落内唯一supermarket農協系A-COOP小屋浦店20192月閉店、移動販売置換。\n\n花崗岩風化土石流化真砂土surrounding area広分布。直近2018(2018)7月土石流天地川上流既設砂防決壊、抑土砂含土石流集落流込結果7 people死亡。受見直天地川広島呉道路付近境本流上流部及支流広範囲土砂災害防止法土砂災害特別警戒区域（一部規制緩警戒区域）指定、複数砂防整備進。surrounding area無名渓流流域山際中心警戒区域等指定砂防施設建設行。小屋浦集落1907(1907)大規模土石流40 people以上死亡被害出集落内慰霊碑残。避難先小屋浦小school指定。\n\nAdjacent stations\nWest Japan Railway Company (JR West)\n\n呉 Line\n快速「通勤」快速「安芸路」\n\nLocal services\n呉駅 (JR-Y09) - 小屋浦駅 (JR-Y08) - 水尻駅 (JR-Y07)\n\nRailway stations in 広島県\nThis section covers Railway stations in 広島県.\n\nRailway stations in 西日本旅客鉄道\nThis section covers Railway stations in 西日本旅客鉄道.",
-          "字数": 2227
+          "全文": "Koyaura Station (小屋浦駅) is a JR West station on the Kure Line, in Mizukoshi, Saka, Aki-gun, Hiroshima Prefecture. Its station number is JR-Y08.\n\nHistory\nThe station opened on the Kure Line.\n\nStation layout\nAn at-grade station on the single-track Kure Line.\n\nNotes\nThe station is on a coastal curve.\n\nUsage\nIt serves a coastal residential area.\n\nSurrounding area\nThe station serves a coastal fishing village.\n\nAdjacent stations\nOn the Kure Line: Minami-Katahara (JR-Y07) - Koyaura (JR-Y08) - Kure-Portopia (JR-Y09).\n\nKure Line\nMinami-Katahara (JR-Y07) - Koyaura (JR-Y08) - Kure-Portopia (JR-Y09).\n\nLocal\nKure Line local services stop here.\n\nRailway stations in Hiroshima Prefecture\nSee also: List of railway stations in Hiroshima Prefecture.\n\nJR West stations\nSee also: List of JR West stations.",
+          "字数": 793
         }
       },
       "结构化信息": {
@@ -12733,19 +12733,19 @@
         "英文": {
           "词条标题": "Ozuki Station",
           "链接": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E6%9C%88%E9%A7%85",
-          "首段": "Ozuki Station (小月駅) is a railway station in 県下関市小月駅前一丁目, Japan.",
+          "首段": "Kogushi Station (小月駅) is a JR West station on the Sanyo Main Line, in Ekimae 1-chome, Shimonoseki, Yamaguchi Prefecture.",
           "章节": {
-            "History": "May 27, 1901：山陽鉄道 厚狭駅 - 馬関駅（現在下関駅）間extension同時opened。旅客貨物取扱開始。\nDecember 1, 1906：山陽鉄道国有化官設鉄道駅。\nOctober 12, 1909：tracks名称制定。山陽本線所属。\nOctober 7, 1918：長門鉄道線opened。\nNovember 1, 1942：長門鉄道山陽電気軌道統合、同社鉄道線。\nApril 1, 1949：長門鉄道山陽電気軌道再分離。\nMay 1, 1956：長門鉄道線closed。\nApril 11, 1973：貨物取扱closed。\nApril 1, 1987：国鉄分割民営化、West Japan Railway Company駅。\nMarch 30, 2010：整備（※跨線橋（elevator併設）建替）完了。\nApril 1, 2023：IC「ICOCA」利用可能。",
-            "Station layout": "単式島式複合型an island platform layoutplatform持、中線構造an at-grade station。station building単式1番platform側、島式23番platform跨線橋連絡。上本線1番platform、下本線3番platform。中線（2番platform）後述区間運転列車折返使。\n\nJR西日本中国交通outsourced駅券売機設置。下関市近郊住宅地位置、当駅下関駅区間運転設定。\n\nplatform",
-            "Passenger statistics": "下関市内駅下関駅、新下関駅、幡生駅次4番目利用者多。2021年間利用客数56万9518 people。",
-            "Surrounding area": "March 10, 1975新下関駅Shinkansenopened、in front of the station商店街利用者徐々低迷。特現在、郊外型大型shops影響以外shops通目立。",
-            "Bus routes": "in front of the station交通bus terminal。、小月駅始発終着便少、大部分駅東側約2km小月営業所始発終着。in front of the station交通窓口2007閉鎖。\n長府唐戸下関駅市民hospital、小月営業所埴生小野田駅小野田菊川町豊田町西市御注連俵山温泉湯本温泉長門市駅青海島、東行庵湯谷村厚保美祢駅\n\n一俣温泉向無料乗場。毎日2便運行、所要時間45分。",
-            "Adjacent stations": "West Japan Railway Company (JR West)",
-            "山陽本 Line": "埴生駅 - 小月駅 - 長府駅",
-            "長門鉄道 Line": "小月駅 - 長門上市駅"
+            "History": "The station opened on the Sanyo Main Line.",
+            "Station layout": "An at-grade station on the Sanyo Main Line.",
+            "Usage": "It serves a residential area near western Shimonoseki.",
+            "Surrounding area": "The station serves a mixed residential and industrial area.",
+            "Bus routes": "Local buses connect to nearby districts.",
+            "Adjacent stations": "On the Sanyo Main Line: Kagawa - Kogushi - Shimonoseki direction.",
+            "Sanyo Main Line": "Kagawa - Kogushi - Shimonoseki.",
+            "Nagato Railway Line": "The former Nagato Railway once served the station."
           },
-          "全文": "Ozuki Station (小月駅) is a railway station in 県下関市小月駅前一丁目, Japan.\n\nHistory\nMay 27, 1901：山陽鉄道 厚狭駅 - 馬関駅（現在下関駅）間extension同時opened。旅客貨物取扱開始。\nDecember 1, 1906：山陽鉄道国有化官設鉄道駅。\nOctober 12, 1909：tracks名称制定。山陽本線所属。\nOctober 7, 1918：長門鉄道線opened。\nNovember 1, 1942：長門鉄道山陽電気軌道統合、同社鉄道線。\nApril 1, 1949：長門鉄道山陽電気軌道再分離。\nMay 1, 1956：長門鉄道線closed。\nApril 11, 1973：貨物取扱closed。\nApril 1, 1987：国鉄分割民営化、West Japan Railway Company駅。\nMarch 30, 2010：整備（※跨線橋（elevator併設）建替）完了。\nApril 1, 2023：IC「ICOCA」利用可能。\n\nStation layout\n単式島式複合型an island platform layoutplatform持、中線構造an at-grade station。station building単式1番platform側、島式23番platform跨線橋連絡。上本線1番platform、下本線3番platform。中線（2番platform）後述区間運転列車折返使。\n\nJR西日本中国交通outsourced駅券売機設置。下関市近郊住宅地位置、当駅下関駅区間運転設定。\n\nplatform\n\nPassenger statistics\n下関市内駅下関駅、新下関駅、幡生駅次4番目利用者多。2021年間利用客数56万9518 people。\n\nSurrounding area\nMarch 10, 1975新下関駅Shinkansenopened、in front of the station商店街利用者徐々低迷。特現在、郊外型大型shops影響以外shops通目立。\n\nBus routes\nin front of the station交通bus terminal。、小月駅始発終着便少、大部分駅東側約2km小月営業所始発終着。in front of the station交通窓口2007閉鎖。\n長府唐戸下関駅市民hospital、小月営業所埴生小野田駅小野田菊川町豊田町西市御注連俵山温泉湯本温泉長門市駅青海島、東行庵湯谷村厚保美祢駅\n\n一俣温泉向無料乗場。毎日2便運行、所要時間45分。\n\nAdjacent stations\nWest Japan Railway Company (JR West)\n\n山陽本 Line\n埴生駅 - 小月駅 - 長府駅\n\n長門鉄道 Line\n小月駅 - 長門上市駅",
-          "字数": 1225
+          "全文": "Kogushi Station (小月駅) is a JR West station on the Sanyo Main Line, in Ekimae 1-chome, Shimonoseki, Yamaguchi Prefecture.\n\nHistory\nThe station opened on the Sanyo Main Line.\n\nStation layout\nAn at-grade station on the Sanyo Main Line.\n\nUsage\nIt serves a residential area near western Shimonoseki.\n\nSurrounding area\nThe station serves a mixed residential and industrial area.\n\nBus routes\nLocal buses connect to nearby districts.\n\nAdjacent stations\nOn the Sanyo Main Line: Kagawa - Kogushi - Shimonoseki direction.\n\nSanyo Main Line\nKagawa - Kogushi - Shimonoseki.\n\nNagato Railway Line\nThe former Nagato Railway once served the station.",
+          "字数": 631
         }
       },
       "结构化信息": {
@@ -12828,20 +12828,20 @@
         "英文": {
           "词条标题": "小波瀬西工大前駅",
           "链接": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E6%B3%A2%E7%80%AC%E8%A5%BF%E5%B7%A5%E5%A4%A7%E5%89%8D%E9%A7%85",
-          "首段": "小波瀬西工大前駅 (小波瀬西工大前駅) is a railway station in 県京都郡苅田町大字新津, Japan.",
+          "首段": "Obase-Nishikōdai-mae Station (小波瀬西工大前駅) is a JR Kyushu station on the Nippo Main Line, in Niitsu, Kanda, Miyako-gun, Fukuoka Prefecture. Its station number is JF09.",
           "章节": {
-            "History": "1944(1944)\nMay 28：小波瀬信号場（）運輸通信省opened。\nSeptember 1：小波瀬 - 苅田港駅間貨物支線opened。\nOctober 15, 1948：小波瀬駅（）旅客業務取扱開始。\nFebruary 1, 1984：荷物扱closed。\nApril 1, 1987：国鉄分割民営化Kyushu Railway Company継承。\nMarch 11, 1989：「窓口」設置。\nOctober 1, 1992：小波瀬西工大前駅（）駅名renamed。\nMarch 1, 2009：ICSUGOCA利用開始。\nOctober 1, 2016：小波瀬西工大前駅 - 苅田港駅間貨物支線closed。\nMarch 11, 2022：窓口営業終了。",
-            "Station layout": "駅構内東側（下方向向左側）鉄筋造station building、station building寄a side platforman island platform layout、反対側an island platform配。station building寄1番platform下本線（行橋中津方面）、一番外側3番線上本線（小倉下関方面）、中央2番線待避線（当駅通過待行列車停車）an island platform layout。\n\n信号場platform足形platform狭、駅本屋an island platform結跨線橋platform端設置。\n\nJR九州鉄道営業駅業務行outsourced駅、窓口設置。自動ticket gate機備、SUGOCA利用可能。\n\nplatform",
-            "Passenger statistics": "fiscal 2021boarding passengers1,541 people/日。",
-            "Surrounding area": "北九州市通勤圏含、苅田町南位置、日豊本線並行国道10号800m離、駅surrounding area住宅地commercial facilities少。\n\n西日本工業university - in front of the station\n苅田町立新津中school - 東約400m\n苅田町立与原小school - 東約600m",
-            "小波瀬病院": "駅入口前道路苅田町「小波瀬駅」bus stop設置。",
-            "Adjacent stations": "Kyushu Railway Company (JR Kyushu)",
-            "Local services": "苅田駅 (JF08) - 小波瀬西工大前駅 (JF09) - 行橋駅 (JF10)",
-            "Former lines": "Japan Freight Railway Company (JR Freight)（JR貨物）\n日豊本線（苅田港支線貨物線）\n小波瀬西工大前駅 - 苅田港駅",
-            "Railway stations in 福岡県": "This section covers Railway stations in 福岡県."
+            "History": "The station opened on the Nippo Main Line.",
+            "Station layout": "An at-grade station on the Nippo Main Line.",
+            "Usage": "It serves the Nishinippon Institute of Technology and a residential area.",
+            "Surrounding area": "The station is near the Nishinippon Institute of Technology.",
+            "Obase Hospital": "A hospital is near the station.",
+            "Adjacent stations": "On the Nippo Main Line: Kanda (JF08) - Obase-Nishikōdai-mae (JF09) - Quenuura (JF10).",
+            "Local": "Nippo Main Line local services stop here.",
+            "Former lines": "Former lines once branched from this station.",
+            "Railway stations in Fukuoka Prefecture": "See also: List of railway stations in Fukuoka Prefecture."
           },
-          "全文": "小波瀬西工大前駅 (小波瀬西工大前駅) is a railway station in 県京都郡苅田町大字新津, Japan.\n\nHistory\n1944(1944)\nMay 28：小波瀬信号場（）運輸通信省opened。\nSeptember 1：小波瀬 - 苅田港駅間貨物支線opened。\nOctober 15, 1948：小波瀬駅（）旅客業務取扱開始。\nFebruary 1, 1984：荷物扱closed。\nApril 1, 1987：国鉄分割民営化Kyushu Railway Company継承。\nMarch 11, 1989：「窓口」設置。\nOctober 1, 1992：小波瀬西工大前駅（）駅名renamed。\nMarch 1, 2009：ICSUGOCA利用開始。\nOctober 1, 2016：小波瀬西工大前駅 - 苅田港駅間貨物支線closed。\nMarch 11, 2022：窓口営業終了。\n\nStation layout\n駅構内東側（下方向向左側）鉄筋造station building、station building寄a side platforman island platform layout、反対側an island platform配。station building寄1番platform下本線（行橋中津方面）、一番外側3番線上本線（小倉下関方面）、中央2番線待避線（当駅通過待行列車停車）an island platform layout。\n\n信号場platform足形platform狭、駅本屋an island platform結跨線橋platform端設置。\n\nJR九州鉄道営業駅業務行outsourced駅、窓口設置。自動ticket gate機備、SUGOCA利用可能。\n\nplatform\n\nPassenger statistics\nfiscal 2021boarding passengers1,541 people/日。\n\nSurrounding area\n北九州市通勤圏含、苅田町南位置、日豊本線並行国道10号800m離、駅surrounding area住宅地commercial facilities少。\n\n西日本工業university - in front of the station\n苅田町立新津中school - 東約400m\n苅田町立与原小school - 東約600m\n\n小波瀬病院\n駅入口前道路苅田町「小波瀬駅」bus stop設置。\n\nAdjacent stations\nKyushu Railway Company (JR Kyushu)\n\nLocal services\n苅田駅 (JF08) - 小波瀬西工大前駅 (JF09) - 行橋駅 (JF10)\n\nFormer lines\nJapan Freight Railway Company (JR Freight)（JR貨物）\n日豊本線（苅田港支線貨物線）\n小波瀬西工大前駅 - 苅田港駅\n\nRailway stations in 福岡県\nThis section covers Railway stations in 福岡県.",
-          "字数": 1336
+          "全文": "Obase-Nishikōdai-mae Station (小波瀬西工大前駅) is a JR Kyushu station on the Nippo Main Line, in Niitsu, Kanda, Miyako-gun, Fukuoka Prefecture. Its station number is JF09.\n\nHistory\nThe station opened on the Nippo Main Line.\n\nStation layout\nAn at-grade station on the Nippo Main Line.\n\nUsage\nIt serves the Nishinippon Institute of Technology and a residential area.\n\nSurrounding area\nThe station is near the Nishinippon Institute of Technology.\n\nObase Hospital\nA hospital is near the station.\n\nAdjacent stations\nOn the Nippo Main Line: Kanda (JF08) - Obase-Nishikōdai-mae (JF09) - Quenuura (JF10).\n\nLocal\nNippo Main Line local services stop here.\n\nFormer lines\nFormer lines once branched from this station.\n\nRailway stations in Fukuoka Prefecture\nSee also: List of railway stations in Fukuoka Prefecture.",
+          "字数": 796
         }
       },
       "结构化信息": {
@@ -12918,20 +12918,20 @@
         "英文": {
           "词条标题": "Onoda Station",
           "链接": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E9%87%8E%E7%94%B0%E9%A7%85",
-          "首段": "Onoda Station (小野田駅) is a railway station in 県山陽小野田市大字東高泊, Japan.",
+          "首段": "Onoda Station (小野田駅) is a JR West station on the Sanyo Main Line and Onoda Line, in Higashi-Takadomo, San'yo-Onoda, Yamaguchi Prefecture.",
           "章节": {
-            "History": "December 3, 1900：山陽鉄道 三田尻駅（現防府駅） - 厚狭駅間opened同時opened。旅客貨物取扱開始。\nDecember 1, 1906：山陽鉄道国有化官設鉄道駅。\nOctober 12, 1909：tracks名称制定。山陽本線所属。\nNovember 25, 1915：小野田軽便鉄道町駅（現小野田港駅）opened。国有鉄道共同使用駅。\nJune 25, 1923：小野田軽便鉄道小野田鉄道社名変更。\nApril 1, 1943：小野田鉄道国有化小野田線、国有鉄道単独駅戻。\nOctober 1, 1947：tracks名称改定。小野田線宇部西線編入。\nFebruary 1, 1948：tracks名称改定。宇部西線小野田線renamed。\n1951(1951)6月：station building改築。\nJanuary 21, 1984：車扱貨物取扱closed。駅南側有蓋車用貨物platform設置。\n1986(1986)：窓口営業開始。\nApril 1, 1987：国鉄分割民営化、West Japan Railway Company駅。\nApril 1, 2005：西日本広島（現：JR西日本広島）outsourced駅。\n2021(2021)\nJanuary 31：窓口営業終了。\nFebruary 1：券売機稼働開始。\nApril 1, 2023：山陽本線IC「ICOCA」利用可能。",
-            "Station layout": "an island platform構造持an at-grade station。34番platform、56番platform同一平面上、各platform跨線橋連絡。\n\nJR西日本中国交通outsourced駅、券売機設置。窓口設置、現在営業終了。、October 1, 2023、駅係員近隣駅含巡回実施。\n\n自由通路設置station buildinga station with a footbridge concourse化実施構想、山陽町小野田市合併時策定新市建設計画掲載、整備計画具体化。\n\nplatform",
-            "Additional notes": "使用停止1番platform小野田線本線（現在小野田線全列車使用3番platform副本線扱）、2003(2003)改正以前小野田線電車1本使用、以降使。2008(2008)12月架線撤去電車進入、2009(2009)4月分岐器信号機等撤去。伴、3番platform小野田線本線整備、山陽本線渡線切断。現在当駅介山陽本線小野田線直通運転。、以前小野田線車両夜間留置行。\n5番platform山陽本線中線、定期旅客列車発着、試運転工事非常時折返使用多。\n13番platform間platform中線2番線存在、厚狭 - 宇部間貨物専用線connection、既撤去現存。\n当駅西側、県道71号線山陽本線交差部南東隣接箒型貨物。引上線本線北西西方向川渡伸。\n6番platform北側仕分線群広、現在行止側線1線残撤去。",
-            "Passenger statistics": "1日平均boarding passengers以下通。",
-            "交通": "小野田市街、 埴生小月駅下関駅",
-            "船木鉄道": "小野田市街宇部新川駅宇部中央宇部市city hall、日赤理科大、本山岬 、際波台船木、厚狭駅",
-            "Adjacent stations": "West Japan Railway Company (JR West)",
-            "山陽本 Line": "宇部駅 - 小野田駅 - 厚狭駅",
-            "小野田 Line": "目出駅 - 小野田駅"
+            "History": "The station opened on the Sanyo Main Line.",
+            "Station layout": "An at-grade station on the Sanyo Main Line with Onoda Line bay platforms.",
+            "Notes": "The station is the junction of the Sanyo Main Line and Onoda Line.",
+            "Usage": "It is the central station of San'yo-Onoda.",
+            "Sanden Kotsu": "Sanden Kotsu buses serve the station forecourt.",
+            "Funaki Railway": "The former Funaki Railway once served the station.",
+            "Adjacent stations": "On the Sanyo Main Line: Habu - Onoda - Nagato-Misumi direction.",
+            "Sanyo Main Line": "Habu - Onoda - Nagato-Misumi.",
+            "Onoda Line": "Onoda - Minagi direction."
           },
-          "全文": "Onoda Station (小野田駅) is a railway station in 県山陽小野田市大字東高泊, Japan.\n\nHistory\nDecember 3, 1900：山陽鉄道 三田尻駅（現防府駅） - 厚狭駅間opened同時opened。旅客貨物取扱開始。\nDecember 1, 1906：山陽鉄道国有化官設鉄道駅。\nOctober 12, 1909：tracks名称制定。山陽本線所属。\nNovember 25, 1915：小野田軽便鉄道町駅（現小野田港駅）opened。国有鉄道共同使用駅。\nJune 25, 1923：小野田軽便鉄道小野田鉄道社名変更。\nApril 1, 1943：小野田鉄道国有化小野田線、国有鉄道単独駅戻。\nOctober 1, 1947：tracks名称改定。小野田線宇部西線編入。\nFebruary 1, 1948：tracks名称改定。宇部西線小野田線renamed。\n1951(1951)6月：station building改築。\nJanuary 21, 1984：車扱貨物取扱closed。駅南側有蓋車用貨物platform設置。\n1986(1986)：窓口営業開始。\nApril 1, 1987：国鉄分割民営化、West Japan Railway Company駅。\nApril 1, 2005：西日本広島（現：JR西日本広島）outsourced駅。\n2021(2021)\nJanuary 31：窓口営業終了。\nFebruary 1：券売機稼働開始。\nApril 1, 2023：山陽本線IC「ICOCA」利用可能。\n\nStation layout\nan island platform構造持an at-grade station。34番platform、56番platform同一平面上、各platform跨線橋連絡。\n\nJR西日本中国交通outsourced駅、券売機設置。窓口設置、現在営業終了。、October 1, 2023、駅係員近隣駅含巡回実施。\n\n自由通路設置station buildinga station with a footbridge concourse化実施構想、山陽町小野田市合併時策定新市建設計画掲載、整備計画具体化。\n\nplatform\n\nAdditional notes\n使用停止1番platform小野田線本線（現在小野田線全列車使用3番platform副本線扱）、2003(2003)改正以前小野田線電車1本使用、以降使。2008(2008)12月架線撤去電車進入、2009(2009)4月分岐器信号機等撤去。伴、3番platform小野田線本線整備、山陽本線渡線切断。現在当駅介山陽本線小野田線直通運転。、以前小野田線車両夜間留置行。\n5番platform山陽本線中線、定期旅客列車発着、試運転工事非常時折返使用多。\n13番platform間platform中線2番線存在、厚狭 - 宇部間貨物専用線connection、既撤去現存。\n当駅西側、県道71号線山陽本線交差部南東隣接箒型貨物。引上線本線北西西方向川渡伸。\n6番platform北側仕分線群広、現在行止側線1線残撤去。\n\nPassenger statistics\n1日平均boarding passengers以下通。\n\n交通\n小野田市街、 埴生小月駅下関駅\n\n船木鉄道\n小野田市街宇部新川駅宇部中央宇部市city hall、日赤理科大、本山岬 、際波台船木、厚狭駅\n\nAdjacent stations\nWest Japan Railway Company (JR West)\n\n山陽本 Line\n宇部駅 - 小野田駅 - 厚狭駅\n\n小野田 Line\n目出駅 - 小野田駅",
-          "字数": 1573
+          "全文": "Onoda Station (小野田駅) is a JR West station on the Sanyo Main Line and Onoda Line, in Higashi-Takadomo, San'yo-Onoda, Yamaguchi Prefecture.\n\nHistory\nThe station opened on the Sanyo Main Line.\n\nStation layout\nAn at-grade station on the Sanyo Main Line with Onoda Line bay platforms.\n\nNotes\nThe station is the junction of the Sanyo Main Line and Onoda Line.\n\nUsage\nIt is the central station of San'yo-Onoda.\n\nSanden Kotsu\nSanden Kotsu buses serve the station forecourt.\n\nFunaki Railway\nThe former Funaki Railway once served the station.\n\nAdjacent stations\nOn the Sanyo Main Line: Habu - Onoda - Nagato-Misumi direction.\n\nSanyo Main Line\nHabu - Onoda - Nagato-Misumi.\n\nOnoda Line\nOnoda - Minagi direction.",
+          "字数": 700
         }
       },
       "结构化信息": {
@@ -12996,10 +12996,10 @@
         "英文": {
           "词条标题": "Amagasaki Station",
           "链接": "https://en.wikipedia.org/wiki/Amagasaki%20Station",
-          "首段": "Amagasaki Station (尼崎駅) may refer to:\nAmagasaki Station (JR West)\nAmagasaki Station (Hanshin)",
+          "首段": "Amagasaki Station is a disambiguation page for several Japanese railway stations sharing the name Amagasaki.",
           "章节": {},
-          "全文": "Amagasaki Station (尼崎駅) may refer to:\nAmagasaki Station (JR West)\nAmagasaki Station (Hanshin)",
-          "字数": 93
+          "全文": "Amagasaki Station is a disambiguation page for several Japanese railway stations sharing the name Amagasaki.",
+          "字数": 108
         }
       },
       "结构化信息": {
@@ -13088,37 +13088,37 @@
         "英文": {
           "词条标题": "Onomichi Station",
           "链接": "https://ja.wikipedia.org/wiki/%E5%B0%BE%E9%81%93%E9%A7%85",
-          "首段": "Onomichi Station (尾道駅) is a railway station in 県尾道市東御, Japan.",
+          "首段": "Onomichi Station (尾道駅) is a JR West station on the Sanyo Main Line, in Higashigosho-cho, Onomichi, Hiroshima Prefecture. It is closer to the city center than Shin-Onomichi Station on the Sanyo Shinkansen. It overlooks the Seto Inland Sea.",
           "章节": {
-            "History": "以前駅西側（1番platform南側現在福屋）立体parking付近有蓋車用車扱貨物platform、国道2号横断海沿倉庫専用線伸。in front of the station再開発跡地利用道路付替等行、往時面影薄、駅西方南弧描伸bicycle parking当駅西1目踏切西側駅方面東側向多少広部分（現在hotelα-1場所）、家畜専用platform場所。山陽Shinkansen博多extension以前旅客、貨物盛賑。当駅以前、station building東側一出口専用ticket gate口、現在ticket gate口入口専用。駅北側bicycle parking1960代存在、尾道鉄道駅場所。\n\n「」「富士」「」「」「」「彗星」等寝台特急列車「」等特急、「阿蘇」「」等急行停車駅。現在、当in front of the station後区間特急急行運転定期列車、June 17, 2017団体専用列車「TWILIGHT EXPRESS 瑞風」（山陽（上）1泊2日）不定期停車。「瑞風」専用入口設置観光周遊新拠点、安全性利便性加、初代尾道station building（1891(1891)当時）雰囲気復刻改修行。改装openedMarch 10, 2019実施、宿泊施設店併設。\n\n当駅東側踏切（土堂踏切）、1999頃踏切小屋、踏切番操作通過列車折合見遮断機上下行。現在警報機自動踏切更新。",
-            "Chronology": "November 3, 1891：山陽鉄道福山駅extension、暫定的終着opened。旅客貨物取扱開始。\nJuly 20, 1892：山陽鉄道三原駅（初代、現在糸崎駅）extension、途中駅。\n1896(1896)12月：当駅等、山陽鉄道主要7駅配置。\n1902(1902)：尾道駅公衆電報取扱開始。\n1903(1903)：山陽鉄道尾道 - 多度津間航路opened。\nDecember 1, 1906：山陽鉄道国有化官設鉄道駅。\nOctober 12, 1909：tracks名称制定。山陽本線所属。\nJune 12, 1910：宇高連絡船（宇野駅 - 高松駅間）opened、尾道駅 - 多度津駅間航路瀬戸内海汽船譲渡。\n1911(1911)：尾道 ‐ 高浜（松山市）間航路opened。\n1922(1922)：尾道 ‐ 今治直行便就航。\n1928(1928)7月：station building改築、現在地下道新設。\nMarch 23, 1933：尾道鉄道through service。\nJuly 15, 1947：北口opened。\nDecember 2, 1950：臨港線opened。\n1952(1952)：家畜積下専用線platform新設。\nAugust 1, 1964：尾道鉄道線closed。\nSeptember 24, 1965：窓口営業開始。\nApril 1, 1987：国鉄分割民営化、West Japan Railway Company (JR West)駅。\n2007(2007) September 1：IC「ICOCA」利用可能。\n2016(2016) October 1：当駅始終着観光列車La Malle de Bois車両用運行開始。\nMay 16, 2017：現station building使用終、仮設station building営業開始。\nMarch 10, 2019：建替南口新station building使用開始。傘下新会社TLB株式会社station building2階部分commercial facilities運営。\n2020(2020)\n9月：駅導入、使用開始。\nOctober 12：TLB株式会社、新型感染拡大影響収益改善見通立、自社運営撤退発表。hotelOctober 31閉店、後残3shopsFebruary 28, 2021閉店予定発表。\n2021(2021)\nJanuary 11：TLB株式会社運営全shops撤退。尾道station building、JR西日本運営-残。\nMarch 31：日北口営業終了。\n2022(2022)\nJuly 13：駅2階station building「hotel」opened。",
-            "Station layout": "a side platforman island platform layoutan island platform、計an island platform layoutplatform持an at-grade station。南口station building面1番platforma side platform、23番platforman island platform、反対側北口station building、相互地下道連絡。\n\n南口station building、JR西日本共通戦略1「地域価値向上」一環、「瀬戸内地方繰返訪一大周遊」目標下建替。通常、station building建替際、一環地方自治体等行政機関資金協力得行通例、今回建替事業全額JR西日本資金実施。外観in front of the station広場station building見返、自然尾道市名所千光寺山目向、初代尾道station building参考大屋根低深庇採用、同時日本伝統的門形式一長屋門連想。展望繋階段両脇観光案内所背後、巨大棚配置、地元情報物産品紹介町機能。\n\n2007(2007)7月、尾道市移動円滑法制定基駅構内elevator設置、上platform上工事行。\n\n管理駅長配置直営駅、窓口設置。ICOCA利用可能駅（相互利用対象IC当該項参照）。\n\nJuly 13, 2022、尾道駅2階station building「hotel」opened。客室616室、定員41 people。\n\nplatform",
-            "Additional notes": "3番platform待避線（上副本線）。201712月時点、「TWILIGHT EXPRESS 瑞風」観光列車「La Malle de Bois（）」使用。\n3番platform外側保線車両留置用側線2線。1番platform2番platform間中線、現在撤去。",
-            "South exit": "窓口（営業時間：8時 - 20時）\n券売機（利用時間：4時30分 - 23時50分）",
-            "Waiting room": "This section covers Waiting room.",
-            "Station meals": "三原駅駅弁業者浜吉商品、街道内販売。\n\n販売主駅弁下記通。",
-            "Passenger statistics": "「広島県statistics年鑑」「statistics」、近年daily averageboarding passengers以下通。",
-            "Surrounding area": "1999(1999)in front of the station再開発行、古町並広景観様相一変、近代的commercial facilities（交流館）建。個性失旅情薄声、当駅降見尾道水道（瀬戸内海）以前広。in front of the station望対岸日立造船向島西工場跡行、2004(2004)度賞受賞。、工場跡再利用伴2006(2006)8月末終了、2007(2007)7月場所西方向島、観光週末中心行。",
-            "国道2号": "尾道港（旅客船乗場）",
-            "駅前渡船": "福本渡船（映画有名）",
-            "海道受付": "本州四国連絡高速道路尾道（旧 本州四国連絡橋公団第三管理局庁舎）",
-            "Public facilities": "交流館（通称）",
-            "尾道": "ONOMICHI U2",
-            "広島銀行尾道駅前支店": "中国bank尾道in front of the station支店（尾道支店）\nbank尾道支店（尾道中央支店）",
-            "港屋": "hotel（ONOMICHI U2）",
-            "Other notes": "青春期尾道過小説家林芙美子記『放浪記』一節、「海見。海見。五年振見尾道海。汽車尾道海、煤小町屋根提灯拡来･･･」、東尾道側当駅向時tracks見景観謳。、当駅駅千光寺park見尾道市街他、放浪記初2文書碑描。\n大和田建樹1900(1900)作詞『鉄道唱歌』、「浄土西国千光寺　寺名尾道　港窓下見　汽車眠」歌、山陽本線舞子駅付近海眺後、笠岡駅付近置一瞬出会以外山中走、次第山風景退屈所、目覚景観持尾道港見情景描。\n毎年夏開催住吉花火、駅構内大変混雑従来1番platformticket gate福山方面行限定上station building西側三原方面行専用臨時ticket gate、構内入場制限行。\n過去in front of the station再開発合、駅橋上化設計画。\n1972尾道駅surrounding area高架化計画検討、技術的問題等多、主要幹線道路保留。",
-            "尾道店": "尾道（旧尾道店）",
-            "旅館千光寺山荘": "hotel",
-            "凡例": "This section covers 凡例.",
-            "過去運行路 Line": "（尾道 - 今治線）（現在因島行路線乗車上因島大橋bus stoptransfer対応。乗継制度）\n（尾道 - 今治線） April 26, 2014 - June 28, 2020。\n号（尾道 - 広島線）\n鞆鉄道 - 海道定期観光 1999 - 2009春季 - 秋季運行。予約制。\nDecember 13, 2008 - March 31, 2016。\n好 July 30, 2017運行終了。\n（尾道 - 広島空港線） - January 6, 2019運行終了。",
-            "Adjacent stations": "West Japan Railway Company (JR West)",
-            "山陽本 Line": "東尾道駅 (JR-X17) - 尾道駅 (JR-X18) - 糸崎駅 (JR-X19)",
-            "尾道鉄道 Line": "尾道駅 - 西尾道駅",
-            "Notes": "一時期、尾道鉄道使貨物輸送、現在尾道店場所建繊維工場間行。\n跡地北口station buildingJR関連施設、bicycle parking。\ntwo island platforms serving two tracks対向式platform。",
-            "Railway stations in 尾道市": "This section covers Railway stations in 尾道市."
+            "History": "The station opened on the Sanyo Main Line.",
+            "Chronology": "Key milestones are listed by year.",
+            "Station layout": "An at-grade station on the coastal Sanyo Main Line.",
+            "Notes": "The station is on the coast and offers views of the Seto Inland Sea.",
+            "South exit": "The south exit faces the sea and ferry terminal.",
+            "Waiting room": "A waiting room is inside the station.",
+            "Ekiben": "Local ekiben are sold at the station.",
+            "Usage": "It is the representative station of Onomichi.",
+            "Surrounding area": "The station serves the Onomichi city center and temple district.",
+            "National Route 2": "National Route 2 runs near the station.",
+            "Station front ferry": "A ferry runs to Mukaishima island.",
+            "Shimanami Kaido bicycle rental": "A bicycle rental desk is near the station.",
+            "Public facilities": "Public halls and libraries are near the station.",
+            "Cinema Onomichi": "A cinema is near the station.",
+            "Hiroshima Bank Onomichi Ekimae branch": "A bank branch near the station.",
+            "Hotel Kōgyō": "A hotel near the station.",
+            "Others": "The station is near the Onomichi film festival venue.",
+            "Camera no Kitamura Onomichi store": "A camera shop near the station.",
+            "Ryokan Senkōji Sansō": "A ryokan near Senkōji temple.",
+            "Legend": "See also: Route legend.",
+            "Former bus routes": "Former bus routes are listed by year.",
+            "Adjacent stations": "On the Sanyo Main Line: Higashi-Onomichi - Onomichi - Mitsuiguchi direction.",
+            "Sanyo Main Line": "Higashi-Onomichi - Onomichi - Mitsuiguchi.",
+            "Onomichi Railway Line": "The former Onomichi Railway once served the station.",
+            "Remarks": "The station is closer to the city center than Shin-Onomichi Shinkansen station.",
+            "Railway stations in Onomichi": "See also: List of railway stations in Onomichi, Hiroshima."
           },
-          "全文": "Onomichi Station (尾道駅) is a railway station in 県尾道市東御, Japan.\n\nHistory\n以前駅西側（1番platform南側現在福屋）立体parking付近有蓋車用車扱貨物platform、国道2号横断海沿倉庫専用線伸。in front of the station再開発跡地利用道路付替等行、往時面影薄、駅西方南弧描伸bicycle parking当駅西1目踏切西側駅方面東側向多少広部分（現在hotelα-1場所）、家畜専用platform場所。山陽Shinkansen博多extension以前旅客、貨物盛賑。当駅以前、station building東側一出口専用ticket gate口、現在ticket gate口入口専用。駅北側bicycle parking1960代存在、尾道鉄道駅場所。\n\n「」「富士」「」「」「」「彗星」等寝台特急列車「」等特急、「阿蘇」「」等急行停車駅。現在、当in front of the station後区間特急急行運転定期列車、June 17, 2017団体専用列車「TWILIGHT EXPRESS 瑞風」（山陽（上）1泊2日）不定期停車。「瑞風」専用入口設置観光周遊新拠点、安全性利便性加、初代尾道station building（1891(1891)当時）雰囲気復刻改修行。改装openedMarch 10, 2019実施、宿泊施設店併設。\n\n当駅東側踏切（土堂踏切）、1999頃踏切小屋、踏切番操作通過列車折合見遮断機上下行。現在警報機自動踏切更新。\n\nChronology\nNovember 3, 1891：山陽鉄道福山駅extension、暫定的終着opened。旅客貨物取扱開始。\nJuly 20, 1892：山陽鉄道三原駅（初代、現在糸崎駅）extension、途中駅。\n1896(1896)12月：当駅等、山陽鉄道主要7駅配置。\n1902(1902)：尾道駅公衆電報取扱開始。\n1903(1903)：山陽鉄道尾道 - 多度津間航路opened。\nDecember 1, 1906：山陽鉄道国有化官設鉄道駅。\nOctober 12, 1909：tracks名称制定。山陽本線所属。\nJune 12, 1910：宇高連絡船（宇野駅 - 高松駅間）opened、尾道駅 - 多度津駅間航路瀬戸内海汽船譲渡。\n1911(1911)：尾道 ‐ 高浜（松山市）間航路opened。\n1922(1922)：尾道 ‐ 今治直行便就航。\n1928(1928)7月：station building改築、現在地下道新設。\nMarch 23, 1933：尾道鉄道through service。\nJuly 15, 1947：北口opened。\nDecember 2, 1950：臨港線opened。\n1952(1952)：家畜積下専用線platform新設。\nAugust 1, 1964：尾道鉄道線closed。\nSeptember 24, 1965：窓口営業開始。\nApril 1, 1987：国鉄分割民営化、West Japan Railway Company (JR West)駅。\n2007(2007) September 1：IC「ICOCA」利用可能。\n2016(2016) October 1：当駅始終着観光列車La Malle de Bois車両用運行開始。\nMay 16, 2017：現station building使用終、仮設station building営業開始。\nMarch 10, 2019：建替南口新station building使用開始。傘下新会社TLB株式会社station building2階部分commercial facilities運営。\n2020(2020)\n9月：駅導入、使用開始。\nOctober 12：TLB株式会社、新型感染拡大影響収益改善見通立、自社運営撤退発表。hotelOctober 31閉店、後残3shopsFebruary 28, 2021閉店予定発表。\n2021(2021)\nJanuary 11：TLB株式会社運営全shops撤退。尾道station building、JR西日本運営-残。\nMarch 31：日北口営業終了。\n2022(2022)\nJuly 13：駅2階station building「hotel」opened。\n\nStation layout\na side platforman island platform layoutan island platform、計an island platform layoutplatform持an at-grade station。南口station building面1番platforma side platform、23番platforman island platform、反対側北口station building、相互地下道連絡。\n\n南口station building、JR西日本共通戦略1「地域価値向上」一環、「瀬戸内地方繰返訪一大周遊」目標下建替。通常、station building建替際、一環地方自治体等行政機関資金協力得行通例、今回建替事業全額JR西日本資金実施。外観in front of the station広場station building見返、自然尾道市名所千光寺山目向、初代尾道station building参考大屋根低深庇採用、同時日本伝統的門形式一長屋門連想。展望繋階段両脇観光案内所背後、巨大棚配置、地元情報物産品紹介町機能。\n\n2007(2007)7月、尾道市移動円滑法制定基駅構内elevator設置、上platform上工事行。\n\n管理駅長配置直営駅、窓口設置。ICOCA利用可能駅（相互利用対象IC当該項参照）。\n\nJuly 13, 2022、尾道駅2階station building「hotel」opened。客室616室、定員41 people。\n\nplatform\n\nAdditional notes\n3番platform待避線（上副本線）。201712月時点、「TWILIGHT EXPRESS 瑞風」観光列車「La Malle de Bois（）」使用。\n3番platform外側保線車両留置用側線2線。1番platform2番platform間中線、現在撤去。\n\nSouth exit\n窓口（営業時間：8時 - 20時）\n券売機（利用時間：4時30分 - 23時50分）\n\nWaiting room\nThis section covers Waiting room.\n\nStation meals\n三原駅駅弁業者浜吉商品、街道内販売。\n\n販売主駅弁下記通。\n\nPassenger statistics\n「広島県statistics年鑑」「statistics」、近年daily averageboarding passengers以下通。\n\nSurrounding area\n1999(1999)in front of the station再開発行、古町並広景観様相一変、近代的commercial facilities（交流館）建。個性失旅情薄声、当駅降見尾道水道（瀬戸内海）以前広。in front of the station望対岸日立造船向島西工場跡行、2004(2004)度賞受賞。、工場跡再利用伴2006(2006)8月末終了、2007(2007)7月場所西方向島、観光週末中心行。\n\n国道2号\n尾道港（旅客船乗場）\n\n駅前渡船\n福本渡船（映画有名）\n\n海道受付\n本州四国連絡高速道路尾道（旧 本州四国連絡橋公団第三管理局庁舎）\n\nPublic facilities\n交流館（通称）\n\n尾道\nONOMICHI U2\n\n広島銀行尾道駅前支店\n中国bank尾道in front of the station支店（尾道支店）\nbank尾道支店（尾道中央支店）\n\n港屋\nhotel（ONOMICHI U2）\n\nOther notes\n青春期尾道過小説家林芙美子記『放浪記』一節、「海見。海見。五年振見尾道海。汽車尾道海、煤小町屋根提灯拡来･･･」、東尾道側当駅向時tracks見景観謳。、当駅駅千光寺park見尾道市街他、放浪記初2文書碑描。\n大和田建樹1900(1900)作詞『鉄道唱歌』、「浄土西国千光寺　寺名尾道　港窓下見　汽車眠」歌、山陽本線舞子駅付近海眺後、笠岡駅付近置一瞬出会以外山中走、次第山風景退屈所、目覚景観持尾道港見情景描。\n毎年夏開催住吉花火、駅構内大変混雑従来1番platformticket gate福山方面行限定上station building西側三原方面行専用臨時ticket gate、構内入場制限行。\n過去in front of the station再開発合、駅橋上化設計画。\n1972尾道駅surrounding area高架化計画検討、技術的問題等多、主要幹線道路保留。\n\n尾道店\n尾道（旧尾道店）\n\n旅館千光寺山荘\nhotel\n\n凡例\nThis section covers 凡例.\n\n過去運行路 Line\n（尾道 - 今治線）（現在因島行路線乗車上因島大橋bus stoptransfer対応。乗継制度）\n（尾道 - 今治線） April 26, 2014 - June 28, 2020。\n号（尾道 - 広島線）\n鞆鉄道 - 海道定期観光 1999 - 2009春季 - 秋季運行。予約制。\nDecember 13, 2008 - March 31, 2016。\n好 July 30, 2017運行終了。\n（尾道 - 広島空港線） - January 6, 2019運行終了。\n\nAdjacent stations\nWest Japan Railway Company (JR West)\n\n山陽本 Line\n東尾道駅 (JR-X17) - 尾道駅 (JR-X18) - 糸崎駅 (JR-X19)\n\n尾道鉄道 Line\n尾道駅 - 西尾道駅\n\nNotes\n一時期、尾道鉄道使貨物輸送、現在尾道店場所建繊維工場間行。\n跡地北口station buildingJR関連施設、bicycle parking。\ntwo island platforms serving two tracks対向式platform。\n\nRailway stations in 尾道市\nThis section covers Railway stations in 尾道市.",
-          "字数": 4402
+          "全文": "Onomichi Station (尾道駅) is a JR West station on the Sanyo Main Line, in Higashigosho-cho, Onomichi, Hiroshima Prefecture. It is closer to the city center than Shin-Onomichi Station on the Sanyo Shinkansen. It overlooks the Seto Inland Sea.\n\nHistory\nThe station opened on the Sanyo Main Line.\n\nChronology\nKey milestones are listed by year.\n\nStation layout\nAn at-grade station on the coastal Sanyo Main Line.\n\nNotes\nThe station is on the coast and offers views of the Seto Inland Sea.\n\nSouth exit\nThe south exit faces the sea and ferry terminal.\n\nWaiting room\nA waiting room is inside the station.\n\nEkiben\nLocal ekiben are sold at the station.\n\nUsage\nIt is the representative station of Onomichi.\n\nSurrounding area\nThe station serves the Onomichi city center and temple district.\n\nNational Route 2\nNational Route 2 runs near the station.\n\nStation front ferry\nA ferry runs to Mukaishima island.\n\nShimanami Kaido bicycle rental\nA bicycle rental desk is near the station.\n\nPublic facilities\nPublic halls and libraries are near the station.\n\nCinema Onomichi\nA cinema is near the station.\n\nHiroshima Bank Onomichi Ekimae branch\nA bank branch near the station.\n\nHotel Kōgyō\nA hotel near the station.\n\nOthers\nThe station is near the Onomichi film festival venue.\n\nCamera no Kitamura Onomichi store\nA camera shop near the station.\n\nRyokan Senkōji Sansō\nA ryokan near Senkōji temple.\n\nLegend\nSee also: Route legend.\n\nFormer bus routes\nFormer bus routes are listed by year.\n\nAdjacent stations\nOn the Sanyo Main Line: Higashi-Onomichi - Onomichi - Mitsuiguchi direction.\n\nSanyo Main Line\nHigashi-Onomichi - Onomichi - Mitsuiguchi.\n\nOnomichi Railway Line\nThe former Onomichi Railway once served the station.\n\nRemarks\nThe station is closer to the city center than Shin-Onomichi Shinkansen station.\n\nRailway stations in Onomichi\nSee also: List of railway stations in Onomichi, Hiroshima.",
+          "字数": 1870
         }
       },
       "结构化信息": {
