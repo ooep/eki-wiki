@@ -45,7 +45,33 @@
         "全文": "",
         "字数": 0
       },
-      "英文": null
+      "英文": {
+        "词条标题": "Kamikōchi Line",
+        "链接": null,
+        "首段": "The Kamikōchi Line (上高地線) is a railway line operated by Alpico Kōtsū, connecting Matsumoto Station with Shin-Shimashima Station in Matsumoto, Nagano Prefecture, Japan.",
+        "章节": {
+          "Overview": "",
+          "Line data": "",
+          "Service patterns": "",
+          "Traffic statistics": "",
+          "営業成績": "",
+          "電路設備": "",
+          "保安設備": "",
+          "踏切": "",
+          "History": "",
+          "筑摩鉄道設立以前": "",
+          "筑摩鉄道設立後": "",
+          "松本電気鉄道時代": "",
+          "アルピコ交通発足後": "",
+          "営業中の区間": "",
+          "Former connecting lines": "",
+          "廃止区間": "",
+          "運賃": "",
+          "上高地線が登場する作品": ""
+        },
+        "全文": "The Kamikōchi Line (上高地線) is a railway line operated by Alpico Kōtsū, connecting Matsumoto Station with Shin-Shimashima Station in Matsumoto, Nagano Prefecture, Japan.\n\nOverview\n\n\nLine data\n\n\nService patterns\n\n\nTraffic statistics\n\n\n営業成績\n\n\n電路設備\n\n\n保安設備\n\n\n踏切\n\n\nHistory\n\n\n筑摩鉄道設立以前\n\n\n筑摩鉄道設立後\n\n\n松本電気鉄道時代\n\n\nアルピコ交通発足後\n\n\n営業中の区間\n\n\nFormer connecting lines\n\n\n廃止区間\n\n\n運賃\n\n\n上高地線が登場する作品\n",
+        "字数": 371
+      }
     }
   },
   "车站": [
@@ -96,12 +122,19 @@
           "链接": "https://en.wikipedia.org/wiki/Samizo%20Station",
           "首段": "is a railway station in the city of Matsumoto, Nagano, Japan. It is operated by the private railway operating company Alpico Kōtsū.",
           "章节": {
-            "Lines": "Samizo Station is a station on the Kamikōchi Line and is 7.6 kilometers from the terminus of the line at Matsumoto Station.\n\nStation layout\nThe station has one ground-level side platform serving a single bi-directional track. The station does not have a station building, but only a waiting room on the platform. The station is unattended.\n\nAdjacent stations",
             "History": "The station opened on 10 May 1922.\n\nPassenger statistics\nIn fiscal 2016, the station was used by an average of 178 passengers daily (boarding passengers only).\n\nSurrounding area\n\nSee also\n List of railway stations in Japan",
+            "Station layout": "",
+            "Usage": "",
+            "Surrounding area": "",
+            "三溝簡易郵便局": "",
+            "国道158号": "",
+            "上高地線": "",
+            "Railway stations in 松本市": "",
+            "Lines": "Samizo Station is a station on the Kamikōchi Line and is 7.6 kilometers from the terminus of the line at Matsumoto Station.\n\nStation layout\nThe station has one ground-level side platform serving a single bi-directional track. The station does not have a station building, but only a waiting room on the platform. The station is unattended.\n\nAdjacent stations",
             "References": "External links\n\n \n\nRailway stations in Japan opened in 1922\nRailway stations in Matsumoto City\nKamikōchi Line"
           },
-          "全文": "is a railway station in the city of Matsumoto, Nagano, Japan. It is operated by the private railway operating company Alpico Kōtsū.\n\nLines\nSamizo Station is a station on the Kamikōchi Line and is 7.6 kilometers from the terminus of the line at Matsumoto Station.\n\nStation layout\nThe station has one ground-level side platform serving a single bi-directional track. The station does not have a station building, but only a waiting room on the platform. The station is unattended.\n\nAdjacent stations\n\nHistory\nThe station opened on 10 May 1922.\n\nPassenger statistics\nIn fiscal 2016, the station was used by an average of 178 passengers daily (boarding passengers only).\n\nSurrounding area\n\nSee also\n List of railway stations in Japan\n\nReferences\n\nExternal links\n\n \n\nRailway stations in Japan opened in 1922\nRailway stations in Matsumoto City\nKamikōchi Line",
-          "字数": 852
+          "全文": "is a railway station in the city of Matsumoto, Nagano, Japan. It is operated by the private railway operating company Alpico Kōtsū.\n\nHistory\nThe station opened on 10 May 1922.\n\nPassenger statistics\nIn fiscal 2016, the station was used by an average of 178 passengers daily (boarding passengers only).\n\nSurrounding area\n\nSee also\n List of railway stations in Japan\n\nStation layout\n\n\nUsage\n\n\nSurrounding area\n\n\n三溝簡易郵便局\n\n\n国道158号\n\n\n上高地線\n\n\nRailway stations in 松本市\n\n\nLines\nSamizo Station is a station on the Kamikōchi Line and is 7.6 kilometers from the terminus of the line at Matsumoto Station.\n\nStation layout\nThe station has one ground-level side platform serving a single bi-directional track. The station does not have a station building, but only a waiting room on the platform. The station is unattended.\n\nAdjacent stations\n\nReferences\nExternal links\n\n \n\nRailway stations in Japan opened in 1922\nRailway stations in Matsumoto City\nKamikōchi Line",
+          "字数": 947
         }
       },
       "结构化信息": {
@@ -221,12 +254,17 @@
           "链接": "https://en.wikipedia.org/wiki/Shimonii%20Station",
           "首段": "is a railway station in the city of Matsumoto, Nagano, Japan, operated by the private railway operating company Alpico Kōtsū.",
           "章节": {
-            "Lines": "Shimonii Station is a station on the Kamikōchi Line and is 4.4 kilometers from the terminus of the line at Matsumoto Station.\n\nStation layout\nThe station has one ground-level side platform serving a single bi-directional track.\n\nAdjacent stations",
             "History": "The station opened on 2 October 1921. The station building was rebuilt in 1997.\n\nPassenger statistics\nIn fiscal 2016, the station was used by an average of 90 passengers daily (boarding passengers only).\n\nSurrounding area\n\nSee also\n List of railway stations in Japan",
+            "Station layout": "",
+            "Usage": "",
+            "Other": "",
+            "上高地線": "",
+            "Railway stations in 松本市": "",
+            "Lines": "Shimonii Station is a station on the Kamikōchi Line and is 4.4 kilometers from the terminus of the line at Matsumoto Station.\n\nStation layout\nThe station has one ground-level side platform serving a single bi-directional track.\n\nAdjacent stations",
             "References": "External links\n \n\nRailway stations in Japan opened in 1921\nRailway stations in Matsumoto City\nKamikōchi Line"
           },
-          "全文": "is a railway station in the city of Matsumoto, Nagano, Japan, operated by the private railway operating company Alpico Kōtsū.\n\nLines\nShimonii Station is a station on the Kamikōchi Line and is 4.4 kilometers from the terminus of the line at Matsumoto Station.\n\nStation layout\nThe station has one ground-level side platform serving a single bi-directional track.\n\nAdjacent stations\n\nHistory\nThe station opened on 2 October 1921. The station building was rebuilt in 1997.\n\nPassenger statistics\nIn fiscal 2016, the station was used by an average of 90 passengers daily (boarding passengers only).\n\nSurrounding area\n\nSee also\n List of railway stations in Japan\n\nReferences\n\nExternal links\n \n\nRailway stations in Japan opened in 1921\nRailway stations in Matsumoto City\nKamikōchi Line",
-          "字数": 777
+          "全文": "is a railway station in the city of Matsumoto, Nagano, Japan, operated by the private railway operating company Alpico Kōtsū.\n\nHistory\nThe station opened on 2 October 1921. The station building was rebuilt in 1997.\n\nPassenger statistics\nIn fiscal 2016, the station was used by an average of 90 passengers daily (boarding passengers only).\n\nSurrounding area\n\nSee also\n List of railway stations in Japan\n\nStation layout\n\n\nUsage\n\n\nOther\n\n\n上高地線\n\n\nRailway stations in 松本市\n\n\nLines\nShimonii Station is a station on the Kamikōchi Line and is 4.4 kilometers from the terminus of the line at Matsumoto Station.\n\nStation layout\nThe station has one ground-level side platform serving a single bi-directional track.\n\nAdjacent stations\n\nReferences\nExternal links\n \n\nRailway stations in Japan opened in 1921\nRailway stations in Matsumoto City\nKamikōchi Line",
+          "字数": 842
         }
       },
       "结构化信息": {
@@ -300,7 +338,25 @@
           "字数": 712,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Shinano-Arai Station",
+          "链接": null,
+          "首段": "Shinano-Arai Station (信濃荒井駅) is a station on the Alpico Kōtsū Kamikōchi Line located in Ōaza Shimadachi, Matsumoto, Nagano Prefecture, Japan. Its station number is AK-04. It is the only station on the line whose name includes the old province name 'Shinano'.",
+          "章节": {
+            "History": "",
+            "Station layout": "",
+            "Usage": "",
+            "Surrounding area": "",
+            "奈良井川": "",
+            "飯田医院": "",
+            "有料老人ホーム「ふれあい」荒井荘": "",
+            "Other": "",
+            "上高地線": "",
+            "Railway stations in 松本市": ""
+          },
+          "全文": "Shinano-Arai Station (信濃荒井駅) is a station on the Alpico Kōtsū Kamikōchi Line located in Ōaza Shimadachi, Matsumoto, Nagano Prefecture, Japan. Its station number is AK-04. It is the only station on the line whose name includes the old province name 'Shinano'.\n\nHistory\n\n\nStation layout\n\n\nUsage\n\n\nSurrounding area\n\n\n奈良井川\n\n\n飯田医院\n\n\n有料老人ホーム「ふれあい」荒井荘\n\n\nOther\n\n\n上高地線\n\n\nRailway stations in 松本市\n",
+          "字数": 386
+        }
       },
       "结构化信息": {
         "读音": "しなのあらいえき",
@@ -460,12 +516,16 @@
           "链接": "https://en.wikipedia.org/wiki/%C5%8Cniwa%20Station",
           "首段": "is a railway station in the city of Matsumoto, Nagano, Japan, operated by the private railway operating company Alpico Kōtsū.",
           "章节": {
-            "Lines": "Ōniwa Station is a station on the Kamikōchi Line and is 2.6 kilometers from the terminus of the line at Matsumoto Station.\n\nStation layout\nThe station has one ground-level side platform serving a single bi-directional track.\n\nAdjacent stations",
             "History": "The station opened on 2 October 1921.\n\nPassenger statistics\nIn fiscal 2016, the station was used by an average of 159 passengers daily (boarding passengers only).\n\nSurrounding area\nShimadachi Elementary School\nMatsumoto Chikuma High School\nJapan Ukiyo-e Museum\n\nSee also\n List of railway stations in Japan",
+            "Station layout": "",
+            "Usage": "",
+            "上高地線": "",
+            "Railway stations in 松本市": "",
+            "Lines": "Ōniwa Station is a station on the Kamikōchi Line and is 2.6 kilometers from the terminus of the line at Matsumoto Station.\n\nStation layout\nThe station has one ground-level side platform serving a single bi-directional track.\n\nAdjacent stations",
             "References": "External links\n \n\nRailway stations in Japan opened in 1921\nRailway stations in Matsumoto City\nKamikōchi Line"
           },
-          "全文": "is a railway station in the city of Matsumoto, Nagano, Japan, operated by the private railway operating company Alpico Kōtsū.\n\nLines\nŌniwa Station is a station on the Kamikōchi Line and is 2.6 kilometers from the terminus of the line at Matsumoto Station.\n\nStation layout\nThe station has one ground-level side platform serving a single bi-directional track.\n\nAdjacent stations\n\nHistory\nThe station opened on 2 October 1921.\n\nPassenger statistics\nIn fiscal 2016, the station was used by an average of 159 passengers daily (boarding passengers only).\n\nSurrounding area\nShimadachi Elementary School\nMatsumoto Chikuma High School\nJapan Ukiyo-e Museum\n\nSee also\n List of railway stations in Japan\n\nReferences\n\nExternal links\n \n\nRailway stations in Japan opened in 1921\nRailway stations in Matsumoto City\nKamikōchi Line",
-          "字数": 813
+          "全文": "is a railway station in the city of Matsumoto, Nagano, Japan, operated by the private railway operating company Alpico Kōtsū.\n\nHistory\nThe station opened on 2 October 1921.\n\nPassenger statistics\nIn fiscal 2016, the station was used by an average of 159 passengers daily (boarding passengers only).\n\nSurrounding area\nShimadachi Elementary School\nMatsumoto Chikuma High School\nJapan Ukiyo-e Museum\n\nSee also\n List of railway stations in Japan\n\nStation layout\n\n\nUsage\n\n\n上高地線\n\n\nRailway stations in 松本市\n\n\nLines\nŌniwa Station is a station on the Kamikōchi Line and is 2.6 kilometers from the terminus of the line at Matsumoto Station.\n\nStation layout\nThe station has one ground-level side platform serving a single bi-directional track.\n\nAdjacent stations\n\nReferences\nExternal links\n \n\nRailway stations in Japan opened in 1921\nRailway stations in Matsumoto City\nKamikōchi Line",
+          "字数": 870
         }
       },
       "结构化信息": {
@@ -536,13 +596,21 @@
           "链接": "https://en.wikipedia.org/wiki/Shinshimashima%20Station",
           "首段": "is a railway station in Matsumoto, Nagano, Japan, operated by the private railway operating company Alpico Kōtsū.",
           "章节": {
+            "History": "The station opened on 26 September 1924 as . It was renamed to its present name on 1 October 1966. Due to damaged caused by the 1983 Typhoon 10, the line pass Shinshimashima Station was discontinued and replaced by a bus service, making this station the effective terminus of the line. A new station building was completed in 2002.\n\nPassenger statistics\nIn fiscal 2016, the station was used by an average of 201 passengers daily (boarding passengers only).\n\nSurrounding area\nAzusa River\n\nSee also\n List of railway stations in Japan",
+            "Station layout": "",
+            "Usage": "",
+            "国道158号": "",
+            "上海渡分水工": "",
+            "Bus routes": "",
+            "一般路線バス": "",
+            "上高地線": "",
+            "Railway stations in 松本市": "",
             "Lines": "Shinshimashima Station is the terminus of the Kamikōchi Line and is 14.4 kilometers from the opposing terminus of the line at Matsumoto Station.\n\nStation layout\nThe station has one dead-headed island platform serving two tracks. The platforms are not numbered",
             "Platforms": "Adjacent stations",
-            "History": "The station opened on 26 September 1924 as . It was renamed to its present name on 1 October 1966. Due to damaged caused by the 1983 Typhoon 10, the line pass Shinshimashima Station was discontinued and replaced by a bus service, making this station the effective terminus of the line. A new station building was completed in 2002.\n\nPassenger statistics\nIn fiscal 2016, the station was used by an average of 201 passengers daily (boarding passengers only).\n\nSurrounding area\nAzusa River\n\nSee also\n List of railway stations in Japan",
             "References": "External links\n\n \n\nRailway stations in Japan opened in 1924\nRailway stations in Matsumoto City\nKamikōchi Line"
           },
-          "全文": "is a railway station in Matsumoto, Nagano, Japan, operated by the private railway operating company Alpico Kōtsū.\n\nLines\nShinshimashima Station is the terminus of the Kamikōchi Line and is 14.4 kilometers from the opposing terminus of the line at Matsumoto Station.\n\nStation layout\nThe station has one dead-headed island platform serving two tracks. The platforms are not numbered\n\nPlatforms\n\nAdjacent stations\n\nHistory\nThe station opened on 26 September 1924 as . It was renamed to its present name on 1 October 1966. Due to damaged caused by the 1983 Typhoon 10, the line pass Shinshimashima Station was discontinued and replaced by a bus service, making this station the effective terminus of the line. A new station building was completed in 2002.\n\nPassenger statistics\nIn fiscal 2016, the station was used by an average of 201 passengers daily (boarding passengers only).\n\nSurrounding area\nAzusa River\n\nSee also\n List of railway stations in Japan\n\nReferences\n\nExternal links\n\n \n\nRailway stations in Japan opened in 1924\nRailway stations in Matsumoto City\nKamikōchi Line",
-          "字数": 1074
+          "全文": "is a railway station in Matsumoto, Nagano, Japan, operated by the private railway operating company Alpico Kōtsū.\n\nHistory\nThe station opened on 26 September 1924 as . It was renamed to its present name on 1 October 1966. Due to damaged caused by the 1983 Typhoon 10, the line pass Shinshimashima Station was discontinued and replaced by a bus service, making this station the effective terminus of the line. A new station building was completed in 2002.\n\nPassenger statistics\nIn fiscal 2016, the station was used by an average of 201 passengers daily (boarding passengers only).\n\nSurrounding area\nAzusa River\n\nSee also\n List of railway stations in Japan\n\nStation layout\n\n\nUsage\n\n\n国道158号\n\n\n上海渡分水工\n\n\nBus routes\n\n\n一般路線バス\n\n\n上高地線\n\n\nRailway stations in 松本市\n\n\nLines\nShinshimashima Station is the terminus of the Kamikōchi Line and is 14.4 kilometers from the opposing terminus of the line at Matsumoto Station.\n\nStation layout\nThe station has one dead-headed island platform serving two tracks. The platforms are not numbered\n\nPlatforms\nAdjacent stations\n\nReferences\nExternal links\n\n \n\nRailway stations in Japan opened in 1924\nRailway stations in Matsumoto City\nKamikōchi Line",
+          "字数": 1170
         }
       },
       "结构化信息": {
@@ -696,12 +764,35 @@
           "链接": "https://en.wikipedia.org/wiki/Matsumoto%20Station",
           "首段": "is a train station in the city of Matsumoto, Nagano Prefecture, Japan, operated by East Japan Railway Company (JR East), and the private railway operator Alpico Kōtsū.",
           "章节": {
-            "Lines": "Matsumoto Station is served by the Shinonoi Line and is 13.3 kilometers from the terminus of the line at Shiojiri Station. It is also a terminal station for the  Ōito Line.  Chūō Main Line trains using the Shinonoi Line tracks also pass through Matsumoto. Matsumoto is also a terminus for the 14.4 kilometer private Kamikōchi Line operated by Alpico Kōtsū.\n\nStation layout\nThe JR-East station consists of a three ground-level island platforms, connected to the station building by an elevated station building. The Alpico Kōtsū portion of the station has a single island platform, connected to the JR portion of the station by a footbridge. The station has a Midori no Madoguchi staffed ticket office.",
+            "Overview": "",
             "History": "Matsumoto Station opened on 15 June 1902. With the privatization of Japanese National Railways (JNR) on 1 April 1987, the station came under the control of JR East.\n\nPassenger statistics\nIn fiscal 2015, the JR East portion of the station was used by an average of 16,303 passengers daily (boarding passengers only).\n\nSurrounding area\nMatsumoto City Hall\n\nSee also\n Matsumoto Bus Terminal\n List of railway stations in Japan",
+            "Station layout": "",
+            "Ekiben (station bento)": "",
+            "とり釜めし": "",
+            "イイダヤ軒": "",
+            "地鶏めし": "",
+            "Usage": "",
+            "Surrounding area": "",
+            "公園通り": "",
+            "松本駅前通りバス停": "",
+            "ホテル東横INN松本駅前本町": "",
+            "四柱神社": "",
+            "Bus routes": "",
+            "松本周遊バス南コース[220]": "",
+            "神林ライナー": "",
+            "南部循環線": "",
+            "Other": "",
+            "Adjacent stations": "",
+            "特急「あずさ」発着駅（1往復除く）、「しなの」停車駅": "",
+            "大糸線": "",
+            "快速（上り1本のみ運転）・普通": "",
+            "上高地線": "",
+            "Railway stations in 松本市": "",
+            "Lines": "Matsumoto Station is served by the Shinonoi Line and is 13.3 kilometers from the terminus of the line at Shiojiri Station. It is also a terminal station for the  Ōito Line.  Chūō Main Line trains using the Shinonoi Line tracks also pass through Matsumoto. Matsumoto is also a terminus for the 14.4 kilometer private Kamikōchi Line operated by Alpico Kōtsū.\n\nStation layout\nThe JR-East station consists of a three ground-level island platforms, connected to the station building by an elevated station building. The Alpico Kōtsū portion of the station has a single island platform, connected to the JR portion of the station by a footbridge. The station has a Midori no Madoguchi staffed ticket office.",
             "References": "External links\n\n JR East Matsumoto Station\nAlpico Kōtsū station information\n\nRailway stations in Japan opened in 1902\nRailway stations in Matsumoto City\nStations of East Japan Railway Company\nShinonoi Line\nŌito Line\nMatsumoto, Nagano"
           },
-          "全文": "is a train station in the city of Matsumoto, Nagano Prefecture, Japan, operated by East Japan Railway Company (JR East), and the private railway operator Alpico Kōtsū.\n\nLines\nMatsumoto Station is served by the Shinonoi Line and is 13.3 kilometers from the terminus of the line at Shiojiri Station. It is also a terminal station for the  Ōito Line.  Chūō Main Line trains using the Shinonoi Line tracks also pass through Matsumoto. Matsumoto is also a terminus for the 14.4 kilometer private Kamikōchi Line operated by Alpico Kōtsū.\n\nStation layout\nThe JR-East station consists of a three ground-level island platforms, connected to the station building by an elevated station building. The Alpico Kōtsū portion of the station has a single island platform, connected to the JR portion of the station by a footbridge. The station has a Midori no Madoguchi staffed ticket office.\n\nPlatforms\n\nHistory\nMatsumoto Station opened on 15 June 1902. With the privatization of Japanese National Railways (JNR) on 1 April 1987, the station came under the control of JR East.\n\nPassenger statistics\nIn fiscal 2015, the JR East portion of the station was used by an average of 16,303 passengers daily (boarding passengers only).\n\nSurrounding area\nMatsumoto City Hall\n\nSee also\n Matsumoto Bus Terminal\n List of railway stations in Japan\n\nReferences\n\nExternal links\n\n JR East Matsumoto Station\nAlpico Kōtsū station information\n\nRailway stations in Japan opened in 1902\nRailway stations in Matsumoto City\nStations of East Japan Railway Company\nShinonoi Line\nŌito Line\nMatsumoto, Nagano",
-          "字数": 1566
+          "全文": "is a train station in the city of Matsumoto, Nagano Prefecture, Japan, operated by East Japan Railway Company (JR East), and the private railway operator Alpico Kōtsū.\n\nOverview\n\n\nHistory\nMatsumoto Station opened on 15 June 1902. With the privatization of Japanese National Railways (JNR) on 1 April 1987, the station came under the control of JR East.\n\nPassenger statistics\nIn fiscal 2015, the JR East portion of the station was used by an average of 16,303 passengers daily (boarding passengers only).\n\nSurrounding area\nMatsumoto City Hall\n\nSee also\n Matsumoto Bus Terminal\n List of railway stations in Japan\n\nStation layout\n\n\nEkiben (station bento)\n\n\nとり釜めし\n\n\nイイダヤ軒\n\n\n地鶏めし\n\n\nUsage\n\n\nSurrounding area\n\n\n公園通り\n\n\n松本駅前通りバス停\n\n\nホテル東横INN松本駅前本町\n\n\n四柱神社\n\n\nBus routes\n\n\n松本周遊バス南コース[220]\n\n\n神林ライナー\n\n\n南部循環線\n\n\nOther\n\n\nAdjacent stations\n\n\n特急「あずさ」発着駅（1往復除く）、「しなの」停車駅\n\n\n大糸線\n\n\n快速（上り1本のみ運転）・普通\n\n\n上高地線\n\n\nRailway stations in 松本市\n\n\nLines\nMatsumoto Station is served by the Shinonoi Line and is 13.3 kilometers from the terminus of the line at Shiojiri Station. It is also a terminal station for the  Ōito Line.  Chūō Main Line trains using the Shinonoi Line tracks also pass through Matsumoto. Matsumoto is also a terminus for the 14.4 kilometer private Kamikōchi Line operated by Alpico Kōtsū.\n\nStation layout\nThe JR-East station consists of a three ground-level island platforms, connected to the station building by an elevated station building. The Alpico Kōtsū portion of the station has a single island platform, connected to the JR portion of the station by a footbridge. The station has a Midori no Madoguchi staffed ticket office.\n\nReferences\nExternal links\n\n JR East Matsumoto Station\nAlpico Kōtsū station information\n\nRailway stations in Japan opened in 1902\nRailway stations in Matsumoto City\nStations of East Japan Railway Company\nShinonoi Line\nŌito Line\nMatsumoto, Nagano",
+          "字数": 1862
         }
       },
       "结构化信息": {
@@ -788,9 +879,17 @@
           "词条标题": "Moriguchi Station",
           "链接": "https://en.wikipedia.org/wiki/Moriguchi%20Station",
           "首段": "Moriguchi Station is the name of two train stations in Japan:\n\n Moriguchi Station (Nagano) (森口駅)\n Moriguchi Station (Osaka) (守口駅)",
-          "章节": {},
-          "全文": "Moriguchi Station is the name of two train stations in Japan:\n\n Moriguchi Station (Nagano) (森口駅)\n Moriguchi Station (Osaka) (守口駅)",
-          "字数": 129
+          "章节": {
+            "History": "",
+            "Station layout": "",
+            "Usage": "",
+            "Surrounding area": "",
+            "さみぞ霊園": "",
+            "上高地線": "",
+            "Railway stations in 松本市": ""
+          },
+          "全文": "Moriguchi Station is the name of two train stations in Japan:\n\n Moriguchi Station (Nagano) (森口駅)\n Moriguchi Station (Osaka) (守口駅)\n\nHistory\n\n\nStation layout\n\n\nUsage\n\n\nSurrounding area\n\n\nさみぞ霊園\n\n\n上高地線\n\n\nRailway stations in 松本市\n",
+          "字数": 224
         }
       },
       "结构化信息": {
@@ -866,9 +965,19 @@
           "词条标题": "Hata Station",
           "链接": "https://en.wikipedia.org/wiki/Hata%20Station",
           "首段": "Hata Station is the name of two train stations in Japan:\n\n Hata Station (Nagano) (波田駅)\n Hata Station (Hyōgo) (葉多駅)",
-          "章节": {},
-          "全文": "Hata Station is the name of two train stations in Japan:\n\n Hata Station (Nagano) (波田駅)\n Hata Station (Hyōgo) (葉多駅)",
-          "字数": 114
+          "章节": {
+            "History": "",
+            "Station layout": "",
+            "Additional notes": "",
+            "Usage": "",
+            "Surrounding area": "",
+            "波田駅": "",
+            "波田循環バス": "",
+            "上高地線": "",
+            "Railway stations in 松本市": ""
+          },
+          "全文": "Hata Station is the name of two train stations in Japan:\n\n Hata Station (Nagano) (波田駅)\n Hata Station (Hyōgo) (葉多駅)\n\nHistory\n\n\nStation layout\n\n\nAdditional notes\n\n\nUsage\n\n\nSurrounding area\n\n\n波田駅\n\n\n波田循環バス\n\n\n上高地線\n\n\nRailway stations in 松本市\n",
+          "字数": 235
         }
       },
       "结构化信息": {
@@ -943,12 +1052,17 @@
           "链接": "https://en.wikipedia.org/wiki/End%C5%8D%20Station",
           "首段": "is a railway station in the city of Matsumoto, Nagano, Japan, operated by the private railway operating company Alpico Kōtsū.",
           "章节": {
-            "Lines": "Endō Station is on the Kamikōchi Line and is 12.7 kilometers from the opposing terminus of the line at Matsumoto Station.\n\nStation layout\nThe station has one ground-level side platform serving one bi-directional track. The station is not attended.\n\nAdjacent stations",
             "History": "The station opened on 26 September 1922.\n\nPassenger statistics\nIn fiscal 2016, the station was used by an average of 27 passengers daily (boarding passengers only).\n\nSurrounding area\nHata Jinja\n\nSee also\n List of railway stations in Japan",
+            "Station layout": "",
+            "Usage": "",
+            "当駅でのロケ撮影": "",
+            "上高地線": "",
+            "Railway stations in 松本市": "",
+            "Lines": "Endō Station is on the Kamikōchi Line and is 12.7 kilometers from the opposing terminus of the line at Matsumoto Station.\n\nStation layout\nThe station has one ground-level side platform serving one bi-directional track. The station is not attended.\n\nAdjacent stations",
             "References": "External links\n\n \n\nRailway stations in Japan opened in 1922\nRailway stations in Matsumoto City\nKamikōchi Line"
           },
-          "全文": "is a railway station in the city of Matsumoto, Nagano, Japan, operated by the private railway operating company Alpico Kōtsū.\n\nLines\nEndō Station is on the Kamikōchi Line and is 12.7 kilometers from the opposing terminus of the line at Matsumoto Station.\n\nStation layout\nThe station has one ground-level side platform serving one bi-directional track. The station is not attended.\n\nAdjacent stations\n\nHistory\nThe station opened on 26 September 1922.\n\nPassenger statistics\nIn fiscal 2016, the station was used by an average of 27 passengers daily (boarding passengers only).\n\nSurrounding area\nHata Jinja\n\nSee also\n List of railway stations in Japan\n\nReferences\n\nExternal links\n\n \n\nRailway stations in Japan opened in 1922\nRailway stations in Matsumoto City\nKamikōchi Line",
-          "字数": 770
+          "全文": "is a railway station in the city of Matsumoto, Nagano, Japan, operated by the private railway operating company Alpico Kōtsū.\n\nHistory\nThe station opened on 26 September 1922.\n\nPassenger statistics\nIn fiscal 2016, the station was used by an average of 27 passengers daily (boarding passengers only).\n\nSurrounding area\nHata Jinja\n\nSee also\n List of railway stations in Japan\n\nStation layout\n\n\nUsage\n\n\n当駅でのロケ撮影\n\n\n上高地線\n\n\nRailway stations in 松本市\n\n\nLines\nEndō Station is on the Kamikōchi Line and is 12.7 kilometers from the opposing terminus of the line at Matsumoto Station.\n\nStation layout\nThe station has one ground-level side platform serving one bi-directional track. The station is not attended.\n\nAdjacent stations\n\nReferences\nExternal links\n\n \n\nRailway stations in Japan opened in 1922\nRailway stations in Matsumoto City\nKamikōchi Line",
+          "字数": 838
         }
       },
       "结构化信息": {
@@ -1067,7 +1181,22 @@
           "字数": 616,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Nishi-Matsumoto Station",
+          "链接": null,
+          "首段": "Nishi-Matsumoto Station (西松本駅) is a station on the Alpico Kōtsū Kamikōchi Line located in Nakajima, Matsumoto, Nagano Prefecture, Japan. Its station number is AK-02.",
+          "章节": {
+            "History": "",
+            "Chronology": "",
+            "Station layout": "",
+            "Usage": "",
+            "Surrounding area": "",
+            "上高地線": "",
+            "Railway stations in 松本市": ""
+          },
+          "全文": "Nishi-Matsumoto Station (西松本駅) is a station on the Alpico Kōtsū Kamikōchi Line located in Nakajima, Matsumoto, Nagano Prefecture, Japan. Its station number is AK-02.\n\nHistory\n\n\nChronology\n\n\nStation layout\n\n\nUsage\n\n\nSurrounding area\n\n\n上高地線\n\n\nRailway stations in 松本市\n",
+          "字数": 265
+        }
       },
       "结构化信息": {
         "读音": "にしまつもとえき",
@@ -1102,6 +1231,6 @@
     "有中文词条": 14,
     "已千问汉化": 0,
     "待汉化": 0,
-    "有英文词条": 12
+    "有英文词条": 14
   }
 }
