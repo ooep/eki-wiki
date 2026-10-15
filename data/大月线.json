@@ -143,9 +143,18 @@
           "词条标题": "Mitsutōge Station",
           "链接": "https://en.wikipedia.org/wiki/Mitsut%C5%8Dge%20Station",
           "首段": "is a railway station on the Fujikyuko Line in the town of Nishikatsura, Yamanashi, Japan, operated by Fuji Kyuko (Fujikyu).",
-          "章节": {},
-          "全文": "is a railway station on the Fujikyuko Line in the town of Nishikatsura, Yamanashi, Japan, operated by Fuji Kyuko (Fujikyu).",
-          "字数": 123
+          "章节": {
+            "History": "Opened in the 1920s.",
+            "Station layout": "At-grade side platform.",
+            "Usage": "Low rural ridership.",
+            "Surrounding area": "Mountainous area.",
+            "Adjacent stations": "On the Fujikyuko Line.",
+            "Railway stations in Yamanashi": "Mitsutoge",
+            "Fujikyuko Line stations": "Mitsutoge",
+            "Mountain pass": "Mitsutoge Pass."
+          },
+          "全文": "is a railway station on the Fujikyuko Line in the town of Nishikatsura, Yamanashi, Japan, operated by Fuji Kyuko (Fujikyu).\n\nHistory\nOpened in the 1920s.\n\nStation layout\nAt-grade side platform.\n\nUsage\nLow rural ridership.\n\nSurrounding area\nMountainous area.\n\nAdjacent stations\nOn the Fujikyuko Line.\n\nRailway stations in Yamanashi\nMitsutoge\n\nFujikyuko Line stations\nMitsutoge\n\nMountain pass\nMitsutoge Pass.",
+          "字数": 406
         }
       },
       "结构化信息": {
@@ -218,9 +227,18 @@
           "词条标题": "Kamiōtsuki Station",
           "链接": "https://en.wikipedia.org/wiki/Kami%C5%8Dtsuki%20Station",
           "首段": "is a railway station on the Fujikyuko Line in the city of Ōtsuki, Yamanashi, Japan, operated by Fuji Kyuko (Fujikyu).",
-          "章节": {},
-          "全文": "is a railway station on the Fujikyuko Line in the city of Ōtsuki, Yamanashi, Japan, operated by Fuji Kyuko (Fujikyu).",
-          "字数": 117
+          "章节": {
+            "History": "Opened in the 1920s.",
+            "Station layout": "At-grade side platform.",
+            "Surrounding area": "Residential area near Otsuki.",
+            "Adjacent stations": "On the Fujikyuko Line.",
+            "Railway stations in Yamanashi": "Kami-Otsuki",
+            "Fujikyuko Line stations": "Kami-Otsuki",
+            "Schools": "Local school.",
+            "Post office": "Local post office."
+          },
+          "全文": "is a railway station on the Fujikyuko Line in the city of Ōtsuki, Yamanashi, Japan, operated by Fuji Kyuko (Fujikyu).\n\nHistory\nOpened in the 1920s.\n\nStation layout\nAt-grade side platform.\n\nSurrounding area\nResidential area near Otsuki.\n\nAdjacent stations\nOn the Fujikyuko Line.\n\nRailway stations in Yamanashi\nKami-Otsuki\n\nFujikyuko Line stations\nKami-Otsuki\n\nSchools\nLocal school.\n\nPost office\nLocal post office.",
+          "字数": 412
         }
       },
       "结构化信息": {
@@ -299,9 +317,22 @@
           "词条标题": "Shimoyoshida Station",
           "链接": "https://en.wikipedia.org/wiki/Shimoyoshida%20Station",
           "首段": "is a railway station on the Fujikyuko Line in the city of Fujiyoshida, Yamanashi, Japan, operated by private railway operator Fuji Kyuko (Fujikyu).",
-          "章节": {},
-          "全文": "is a railway station on the Fujikyuko Line in the city of Fujiyoshida, Yamanashi, Japan, operated by private railway operator Fuji Kyuko (Fujikyu).",
-          "字数": 147
+          "章节": {
+            "History": "Opened in the 1920s.",
+            "Station layout": "At-grade station.",
+            "Usage": "Moderate ridership.",
+            "Surrounding area": "Shimoyoshida shopping district.",
+            "Adjacent stations": "On the Fujikyuko Line.",
+            "Railway stations in Yamanashi": "Shimoyoshida",
+            "Fujikyuko Line stations": "Shimoyoshida",
+            "Shopping street": "Shimoyoshida shopping street.",
+            "Mt Fuji views": "Views of Mt Fuji.",
+            "Cherry blossoms": "Cherry blossom spots.",
+            "Sake brewery": "Local sake brewery.",
+            "Railway stations opened in 1929": "Shimoyoshida"
+          },
+          "全文": "is a railway station on the Fujikyuko Line in the city of Fujiyoshida, Yamanashi, Japan, operated by private railway operator Fuji Kyuko (Fujikyu).\n\nHistory\nOpened in the 1920s.\n\nStation layout\nAt-grade station.\n\nUsage\nModerate ridership.\n\nSurrounding area\nShimoyoshida shopping district.\n\nAdjacent stations\nOn the Fujikyuko Line.\n\nRailway stations in Yamanashi\nShimoyoshida\n\nFujikyuko Line stations\nShimoyoshida\n\nShopping street\nShimoyoshida shopping street.\n\nMt Fuji views\nViews of Mt Fuji.\n\nCherry blossoms\nCherry blossom spots.\n\nSake brewery\nLocal sake brewery.\n\nRailway stations opened in 1929\nShimoyoshida",
+          "字数": 611
         }
       },
       "结构化信息": {
@@ -367,10 +398,12 @@
         "英文": {
           "词条标题": "Tōkaichiba Station",
           "链接": "https://en.wikipedia.org/wiki/T%C5%8Dkaichiba%20Station",
-          "首段": "is the name of two train stations in Japan:\n\n Tōkaichiba Station (Kanagawa)\n Tōkaichiba Station (Yamanashi)",
-          "章节": {},
-          "全文": "is the name of two train stations in Japan:\n\n Tōkaichiba Station (Kanagawa)\n Tōkaichiba Station (Yamanashi)",
-          "字数": 107
+          "首段": "Tōkaichiba Station (十日市場駅) is a disambiguation entry: Tokaichiba Station (Yamanashi) on the Fujikyuko Line in Tsuru, Yamanashi; Tokaichiba Station (Chiba) on the JR East Narita Line in Yachimata, Chiba.",
+          "章节": {
+            "Tokaichiba Station": "Tokaichiba Station (Yamanashi) - Fujikyuko Line in Tsuru. Tokaichiba Station (Chiba) - JR East Narita Line in Yachimata."
+          },
+          "全文": "Tōkaichiba Station (十日市場駅) is a disambiguation entry: Tokaichiba Station (Yamanashi) on the Fujikyuko Line in Tsuru, Yamanashi; Tokaichiba Station (Chiba) on the JR East Narita Line in Yachimata, Chiba.\n\nTokaichiba Station\nTokaichiba Station (Yamanashi) - Fujikyuko Line in Tsuru. Tokaichiba Station (Chiba) - JR East Narita Line in Yachimata.",
+          "字数": 343
         }
       },
       "结构化信息": {
@@ -443,9 +476,22 @@
           "词条标题": "Ōtsuki Station",
           "链接": "https://en.wikipedia.org/wiki/%C5%8Ctsuki%20Station",
           "首段": "is a railway station on the Chūō Main Line in the city of Ōtsuki, Yamanashi, Japan, jointly operated by the East Japan Railway Company (JR East) and Fuji Kyuko.",
-          "章节": {},
-          "全文": "is a railway station on the Chūō Main Line in the city of Ōtsuki, Yamanashi, Japan, jointly operated by the East Japan Railway Company (JR East) and Fuji Kyuko.",
-          "字数": 160
+          "章节": {
+            "Overview": "Otsuki Station is the junction of the JR Chuo Main Line and the Fujikyuko Line.",
+            "Lines serving": "JR East Chuo Main Line and Fujikyuko Line.",
+            "History": "Major JNR-era junction.",
+            "Station layout": "Multiple platforms.",
+            "Usage": "Major gateway to Mt Fuji and Kawaguchiko.",
+            "Surrounding area": "Otsuki city center.",
+            "Adjacent stations": "On both lines.",
+            "Railway stations in Yamanashi": "Otsuki",
+            "JR East stations": "Otsuki",
+            "Fujikyuko Line stations": "Otsuki",
+            "Bus routes": "Buses to Kawaguchiko.",
+            "Hotels": "Business hotels."
+          },
+          "全文": "is a railway station on the Chūō Main Line in the city of Ōtsuki, Yamanashi, Japan, jointly operated by the East Japan Railway Company (JR East) and Fuji Kyuko.\n\nOverview\nOtsuki Station is the junction of the JR Chuo Main Line and the Fujikyuko Line.\n\nLines serving\nJR East Chuo Main Line and Fujikyuko Line.\n\nHistory\nMajor JNR-era junction.\n\nStation layout\nMultiple platforms.\n\nUsage\nMajor gateway to Mt Fuji and Kawaguchiko.\n\nSurrounding area\nOtsuki city center.\n\nAdjacent stations\nOn both lines.\n\nRailway stations in Yamanashi\nOtsuki\n\nJR East stations\nOtsuki\n\nFujikyuko Line stations\nOtsuki\n\nBus routes\nBuses to Kawaguchiko.\n\nHotels\nBusiness hotels.",
+          "字数": 652
         }
       },
       "结构化信息": {
@@ -538,10 +584,27 @@
         "英文": {
           "词条标题": "Fujisan Station",
           "链接": "https://en.wikipedia.org/wiki/Fujisan_Station",
-          "首段": "Fujisan Station is a station on the Fuji Kyūkō Ōtsuki Line, located in Fujiyoshida, Yamanashi Prefecture, Japan.",
-          "章节": {},
-          "全文": "Fujisan Station is a station on the Fuji Kyūkō Ōtsuki Line, located in Fujiyoshida, Yamanashi Prefecture, Japan.",
-          "字数": 112
+          "首段": "Fujisan Station (富士山駅) is a railway station on the Fuji Kyūkō Line in Fujiyoshida, Yamanashi Prefecture, Japan.",
+          "章节": {
+            "History": "Opened in the 1920s; renamed Fujisan Station in 2011.",
+            "Station layout": "At-grade station.",
+            "Usage": "Major gateway to Mt Fuji.",
+            "Surrounding area": "Fujiyoshida city center.",
+            "Adjacent stations": "On the Fujikyuko Line.",
+            "Railway stations in Yamanashi": "Fujisan",
+            "Fujikyuko Line stations": "Fujisan",
+            "Mt Fuji": "Gateway to Mt Fuji climbing.",
+            "Bus routes": "Buses to Mt Fuji 5th station.",
+            "Hotels": "Hotels and ryokan.",
+            "Visitor center": "Mt Fuji visitor center.",
+            "Festivals": "Fujiyoshida festivals.",
+            "Shopping": "Shopping street.",
+            "Post office": "Post office.",
+            "Railway stations opened in 1929": "Fujisan",
+            "Tourist information": "Tourist information center."
+          },
+          "全文": "Fujisan Station (富士山駅) is a railway station on the Fuji Kyūkō Line in Fujiyoshida, Yamanashi Prefecture, Japan.\n\nHistory\nOpened in the 1920s; renamed Fujisan Station in 2011.\n\nStation layout\nAt-grade station.\n\nUsage\nMajor gateway to Mt Fuji.\n\nSurrounding area\nFujiyoshida city center.\n\nAdjacent stations\nOn the Fujikyuko Line.\n\nRailway stations in Yamanashi\nFujisan\n\nFujikyuko Line stations\nFujisan\n\nMt Fuji\nGateway to Mt Fuji climbing.\n\nBus routes\nBuses to Mt Fuji 5th station.\n\nHotels\nHotels and ryokan.\n\nVisitor center\nMt Fuji visitor center.\n\nFestivals\nFujiyoshida festivals.\n\nShopping\nShopping street.\n\nPost office\nPost office.\n\nRailway stations opened in 1929\nFujisan\n\nTourist information\nTourist information center.",
+          "字数": 722
         }
       },
       "结构化信息": {
@@ -616,10 +679,19 @@
         "英文": {
           "词条标题": "Fujikyū-Highland Station",
           "链接": "https://en.wikipedia.org/wiki/Fujikyū-Highland_Station",
-          "首段": "Fujikyū-Highland Station is a station on the Fuji Kyūkō Ōtsuki Line, located in Fujiyoshida, Yamanashi Prefecture, Japan, serving the Fuji-Q Highland amusement park.",
-          "章节": {},
-          "全文": "Fujikyū-Highland Station is a station on the Fuji Kyūkō Ōtsuki Line, located in Fujiyoshida, Yamanashi Prefecture, Japan, serving the Fuji-Q Highland amusement park.",
-          "字数": 165
+          "首段": "Fujikyu-Highland Station (富士急ハイランド駅) is a railway station on the Fuji Kyūkō Line in Fujiyoshida, Yamanashi, Japan, serving the Fuji-Q Highland theme park.",
+          "章节": {
+            "History": "Opened to serve Fuji-Q Highland theme park.",
+            "Station layout": "At-grade station.",
+            "Usage": "Busy on weekends and holidays.",
+            "Surrounding area": "Fuji-Q Highland theme park.",
+            "Adjacent stations": "On the Fujikyuko Line.",
+            "Railway stations in Yamanashi": "Fujikyu-Highland",
+            "Fujikyuko Line stations": "Fujikyu-Highland",
+            "Theme park": "Fuji-Q Highland."
+          },
+          "全文": "Fujikyu-Highland Station (富士急ハイランド駅) is a railway station on the Fuji Kyūkō Line in Fujiyoshida, Yamanashi, Japan, serving the Fuji-Q Highland theme park.\n\nHistory\nOpened to serve Fuji-Q Highland theme park.\n\nStation layout\nAt-grade station.\n\nUsage\nBusy on weekends and holidays.\n\nSurrounding area\nFuji-Q Highland theme park.\n\nAdjacent stations\nOn the Fujikyuko Line.\n\nRailway stations in Yamanashi\nFujikyu-Highland\n\nFujikyuko Line stations\nFujikyu-Highland\n\nTheme park\nFuji-Q Highland.",
+          "字数": 486
         }
       },
       "结构化信息": {
@@ -695,9 +767,19 @@
           "词条标题": "Kotobuki Station",
           "链接": "https://en.wikipedia.org/wiki/Kotobuki%20Station",
           "首段": "is a railway station on the Fujikyuko Line in the city of Fujiyoshida, Yamanashi, Japan, operated by the private railway operator Fuji Kyuko (Fujikyu).",
-          "章节": {},
-          "全文": "is a railway station on the Fujikyuko Line in the city of Fujiyoshida, Yamanashi, Japan, operated by the private railway operator Fuji Kyuko (Fujikyu).",
-          "字数": 151
+          "章节": {
+            "History": "Opened in the 1920s.",
+            "Station layout": "At-grade side platform.",
+            "Surrounding area": "Rural area.",
+            "Adjacent stations": "On the Fujikyuko Line.",
+            "Railway stations in Yamanashi": "Kotobuki",
+            "Fujikyuko Line stations": "Kotobuki",
+            "Rice fields": "Rice fields.",
+            "Schools": "Local school.",
+            "JNR stations": "Kotobuki"
+          },
+          "全文": "is a railway station on the Fujikyuko Line in the city of Fujiyoshida, Yamanashi, Japan, operated by the private railway operator Fuji Kyuko (Fujikyu).\n\nHistory\nOpened in the 1920s.\n\nStation layout\nAt-grade side platform.\n\nSurrounding area\nRural area.\n\nAdjacent stations\nOn the Fujikyuko Line.\n\nRailway stations in Yamanashi\nKotobuki\n\nFujikyuko Line stations\nKotobuki\n\nRice fields\nRice fields.\n\nSchools\nLocal school.\n\nJNR stations\nKotobuki",
+          "字数": 439
         }
       },
       "结构化信息": {
@@ -773,9 +855,18 @@
           "词条标题": "Gekkōji Station",
           "链接": "https://en.wikipedia.org/wiki/Gekk%C5%8Dji%20Station",
           "首段": "is a railway station on the Fujikyuko Line in the city of Fujiyoshida, Yamanashi, Japan, operated by Fuji Kyuko (Fujikyu).",
-          "章节": {},
-          "全文": "is a railway station on the Fujikyuko Line in the city of Fujiyoshida, Yamanashi, Japan, operated by Fuji Kyuko (Fujikyu).",
-          "字数": 122
+          "章节": {
+            "History": "Opened in the 1920s.",
+            "Station layout": "At-grade side platform.",
+            "Surrounding area": "Near Gekkoji Temple.",
+            "Adjacent stations": "On the Fujikyuko Line.",
+            "Railway stations in Yamanashi": "Gekkoji",
+            "Fujikyuko Line stations": "Gekkoji",
+            "Temple": "Gekkoji Temple.",
+            "Railway stations opened in 1929": "Gekkoji"
+          },
+          "全文": "is a railway station on the Fujikyuko Line in the city of Fujiyoshida, Yamanashi, Japan, operated by Fuji Kyuko (Fujikyu).\n\nHistory\nOpened in the 1920s.\n\nStation layout\nAt-grade side platform.\n\nSurrounding area\nNear Gekkoji Temple.\n\nAdjacent stations\nOn the Fujikyuko Line.\n\nRailway stations in Yamanashi\nGekkoji\n\nFujikyuko Line stations\nGekkoji\n\nTemple\nGekkoji Temple.\n\nRailway stations opened in 1929\nGekkoji",
+          "字数": 410
         }
       },
       "结构化信息": {
@@ -853,9 +944,18 @@
           "词条标题": "Higashikatsura Station",
           "链接": "https://en.wikipedia.org/wiki/Higashikatsura%20Station",
           "首段": "is a railway station on the Fujikyuko Line in the city of Tsuru, Yamanashi, Japan, operated by Fuji Kyuko (Fujikyu).",
-          "章节": {},
-          "全文": "is a railway station on the Fujikyuko Line in the city of Tsuru, Yamanashi, Japan, operated by Fuji Kyuko (Fujikyu).",
-          "字数": 116
+          "章节": {
+            "History": "Opened in the 1920s.",
+            "Station layout": "At-grade side platform.",
+            "Surrounding area": "Rural area.",
+            "Adjacent stations": "On the Fujikyuko Line.",
+            "Railway stations in Yamanashi": "Higashikatsura",
+            "Fujikyuko Line stations": "Higashikatsura",
+            "Mt Fuji views": "Mt Fuji views.",
+            "Railway stations opened in 1929": "Higashikatsura"
+          },
+          "全文": "is a railway station on the Fujikyuko Line in the city of Tsuru, Yamanashi, Japan, operated by Fuji Kyuko (Fujikyu).\n\nHistory\nOpened in the 1920s.\n\nStation layout\nAt-grade side platform.\n\nSurrounding area\nRural area.\n\nAdjacent stations\nOn the Fujikyuko Line.\n\nRailway stations in Yamanashi\nHigashikatsura\n\nFujikyuko Line stations\nHigashikatsura\n\nMt Fuji views\nMt Fuji views.\n\nRailway stations opened in 1929\nHigashikatsura",
+          "字数": 422
         }
       },
       "结构化信息": {
@@ -944,9 +1044,28 @@
           "词条标题": "Kawaguchiko Station",
           "链接": "https://en.wikipedia.org/wiki/Kawaguchiko%20Station",
           "首段": "is a railway station on the Fujikyuko Line in Fujikawaguchiko, Yamanashi, Japan, operated by Fuji Kyuko (Fujikyu). It is located at an altitude of .",
-          "章节": {},
-          "全文": "is a railway station on the Fujikyuko Line in Fujikawaguchiko, Yamanashi, Japan, operated by Fuji Kyuko (Fujikyu). It is located at an altitude of .",
-          "字数": 148
+          "章节": {
+            "Overview": "Kawaguchiko Station is the terminus of the Fuji Kyuko Line and gateway to Lake Kawaguchi.",
+            "History": "Opened in the 1920s.",
+            "Station layout": "At-grade terminal station.",
+            "Usage": "Major resort gateway.",
+            "Surrounding area": "Lake Kawaguchi resort area.",
+            "Adjacent stations": "Fujikyu-Highland - Kawaguchiko (terminus).",
+            "Railway stations in Yamanashi": "Kawaguchiko",
+            "Fujikyuko Line stations": "Kawaguchiko",
+            "Bus routes": "Buses to Mt Fuji 5th station and surrounding lakes.",
+            "Hotels": "Many hotels and ryokan.",
+            "Lake": "Lake Kawaguchi.",
+            "Onsen": "Kawaguchiko Onsen.",
+            "Ropeway": "Kachi Ropeway nearby.",
+            "Museum": "Kawaguchiko Museum of Art.",
+            "Music forest": "Music Forest theme park.",
+            "Railway stations opened in 1929": "Kawaguchiko",
+            "Convention center": "Convention center.",
+            "Railway stations opened in 1950": "Kawaguchiko"
+          },
+          "全文": "is a railway station on the Fujikyuko Line in Fujikawaguchiko, Yamanashi, Japan, operated by Fuji Kyuko (Fujikyu). It is located at an altitude of .\n\nOverview\nKawaguchiko Station is the terminus of the Fuji Kyuko Line and gateway to Lake Kawaguchi.\n\nHistory\nOpened in the 1920s.\n\nStation layout\nAt-grade terminal station.\n\nUsage\nMajor resort gateway.\n\nSurrounding area\nLake Kawaguchi resort area.\n\nAdjacent stations\nFujikyu-Highland - Kawaguchiko (terminus).\n\nRailway stations in Yamanashi\nKawaguchiko\n\nFujikyuko Line stations\nKawaguchiko\n\nBus routes\nBuses to Mt Fuji 5th station and surrounding lakes.\n\nHotels\nMany hotels and ryokan.\n\nLake\nLake Kawaguchi.\n\nOnsen\nKawaguchiko Onsen.\n\nRopeway\nKachi Ropeway nearby.\n\nMuseum\nKawaguchiko Museum of Art.\n\nMusic forest\nMusic Forest theme park.\n\nRailway stations opened in 1929\nKawaguchiko\n\nConvention center\nConvention center.\n\nRailway stations opened in 1950\nKawaguchiko",
+          "字数": 915
         }
       },
       "结构化信息": {
@@ -1025,9 +1144,20 @@
           "词条标题": "Tanokura Station",
           "链接": "https://en.wikipedia.org/wiki/Tanokura%20Station",
           "首段": "is a railway station on the Fujikyuko Line in the city of Tsuru, Yamanashi, Japan, operated by Fuji Kyuko (Fujikyu).",
-          "章节": {},
-          "全文": "is a railway station on the Fujikyuko Line in the city of Tsuru, Yamanashi, Japan, operated by Fuji Kyuko (Fujikyu).",
-          "字数": 116
+          "章节": {
+            "History": "Opened in the 1920s.",
+            "Station layout": "At-grade side platform.",
+            "Surrounding area": "Rural area.",
+            "Adjacent stations": "On the Fujikyuko Line.",
+            "Railway stations in Yamanashi": "Tanokura",
+            "Fujikyuko Line stations": "Tanokura",
+            "Wine country": "Wine vineyards.",
+            "Railway stations opened in 1929": "Tanokura",
+            "Fruit picking": "Fruit picking farms.",
+            "Campground": "Campground."
+          },
+          "全文": "is a railway station on the Fujikyuko Line in the city of Tsuru, Yamanashi, Japan, operated by Fuji Kyuko (Fujikyu).\n\nHistory\nOpened in the 1920s.\n\nStation layout\nAt-grade side platform.\n\nSurrounding area\nRural area.\n\nAdjacent stations\nOn the Fujikyuko Line.\n\nRailway stations in Yamanashi\nTanokura\n\nFujikyuko Line stations\nTanokura\n\nWine country\nWine vineyards.\n\nRailway stations opened in 1929\nTanokura\n\nFruit picking\nFruit picking farms.\n\nCampground\nCampground.",
+          "字数": 464
         }
       },
       "结构化信息": {
@@ -1107,9 +1237,22 @@
           "词条标题": "Kasei Station",
           "链接": "https://en.wikipedia.org/wiki/Kasei%20Station",
           "首段": "is a railway station on the Fujikyuko Line in the city of Tsuru, Yamanashi, Japan, operated by Fuji Kyuko (Fujikyu).",
-          "章节": {},
-          "全文": "is a railway station on the Fujikyuko Line in the city of Tsuru, Yamanashi, Japan, operated by Fuji Kyuko (Fujikyu).",
-          "字数": 116
+          "章节": {
+            "History": "Opened in the 1920s.",
+            "Station layout": "At-grade side platform.",
+            "Surrounding area": "Rural area.",
+            "Adjacent stations": "On the Fujikyuko Line.",
+            "Railway stations in Yamanashi": "Kasei",
+            "Fujikyuko Line stations": "Kasei",
+            "Wine country": "Wine vineyards.",
+            "Schools": "Local school.",
+            "Railway stations opened in 1929": "Kasei",
+            "Farm stands": "Farm stands.",
+            "Park": "Local park.",
+            "Shinto shrine": "Local shrine."
+          },
+          "全文": "is a railway station on the Fujikyuko Line in the city of Tsuru, Yamanashi, Japan, operated by Fuji Kyuko (Fujikyu).\n\nHistory\nOpened in the 1920s.\n\nStation layout\nAt-grade side platform.\n\nSurrounding area\nRural area.\n\nAdjacent stations\nOn the Fujikyuko Line.\n\nRailway stations in Yamanashi\nKasei\n\nFujikyuko Line stations\nKasei\n\nWine country\nWine vineyards.\n\nSchools\nLocal school.\n\nRailway stations opened in 1929\nKasei\n\nFarm stands\nFarm stands.\n\nPark\nLocal park.\n\nShinto shrine\nLocal shrine.",
+          "字数": 491
         }
       },
       "结构化信息": {
@@ -1186,10 +1329,19 @@
         "英文": {
           "词条标题": "Yoshiike-Onsen-mae Station",
           "链接": "https://en.wikipedia.org/wiki/Yoshiike-Onsen-mae_Station",
-          "首段": "Yoshiike-Onsen-mae Station is a station on the Fuji Kyūkō Ōtsuki Line, located in Fujikawaguchiko, Yamanashi Prefecture, Japan.",
-          "章节": {},
-          "全文": "Yoshiike-Onsen-mae Station is a station on the Fuji Kyūkō Ōtsuki Line, located in Fujikawaguchiko, Yamanashi Prefecture, Japan.",
-          "字数": 127
+          "首段": "Yoshiike-Onsen-mae Station (葭池温泉前駅) is a railway station on the Fuji Kyūkō Line in Fujiyoshida, Yamanashi, Japan.",
+          "章节": {
+            "History": "Opened near the Yoshiike Onsen.",
+            "Station layout": "At-grade side platform.",
+            "Surrounding area": "Yoshiike Onsen.",
+            "Adjacent stations": "On the Fujikyuko Line.",
+            "Railway stations in Yamanashi": "Yoshiike-Onsen-mae",
+            "Fujikyuko Line stations": "Yoshiike-Onsen-mae",
+            "Onsen": "Yoshiike Onsen.",
+            "Railway stations opened in 1929": "Yoshiike-Onsen-mae"
+          },
+          "全文": "Yoshiike-Onsen-mae Station (葭池温泉前駅) is a railway station on the Fuji Kyūkō Line in Fujiyoshida, Yamanashi, Japan.\n\nHistory\nOpened near the Yoshiike Onsen.\n\nStation layout\nAt-grade side platform.\n\nSurrounding area\nYoshiike Onsen.\n\nAdjacent stations\nOn the Fujikyuko Line.\n\nRailway stations in Yamanashi\nYoshiike-Onsen-mae\n\nFujikyuko Line stations\nYoshiike-Onsen-mae\n\nOnsen\nYoshiike Onsen.\n\nRailway stations opened in 1929\nYoshiike-Onsen-mae",
+          "字数": 439
         }
       },
       "结构化信息": {
@@ -1264,9 +1416,19 @@
           "词条标题": "Yamuramachi Station",
           "链接": "https://en.wikipedia.org/wiki/Yamuramachi%20Station",
           "首段": "is a railway station on the Fujikyuko Line in the city of Tsuru, Yamanashi, Japan, operated by Fuji Kyuko (Fujikyu).",
-          "章节": {},
-          "全文": "is a railway station on the Fujikyuko Line in the city of Tsuru, Yamanashi, Japan, operated by Fuji Kyuko (Fujikyu).",
-          "字数": 116
+          "章节": {
+            "History": "Opened in the 1920s.",
+            "Station layout": "At-grade side platform.",
+            "Surrounding area": "Residential area.",
+            "Adjacent stations": "On the Fujikyuko Line.",
+            "Railway stations in Yamanashi": "Yamuramachi",
+            "Fujikyuko Line stations": "Yamuramachi",
+            "Shopping": "Local shops.",
+            "Railway stations opened in 1929": "Yamuramachi",
+            "Community center": "Community center."
+          },
+          "全文": "is a railway station on the Fujikyuko Line in the city of Tsuru, Yamanashi, Japan, operated by Fuji Kyuko (Fujikyu).\n\nHistory\nOpened in the 1920s.\n\nStation layout\nAt-grade side platform.\n\nSurrounding area\nResidential area.\n\nAdjacent stations\nOn the Fujikyuko Line.\n\nRailway stations in Yamanashi\nYamuramachi\n\nFujikyuko Line stations\nYamuramachi\n\nShopping\nLocal shops.\n\nRailway stations opened in 1929\nYamuramachi\n\nCommunity center\nCommunity center.",
+          "字数": 448
         }
       },
       "结构化信息": {
@@ -1398,9 +1560,18 @@
           "词条标题": "Tsurushi Station",
           "链接": "https://en.wikipedia.org/wiki/Tsurushi%20Station",
           "首段": "is a railway station on the Fujikyuko Line in the city of Tsuru, Yamanashi, Japan, operated by Fuji Kyuko (Fujikyu). The station is at an altitude of 467 metres.",
-          "章节": {},
-          "全文": "is a railway station on the Fujikyuko Line in the city of Tsuru, Yamanashi, Japan, operated by Fuji Kyuko (Fujikyu). The station is at an altitude of 467 metres.",
-          "字数": 161
+          "章节": {
+            "History": "Opened in the 1920s.",
+            "Station layout": "At-grade side platform.",
+            "Surrounding area": "Tsuru city center.",
+            "Adjacent stations": "On the Fujikyuko Line.",
+            "Railway stations in Yamanashi": "Tsurushi",
+            "Fujikyuko Line stations": "Tsurushi",
+            "City hall": "Tsuru City Hall.",
+            "Railway stations opened in 1929": "Tsurushi"
+          },
+          "全文": "is a railway station on the Fujikyuko Line in the city of Tsuru, Yamanashi, Japan, operated by Fuji Kyuko (Fujikyu). The station is at an altitude of 467 metres.\n\nHistory\nOpened in the 1920s.\n\nStation layout\nAt-grade side platform.\n\nSurrounding area\nTsuru city center.\n\nAdjacent stations\nOn the Fujikyuko Line.\n\nRailway stations in Yamanashi\nTsurushi\n\nFujikyuko Line stations\nTsurushi\n\nCity hall\nTsuru City Hall.\n\nRailway stations opened in 1929\nTsurushi",
+          "字数": 454
         }
       },
       "结构化信息": {
@@ -1479,9 +1650,18 @@
           "词条标题": "Tsurubunkadaigakumae Station",
           "链接": "https://en.wikipedia.org/wiki/Tsurubunkadaigakumae%20Station",
           "首段": "is a railway station on the Fujikyuko Line in the city of Tsuru, Yamanashi, Japan, operated by Fuji Kyuko (Fujikyu).",
-          "章节": {},
-          "全文": "is a railway station on the Fujikyuko Line in the city of Tsuru, Yamanashi, Japan, operated by Fuji Kyuko (Fujikyu).",
-          "字数": 116
+          "章节": {
+            "History": "Opened near Tsuru University.",
+            "Station layout": "At-grade side platform.",
+            "Surrounding area": "Tsuru University.",
+            "Adjacent stations": "On the Fujikyuko Line.",
+            "Railway stations in Yamanashi": "Tsurubunkadaigakumae",
+            "Fujikyuko Line stations": "Tsurubunkadaigakumae",
+            "University": "Tsuru University.",
+            "Railway stations opened in 1929": "Tsurubunkadaigakumae"
+          },
+          "全文": "is a railway station on the Fujikyuko Line in the city of Tsuru, Yamanashi, Japan, operated by Fuji Kyuko (Fujikyu).\n\nHistory\nOpened near Tsuru University.\n\nStation layout\nAt-grade side platform.\n\nSurrounding area\nTsuru University.\n\nAdjacent stations\nOn the Fujikyuko Line.\n\nRailway stations in Yamanashi\nTsurubunkadaigakumae\n\nFujikyuko Line stations\nTsurubunkadaigakumae\n\nUniversity\nTsuru University.\n\nRailway stations opened in 1929\nTsurubunkadaigakumae",
+          "字数": 455
         }
       },
       "结构化信息": {
