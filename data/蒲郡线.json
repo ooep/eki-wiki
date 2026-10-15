@@ -47,12 +47,24 @@
         "来源": "维基百科中文版（已转简体）"
       },
       "英文": {
-        "词条标题": "蒲郡线",
+        "词条标题": "Gamagōri Line",
         "链接": "https://ja.wikipedia.org/wiki/%E5%90%8D%E9%89%84%E8%92%B2%E9%83%A1%E7%B7%9A",
-        "首段": "The 蒲郡线 is a railway line in Japan.",
-        "章节": {},
-        "全文": "The 蒲郡线 is a railway line in Japan.",
-        "字数": 35
+        "首段": "The Gamagōri Line (蒲郡線) is a Nagoya Railroad (Meitetsu) line running from Kira-Yoshida Station in Nishio, Aichi Prefecture, to Gamagōri Station in Gamagōri, Aichi Prefecture.",
+        "章节": {
+          "Overview": "A coastal rural line along Mikawa Bay.",
+          "Line data": "Distance, gauge, stations and electrification per the Japanese source.",
+          "History": "Built by the Mikawa Railway; later merged into Meitetsu.",
+          "Survival issue": "The line has been discussed for possible closure due to thin ridership.",
+          "Chronology": "Timeline in the source article.",
+          "Service patterns": "Driver-only local trains; through-running on the Nishio Line.",
+          "Driver-only operation": "One-man operation.",
+          "Station list": "All stations listed with numbers GN17–GN22.",
+          "Legend": "Symbols in the station list.",
+          "Names as at closure": "Closed-station names.",
+          "Former connecting lines": "Former connections listed."
+        },
+        "全文": "The Gamagōri Line (蒲郡線) is a Nagoya Railroad (Meitetsu) line running from Kira-Yoshida Station in Nishio, Aichi Prefecture, to Gamagōri Station in Gamagōri, Aichi Prefecture.\n\nOverview\nA coastal rural line along Mikawa Bay.\n\nLine data\nDistance, gauge, stations and electrification per the Japanese source.\n\nHistory\nBuilt by the Mikawa Railway; later merged into Meitetsu.\n\nSurvival issue\nThe line has been discussed for possible closure due to thin ridership.\n\nChronology\nTimeline in the source article.\n\nService patterns\nDriver-only local trains; through-running on the Nishio Line.\n\nDriver-only operation\nOne-man operation.\n\nStation list\nAll stations listed with numbers GN17–GN22.\n\nLegend\nSymbols in the station list.\n\nNames as at closure\nClosed-station names.\n\nFormer connecting lines\nFormer connections listed.",
+        "字数": 815
       }
     }
   },
@@ -88,12 +100,12 @@
         "英文": {
           "词条标题": "Kodomonokuni Station",
           "链接": "https://en.wikipedia.org/wiki/Kodomonokuni%20Station",
-          "首段": "Kodomonokuni Station (こどもの国駅) is a railway station on the Meitetsu Gamagōri Line in Nishio, Aichi Prefecture, Japan.",
+          "首段": "Kodomo-no-Kuni Station (こどもの国駅) is a disambiguation title: several stations in Japan share this name.",
           "章节": {
-            "Kodomonokuni": "Children's park nearby."
+            "List": "See also: stations named Kodomo-no-Kuni across Japan."
           },
-          "全文": "Kodomonokuni Station (こどもの国駅) is a railway station on the Meitetsu Gamagōri Line in Nishio, Aichi Prefecture, Japan.\n\nKodomonokuni\nChildren's park nearby.",
-          "字数": 154
+          "全文": "Kodomo-no-Kuni Station (こどもの国駅) is a disambiguation title: several stations in Japan share this name.\n\nList\nSee also: stations named Kodomo-no-Kuni across Japan.",
+          "字数": 161
         }
       },
       "结构化信息": {
@@ -151,17 +163,17 @@
         "英文": {
           "词条标题": "三河鳥羽駅",
           "链接": "https://ja.wikipedia.org/wiki/%E4%B8%89%E6%B2%B3%E9%B3%A5%E7%BE%BD%E9%A7%85",
-          "首段": "Mikawa-Toba Station (三河鳥羽駅) is a railway station on the Meitetsu Gamagōri Line in Nishio, Aichi Prefecture, Japan.",
+          "首段": "Mikawa-Toba Station is a Meitetsu Gamagōri Line station in Toba-chō, Nishio, Aichi.",
           "章节": {
-            "History": "Opened in the Meiji era.",
-            "Station layout": "At-grade side platform.",
-            "Usage": "Low rural ridership.",
-            "Surrounding area": "Farming village.",
-            "Adjacent stations": "On the Gamagōri Line.",
-            "Railway stations in Aichi": "Mikawa-Toba"
+            "History": "Opened in 1936.",
+            "Station layout": "Side platform; unstaffed.",
+            "Usage": "Passenger figures in the source table.",
+            "Trend in daily boardings and alightings": "Figures over years.",
+            "Gamagōri Line": "Higashi-Hazu — Mikawa-Toba — Nishi-Hazu.",
+            "Railway stations in Nishio": "Mikawa-Toba Station is a railway station in Nishio, Aichi, Japan."
           },
-          "全文": "Mikawa-Toba Station (三河鳥羽駅) is a railway station on the Meitetsu Gamagōri Line in Nishio, Aichi Prefecture, Japan.\n\nHistory\nOpened in the Meiji era.\n\nStation layout\nAt-grade side platform.\n\nUsage\nLow rural ridership.\n\nSurrounding area\nFarming village.\n\nAdjacent stations\nOn the Gamagōri Line.\n\nRailway stations in Aichi\nMikawa-Toba",
-          "字数": 331
+          "全文": "Mikawa-Toba Station is a Meitetsu Gamagōri Line station in Toba-chō, Nishio, Aichi.\n\nHistory\nOpened in 1936.\n\nStation layout\nSide platform; unstaffed.\n\nUsage\nPassenger figures in the source table.\n\nTrend in daily boardings and alightings\nFigures over years.\n\nGamagōri Line\nHigashi-Hazu — Mikawa-Toba — Nishi-Hazu.\n\nRailway stations in Nishio\nMikawa-Toba Station is a railway station in Nishio, Aichi, Japan.",
+          "字数": 407
         }
       },
       "结构化信息": {
@@ -238,22 +250,22 @@
         "英文": {
           "词条标题": "三河鹿島駅",
           "链接": "https://ja.wikipedia.org/wiki/%E4%B8%89%E6%B2%B3%E9%B9%BF%E5%B3%B6%E9%A7%85",
-          "首段": "Mikawa-Kashima Station (三河鹿島駅) is a railway station on the Meitetsu Gamagōri Line in Nishio, Aichi Prefecture, Japan.",
+          "首段": "Mikawa-Kashima Station is a Meitetsu Gamagōri Line station in Kashima-chō, Gamagōri, Aichi; station number GN20.",
           "章节": {
-            "History": "Opened in the Taishō era.",
-            "Station layout": "At-grade station.",
-            "Usage": "Low ridership.",
-            "Surrounding area": "Rural area.",
-            "Adjacent stations": "On the Gamagōri Line.",
-            "Railway stations in Aichi": "Mikawa-Kashima",
-            "Meitetsu stations": "Mikawa-Kashima",
-            "Railway stations opened in 1912": "Mikawa-Kashima",
-            "Bus routes": "Local bus.",
-            "Schools": "Local schools nearby.",
-            "Railway stations opened in 1926": "Mikawa-Kashima"
+            "History": "Opened in 1936.",
+            "Station layout": "Side platform; unstaffed.",
+            "Usage": "Passenger figures.",
+            "Trend in daily boardings and alightings": "Figures over years.",
+            "Main facilities": "Local facilities.",
+            "Nitori Claspo Gamagōri store": "Furniture store.",
+            "\"Kashima\" bus stop": "Bus stop.",
+            "Gamagōri Line": "Nishiura — Mikawa-Kashima — Katahara.",
+            "Railway stations in Aichi": "Mikawa-Kashima Station is a railway station in Aichi, Japan.",
+            "Mikawa Railway stations": "Mikawa-Kashima Station was originally on the Mikawa Railway.",
+            "Railway stations opened in 1936": "Mikawa-Kashima Station opened in 1936."
           },
-          "全文": "Mikawa-Kashima Station (三河鹿島駅) is a railway station on the Meitetsu Gamagōri Line in Nishio, Aichi Prefecture, Japan.\n\nHistory\nOpened in the Taishō era.\n\nStation layout\nAt-grade station.\n\nUsage\nLow ridership.\n\nSurrounding area\nRural area.\n\nAdjacent stations\nOn the Gamagōri Line.\n\nRailway stations in Aichi\nMikawa-Kashima\n\nMeitetsu stations\nMikawa-Kashima\n\nRailway stations opened in 1912\nMikawa-Kashima\n\nBus routes\nLocal bus.\n\nSchools\nLocal schools nearby.\n\nRailway stations opened in 1926\nMikawa-Kashima",
-          "字数": 505
+          "全文": "Mikawa-Kashima Station is a Meitetsu Gamagōri Line station in Kashima-chō, Gamagōri, Aichi; station number GN20.\n\nHistory\nOpened in 1936.\n\nStation layout\nSide platform; unstaffed.\n\nUsage\nPassenger figures.\n\nTrend in daily boardings and alightings\nFigures over years.\n\nMain facilities\nLocal facilities.\n\nNitori Claspo Gamagōri store\nFurniture store.\n\n\"Kashima\" bus stop\nBus stop.\n\nGamagōri Line\nNishiura — Mikawa-Kashima — Katahara.\n\nRailway stations in Aichi\nMikawa-Kashima Station is a railway station in Aichi, Japan.\n\nMikawa Railway stations\nMikawa-Kashima Station was originally on the Mikawa Railway.\n\nRailway stations opened in 1936\nMikawa-Kashima Station opened in 1936.",
+          "字数": 677
         }
       },
       "结构化信息": {
@@ -345,22 +357,22 @@
         "英文": {
           "词条标题": "吉良吉田駅",
           "链接": "https://ja.wikipedia.org/wiki/%E5%90%89%E8%89%AF%E5%90%89%E7%94%B0%E9%A7%85",
-          "首段": "Kira-Yoshida Station (吉良吉田駅) is a railway station on the Meitetsu Gamagōri Line in Nishio, Aichi Prefecture, Japan.",
+          "首段": "Kira-Yoshida Station is a Meitetsu Nishio Line / Gamagōri Line interchange at 5 Funado, Yoshida, Kira-chō, Nishio, Aichi.",
           "章节": {
-            "History": "JNR/Meitetsu station.",
-            "Station layout": "Junction station.",
-            "Usage": "Moderate ridership.",
-            "Surrounding area": "Town center.",
-            "Adjacent stations": "On the Gamagōri Line and Nishio Line.",
-            "Railway stations in Aichi": "Kira-Yoshida",
-            "Meitetsu stations": "Kira-Yoshida",
-            "Bus routes": "Local bus.",
-            "Shopping": "Local shopping street.",
-            "Post office": "Post office nearby.",
-            "Nishio Line": "Also served by the Meitetsu Nishio Line."
+            "Overview": "Junction of the Nishio and Gamagōri lines.",
+            "Former Kira-Yoshida Station": "Old station building.",
+            "Present Kira-Yoshida Station": "Current layout.",
+            "Station layout": "Bay platforms.",
+            "Usage": "Passenger figures.",
+            "Surrounding area": "Kira area.",
+            "Hōshu-in Temple": "Temple.",
+            "Limited express / express / local": "Meitetsu patterns.",
+            "Local": "Local services.",
+            "Mikawa Line": "Former connection.",
+            "Railway stations in Nishio": "Kira-Yoshida Station is a railway station in Nishio, Aichi, Japan."
           },
-          "全文": "Kira-Yoshida Station (吉良吉田駅) is a railway station on the Meitetsu Gamagōri Line in Nishio, Aichi Prefecture, Japan.\n\nHistory\nJNR/Meitetsu station.\n\nStation layout\nJunction station.\n\nUsage\nModerate ridership.\n\nSurrounding area\nTown center.\n\nAdjacent stations\nOn the Gamagōri Line and Nishio Line.\n\nRailway stations in Aichi\nKira-Yoshida\n\nMeitetsu stations\nKira-Yoshida\n\nBus routes\nLocal bus.\n\nShopping\nLocal shopping street.\n\nPost office\nPost office nearby.\n\nNishio Line\nAlso served by the Meitetsu Nishio Line.",
-          "字数": 510
+          "全文": "Kira-Yoshida Station is a Meitetsu Nishio Line / Gamagōri Line interchange at 5 Funado, Yoshida, Kira-chō, Nishio, Aichi.\n\nOverview\nJunction of the Nishio and Gamagōri lines.\n\nFormer Kira-Yoshida Station\nOld station building.\n\nPresent Kira-Yoshida Station\nCurrent layout.\n\nStation layout\nBay platforms.\n\nUsage\nPassenger figures.\n\nSurrounding area\nKira area.\n\nHōshu-in Temple\nTemple.\n\nLimited express / express / local\nMeitetsu patterns.\n\nLocal\nLocal services.\n\nMikawa Line\nFormer connection.\n\nRailway stations in Nishio\nKira-Yoshida Station is a railway station in Nishio, Aichi, Japan.",
+          "字数": 586
         }
       },
       "结构化信息": {
@@ -449,21 +461,21 @@
         "英文": {
           "词条标题": "Katahara Station",
           "链接": "https://ja.wikipedia.org/wiki/%E5%BD%A2%E5%8E%9F%E9%A7%85",
-          "首段": "Katahara Station (形原駅) is a railway station in 県蒲郡市形原町, Japan.",
+          "首段": "Katahara Station is a Meitetsu Gamagōri Line station in Katahara-chō, Gamagōri, Aichi; station number GN19.",
           "章节": {
-            "History": "Meitetsu station.",
-            "Station layout": "At-grade station.",
-            "Usage": "Moderate ridership.",
-            "Surrounding area": "Residential area.",
-            "Adjacent stations": "On the Gamagōri Line.",
-            "Railway stations in Aichi": "Katahara",
-            "Meitetsu stations": "Katahara",
-            "Schools": "Local schools nearby.",
-            "Bus routes": "Local bus.",
-            "Railway stations opened in 1949": "Katahara"
+            "History": "Opened in 1936.",
+            "Chronology": "Timeline.",
+            "Station layout": "Side platform; unstaffed.",
+            "Usage": "Passenger figures.",
+            "Trend in daily boardings and alightings": "Figures over years.",
+            "\"Katahara-Ekimae\" bus stop": "Bus stop.",
+            "Surrounding area": "Katahara district.",
+            "Yamanaka Katahara store": "Supermarket.",
+            "Gamagōri Line": "Mikawa-Kashima — Katahara — Gamagōri-Kyōteijō-mae.",
+            "Railway stations in Aichi": "Katahara Station is a railway station in Aichi, Japan."
           },
-          "全文": "Katahara Station (形原駅) is a railway station in 県蒲郡市形原町, Japan.\n\nHistory\nMeitetsu station.\n\nStation layout\nAt-grade station.\n\nUsage\nModerate ridership.\n\nSurrounding area\nResidential area.\n\nAdjacent stations\nOn the Gamagōri Line.\n\nRailway stations in Aichi\nKatahara\n\nMeitetsu stations\nKatahara\n\nSchools\nLocal schools nearby.\n\nBus routes\nLocal bus.\n\nRailway stations opened in 1949\nKatahara",
-          "字数": 387
+          "全文": "Katahara Station is a Meitetsu Gamagōri Line station in Katahara-chō, Gamagōri, Aichi; station number GN19.\n\nHistory\nOpened in 1936.\n\nChronology\nTimeline.\n\nStation layout\nSide platform; unstaffed.\n\nUsage\nPassenger figures.\n\nTrend in daily boardings and alightings\nFigures over years.\n\n\"Katahara-Ekimae\" bus stop\nBus stop.\n\nSurrounding area\nKatahara district.\n\nYamanaka Katahara store\nSupermarket.\n\nGamagōri Line\nMikawa-Kashima — Katahara — Gamagōri-Kyōteijō-mae.\n\nRailway stations in Aichi\nKatahara Station is a railway station in Aichi, Japan.",
+          "字数": 544
         }
       },
       "结构化信息": {
@@ -549,20 +561,20 @@
         "英文": {
           "词条标题": "東幡豆駅",
           "链接": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E5%B9%A1%E8%B1%86%E9%A7%85",
-          "首段": "Higashi-Hazu Station (東幡豆駅) is a railway station on the Meitetsu Gamagōri Line in Nishio, Aichi Prefecture, Japan.",
+          "首段": "Higashi-Hazu Station is a Meitetsu Gamagōri Line station in Komi-gyōda, Higashi-Hazu-chō, Nishio, Aichi.",
           "章节": {
-            "History": "Meitetsu station.",
-            "Station layout": "At-grade station.",
-            "Usage": "Low ridership.",
-            "Surrounding area": "Rural coastal area.",
-            "Adjacent stations": "On the Gamagōri Line.",
-            "Railway stations in Aichi": "Higashi-Hazu",
-            "Meitetsu stations": "Higashi-Hazu",
-            "Beach": "Nearby beach.",
-            "Railway stations opened in 1936": "Higashi-Hazu"
+            "History": "Opened in 1936.",
+            "Station layout": "Side platform; unstaffed.",
+            "Usage": "Passenger figures.",
+            "Trend in daily boardings and alightings": "Figures over years.",
+            "Surrounding area": "Hazu coast.",
+            "National Route 247": "National highway.",
+            "Hazu coast": "Coastal area.",
+            "Gamagōri Line": "Mikawa-Toba — Higashi-Hazu — Nishi-Hazu.",
+            "Railway stations in Nishio": "Higashi-Hazu Station is a railway station in Nishio, Aichi, Japan."
           },
-          "全文": "Higashi-Hazu Station (東幡豆駅) is a railway station on the Meitetsu Gamagōri Line in Nishio, Aichi Prefecture, Japan.\n\nHistory\nMeitetsu station.\n\nStation layout\nAt-grade station.\n\nUsage\nLow ridership.\n\nSurrounding area\nRural coastal area.\n\nAdjacent stations\nOn the Gamagōri Line.\n\nRailway stations in Aichi\nHigashi-Hazu\n\nMeitetsu stations\nHigashi-Hazu\n\nBeach\nNearby beach.\n\nRailway stations opened in 1936\nHigashi-Hazu",
-          "字数": 415
+          "全文": "Higashi-Hazu Station is a Meitetsu Gamagōri Line station in Komi-gyōda, Higashi-Hazu-chō, Nishio, Aichi.\n\nHistory\nOpened in 1936.\n\nStation layout\nSide platform; unstaffed.\n\nUsage\nPassenger figures.\n\nTrend in daily boardings and alightings\nFigures over years.\n\nSurrounding area\nHazu coast.\n\nNational Route 247\nNational highway.\n\nHazu coast\nCoastal area.\n\nGamagōri Line\nMikawa-Toba — Higashi-Hazu — Nishi-Hazu.\n\nRailway stations in Nishio\nHigashi-Hazu Station is a railway station in Nishio, Aichi, Japan.",
+          "字数": 503
         }
       },
       "结构化信息": {
@@ -662,37 +674,37 @@
         "英文": {
           "词条标题": "Gamagōri Station",
           "链接": "https://ja.wikipedia.org/wiki/%E8%92%B2%E9%83%A1%E9%A7%85",
-          "首段": "Gamagori Station (蒲郡駅) is a major interchange in Gamagori, Aichi Prefecture, Japan, served by JR Central and Meitetsu.",
+          "首段": "Gamagōri Station is a JR Central Tōkaidō Main Line and Meitetsu Gamagōri Line interchange in Moto-machi and Minato-chō, Gamagōri, Aichi.",
           "章节": {
-            "Overview": "Gamagōri Station is a major station on the JR Tōkaidō Main Line and Meitetsu Gamagōri Line in Gamagōri, Aichi.",
-            "History": "Major JNR-era station.",
-            "Station layout": "Multiple platforms.",
-            "Usage": "Major station.",
-            "Surrounding area": "City center.",
-            "Bus routes": "Buses to surrounding areas.",
-            "Adjacent stations (JR)": "On the Tōkaidō Main Line.",
-            "Adjacent stations (Meitetsu)": "On the Gamagōri Line.",
-            "Railway stations in Aichi": "Gamagōri",
-            "JR Central stations": "Gamagōri",
-            "Meitetsu stations": "Gamagōri",
-            "Railway stations opened in 1888": "Gamagōri",
-            "Hotels": "Hotels near the station.",
-            "Shopping": "Shopping street.",
-            "City hall": "Gamagōri City Hall.",
-            "Onsen": "Gamagōri Onsen nearby.",
-            "Theme parks": "Nearby theme parks.",
-            "Beaches": "Nearby beaches.",
-            "Ports": "Gamagōri port.",
-            "Parks": "Local parks.",
-            "Schools": "Local schools.",
-            "Hospitals": "Local hospitals.",
-            "Post office": "Post office.",
-            "Taxi stand": "Taxi stand in front.",
-            "Bicycle parking": "Bicycle parking.",
-            "Railway stations opened in 1988": "Gamagori"
+            "Overview": "Main station of Gamagōri.",
+            "History": "Opened in 1888.",
+            "Station layout": "JR platforms and Meitetsu bay platform.",
+            "JR Central": "Tōkaidō Main Line.",
+            "JR full-line ticket office": "Ticket office.",
+            "Nagoya Railroad": "Gamagōri Line terminus.",
+            "Usage": "Passenger figures.",
+            "North exit": "North side.",
+            "Roads and transport": "Road links.",
+            "South exit": "South side.",
+            "Gamagōri Chamber of Commerce": "Chamber.",
+            "Hotel Takeshima": "Hotel.",
+            "Bus routes": "Bus routes.",
+            "Berth 5": "Bus berth.",
+            "Gamagōri city route": "City bus.",
+            "Aichi Prefectural Toyohashi special-needs school course B Gamagōri berth": "School bus.",
+            "Adjacent stations": "JR Central / Meitetsu.",
+            "Special rapid": "Rapid service.",
+            "New rapid": "Rapid service.",
+            "Rapid": "Rapid service.",
+            "Regional rapid / local": "All-stop patterns.",
+            "Gamagōri Line": "Gamagōri-Kyōteijō-mae — Gamagōri.",
+            "List of railway stations in Japan": "See also: list of railway stations in Japan.",
+            "Railway stations in Aichi": "Gamagōri Station is a railway station in Aichi, Japan.",
+            "JNR railway stations": "Gamagōri Station is a former JNR station.",
+            "Railway stations opened in 1888": "Gamagōri Station opened in 1888."
           },
-          "全文": "Gamagori Station (蒲郡駅) is a major interchange in Gamagori, Aichi Prefecture, Japan, served by JR Central and Meitetsu.\n\nOverview\nGamagōri Station is a major station on the JR Tōkaidō Main Line and Meitetsu Gamagōri Line in Gamagōri, Aichi.\n\nHistory\nMajor JNR-era station.\n\nStation layout\nMultiple platforms.\n\nUsage\nMajor station.\n\nSurrounding area\nCity center.\n\nBus routes\nBuses to surrounding areas.\n\nAdjacent stations (JR)\nOn the Tōkaidō Main Line.\n\nAdjacent stations (Meitetsu)\nOn the Gamagōri Line.\n\nRailway stations in Aichi\nGamagōri\n\nJR Central stations\nGamagōri\n\nMeitetsu stations\nGamagōri\n\nRailway stations opened in 1888\nGamagōri\n\nHotels\nHotels near the station.\n\nShopping\nShopping street.\n\nCity hall\nGamagōri City Hall.\n\nOnsen\nGamagōri Onsen nearby.\n\nTheme parks\nNearby theme parks.\n\nBeaches\nNearby beaches.\n\nPorts\nGamagōri port.\n\nParks\nLocal parks.\n\nSchools\nLocal schools.\n\nHospitals\nLocal hospitals.\n\nPost office\nPost office.\n\nTaxi stand\nTaxi stand in front.\n\nBicycle parking\nBicycle parking.\n\nRailway stations opened in 1988\nGamagori",
-          "字数": 1046
+          "全文": "Gamagōri Station is a JR Central Tōkaidō Main Line and Meitetsu Gamagōri Line interchange in Moto-machi and Minato-chō, Gamagōri, Aichi.\n\nOverview\nMain station of Gamagōri.\n\nHistory\nOpened in 1888.\n\nStation layout\nJR platforms and Meitetsu bay platform.\n\nJR Central\nTōkaidō Main Line.\n\nJR full-line ticket office\nTicket office.\n\nNagoya Railroad\nGamagōri Line terminus.\n\nUsage\nPassenger figures.\n\nNorth exit\nNorth side.\n\nRoads and transport\nRoad links.\n\nSouth exit\nSouth side.\n\nGamagōri Chamber of Commerce\nChamber.\n\nHotel Takeshima\nHotel.\n\nBus routes\nBus routes.\n\nBerth 5\nBus berth.\n\nGamagōri city route\nCity bus.\n\nAichi Prefectural Toyohashi special-needs school course B Gamagōri berth\nSchool bus.\n\nAdjacent stations\nJR Central / Meitetsu.\n\nSpecial rapid\nRapid service.\n\nNew rapid\nRapid service.\n\nRapid\nRapid service.\n\nRegional rapid / local\nAll-stop patterns.\n\nGamagōri Line\nGamagōri-Kyōteijō-mae — Gamagōri.\n\nList of railway stations in Japan\nSee also: list of railway stations in Japan.\n\nRailway stations in Aichi\nGamagōri Station is a railway station in Aichi, Japan.\n\nJNR railway stations\nGamagōri Station is a former JNR station.\n\nRailway stations opened in 1888\nGamagōri Station opened in 1888.",
+          "字数": 1203
         }
       },
       "结构化信息": {
@@ -796,17 +808,17 @@
         "英文": {
           "词条标题": "蒲郡競艇場前駅",
           "链接": "https://ja.wikipedia.org/wiki/%E8%92%B2%E9%83%A1%E7%AB%B6%E8%89%87%E5%A0%B4%E5%89%8D%E9%A7%85",
-          "首段": "Gamagōri-Kyōteijō-mae Station (蒲郡競艇場前駅) is a railway station on the Meitetsu Gamagōri Line in Gamagōri, Aichi Prefecture, Japan.",
+          "首段": "Gamagōri-Kyōteijō-mae Station is a Meitetsu Gamagōri Line station in Takeya-chō, Gamagōri, Aichi, serving the boat-racing stadium.",
           "章节": {
-            "History": "Opened to serve the Gamagōri boat race course.",
-            "Station layout": "At-grade station.",
-            "Usage": "Busy on race days.",
-            "Surrounding area": "Boat race course.",
-            "Adjacent stations": "On the Gamagōri Line.",
-            "Railway stations in Aichi": "Gamagōri-Kyōteijō-mae"
+            "History": "Opened in 1936.",
+            "Chronology": "Timeline.",
+            "Station layout": "Side platform; unstaffed.",
+            "Usage": "Passenger figures.",
+            "Gamagōri Line": "Katahara — Gamagōri-Kyōteijō-mae — Gamagōri.",
+            "List of railway stations in Japan": "See also: list of railway stations in Japan."
           },
-          "全文": "Gamagōri-Kyōteijō-mae Station (蒲郡競艇場前駅) is a railway station on the Meitetsu Gamagōri Line in Gamagōri, Aichi Prefecture, Japan.\n\nHistory\nOpened to serve the Gamagōri boat race course.\n\nStation layout\nAt-grade station.\n\nUsage\nBusy on race days.\n\nSurrounding area\nBoat race course.\n\nAdjacent stations\nOn the Gamagōri Line.\n\nRailway stations in Aichi\nGamagōri-Kyōteijō-mae",
-          "字数": 370
+          "全文": "Gamagōri-Kyōteijō-mae Station is a Meitetsu Gamagōri Line station in Takeya-chō, Gamagōri, Aichi, serving the boat-racing stadium.\n\nHistory\nOpened in 1936.\n\nChronology\nTimeline.\n\nStation layout\nSide platform; unstaffed.\n\nUsage\nPassenger figures.\n\nGamagōri Line\nKatahara — Gamagōri-Kyōteijō-mae — Gamagōri.\n\nList of railway stations in Japan\nSee also: list of railway stations in Japan.",
+          "字数": 385
         }
       },
       "结构化信息": {
@@ -892,21 +904,21 @@
         "英文": {
           "词条标题": "西幡豆駅",
           "链接": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E5%B9%A1%E8%B1%86%E9%A7%85",
-          "首段": "Nishi-Hazu Station (西幡豆駅) is a railway station on the Meitetsu Gamagōri Line in Nishio, Aichi Prefecture, Japan.",
+          "首段": "Nishi-Hazu Station is a Meitetsu Gamagōri Line station in Nakayashiki, Nishi-Hazu-chō, Nishio, Aichi.",
           "章节": {
-            "History": "Meitetsu station.",
-            "Station layout": "At-grade station.",
-            "Usage": "Low ridership.",
-            "Surrounding area": "Rural area.",
-            "Adjacent stations": "On the Gamagōri Line.",
-            "Railway stations in Aichi": "Nishi-Hazu",
-            "Meitetsu stations": "Nishi-Hazu",
-            "Schools": "Local schools.",
-            "Bus routes": "Local bus.",
-            "Railway stations opened in 1929": "Nishi-Hazu"
+            "Overview": "Local station.",
+            "History": "Opened in 1936.",
+            "Station layout": "Side platform; unstaffed.",
+            "Usage": "Passenger figures.",
+            "Trend in daily boardings and alightings": "Figures over years.",
+            "Surrounding area": "Nishi-Hazu.",
+            "National Route 247": "National highway.",
+            "Nishio City Hazu Library": "Library.",
+            "Gamagōri Line": "Higashi-Hazu — Nishi-Hazu — Nishiura.",
+            "Railway stations in Nishio": "Nishi-Hazu Station is a railway station in Nishio, Aichi, Japan."
           },
-          "全文": "Nishi-Hazu Station (西幡豆駅) is a railway station on the Meitetsu Gamagōri Line in Nishio, Aichi Prefecture, Japan.\n\nHistory\nMeitetsu station.\n\nStation layout\nAt-grade station.\n\nUsage\nLow ridership.\n\nSurrounding area\nRural area.\n\nAdjacent stations\nOn the Gamagōri Line.\n\nRailway stations in Aichi\nNishi-Hazu\n\nMeitetsu stations\nNishi-Hazu\n\nSchools\nLocal schools.\n\nBus routes\nLocal bus.\n\nRailway stations opened in 1929\nNishi-Hazu",
-          "字数": 425
+          "全文": "Nishi-Hazu Station is a Meitetsu Gamagōri Line station in Nakayashiki, Nishi-Hazu-chō, Nishio, Aichi.\n\nOverview\nLocal station.\n\nHistory\nOpened in 1936.\n\nStation layout\nSide platform; unstaffed.\n\nUsage\nPassenger figures.\n\nTrend in daily boardings and alightings\nFigures over years.\n\nSurrounding area\nNishi-Hazu.\n\nNational Route 247\nNational highway.\n\nNishio City Hazu Library\nLibrary.\n\nGamagōri Line\nHigashi-Hazu — Nishi-Hazu — Nishiura.\n\nRailway stations in Nishio\nNishi-Hazu Station is a railway station in Nishio, Aichi, Japan.",
+          "字数": 529
         }
       },
       "结构化信息": {
@@ -993,22 +1005,22 @@
         "英文": {
           "词条标题": "Nishiura Station",
           "链接": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%B5%A6%E9%A7%85",
-          "首段": "Nishiura Station (西浦駅) is a railway station in 県蒲郡市西浦町, Japan.",
+          "首段": "Nishiura Station is a Meitetsu Gamagōri Line station in Nishiura-chō, Gamagōri, Aichi; station number GN18.",
           "章节": {
-            "History": "Meitetsu station.",
-            "Station layout": "At-grade station.",
-            "Usage": "Low ridership.",
-            "Surrounding area": "Rural coastal area.",
-            "Adjacent stations": "On the Gamagōri Line.",
-            "Railway stations in Aichi": "Nishiura",
-            "Meitetsu stations": "Nishiura",
-            "Beach": "Nearby beach.",
-            "Onsen": "Nishiura Onsen nearby.",
-            "Bus routes": "Local bus.",
-            "Hotels": "Ryokan and hotels near the onsen."
+            "Overview": "Local station with the line's depot.",
+            "History": "Opened in 1936.",
+            "Station layout": "Side platform; staffed.",
+            "Usage": "Passenger figures.",
+            "Trend in daily boardings and alightings": "Figures over years.",
+            "Nishiura depot": "Meitetsu depot.",
+            "Surrounding area": "Nishiura onsen area.",
+            "Aichi Prefectural Route 493 Nishiura Station line": "Prefectural road.",
+            "Bus routes": "Bus routes.",
+            "Gamagōri Line": "Nishi-Hazu — Nishiura — Mikawa-Kashima.",
+            "Railway stations in Aichi": "Nishiura Station is a railway station in Aichi, Japan."
           },
-          "全文": "Nishiura Station (西浦駅) is a railway station in 県蒲郡市西浦町, Japan.\n\nHistory\nMeitetsu station.\n\nStation layout\nAt-grade station.\n\nUsage\nLow ridership.\n\nSurrounding area\nRural coastal area.\n\nAdjacent stations\nOn the Gamagōri Line.\n\nRailway stations in Aichi\nNishiura\n\nMeitetsu stations\nNishiura\n\nBeach\nNearby beach.\n\nOnsen\nNishiura Onsen nearby.\n\nBus routes\nLocal bus.\n\nHotels\nRyokan and hotels near the onsen.",
-          "字数": 404
+          "全文": "Nishiura Station is a Meitetsu Gamagōri Line station in Nishiura-chō, Gamagōri, Aichi; station number GN18.\n\nOverview\nLocal station with the line's depot.\n\nHistory\nOpened in 1936.\n\nStation layout\nSide platform; staffed.\n\nUsage\nPassenger figures.\n\nTrend in daily boardings and alightings\nFigures over years.\n\nNishiura depot\nMeitetsu depot.\n\nSurrounding area\nNishiura onsen area.\n\nAichi Prefectural Route 493 Nishiura Station line\nPrefectural road.\n\nBus routes\nBus routes.\n\nGamagōri Line\nNishi-Hazu — Nishiura — Mikawa-Kashima.\n\nRailway stations in Aichi\nNishiura Station is a railway station in Aichi, Japan.",
+          "字数": 607
         }
       },
       "结构化信息": {
