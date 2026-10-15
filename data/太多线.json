@@ -103,10 +103,17 @@
         "英文": {
           "词条标题": "Shimo-giri Station",
           "链接": "https://en.wikipedia.org/wiki/Shimo-giri_Station",
-          "首段": "Shimo-giri Station (下切駅, Shimo-giri-eki) is a station on the JR Tōkai Taita Line in Kani, Gifu Prefecture, Japan. Station number CI03.",
-          "章节": {},
-          "全文": "Shimo-giri Station (下切駅, Shimo-giri-eki) is a station on the JR Tōkai Taita Line in Kani, Gifu Prefecture, Japan. Station number CI03.",
-          "字数": 134
+          "首段": "Shimogiri Station (下切駅) is a station on the JR Taita Line in Kani, Gifu Prefecture, Japan.",
+          "章节": {
+            "History": "Dec 26, 1952: opened as a JNR passenger-only station. Apr 1, 1987: became a JR Central station after privatization.",
+            "Station layout": "An at-grade, unattended station with a single side platform and waiting room, managed from Mino-Ōta.",
+            "Usage": "Daily boardings are recorded in the Kani city statistics.",
+            "Adjacent stations": "Central Japan Railway (JR Tōkai).",
+            "Taita Line": "Hime (CI04) – Shimogiri (CI03) – Kani (CI02).",
+            "Railway stations in Kani": "Shimogiri Station is one of the railway stations in Kani, Gifu Prefecture."
+          },
+          "全文": "Shimogiri Station (下切駅) is a station on the JR Taita Line in Kani, Gifu Prefecture, Japan.\n\nHistory\nDec 26, 1952: opened as a JNR passenger-only station. Apr 1, 1987: became a JR Central station after privatization.\n\nStation layout\nAn at-grade, unattended station with a single side platform and waiting room, managed from Mino-Ōta.\n\nUsage\nDaily boardings are recorded in the Kani city statistics.\n\nAdjacent stations\nCentral Japan Railway (JR Tōkai).\n\nTaita Line\nHime (CI04) – Shimogiri (CI03) – Kani (CI02).\n\nRailway stations in Kani\nShimogiri Station is one of the railway stations in Kani, Gifu Prefecture.",
+          "字数": 609
         }
       },
       "结构化信息": {
@@ -189,10 +196,23 @@
         "英文": {
           "词条标题": "Kani Station",
           "链接": "https://en.wikipedia.org/wiki/Kani_Station",
-          "首段": "Kani Station (可児駅, Kani-eki) is a station on the JR Tōkai Taita Line in Kani, Gifu Prefecture, Japan. Station number CI02.",
-          "章节": {},
-          "全文": "Kani Station (可児駅, Kani-eki) is a station on the JR Tōkai Taita Line in Kani, Gifu Prefecture, Japan. Station number CI02.",
-          "字数": 122
+          "首段": "Kani Station (可児駅) is a station on the JR Taita Line in Kani, Gifu Prefecture, Japan.",
+          "章节": {
+            "History": "Dec 28, 1918: opened as Hiromi Station on the Tōnō Railway Shin-Tajimi–Kani section.",
+            "Station layout": "An at-grade station with two opposed side platforms linked by a footbridge; a contracted staffed station managed from Mino-Ōta.",
+            "Usage": "Daily boardings were around 1,500 in the late 2000s.",
+            "Surroundings": "Meitetsu Hiromi Line Shin-Kani Station adjoins; a free passage crosses the JR tracks.",
+            "Kani post office": "Jūni Bank, Gifu Shinkin and Tōnō Shinkin are nearby.",
+            "Vallo Hiromi": "Don Quijote UNY Kani store is nearby.",
+            "Bus routes": "Routes and community buses stop at the Kani Station bus stop.",
+            "Tōtetsu Bus": "Gifu World Rose Garden, Midori-gaoka and express central routes.",
+            "Adjacent stations": "Central Japan Railway (JR Tōkai).",
+            "Taita Line": "Shimogiri (CI03) – Kani (CI02) – Mino-Kawai (CI01).",
+            "Railway stations in Kani": "Kani Station is one of the railway stations in Kani.",
+            "JNR stations": "Kani Station was a Japanese National Railways station (Tōnō Railway)."
+          },
+          "全文": "Kani Station (可児駅) is a station on the JR Taita Line in Kani, Gifu Prefecture, Japan.\n\nHistory\nDec 28, 1918: opened as Hiromi Station on the Tōnō Railway Shin-Tajimi–Kani section.\n\nStation layout\nAn at-grade station with two opposed side platforms linked by a footbridge; a contracted staffed station managed from Mino-Ōta.\n\nUsage\nDaily boardings were around 1,500 in the late 2000s.\n\nSurroundings\nMeitetsu Hiromi Line Shin-Kani Station adjoins; a free passage crosses the JR tracks.\n\nKani post office\nJūni Bank, Gifu Shinkin and Tōnō Shinkin are nearby.\n\nVallo Hiromi\nDon Quijote UNY Kani store is nearby.\n\nBus routes\nRoutes and community buses stop at the Kani Station bus stop.\n\nTōtetsu Bus\nGifu World Rose Garden, Midori-gaoka and express central routes.\n\nAdjacent stations\nCentral Japan Railway (JR Tōkai).\n\nTaita Line\nShimogiri (CI03) – Kani (CI02) – Mino-Kawai (CI01).\n\nRailway stations in Kani\nKani Station is one of the railway stations in Kani.\n\nJNR stations\nKani Station was a Japanese National Railways station (Tōnō Railway).",
+          "字数": 1038
         }
       },
       "结构化信息": {
@@ -273,10 +293,19 @@
         "英文": {
           "词条标题": "Kagamigahara Station",
           "链接": "https://en.wikipedia.org/wiki/Kagamigahara_Station",
-          "首段": "Kagamigahara Station (各務ケ原駅, Kagamigahara-eki) is a station on the JR Tōkai Takayama Main Line in Kakamigahara, Gifu Prefecture, Japan. Station number CG04.",
-          "章节": {},
-          "全文": "Kagamigahara Station (各務ケ原駅, Kagamigahara-eki) is a station on the JR Tōkai Takayama Main Line in Kakamigahara, Gifu Prefecture, Japan. Station number CG04.",
-          "字数": 156
+          "首段": "Kagamigahara Station (各務ヶ原駅) is a station on the JR Takayama Main Line in Kakamigahara, Gifu Prefecture, Japan.",
+          "章节": {
+            "History": "Nov 1, 1920: opened as the terminus of the Gifu–Kagamigahara section of the Takayama Line (renamed Takayama Main Line in 1934).",
+            "Station layout": "An unattended station managed from Gifu; the current building dates from October 1978.",
+            "Usage": "Daily boardings were around 400 in the late 2000s.",
+            "Surroundings": "Meitetsu Kakamigahara Line Meiden-Kakamigahara Station and the Kakamigahara Fureai bus are nearby.",
+            "National Route 21": "Gifu Prefectural Gifu-Kakamino High School east building is nearby.",
+            "Adjacent stations": "Central Japan Railway (JR Tōkai).",
+            "Takayama Main Line": "Sohara (CG03) – Kagamigahara (CG04) – Unuma (CG05).",
+            "Railway stations in Kakamigahara": "Kagamigahara Station is one of the railway stations in Kakamigahara."
+          },
+          "全文": "Kagamigahara Station (各務ヶ原駅) is a station on the JR Takayama Main Line in Kakamigahara, Gifu Prefecture, Japan.\n\nHistory\nNov 1, 1920: opened as the terminus of the Gifu–Kagamigahara section of the Takayama Line (renamed Takayama Main Line in 1934).\n\nStation layout\nAn unattended station managed from Gifu; the current building dates from October 1978.\n\nUsage\nDaily boardings were around 400 in the late 2000s.\n\nSurroundings\nMeitetsu Kakamigahara Line Meiden-Kakamigahara Station and the Kakamigahara Fureai bus are nearby.\n\nNational Route 21\nGifu Prefectural Gifu-Kakamino High School east building is nearby.\n\nAdjacent stations\nCentral Japan Railway (JR Tōkai).\n\nTakayama Main Line\nSohara (CG03) – Kagamigahara (CG04) – Unuma (CG05).\n\nRailway stations in Kakamigahara\nKagamigahara Station is one of the railway stations in Kakamigahara.",
+          "字数": 837
         }
       },
       "结构化信息": {
@@ -350,10 +379,17 @@
         "英文": {
           "词条标题": "Sakahogi Station",
           "链接": "https://en.wikipedia.org/wiki/Sakahogi_Station",
-          "首段": "Sakahogi Station (坂祝駅, Sakahogi-eki) is a station on the JR Tōkai Takayama Main Line in Sakahogi, Kamo District, Gifu Prefecture, Japan. Station number CG06.",
-          "章节": {},
-          "全文": "Sakahogi Station (坂祝駅, Sakahogi-eki) is a station on the JR Tōkai Takayama Main Line in Sakahogi, Kamo District, Gifu Prefecture, Japan. Station number CG06.",
-          "字数": 157
+          "首段": "Sakahogi Station (坂祝駅) is a station on the JR Takayama Main Line in Sakahogi, Kamo District, Gifu Prefecture, Japan.",
+          "章节": {
+            "History": "Nov 12, 1921: opened with the Kagamigahara–Mino-Ōta section of the Takayama Line; freight services ended Apr 20, 1973.",
+            "Station layout": "An at-grade station with two opposed side platforms allowing train passing.",
+            "Usage": "Daily boardings were around 480–500 in the late 2000s.",
+            "Adjacent stations": "Central Japan Railway (JR Tōkai).",
+            "Takayama Main Line": "Unuma (CG05) – Sakahogi (CG06) – Mino-Ōta (CG07).",
+            "Railway stations in Gifu Prefecture": "Sakahogi Station is one of the railway stations in Gifu Prefecture."
+          },
+          "全文": "Sakahogi Station (坂祝駅) is a station on the JR Takayama Main Line in Sakahogi, Kamo District, Gifu Prefecture, Japan.\n\nHistory\nNov 12, 1921: opened with the Kagamigahara–Mino-Ōta section of the Takayama Line; freight services ended Apr 20, 1973.\n\nStation layout\nAn at-grade station with two opposed side platforms allowing train passing.\n\nUsage\nDaily boardings were around 480–500 in the late 2000s.\n\nAdjacent stations\nCentral Japan Railway (JR Tōkai).\n\nTakayama Main Line\nUnuma (CG05) – Sakahogi (CG06) – Mino-Ōta (CG07).\n\nRailway stations in Gifu Prefecture\nSakahogi Station is one of the railway stations in Gifu Prefecture.",
+          "字数": 626
         }
       },
       "结构化信息": {
@@ -447,10 +483,34 @@
         "英文": {
           "词条标题": "Tajimi Station",
           "链接": "https://en.wikipedia.org/wiki/Tajimi_Station",
-          "首段": "Tajimi Station (多治見駅, Tajimi-eki) is a station in Tajimi, Gifu Prefecture, Japan, served by JR Tōkai and JR Freight.",
-          "章节": {},
-          "全文": "Tajimi Station (多治見駅, Tajimi-eki) is a station in Tajimi, Gifu Prefecture, Japan, served by JR Tōkai and JR Freight.",
-          "字数": 116
+          "首段": "Tajimi Station (多治見駅) is a major interchange of the JR Chūō Main Line and Taita Line in Tajimi, Gifu Prefecture, Japan.",
+          "章节": {
+            "Overview": "The junction of the Chūō Main Line and the terminus of the Taita Line; both operated by JR Central, with JR Freight on the Chūō Main Line.",
+            "History": "Jul 25, 1900: opened as the terminus of the government railway from Nagoya; extended to Nakatsu (Nakatsugawa) in 1902.",
+            "Station layout": "An at-grade station with one side and two island platforms (five tracks) and an elevated bridge building; a staffed, directly managed station.",
+            "Station building plan": "The Tajimi north urban redevelopment includes a barrier-free bridge building and a 102 m north–south free passage.",
+            "Freight depot": "JR Freight facility north of the passenger station, a regional freight hub (Tajima freight handling).",
+            "Freight types": "Container freight (12-foot containers); licensed for industrial waste.",
+            "Ekiben": "Local 'Tajima kamameshi' and 'kuromame Kowai' bento by Bii-doro-ya, discontinued in March 2003.",
+            "Passengers": "Daily boardings were 13,611 in fiscal 2018, third in Gifu Prefecture after Gifu and Ōgaki.",
+            "Freight": "In fiscal 2006, 82,197 tons shipped and 84,317 tons arrived.",
+            "Surroundings": "The city center shifted to the north exit following redevelopment.",
+            "ASTY Tajimi": "Commercial facility by the south exit, operated by Nagoya Station Development.",
+            "Tajima tourist info": "Manabi Park Tajimi is nearby.",
+            "MUFG Tajimi": "Jūni Bank Tajimi branch is nearby.",
+            "Gifu LLR bureau": "Gifu District Court Tajimi branch is nearby.",
+            "Bus routes": "Bus stops at the south and north exits (Tajima Ekimae bus terminal).",
+            "Adjacent stations": "Central Japan Railway (JR Tōkai).",
+            "Chūō Main Line": "Former Tōnō Railway; rapid and local services.",
+            "Limited express Shinano": "Toki-city (CF13) – Tajimi (CF12) – Kōzōji (CF09).",
+            "Local": "Toki-city (CF13) – Tajimi (CF12) – Kokokei (CF11).",
+            "Taita Line": "Tajimi (CI07) – Koizumi (CI06).",
+            "Kasaihara Line": "Tajimi – Shin-Tajima.",
+            "List of stations": "Chūō Line (Nagoya area); the unbuilt Okata Line was planned to branch here.",
+            "Tajimi air raid": "Toyoaka-chō was the municipality when the station was built."
+          },
+          "全文": "Tajimi Station (多治見駅) is a major interchange of the JR Chūō Main Line and Taita Line in Tajimi, Gifu Prefecture, Japan.\n\nOverview\nThe junction of the Chūō Main Line and the terminus of the Taita Line; both operated by JR Central, with JR Freight on the Chūō Main Line.\n\nHistory\nJul 25, 1900: opened as the terminus of the government railway from Nagoya; extended to Nakatsu (Nakatsugawa) in 1902.\n\nStation layout\nAn at-grade station with one side and two island platforms (five tracks) and an elevated bridge building; a staffed, directly managed station.\n\nStation building plan\nThe Tajimi north urban redevelopment includes a barrier-free bridge building and a 102 m north–south free passage.\n\nFreight depot\nJR Freight facility north of the passenger station, a regional freight hub (Tajima freight handling).\n\nFreight types\nContainer freight (12-foot containers); licensed for industrial waste.\n\nEkiben\nLocal 'Tajima kamameshi' and 'kuromame Kowai' bento by Bii-doro-ya, discontinued in March 2003.\n\nPassengers\nDaily boardings were 13,611 in fiscal 2018, third in Gifu Prefecture after Gifu and Ōgaki.\n\nFreight\nIn fiscal 2006, 82,197 tons shipped and 84,317 tons arrived.\n\nSurroundings\nThe city center shifted to the north exit following redevelopment.\n\nASTY Tajimi\nCommercial facility by the south exit, operated by Nagoya Station Development.\n\nTajima tourist info\nManabi Park Tajimi is nearby.\n\nMUFG Tajimi\nJūni Bank Tajimi branch is nearby.\n\nGifu LLR bureau\nGifu District Court Tajimi branch is nearby.\n\nBus routes\nBus stops at the south and north exits (Tajima Ekimae bus terminal).\n\nAdjacent stations\nCentral Japan Railway (JR Tōkai).\n\nChūō Main Line\nFormer Tōnō Railway; rapid and local services.\n\nLimited express Shinano\nToki-city (CF13) – Tajimi (CF12) – Kōzōji (CF09).\n\nLocal\nToki-city (CF13) – Tajimi (CF12) – Kokokei (CF11).\n\nTaita Line\nTajimi (CI07) – Koizumi (CI06).\n\nKasaihara Line\nTajimi – Shin-Tajima.\n\nList of stations\nChūō Line (Nagoya area); the unbuilt Okata Line was planned to branch here.\n\nTajimi air raid\nToyoaka-chō was the municipality when the station was built.",
+          "字数": 2091
         }
       },
       "结构化信息": {
@@ -544,10 +604,19 @@
         "英文": {
           "词条标题": "Hime Station",
           "链接": "https://en.wikipedia.org/wiki/Hime_Station",
-          "首段": "Hime Station (姫駅, Hime-eki) is a station on the JR Tōkai Taita Line in Tajimi, Gifu Prefecture, Japan. Station number CI04.",
-          "章节": {},
-          "全文": "Hime Station (姫駅, Hime-eki) is a station on the JR Tōkai Taita Line in Tajimi, Gifu Prefecture, Japan. Station number CI04.",
-          "字数": 123
+          "首段": "Hime Station (姫駅) is a station on the JR Taita Line in Tajimi, Gifu Prefecture, Japan.",
+          "章节": {
+            "History": "The present station (second generation) was built on the realigned line; the original Hime Station and Ōyabuchi were merged.",
+            "Chronology": "Dec 28, 1918: opened as Hime stop on the Tōnō Railway.",
+            "Station layout": "An at-grade station with two opposed side platforms linked by a foot crossing; platforms fit 4 cars.",
+            "Usage": "Daily boardings are recorded in the Tajima statistics.",
+            "Adjacent stations": "Central Japan Railway (JR Tōkai).",
+            "Taita Line": "Nemoto (CI05) – Hime (CI04) – Shimogiri (CI03).",
+            "List of stations": "Hime Station is listed among Japanese railway stations.",
+            "JNR stations": "Hime Station was a JNR station (Tōnō Railway)."
+          },
+          "全文": "Hime Station (姫駅) is a station on the JR Taita Line in Tajimi, Gifu Prefecture, Japan.\n\nHistory\nThe present station (second generation) was built on the realigned line; the original Hime Station and Ōyabuchi were merged.\n\nChronology\nDec 28, 1918: opened as Hime stop on the Tōnō Railway.\n\nStation layout\nAn at-grade station with two opposed side platforms linked by a foot crossing; platforms fit 4 cars.\n\nUsage\nDaily boardings are recorded in the Tajima statistics.\n\nAdjacent stations\nCentral Japan Railway (JR Tōkai).\n\nTaita Line\nNemoto (CI05) – Hime (CI04) – Shimogiri (CI03).\n\nList of stations\nHime Station is listed among Japanese railway stations.\n\nJNR stations\nHime Station was a JNR station (Tōnō Railway).",
+          "字数": 714
         }
       },
       "结构化信息": {
@@ -625,10 +694,18 @@
         "英文": {
           "词条标题": "Koizumi Station",
           "链接": "https://en.wikipedia.org/wiki/Koizumi%20Station",
-          "首段": "Koizumi Station is the name of several train stations in Japan:\n\n Koizumi Station (Ehime) (古泉駅) - Masaki, Iyo District, Ehime Prefecture\n Koizumi Station (Gifu) (小泉駅) - Tajimi, Gifu Prefecture\n Rikuzen-Koizumi Station (陸前小泉駅) - Motoyoshi, Motoyoshi District, Miyagi Prefecture\n Kai-Koizumi Station (甲斐小泉駅) - Hokuto, Yamanashi Prefecture\n Yamato-Koizumi Station (大和小泉駅) - Yamatokoriyama, Nara Prefecture\n Nishi-Koizumi Station (西小泉駅), Koizumimachi Station (小泉町駅), Higashi-Koizumi Station (東小泉駅) - Oizumi, Ora District, Gunma Prefecture\n Koizumicho Station (小泉町駅) - Toyama, Toyama Prefecture",
-          "章节": {},
-          "全文": "Koizumi Station is the name of several train stations in Japan:\n\n Koizumi Station (Ehime) (古泉駅) - Masaki, Iyo District, Ehime Prefecture\n Koizumi Station (Gifu) (小泉駅) - Tajimi, Gifu Prefecture\n Rikuzen-Koizumi Station (陸前小泉駅) - Motoyoshi, Motoyoshi District, Miyagi Prefecture\n Kai-Koizumi Station (甲斐小泉駅) - Hokuto, Yamanashi Prefecture\n Yamato-Koizumi Station (大和小泉駅) - Yamatokoriyama, Nara Prefecture\n Nishi-Koizumi Station (西小泉駅), Koizumimachi Station (小泉町駅), Higashi-Koizumi Station (東小泉駅) - Oizumi, Ora District, Gunma Prefecture\n Koizumicho Station (小泉町駅) - Toyama, Toyama Prefecture",
-          "字数": 589
+          "首段": "Koizumi Station (小泉駅) is a station on the JR Taita Line in Tajimi, Gifu Prefecture, Japan.",
+          "章节": {
+            "History": "Dec 28, 1918: opened with the Tōnō Railway Shin-Tajima–Hiromi section; freight handling from Aug 1919.",
+            "Station layout": "Two opposed side platforms (restored 1989) with a maintenance siding; the station building faces the Mino-Ōta platform.",
+            "Usage": "Daily boardings are recorded in the Gifu and Tajima statistics.",
+            "Adjacent stations": "Central Japan Railway (JR Tōkai).",
+            "Taita Line": "Tajima (CI07) – Koizumi (CI06) – Nemoto (CI05).",
+            "List of stations": "Koizumi Station is listed among Japanese railway stations.",
+            "JNR stations": "Koizumi Station was a JNR station (Tōnō Railway)."
+          },
+          "全文": "Koizumi Station (小泉駅) is a station on the JR Taita Line in Tajimi, Gifu Prefecture, Japan.\n\nHistory\nDec 28, 1918: opened with the Tōnō Railway Shin-Tajima–Hiromi section; freight handling from Aug 1919.\n\nStation layout\nTwo opposed side platforms (restored 1989) with a maintenance siding; the station building faces the Mino-Ōta platform.\n\nUsage\nDaily boardings are recorded in the Gifu and Tajima statistics.\n\nAdjacent stations\nCentral Japan Railway (JR Tōkai).\n\nTaita Line\nTajima (CI07) – Koizumi (CI06) – Nemoto (CI05).\n\nList of stations\nKoizumi Station is listed among Japanese railway stations.\n\nJNR stations\nKoizumi Station was a JNR station (Tōnō Railway).",
+          "字数": 663
         }
       },
       "结构化信息": {
@@ -719,10 +796,32 @@
         "英文": {
           "词条标题": "Gifu Station",
           "链接": "https://en.wikipedia.org/wiki/Gifu_Station",
-          "首段": "Gifu Station (岐阜駅, Gifu-eki) is a major station in Gifu, Gifu Prefecture, Japan, operated by JR Tōkai.",
-          "章节": {},
-          "全文": "Gifu Station (岐阜駅, Gifu-eki) is a major station in Gifu, Gifu Prefecture, Japan, operated by JR Tōkai.",
-          "字数": 102
+          "首段": "Gifu Station (岐阜駅) is the central JR station of Gifu, Gifu Prefecture, Japan, on the Tōkaidō Main Line and Takayama Main Line.",
+          "章节": {
+            "History": "Jan 21, 1887: opened with the government railway Ōgaki–Gifu extension, originally as Kano Station.",
+            "Station layout": "An elevated station with three island platforms (six tracks), designed around the 'station in the forest' concept with Gifu Japanese-umbrella motifs.",
+            "Ekiben": "Main ekiben boxes include the following.",
+            "Matsura miso hire-katsu": "Kōchin wappa-meshi is also sold.",
+            "Usage": "Since privatization, more passengers use JR Gifu than Meitetsu Gifu.",
+            "Passenger numbers": "Annual and daily boardings recorded since 1955.",
+            "Surroundings": "Meitetsu Gifu Station is about 300 m northeast, within walking distance.",
+            "Under the tracks": "Astie Gifu and Active G.",
+            "Station square": "Bus terminal, taxi and drop-off, Nobunaga Dream Square and Square 43.",
+            "Gifu City Tower 43": "Gifu Broadcasting headquarters on the 4th floor.",
+            "Meitetsu Gifu / Gifu bus terminal": "National Route 157 and Gifu Prefectural Route 54.",
+            "Asahi University Hospital": "Orchid Park is nearby.",
+            "Jūni Bank HQ": "Ekti (former Shin-Gifu department store site) and Jūroku Plaza.",
+            "Gifu Minami tax office": "Kanazuen, a large soapland district, is nearby.",
+            "Bus routes": "Two bus terminal areas: the north-exit square and the Gifu bus terminal across the road.",
+            "Selective boarding": "Between Gifu and Maibara, this station corresponds to Gifu-Hashima Shinkansen station for selective travel.",
+            "Adjacent stations": "Central Japan Railway (JR Tōkai).",
+            "Limited express Hida/Shirasagi": "Owari-Ichinomiya (CA72) – Gifu (CA74) – Nishi-Gifu (CA75).",
+            "Local": "Kisogawa (CA73) – Gifu (CA74) – Nishi-Gifu (CA75); Gifu (CG00) – Nagamori (CG01).",
+            "Railway stations in Gifu": "Gifu Station is one of the railway stations in Gifu City.",
+            "JNR stations": "Gifu Station was a Japanese National Railways station (Tōkaidō Line)."
+          },
+          "全文": "Gifu Station (岐阜駅) is the central JR station of Gifu, Gifu Prefecture, Japan, on the Tōkaidō Main Line and Takayama Main Line.\n\nHistory\nJan 21, 1887: opened with the government railway Ōgaki–Gifu extension, originally as Kano Station.\n\nStation layout\nAn elevated station with three island platforms (six tracks), designed around the 'station in the forest' concept with Gifu Japanese-umbrella motifs.\n\nEkiben\nMain ekiben boxes include the following.\n\nMatsura miso hire-katsu\nKōchin wappa-meshi is also sold.\n\nUsage\nSince privatization, more passengers use JR Gifu than Meitetsu Gifu.\n\nPassenger numbers\nAnnual and daily boardings recorded since 1955.\n\nSurroundings\nMeitetsu Gifu Station is about 300 m northeast, within walking distance.\n\nUnder the tracks\nAstie Gifu and Active G.\n\nStation square\nBus terminal, taxi and drop-off, Nobunaga Dream Square and Square 43.\n\nGifu City Tower 43\nGifu Broadcasting headquarters on the 4th floor.\n\nMeitetsu Gifu / Gifu bus terminal\nNational Route 157 and Gifu Prefectural Route 54.\n\nAsahi University Hospital\nOrchid Park is nearby.\n\nJūni Bank HQ\nEkti (former Shin-Gifu department store site) and Jūroku Plaza.\n\nGifu Minami tax office\nKanazuen, a large soapland district, is nearby.\n\nBus routes\nTwo bus terminal areas: the north-exit square and the Gifu bus terminal across the road.\n\nSelective boarding\nBetween Gifu and Maibara, this station corresponds to Gifu-Hashima Shinkansen station for selective travel.\n\nAdjacent stations\nCentral Japan Railway (JR Tōkai).\n\nLimited express Hida/Shirasagi\nOwari-Ichinomiya (CA72) – Gifu (CA74) – Nishi-Gifu (CA75).\n\nLocal\nKisogawa (CA73) – Gifu (CA74) – Nishi-Gifu (CA75); Gifu (CG00) – Nagamori (CG01).\n\nRailway stations in Gifu\nGifu Station is one of the railway stations in Gifu City.\n\nJNR stations\nGifu Station was a Japanese National Railways station (Tōkaidō Line).",
+          "字数": 1850
         }
       },
       "结构化信息": {
@@ -804,10 +903,18 @@
         "英文": {
           "词条标题": "Nemoto Station",
           "链接": "https://en.wikipedia.org/wiki/Nemoto_Station",
-          "首段": "Nemoto Station (根本駅, Nemoto-eki) is a station on the JR Tōkai Taita Line in Tajimi, Gifu Prefecture, Japan. Station number CI05.",
-          "章节": {},
-          "全文": "Nemoto Station (根本駅, Nemoto-eki) is a station on the JR Tōkai Taita Line in Tajimi, Gifu Prefecture, Japan. Station number CI05.",
-          "字数": 128
+          "首段": "Nemoto Station (根本駅) is a station on the JR Taita Line in Tajimi, Gifu Prefecture, Japan.",
+          "章节": {
+            "History": "Opened on the Tōnō Railway; became a JNR station and then JR Central in 1987.",
+            "Station layout": "An at-grade station with two opposed side platforms.",
+            "Usage": "Daily boardings are recorded in the Tajima statistics.",
+            "Adjacent stations": "Central Japan Railway (JR Tōkai).",
+            "Taita Line": "Koizumi (CI05) – Nemoto (CI05) – Hime (CI04).",
+            "List of stations": "Nemoto Station is listed among Japanese railway stations.",
+            "JNR stations": "Nemoto Station was a JNR station."
+          },
+          "全文": "Nemoto Station (根本駅) is a station on the JR Taita Line in Tajimi, Gifu Prefecture, Japan.\n\nHistory\nOpened on the Tōnō Railway; became a JNR station and then JR Central in 1987.\n\nStation layout\nAn at-grade station with two opposed side platforms.\n\nUsage\nDaily boardings are recorded in the Tajima statistics.\n\nAdjacent stations\nCentral Japan Railway (JR Tōkai).\n\nTaita Line\nKoizumi (CI05) – Nemoto (CI05) – Hime (CI04).\n\nList of stations\nNemoto Station is listed among Japanese railway stations.\n\nJNR stations\nNemoto Station was a JNR station.",
+          "字数": 542
         }
       },
       "结构化信息": {
@@ -898,10 +1005,28 @@
         "英文": {
           "词条标题": "Mino-Ōta Station",
           "链接": "https://en.wikipedia.org/wiki/Mino-%C5%8Cta_Station",
-          "首段": "Mino-Ōta Station (美濃太田駅, Mino-Ōta-eki) is a station in Minokamo, Gifu Prefecture, Japan, served by JR Tōkai and the Nagaragawa Railway.",
-          "章节": {},
-          "全文": "Mino-Ōta Station (美濃太田駅, Mino-Ōta-eki) is a station in Minokamo, Gifu Prefecture, Japan, served by JR Tōkai and the Nagaragawa Railway.",
-          "字数": 135
+          "首段": "Mino-Ōta Station (美濃太田駅) is the representative station of Minokamo, Gifu Prefecture, Japan, junction of the Takayama Main Line and Taita Line and the Nagaragawa Railway.",
+          "章节": {
+            "Overview": "The representative station of Minokamo; named after the former Ōta-chō, which became part of Minokamo in 1954.",
+            "History": "Nov 12, 1921: opened as the terminus of the Takayama Line extension from Kagamigahara.",
+            "Station layout": "Connected by a two-story steel free passage; one JR ticket gate on the south and one Nagaragawa Railway entrance on the north.",
+            "JR Central": "An at-grade station with two island platforms (four tracks) and bridge building; a directly managed staffed station.",
+            "Nagaragawa Railway": "A single side platform north of the JR station; terminus of the Etsumi-Nan Line.",
+            "Ekiben": "Kōryūkan sold ekiben until business scale-down ended sales on May 31, 2019.",
+            "Usage": "Daily boardings are recorded in the Gifu and Minokamo statistics.",
+            "Surroundings": "The city center spreads south of the station.",
+            "Old Nakasendō Ōta-juku": "The Mino-Ōta crew depot is nearby.",
+            "Bus routes": "Tōtetsu Bus for Yaotsu and the Chūbu Medical Center.",
+            "Other": "A late-Meiji plan for the Chūnō Electric Railway (Gifu–Kanayama via Seki) was never built.",
+            "Adjacent stations": "Central Japan Railway (JR Tōkai).",
+            "Takayama Main Line": "Sakahogi (CG06) – Mino-Ōta (CG07) – Furui.",
+            "Taita Line": "Mino-Kawai (CI01) – Mino-Ōta (CI00).",
+            "Etsumi-Nan Line": "Mino-Ōta (0) – Maehira-Kōen (1).",
+            "Railway stations in Gifu Prefecture": "Mino-Ōta Station is one of the railway stations in Gifu Prefecture.",
+            "Stations opened in 1921": "Mino-Ōta Station opened in 1921."
+          },
+          "全文": "Mino-Ōta Station (美濃太田駅) is the representative station of Minokamo, Gifu Prefecture, Japan, junction of the Takayama Main Line and Taita Line and the Nagaragawa Railway.\n\nOverview\nThe representative station of Minokamo; named after the former Ōta-chō, which became part of Minokamo in 1954.\n\nHistory\nNov 12, 1921: opened as the terminus of the Takayama Line extension from Kagamigahara.\n\nStation layout\nConnected by a two-story steel free passage; one JR ticket gate on the south and one Nagaragawa Railway entrance on the north.\n\nJR Central\nAn at-grade station with two island platforms (four tracks) and bridge building; a directly managed staffed station.\n\nNagaragawa Railway\nA single side platform north of the JR station; terminus of the Etsumi-Nan Line.\n\nEkiben\nKōryūkan sold ekiben until business scale-down ended sales on May 31, 2019.\n\nUsage\nDaily boardings are recorded in the Gifu and Minokamo statistics.\n\nSurroundings\nThe city center spreads south of the station.\n\nOld Nakasendō Ōta-juku\nThe Mino-Ōta crew depot is nearby.\n\nBus routes\nTōtetsu Bus for Yaotsu and the Chūbu Medical Center.\n\nOther\nA late-Meiji plan for the Chūnō Electric Railway (Gifu–Kanayama via Seki) was never built.\n\nAdjacent stations\nCentral Japan Railway (JR Tōkai).\n\nTakayama Main Line\nSakahogi (CG06) – Mino-Ōta (CG07) – Furui.\n\nTaita Line\nMino-Kawai (CI01) – Mino-Ōta (CI00).\n\nEtsumi-Nan Line\nMino-Ōta (0) – Maehira-Kōen (1).\n\nRailway stations in Gifu Prefecture\nMino-Ōta Station is one of the railway stations in Gifu Prefecture.\n\nStations opened in 1921\nMino-Ōta Station opened in 1921.",
+          "字数": 1576
         }
       },
       "结构化信息": {
@@ -987,10 +1112,18 @@
         "英文": {
           "词条标题": "Mino-Kawai Station",
           "链接": "https://en.wikipedia.org/wiki/Mino-Kawai_Station",
-          "首段": "Mino-Kawai Station (美濃川合駅, Mino-Kawai-eki) is a station on the JR Tōkai Taita Line in Minokamo, Gifu Prefecture, Japan. Station number CI01.",
-          "章节": {},
-          "全文": "Mino-Kawai Station (美濃川合駅, Mino-Kawai-eki) is a station on the JR Tōkai Taita Line in Minokamo, Gifu Prefecture, Japan. Station number CI01.",
-          "字数": 140
+          "首段": "Mino-Kawai Station (美濃川合駅) is a station on the JR Taita Line in Minokamo, Gifu Prefecture, Japan.",
+          "章节": {
+            "History": "Opened on the Taita Line; became a JR Central station in 1987.",
+            "Station layout": "An at-grade station with two opposed side platforms.",
+            "Usage": "Daily boardings are recorded in the Gifu statistics.",
+            "Adjacent stations": "Central Japan Railway (JR Tōkai).",
+            "Taita Line": "Kani (CI02) – Mino-Kawai (CI01) – Mino-Ōta (CI00).",
+            "Railway stations in Gifu Prefecture": "Mino-Kawai Station is one of the railway stations in Gifu Prefecture.",
+            "JNR stations": "Mino-Kawai Station was a JNR station."
+          },
+          "全文": "Mino-Kawai Station (美濃川合駅) is a station on the JR Taita Line in Minokamo, Gifu Prefecture, Japan.\n\nHistory\nOpened on the Taita Line; became a JR Central station in 1987.\n\nStation layout\nAn at-grade station with two opposed side platforms.\n\nUsage\nDaily boardings are recorded in the Gifu statistics.\n\nAdjacent stations\nCentral Japan Railway (JR Tōkai).\n\nTaita Line\nKani (CI02) – Mino-Kawai (CI01) – Mino-Ōta (CI00).\n\nRailway stations in Gifu Prefecture\nMino-Kawai Station is one of the railway stations in Gifu Prefecture.\n\nJNR stations\nMino-Kawai Station was a JNR station.",
+          "字数": 573
         }
       },
       "结构化信息": {
@@ -1069,10 +1202,22 @@
         "英文": {
           "词条标题": "Sohara Station",
           "链接": "https://en.wikipedia.org/wiki/Sohara%20Station",
-          "首段": "Sohara Station is the name of two train stations in Japan:\n\n Sohara Station (Gifu) (蘇原駅)\n Sohara Station (Mie) (楚原駅)",
-          "章节": {},
-          "全文": "Sohara Station is the name of two train stations in Japan:\n\n Sohara Station (Gifu) (蘇原駅)\n Sohara Station (Mie) (楚原駅)",
-          "字数": 116
+          "首段": "Sohara Station (蘇原駅) is a station on the JR Takayama Main Line in Kakamigahara, Gifu Prefecture, Japan.",
+          "章节": {
+            "History": "Jun 1, 1942: opened between Naka and Kagamigahara; freight handling from Nov 15.",
+            "Station layout": "An at-grade station with one side and one island platform (three tracks), allowing train passing.",
+            "Usage": "Daily boardings were around 860–870 in the late 2000s.",
+            "Surroundings": "Meitetsu Kakamigahara Line Mikakino Station is nearby.",
+            "JASDF Gifu base": "Chūbu Electric Power Sohara substation is nearby.",
+            "Maewatari Fudōson": "Hotel Route-Inn Kakamigahara and the Sohara police box are nearby.",
+            "Bus routes": "Kakamigahara Fureai bus 'JR Sohara-kita' stop.",
+            "Sohara-chūgaku-minamiguchi": "Routes for the civic hall, Tōkai Central Hospital and Sohara elementary school.",
+            "Adjacent stations": "Central Japan Railway (JR Tōkai).",
+            "Takayama Main Line": "Naka (CG02) – Sohara (CG03) – Kagamigahara (CG04).",
+            "Railway stations in Kakamigahara": "Sohara Station is one of the railway stations in Kakamigahara."
+          },
+          "全文": "Sohara Station (蘇原駅) is a station on the JR Takayama Main Line in Kakamigahara, Gifu Prefecture, Japan.\n\nHistory\nJun 1, 1942: opened between Naka and Kagamigahara; freight handling from Nov 15.\n\nStation layout\nAn at-grade station with one side and one island platform (three tracks), allowing train passing.\n\nUsage\nDaily boardings were around 860–870 in the late 2000s.\n\nSurroundings\nMeitetsu Kakamigahara Line Mikakino Station is nearby.\n\nJASDF Gifu base\nChūbu Electric Power Sohara substation is nearby.\n\nMaewatari Fudōson\nHotel Route-Inn Kakamigahara and the Sohara police box are nearby.\n\nBus routes\nKakamigahara Fureai bus 'JR Sohara-kita' stop.\n\nSohara-chūgaku-minamiguchi\nRoutes for the civic hall, Tōkai Central Hospital and Sohara elementary school.\n\nAdjacent stations\nCentral Japan Railway (JR Tōkai).\n\nTakayama Main Line\nNaka (CG02) – Sohara (CG03) – Kagamigahara (CG04).\n\nRailway stations in Kakamigahara\nSohara Station is one of the railway stations in Kakamigahara.",
+          "字数": 979
         }
       },
       "结构化信息": {
@@ -1151,10 +1296,20 @@
         "英文": {
           "词条标题": "Naka Station",
           "链接": "https://en.wikipedia.org/wiki/Naka_Station_(Gifu)",
-          "首段": "Naka Station (那加駅, Naka-eki) is a station on the JR Tōkai Takayama Main Line in Kakamigahara, Gifu Prefecture, Japan. Station number CG02.",
-          "章节": {},
-          "全文": "Naka Station (那加駅, Naka-eki) is a station on the JR Tōkai Takayama Main Line in Kakamigahara, Gifu Prefecture, Japan. Station number CG02.",
-          "字数": 138
+          "首段": "Naka Station (那加駅) is a station on the JR Takayama Main Line in Kakamigahara, Gifu Prefecture, Japan.",
+          "章节": {
+            "History": "Nov 1, 1920: opened with the Gifu–Kagamigahara section of the Takayama Line; passenger and freight.",
+            "Station layout": "An at-grade station with two opposed side platforms allowing passing; the wooden building was rebuilt in concrete.",
+            "Usage": "Ridership has grown since privatization as it is faster than Meitetsu via Gifu for Nagoya.",
+            "Surroundings": "Nearest JR station for Kakamigahara city hall; Meitetsu Shin-Naka Station is a one-minute walk.",
+            "Bus routes": "Kakamigahara Fureai bus 'Shin-Naka-kita-guchi' stop.",
+            "AEON Mall": "Gifu Bus AEON Kakamigahara shuttle route.",
+            "Adjacent stations": "Central Japan Railway (JR Tōkai).",
+            "Takayama Main Line": "Unumajuku (CG01) – Naka (CG02) – Sohara (CG03).",
+            "Railway stations in Kakamigahara": "Naka Station is one of the railway stations in Kakamigahara."
+          },
+          "全文": "Naka Station (那加駅) is a station on the JR Takayama Main Line in Kakamigahara, Gifu Prefecture, Japan.\n\nHistory\nNov 1, 1920: opened with the Gifu–Kagamigahara section of the Takayama Line; passenger and freight.\n\nStation layout\nAn at-grade station with two opposed side platforms allowing passing; the wooden building was rebuilt in concrete.\n\nUsage\nRidership has grown since privatization as it is faster than Meitetsu via Gifu for Nagoya.\n\nSurroundings\nNearest JR station for Kakamigahara city hall; Meitetsu Shin-Naka Station is a one-minute walk.\n\nBus routes\nKakamigahara Fureai bus 'Shin-Naka-kita-guchi' stop.\n\nAEON Mall\nGifu Bus AEON Kakamigahara shuttle route.\n\nAdjacent stations\nCentral Japan Railway (JR Tōkai).\n\nTakayama Main Line\nUnumajuku (CG01) – Naka (CG02) – Sohara (CG03).\n\nRailway stations in Kakamigahara\nNaka Station is one of the railway stations in Kakamigahara.",
+          "字数": 883
         }
       },
       "结构化信息": {
@@ -1233,10 +1388,18 @@
         "英文": {
           "词条标题": "Nagamori Station",
           "链接": "https://en.wikipedia.org/wiki/Nagamori_Station",
-          "首段": "Nagamori Station (長森駅, Nagamori-eki) is a station on the JR Tōkai Takayama Main Line in Gifu, Gifu Prefecture, Japan. Station number CG01.",
-          "章节": {},
-          "全文": "Nagamori Station (長森駅, Nagamori-eki) is a station on the JR Tōkai Takayama Main Line in Gifu, Gifu Prefecture, Japan. Station number CG01.",
-          "字数": 138
+          "首段": "Nagamori Station (長森駅) is a station on the JR Takayama Main Line in Gifu, Gifu Prefecture, Japan.",
+          "章节": {
+            "History": "Opened on the Takayama Main Line.",
+            "Station layout": "An at-grade station with a side platform.",
+            "Surroundings": "Tekurisu Shrine is nearby.",
+            "Tekarisu Shrine": "A local shrine after which the area is named.",
+            "Adjacent stations": "Central Japan Railway (JR Tōkai).",
+            "Takayama Main Line": "Gifu (CG00) – Nagamori (CG01) – Unumajuku.",
+            "Railway stations in Gifu": "Nagamori Station is one of the railway stations in Gifu City."
+          },
+          "全文": "Nagamori Station (長森駅) is a station on the JR Takayama Main Line in Gifu, Gifu Prefecture, Japan.\n\nHistory\nOpened on the Takayama Main Line.\n\nStation layout\nAn at-grade station with a side platform.\n\nSurroundings\nTekurisu Shrine is nearby.\n\nTekarisu Shrine\nA local shrine after which the area is named.\n\nAdjacent stations\nCentral Japan Railway (JR Tōkai).\n\nTakayama Main Line\nGifu (CG00) – Nagamori (CG01) – Unumajuku.\n\nRailway stations in Gifu\nNagamori Station is one of the railway stations in Gifu City.",
+          "字数": 506
         }
       },
       "结构化信息": {
@@ -1315,10 +1478,23 @@
         "英文": {
           "词条标题": "Unuma Station",
           "链接": "https://en.wikipedia.org/wiki/Unuma_Station",
-          "首段": "Unuma Station (鵜沼駅, Unuma-eki) is a station on the JR Tōkai Takayama Main Line in Kakamigahara, Gifu Prefecture, Japan. Station number CG05.",
-          "章节": {},
-          "全文": "Unuma Station (鵜沼駅, Unuma-eki) is a station on the JR Tōkai Takayama Main Line in Kakamigahara, Gifu Prefecture, Japan. Station number CG05.",
-          "字数": 140
+          "首段": "Unuma Station (鵜沼駅) is a station on the JR Takayama Main Line in Kakamigahara, Gifu Prefecture, Japan.",
+          "章节": {
+            "History": "Opened on the Takayama Main Line; modernization work on Unuma/Shin-Unuma stations was carried out.",
+            "Unuma improvement": "Station renovation and grade-separation work was undertaken.",
+            "Station layout": "An at-grade station with side platforms.",
+            "Usage": "Daily boardings are recorded in the Gifu statistics.",
+            "Facilities": "A shop near the gate has been replaced by vending machines.",
+            "Bus routes": "Gifu Bus and Kakamigahara Fureai bus routes.",
+            "Gifu Bus": "Routes for central Kakamigahara.",
+            "Kakamigahara Fureai bus": "Community bus services.",
+            "Adjacent stations": "Central Japan Railway (JR Tōkai).",
+            "Takayama Main Line": "Kagamigahara (CG04) – Unuma (CG05) – Sakahogi (CG06).",
+            "Railway stations in Kakamigahara": "Unuma Station is one of the railway stations in Kakamigahara.",
+            "Facilities note": "Barrier-free elevators and accessible toilets were installed during the station improvement work."
+          },
+          "全文": "Unuma Station (鵜沼駅) is a station on the JR Takayama Main Line in Kakamigahara, Gifu Prefecture, Japan.\n\nHistory\nOpened on the Takayama Main Line; modernization work on Unuma/Shin-Unuma stations was carried out.\n\nUnuma improvement\nStation renovation and grade-separation work was undertaken.\n\nStation layout\nAn at-grade station with side platforms.\n\nUsage\nDaily boardings are recorded in the Gifu statistics.\n\nFacilities\nA shop near the gate has been replaced by vending machines.\n\nBus routes\nGifu Bus and Kakamigahara Fureai bus routes.\n\nGifu Bus\nRoutes for central Kakamigahara.\n\nKakamigahara Fureai bus\nCommunity bus services.\n\nAdjacent stations\nCentral Japan Railway (JR Tōkai).\n\nTakayama Main Line\nKagamigahara (CG04) – Unuma (CG05) – Sakahogi (CG06).\n\nRailway stations in Kakamigahara\nUnuma Station is one of the railway stations in Kakamigahara.\n\nFacilities note\nBarrier-free elevators and accessible toilets were installed during the station improvement work.",
+          "字数": 966
         }
       },
       "结构化信息": {
