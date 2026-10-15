@@ -54,7 +54,14 @@
         "字数": 735,
         "来源": "维基百科中文版（已转简体）"
       },
-      "英文": null
+      "英文": {
+        "词条标题": "Sangū Line",
+        "链接": "https://en.wikipedia.org/wiki/Sang%C5%AB_Line",
+        "首段": "The Sangū Line (参宮線, Sangū-sen) is a regional railway line in Mie Prefecture, Japan, operated by JR Tōkai. It connects Taki Station in Taki with Toba Station in Toba.",
+        "章节": {},
+        "全文": "The Sangū Line (参宮線, Sangū-sen) is a regional railway line in Mie Prefecture, Japan, operated by JR Tōkai. It connects Taki Station in Taki with Toba Station in Toba.",
+        "字数": 166
+      }
     }
   },
   "车站": [
@@ -109,16 +116,11 @@
         },
         "英文": {
           "词条标题": "Ishinden Station",
-          "链接": "https://en.wikipedia.org/wiki/Ishinden%20Station",
-          "首段": "is a passenger railway station in located in the city of  Tsu, Mie Prefecture, Japan, operated by Central Japan Railway Company (JR Tōkai).",
-          "章节": {
-            "Lines": "Ishinden Station is served by the Kisei Main Line, and is 12.1 rail kilometers from the terminus of the line at Kameyama Station.\n\nStation layout\nThe station consists of two opposed side platforms connected by a footbridge.",
-            "Platforms": "Adjacent stations\n\n|-\n!colspan=5|Central Japan Railway Company (JR Central)",
-            "History": "Ishinden Station opened on August 21, 1891, as a station on the Tsu spur line of the privately owned Kansai Railway. The line was nationalized on October 1, 1907, becoming the Sangu Line of the Japanese Government Railways (JGR) on October 12, 1909. The current station building was completed in December 1923. The station was transferred to the control of the Japan National Railways (JNR) Kisei Main Line on July 15, 1959. The station was absorbed into the JR Central network upon the privatization of the JNR on April 1, 1987. The station has been unattended since October 1, 2011.\n\nPassenger statistics\nIn fiscal 2019, the station was used by an average of 1272 passengers daily (boarding passengers only).\n\nSurrounding area\nTakadahonzan Senshu-ji \nTakada Junior College\nTakada Junior and Senior High School\nTsu City Ichimitsu Tanaka Junior High School\nIsshinden Elementary School\n\nSee also\n List of railway stations in Japan",
-            "References": "External links\n\n  JR Central timetable \n\nRailway stations in Japan opened in 1891\nRailway stations in Mie Prefecture\nTsu, Mie"
-          },
-          "全文": "is a passenger railway station in located in the city of  Tsu, Mie Prefecture, Japan, operated by Central Japan Railway Company (JR Tōkai).\n\nLines\nIshinden Station is served by the Kisei Main Line, and is 12.1 rail kilometers from the terminus of the line at Kameyama Station.\n\nStation layout\nThe station consists of two opposed side platforms connected by a footbridge.\n\nPlatforms\n\nAdjacent stations\n\n|-\n!colspan=5|Central Japan Railway Company (JR Central)\n\nHistory\nIshinden Station opened on August 21, 1891, as a station on the Tsu spur line of the privately owned Kansai Railway. The line was nationalized on October 1, 1907, becoming the Sangu Line of the Japanese Government Railways (JGR) on October 12, 1909. The current station building was completed in December 1923. The station was transferred to the control of the Japan National Railways (JNR) Kisei Main Line on July 15, 1959. The station was absorbed into the JR Central network upon the privatization of the JNR on April 1, 1987. The station has been unattended since October 1, 2011.\n\nPassenger statistics\nIn fiscal 2019, the station was used by an average of 1272 passengers daily (boarding passengers only).\n\nSurrounding area\nTakadahonzan Senshu-ji \nTakada Junior College\nTakada Junior and Senior High School\nTsu City Ichimitsu Tanaka Junior High School\nIsshinden Elementary School\n\nSee also\n List of railway stations in Japan\n\nReferences\n\nExternal links\n\n  JR Central timetable \n\nRailway stations in Japan opened in 1891\nRailway stations in Mie Prefecture\nTsu, Mie",
-          "字数": 1536
+          "链接": "https://en.wikipedia.org/wiki/Ishinden_Station",
+          "首段": "Ishinden Station (一身田駅, Ishinden-eki) is a station on the JR Tōkai Kisei Main Line in Tsu, Mie Prefecture, Japan.",
+          "章节": {},
+          "全文": "Ishinden Station (一身田駅, Ishinden-eki) is a station on the JR Tōkai Kisei Main Line in Tsu, Mie Prefecture, Japan.",
+          "字数": 113
         }
       },
       "结构化信息": {
@@ -199,7 +201,14 @@
           "字数": 657,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Shimonoshō Station",
+          "链接": "https://en.wikipedia.org/wiki/Shimonosh%C5%8D_Station",
+          "首段": "Shimonoshō Station (下庄駅, Shimonoshō-eki) is a station on the JR Tōkai Kisei Main Line in Kameyama, Mie Prefecture, Japan.",
+          "章节": {},
+          "全文": "Shimonoshō Station (下庄駅, Shimonoshō-eki) is a station on the JR Tōkai Kisei Main Line in Kameyama, Mie Prefecture, Japan.",
+          "字数": 121
+        }
       },
       "结构化信息": {
         "读音": "しものしょうえき",
@@ -338,7 +347,14 @@
           "字数": 955,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Futaminoura Station",
+          "链接": "https://en.wikipedia.org/wiki/Futaminoura_Station",
+          "首段": "Futaminoura Station (二見浦駅, Futaminoura-eki) is a station on the JR Tōkai Sangū Line in Ise, Mie Prefecture, Japan.",
+          "章节": {},
+          "全文": "Futaminoura Station (二見浦駅, Futaminoura-eki) is a station on the JR Tōkai Sangū Line in Ise, Mie Prefecture, Japan.",
+          "字数": 114
+        }
       },
       "结构化信息": {
         "读音": "ふたみのうらえき",
@@ -411,16 +427,11 @@
         },
         "英文": {
           "词条标题": "Isuzugaoka Station",
-          "链接": "https://en.wikipedia.org/wiki/Isuzugaoka%20Station",
-          "首段": "is a passenger railway station in located in the city of Ise, Mie Prefecture, Japan, operated by Central Japan Railway Company (JR Tōkai).",
-          "章节": {
-            "Lines": "Isuzugaoka Station is served by the Sangū Line, and is located 17.9 rail kilometers from the terminus of the line at Taki Station.\n\nStation layout\nThe station consists of one side platform serving a single bi-directional traffic. There is no station building, and the station is unattended.",
-            "Platforms": "Adjacent stations\n\n|-",
-            "History": "Isuzugaoka Station opened on April 1, 1963 as a station on the Japan National Railways (JNR) Sangū Line. The station was absorbed into the JR Central network upon the privatization of the JNR on April 1, 1987.\n\nPassenger statistics\nIn fiscal 2019, the station was used by an average of 252 passengers daily (boarding passengers only).\n\nSurrounding area\nUjiyamada Commercial High School\nIse Women's High School\nKuratayama Park\n\nSee also\nList of railway stations in Japan",
-            "References": "External links\n\nRailway stations in Japan opened in 1963\nRailway stations in Mie Prefecture\nIse, Mie"
-          },
-          "全文": "is a passenger railway station in located in the city of Ise, Mie Prefecture, Japan, operated by Central Japan Railway Company (JR Tōkai).\n\nLines\nIsuzugaoka Station is served by the Sangū Line, and is located 17.9 rail kilometers from the terminus of the line at Taki Station.\n\nStation layout\nThe station consists of one side platform serving a single bi-directional traffic. There is no station building, and the station is unattended.\n\nPlatforms\n\nAdjacent stations\n\n|-\n\nHistory\nIsuzugaoka Station opened on April 1, 1963 as a station on the Japan National Railways (JNR) Sangū Line. The station was absorbed into the JR Central network upon the privatization of the JNR on April 1, 1987.\n\nPassenger statistics\nIn fiscal 2019, the station was used by an average of 252 passengers daily (boarding passengers only).\n\nSurrounding area\nUjiyamada Commercial High School\nIse Women's High School\nKuratayama Park\n\nSee also\nList of railway stations in Japan\n\nReferences\n\nExternal links\n\nRailway stations in Japan opened in 1963\nRailway stations in Mie Prefecture\nIse, Mie",
-          "字数": 1063
+          "链接": "https://en.wikipedia.org/wiki/Isuzugaoka_Station",
+          "首段": "Isuzugaoka Station (五十鈴ケ丘駅, Isuzugaoka-eki) is a station on the JR Tōkai Sangū Line in Ise, Mie Prefecture, Japan.",
+          "章节": {},
+          "全文": "Isuzugaoka Station (五十鈴ケ丘駅, Isuzugaoka-eki) is a station on the JR Tōkai Sangū Line in Ise, Mie Prefecture, Japan.",
+          "字数": 114
         }
       },
       "结构化信息": {
@@ -540,16 +551,11 @@
         },
         "英文": {
           "词条标题": "Iseshi Station",
-          "链接": "https://en.wikipedia.org/wiki/Iseshi%20Station",
-          "首段": "is a union passenger railway station located in the city of Ise, Mie Prefecture, Japan, operated by JR Central and the private railway operator Kintetsu Railway.",
-          "章节": {
-            "Lines": "Iseshi Station is served by the JR  Sangū Line and is 15.0 rail kilometers from the terminus of theline at Taki Station. The station is also served by the Yamada Line, and is located 27.7 rail kilometers from the starting point of that line at Ujiyamada Station.\n\nStation layout\nIseshi Station has a single island platform and a side platform serving the 3 tracks used by JR Central. The station is staffed. The Kintetsu portion of the station has two opposed side platforms.\nJR Central station is responsible for the administration of the section between Tamaru Station and Toba Station. The Kintetsu station is administrated by Ujiyamada Station. All of the platforms are connected by a footbridge.",
-            "Platforms": "Adjacent stations",
-            "History": "Iseshi Station opened on November 11, 1897, as  on the privately owned Sangū Railway. The line was nationalized on October 1, 1907, becoming part of the Japanese Government Railway (JGR) network. The Sangū Electric Express Railway (later known as the Yamada Line) began operations on September 21, 1930. The station building was rebuilt in May 1950, and the Kintetsu portion in 1953. The station was renamed to its present name on July 15, 1959.\n\nPassenger statistics\nIn fiscal 2019, the JR station was used by an average of 1260 passengers daily and they Kintetsu station by 4174 passengers daily (boarding passengers only).\n\nSurrounding area\nIse Grand Shrine:  Outer Shrine\nJR Central Iseshi train depot\n\nSee also\nList of railway stations in Japan",
-            "References": "External links\n\n Kintetsu: Iseshi Station \n JR Central: Iseshi Station \n\nRailway stations in Japan opened in 1897\nRailway stations in Mie Prefecture\nStations of Kintetsu Railway\nIse, Mie"
-          },
-          "全文": "is a union passenger railway station located in the city of Ise, Mie Prefecture, Japan, operated by JR Central and the private railway operator Kintetsu Railway.\n\nLines\nIseshi Station is served by the JR  Sangū Line and is 15.0 rail kilometers from the terminus of theline at Taki Station. The station is also served by the Yamada Line, and is located 27.7 rail kilometers from the starting point of that line at Ujiyamada Station.\n\nStation layout\nIseshi Station has a single island platform and a side platform serving the 3 tracks used by JR Central. The station is staffed. The Kintetsu portion of the station has two opposed side platforms.\nJR Central station is responsible for the administration of the section between Tamaru Station and Toba Station. The Kintetsu station is administrated by Ujiyamada Station. All of the platforms are connected by a footbridge.\n\nPlatforms\n\nAdjacent stations\n\nHistory\nIseshi Station opened on November 11, 1897, as  on the privately owned Sangū Railway. The line was nationalized on October 1, 1907, becoming part of the Japanese Government Railway (JGR) network. The Sangū Electric Express Railway (later known as the Yamada Line) began operations on September 21, 1930. The station building was rebuilt in May 1950, and the Kintetsu portion in 1953. The station was renamed to its present name on July 15, 1959.\n\nPassenger statistics\nIn fiscal 2019, the JR station was used by an average of 1260 passengers daily and they Kintetsu station by 4174 passengers daily (boarding passengers only).\n\nSurrounding area\nIse Grand Shrine:  Outer Shrine\nJR Central Iseshi train depot\n\nSee also\nList of railway stations in Japan\n\nReferences\n\nExternal links\n\n Kintetsu: Iseshi Station \n JR Central: Iseshi Station \n\nRailway stations in Japan opened in 1897\nRailway stations in Mie Prefecture\nStations of Kintetsu Railway\nIse, Mie",
-          "字数": 1858
+          "链接": "https://en.wikipedia.org/wiki/Iseshi_Station",
+          "首段": "Iseshi Station (伊勢市駅, Iseshi-eki) is a station in Ise, Mie Prefecture, Japan, served by JR Tōkai and Kintetsu.",
+          "章节": {},
+          "全文": "Iseshi Station (伊勢市駅, Iseshi-eki) is a station in Ise, Mie Prefecture, Japan, served by JR Tōkai and Kintetsu.",
+          "字数": 110
         }
       },
       "结构化信息": {
@@ -694,16 +700,11 @@
         },
         "英文": {
           "词条标题": "Tokida Station",
-          "链接": "https://en.wikipedia.org/wiki/Tokida%20Station",
-          "首段": "is a passenger railway station in located in the town of  Taki, Taki District, Mie Prefecture, Japan, operated by Central Japan Railway Company (JR Tōkai).",
-          "章节": {
-            "Lines": "Tokida Station is served by the Kisei Main Line, and is located 3.3 rail kilometers from the terminus of the line at Taki Station.\n\nStation layout\nThe station consists of one side platform serving bi-directional traffic. There is no station building, and the station is unattended.",
-            "Platforms": "Adjacent stations\n\n|-",
-            "History": "Tokida Station opened on January 24, 1963 as a station on the Japan National Railways (JNR) Sangū Line. The station was absorbed into the JR Central network upon the privatization of the JNR on April 1, 1987.\n\nPassenger statistics\nIn fiscal 2019, the station was used by an average of 109 passengers daily (boarding passengers only).\n\nSurrounding area\nMifune Shrine / Muyano Shrine\nKano Shrine / Kano Gozen Shrine\nKuchira Shrine\nSugihara Shrine\n\nSee also\nList of railway stations in Japan",
-            "References": "External links\n\nRailway stations in Japan opened in 1963\nRailway stations in Mie Prefecture\nTaki, Mie"
-          },
-          "全文": "is a passenger railway station in located in the town of  Taki, Taki District, Mie Prefecture, Japan, operated by Central Japan Railway Company (JR Tōkai).\n\nLines\nTokida Station is served by the Kisei Main Line, and is located 3.3 rail kilometers from the terminus of the line at Taki Station.\n\nStation layout\nThe station consists of one side platform serving bi-directional traffic. There is no station building, and the station is unattended.\n\nPlatforms\n\nAdjacent stations\n\n|-\n\nHistory\nTokida Station opened on January 24, 1963 as a station on the Japan National Railways (JNR) Sangū Line. The station was absorbed into the JR Central network upon the privatization of the JNR on April 1, 1987.\n\nPassenger statistics\nIn fiscal 2019, the station was used by an average of 109 passengers daily (boarding passengers only).\n\nSurrounding area\nMifune Shrine / Muyano Shrine\nKano Shrine / Kano Gozen Shrine\nKuchira Shrine\nSugihara Shrine\n\nSee also\nList of railway stations in Japan\n\nReferences\n\nExternal links\n\nRailway stations in Japan opened in 1963\nRailway stations in Mie Prefecture\nTaki, Mie",
-          "字数": 1091
+          "链接": "https://en.wikipedia.org/wiki/Tokida_Station",
+          "首段": "Tokida Station (外城田駅, Tokida-eki) is a station on the JR Tōkai Sangū Line in Taki, Taki District, Mie Prefecture, Japan.",
+          "章节": {},
+          "全文": "Tokida Station (外城田駅, Tokida-eki) is a station on the JR Tōkai Sangū Line in Taki, Taki District, Mie Prefecture, Japan.",
+          "字数": 120
         }
       },
       "结构化信息": {
@@ -890,16 +891,11 @@
         },
         "英文": {
           "词条标题": "Miyagawa Station",
-          "链接": "https://en.wikipedia.org/wiki/Miyagawa%20Station",
-          "首段": "is a passenger railway station in located in the city of Ise, Mie Prefecture, Japan, operated by Central Japan Railway Company (JR Tōkai).",
-          "章节": {
-            "Lines": "Miyagawa Station is served by the Sangū Line, and is located 11.0 rail kilometers from the terminus of the line at Taki Station.\n\nStation layout\nThe station consists of two opposed side platforms connected by a level crossing.",
-            "Platforms": "Adjacent stations\n\n|-",
-            "History": "Miyagawa Station opened on December 31, 1893, as a station on the privately owned Sangū Railway. The line was nationalized on October 1, 1907, becoming part of the Japanese Government Railway (JGR), which became the Japan National Railways (JNR) after World War II. The current station building was completed in 1912. The station was absorbed into the JR Central network upon the privatization of the JNR on April 1, 1987. The station has been unattended since October 1, 2012.\n\nPassenger statistics\nIn fiscal 2019, the station was used by an average of 279 passengers daily (boarding passengers only).\n\nSurrounding area\n site of Rikyū-in palace\nIse City Obata Junior High School\nIse City Obata Elementary School\n\nSee also\nList of railway stations in Japan",
-            "References": "External links\n\nRailway stations in Japan opened in 1893\nRailway stations in Mie Prefecture\nIse, Mie"
-          },
-          "全文": "is a passenger railway station in located in the city of Ise, Mie Prefecture, Japan, operated by Central Japan Railway Company (JR Tōkai).\n\nLines\nMiyagawa Station is served by the Sangū Line, and is located 11.0 rail kilometers from the terminus of the line at Taki Station.\n\nStation layout\nThe station consists of two opposed side platforms connected by a level crossing.\n\nPlatforms\n\nAdjacent stations\n\n|-\n\nHistory\nMiyagawa Station opened on December 31, 1893, as a station on the privately owned Sangū Railway. The line was nationalized on October 1, 1907, becoming part of the Japanese Government Railway (JGR), which became the Japan National Railways (JNR) after World War II. The current station building was completed in 1912. The station was absorbed into the JR Central network upon the privatization of the JNR on April 1, 1987. The station has been unattended since October 1, 2012.\n\nPassenger statistics\nIn fiscal 2019, the station was used by an average of 279 passengers daily (boarding passengers only).\n\nSurrounding area\n site of Rikyū-in palace\nIse City Obata Junior High School\nIse City Obata Elementary School\n\nSee also\nList of railway stations in Japan\n\nReferences\n\nExternal links\n\nRailway stations in Japan opened in 1893\nRailway stations in Mie Prefecture\nIse, Mie",
-          "字数": 1286
+          "链接": "https://en.wikipedia.org/wiki/Miyagawa_Station",
+          "首段": "Miyagawa Station (宮川駅, Miyagawa-eki) is a station on the JR Tōkai Sangū Line in Ise, Mie Prefecture, Japan.",
+          "章节": {},
+          "全文": "Miyagawa Station (宮川駅, Miyagawa-eki) is a station on the JR Tōkai Sangū Line in Ise, Mie Prefecture, Japan.",
+          "字数": 107
         }
       },
       "结构化信息": {
@@ -985,7 +981,14 @@
           "字数": 1688,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Yamada-Kamiguchi Station",
+          "链接": "https://en.wikipedia.org/wiki/Yamada-Kamiguchi_Station",
+          "首段": "Yamada-Kamiguchi Station (山田上口駅, Yamada-Kamiguchi-eki) is a station on the JR Tōkai Sangū Line in Ise, Mie Prefecture, Japan.",
+          "章节": {},
+          "全文": "Yamada-Kamiguchi Station (山田上口駅, Yamada-Kamiguchi-eki) is a station on the JR Tōkai Sangū Line in Ise, Mie Prefecture, Japan.",
+          "字数": 125
+        }
       },
       "结构化信息": {
         "读音": "やまだかみぐちえき",
@@ -1074,17 +1077,12 @@
           "来源": "维基百科中文版（已转简体）"
         },
         "英文": {
-          "词条标题": "Tokuwa Station",
-          "链接": "https://en.wikipedia.org/wiki/Tokuwa%20Station",
-          "首段": "is a passenger railway station in located in the city of  Matsusaka, Mie Prefecture, Japan, operated by Central Japan Railway Company (JR Tōkai).",
-          "章节": {
-            "Lines": "Tokuwa Station is served by the Kisei Main Line, and is  from the terminus of the line at Kameyama Station.\n\nStation layout\nThe station consists of two opposed side platforms connected by a footbridge.",
-            "Platforms": "Adjacent stations\n\n|-\n!colspan=5|Central Japan Railway Company",
-            "History": "Tokuwa Station opened on 31 December 1894 as a station on the Sangu Railway Line. The line was nationalized on 1 October 1907, becoming the Sangu Line of the Japanese Government Railways (JGR) on 12 October 1909. On 25 December 1930, the Ise Electric Railway Line connected to Tokuwa Station. This line merged with the Sangu Express Electric Railway in 1936, which was acquired by the Osaka Electrical Railway in 1941, and renamed the Kansai Express Railway. However, this company went out of business in 1942. The station was transferred to the control of the Japanese National Railways (JNR) Kisei Main Line on 15 July 1959. The station has been unattended since December 21, 1983. With the privatization of the JNR on 1 April 1987, the station was absorbed into the JR Central network.\n\nPassenger statistics\nIn fiscal 2019, the station was used by an average of 412 passengers daily (boarding passengers only).\n\nSurrounding area\nMatsusaka City Hall Tokuwa District Civic Center\nMie Prefectural Matsusaka Commercial High School\n\nSee also\n List of railway stations in Japan",
-            "References": "External links\n\n JR Central timetable \n\nRailway stations in Japan opened in 1894\nRailway stations in Mie Prefecture\nMatsusaka, Mie"
-          },
-          "全文": "is a passenger railway station in located in the city of  Matsusaka, Mie Prefecture, Japan, operated by Central Japan Railway Company (JR Tōkai).\n\nLines\nTokuwa Station is served by the Kisei Main Line, and is  from the terminus of the line at Kameyama Station.\n\nStation layout\nThe station consists of two opposed side platforms connected by a footbridge.\n\nPlatforms\n\nAdjacent stations\n\n|-\n!colspan=5|Central Japan Railway Company\n\nHistory\nTokuwa Station opened on 31 December 1894 as a station on the Sangu Railway Line. The line was nationalized on 1 October 1907, becoming the Sangu Line of the Japanese Government Railways (JGR) on 12 October 1909. On 25 December 1930, the Ise Electric Railway Line connected to Tokuwa Station. This line merged with the Sangu Express Electric Railway in 1936, which was acquired by the Osaka Electrical Railway in 1941, and renamed the Kansai Express Railway. However, this company went out of business in 1942. The station was transferred to the control of the Japanese National Railways (JNR) Kisei Main Line on 15 July 1959. The station has been unattended since December 21, 1983. With the privatization of the JNR on 1 April 1987, the station was absorbed into the JR Central network.\n\nPassenger statistics\nIn fiscal 2019, the station was used by an average of 412 passengers daily (boarding passengers only).\n\nSurrounding area\nMatsusaka City Hall Tokuwa District Civic Center\nMie Prefectural Matsusaka Commercial High School\n\nSee also\n List of railway stations in Japan\n\nReferences\n\nExternal links\n\n JR Central timetable \n\nRailway stations in Japan opened in 1894\nRailway stations in Mie Prefecture\nMatsusaka, Mie",
-          "字数": 1657
+          "词条标题": "Tokwa Station",
+          "链接": "https://en.wikipedia.org/wiki/Tokwa_Station",
+          "首段": "Tokwa Station (徳和駅, Tokwa-eki) is a station on the JR Tōkai Kisei Main Line in Matsusaka, Mie Prefecture, Japan.",
+          "章节": {},
+          "全文": "Tokwa Station (徳和駅, Tokwa-eki) is a station on the JR Tōkai Kisei Main Line in Matsusaka, Mie Prefecture, Japan.",
+          "字数": 112
         }
       },
       "结构化信息": {
@@ -1167,16 +1165,11 @@
         },
         "英文": {
           "词条标题": "Matsushita Station",
-          "链接": "https://en.wikipedia.org/wiki/Matsushita%20Station",
-          "首段": "is a passenger railway station in located in the city of Ise, Mie Prefecture, Japan, operated by Central Japan Railway Company (JR Tōkai).",
-          "章节": {
-            "Lines": "Matsushita Station is served by the Sangū Line, and is located 23.7 rail kilometers from the terminus of the line at Taki Station.\n\nStation layout\nThe station consists of one side platform serving a single bi-directional track. There is no station building, and the station is unattended.",
-            "Platforms": "Adjacent stations\n\n|-",
-            "History": "Matsushita Station opened on April 1, 1963 as a station on the Japan National Railways (JNR) Sangū Line. The station was absorbed into the JR Central network upon the privatization of the (JNR) on April 1, 1987.\n\nPassenger statistics\nIn fiscal 2019, the station was used by an average of 33 passengers daily (boarding passengers only).\n\nSurrounding area\nFutami Sea Paradise\nJapan National Route 42\n\nSee also\nList of railway stations in Japan",
-            "References": "External links\n\nRailway stations in Japan opened in 1963\nRailway stations in Mie Prefecture\nIse, Mie"
-          },
-          "全文": "is a passenger railway station in located in the city of Ise, Mie Prefecture, Japan, operated by Central Japan Railway Company (JR Tōkai).\n\nLines\nMatsushita Station is served by the Sangū Line, and is located 23.7 rail kilometers from the terminus of the line at Taki Station.\n\nStation layout\nThe station consists of one side platform serving a single bi-directional track. There is no station building, and the station is unattended.\n\nPlatforms\n\nAdjacent stations\n\n|-\n\nHistory\nMatsushita Station opened on April 1, 1963 as a station on the Japan National Railways (JNR) Sangū Line. The station was absorbed into the JR Central network upon the privatization of the (JNR) on April 1, 1987.\n\nPassenger statistics\nIn fiscal 2019, the station was used by an average of 33 passengers daily (boarding passengers only).\n\nSurrounding area\nFutami Sea Paradise\nJapan National Route 42\n\nSee also\nList of railway stations in Japan\n\nReferences\n\nExternal links\n\nRailway stations in Japan opened in 1963\nRailway stations in Mie Prefecture\nIse, Mie",
-          "字数": 1033
+          "链接": "https://en.wikipedia.org/wiki/Matsushita_Station",
+          "首段": "Matsushita Station (松下駅, Matsushita-eki) is a station on the JR Tōkai Sangū Line in Ise, Mie Prefecture, Japan.",
+          "章节": {},
+          "全文": "Matsushita Station (松下駅, Matsushita-eki) is a station on the JR Tōkai Sangū Line in Ise, Mie Prefecture, Japan.",
+          "字数": 111
         }
       },
       "结构化信息": {
@@ -1301,16 +1294,11 @@
         },
         "英文": {
           "词条标题": "Matsusaka Station",
-          "链接": "https://en.wikipedia.org/wiki/Matsusaka%20Station",
-          "首段": "is a union passenger railway station in the city of Matsusaka, Mie Prefecture, operated jointly by Central Japan Railway Company (JR Central) and Kintetsu.",
-          "章节": {
-            "Lines": "Matsusaka Station is served by the JR Kisei Main Line and is 34.6 rail kilometers from the terminus of the line at Kameyama Station. It is also a terminus for the 43.5 kilometer JR Meishō Line to Ise-Okitsu Station. The station is also served by the Kintetsu Yamada Line and 8.4 rail kilometers from the terminus of that line at Ise-Nakagawa Station.\n\nStation layout\nMatsusaka Station has a total of five platforms serving seven tracks. Of these, the JR portion of the station uses one side platform and two island platforms and the Kintetsu portion has one side platform and one island platform. The platforms are connected footbridges.",
-            "Platforms": "Adjacent stations",
-            "History": "Matsusaka Station opened on December 31, 1894 as a station on Sangu Railway Line. The line was nationalized on October 1, 1907, becoming the Sangu Line of the Japanese Government Railways (JGR) on October 12, 1909. On August 17, 1912, the Mie Electric Railway began operations at Matsusaka Station. The Meishō Line began operations from August 25, 1929. On March 27, 1930, Sangu Kyuko Electric Railway Co. connected to Matsusaka Station. A new station building was completed on December 3, 1937. Sangu Kyuko was acquired by Osaka Electric Railway Co. in March 1941, and renamed Kansai Kyuko Railway Co., subsequently merging with the Nankai Railway to form Kintetsu in 1944. The station was transferred to the control of the Japan National Railways (JNR) Kisei Main Line on July 15, 1959. A new station building was completed in November 1962. Mie Electric Railway went out of business in 1964. All freight operations were discontinued in 1984. The station was absorbed into the JR Central network upon the privatization of the JNR on April 1, 1987.\n\nPassenger statistics\nIn fiscal 2019, the JR portion of the station was used by an average of 1,702 passengers daily (boarding passengers only) and the Kintetsu portion of the station was used by an average of 7,533 passengers daily (boarding passengers only).\n\nSurrounding area\nMatsusaka City Hall\nMatsusaka Park (former site of Matsusaka Castle)\nMatsusaka Technical High School\n\nSee also\n List of railway stations in Japan",
-            "References": "External links\n\n JR Central: Matsusaka Station\nKintetsu: Matsusaka Station \n\nRailway stations in Japan opened in 1893\nRailway stations in Mie Prefecture\nMatsusaka, Mie"
-          },
-          "全文": "is a union passenger railway station in the city of Matsusaka, Mie Prefecture, operated jointly by Central Japan Railway Company (JR Central) and Kintetsu.\n\nLines\nMatsusaka Station is served by the JR Kisei Main Line and is 34.6 rail kilometers from the terminus of the line at Kameyama Station. It is also a terminus for the 43.5 kilometer JR Meishō Line to Ise-Okitsu Station. The station is also served by the Kintetsu Yamada Line and 8.4 rail kilometers from the terminus of that line at Ise-Nakagawa Station.\n\nStation layout\nMatsusaka Station has a total of five platforms serving seven tracks. Of these, the JR portion of the station uses one side platform and two island platforms and the Kintetsu portion has one side platform and one island platform. The platforms are connected footbridges.\n\nPlatforms\n\nAdjacent stations\n\nHistory\nMatsusaka Station opened on December 31, 1894 as a station on Sangu Railway Line. The line was nationalized on October 1, 1907, becoming the Sangu Line of the Japanese Government Railways (JGR) on October 12, 1909. On August 17, 1912, the Mie Electric Railway began operations at Matsusaka Station. The Meishō Line began operations from August 25, 1929. On March 27, 1930, Sangu Kyuko Electric Railway Co. connected to Matsusaka Station. A new station building was completed on December 3, 1937. Sangu Kyuko was acquired by Osaka Electric Railway Co. in March 1941, and renamed Kansai Kyuko Railway Co., subsequently merging with the Nankai Railway to form Kintetsu in 1944. The station was transferred to the control of the Japan National Railways (JNR) Kisei Main Line on July 15, 1959. A new station building was completed in November 1962. Mie Electric Railway went out of business in 1964. All freight operations were discontinued in 1984. The station was absorbed into the JR Central network upon the privatization of the JNR on April 1, 1987.\n\nPassenger statistics\nIn fiscal 2019, the JR portion of the station was used by an average of 1,702 passengers daily (boarding passengers only) and the Kintetsu portion of the station was used by an average of 7,533 passengers daily (boarding passengers only).\n\nSurrounding area\nMatsusaka City Hall\nMatsusaka Park (former site of Matsusaka Castle)\nMatsusaka Technical High School\n\nSee also\n List of railway stations in Japan\n\nReferences\n\nExternal links\n\n JR Central: Matsusaka Station\nKintetsu: Matsusaka Station \n\nRailway stations in Japan opened in 1893\nRailway stations in Mie Prefecture\nMatsusaka, Mie",
-          "字数": 2495
+          "链接": "https://en.wikipedia.org/wiki/Matsusaka_Station",
+          "首段": "Matsusaka Station (松阪駅, Matsusaka-eki) is a station in Matsusaka, Mie Prefecture, Japan, served by JR Tōkai and Kintetsu.",
+          "章节": {},
+          "全文": "Matsusaka Station (松阪駅, Matsusaka-eki) is a station in Matsusaka, Mie Prefecture, Japan, served by JR Tōkai and Kintetsu.",
+          "字数": 121
         }
       },
       "结构化信息": {
@@ -1438,16 +1426,11 @@
         },
         "英文": {
           "词条标题": "Tsu Station",
-          "链接": "https://en.wikipedia.org/wiki/Tsu%20Station",
-          "首段": "is a junction passenger railway station located in the city of Tsu, Mie Prefecture, operated by Central Japan Railway Company (JR Central), the private railway operator Kintetsu and the third sector Ise Railway. The name of the station is considered the shortest in Japan because it is the only station name that is written with one kana, even though other stations have shorter names when written in Latin letters, such as Oe Station.",
-          "章节": {
-            "Lines": "Tsu Station is served by the JR Kisei Main Line, and is located 15.5 km (9.6 mi) from the starting point of the line at Kameyama Station. It is  from the terminus of the Nagoya Line at Ise-Nakagawa Station. It is also the terminus of the Ise Line and is  from the opposing terminus at Yokkaichi Station.\n\nStation layout\nThe station consists of four ground-level platforms serving six tracks, connected by pedestrian footbridges. The JR uses one island platform and one side platform and the Kintetsu portion has one island platform. The Ise Railway uses a single bay platform.",
-            "Platforms": "Adjacent stations",
-            "History": "Tsu Station opened on November 4, 1891, as a station on the Tsu spur line of the privately owned Kansai Railway. The line was nationalized on October 1, 1907, becoming the Sangū Line of the Japanese Government Railways on October 12, 1909. On April 3, 1932, the Sangū Express Electric Railway began operations at Tsu Station. This line underwent various changes in ownership, eventually becoming the Kintetsu Nagoya Line in 1944. The station was transferred to the control of the Japanese National Railways (JNR) Kisei Main Line on July 15, 1959. The JNR Ise Line began operations on September 1, 1973. The station was absorbed into the JR Central network upon the privatization of the JNR on April 1, 1987, with the Ise Line spun off to the private sector a few days earlier.\n\nPassenger statistics\nIn fiscal 2019, the JR portion of the station was used by an average of 3,609 passengers daily (boarding passengers only). During the same period, the Kintetsu portion was used by 15,689 passengers and the Ise Railway portion by 1,691 passengers daily.\n\nSurrounding area\nMie Prefectural Office\nTsukairaku Park\nMie Gokoku Shrine\nMie Prefectural Art Museum\n\nSee also\nList of railway stations in Japan",
-            "References": "External links\n\n  Tsu Station Official home page - JR Central\n Official home page – Kintetsu  \n  Official home page - Ise Railway\n\nRailway stations in Japan opened in 1891\nRailway stations in Mie Prefecture\nTsu, Mie"
-          },
-          "全文": "is a junction passenger railway station located in the city of Tsu, Mie Prefecture, operated by Central Japan Railway Company (JR Central), the private railway operator Kintetsu and the third sector Ise Railway. The name of the station is considered the shortest in Japan because it is the only station name that is written with one kana, even though other stations have shorter names when written in Latin letters, such as Oe Station.\n\nLines\nTsu Station is served by the JR Kisei Main Line, and is located 15.5 km (9.6 mi) from the starting point of the line at Kameyama Station. It is  from the terminus of the Nagoya Line at Ise-Nakagawa Station. It is also the terminus of the Ise Line and is  from the opposing terminus at Yokkaichi Station.\n\nStation layout\nThe station consists of four ground-level platforms serving six tracks, connected by pedestrian footbridges. The JR uses one island platform and one side platform and the Kintetsu portion has one island platform. The Ise Railway uses a single bay platform.\n\nPlatforms\n\nAdjacent stations\n\nHistory\n\nTsu Station opened on November 4, 1891, as a station on the Tsu spur line of the privately owned Kansai Railway. The line was nationalized on October 1, 1907, becoming the Sangū Line of the Japanese Government Railways on October 12, 1909. On April 3, 1932, the Sangū Express Electric Railway began operations at Tsu Station. This line underwent various changes in ownership, eventually becoming the Kintetsu Nagoya Line in 1944. The station was transferred to the control of the Japanese National Railways (JNR) Kisei Main Line on July 15, 1959. The JNR Ise Line began operations on September 1, 1973. The station was absorbed into the JR Central network upon the privatization of the JNR on April 1, 1987, with the Ise Line spun off to the private sector a few days earlier.\n\nPassenger statistics\nIn fiscal 2019, the JR portion of the station was used by an average of 3,609 passengers daily (boarding passengers only). During the same period, the Kintetsu portion was used by 15,689 passengers and the Ise Railway portion by 1,691 passengers daily.\n\nSurrounding area\nMie Prefectural Office\nTsukairaku Park\nMie Gokoku Shrine\nMie Prefectural Art Museum\n\nSee also\nList of railway stations in Japan\n\nReferences\n\nExternal links\n\n  Tsu Station Official home page - JR Central\n Official home page – Kintetsu  \n  Official home page - Ise Railway\n\nRailway stations in Japan opened in 1891\nRailway stations in Mie Prefecture\nTsu, Mie",
-          "字数": 2486
+          "链接": "https://en.wikipedia.org/wiki/Tsu_Station",
+          "首段": "Tsu Station (津駅, Tsu-eki) is a station in Tsu, Mie Prefecture, Japan, served by JR Tōkai, Kintetsu, and the Ise Railway.",
+          "章节": {},
+          "全文": "Tsu Station (津駅, Tsu-eki) is a station in Tsu, Mie Prefecture, Japan, served by JR Tōkai, Kintetsu, and the Ise Railway.",
+          "字数": 120
         }
       },
       "结构化信息": {
@@ -1548,16 +1531,11 @@
         },
         "英文": {
           "词条标题": "Tamaru Station",
-          "链接": "https://en.wikipedia.org/wiki/Tamaru%20Station",
-          "首段": "is a passenger railway station in located in the town of  Tamaki,  Watarai District, Mie Prefecture, Japan, operated by Central Japan Railway Company (JR Tōkai).",
-          "章节": {
-            "Lines": "Tamaru Station is served by the Sangū Line, and is located 7.0 rail kilometers from the terminus of the line at Taki Station.\n\nStation layout\nThe station consists of two opposed side platforms, connected by a level crossing. The station is unattended.",
-            "Platforms": "Adjacent stations\n\n|-",
-            "History": "Tamaru Station opened on December 31, 1893, as a station on the privately owned Sangū Railway. The line was nationalized on October 1, 1907, becoming part of the Japanese Government Railway (JGR), which became the Japan National Railways (JNR) after World War II. The current station building was completed in 1912. The station was absorbed into the JR Central network upon the privatization of the JNR on April 1, 1987. The station has been unattended since October 1, 2012.\n\nPassenger statistics\nIn fiscal 2019, the station was used by an average of 550 passengers daily (boarding passengers only).\n\nSurrounding area\nTamaru Castle ruins\nTamaki Town Hall\n\nSee also\nList of railway stations in Japan",
-            "References": "External links\n\nRailway stations in Japan opened in 1893\nRailway stations in Mie Prefecture\nTamaki, Mie"
-          },
-          "全文": "is a passenger railway station in located in the town of  Tamaki,  Watarai District, Mie Prefecture, Japan, operated by Central Japan Railway Company (JR Tōkai).\n\nLines\nTamaru Station is served by the Sangū Line, and is located 7.0 rail kilometers from the terminus of the line at Taki Station.\n\nStation layout\nThe station consists of two opposed side platforms, connected by a level crossing. The station is unattended.\n\nPlatforms\n\nAdjacent stations\n\n|-\n\nHistory\nTamaru Station opened on December 31, 1893, as a station on the privately owned Sangū Railway. The line was nationalized on October 1, 1907, becoming part of the Japanese Government Railway (JGR), which became the Japan National Railways (JNR) after World War II. The current station building was completed in 1912. The station was absorbed into the JR Central network upon the privatization of the JNR on April 1, 1987. The station has been unattended since October 1, 2012.\n\nPassenger statistics\nIn fiscal 2019, the station was used by an average of 550 passengers daily (boarding passengers only).\n\nSurrounding area\nTamaru Castle ruins\nTamaki Town Hall\n\nSee also\nList of railway stations in Japan\n\nReferences\n\nExternal links\n\nRailway stations in Japan opened in 1893\nRailway stations in Mie Prefecture\nTamaki, Mie",
-          "字数": 1280
+          "链接": "https://en.wikipedia.org/wiki/Tamaru_Station",
+          "首段": "Tamaru Station (田丸駅, Tamaru-eki) is a station on the JR Tōkai Sangū Line in Tamaki, Watarai District, Mie Prefecture, Japan.",
+          "章节": {},
+          "全文": "Tamaru Station (田丸駅, Tamaru-eki) is a station on the JR Tōkai Sangū Line in Tamaki, Watarai District, Mie Prefecture, Japan.",
+          "字数": 124
         }
       },
       "结构化信息": {
@@ -1637,16 +1615,11 @@
         },
         "英文": {
           "词条标题": "Akogi Station",
-          "链接": "https://en.wikipedia.org/wiki/Akogi%20Station",
-          "首段": "is a passenger railway station in located in the city of  Tsu, Mie Prefecture, Japan, operated by Central Japan Railway Company (JR Tōkai).",
-          "章节": {
-            "Lines": "Akogi Station is served by the Kisei Main Line, and is 19.3 rail kilometers from the terminus of the line at Kameyama Station.\n\nStation layout\nThe station consists of a single side platform and a single island platform connected by a footbridge.",
-            "Platforms": "Adjacent stations",
-            "History": "The Sangū Railway started operating between Tsu Station and Miyagawa Station on December 31, 1893. The line was nationalized on October 1, 1907, becoming the Sangu Line of the Japanese Government Railways (JGR) on October 12, 1909. The station was transferred to the control of the Japanese National Railways (JNR) Kisei Main Line on July 15, 1959. The station has been unattended since December 21, 1983. The station was absorbed into the JR Central network upon the privatization of JNR on April 1, 1987.\n\nPassenger statistics\nIn fiscal 2019, the station was used by an average of 344 passengers daily (boarding passengers only).\n\nSurrounding area\nTsukyujo Park\nMaruyama Inari Shrine\nTsuhashi Minami Post Office\nMie Prefectural Tsu Technical High School\nMie Prefectural Mie Yume Gakuen High School\n\nSee also\n List of railway stations in Japan",
-            "References": "External links\n\nRailway stations in Japan opened in 1893\nRailway stations in Mie Prefecture\nTsu, Mie"
-          },
-          "全文": "is a passenger railway station in located in the city of  Tsu, Mie Prefecture, Japan, operated by Central Japan Railway Company (JR Tōkai).\n\nLines\nAkogi Station is served by the Kisei Main Line, and is 19.3 rail kilometers from the terminus of the line at Kameyama Station.\n\nStation layout\nThe station consists of a single side platform and a single island platform connected by a footbridge.\n\nPlatforms\n\nAdjacent stations\n\nHistory\n\nThe Sangū Railway started operating between Tsu Station and Miyagawa Station on December 31, 1893. The line was nationalized on October 1, 1907, becoming the Sangu Line of the Japanese Government Railways (JGR) on October 12, 1909. The station was transferred to the control of the Japanese National Railways (JNR) Kisei Main Line on July 15, 1959. The station has been unattended since December 21, 1983. The station was absorbed into the JR Central network upon the privatization of JNR on April 1, 1987.\n\nPassenger statistics\nIn fiscal 2019, the station was used by an average of 344 passengers daily (boarding passengers only).\n\nSurrounding area\nTsukyujo Park\nMaruyama Inari Shrine\nTsuhashi Minami Post Office\nMie Prefectural Tsu Technical High School\nMie Prefectural Mie Yume Gakuen High School\n\nSee also\n List of railway stations in Japan\n\nReferences\n\nExternal links\n\nRailway stations in Japan opened in 1893\nRailway stations in Mie Prefecture\nTsu, Mie",
-          "字数": 1391
+          "链接": "https://en.wikipedia.org/wiki/Akogi_Station",
+          "首段": "Akogi Station (阿漕駅, Akogi-eki) is a station on the JR Tōkai Kisei Main Line in Tsu, Mie Prefecture, Japan.",
+          "章节": {},
+          "全文": "Akogi Station (阿漕駅, Akogi-eki) is a station on the JR Tōkai Kisei Main Line in Tsu, Mie Prefecture, Japan.",
+          "字数": 106
         }
       },
       "结构化信息": {
@@ -1730,7 +1703,14 @@
           "字数": 1778,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Takachaya Station",
+          "链接": "https://en.wikipedia.org/wiki/Takachaya_Station",
+          "首段": "Takachaya Station (高茶屋駅, Takachaya-eki) is a station on the JR Tōkai Kisei Main Line in Tsu, Mie Prefecture, Japan.",
+          "章节": {},
+          "全文": "Takachaya Station (高茶屋駅, Takachaya-eki) is a station on the JR Tōkai Kisei Main Line in Tsu, Mie Prefecture, Japan.",
+          "字数": 115
+        }
       },
       "结构化信息": {
         "读音": "たかちゃやえき",
@@ -1842,16 +1822,11 @@
         },
         "英文": {
           "词条标题": "Toba Station",
-          "链接": "https://en.wikipedia.org/wiki/Toba%20Station",
-          "首段": "is a junction passenger railway station located in the city of Toba, Mie Prefecture. Japan. It is jointly operated by Central Japan Railway Company (JR Central) and the private railway operator Kintetsu Railway.",
-          "章节": {
-            "Lines": "Toba Station is served by the JR Sangū Line and is 29.1 rail kilometers from the terminus at the Taki Station. It is also served by the Kintetsu Toba Line and Shima Line, and is located 41.5 rail kilometers from the terminus of that line at Ise-Nakagawa Station.\n\nStation layout\nThe station consists of two bay platforms for JR Central, only one of which is in use, and two island platforms for use by the Kintetsu Lines. Then JR portion of the station is staffed.",
-            "Platforms": "Adjacent stations",
-            "History": "Toba Station opened on July 21, 1911 as a station on the Japanese Government Railways (JGR) Sangū Line. The Shima Electric Railway connected to the station on July 23, 1929. JGR became the Japanese National Railways (JNR) after World War II. Through a series of mergers, the Shima Electric Railway became the part of the Kintetsu Group by April 1, 1965. The Kintetsu portion of the station was rebuilt in March 1970. The JNR portion of the station burned down in a fire on January 6, 1974 and rebuilt by October 14, 1975. The Kintetsu portion of the station was rebuilt again on July 23, 1999.\n\nPassenger statistics\nIn fiscal 2019, the JR portion of the station was used by an average of 318 passengers daily (boarding passengers only), whereas the Kintetsu portion of the station was used by 1728 passengers daily.\n\nSurrounding area\nMikimoto Pearl Island\nToba Aquarium\nToba Port and ferries to outlying islands\nToba International Hotel\n\nSee also\nList of railway stations in Japan",
-            "References": "External links\n\n JR Central: Toba Station \n Kintetsu: Toba Station \n Kintetsu: Layout of Toba Station\n\nStations of Kintetsu Railway\nRailway stations in Mie Prefecture\nRailway stations in Japan opened in 1911\nToba, Mie"
-          },
-          "全文": "is a junction passenger railway station located in the city of Toba, Mie Prefecture. Japan. It is jointly operated by Central Japan Railway Company (JR Central) and the private railway operator Kintetsu Railway.\n\nLines\nToba Station is served by the JR Sangū Line and is 29.1 rail kilometers from the terminus at the Taki Station. It is also served by the Kintetsu Toba Line and Shima Line, and is located 41.5 rail kilometers from the terminus of that line at Ise-Nakagawa Station.\n\nStation layout\nThe station consists of two bay platforms for JR Central, only one of which is in use, and two island platforms for use by the Kintetsu Lines. Then JR portion of the station is staffed.\n\nPlatforms\n\nAdjacent stations\n\nHistory \n\nToba Station opened on July 21, 1911 as a station on the Japanese Government Railways (JGR) Sangū Line. The Shima Electric Railway connected to the station on July 23, 1929. JGR became the Japanese National Railways (JNR) after World War II. Through a series of mergers, the Shima Electric Railway became the part of the Kintetsu Group by April 1, 1965. The Kintetsu portion of the station was rebuilt in March 1970. The JNR portion of the station burned down in a fire on January 6, 1974 and rebuilt by October 14, 1975. The Kintetsu portion of the station was rebuilt again on July 23, 1999.\n\nPassenger statistics\nIn fiscal 2019, the JR portion of the station was used by an average of 318 passengers daily (boarding passengers only), whereas the Kintetsu portion of the station was used by 1728 passengers daily.\n\nSurrounding area\nMikimoto Pearl Island\nToba Aquarium\nToba Port and ferries to outlying islands\nToba International Hotel\n\nSee also\nList of railway stations in Japan\n\nReferences\n\nExternal links\n\n JR Central: Toba Station \n Kintetsu: Toba Station \n Kintetsu: Layout of Toba Station\n\nStations of Kintetsu Railway\nRailway stations in Mie Prefecture\nRailway stations in Japan opened in 1911\nToba, Mie",
-          "字数": 1936
+          "链接": "https://en.wikipedia.org/wiki/Toba_Station",
+          "首段": "Toba Station (鳥羽駅, Toba-eki) is a station in Toba, Mie Prefecture, Japan, served by JR Tōkai and Kintetsu.",
+          "章节": {},
+          "全文": "Toba Station (鳥羽駅, Toba-eki) is a station in Toba, Mie Prefecture, Japan, served by JR Tōkai and Kintetsu.",
+          "字数": 106
         }
       },
       "结构化信息": {
@@ -1900,6 +1875,6 @@
     "有中文词条": 19,
     "已千问汉化": 0,
     "待汉化": 0,
-    "有英文词条": 15
+    "有英文词条": 19
   }
 }
