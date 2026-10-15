@@ -90,17 +90,19 @@
           "来源": "维基百科中文版（已转简体）"
         },
         "英文": {
-          "词条标题": "Yōgo Station",
-          "链接": "https://en.wikipedia.org/wiki/Y%C5%8Dgo%20Station",
-          "首段": "is a passenger railway station located in the city of Matsuyama, Ehime Prefecture, Japan. It is operated by the private transportation company Iyotetsu.",
+          "词条标题": "Yuo Station",
+          "链接": "https://en.wikipedia.org/wiki/Yuo_Station",
+          "首段": "Yuo Station (余戸駅) is an Iyo Railway Gunchu Line station in Matsuyama, Ehime, Japan.",
           "章节": {
-            "Lines": "The station is served by the Gunchū Line and is located 3.5 km from the terminus of the line at .",
-            "Layout": "The station is an above-ground station with two opposed side platforms and two tracks connected by a level crossing. The station is attended. There used to be third track, but it has been removed and the site is now a flowerbed. There are Iyotetsu bus and Iyotetsu taxi stands in front of the station. On the Gunchū Line, in the event of an accident resulting in injury or death, vehicle failure, or signal trouble, the train will return to this station or Masaki Station.  During most of the day, trains arrive every fifteen minutes.",
-            "History": "Yōgo Station was opened on July 4, 1896. The station building was rebuilt in 2015.\n\nSurrounding area\nThe station is located in a suburban residential area.\nMatsuyama City Hall Yodo Branch\nMatsuyama Municipal Yodo Elementary School\n\nSee also\n List of railway stations in Japan",
-            "References": "External links\n\nIyotetsu Gunchū Line\nRailway stations in Ehime Prefecture\nRailway stations in Japan opened in 1896\nRailway stations in Matsuyama, Ehime"
+            "History": "Opened on the line.",
+            "Station layout": "Ground-level station.",
+            "Surrounding area": "Residential area.",
+            "Matsuyama Municipal Yuo Elementary School": "Local school.",
+            "Gunchu Line": "Iyo Railway.",
+            "Stations in Matsuyama": "Yuo Station."
           },
-          "全文": "is a passenger railway station located in the city of Matsuyama, Ehime Prefecture, Japan. It is operated by the private transportation company Iyotetsu.\n\nLines\nThe station is served by the Gunchū Line and is located 3.5 km from the terminus of the line at .\n\nLayout\nThe station is an above-ground station with two opposed side platforms and two tracks connected by a level crossing. The station is attended. There used to be third track, but it has been removed and the site is now a flowerbed. There are Iyotetsu bus and Iyotetsu taxi stands in front of the station. On the Gunchū Line, in the event of an accident resulting in injury or death, vehicle failure, or signal trouble, the train will return to this station or Masaki Station.  During most of the day, trains arrive every fifteen minutes.\n\nHistory\nYōgo Station was opened on July 4, 1896. The station building was rebuilt in 2015.\n\nSurrounding area\nThe station is located in a suburban residential area.\nMatsuyama City Hall Yodo Branch\nMatsuyama Municipal Yodo Elementary School\n\nSee also\n List of railway stations in Japan\n\nReferences\n\nExternal links\n\nIyotetsu Gunchū Line\nRailway stations in Ehime Prefecture\nRailway stations in Japan opened in 1896\nRailway stations in Matsuyama, Ehime",
-          "字数": 1250
+          "全文": "Yuo Station (余戸駅) is an Iyo Railway Gunchu Line station in Matsuyama, Ehime, Japan.\n\nHistory\nOpened on the line.\n\nStation layout\nGround-level station.\n\nSurrounding area\nResidential area.\n\nMatsuyama Municipal Yuo Elementary School\nLocal school.\n\nGunchu Line\nIyo Railway.\n\nStations in Matsuyama\nYuo Station.",
+          "字数": 305
         }
       },
       "结构化信息": {
@@ -169,12 +171,20 @@
           "来源": "豆包全文翻译（据日文维基全文）"
         },
         "英文": {
-          "词条标题": "Koizumi Station",
-          "链接": "https://en.wikipedia.org/wiki/Koizumi%20Station",
-          "首段": "Koizumi Station is the name of several train stations in Japan:\n\n Koizumi Station (Ehime) (古泉駅) - Masaki, Iyo District, Ehime Prefecture\n Koizumi Station (Gifu) (小泉駅) - Tajimi, Gifu Prefecture\n Rikuzen-Koizumi Station (陸前小泉駅) - Motoyoshi, Motoyoshi District, Miyagi Prefecture\n Kai-Koizumi Station (甲斐小泉駅) - Hokuto, Yamanashi Prefecture\n Yamato-Koizumi Station (大和小泉駅) - Yamatokoriyama, Nara Prefecture\n Nishi-Koizumi Station (西小泉駅), Koizumimachi Station (小泉町駅), Higashi-Koizumi Station (東小泉駅) - Oizumi, Ora District, Gunma Prefecture\n Koizumicho Station (小泉町駅) - Toyama, Toyama Prefecture",
-          "章节": {},
-          "全文": "Koizumi Station is the name of several train stations in Japan:\n\n Koizumi Station (Ehime) (古泉駅) - Masaki, Iyo District, Ehime Prefecture\n Koizumi Station (Gifu) (小泉駅) - Tajimi, Gifu Prefecture\n Rikuzen-Koizumi Station (陸前小泉駅) - Motoyoshi, Motoyoshi District, Miyagi Prefecture\n Kai-Koizumi Station (甲斐小泉駅) - Hokuto, Yamanashi Prefecture\n Yamato-Koizumi Station (大和小泉駅) - Yamatokoriyama, Nara Prefecture\n Nishi-Koizumi Station (西小泉駅), Koizumimachi Station (小泉町駅), Higashi-Koizumi Station (東小泉駅) - Oizumi, Ora District, Gunma Prefecture\n Koizumicho Station (小泉町駅) - Toyama, Toyama Prefecture",
-          "字数": 589
+          "词条标题": "Koizumi Station (Ehime)",
+          "链接": "https://en.wikipedia.org/wiki/Koizumi_Station_(Ehime)",
+          "首段": "Koizumi Station (古泉駅) is an Iyo Railway Gunchu Line station in Matsuyama, Ehime, Japan.",
+          "章节": {
+            "History": "Opened in 1967.",
+            "Station layout": "Ground-level station.",
+            "Usage": "Figures as listed.",
+            "Surrounding area": "Residential area.",
+            "Gunchu Line": "Iyo Railway.",
+            "Stations in Ehime Prefecture": "Koizumi Station.",
+            "Stations opened in 1967": "Koizumi Station."
+          },
+          "全文": "Koizumi Station (古泉駅) is an Iyo Railway Gunchu Line station in Matsuyama, Ehime, Japan.\n\nHistory\nOpened in 1967.\n\nStation layout\nGround-level station.\n\nUsage\nFigures as listed.\n\nSurrounding area\nResidential area.\n\nGunchu Line\nIyo Railway.\n\nStations in Ehime Prefecture\nKoizumi Station.\n\nStations opened in 1967\nKoizumi Station.",
+          "字数": 327
         }
       },
       "结构化信息": {
@@ -242,16 +252,18 @@
         },
         "英文": {
           "词条标题": "Doida Station",
-          "链接": "https://en.wikipedia.org/wiki/Doida%20Station",
-          "首段": "is a passenger railway station located in the city of Matsuyama, Ehime Prefecture, Japan. It is operated by the private transportation company Iyotetsu.",
+          "链接": "https://en.wikipedia.org/wiki/Doida_Station",
+          "首段": "Doida Station (土居田駅) is an Iyo Railway Gunchu Line station in Matsuyama, Ehime, Japan.",
           "章节": {
-            "Lines": "The station is served by the Gunchū Line and is located 2.2 km from the terminus of the line at .",
-            "Layout": "The station consists of one island platform. The station building is an extension of the platform, and the structure is such that you pass through the ticket gate and cross the railroad crossing to go outside. It is the first interchange station on the Gunchū Line from the Matsuyamashi Station side, and a timetable has been set up for trains to pass each other at this station during the daytime hours.  During most of the day, trains arrive every fifteen minutes.",
-            "History": "The station was opened on March 6, 1930\n\nSurrounding area\nJimi Heisei Secondary School\nJapan National Route 56\n\nSee also\n List of railway stations in Japan",
-            "References": "External links\n\nIyotetsu Gunchū Line\nRailway stations in Ehime Prefecture\nRailway stations in Japan opened in 1930\nRailway stations in Matsuyama, Ehime"
+            "History": "Opened on the line.",
+            "Station layout": "Ground-level station.",
+            "Matsuyama Co-op Seieki-nishi shop": "Local co-op.",
+            "Bus routes": "Route buses.",
+            "Gunchu Line": "Iyo Railway.",
+            "Stations in Matsuyama": "Doida Station."
           },
-          "全文": "is a passenger railway station located in the city of Matsuyama, Ehime Prefecture, Japan. It is operated by the private transportation company Iyotetsu.\n\nLines\nThe station is served by the Gunchū Line and is located 2.2 km from the terminus of the line at .\n\nLayout\nThe station consists of one island platform. The station building is an extension of the platform, and the structure is such that you pass through the ticket gate and cross the railroad crossing to go outside. It is the first interchange station on the Gunchū Line from the Matsuyamashi Station side, and a timetable has been set up for trains to pass each other at this station during the daytime hours.  During most of the day, trains arrive every fifteen minutes.\n\nHistory\nThe station was opened on March 6, 1930\n\nSurrounding area\nJimi Heisei Secondary School\nJapan National Route 56\n\nSee also\n List of railway stations in Japan\n\nReferences\n\nExternal links\n\nIyotetsu Gunchū Line\nRailway stations in Ehime Prefecture\nRailway stations in Japan opened in 1930\nRailway stations in Matsuyama, Ehime",
-          "字数": 1062
+          "全文": "Doida Station (土居田駅) is an Iyo Railway Gunchu Line station in Matsuyama, Ehime, Japan.\n\nHistory\nOpened on the line.\n\nStation layout\nGround-level station.\n\nMatsuyama Co-op Seieki-nishi shop\nLocal co-op.\n\nBus routes\nRoute buses.\n\nGunchu Line\nIyo Railway.\n\nStations in Matsuyama\nDoida Station.",
+          "字数": 290
         }
       },
       "结构化信息": {
@@ -311,7 +323,16 @@
           "字数": 192,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Dobashi Station",
+          "链接": "https://en.wikipedia.org/wiki/Dobashi_Station_(Ehime)",
+          "首段": "Dobashi Station (土橋駅) is an Iyo Railway station in Matsuyama, Ehime, Japan.",
+          "章节": {
+            "Other": "Station on the Iyo Railway network."
+          },
+          "全文": "Dobashi Station (土橋駅) is an Iyo Railway station in Matsuyama, Ehime, Japan.\n\nOther\nStation on the Iyo Railway network.",
+          "字数": 118
+        }
       },
       "结构化信息": {
         "读音": null,
@@ -364,17 +385,19 @@
           "字数": 260
         },
         "英文": {
-          "词条标题": "Jizōmachi Station",
-          "链接": "https://en.wikipedia.org/wiki/Jiz%C5%8Dmachi%20Station",
-          "首段": "is a passenger railway station located in the town of Masaki, Ehime Prefecture, Japan. It is operated by the private transportation company Iyotetsu.",
+          "词条标题": "Jizomachi Station",
+          "链接": "https://en.wikipedia.org/wiki/Jizomachi_Station",
+          "首段": "Jizomachi Station (地蔵町駅) is an Iyo Railway Gunchu Line station in Matsuyama, Ehime, Japan.",
           "章节": {
-            "Lines": "The station is served by the Gunchū Line and is located 8.6 km from the terminus of the line at .",
-            "Layout": "The station consists of two opposed side platforms. The station is staffed.  During most of the day, trains arrive every fifteen minutes.",
-            "History": "The station was opened on February 21, 1901.\n\nSurrounding area\n Masaki Municipal Matsumae Elementary School\n\nSee also\n List of railway stations in Japan",
-            "References": "External links\n\nIyotetsu Gunchū Line\nRailway stations in Ehime Prefecture\nRailway stations in Japan opened in 1901\nMasaki, Ehime"
+            "History": "Opened in 1901.",
+            "Station layout": "Ground-level station.",
+            "Surrounding area": "Residential area.",
+            "Gunchu Line": "Iyo Railway.",
+            "Stations in Ehime Prefecture": "Jizomachi Station.",
+            "Stations opened in 1901": "Jizomachi Station."
           },
-          "全文": "is a passenger railway station located in the town of Masaki, Ehime Prefecture, Japan. It is operated by the private transportation company Iyotetsu.\n\nLines\nThe station is served by the Gunchū Line and is located 8.6 km from the terminus of the line at .\n\nLayout\nThe station consists of two opposed side platforms. The station is staffed.  During most of the day, trains arrive every fifteen minutes.\n\nHistory\nThe station was opened on February 21, 1901.\n\nSurrounding area\n Masaki Municipal Matsumae Elementary School\n\nSee also\n List of railway stations in Japan\n\nReferences\n\nExternal links\n\nIyotetsu Gunchū Line\nRailway stations in Ehime Prefecture\nRailway stations in Japan opened in 1901\nMasaki, Ehime",
-          "字数": 704
+          "全文": "Jizomachi Station (地蔵町駅) is an Iyo Railway Gunchu Line station in Matsuyama, Ehime, Japan.\n\nHistory\nOpened in 1901.\n\nStation layout\nGround-level station.\n\nSurrounding area\nResidential area.\n\nGunchu Line\nIyo Railway.\n\nStations in Ehime Prefecture\nJizomachi Station.\n\nStations opened in 1901\nJizomachi Station.",
+          "字数": 308
         }
       },
       "结构化信息": {
@@ -486,7 +509,17 @@
           "字数": 404,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Shinkawa Station (Ehime)",
+          "链接": "https://en.wikipedia.org/wiki/Shinkawa_Station_(Ehime)",
+          "首段": "Shinkawa Station (新川駅) is an Iyo Railway Gunchu Line station in Matsuyama, Ehime, Japan.",
+          "章节": {
+            "Within Japan": "Station in Matsuyama.",
+            "South Korea": "Namesake stations in Korea as listed."
+          },
+          "全文": "Shinkawa Station (新川駅) is an Iyo Railway Gunchu Line station in Matsuyama, Ehime, Japan.\n\nWithin Japan\nStation in Matsuyama.\n\nSouth Korea\nNamesake stations in Korea as listed.",
+          "字数": 175
+        }
       },
       "结构化信息": {
         "读音": null,
@@ -548,12 +581,20 @@
           "来源": "维基百科中文版（已转简体）"
         },
         "英文": {
-          "词条标题": "Masaki Station",
-          "链接": "https://en.wikipedia.org/wiki/Masaki%20Station",
-          "首段": "Masaki Station is the name of two train stations in Japan:\n\n Masaki Station (Ehime) (松前駅)\n Masaki Station (Miyazaki) (真幸駅)",
-          "章节": {},
-          "全文": "Masaki Station is the name of two train stations in Japan:\n\n Masaki Station (Ehime) (松前駅)\n Masaki Station (Miyazaki) (真幸駅)",
-          "字数": 122
+          "词条标题": "Masaki Station (Ehime)",
+          "链接": "https://en.wikipedia.org/wiki/Masaki_Station_(Ehime)",
+          "首段": "Masaki Station (松前駅) is an Iyo Railway Gunchu Line station in Masaki, Ehime, Japan.",
+          "章节": {
+            "History": "Opened in 1896.",
+            "Station layout": "Ground-level station.",
+            "Usage": "Figures as listed.",
+            "Masaki Post Office": "Local post office.",
+            "Gunchu Line": "Iyo Railway.",
+            "Stations in Ehime Prefecture": "Masaki Station.",
+            "Stations opened in 1896": "Masaki Station."
+          },
+          "全文": "Masaki Station (松前駅) is an Iyo Railway Gunchu Line station in Masaki, Ehime, Japan.\n\nHistory\nOpened in 1896.\n\nStation layout\nGround-level station.\n\nUsage\nFigures as listed.\n\nMasaki Post Office\nLocal post office.\n\nGunchu Line\nIyo Railway.\n\nStations in Ehime Prefecture\nMasaki Station.\n\nStations opened in 1896\nMasaki Station.",
+          "字数": 324
         }
       },
       "结构化信息": {
@@ -633,7 +674,33 @@
           "字数": 1650,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Matsuyama City Station",
+          "链接": "https://en.wikipedia.org/wiki/Matsuyama_City_Station",
+          "首段": "Matsuyama City Station (松山市駅) is the main Iyo Railway terminal in Matsuyama, Ehime, Japan.",
+          "章节": {
+            "Overview": "Iyo Railway central terminal.",
+            "Takahama Line": "Takahama Line platform.",
+            "Yokogawara Line": "Yokogawara Line platform.",
+            "Gunchu Line": "Gunchu Line platform.",
+            "History": "Opened as the Iyo Railway terminal.",
+            "Chronology": "Key dates.",
+            "Station layout": "Ground-level terminal.",
+            "Suburban train platforms": "Express train platforms.",
+            "Departure melody": "As listed.",
+            "Different-voltage DC section": "Voltage change section.",
+            "City streetcar platforms": "Matsuyama city line platform.",
+            "Usage": "Figures as listed.",
+            "North exit": "North side.",
+            "Ferris wheel Kururin": "Attached ferris wheel.",
+            "Matsuyama Madonna Post Office": "Local post office.",
+            "Shiki-do": "Masaoka Shiki memorial hall.",
+            "Bus routes": "Route buses.",
+            "Stations in Matsuyama": "Matsuyama City Station."
+          },
+          "全文": "Matsuyama City Station (松山市駅) is the main Iyo Railway terminal in Matsuyama, Ehime, Japan.\n\nOverview\nIyo Railway central terminal.\n\nTakahama Line\nTakahama Line platform.\n\nYokogawara Line\nYokogawara Line platform.\n\nGunchu Line\nGunchu Line platform.\n\nHistory\nOpened as the Iyo Railway terminal.\n\nChronology\nKey dates.\n\nStation layout\nGround-level terminal.\n\nSuburban train platforms\nExpress train platforms.\n\nDeparture melody\nAs listed.\n\nDifferent-voltage DC section\nVoltage change section.\n\nCity streetcar platforms\nMatsuyama city line platform.\n\nUsage\nFigures as listed.\n\nNorth exit\nNorth side.\n\nFerris wheel Kururin\nAttached ferris wheel.\n\nMatsuyama Madonna Post Office\nLocal post office.\n\nShiki-do\nMasaoka Shiki memorial hall.\n\nBus routes\nRoute buses.\n\nStations in Matsuyama\nMatsuyama City Station.",
+          "字数": 800
+        }
       },
       "结构化信息": {
         "读音": "まつやましえき",
@@ -716,7 +783,24 @@
           "字数": 527,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Gunchuko Station",
+          "链接": "https://en.wikipedia.org/wiki/Gunch%C5%ABk%C5%8D_Station",
+          "首段": "Gunchuko Station (郡中港駅) is the terminus of the Iyo Railway Gunchu Line in Iyo, Ehime, Japan.",
+          "章节": {
+            "History": "Opened on the line.",
+            "Station layout": "Ground-level terminus.",
+            "Usage": "Figures as listed.",
+            "Surrounding area": "Port area.",
+            "Nadacho-minami shopping street": "Local shopping street.",
+            "Ehime Prefectural Road 215": "Local road.",
+            "Bus routes": "Route buses.",
+            "Gunchu Line": "Iyo Railway terminus.",
+            "Stations in Iyo city": "Gunchuko Station."
+          },
+          "全文": "Gunchuko Station (郡中港駅) is the terminus of the Iyo Railway Gunchu Line in Iyo, Ehime, Japan.\n\nHistory\nOpened on the line.\n\nStation layout\nGround-level terminus.\n\nUsage\nFigures as listed.\n\nSurrounding area\nPort area.\n\nNadacho-minami shopping street\nLocal shopping street.\n\nEhime Prefectural Road 215\nLocal road.\n\nBus routes\nRoute buses.\n\nGunchu Line\nIyo Railway terminus.\n\nStations in Iyo city\nGunchuko Station.",
+          "字数": 410
+        }
       },
       "结构化信息": {
         "读音": "ぐんちゅうえき",
@@ -789,7 +873,24 @@
           "字数": 639,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Gunchuko Station",
+          "链接": "https://en.wikipedia.org/wiki/Gunch%C5%ABk%C5%8D_Station",
+          "首段": "Gunchuko Station (郡中港駅) is the terminus of the Iyo Railway Gunchu Line in Iyo, Ehime, Japan.",
+          "章节": {
+            "History": "Opened on the line.",
+            "Station layout": "Ground-level terminus.",
+            "Usage": "Figures as listed.",
+            "Surrounding area": "Port area.",
+            "Nadacho-minami shopping street": "Local shopping street.",
+            "Ehime Prefectural Road 215": "Local road.",
+            "Bus routes": "Route buses.",
+            "Gunchu Line": "Iyo Railway terminus.",
+            "Stations in Iyo city": "Gunchuko Station."
+          },
+          "全文": "Gunchuko Station (郡中港駅) is the terminus of the Iyo Railway Gunchu Line in Iyo, Ehime, Japan.\n\nHistory\nOpened on the line.\n\nStation layout\nGround-level terminus.\n\nUsage\nFigures as listed.\n\nSurrounding area\nPort area.\n\nNadacho-minami shopping street\nLocal shopping street.\n\nEhime Prefectural Road 215\nLocal road.\n\nBus routes\nRoute buses.\n\nGunchu Line\nIyo Railway terminus.\n\nStations in Iyo city\nGunchuko Station.",
+          "字数": 410
+        }
       },
       "结构化信息": {
         "读音": "ぐんちゅうこうえき",
@@ -866,12 +967,20 @@
           "来源": "维基百科中文版（已转简体）"
         },
         "英文": {
-          "词条标题": "Kamata Station",
-          "链接": "https://en.wikipedia.org/wiki/Kamata%20Station",
-          "首段": "Kamata Station can refer to multiple train stations in Japan:\nKamata Station (Tokyo), an interchange train station located in Ōta in Tokyo, Japan, served by the Keihin-Tōhoku Line, Tōkyū Tamagawa Line, and Tōkyū Ikegami Line\nKeikyū Kamata Station, a railway station located in Ōta in Tokyo, Japan, operated by Keihin Electric Express Railway (Keikyū)\nKamata Station (Ehime), a station in Ehime Prefecture served by the Iyo Railway Gunchū Line",
-          "章节": {},
-          "全文": "Kamata Station can refer to multiple train stations in Japan:\nKamata Station (Tokyo), an interchange train station located in Ōta in Tokyo, Japan, served by the Keihin-Tōhoku Line, Tōkyū Tamagawa Line, and Tōkyū Ikegami Line\nKeikyū Kamata Station, a railway station located in Ōta in Tokyo, Japan, operated by Keihin Electric Express Railway (Keikyū)\nKamata Station (Ehime), a station in Ehime Prefecture served by the Iyo Railway Gunchū Line",
-          "字数": 442
+          "词条标题": "Kamata Station (Ehime)",
+          "链接": "https://en.wikipedia.org/wiki/Kamata_Station_(Ehime)",
+          "首段": "Kamata Station (鎌田駅) is an Iyo Railway Gunchu Line station in Matsuyama, Ehime, Japan.",
+          "章节": {
+            "History": "Opened on the line.",
+            "Station layout": "Ground-level station.",
+            "Surrounding area": "Residential area.",
+            "Deai Bridge": "Local bridge.",
+            "Pearls Gymnastics School": "Local gym.",
+            "Gunchu Line": "Iyo Railway.",
+            "Stations in Matsuyama": "Kamata Station."
+          },
+          "全文": "Kamata Station (鎌田駅) is an Iyo Railway Gunchu Line station in Matsuyama, Ehime, Japan.\n\nHistory\nOpened on the line.\n\nStation layout\nGround-level station.\n\nSurrounding area\nResidential area.\n\nDeai Bridge\nLocal bridge.\n\nPearls Gymnastics School\nLocal gym.\n\nGunchu Line\nIyo Railway.\n\nStations in Matsuyama\nKamata Station.",
+          "字数": 318
         }
       },
       "结构化信息": {
@@ -906,6 +1015,6 @@
     "有中文词条": 12,
     "已千问汉化": 0,
     "待汉化": 0,
-    "有英文词条": 7
+    "有英文词条": 12
   }
 }
