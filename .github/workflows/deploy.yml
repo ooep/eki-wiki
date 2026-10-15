@@ -1,0 +1,28 @@
+name: deploy-eki-wiki
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Assemble static assets
+        run: |
+          mkdir -p deploy-assets
+          cp -r data deploy-assets/data
+          printf '/*\n  Access-Control-Allow-Origin: *\n  Access-Control-Allow-Methods: GET, OPTIONS\n  Access-Control-Allow-Headers: *\n  Access-Control-Max-Age: 86400\n  Access-Control-Expose-Headers: ETag, Last-Modified, Content-Length, Content-Type\n' > deploy-assets/_headers
+          printf 'User-agent: *\nDisallow: /\n' > deploy-assets/robots.txt
+          printf '# eki-wiki — 纯静态资产(无 Worker 脚本)，推送 main 即自动部署\nname = "eki-wiki"\ncompatibility_date = "2026-10-13"\n\n[assets]\ndirectory = "./deploy-assets"\nnot_found_handling = "404-page"\n' > wrangler.toml
+      - name: Deploy to Cloudflare Workers
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: c75ed9a498500d7c232d9d59a353341d
+        run: npx wrangler@4 deploy --config wrangler.toml 2>&1 | tail -12
