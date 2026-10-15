@@ -30,10 +30,13 @@
       "英文": {
         "词条标题": "カールカー＝シムラー鉄道",
         "链接": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%BC%E3%83%AB%E3%82%AB%E3%83%BC%EF%BC%9D%E3%82%B7%E3%83%A0%E3%83%A9%E3%83%BC%E9%89%84%E9%81%93",
-        "首段": "The カールカー＝シムラー鉄道 is a railway line in Japan.",
-        "章节": {},
-        "全文": "The カールカー＝シムラー鉄道 is a railway line in Japan.",
-        "字数": 44
+        "首段": "The Kalka–Shimla Railway is a mountain railway in northern India, connecting Kalka in Haryana state with Shimla, the capital of Himachal Pradesh. Opened in 1903 under British India to serve Shimla, the summer capital, the line runs 96 km in total and climbs 1,420 m in elevation (from 656 m at Kalka to 2,076 m at Shimla), crossing rugged terrain that includes 103 tunnels and 864 bridges.",
+        "章节": {
+          "British India": "The line was opened in 1903 in what was then British India, to improve transport to Shimla, the summer capital of the British Raj.",
+          "Himachal Pradesh": "Shimla is the state capital of Himachal Pradesh in northern India, and the mountain railway terminates there."
+        },
+        "全文": "The Kalka–Shimla Railway is a mountain railway in northern India, connecting Kalka in Haryana state with Shimla, the capital of Himachal Pradesh. Opened in 1903 under British India to serve Shimla, the summer capital, the line runs 96 km in total and climbs 1,420 m in elevation (from 656 m at Kalka to 2,076 m at Shimla), crossing rugged terrain that includes 103 tunnels and 864 bridges.\n\nBritish India\nThe line was opened in 1903 in what was then British India, to improve transport to Shimla, the summer capital of the British Raj.\n\nHimachal Pradesh\nShimla is the state capital of Himachal Pradesh in northern India, and the mountain railway terminates there.",
+        "字数": 663
       }
     }
   },
@@ -77,10 +80,15 @@
         "英文": {
           "词条标题": "Kurobedaira Station",
           "链接": "https://ja.wikipedia.org/wiki/%E9%BB%92%E9%83%A8%E5%B9%B3%E9%A7%85",
-          "首段": "Kurobedaira Station (黒部平駅) is a railway station in 県中新川郡立山町, Japan.",
-          "章节": {},
-          "全文": "Kurobedaira Station (黒部平駅) is a railway station in 県中新川郡立山町, Japan.",
-          "字数": 67
+          "首段": "Kurobedaira Station (黒部平駅) is a railway station on the Kurobe Cable Car (Kōsaku Line) and a cableway station on the Tateyama Ropeway, located in Tateyama, Nakaniikawa District, Toyama Prefecture, Japan. It sits midway along the Tateyama Kurobe Alpine Route.",
+          "章节": {
+            "Overview": "At an elevation of 1,828 m, it is the highest railway station in Japan, including stations served by railway on steel rails. It held the record as Japan's highest railway station until Murodō Station became a railway station following the conversion of the Tateyama Tunnel Bus to a trolleybus. The station lies midway along the Tateyama Kurobe Alpine Route, situated within a landscaped garden known as the Kurobedaira Garden. The two-story station building also houses souvenir shops and a restaurant.",
+            "History": "November 2, 1965: Construction started. July 20, 1969: Opened as Kurobe-Omae Station on the Kurobe Cable Car. July 25, 1970: The Tateyama Ropeway opened and the station was renamed Kurobedaira Station. 2018: Foldable platform edge doors were installed on the platform, the first such installation at a cable car station in Japan.",
+            "Tateyama Ropeway": "Daisenjō Station – Kurobedaira Station. Kōsaku Line (Kurobe Cable Car): Kurobeko Station – Kurobedaira Station.",
+            "Railway stations in Tateyama": "Kurobedaira Station is one of the railway stations located in Tateyama, Nakaniikawa District, Toyama Prefecture."
+          },
+          "全文": "Kurobedaira Station (黒部平駅) is a railway station on the Kurobe Cable Car (Kōsaku Line) and a cableway station on the Tateyama Ropeway, located in Tateyama, Nakaniikawa District, Toyama Prefecture, Japan. It sits midway along the Tateyama Kurobe Alpine Route.\n\nOverview\nAt an elevation of 1,828 m, it is the highest railway station in Japan, including stations served by railway on steel rails. It held the record as Japan's highest railway station until Murodō Station became a railway station following the conversion of the Tateyama Tunnel Bus to a trolleybus. The station lies midway along the Tateyama Kurobe Alpine Route, situated within a landscaped garden known as the Kurobedaira Garden. The two-story station building also houses souvenir shops and a restaurant.\n\nHistory\nNovember 2, 1965: Construction started. July 20, 1969: Opened as Kurobe-Omae Station on the Kurobe Cable Car. July 25, 1970: The Tateyama Ropeway opened and the station was renamed Kurobedaira Station. 2018: Foldable platform edge doors were installed on the platform, the first such installation at a cable car station in Japan.\n\nTateyama Ropeway\nDaisenjō Station – Kurobedaira Station. Kōsaku Line (Kurobe Cable Car): Kurobeko Station – Kurobedaira Station.\n\nRailway stations in Tateyama\nKurobedaira Station is one of the railway stations located in Tateyama, Nakaniikawa District, Toyama Prefecture.",
+          "字数": 1382
         }
       },
       "结构化信息": {
@@ -142,10 +150,14 @@
         "英文": {
           "词条标题": "Kurobeko Station",
           "链接": "https://ja.wikipedia.org/wiki/%E9%BB%92%E9%83%A8%E6%B9%96%E9%A7%85",
-          "首段": "Kurobeko Station (黒部湖駅) is a railway station in 県中新川郡立山町, Japan.",
-          "章节": {},
-          "全文": "Kurobeko Station (黒部湖駅) is a railway station in 県中新川郡立山町, Japan.",
-          "字数": 64
+          "首段": "Kurobeko Station (黒部湖駅) is a station on the Kurobe Cable Car (Kōsaku Line), operated by Tateyama Kurobe Kankō, located in Tateyama, Nakaniikawa District, Toyama Prefecture, Japan. It lies midway along the Tateyama Kurobe Alpine Route, close to Lake Kurobe.",
+          "章节": {
+            "History": "November 2, 1965: Construction started. July 20, 1969: Opened as a station on the Tateyama Kurobe Kankō Kurobe Cable Car.",
+            "Tateyama Kurobe Kankō": "Kōsaku Line (Kurobe Cable Car): Kurobeko Station – Kurobedaira Station.",
+            "Railway stations in Tateyama": "Kurobeko Station is one of the railway stations located in Tateyama, Nakaniikawa District, Toyama Prefecture."
+          },
+          "全文": "Kurobeko Station (黒部湖駅) is a station on the Kurobe Cable Car (Kōsaku Line), operated by Tateyama Kurobe Kankō, located in Tateyama, Nakaniikawa District, Toyama Prefecture, Japan. It lies midway along the Tateyama Kurobe Alpine Route, close to Lake Kurobe.\n\nHistory\nNovember 2, 1965: Construction started. July 20, 1969: Opened as a station on the Tateyama Kurobe Kankō Kurobe Cable Car.\n\nTateyama Kurobe Kankō\nKōsaku Line (Kurobe Cable Car): Kurobeko Station – Kurobedaira Station.\n\nRailway stations in Tateyama\nKurobeko Station is one of the railway stations located in Tateyama, Nakaniikawa District, Toyama Prefecture.",
+          "字数": 622
         }
       },
       "结构化信息": {
