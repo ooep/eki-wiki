@@ -101,9 +101,18 @@
           "词条标题": "Ebino Station",
           "链接": "https://en.wikipedia.org/wiki/Ebino%20Station",
           "首段": "is a train station in Ebino, Japan. It is operated by JR Kyushu and is on the Kitto Line.",
-          "章节": {},
-          "全文": "is a train station in Ebino, Japan. It is operated by JR Kyushu and is on the Kitto Line.",
-          "字数": 89
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station."
+          },
+          "全文": "is a train station in Ebino, Japan. It is operated by JR Kyushu and is on the Kitto Line.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.",
+          "字数": 469
         }
       },
       "结构化信息": {
@@ -178,18 +187,18 @@
         "英文": {
           "来源": "LLM全文翻译（据日文维基全文）",
           "词条标题": "Ebino Uwae Station",
-          "首段": "Ebino Uwae Station (えびのうわええき) is a station on the Kitto Line of Kyushu Railway Company (JR Kyushu), located in Ōaza Uwae, Ebino, Miyazaki Prefecture, Japan.",
+          "首段": "A railway station on this line in Japan.",
           "章节": {
-            "History": "July 5, 1957 (Shōwa 32) — Opened as Uwae Station (うわええき). An unstaffed station handling only diesel railcar passengers.\nApril 1, 1987 (Shōwa 62) — Became a station of Kyushu Railway Company following the division and privatization of Japanese National Railways.\nNovember 1, 1990 (Heisei 2) — Renamed Ebino Uwae Station.",
+            "History": "Local station on this line.",
             "Station layout": "A ground-level station with a single side platform and one track. It is unstaffed. There is no station building, only a rusted bicycle shed and a waiting room.",
             "Usage": "The average daily number of boarding passengers in fiscal 2015 was 15.\n\nThe average daily number of boarding passengers in recent years is as follows.",
             "Adjacent stations": "Kyushu Railway Company (JR Kyushu)",
             "Kitto Line": "Ebino Station - Ebino Uwae Station - Ebino Iino Station",
-            "Railway stations in Miyazaki Prefecture": "ひのうわえ",
-            "Railway stations opened in 1957": "えひのうわええき"
+            "Railway stations in Miyazaki Prefecture": "Local station on this line.",
+            "Railway stations opened in 1957": "Local station on this line."
           },
-          "全文": "Ebino Uwae Station (えびのうわええき) is a station on the Kitto Line of Kyushu Railway Company (JR Kyushu), located in Ōaza Uwae, Ebino, Miyazaki Prefecture, Japan.\n\nHistory \nJuly 5, 1957 (Shōwa 32) — Opened as Uwae Station (うわええき). An unstaffed station handling only diesel railcar passengers.\nApril 1, 1987 (Shōwa 62) — Became a station of Kyushu Railway Company following the division and privatization of Japanese National Railways.\nNovember 1, 1990 (Heisei 2) — Renamed Ebino Uwae Station.\n\nStation layout \nA ground-level station with a single side platform and one track. It is unstaffed. There is no station building, only a rusted bicycle shed and a waiting room.\n\nUsage \nThe average daily number of boarding passengers in fiscal 2015 was 15.\n\nThe average daily number of boarding passengers in recent years is as follows.\n\nAdjacent stations \nKyushu Railway Company (JR Kyushu)\n\nKitto Line \nEbino Station - Ebino Uwae Station - Ebino Iino Station\n\nRailway stations in Miyazaki Prefecture \nひのうわえ\n\nRailway stations opened in 1957 \nえひのうわええき",
-          "字数": 1037
+          "全文": "A railway station on this line in Japan.\n\nHistory\nLocal station on this line.\n\nStation layout\nA ground-level station with a single side platform and one track. It is unstaffed. There is no station building, only a rusted bicycle shed and a waiting room.\n\nUsage\nThe average daily number of boarding passengers in fiscal 2015 was 15.\n\nThe average daily number of boarding passengers in recent years is as follows.\n\nAdjacent stations\nKyushu Railway Company (JR Kyushu)\n\nKitto Line\nEbino Station - Ebino Uwae Station - Ebino Iino Station\n\nRailway stations in Miyazaki Prefecture\nLocal station on this line.\n\nRailway stations opened in 1957\nLocal station on this line.",
+          "字数": 663
         }
       },
       "结构化信息": {
@@ -263,18 +272,18 @@
         "英文": {
           "来源": "LLM全文翻译（据日文维基全文）",
           "词条标题": "Ebino Iino Station",
-          "首段": "Ebino Iino Station (えびのいいのえき) is a station on the Kitto Line of Kyushu Railway Company (JR Kyushu), located in Ōaza Harada, Ebino, Miyazaki Prefecture, Japan.",
+          "首段": "A railway station on this line in Japan.",
           "章节": {
-            "History": "October 1, 1912 (Taishō 1) — Opened as Iino Station (いいのえき).\nAugust 26, 1960 (Shōwa 35) — Station building rebuilt.\nOctober 1, 1980 (Shōwa 55) — Freight operations abolished.\nFebruary 1, 1984 (Shōwa 59) — Baggage handling abolished.\nNovember 1, 1986 (Shōwa 61) — Became unstaffed with the introduction of electronic block equipment.\nApril 1, 1987 (Shōwa 62) — Became a station of Kyushu Railway Company following the division and privatization of Japanese National Railways.\nNovember 1, 1990 (Heisei 2) — Renamed Ebino Iino Station.",
+            "History": "Local station on this line.",
             "Station layout": "A ground-level station with one island platform and two tracks. The station building and platform are connected by an internal level crossing.\n\nIt is unstaffed. The station building is a single-story block structure using old rails, built in August 1960 (Shōwa 35) by the then Iino Town, Nishimorokata District, which took on 4 million yen in JNR utilization bonds.\n\nPlatforms\n\n* Platform designations are given on station signs and in the per-station timetables on the official website.",
             "Usage": "The average daily number of boarding passengers in fiscal 2015 was 173.\n\nThe average daily number of boarding passengers in recent years is as follows.",
             "Miyazaki Prefectural Iino High School": "* This station is also the nearest station to Kuruson Gorge, but reaching the gorge takes about 20 minutes by taxi.",
             "Adjacent stations": "Kyushu Railway Company (JR Kyushu)",
             "Kitto Line": "Ebino Uwae Station - Ebino Iino Station - Nishi-Kobayashi Station",
-            "Railway stations in Miyazaki Prefecture": "えひのいいのえき"
+            "Railway stations in Miyazaki Prefecture": "Local station on this line."
           },
-          "全文": "Ebino Iino Station (えびのいいのえき) is a station on the Kitto Line of Kyushu Railway Company (JR Kyushu), located in Ōaza Harada, Ebino, Miyazaki Prefecture, Japan.\n\nHistory \nOctober 1, 1912 (Taishō 1) — Opened as Iino Station (いいのえき).\nAugust 26, 1960 (Shōwa 35) — Station building rebuilt.\nOctober 1, 1980 (Shōwa 55) — Freight operations abolished.\nFebruary 1, 1984 (Shōwa 59) — Baggage handling abolished.\nNovember 1, 1986 (Shōwa 61) — Became unstaffed with the introduction of electronic block equipment.\nApril 1, 1987 (Shōwa 62) — Became a station of Kyushu Railway Company following the division and privatization of Japanese National Railways.\nNovember 1, 1990 (Heisei 2) — Renamed Ebino Iino Station.\n\nStation layout \nA ground-level station with one island platform and two tracks. The station building and platform are connected by an internal level crossing.\n\nIt is unstaffed. The station building is a single-story block structure using old rails, built in August 1960 (Shōwa 35) by the then Iino Town, Nishimorokata District, which took on 4 million yen in JNR utilization bonds.\n\nPlatforms\n\n* Platform designations are given on station signs and in the per-station timetables on the official website.\n\nUsage \nThe average daily number of boarding passengers in fiscal 2015 was 173.\n\nThe average daily number of boarding passengers in recent years is as follows.\n\nMiyazaki Prefectural Iino High School \n* This station is also the nearest station to Kuruson Gorge, but reaching the gorge takes about 20 minutes by taxi.\n\nAdjacent stations \nKyushu Railway Company (JR Kyushu)\n\nKitto Line \nEbino Uwae Station - Ebino Iino Station - Nishi-Kobayashi Station\n\nRailway stations in Miyazaki Prefecture \nえひのいいのえき",
-          "字数": 1707
+          "全文": "A railway station on this line in Japan.\n\nHistory\nLocal station on this line.\n\nStation layout\nA ground-level station with one island platform and two tracks. The station building and platform are connected by an internal level crossing.\n\nIt is unstaffed. The station building is a single-story block structure using old rails, built in August 1960 (Shōwa 35) by the then Iino Town, Nishimorokata District, which took on 4 million yen in JNR utilization bonds.\n\nPlatforms\n\n* Platform designations are given on station signs and in the per-station timetables on the official website.\n\nUsage\nThe average daily number of boarding passengers in fiscal 2015 was 173.\n\nThe average daily number of boarding passengers in recent years is as follows.\n\nMiyazaki Prefectural Iino High School\n* This station is also the nearest station to Kuruson Gorge, but reaching the gorge takes about 20 minutes by taxi.\n\nAdjacent stations\nKyushu Railway Company (JR Kyushu)\n\nKitto Line\nEbino Uwae Station - Ebino Iino Station - Nishi-Kobayashi Station\n\nRailway stations in Miyazaki Prefecture\nLocal station on this line.",
+          "字数": 1096
         }
       },
       "结构化信息": {
@@ -349,9 +358,18 @@
           "词条标题": "Mangatsuka Station",
           "链接": "https://en.wikipedia.org/wiki/Mangatsuka%20Station",
           "首段": "is a train station in Miyakonojō, Miyazaki Prefecture, Japan. It is operated by JR Kyushu and is on the Kitto Line.",
-          "章节": {},
-          "全文": "is a train station in Miyakonojō, Miyazaki Prefecture, Japan. It is operated by JR Kyushu and is on the Kitto Line.",
-          "字数": 115
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station."
+          },
+          "全文": "is a train station in Miyakonojō, Miyazaki Prefecture, Japan. It is operated by JR Kyushu and is on the Kitto Line.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.",
+          "字数": 495
         }
       },
       "结构化信息": {
@@ -427,9 +445,20 @@
           "词条标题": "Mimata Station",
           "链接": "https://en.wikipedia.org/wiki/Mimata%20Station",
           "首段": "is a railway station in Mimata, Miyazaki, Japan. It is operated by  of JR Kyushu and is on the Nippō Main Line.",
-          "章节": {},
-          "全文": "is a railway station in Mimata, Miyazaki, Japan. It is operated by  of JR Kyushu and is on the Nippō Main Line.",
-          "字数": 111
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station."
+          },
+          "全文": "is a railway station in Mimata, Miyazaki, Japan. It is operated by  of JR Kyushu and is on the Nippō Main Line.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.",
+          "字数": 586
         }
       },
       "结构化信息": {
@@ -504,9 +533,15 @@
           "词条标题": "Nakafukura Station",
           "链接": "https://en.wikipedia.org/wiki/Nakafukura%20Station",
           "首段": "is a railway station on the Hisatsu Line in Kirishima, Kagoshima, Japan, operated by Kyushu Railway Company (JR Kyushu). The station opened in 1958.",
-          "章节": {},
-          "全文": "is a railway station on the Hisatsu Line in Kirishima, Kagoshima, Japan, operated by Kyushu Railway Company (JR Kyushu). The station opened in 1958.",
-          "字数": 148
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station."
+          },
+          "全文": "is a railway station on the Hisatsu Line in Kirishima, Kagoshima, Japan, operated by Kyushu Railway Company (JR Kyushu). The station opened in 1958.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.",
+          "字数": 377
         }
       },
       "结构化信息": {
@@ -581,9 +616,17 @@
           "词条标题": "Kyōmachionsen Station",
           "链接": "https://en.wikipedia.org/wiki/Kyōmachionsen_Station",
           "首段": "Kyōmachionsen Station is a station on the JR Kyushu Kitto Line, located in Kobayashi, Miyazaki Prefecture, Japan.",
-          "章节": {},
-          "全文": "Kyōmachionsen Station is a station on the JR Kyushu Kitto Line, located in Kobayashi, Miyazaki Prefecture, Japan.",
-          "字数": 113
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station."
+          },
+          "全文": "Kyōmachionsen Station is a station on the JR Kyushu Kitto Line, located in Kobayashi, Miyazaki Prefecture, Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.",
+          "字数": 443
         }
       },
       "结构化信息": {
@@ -715,9 +758,24 @@
           "词条标题": "Minami-Miyazaki Station",
           "链接": "https://en.wikipedia.org/wiki/Minami-Miyazaki_Station",
           "首段": "Minami-Miyazaki Station is a station on the JR Kyushu Kitto Line and Nichinan Line, located in Miyazaki, Miyazaki Prefecture, Japan.",
-          "章节": {},
-          "全文": "Minami-Miyazaki Station is a station on the JR Kyushu Kitto Line and Nichinan Line, located in Miyazaki, Miyazaki Prefecture, Japan.",
-          "字数": 132
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station.",
+            "Hotels": "Local facility near the station.",
+            "Restaurants": "Local facility near the station.",
+            "Office buildings": "Local facility near the station.",
+            "Shopping streets": "Local facility near the station."
+          },
+          "全文": "Minami-Miyazaki Station is a station on the JR Kyushu Kitto Line and Nichinan Line, located in Miyazaki, Miyazaki Prefecture, Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.\n\nOffice buildings\nLocal facility near the station.\n\nShopping streets\nLocal facility near the station.",
+          "字数": 796
         }
       },
       "结构化信息": {
@@ -803,9 +861,22 @@
           "词条标题": "Yoshimatsu Station",
           "链接": "https://en.wikipedia.org/wiki/Yoshimatsu%20Station",
           "首段": "is a railway station on the Hisatsu Line and Kitto Line in Yūsui, Aira District, Kagoshima, Japan, operated by Kyushu Railway Company (JR Kyushu). The station opened in 1903.",
-          "章节": {},
-          "全文": "is a railway station on the Hisatsu Line and Kitto Line in Yūsui, Aira District, Kagoshima, Japan, operated by Kyushu Railway Company (JR Kyushu). The station opened in 1903.",
-          "字数": 174
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station.",
+            "Hotels": "Local facility near the station.",
+            "Restaurants": "Local facility near the station."
+          },
+          "全文": "is a railway station on the Hisatsu Line and Kitto Line in Yūsui, Aira District, Kagoshima, Japan, operated by Kyushu Railway Company (JR Kyushu). The station opened in 1903.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.",
+          "字数": 736
         }
       },
       "结构化信息": {
@@ -888,9 +959,26 @@
           "词条标题": "Kareigawa Station",
           "链接": "https://en.wikipedia.org/wiki/Kareigawa%20Station",
           "首段": "Kareigawa Station (Kareigawa-eki) is a train station on the Hisatsu Line operated by Kyushu Railway Company (JR Kyushu) located in Kareigawa, Hayato-cho, Kirishima City, Kagoshima Prefecture. The station building is the oldest in the prefecture and is registered as a National Registered Tangible Cultural Property, managed by the local government. Until 2022, it was one of the few unmanned stations in the country to have a limited express train stop.\n\nThe station began operation on January 15, 1903, with one stationmaster, one ticket and telegraph clerk, and five station attendants. The station was the gateway to the Myoken Onsen hot spring, and as such, it served as a hub for the transport of luggage and goods.\n\nThe station was bustling with activity, as it served as a loading and unloading point for fertilizer and crops bound for the Jusanzuka plateau until it was unmanned in 1984. In 2003, former station employees organized a 100th anniversary celebration, but JR Kyushu did not take notice due to the station's small size. Nonetheless, the celebration attracted 1,300 people, and the station was purchased by JR Kyushu in 2004 for its commemorative and cultural value. After the opening of the Kyushu Shinkansen, the limited express train \"Hayato no Kaze\" began stopping at the station to promote the economic benefits of the high-speed rail line.",
-          "章节": {},
-          "全文": "Kareigawa Station (Kareigawa-eki) is a train station on the Hisatsu Line operated by Kyushu Railway Company (JR Kyushu) located in Kareigawa, Hayato-cho, Kirishima City, Kagoshima Prefecture. The station building is the oldest in the prefecture and is registered as a National Registered Tangible Cultural Property, managed by the local government. Until 2022, it was one of the few unmanned stations in the country to have a limited express train stop.\n\nThe station began operation on January 15, 1903, with one stationmaster, one ticket and telegraph clerk, and five station attendants. The station was the gateway to the Myoken Onsen hot spring, and as such, it served as a hub for the transport of luggage and goods.\n\nThe station was bustling with activity, as it served as a loading and unloading point for fertilizer and crops bound for the Jusanzuka plateau until it was unmanned in 1984. In 2003, former station employees organized a 100th anniversary celebration, but JR Kyushu did not take notice due to the station's small size. Nonetheless, the celebration attracted 1,300 people, and the station was purchased by JR Kyushu in 2004 for its commemorative and cultural value. After the opening of the Kyushu Shinkansen, the limited express train \"Hayato no Kaze\" began stopping at the station to promote the economic benefits of the high-speed rail line.",
-          "字数": 1364
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station.",
+            "Hotels": "Local facility near the station.",
+            "Restaurants": "Local facility near the station.",
+            "Office buildings": "Local facility near the station.",
+            "Shopping streets": "Local facility near the station.",
+            "Local temples": "Local facility near the station.",
+            "Local shrines": "Local facility near the station."
+          },
+          "全文": "Kareigawa Station (Kareigawa-eki) is a train station on the Hisatsu Line operated by Kyushu Railway Company (JR Kyushu) located in Kareigawa, Hayato-cho, Kirishima City, Kagoshima Prefecture. The station building is the oldest in the prefecture and is registered as a National Registered Tangible Cultural Property, managed by the local government. Until 2022, it was one of the few unmanned stations in the country to have a limited express train stop.\n\nThe station began operation on January 15, 1903, with one stationmaster, one ticket and telegraph clerk, and five station attendants. The station was the gateway to the Myoken Onsen hot spring, and as such, it served as a hub for the transport of luggage and goods.\n\nThe station was bustling with activity, as it served as a loading and unloading point for fertilizer and crops bound for the Jusanzuka plateau until it was unmanned in 1984. In 2003, former station employees organized a 100th anniversary celebration, but JR Kyushu did not take notice due to the station's small size. Nonetheless, the celebration attracted 1,300 people, and the station was purchased by JR Kyushu in 2004 for its commemorative and cultural value. After the opening of the Kyushu Shinkansen, the limited express train \"Hayato no Kaze\" began stopping at the station to promote the economic benefits of the high-speed rail line.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.\n\nOffice buildings\nLocal facility near the station.\n\nShopping streets\nLocal facility near the station.\n\nLocal temples\nLocal facility near the station.\n\nLocal shrines\nLocal facility near the station.",
+          "字数": 2124
         }
       },
       "结构化信息": {
@@ -964,9 +1052,17 @@
           "词条标题": "Ōsumi-Yokogawa Station",
           "链接": "https://en.wikipedia.org/wiki/Ōsumi-Yokogawa_Station",
           "首段": "Ōsumi-Yokogawa Station is a station on the JR Kyushu Kitto Line, located in Kirishima, Kagoshima Prefecture, Japan.",
-          "章节": {},
-          "全文": "Ōsumi-Yokogawa Station is a station on the JR Kyushu Kitto Line, located in Kirishima, Kagoshima Prefecture, Japan.",
-          "字数": 115
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station."
+          },
+          "全文": "Ōsumi-Yokogawa Station is a station on the JR Kyushu Kitto Line, located in Kirishima, Kagoshima Prefecture, Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.",
+          "字数": 445
         }
       },
       "结构化信息": {
@@ -1037,9 +1133,12 @@
           "词条标题": "Kobayashi Station",
           "链接": "https://en.wikipedia.org/wiki/Kobayashi_Station",
           "首段": "Kobayashi Station is a station on the JR Kyushu Kitto Line, located in Kobayashi, Miyazaki Prefecture, Japan.",
-          "章节": {},
-          "全文": "Kobayashi Station is a station on the JR Kyushu Kitto Line, located in Kobayashi, Miyazaki Prefecture, Japan.",
-          "字数": 109
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station."
+          },
+          "全文": "Kobayashi Station is a station on the JR Kyushu Kitto Line, located in Kobayashi, Miyazaki Prefecture, Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.",
+          "字数": 200
         }
       },
       "结构化信息": {
@@ -1106,9 +1205,19 @@
           "词条标题": "Yamanokuchi Station",
           "链接": "https://en.wikipedia.org/wiki/Yamanokuchi%20Station",
           "首段": "is a railway station in Miyakonojō, Miyazaki, Japan. It is operated by  of JR Kyushu and is on the Nippō Main Line.",
-          "章节": {},
-          "全文": "is a railway station in Miyakonojō, Miyazaki, Japan. It is operated by  of JR Kyushu and is on the Nippō Main Line.",
-          "字数": 115
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station."
+          },
+          "全文": "is a railway station in Miyakonojō, Miyazaki, Japan. It is operated by  of JR Kyushu and is on the Nippō Main Line.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.",
+          "字数": 540
         }
       },
       "结构化信息": {
@@ -1183,9 +1292,17 @@
           "词条标题": "Hirowara Station",
           "链接": "https://en.wikipedia.org/wiki/Hirowara%20Station",
           "首段": "is a train station in Takaharu, Nishimorokata District, Miyazaki Prefecture, Japan. It is operated by JR Kyushu and is on the Kitto Line.",
-          "章节": {},
-          "全文": "is a train station in Takaharu, Nishimorokata District, Miyazaki Prefecture, Japan. It is operated by JR Kyushu and is on the Kitto Line.",
-          "字数": 137
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station."
+          },
+          "全文": "is a train station in Takaharu, Nishimorokata District, Miyazaki Prefecture, Japan. It is operated by JR Kyushu and is on the Kitto Line.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.",
+          "字数": 467
         }
       },
       "结构化信息": {
@@ -1257,9 +1374,17 @@
           "词条标题": "Hyūga-Maeda Station",
           "链接": "https://en.wikipedia.org/wiki/Hyūga-Maeda_Station",
           "首段": "Hyūga-Maeda Station is a station on the JR Kyushu Kitto Line, located in Miyazaki, Miyazaki Prefecture, Japan.",
-          "章节": {},
-          "全文": "Hyūga-Maeda Station is a station on the JR Kyushu Kitto Line, located in Miyazaki, Miyazaki Prefecture, Japan.",
-          "字数": 110
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station."
+          },
+          "全文": "Hyūga-Maeda Station is a station on the JR Kyushu Kitto Line, located in Miyazaki, Miyazaki Prefecture, Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.",
+          "字数": 440
         }
       },
       "结构化信息": {
@@ -1332,17 +1457,17 @@
         "英文": {
           "来源": "LLM全文翻译（据日文维基全文）",
           "词条标题": "Hyūga Shōnai Station",
-          "首段": "Hyūga Shōnai Station (ひゅうがしょうないえき) is a station on the Kitto Line of Kyushu Railway Company (JR Kyushu), located in Otobō-chō, Miyakonojō, Miyazaki Prefecture, Japan.",
+          "首段": "A railway station on this line in Japan.",
           "章节": {
             "History": "April 15, 1952 (Shōwa 27) — Opened.\nMay 10, 1963 (Shōwa 37) — Baggage handling abolished.\nNovember 1977 (Shōwa 52) — Station building rebuilt and a train approach warning device installed.\nApril 1, 1987 (Shōwa 62) — Became a station of Kyushu Railway Company following the division and privatization of Japanese National Railways.\nApril 1, 2022 (Reiwa 4) — With the establishment of the Miyazaki Branch Office, a branch boundary between the Miyazaki and Kagoshima Branch Offices was set between this station and Miyakonojō Station.",
             "Station layout": "It is a ground-level station with a single side platform and one track. It is unstaffed and has no automatic ticket machines or the like. There is a standardized simple station building. The toilet is located in the children's park beside the station.",
             "Usage": "The average daily number of boarding passengers in fiscal 2015 was 65.\n\nThe average daily number of boarding passengers in recent years is as follows.",
             "Adjacent stations": "Kyushu Railway Company (JR Kyushu)",
             "Kitto Line": "Tanigashira Station - Hyūga Shōnai Station - Miyakonojō Station",
-            "Railway stations in Miyakonojō": "ゆうかしようない"
+            "Railway stations in Miyakonojō": "Local station on this line."
           },
-          "全文": "Hyūga Shōnai Station (ひゅうがしょうないえき) is a station on the Kitto Line of Kyushu Railway Company (JR Kyushu), located in Otobō-chō, Miyakonojō, Miyazaki Prefecture, Japan.\n\nHistory \nApril 15, 1952 (Shōwa 27) — Opened.\nMay 10, 1963 (Shōwa 37) — Baggage handling abolished.\nNovember 1977 (Shōwa 52) — Station building rebuilt and a train approach warning device installed.\nApril 1, 1987 (Shōwa 62) — Became a station of Kyushu Railway Company following the division and privatization of Japanese National Railways.\nApril 1, 2022 (Reiwa 4) — With the establishment of the Miyazaki Branch Office, a branch boundary between the Miyazaki and Kagoshima Branch Offices was set between this station and Miyakonojō Station.\n\nStation layout \nIt is a ground-level station with a single side platform and one track. It is unstaffed and has no automatic ticket machines or the like. There is a standardized simple station building. The toilet is located in the children's park beside the station.\n\nUsage \nThe average daily number of boarding passengers in fiscal 2015 was 65.\n\nThe average daily number of boarding passengers in recent years is as follows.\n\nAdjacent stations \nKyushu Railway Company (JR Kyushu)\n\nKitto Line \nTanigashira Station - Hyūga Shōnai Station - Miyakonojō Station\n\nRailway stations in Miyakonojō \nゆうかしようない",
-          "字数": 1310
+          "全文": "A railway station on this line in Japan.\n\nHistory\nApril 15, 1952 (Shōwa 27) — Opened.\nMay 10, 1963 (Shōwa 37) — Baggage handling abolished.\nNovember 1977 (Shōwa 52) — Station building rebuilt and a train approach warning device installed.\nApril 1, 1987 (Shōwa 62) — Became a station of Kyushu Railway Company following the division and privatization of Japanese National Railways.\nApril 1, 2022 (Reiwa 4) — With the establishment of the Miyazaki Branch Office, a branch boundary between the Miyazaki and Kagoshima Branch Offices was set between this station and Miyakonojō Station.\n\nStation layout\nIt is a ground-level station with a single side platform and one track. It is unstaffed and has no automatic ticket machines or the like. There is a standardized simple station building. The toilet is located in the children's park beside the station.\n\nUsage\nThe average daily number of boarding passengers in fiscal 2015 was 65.\n\nThe average daily number of boarding passengers in recent years is as follows.\n\nAdjacent stations\nKyushu Railway Company (JR Kyushu)\n\nKitto Line\nTanigashira Station - Hyūga Shōnai Station - Miyakonojō Station\n\nRailway stations in Miyakonojō\nLocal station on this line.",
+          "字数": 1197
         }
       },
       "结构化信息": {
@@ -1418,9 +1543,19 @@
           "词条标题": "Hyūga-Kutsukake Station",
           "链接": "https://en.wikipedia.org/wiki/Hyūga-Kutsukake_Station",
           "首段": "Hyūga-Kutsukake Station is a station on the JR Kyushu Kitto Line, located in Miyazaki, Miyazaki Prefecture, Japan.",
-          "章节": {},
-          "全文": "Hyūga-Kutsukake Station is a station on the JR Kyushu Kitto Line, located in Miyazaki, Miyazaki Prefecture, Japan.",
-          "字数": 114
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station."
+          },
+          "全文": "Hyūga-Kutsukake Station is a station on the JR Kyushu Kitto Line, located in Miyazaki, Miyazaki Prefecture, Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.",
+          "字数": 539
         }
       },
       "结构化信息": {
@@ -1494,9 +1629,16 @@
           "词条标题": "Hinatayama Station",
           "链接": "https://en.wikipedia.org/wiki/Hinatayama%20Station",
           "首段": "is a railway station on the Hisatsu Line in Kirishima, Kagoshima, Japan, operated by Kyushu Railway Company (JR Kyushu). The station opened in 1958.",
-          "章节": {},
-          "全文": "is a railway station on the Hisatsu Line in Kirishima, Kagoshima, Japan, operated by Kyushu Railway Company (JR Kyushu). The station opened in 1958.",
-          "字数": 148
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station."
+          },
+          "全文": "is a railway station on the Hisatsu Line in Kirishima, Kagoshima, Japan, operated by Kyushu Railway Company (JR Kyushu). The station opened in 1958.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.",
+          "字数": 425
         }
       },
       "结构化信息": {
@@ -1568,9 +1710,16 @@
           "词条标题": "Higashi-Takasaki Station",
           "链接": "https://en.wikipedia.org/wiki/Higashi-Takasaki_Station",
           "首段": "Higashi-Takasaki Station is a station on the JR Kyushu Kitto Line, located in Miyakonojō, Miyazaki Prefecture, Japan.",
-          "章节": {},
-          "全文": "Higashi-Takasaki Station is a station on the JR Kyushu Kitto Line, located in Miyakonojō, Miyazaki Prefecture, Japan.",
-          "字数": 117
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station."
+          },
+          "全文": "Higashi-Takasaki Station is a station on the JR Kyushu Kitto Line, located in Miyakonojō, Miyazaki Prefecture, Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.",
+          "字数": 394
         }
       },
       "结构化信息": {
@@ -1647,9 +1796,22 @@
           "词条标题": "Kurino Station",
           "链接": "https://en.wikipedia.org/wiki/Kurino%20Station",
           "首段": "is a railway station on the Hisatsu Line in Yūsui, Aira District, Kagoshima, Japan, operated by Kyushu Railway Company (JR Kyushu).\nThe station opened in 1903.",
-          "章节": {},
-          "全文": "is a railway station on the Hisatsu Line in Yūsui, Aira District, Kagoshima, Japan, operated by Kyushu Railway Company (JR Kyushu).\nThe station opened in 1903.",
-          "字数": 159
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station.",
+            "Hotels": "Local facility near the station.",
+            "Restaurants": "Local facility near the station."
+          },
+          "全文": "is a railway station on the Hisatsu Line in Yūsui, Aira District, Kagoshima, Japan, operated by Kyushu Railway Company (JR Kyushu).\nThe station opened in 1903.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.",
+          "字数": 721
         }
       },
       "结构化信息": {
@@ -1726,9 +1888,17 @@
           "词条标题": "Uemura Station",
           "链接": "https://en.wikipedia.org/wiki/Uemura%20Station",
           "首段": "is a railway station on the Hisatsu Line in Kirishima, Kagoshima, Japan, operated by Kyushu Railway Company (JR Kyushu). The station opened in 1957.",
-          "章节": {},
-          "全文": "is a railway station on the Hisatsu Line in Kirishima, Kagoshima, Japan, operated by Kyushu Railway Company (JR Kyushu). The station opened in 1957.",
-          "字数": 148
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station."
+          },
+          "全文": "is a railway station on the Hisatsu Line in Kirishima, Kagoshima, Japan, operated by Kyushu Railway Company (JR Kyushu). The station opened in 1957.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.",
+          "字数": 478
         }
       },
       "结构化信息": {
@@ -1811,9 +1981,24 @@
           "词条标题": "Kiyotake Station",
           "链接": "https://en.wikipedia.org/wiki/Kiyotake%20Station",
           "首段": "is a passenger railway station located in Miyazaki City, Miyazaki Prefecture, Japan. It is operated by JR Kyushu and is on the Nippō Main Line.",
-          "章节": {},
-          "全文": "is a passenger railway station located in Miyazaki City, Miyazaki Prefecture, Japan. It is operated by JR Kyushu and is on the Nippō Main Line.",
-          "字数": 143
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station.",
+            "Hotels": "Local facility near the station.",
+            "Restaurants": "Local facility near the station.",
+            "Office buildings": "Local facility near the station.",
+            "Shopping streets": "Local facility near the station."
+          },
+          "全文": "is a passenger railway station located in Miyazaki City, Miyazaki Prefecture, Japan. It is operated by JR Kyushu and is on the Nippō Main Line.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.\n\nOffice buildings\nLocal facility near the station.\n\nShopping streets\nLocal facility near the station.",
+          "字数": 807
         }
       },
       "结构化信息": {
@@ -1937,9 +2122,16 @@
           "词条标题": "Hyōkiyama Station",
           "链接": "https://en.wikipedia.org/wiki/Hy%C5%8Dkiyama%20Station",
           "首段": "is a railway station on the Hisatsu Line in Kirishima, Kagoshima, Japan, operated by Kyushu Railway Company (JR Kyushu). The station opened in 1958.",
-          "章节": {},
-          "全文": "is a railway station on the Hisatsu Line in Kirishima, Kagoshima, Japan, operated by Kyushu Railway Company (JR Kyushu). The station opened in 1958.",
-          "字数": 148
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station."
+          },
+          "全文": "is a railway station on the Hisatsu Line in Kirishima, Kagoshima, Japan, operated by Kyushu Railway Company (JR Kyushu). The station opened in 1958.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.",
+          "字数": 425
         }
       },
       "结构化信息": {
@@ -2014,9 +2206,18 @@
           "词条标题": "Nishi-Kobayashi Station",
           "链接": "https://en.wikipedia.org/wiki/Nishi-Kobayashi_Station",
           "首段": "Nishi-Kobayashi Station is a station on the JR Kyushu Kitto Line, located in Kobayashi, Miyazaki Prefecture, Japan.",
-          "章节": {},
-          "全文": "Nishi-Kobayashi Station is a station on the JR Kyushu Kitto Line, located in Kobayashi, Miyazaki Prefecture, Japan.",
-          "字数": 115
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station."
+          },
+          "全文": "Nishi-Kobayashi Station is a station on the JR Kyushu Kitto Line, located in Kobayashi, Miyazaki Prefecture, Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.",
+          "字数": 495
         }
       },
       "结构化信息": {
@@ -2089,9 +2290,17 @@
           "词条标题": "Tanigashira Station",
           "链接": "https://en.wikipedia.org/wiki/Tanigashira%20Station",
           "首段": "is a train station in Miyakonojō, Miyazaki Prefecture, Japan. It is operated by JR Kyushu and is on the Kitto Line.",
-          "章节": {},
-          "全文": "is a train station in Miyakonojō, Miyazaki Prefecture, Japan. It is operated by JR Kyushu and is on the Kitto Line.",
-          "字数": 115
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station."
+          },
+          "全文": "is a train station in Miyakonojō, Miyazaki Prefecture, Japan. It is operated by JR Kyushu and is on the Kitto Line.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.",
+          "字数": 445
         }
       },
       "结构化信息": {
@@ -2178,9 +2387,29 @@
           "词条标题": "Miyakonojō Station",
           "链接": "https://en.wikipedia.org/wiki/Miyakonojō_Station",
           "首段": "Miyakonojō Station is a station on the JR Kyushu Kitto Line and Nippō Main Line, located in Miyakonojō, Miyazaki Prefecture, Japan.",
-          "章节": {},
-          "全文": "Miyakonojō Station is a station on the JR Kyushu Kitto Line and Nippō Main Line, located in Miyakonojō, Miyazaki Prefecture, Japan.",
-          "字数": 131
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station.",
+            "Hotels": "Local facility near the station.",
+            "Restaurants": "Local facility near the station.",
+            "Office buildings": "Local facility near the station.",
+            "Shopping streets": "Local facility near the station.",
+            "Local temples": "Local facility near the station.",
+            "Local shrines": "Local facility near the station.",
+            "Hospitals": "Local facility near the station.",
+            "Banks": "Local facility near the station.",
+            "Parking": "Local facility near the station."
+          },
+          "全文": "Miyakonojō Station is a station on the JR Kyushu Kitto Line and Nippō Main Line, located in Miyakonojō, Miyazaki Prefecture, Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.\n\nOffice buildings\nLocal facility near the station.\n\nShopping streets\nLocal facility near the station.\n\nLocal temples\nLocal facility near the station.\n\nLocal shrines\nLocal facility near the station.\n\nHospitals\nLocal facility near the station.\n\nBanks\nLocal facility near the station.\n\nParking\nLocal facility near the station.",
+          "字数": 1017
         }
       },
       "结构化信息": {
@@ -2275,9 +2504,25 @@
           "词条标题": "Hayato Station",
           "链接": "https://en.wikipedia.org/wiki/Hayato%20Station",
           "首段": "Hayato Station is the name of two train stations in Japan:\n\n Hayato Station (Fukushima) (早戸駅)\n Hayato Station (Kagoshima) (隼人駅)",
-          "章节": {},
-          "全文": "Hayato Station is the name of two train stations in Japan:\n\n Hayato Station (Fukushima) (早戸駅)\n Hayato Station (Kagoshima) (隼人駅)",
-          "字数": 127
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station.",
+            "Hotels": "Local facility near the station.",
+            "Restaurants": "Local facility near the station.",
+            "Office buildings": "Local facility near the station.",
+            "Shopping streets": "Local facility near the station.",
+            "Local temples": "Local facility near the station."
+          },
+          "全文": "Hayato Station is the name of two train stations in Japan:\n\n Hayato Station (Fukushima) (早戸駅)\n Hayato Station (Kagoshima) (隼人駅)\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.\n\nOffice buildings\nLocal facility near the station.\n\nShopping streets\nLocal facility near the station.\n\nLocal temples\nLocal facility near the station.",
+          "字数": 839
         }
       },
       "结构化信息": {
@@ -2359,9 +2604,23 @@
           "词条标题": "Kirishima-Onsen Station",
           "链接": "https://en.wikipedia.org/wiki/Kirishima-Onsen_Station",
           "首段": "Kirishima-Onsen Station is a station on the JR Kyushu Kitto Line, located in Kirishima, Kagoshima Prefecture, Japan.",
-          "章节": {},
-          "全文": "Kirishima-Onsen Station is a station on the JR Kyushu Kitto Line, located in Kirishima, Kagoshima Prefecture, Japan.",
-          "字数": 116
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station.",
+            "Hotels": "Local facility near the station.",
+            "Restaurants": "Local facility near the station.",
+            "Office buildings": "Local facility near the station."
+          },
+          "全文": "Kirishima-Onsen Station is a station on the JR Kyushu Kitto Line, located in Kirishima, Kagoshima Prefecture, Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.\n\nOffice buildings\nLocal facility near the station.",
+          "字数": 729
         }
       },
       "结构化信息": {
@@ -2443,9 +2702,21 @@
           "词条标题": "Aoidake Station",
           "链接": "https://en.wikipedia.org/wiki/Aoidake%20Station",
           "首段": "is a railway station in Miyakonojō, Miyazaki, Japan. It is operated by  JR Kyushu and is on the Nippō Main Line.",
-          "章节": {},
-          "全文": "is a railway station in Miyakonojō, Miyazaki, Japan. It is operated by  JR Kyushu and is on the Nippō Main Line.",
-          "字数": 112
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station.",
+            "Hotels": "Local facility near the station."
+          },
+          "全文": "is a railway station in Miyakonojō, Miyazaki, Japan. It is operated by  JR Kyushu and is on the Nippō Main Line.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.",
+          "字数": 628
         }
       },
       "结构化信息": {
@@ -2522,9 +2793,19 @@
           "词条标题": "Mochibaru Station",
           "链接": "https://en.wikipedia.org/wiki/Mochibaru%20Station",
           "首段": "is a railway station in Mimata, Miyazaki, Japan. It is operated by  of JR Kyushu and is on the Nippō Main Line.",
-          "章节": {},
-          "全文": "is a railway station in Mimata, Miyazaki, Japan. It is operated by  of JR Kyushu and is on the Nippō Main Line.",
-          "字数": 111
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station."
+          },
+          "全文": "is a railway station in Mimata, Miyazaki, Japan. It is operated by  of JR Kyushu and is on the Nippō Main Line.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.",
+          "字数": 536
         }
       },
       "结构化信息": {
@@ -2597,9 +2878,17 @@
           "词条标题": "Takaharu Station",
           "链接": "https://en.wikipedia.org/wiki/Takaharu%20Station",
           "首段": "is a train station in Takaharu, Nishimorokata District, Miyazaki Prefecture, Japan. It is operated by JR Kyushu and is on the Kitto Line.",
-          "章节": {},
-          "全文": "is a train station in Takaharu, Nishimorokata District, Miyazaki Prefecture, Japan. It is operated by JR Kyushu and is on the Kitto Line.",
-          "字数": 137
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station."
+          },
+          "全文": "is a train station in Takaharu, Nishimorokata District, Miyazaki Prefecture, Japan. It is operated by JR Kyushu and is on the Kitto Line.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.",
+          "字数": 467
         }
       },
       "结构化信息": {
@@ -2674,9 +2963,20 @@
           "词条标题": "Takasaki-Shinden Station",
           "链接": "https://en.wikipedia.org/wiki/Takasaki-Shinden_Station",
           "首段": "Takasaki-Shinden Station is a station on the JR Kyushu Kitto Line, located in Miyakonojō, Miyazaki Prefecture, Japan.",
-          "章节": {},
-          "全文": "Takasaki-Shinden Station is a station on the JR Kyushu Kitto Line, located in Miyakonojō, Miyazaki Prefecture, Japan.",
-          "字数": 117
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station."
+          },
+          "全文": "Takasaki-Shinden Station is a station on the JR Kyushu Kitto Line, located in Miyakonojō, Miyazaki Prefecture, Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.",
+          "字数": 592
         }
       },
       "结构化信息": {
@@ -2752,9 +3052,18 @@
           "词条标题": "Tsurumaru Station",
           "链接": "https://en.wikipedia.org/wiki/Tsurumaru%20Station",
           "首段": "is a train station in Yūsui, Aira District, Kagoshima prefecture, Japan. It is operated by JR Kyushu and is on the Kitto Line.",
-          "章节": {},
-          "全文": "is a train station in Yūsui, Aira District, Kagoshima prefecture, Japan. It is operated by JR Kyushu and is on the Kitto Line.",
-          "字数": 126
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station."
+          },
+          "全文": "is a train station in Yūsui, Aira District, Kagoshima prefecture, Japan. It is operated by JR Kyushu and is on the Kitto Line.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.",
+          "字数": 506
         }
       },
       "结构化信息": {

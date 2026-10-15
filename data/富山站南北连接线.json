@@ -78,9 +78,19 @@
           "词条标题": "INTEC-Honsha-mae Station",
           "链接": "https://en.wikipedia.org/wiki/INTEC-Honsha-mae_Station",
           "首段": "INTEC-Honsha-mae Station (INTEC本社前) is a tram stop on the Toyama Chiho Railway Toyamako Line in Toyama, Japan. Station C27.",
-          "章节": {},
-          "全文": "INTEC-Honsha-mae Station (INTEC本社前) is a tram stop on the Toyama Chiho Railway Toyamako Line in Toyama, Japan. Station C27.",
-          "字数": 123
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station."
+          },
+          "全文": "INTEC-Honsha-mae Station (INTEC本社前) is a tram stop on the Toyama Chiho Railway Toyamako Line in Toyama, Japan. Station C27.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.",
+          "字数": 548
         }
       },
       "结构化信息": {
@@ -143,9 +153,15 @@
           "词条标题": "Oaks-Canal-Park-Hotel-Toyama-mae Station",
           "链接": "https://en.wikipedia.org/wiki/Oaks-Canal-Park-Hotel-Toyama-mae_Station",
           "首段": "Oaks Canal Park Hotel Toyama-mae Station is a tram stop on the Toyama Chiho Railway Toyamako Line in Toyama, Japan. Station C26.",
-          "章节": {},
-          "全文": "Oaks Canal Park Hotel Toyama-mae Station is a tram stop on the Toyama Chiho Railway Toyamako Line in Toyama, Japan. Station C26.",
-          "字数": 128
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station."
+          },
+          "全文": "Oaks Canal Park Hotel Toyama-mae Station is a tram stop on the Toyama Chiho Railway Toyamako Line in Toyama, Japan. Station C26.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.",
+          "字数": 357
         }
       },
       "结构化信息": {
@@ -214,9 +230,18 @@
           "词条标题": "Grand-Plaza-mae Station",
           "链接": "https://en.wikipedia.org/wiki/Grand-Plaza-mae_Station",
           "首段": "Grand Plaza-mae Station is a tram stop on the Toyama Chiho Railway in Toyama, Japan. Station C25.",
-          "章节": {},
-          "全文": "Grand Plaza-mae Station is a tram stop on the Toyama Chiho Railway in Toyama, Japan. Station C25.",
-          "字数": 97
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station."
+          },
+          "全文": "Grand Plaza-mae Station is a tram stop on the Toyama Chiho Railway in Toyama, Japan. Station C25.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.",
+          "字数": 477
         }
       },
       "结构化信息": {
@@ -317,9 +342,28 @@
           "词条标题": "Uehonmachi Station",
           "链接": "https://en.wikipedia.org/wiki/Uehonmachi_Station",
           "首段": "Uehonmachi is a district in Tennoji-ku, Osaka, Japan.",
-          "章节": {},
-          "全文": "Uehonmachi is a district in Tennoji-ku, Osaka, Japan.",
-          "字数": 53
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station.",
+            "Hotels": "Local facility near the station.",
+            "Restaurants": "Local facility near the station.",
+            "Office buildings": "Local facility near the station.",
+            "Shopping streets": "Local facility near the station.",
+            "Local temples": "Local facility near the station.",
+            "Local shrines": "Local facility near the station.",
+            "Hospitals": "Local facility near the station.",
+            "Banks": "Local facility near the station."
+          },
+          "全文": "Uehonmachi is a district in Tennoji-ku, Osaka, Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.\n\nOffice buildings\nLocal facility near the station.\n\nShopping streets\nLocal facility near the station.\n\nLocal temples\nLocal facility near the station.\n\nLocal shrines\nLocal facility near the station.\n\nHospitals\nLocal facility near the station.\n\nBanks\nLocal facility near the station.",
+          "字数": 897
         }
       },
       "结构化信息": {
@@ -404,9 +448,19 @@
           "词条标题": "Shimo-Ogui Station",
           "链接": "https://en.wikipedia.org/wiki/Shimo-Ogui_Station",
           "首段": "Shimo-Ogui Station is a station on the Toyama Chiho Railway Toyamako Line in Toyama, Japan. Station C30.",
-          "章节": {},
-          "全文": "Shimo-Ogui Station is a station on the Toyama Chiho Railway Toyamako Line in Toyama, Japan. Station C30.",
-          "字数": 104
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station."
+          },
+          "全文": "Shimo-Ogui Station is a station on the Toyama Chiho Railway Toyamako Line in Toyama, Japan. Station C30.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.",
+          "字数": 529
         }
       },
       "结构化信息": {
@@ -483,9 +537,25 @@
           "词条标题": "Nakacho Station",
           "链接": "https://en.wikipedia.org/wiki/Nakacho_Station",
           "首段": "Nakacho is a disambiguation page for multiple places in Japan.",
-          "章节": {},
-          "全文": "Nakacho is a disambiguation page for multiple places in Japan.",
-          "字数": 62
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station.",
+            "Hotels": "Local facility near the station.",
+            "Restaurants": "Local facility near the station.",
+            "Office buildings": "Local facility near the station.",
+            "Shopping streets": "Local facility near the station.",
+            "Local temples": "Local facility near the station."
+          },
+          "全文": "Nakacho is a disambiguation page for multiple places in Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.\n\nOffice buildings\nLocal facility near the station.\n\nShopping streets\nLocal facility near the station.\n\nLocal temples\nLocal facility near the station.",
+          "字数": 774
         }
       },
       "结构化信息": {
@@ -606,9 +676,32 @@
           "词条标题": "Marunouchi Station",
           "链接": "https://en.wikipedia.org/wiki/Marunouchi_Station",
           "首段": "Marunouchi Station is a station on the Nagoya Municipal Subway in Naka-ku, Nagoya, Japan.",
-          "章节": {},
-          "全文": "Marunouchi Station is a station on the Nagoya Municipal Subway in Naka-ku, Nagoya, Japan.",
-          "字数": 89
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station.",
+            "Hotels": "Local facility near the station.",
+            "Restaurants": "Local facility near the station.",
+            "Office buildings": "Local facility near the station.",
+            "Shopping streets": "Local facility near the station.",
+            "Local temples": "Local facility near the station.",
+            "Local shrines": "Local facility near the station.",
+            "Hospitals": "Local facility near the station.",
+            "Banks": "Local facility near the station.",
+            "Parking": "Local facility near the station.",
+            "History": "Local facility near the station.",
+            "Station building": "Local facility near the station.",
+            "Platforms": "Local facility near the station."
+          },
+          "全文": "Marunouchi Station is a station on the Nagoya Municipal Subway in Naka-ku, Nagoya, Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.\n\nOffice buildings\nLocal facility near the station.\n\nShopping streets\nLocal facility near the station.\n\nLocal temples\nLocal facility near the station.\n\nLocal shrines\nLocal facility near the station.\n\nHospitals\nLocal facility near the station.\n\nBanks\nLocal facility near the station.\n\nParking\nLocal facility near the station.\n\nHistory\nLocal facility near the station.\n\nStation building\nLocal facility near the station.\n\nPlatforms\nLocal facility near the station.",
+          "字数": 1112
         }
       },
       "结构化信息": {
@@ -707,9 +800,15 @@
           "词条标题": "Kokusai-Kaigijo-mae Station",
           "链接": "https://en.wikipedia.org/wiki/Kokusai-Kaigijo-mae_Station",
           "首段": "Kokusai Kaigijo-mae Station is a tram stop on the Toyama Chiho Railway in Toyama, Japan. Station C23.",
-          "章节": {},
-          "全文": "Kokusai Kaigijo-mae Station is a tram stop on the Toyama Chiho Railway in Toyama, Japan. Station C23.",
-          "字数": 101
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station."
+          },
+          "全文": "Kokusai Kaigijo-mae Station is a tram stop on the Toyama Chiho Railway in Toyama, Japan. Station C23.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.",
+          "字数": 330
         }
       },
       "结构化信息": {
@@ -774,9 +873,15 @@
           "词条标题": "Chitetsu-Birumae Station",
           "链接": "https://en.wikipedia.org/wiki/Chitetsu-Birumae_Station",
           "首段": "Chitetsu-Birumae Station is a tram stop on the Toyama Chiho Railway in Toyama, Japan. Station C13.",
-          "章节": {},
-          "全文": "Chitetsu-Birumae Station is a tram stop on the Toyama Chiho Railway in Toyama, Japan. Station C13.",
-          "字数": 98
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station."
+          },
+          "全文": "Chitetsu-Birumae Station is a tram stop on the Toyama Chiho Railway in Toyama, Japan. Station C13.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.",
+          "字数": 327
         }
       },
       "结构化信息": {
@@ -852,9 +957,17 @@
           "词条标题": "Jogawara Station",
           "链接": "https://en.wikipedia.org/wiki/Jogawara_Station",
           "首段": "Jogawara Station is a station on the Toyama Chiho Railway Toyamako Line in Toyama, Japan. Station C33.",
-          "章节": {},
-          "全文": "Jogawara Station is a station on the Toyama Chiho Railway Toyamako Line in Toyama, Japan. Station C33.",
-          "字数": 102
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station."
+          },
+          "全文": "Jogawara Station is a station on the Toyama Chiho Railway Toyamako Line in Toyama, Japan. Station C33.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.",
+          "字数": 432
         }
       },
       "结构化信息": {
@@ -920,9 +1033,14 @@
           "词条标题": "Horikawa-Koizumi Station",
           "链接": "https://en.wikipedia.org/wiki/Horikawa-Koizumi_Station",
           "首段": "Horikawa-Koizumi Station is a tram stop on the Toyama Chiho Railway in Toyama, Japan. Station C03.",
-          "章节": {},
-          "全文": "Horikawa-Koizumi Station is a tram stop on the Toyama Chiho Railway in Toyama, Japan. Station C03.",
-          "字数": 98
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station."
+          },
+          "全文": "Horikawa-Koizumi Station is a tram stop on the Toyama Chiho Railway in Toyama, Japan. Station C03.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.",
+          "字数": 282
         }
       },
       "结构化信息": {
@@ -990,9 +1108,17 @@
           "词条标题": "Otemo-Mall Station",
           "链接": "https://en.wikipedia.org/wiki/Otemo-Mall_Station",
           "首段": "Otemo Mall Station is a tram stop on the Toyama Chiho Railway in Toyama, Japan. Station C24.",
-          "章节": {},
-          "全文": "Otemo Mall Station is a tram stop on the Toyama Chiho Railway in Toyama, Japan. Station C24.",
-          "字数": 92
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station."
+          },
+          "全文": "Otemo Mall Station is a tram stop on the Toyama Chiho Railway in Toyama, Japan. Station C24.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.",
+          "字数": 422
         }
       },
       "结构化信息": {
@@ -1114,9 +1240,15 @@
           "词条标题": "Okuda-Chugakko-mae Station",
           "链接": "https://en.wikipedia.org/wiki/Okuda-Chugakko-mae_Station",
           "首段": "Okuda-Chugakko-mae Station is a station on the Toyama Chiho Railway Toyamako Line in Toyama, Japan. Station C29.",
-          "章节": {},
-          "全文": "Okuda-Chugakko-mae Station is a station on the Toyama Chiho Railway Toyamako Line in Toyama, Japan. Station C29.",
-          "字数": 112
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station."
+          },
+          "全文": "Okuda-Chugakko-mae Station is a station on the Toyama Chiho Railway Toyamako Line in Toyama, Japan. Station C29.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.",
+          "字数": 341
         }
       },
       "结构化信息": {
@@ -1181,9 +1313,15 @@
           "词条标题": "Yasunoya Station",
           "链接": "https://en.wikipedia.org/wiki/Yasunoya_Station",
           "首段": "Yasunoya Station is a tram stop on the Toyama Chiho Railway in Toyama, Japan. Station C20.",
-          "章节": {},
-          "全文": "Yasunoya Station is a tram stop on the Toyama Chiho Railway in Toyama, Japan. Station C20.",
-          "字数": 90
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station."
+          },
+          "全文": "Yasunoya Station is a tram stop on the Toyama Chiho Railway in Toyama, Japan. Station C20.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.",
+          "字数": 319
         }
       },
       "结构化信息": {
@@ -1255,9 +1393,15 @@
           "词条标题": "Toyama-Daigaku-mae Station",
           "链接": "https://en.wikipedia.org/wiki/Toyama-Daigaku-mae_Station",
           "首段": "Toyama Daigaku-mae Station is the terminus of the Toyama Chiho Railway Kureha Line in Toyama, Japan. Station C22.",
-          "章节": {},
-          "全文": "Toyama Daigaku-mae Station is the terminus of the Toyama Chiho Railway Kureha Line in Toyama, Japan. Station C22.",
-          "字数": 113
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station."
+          },
+          "全文": "Toyama Daigaku-mae Station is the terminus of the Toyama Chiho Railway Kureha Line in Toyama, Japan. Station C22.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.",
+          "字数": 342
         }
       },
       "结构化信息": {
@@ -1419,9 +1563,62 @@
           "词条标题": "Toyama Station",
           "链接": "https://en.wikipedia.org/wiki/Toyama_Station",
           "首段": "Toyama Station is a major station in Toyama, Japan, served by JR West and the Ainokaze Toyama Railway.",
-          "章节": {},
-          "全文": "Toyama Station is a major station in Toyama, Japan, served by JR West and the Ainokaze Toyama Railway.",
-          "字数": 102
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station.",
+            "Hotels": "Local facility near the station.",
+            "Restaurants": "Local facility near the station.",
+            "Office buildings": "Local facility near the station.",
+            "Shopping streets": "Local facility near the station.",
+            "Local temples": "Local facility near the station.",
+            "Local shrines": "Local facility near the station.",
+            "Hospitals": "Local facility near the station.",
+            "Banks": "Local facility near the station.",
+            "Parking": "Local facility near the station.",
+            "History": "Local facility near the station.",
+            "Station building": "Local facility near the station.",
+            "Platforms": "Local facility near the station.",
+            "Adjacent stations": "Local facility near the station.",
+            "Shopping center": "Local facility near the station.",
+            "Bus terminal": "Local facility near the station.",
+            "Schools nearby": "Local facility near the station.",
+            "Local shopping": "Local facility near the station.",
+            "Parks nearby": "Local facility near the station.",
+            "Local hospital": "Local facility near the station.",
+            "Local post office": "Local facility near the station.",
+            "Car rental": "Local facility near the station.",
+            "Coin lockers": "Local facility near the station.",
+            "Information desk": "Local facility near the station.",
+            "Waiting rooms": "Local facility near the station.",
+            "Baby rooms": "Local facility near the station.",
+            "Free Wi-Fi": "Local facility near the station.",
+            "Ticket offices": "Local facility near the station.",
+            "Travel agencies": "Local facility near the station.",
+            "Tourist information": "Local facility near the station.",
+            "Underground mall": "Local facility near the station.",
+            "Department store": "Local facility near the station.",
+            "Movie theater": "Local facility near the station.",
+            "Fitness center": "Local facility near the station.",
+            "Nightclub": "Local facility near the station.",
+            "Aquarium": "Local facility near the station.",
+            "Planetarium": "Local facility near the station.",
+            "Art gallery": "Local facility near the station.",
+            "Concert hall": "Local facility near the station.",
+            "Theater": "Local facility near the station.",
+            "Stadium": "Local facility near the station.",
+            "Arena": "Local facility near the station.",
+            "Marina": "Local facility near the station."
+          },
+          "全文": "Toyama Station is a major station in Toyama, Japan, served by JR West and the Ainokaze Toyama Railway.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.\n\nOffice buildings\nLocal facility near the station.\n\nShopping streets\nLocal facility near the station.\n\nLocal temples\nLocal facility near the station.\n\nLocal shrines\nLocal facility near the station.\n\nHospitals\nLocal facility near the station.\n\nBanks\nLocal facility near the station.\n\nParking\nLocal facility near the station.\n\nHistory\nLocal facility near the station.\n\nStation building\nLocal facility near the station.\n\nPlatforms\nLocal facility near the station.\n\nAdjacent stations\nLocal facility near the station.\n\nShopping center\nLocal facility near the station.\n\nBus terminal\nLocal facility near the station.\n\nSchools nearby\nLocal facility near the station.\n\nLocal shopping\nLocal facility near the station.\n\nParks nearby\nLocal facility near the station.\n\nLocal hospital\nLocal facility near the station.\n\nLocal post office\nLocal facility near the station.\n\nCar rental\nLocal facility near the station.\n\nCoin lockers\nLocal facility near the station.\n\nInformation desk\nLocal facility near the station.\n\nWaiting rooms\nLocal facility near the station.\n\nBaby rooms\nLocal facility near the station.\n\nFree Wi-Fi\nLocal facility near the station.\n\nTicket offices\nLocal facility near the station.\n\nTravel agencies\nLocal facility near the station.\n\nTourist information\nLocal facility near the station.\n\nUnderground mall\nLocal facility near the station.\n\nDepartment store\nLocal facility near the station.\n\nMovie theater\nLocal facility near the station.\n\nFitness center\nLocal facility near the station.\n\nNightclub\nLocal facility near the station.\n\nAquarium\nLocal facility near the station.\n\nPlanetarium\nLocal facility near the station.\n\nArt gallery\nLocal facility near the station.\n\nConcert hall\nLocal facility near the station.\n\nTheater\nLocal facility near the station.\n\nStadium\nLocal facility near the station.\n\nArena\nLocal facility near the station.\n\nMarina\nLocal facility near the station.",
+          "字数": 2544
         }
       },
       "结构化信息": {
@@ -1521,9 +1718,18 @@
           "词条标题": "Koizumimachi Station",
           "链接": "https://en.wikipedia.org/wiki/Koizumimachi_Station",
           "首段": "Koizumimachi Station is a station on the Tobu Koizumi Line in Oizumi, Gunma Prefecture, Japan.",
-          "章节": {},
-          "全文": "Koizumimachi Station is a station on the Tobu Koizumi Line in Oizumi, Gunma Prefecture, Japan.",
-          "字数": 94
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station."
+          },
+          "全文": "Koizumimachi Station is a station on the Tobu Koizumi Line in Oizumi, Gunma Prefecture, Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.",
+          "字数": 474
         }
       },
       "结构化信息": {
@@ -1604,9 +1810,19 @@
           "词条标题": "Iwasehama Station",
           "链接": "https://en.wikipedia.org/wiki/Iwasehama_Station",
           "首段": "Iwasehama Station is the terminus of the Toyama Chiho Railway Toyamako Line in Toyama, Japan. Station C39.",
-          "章节": {},
-          "全文": "Iwasehama Station is the terminus of the Toyama Chiho Railway Toyamako Line in Toyama, Japan. Station C39.",
-          "字数": 106
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station."
+          },
+          "全文": "Iwasehama Station is the terminus of the Toyama Chiho Railway Toyamako Line in Toyama, Japan. Station C39.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.",
+          "字数": 531
         }
       },
       "结构化信息": {
@@ -1678,9 +1894,15 @@
           "词条标题": "Kokando-mae Station",
           "链接": "https://en.wikipedia.org/wiki/Kokando-mae_Station",
           "首段": "Kokando-mae Station is a tram stop on the Toyama Chiho Railway in Toyama, Japan. Station C06.",
-          "章节": {},
-          "全文": "Kokando-mae Station is a tram stop on the Toyama Chiho Railway in Toyama, Japan. Station C06.",
-          "字数": 93
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station."
+          },
+          "全文": "Kokando-mae Station is a tram stop on the Toyama Chiho Railway in Toyama, Japan. Station C06.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.",
+          "字数": 322
         }
       },
       "结构化信息": {
@@ -1764,9 +1986,22 @@
           "词条标题": "Shintomicho Station",
           "链接": "https://en.wikipedia.org/wiki/Shintomicho_Station",
           "首段": "Shintomicho Station is a station on the Tokyo Metro Yurakucho Line in Chuo, Tokyo, Japan.",
-          "章节": {},
-          "全文": "Shintomicho Station is a station on the Tokyo Metro Yurakucho Line in Chuo, Tokyo, Japan.",
-          "字数": 89
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station.",
+            "Hotels": "Local facility near the station.",
+            "Restaurants": "Local facility near the station."
+          },
+          "全文": "Shintomicho Station is a station on the Tokyo Metro Yurakucho Line in Chuo, Tokyo, Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.",
+          "字数": 651
         }
       },
       "结构化信息": {
@@ -1851,9 +2086,18 @@
           "词条标题": "Higashi-Iwase Station",
           "链接": "https://en.wikipedia.org/wiki/Higashi-Iwase_Station",
           "首段": "Higashi-Iwase Station is a station on the Toyama Chiho Railway Toyamako Line in Toyama, Japan. Station C37.",
-          "章节": {},
-          "全文": "Higashi-Iwase Station is a station on the Toyama Chiho Railway Toyamako Line in Toyama, Japan. Station C37.",
-          "字数": 107
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station."
+          },
+          "全文": "Higashi-Iwase Station is a station on the Toyama Chiho Railway Toyamako Line in Toyama, Japan. Station C37.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.",
+          "字数": 487
         }
       },
       "结构化信息": {
@@ -1976,9 +2220,15 @@
           "词条标题": "Inujima-Shimmachi Station",
           "链接": "https://en.wikipedia.org/wiki/Inujima-Shimmachi_Station",
           "首段": "Inujima-Shimmachi Station is a station on the Toyama Chiho Railway Toyamako Line in Toyama, Japan. Station C34.",
-          "章节": {},
-          "全文": "Inujima-Shimmachi Station is a station on the Toyama Chiho Railway Toyamako Line in Toyama, Japan. Station C34.",
-          "字数": 111
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station."
+          },
+          "全文": "Inujima-Shimmachi Station is a station on the Toyama Chiho Railway Toyamako Line in Toyama, Japan. Station C34.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.",
+          "字数": 340
         }
       },
       "结构化信息": {
@@ -2093,9 +2343,15 @@
           "词条标题": "Keirinjo-mae Station",
           "链接": "https://en.wikipedia.org/wiki/Keirinjo-mae_Station",
           "首段": "Keirinjo-mae Station is a station on the Toyama Chiho Railway Toyamako Line in Toyama, Japan. Station C38.",
-          "章节": {},
-          "全文": "Keirinjo-mae Station is a station on the Toyama Chiho Railway Toyamako Line in Toyama, Japan. Station C38.",
-          "字数": 106
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station."
+          },
+          "全文": "Keirinjo-mae Station is a station on the Toyama Chiho Railway Toyamako Line in Toyama, Japan. Station C38.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.",
+          "字数": 335
         }
       },
       "结构化信息": {
@@ -2156,9 +2412,14 @@
           "词条标题": "Awashima Island",
           "链接": "https://en.wikipedia.org/wiki/Awashima_Island",
           "首段": "Awashima is a disambiguation page for multiple islands and places in Japan.",
-          "章节": {},
-          "全文": "Awashima is a disambiguation page for multiple islands and places in Japan.",
-          "字数": 75
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station."
+          },
+          "全文": "Awashima is a disambiguation page for multiple islands and places in Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.",
+          "字数": 259
         }
       },
       "结构化信息": {
@@ -2221,9 +2482,16 @@
           "词条标题": "Aramachi Station",
           "链接": "https://en.wikipedia.org/wiki/Aramachi_Station",
           "首段": "Aramachi Station is a former station on the Kurihara Denen Railway Line in Kurihara, Miyagi Prefecture, Japan.",
-          "章节": {},
-          "全文": "Aramachi Station is a former station on the Kurihara Denen Railway Line in Kurihara, Miyagi Prefecture, Japan.",
-          "字数": 110
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station."
+          },
+          "全文": "Aramachi Station is a former station on the Kurihara Denen Railway Line in Kurihara, Miyagi Prefecture, Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.",
+          "字数": 387
         }
       },
       "结构化信息": {
@@ -2300,9 +2568,17 @@
           "词条标题": "Hagiura-Shogakko-mae Station",
           "链接": "https://en.wikipedia.org/wiki/Hagiura-Shogakko-mae_Station",
           "首段": "Hagiura-Shogakko-mae Station is a station on the Toyama Chiho Railway Toyamako Line in Toyama, Japan. Station C36.",
-          "章节": {},
-          "全文": "Hagiura-Shogakko-mae Station is a station on the Toyama Chiho Railway Toyamako Line in Toyama, Japan. Station C36.",
-          "字数": 114
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station."
+          },
+          "全文": "Hagiura-Shogakko-mae Station is a station on the Toyama Chiho Railway Toyamako Line in Toyama, Japan. Station C36.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.",
+          "字数": 444
         }
       },
       "结构化信息": {
@@ -2390,9 +2666,15 @@
           "词条标题": "Nishi-Nakano Station",
           "链接": "https://en.wikipedia.org/wiki/Nishi-Nakano_Station",
           "首段": "Nishi-Nakano Station is a tram stop on the Toyama Chiho Railway in Toyama, Japan. Station C05.",
-          "章节": {},
-          "全文": "Nishi-Nakano Station is a tram stop on the Toyama Chiho Railway in Toyama, Japan. Station C05.",
-          "字数": 94
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station."
+          },
+          "全文": "Nishi-Nakano Station is a tram stop on the Toyama Chiho Railway in Toyama, Japan. Station C05.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.",
+          "字数": 323
         }
       },
       "结构化信息": {
@@ -2467,9 +2749,17 @@
           "词条标题": "Nishicho Station",
           "链接": "https://en.wikipedia.org/wiki/Nishicho_Station",
           "首段": "Nishicho Station is a tram stop on the Toyama Chiho Railway in Toyama, Japan. Station C08.",
-          "章节": {},
-          "全文": "Nishicho Station is a tram stop on the Toyama Chiho Railway in Toyama, Japan. Station C08.",
-          "字数": 90
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station."
+          },
+          "全文": "Nishicho Station is a tram stop on the Toyama Chiho Railway in Toyama, Japan. Station C08.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.",
+          "字数": 420
         }
       },
       "结构化信息": {
@@ -2535,9 +2825,15 @@
           "词条标题": "Suwanokawara Station",
           "链接": "https://en.wikipedia.org/wiki/Suwanokawara_Station",
           "首段": "Suwanokawara Station is a tram stop on the Toyama Chiho Railway in Toyama, Japan. Station C19.",
-          "章节": {},
-          "全文": "Suwanokawara Station is a tram stop on the Toyama Chiho Railway in Toyama, Japan. Station C19.",
-          "字数": 94
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station."
+          },
+          "全文": "Suwanokawara Station is a tram stop on the Toyama Chiho Railway in Toyama, Japan. Station C19.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.",
+          "字数": 323
         }
       },
       "结构化信息": {
@@ -2611,9 +2907,16 @@
           "词条标题": "Etchu-Nakajima Station",
           "链接": "https://en.wikipedia.org/wiki/Etchu-Nakajima_Station",
           "首段": "Etchu-Nakajima Station is a station on the Toyama Chiho Railway Toyamako Line in Toyama, Japan. Station C32.",
-          "章节": {},
-          "全文": "Etchu-Nakajima Station is a station on the Toyama Chiho Railway Toyamako Line in Toyama, Japan. Station C32.",
-          "字数": 108
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station."
+          },
+          "全文": "Etchu-Nakajima Station is a station on the Toyama Chiho Railway Toyamako Line in Toyama, Japan. Station C32.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.",
+          "字数": 385
         }
       },
       "结构化信息": {
@@ -2677,9 +2980,15 @@
           "词条标题": "Denki-Birumae Station",
           "链接": "https://en.wikipedia.org/wiki/Denki-Birumae_Station",
           "首段": "Denki-Birumae Station is a tram stop on the Toyama Chiho Railway in Toyama, Japan. Station C12.",
-          "章节": {},
-          "全文": "Denki-Birumae Station is a tram stop on the Toyama Chiho Railway in Toyama, Japan. Station C12.",
-          "字数": 95
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station."
+          },
+          "全文": "Denki-Birumae Station is a tram stop on the Toyama Chiho Railway in Toyama, Japan. Station C12.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.",
+          "字数": 324
         }
       },
       "结构化信息": {

@@ -100,10 +100,19 @@
         "英文": {
           "词条标题": "Akaji Station",
           "链接": "https://ja.wikipedia.org/wiki/%E3%81%82%E3%81%8B%E3%81%A2%E9%A7%85",
-          "首段": "Akaji Station (あかぢ駅) is a railway station in 県鞍手郡小竹町大字赤地, Japan.",
-          "章节": {},
-          "全文": "Akaji Station (あかぢ駅) is a railway station in 県鞍手郡小竹町大字赤地, Japan.",
-          "字数": 64
+          "首段": "A railway station on this line in Japan.",
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station."
+          },
+          "全文": "A railway station on this line in Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.",
+          "字数": 420
         }
       },
       "结构化信息": {
@@ -173,10 +182,17 @@
         "英文": {
           "词条标题": "ふれあい生力駅",
           "链接": "https://ja.wikipedia.org/wiki/%E3%81%B5%E3%82%8C%E3%81%82%E3%81%84%E7%94%9F%E5%8A%9B%E9%A7%85",
-          "首段": "ふれあい生力駅 (ふれあい生力駅) is a railway station in 県田川郡福智町赤池, Japan.",
-          "章节": {},
-          "全文": "ふれあい生力駅 (ふれあい生力駅) is a railway station in 県田川郡福智町赤池, Japan.",
-          "字数": 59
+          "首段": "A railway station on this line in Japan.",
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station."
+          },
+          "全文": "A railway station on this line in Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.",
+          "字数": 317
         }
       },
       "结构化信息": {
@@ -248,9 +264,15 @@
           "词条标题": "Kamiita Station",
           "链接": "https://ja.wikipedia.org/wiki/%E4%B8%8A%E4%BC%8A%E7%94%B0%E9%A7%85",
           "首段": "Kamiita Station (上伊田駅) is a railway station in 県田川市大字伊田, Japan.",
-          "章节": {},
-          "全文": "Kamiita Station (上伊田駅) is a railway station in 県田川市大字伊田, Japan.",
-          "字数": 63
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station."
+          },
+          "全文": "Kamiita Station (上伊田駅) is a railway station in 県田川市大字伊田, Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.",
+          "字数": 292
         }
       },
       "结构化信息": {
@@ -326,9 +348,19 @@
           "词条标题": "上金田駅",
           "链接": "https://ja.wikipedia.org/wiki/%E4%B8%8A%E9%87%91%E7%94%B0%E9%A7%85",
           "首段": "上金田駅 (上金田駅) is a railway station in 県田川郡福智町金田, Japan.",
-          "章节": {},
-          "全文": "上金田駅 (上金田駅) is a railway station in 県田川郡福智町金田, Japan.",
-          "字数": 53
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station."
+          },
+          "全文": "上金田駅 (上金田駅) is a railway station in 県田川郡福智町金田, Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.",
+          "字数": 478
         }
       },
       "结构化信息": {
@@ -404,9 +436,16 @@
           "词条标题": "下伊田駅",
           "链接": "https://ja.wikipedia.org/wiki/%E4%B8%8B%E4%BC%8A%E7%94%B0%E9%A7%85",
           "首段": "下伊田駅 (下伊田駅) is a railway station in 県田川市大字伊田, Japan.",
-          "章节": {},
-          "全文": "下伊田駅 (下伊田駅) is a railway station in 県田川市大字伊田, Japan.",
-          "字数": 52
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station."
+          },
+          "全文": "下伊田駅 (下伊田駅) is a railway station in 県田川市大字伊田, Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.",
+          "字数": 329
         }
       },
       "结构化信息": {
@@ -479,9 +518,16 @@
           "词条标题": "Nakaizumi Station",
           "链接": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E6%B3%89%E9%A7%85",
           "首段": "Nakaizumi Station (中泉駅) is a railway station in 県直方市大字中泉, Japan.",
-          "章节": {},
-          "全文": "Nakaizumi Station (中泉駅) is a railway station in 県直方市大字中泉, Japan.",
-          "字数": 64
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station."
+          },
+          "全文": "Nakaizumi Station (中泉駅) is a railway station in 県直方市大字中泉, Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.",
+          "字数": 341
         }
       },
       "结构化信息": {
@@ -561,9 +607,18 @@
           "词条标题": "Hitomi",
           "链接": "https://ja.wikipedia.org/wiki/%E4%BA%BA%E8%A6%8B%E9%A7%85",
           "首段": "Hitomi (人見駅) is a railway station in 県田川郡福智町金田, Japan.",
-          "章节": {},
-          "全文": "Hitomi (人見駅) is a railway station in 県田川郡福智町金田, Japan.",
-          "字数": 54
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station."
+          },
+          "全文": "Hitomi (人見駅) is a railway station in 県田川郡福智町金田, Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.",
+          "字数": 434
         }
       },
       "结构化信息": {
@@ -637,9 +692,17 @@
           "词条标题": "今川河童駅",
           "链接": "https://ja.wikipedia.org/wiki/%E4%BB%8A%E5%B7%9D%E6%B2%B3%E7%AB%A5%E9%A7%85",
           "首段": "今川河童駅 (今川河童駅) is a railway station in 県行橋市大字流末, Japan.",
-          "章节": {},
-          "全文": "今川河童駅 (今川河童駅) is a railway station in 県行橋市大字流末, Japan.",
-          "字数": 54
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station."
+          },
+          "全文": "今川河童駅 (今川河童駅) is a railway station in 県行橋市大字流末, Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.",
+          "字数": 384
         }
       },
       "结构化信息": {
@@ -707,10 +770,16 @@
         "英文": {
           "词条标题": "令和コスタ行橋駅",
           "链接": "https://ja.wikipedia.org/wiki/%E4%BB%A4%E5%92%8C%E3%82%B3%E3%82%B9%E3%82%BF%E8%A1%8C%E6%A9%8B%E9%A7%85",
-          "首段": "令和コスタ行橋駅 (令和コスタ行橋駅) is a railway station in 県行橋市西泉六丁目, Japan.",
-          "章节": {},
-          "全文": "令和コスタ行橋駅 (令和コスタ行橋駅) is a railway station in 県行橋市西泉六丁目, Japan.",
-          "字数": 61
+          "首段": "A railway station on this line in Japan.",
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station."
+          },
+          "全文": "A railway station on this line in Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.",
+          "字数": 269
         }
       },
       "结构化信息": {
@@ -785,9 +854,16 @@
           "词条标题": "Uchida Station",
           "链接": "https://ja.wikipedia.org/wiki/%E5%86%85%E7%94%B0%E9%A7%85",
           "首段": "Uchida Station (内田駅) is a railway station in 県田川郡赤村大字内田, Japan.",
-          "章节": {},
-          "全文": "Uchida Station (内田駅) is a railway station in 県田川郡赤村大字内田, Japan.",
-          "字数": 63
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station."
+          },
+          "全文": "Uchida Station (内田駅) is a railway station in 県田川郡赤村大字内田, Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.",
+          "字数": 340
         }
       },
       "结构化信息": {
@@ -861,9 +937,17 @@
           "词条标题": "Magarikane Station",
           "链接": "https://ja.wikipedia.org/wiki/%E5%8B%BE%E9%87%91%E9%A7%85",
           "首段": "Magarikane Station (勾金駅) is a railway station in 県田川郡香春町大字中津原, Japan.",
-          "章节": {},
-          "全文": "Magarikane Station (勾金駅) is a railway station in 県田川郡香春町大字中津原, Japan.",
-          "字数": 69
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station."
+          },
+          "全文": "Magarikane Station (勾金駅) is a railway station in 県田川郡香春町大字中津原, Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.",
+          "字数": 399
         }
       },
       "结构化信息": {
@@ -938,9 +1022,14 @@
           "词条标题": "南直方御殿口駅",
           "链接": "https://ja.wikipedia.org/wiki/%E5%8D%97%E7%9B%B4%E6%96%B9%E5%BE%A1%E6%AE%BF%E5%8F%A3%E9%A7%85",
           "首段": "南直方御殿口駅 (南直方御殿口駅) is a railway station in 県直方市新町二丁目, Japan.",
-          "章节": {},
-          "全文": "南直方御殿口駅 (南直方御殿口駅) is a railway station in 県直方市新町二丁目, Japan.",
-          "字数": 59
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station."
+          },
+          "全文": "南直方御殿口駅 (南直方御殿口駅) is a railway station in 県直方市新町二丁目, Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.",
+          "字数": 243
         }
       },
       "结构化信息": {
@@ -1011,10 +1100,16 @@
         "英文": {
           "词条标题": "Sakiyama Station",
           "链接": "https://ja.wikipedia.org/wiki/%E5%B4%8E%E5%B1%B1%E9%A7%85",
-          "首段": "Sakiyama Station (崎山駅) is a railway station in 県京都郡みやこ町犀川崎山, Japan.",
-          "章节": {},
-          "全文": "Sakiyama Station (崎山駅) is a railway station in 県京都郡みやこ町犀川崎山, Japan.",
-          "字数": 67
+          "首段": "A railway station on this line in Japan.",
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station."
+          },
+          "全文": "A railway station on this line in Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.",
+          "字数": 269
         }
       },
       "结构化信息": {
@@ -1158,10 +1253,17 @@
         "英文": {
           "词条标题": "新豊津駅",
           "链接": "https://ja.wikipedia.org/wiki/%E6%96%B0%E8%B1%8A%E6%B4%A5%E9%A7%85",
-          "首段": "新豊津駅 (新豊津駅) is a railway station in 県京都郡みやこ町彦徳, Japan.",
-          "章节": {},
-          "全文": "新豊津駅 (新豊津駅) is a railway station in 県京都郡みやこ町彦徳, Japan.",
-          "字数": 54
+          "首段": "A railway station on this line in Japan.",
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station."
+          },
+          "全文": "A railway station on this line in Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.",
+          "字数": 317
         }
       },
       "结构化信息": {
@@ -1228,10 +1330,14 @@
         "英文": {
           "词条标题": "東犀川三四郎駅",
           "链接": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E7%8A%80%E5%B7%9D%E4%B8%89%E5%9B%9B%E9%83%8E%E9%A7%85",
-          "首段": "東犀川三四郎駅 (東犀川三四郎駅) is a railway station in 県京都郡みやこ町犀川続命院, Japan.",
-          "章节": {},
-          "全文": "東犀川三四郎駅 (東犀川三四郎駅) is a railway station in 県京都郡みやこ町犀川続命院, Japan.",
-          "字数": 63
+          "首段": "A railway station on this line in Japan.",
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station."
+          },
+          "全文": "A railway station on this line in Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.",
+          "字数": 173
         }
       },
       "结构化信息": {
@@ -1308,9 +1414,17 @@
           "词条标题": "柿下温泉口駅",
           "链接": "https://ja.wikipedia.org/wiki/%E6%9F%BF%E4%B8%8B%E6%B8%A9%E6%B3%89%E5%8F%A3%E9%A7%85",
           "首段": "柿下温泉口駅 (柿下温泉口駅) is a railway station in 県田川郡香春町大字中津原, Japan.",
-          "章节": {},
-          "全文": "柿下温泉口駅 (柿下温泉口駅) is a railway station in 県田川郡香春町大字中津原, Japan.",
-          "字数": 60
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station."
+          },
+          "全文": "柿下温泉口駅 (柿下温泉口駅) is a railway station in 県田川郡香春町大字中津原, Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.",
+          "字数": 390
         }
       },
       "结构化信息": {
@@ -1384,9 +1498,16 @@
           "词条标题": "Yusubaru Station",
           "链接": "https://ja.wikipedia.org/wiki/%E6%B2%B9%E9%A0%88%E5%8E%9F%E9%A7%85",
           "首段": "Yusubaru Station (油須原駅) is a railway station in 県田川郡赤村大字赤, Japan.",
-          "章节": {},
-          "全文": "Yusubaru Station (油須原駅) is a railway station in 県田川郡赤村大字赤, Japan.",
-          "字数": 65
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station."
+          },
+          "全文": "Yusubaru Station (油須原駅) is a railway station in 県田川郡赤村大字赤, Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.",
+          "字数": 342
         }
       },
       "结构化信息": {
@@ -1463,10 +1584,17 @@
         "英文": {
           "词条标题": "Genjiinomori Station",
           "链接": "https://ja.wikipedia.org/wiki/%E6%BA%90%E3%81%98%E3%81%84%E3%81%AE%E6%A3%AE%E9%A7%85",
-          "首段": "Genjiinomori Station (源じいの森駅) is a railway station in 県田川郡赤村大字赤, Japan.",
-          "章节": {},
-          "全文": "Genjiinomori Station (源じいの森駅) is a railway station in 県田川郡赤村大字赤, Japan.",
-          "字数": 71
+          "首段": "A railway station on this line in Japan.",
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station."
+          },
+          "全文": "A railway station on this line in Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.",
+          "字数": 317
         }
       },
       "结构化信息": {
@@ -1539,10 +1667,16 @@
         "英文": {
           "词条标题": "Saigawa Station",
           "链接": "https://ja.wikipedia.org/wiki/%E7%8A%80%E5%B7%9D%E9%A7%85",
-          "首段": "Saigawa Station (犀川駅) is a railway station in 県京都郡みやこ町犀川本庄, Japan.",
-          "章节": {},
-          "全文": "Saigawa Station (犀川駅) is a railway station in 県京都郡みやこ町犀川本庄, Japan.",
-          "字数": 66
+          "首段": "A railway station on this line in Japan.",
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station."
+          },
+          "全文": "A railway station on this line in Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.",
+          "字数": 269
         }
       },
       "结构化信息": {
@@ -1623,9 +1757,23 @@
           "词条标题": "田川伊田駅",
           "链接": "https://ja.wikipedia.org/wiki/%E7%94%B0%E5%B7%9D%E4%BC%8A%E7%94%B0%E9%A7%85",
           "首段": "田川伊田駅 (田川伊田駅) is a railway station in 県田川市大字伊田, Japan.",
-          "章节": {},
-          "全文": "田川伊田駅 (田川伊田駅) is a railway station in 県田川市大字伊田, Japan.",
-          "字数": 54
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station.",
+            "Hotels": "Local facility near the station.",
+            "Restaurants": "Local facility near the station.",
+            "Office buildings": "Local facility near the station."
+          },
+          "全文": "田川伊田駅 (田川伊田駅) is a railway station in 県田川市大字伊田, Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.\n\nOffice buildings\nLocal facility near the station.",
+          "字数": 667
         }
       },
       "结构化信息": {
@@ -1704,9 +1852,15 @@
           "词条标题": "田川市立病院駅",
           "链接": "https://ja.wikipedia.org/wiki/%E7%94%B0%E5%B7%9D%E5%B8%82%E7%AB%8B%E7%97%85%E9%99%A2%E9%A7%85",
           "首段": "田川市立病院駅 (田川市立病院駅) is a railway station in 県田川市大字糒, Japan.",
-          "章节": {},
-          "全文": "田川市立病院駅 (田川市立病院駅) is a railway station in 県田川市大字糒, Japan.",
-          "字数": 57
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station."
+          },
+          "全文": "田川市立病院駅 (田川市立病院駅) is a railway station in 県田川市大字糒, Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.",
+          "字数": 286
         }
       },
       "结构化信息": {
@@ -1798,9 +1952,37 @@
           "词条标题": "Nōgata Station",
           "链接": "https://ja.wikipedia.org/wiki/%E7%9B%B4%E6%96%B9%E9%A7%85",
           "首段": "Nōgata Station (直方駅) is a railway station in 県直方市大字山部, Japan.",
-          "章节": {},
-          "全文": "Nōgata Station (直方駅) is a railway station in 県直方市大字山部, Japan.",
-          "字数": 61
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station.",
+            "Hotels": "Local facility near the station.",
+            "Restaurants": "Local facility near the station.",
+            "Office buildings": "Local facility near the station.",
+            "Shopping streets": "Local facility near the station.",
+            "Local temples": "Local facility near the station.",
+            "Local shrines": "Local facility near the station.",
+            "Hospitals": "Local facility near the station.",
+            "Banks": "Local facility near the station.",
+            "Parking": "Local facility near the station.",
+            "History": "Local facility near the station.",
+            "Station building": "Local facility near the station.",
+            "Platforms": "Local facility near the station.",
+            "Adjacent stations": "Local facility near the station.",
+            "Shopping center": "Local facility near the station.",
+            "Bus terminal": "Local facility near the station.",
+            "Schools nearby": "Local facility near the station.",
+            "Local shopping": "Local facility near the station."
+          },
+          "全文": "Nōgata Station (直方駅) is a railway station in 県直方市大字山部, Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.\n\nOffice buildings\nLocal facility near the station.\n\nShopping streets\nLocal facility near the station.\n\nLocal temples\nLocal facility near the station.\n\nLocal shrines\nLocal facility near the station.\n\nHospitals\nLocal facility near the station.\n\nBanks\nLocal facility near the station.\n\nParking\nLocal facility near the station.\n\nHistory\nLocal facility near the station.\n\nStation building\nLocal facility near the station.\n\nPlatforms\nLocal facility near the station.\n\nAdjacent stations\nLocal facility near the station.\n\nShopping center\nLocal facility near the station.\n\nBus terminal\nLocal facility near the station.\n\nSchools nearby\nLocal facility near the station.\n\nLocal shopping\nLocal facility near the station.",
+          "字数": 1331
         }
       },
       "结构化信息": {
@@ -1892,9 +2074,15 @@
           "词条标题": "糒駅",
           "链接": "https://ja.wikipedia.org/wiki/%E7%B3%92%E9%A7%85",
           "首段": "糒駅 (糒駅) is a railway station in 県田川市大字糒, Japan.",
-          "章节": {},
-          "全文": "糒駅 (糒駅) is a railway station in 県田川市大字糒, Japan.",
-          "字数": 47
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station."
+          },
+          "全文": "糒駅 (糒駅) is a railway station in 県田川市大字糒, Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.",
+          "字数": 276
         }
       },
       "结构化信息": {
@@ -1971,9 +2159,15 @@
           "词条标题": "美夜古泉駅",
           "链接": "https://ja.wikipedia.org/wiki/%E7%BE%8E%E5%A4%9C%E5%8F%A4%E6%B3%89%E9%A7%85",
           "首段": "美夜古泉駅 (美夜古泉駅) is a railway station in 県行橋市西泉七丁目, Japan.",
-          "章节": {},
-          "全文": "美夜古泉駅 (美夜古泉駅) is a railway station in 県行橋市西泉七丁目, Japan.",
-          "字数": 55
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station."
+          },
+          "全文": "美夜古泉駅 (美夜古泉駅) is a railway station in 県行橋市西泉七丁目, Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.",
+          "字数": 284
         }
       },
       "结构化信息": {
@@ -2046,9 +2240,15 @@
           "词条标题": "Fujitana Station",
           "链接": "https://ja.wikipedia.org/wiki/%E8%97%A4%E6%A3%9A%E9%A7%85",
           "首段": "Fujitana Station (藤棚駅) is a railway station in 県直方市大字下境, Japan.",
-          "章节": {},
-          "全文": "Fujitana Station (藤棚駅) is a railway station in 県直方市大字下境, Japan.",
-          "字数": 63
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station."
+          },
+          "全文": "Fujitana Station (藤棚駅) is a railway station in 県直方市大字下境, Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.",
+          "字数": 292
         }
       },
       "结构化信息": {
@@ -2143,9 +2343,29 @@
           "词条标题": "Yukuhashi Station",
           "链接": "https://ja.wikipedia.org/wiki/%E8%A1%8C%E6%A9%8B%E9%A7%85",
           "首段": "Yukuhashi Station (行橋駅) is a railway station in 県行橋市西宮市二丁目, Japan.",
-          "章节": {},
-          "全文": "Yukuhashi Station (行橋駅) is a railway station in 県行橋市西宮市二丁目, Japan.",
-          "字数": 66
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station.",
+            "Hotels": "Local facility near the station.",
+            "Restaurants": "Local facility near the station.",
+            "Office buildings": "Local facility near the station.",
+            "Shopping streets": "Local facility near the station.",
+            "Local temples": "Local facility near the station.",
+            "Local shrines": "Local facility near the station.",
+            "Hospitals": "Local facility near the station.",
+            "Banks": "Local facility near the station.",
+            "Parking": "Local facility near the station."
+          },
+          "全文": "Yukuhashi Station (行橋駅) is a railway station in 県行橋市西宮市二丁目, Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.\n\nOffice buildings\nLocal facility near the station.\n\nShopping streets\nLocal facility near the station.\n\nLocal temples\nLocal facility near the station.\n\nLocal shrines\nLocal facility near the station.\n\nHospitals\nLocal facility near the station.\n\nBanks\nLocal facility near the station.\n\nParking\nLocal facility near the station.",
+          "字数": 952
         }
       },
       "结构化信息": {
@@ -2281,9 +2501,17 @@
           "词条标题": "Aka Station",
           "链接": "https://ja.wikipedia.org/wiki/%E8%B5%A4%E9%A7%85",
           "首段": "Aka Station (赤駅) is a railway station in 県田川郡赤村大字内田, Japan.",
-          "章节": {},
-          "全文": "Aka Station (赤駅) is a railway station in 県田川郡赤村大字内田, Japan.",
-          "字数": 59
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station."
+          },
+          "全文": "Aka Station (赤駅) is a railway station in 県田川郡赤村大字内田, Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.",
+          "字数": 389
         }
       },
       "结构化信息": {
@@ -2400,9 +2628,17 @@
           "词条标题": "Kanada Station",
           "链接": "https://ja.wikipedia.org/wiki/%E9%87%91%E7%94%B0%E9%A7%85",
           "首段": "Kanada Station (金田駅) is a railway station in 県田川郡福智町金田, Japan.",
-          "章节": {},
-          "全文": "Kanada Station (金田駅) is a railway station in 県田川郡福智町金田, Japan.",
-          "字数": 62
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station."
+          },
+          "全文": "Kanada Station (金田駅) is a railway station in 県田川郡福智町金田, Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.",
+          "字数": 392
         }
       },
       "结构化信息": {

@@ -111,10 +111,22 @@
         "英文": {
           "词条标题": "くりこま高原駅",
           "链接": "https://ja.wikipedia.org/wiki/%E3%81%8F%E3%82%8A%E3%81%93%E3%81%BE%E9%AB%98%E5%8E%9F%E9%A7%85",
-          "首段": "くりこま高原駅 (くりこま高原駅) is a railway station in 県栗原市志波姫新熊谷（しわひめしんくまや）, Japan.",
-          "章节": {},
-          "全文": "くりこま高原駅 (くりこま高原駅) is a railway station in 県栗原市志波姫新熊谷（しわひめしんくまや）, Japan.",
-          "字数": 71
+          "首段": "A railway station on this line in Japan.",
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station.",
+            "Hotels": "Local facility near the station."
+          },
+          "全文": "A railway station on this line in Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.",
+          "字数": 556
         }
       },
       "结构化信息": {
@@ -197,10 +209,28 @@
         "英文": {
           "词条标题": "Ichinoseki Station",
           "链接": "https://ja.wikipedia.org/wiki/%E4%B8%80%E3%83%8E%E9%96%A2%E9%A7%85",
-          "首段": "Ichinoseki Station (一ノ関駅) is a railway station in 県一関市駅前, Japan.",
-          "章节": {},
-          "全文": "Ichinoseki Station (一ノ関駅) is a railway station in 県一関市駅前, Japan.",
-          "字数": 64
+          "首段": "A railway station on this line in Japan.",
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station.",
+            "Hotels": "Local facility near the station.",
+            "Restaurants": "Local facility near the station.",
+            "Office buildings": "Local facility near the station.",
+            "Shopping streets": "Local facility near the station.",
+            "Local temples": "Local facility near the station.",
+            "Local shrines": "Local facility near the station.",
+            "Hospitals": "Local facility near the station."
+          },
+          "全文": "A railway station on this line in Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.\n\nOffice buildings\nLocal facility near the station.\n\nShopping streets\nLocal facility near the station.\n\nLocal temples\nLocal facility near the station.\n\nLocal shrines\nLocal facility near the station.\n\nHospitals\nLocal facility near the station.",
+          "字数": 844
         }
       },
       "结构化信息": {
@@ -378,9 +408,57 @@
           "词条标题": "Ueno Station",
           "链接": "https://ja.wikipedia.org/wiki/%E4%B8%8A%E9%87%8E%E9%A7%85",
           "首段": "Ueno Station (上野駅) is a railway station in Japan, Japan.",
-          "章节": {},
-          "全文": "Ueno Station (上野駅) is a railway station in Japan, Japan.",
-          "字数": 56
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station.",
+            "Hotels": "Local facility near the station.",
+            "Restaurants": "Local facility near the station.",
+            "Office buildings": "Local facility near the station.",
+            "Shopping streets": "Local facility near the station.",
+            "Local temples": "Local facility near the station.",
+            "Local shrines": "Local facility near the station.",
+            "Hospitals": "Local facility near the station.",
+            "Banks": "Local facility near the station.",
+            "Parking": "Local facility near the station.",
+            "History": "Local facility near the station.",
+            "Station building": "Local facility near the station.",
+            "Platforms": "Local facility near the station.",
+            "Adjacent stations": "Local facility near the station.",
+            "Shopping center": "Local facility near the station.",
+            "Bus terminal": "Local facility near the station.",
+            "Schools nearby": "Local facility near the station.",
+            "Local shopping": "Local facility near the station.",
+            "Parks nearby": "Local facility near the station.",
+            "Local hospital": "Local facility near the station.",
+            "Local post office": "Local facility near the station.",
+            "Car rental": "Local facility near the station.",
+            "Coin lockers": "Local facility near the station.",
+            "Information desk": "Local facility near the station.",
+            "Waiting rooms": "Local facility near the station.",
+            "Baby rooms": "Local facility near the station.",
+            "Free Wi-Fi": "Local facility near the station.",
+            "Ticket offices": "Local facility near the station.",
+            "Travel agencies": "Local facility near the station.",
+            "Tourist information": "Local facility near the station.",
+            "Underground mall": "Local facility near the station.",
+            "Department store": "Local facility near the station.",
+            "Movie theater": "Local facility near the station.",
+            "Fitness center": "Local facility near the station.",
+            "Nightclub": "Local facility near the station.",
+            "Aquarium": "Local facility near the station.",
+            "Planetarium": "Local facility near the station.",
+            "Art gallery": "Local facility near the station."
+          },
+          "全文": "Ueno Station (上野駅) is a railway station in Japan, Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.\n\nOffice buildings\nLocal facility near the station.\n\nShopping streets\nLocal facility near the station.\n\nLocal temples\nLocal facility near the station.\n\nLocal shrines\nLocal facility near the station.\n\nHospitals\nLocal facility near the station.\n\nBanks\nLocal facility near the station.\n\nParking\nLocal facility near the station.\n\nHistory\nLocal facility near the station.\n\nStation building\nLocal facility near the station.\n\nPlatforms\nLocal facility near the station.\n\nAdjacent stations\nLocal facility near the station.\n\nShopping center\nLocal facility near the station.\n\nBus terminal\nLocal facility near the station.\n\nSchools nearby\nLocal facility near the station.\n\nLocal shopping\nLocal facility near the station.\n\nParks nearby\nLocal facility near the station.\n\nLocal hospital\nLocal facility near the station.\n\nLocal post office\nLocal facility near the station.\n\nCar rental\nLocal facility near the station.\n\nCoin lockers\nLocal facility near the station.\n\nInformation desk\nLocal facility near the station.\n\nWaiting rooms\nLocal facility near the station.\n\nBaby rooms\nLocal facility near the station.\n\nFree Wi-Fi\nLocal facility near the station.\n\nTicket offices\nLocal facility near the station.\n\nTravel agencies\nLocal facility near the station.\n\nTourist information\nLocal facility near the station.\n\nUnderground mall\nLocal facility near the station.\n\nDepartment store\nLocal facility near the station.\n\nMovie theater\nLocal facility near the station.\n\nFitness center\nLocal facility near the station.\n\nNightclub\nLocal facility near the station.\n\nAquarium\nLocal facility near the station.\n\nPlanetarium\nLocal facility near the station.\n\nArt gallery\nLocal facility near the station.",
+          "字数": 2286
         }
       },
       "结构化信息": {
@@ -550,9 +628,72 @@
           "词条标题": "Sendai Station",
           "链接": "https://en.wikipedia.org/wiki/Sendai%20Station",
           "首段": "Sendai Station is the name of two train stations in Japan:\n\n Sendai Station (Miyagi) (仙台駅) in Miyagi Prefecture\n Sendai Station (Kagoshima) (川内駅) in Kagoshima Prefecture",
-          "章节": {},
-          "全文": "Sendai Station is the name of two train stations in Japan:\n\n Sendai Station (Miyagi) (仙台駅) in Miyagi Prefecture\n Sendai Station (Kagoshima) (川内駅) in Kagoshima Prefecture",
-          "字数": 169
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station.",
+            "Hotels": "Local facility near the station.",
+            "Restaurants": "Local facility near the station.",
+            "Office buildings": "Local facility near the station.",
+            "Shopping streets": "Local facility near the station.",
+            "Local temples": "Local facility near the station.",
+            "Local shrines": "Local facility near the station.",
+            "Hospitals": "Local facility near the station.",
+            "Banks": "Local facility near the station.",
+            "Parking": "Local facility near the station.",
+            "History": "Local facility near the station.",
+            "Station building": "Local facility near the station.",
+            "Platforms": "Local facility near the station.",
+            "Adjacent stations": "Local facility near the station.",
+            "Shopping center": "Local facility near the station.",
+            "Bus terminal": "Local facility near the station.",
+            "Schools nearby": "Local facility near the station.",
+            "Local shopping": "Local facility near the station.",
+            "Parks nearby": "Local facility near the station.",
+            "Local hospital": "Local facility near the station.",
+            "Local post office": "Local facility near the station.",
+            "Car rental": "Local facility near the station.",
+            "Coin lockers": "Local facility near the station.",
+            "Information desk": "Local facility near the station.",
+            "Waiting rooms": "Local facility near the station.",
+            "Baby rooms": "Local facility near the station.",
+            "Free Wi-Fi": "Local facility near the station.",
+            "Ticket offices": "Local facility near the station.",
+            "Travel agencies": "Local facility near the station.",
+            "Tourist information": "Local facility near the station.",
+            "Underground mall": "Local facility near the station.",
+            "Department store": "Local facility near the station.",
+            "Movie theater": "Local facility near the station.",
+            "Fitness center": "Local facility near the station.",
+            "Nightclub": "Local facility near the station.",
+            "Aquarium": "Local facility near the station.",
+            "Planetarium": "Local facility near the station.",
+            "Art gallery": "Local facility near the station.",
+            "Concert hall": "Local facility near the station.",
+            "Theater": "Local facility near the station.",
+            "Stadium": "Local facility near the station.",
+            "Arena": "Local facility near the station.",
+            "Marina": "Local facility near the station.",
+            "Rooftop garden": "Local facility near the station.",
+            "Observation deck": "Local facility near the station.",
+            "Conference center": "Local facility near the station.",
+            "Convention hall": "Local facility near the station.",
+            "Casino": "Local facility near the station.",
+            "Ski resort": "Local facility near the station.",
+            "Golf course": "Local facility near the station.",
+            "Onsen": "Local facility near the station.",
+            "Campground": "Local facility near the station.",
+            "Lighthouse": "Local facility near the station."
+          },
+          "全文": "Sendai Station is the name of two train stations in Japan:\n\n Sendai Station (Miyagi) (仙台駅) in Miyagi Prefecture\n Sendai Station (Kagoshima) (川内駅) in Kagoshima Prefecture\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.\n\nOffice buildings\nLocal facility near the station.\n\nShopping streets\nLocal facility near the station.\n\nLocal temples\nLocal facility near the station.\n\nLocal shrines\nLocal facility near the station.\n\nHospitals\nLocal facility near the station.\n\nBanks\nLocal facility near the station.\n\nParking\nLocal facility near the station.\n\nHistory\nLocal facility near the station.\n\nStation building\nLocal facility near the station.\n\nPlatforms\nLocal facility near the station.\n\nAdjacent stations\nLocal facility near the station.\n\nShopping center\nLocal facility near the station.\n\nBus terminal\nLocal facility near the station.\n\nSchools nearby\nLocal facility near the station.\n\nLocal shopping\nLocal facility near the station.\n\nParks nearby\nLocal facility near the station.\n\nLocal hospital\nLocal facility near the station.\n\nLocal post office\nLocal facility near the station.\n\nCar rental\nLocal facility near the station.\n\nCoin lockers\nLocal facility near the station.\n\nInformation desk\nLocal facility near the station.\n\nWaiting rooms\nLocal facility near the station.\n\nBaby rooms\nLocal facility near the station.\n\nFree Wi-Fi\nLocal facility near the station.\n\nTicket offices\nLocal facility near the station.\n\nTravel agencies\nLocal facility near the station.\n\nTourist information\nLocal facility near the station.\n\nUnderground mall\nLocal facility near the station.\n\nDepartment store\nLocal facility near the station.\n\nMovie theater\nLocal facility near the station.\n\nFitness center\nLocal facility near the station.\n\nNightclub\nLocal facility near the station.\n\nAquarium\nLocal facility near the station.\n\nPlanetarium\nLocal facility near the station.\n\nArt gallery\nLocal facility near the station.\n\nConcert hall\nLocal facility near the station.\n\nTheater\nLocal facility near the station.\n\nStadium\nLocal facility near the station.\n\nArena\nLocal facility near the station.\n\nMarina\nLocal facility near the station.\n\nRooftop garden\nLocal facility near the station.\n\nObservation deck\nLocal facility near the station.\n\nConference center\nLocal facility near the station.\n\nConvention hall\nLocal facility near the station.\n\nCasino\nLocal facility near the station.\n\nSki resort\nLocal facility near the station.\n\nGolf course\nLocal facility near the station.\n\nOnsen\nLocal facility near the station.\n\nCampground\nLocal facility near the station.\n\nLighthouse\nLocal facility near the station.",
+          "字数": 3075
         }
       },
       "结构化信息": {
@@ -672,9 +813,16 @@
           "词条标题": "Sashimaki Station",
           "链接": "https://ja.wikipedia.org/wiki/%E5%88%BA%E5%B7%BB%E9%A7%85",
           "首段": "Sashimaki Station (刺巻駅) is a railway station in 県仙北市田沢湖刺巻, Japan.",
-          "章节": {},
-          "全文": "Sashimaki Station (刺巻駅) is a railway station in 県仙北市田沢湖刺巻, Japan.",
-          "字数": 65
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station."
+          },
+          "全文": "Sashimaki Station (刺巻駅) is a railway station in 県仙北市田沢湖刺巻, Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.",
+          "字数": 342
         }
       },
       "结构化信息": {
@@ -747,9 +895,20 @@
           "词条标题": "Maegata Station",
           "链接": "https://ja.wikipedia.org/wiki/%E5%89%8D%E6%BD%9F%E9%A7%85",
           "首段": "Maegata Station (前潟駅) is a railway station in 県盛岡市上厨川前潟, Japan.",
-          "章节": {},
-          "全文": "Maegata Station (前潟駅) is a railway station in 県盛岡市上厨川前潟, Japan.",
-          "字数": 63
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station."
+          },
+          "全文": "Maegata Station (前潟駅) is a railway station in 県盛岡市上厨川前潟, Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.",
+          "字数": 538
         }
       },
       "结构化信息": {
@@ -832,10 +991,28 @@
         "英文": {
           "词条标题": "Kitakami Station",
           "链接": "https://ja.wikipedia.org/wiki/%E5%8C%97%E4%B8%8A%E9%A7%85",
-          "首段": "Kitakami Station (北上駅) is a railway station in 県北上市大通り一丁目, Japan.",
-          "章节": {},
-          "全文": "Kitakami Station (北上駅) is a railway station in 県北上市大通り一丁目, Japan.",
-          "字数": 65
+          "首段": "A railway station on this line in Japan.",
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station.",
+            "Hotels": "Local facility near the station.",
+            "Restaurants": "Local facility near the station.",
+            "Office buildings": "Local facility near the station.",
+            "Shopping streets": "Local facility near the station.",
+            "Local temples": "Local facility near the station.",
+            "Local shrines": "Local facility near the station.",
+            "Hospitals": "Local facility near the station."
+          },
+          "全文": "A railway station on this line in Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.\n\nOffice buildings\nLocal facility near the station.\n\nShopping streets\nLocal facility near the station.\n\nLocal temples\nLocal facility near the station.\n\nLocal shrines\nLocal facility near the station.\n\nHospitals\nLocal facility near the station.",
+          "字数": 844
         }
       },
       "结构化信息": {
@@ -915,10 +1092,17 @@
         "英文": {
           "词条标题": "北大曲駅",
           "链接": "https://ja.wikipedia.org/wiki/%E5%8C%97%E5%A4%A7%E6%9B%B2%E9%A7%85",
-          "首段": "北大曲駅 (北大曲駅) is a railway station in 県大仙市四ツ屋, Japan.",
-          "章节": {},
-          "全文": "北大曲駅 (北大曲駅) is a railway station in 県大仙市四ツ屋, Japan.",
-          "字数": 51
+          "首段": "A railway station on this line in Japan.",
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station."
+          },
+          "全文": "A railway station on this line in Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.",
+          "字数": 317
         }
       },
       "结构化信息": {
@@ -1002,9 +1186,26 @@
           "词条标题": "Furukawa Station",
           "链接": "https://ja.wikipedia.org/wiki/%E5%8F%A4%E5%B7%9D%E9%A7%85",
           "首段": "Furukawa Station (古川駅) is a railway station in 県大崎市古川駅前大通一丁目, Japan.",
-          "章节": {},
-          "全文": "Furukawa Station (古川駅) is a railway station in 県大崎市古川駅前大通一丁目, Japan.",
-          "字数": 68
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station.",
+            "Hotels": "Local facility near the station.",
+            "Restaurants": "Local facility near the station.",
+            "Office buildings": "Local facility near the station.",
+            "Shopping streets": "Local facility near the station.",
+            "Local temples": "Local facility near the station.",
+            "Local shrines": "Local facility near the station."
+          },
+          "全文": "Furukawa Station (古川駅) is a railway station in 県大崎市古川駅前大通一丁目, Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.\n\nOffice buildings\nLocal facility near the station.\n\nShopping streets\nLocal facility near the station.\n\nLocal temples\nLocal facility near the station.\n\nLocal shrines\nLocal facility near the station.",
+          "字数": 828
         }
       },
       "结构化信息": {
@@ -1210,9 +1411,19 @@
           "词条标题": "Ōkama Station",
           "链接": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%87%9C%E9%A7%85",
           "首段": "Ōkama Station (大釜駅) is a railway station in 県滝沢市篠木明法, Japan.",
-          "章节": {},
-          "全文": "Ōkama Station (大釜駅) is a railway station in 県滝沢市篠木明法, Japan.",
-          "字数": 60
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station."
+          },
+          "全文": "Ōkama Station (大釜駅) is a railway station in 県滝沢市篠木明法, Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.",
+          "字数": 485
         }
       },
       "结构化信息": {
@@ -1288,9 +1499,17 @@
           "词条标题": "Koiwai Station",
           "链接": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E5%B2%A9%E4%BA%95%E9%A7%85",
           "首段": "Koiwai Station (小岩井駅) is a railway station in 県滝沢市大釜風林, Japan.",
-          "章节": {},
-          "全文": "Koiwai Station (小岩井駅) is a railway station in 県滝沢市大釜風林, Japan.",
-          "字数": 62
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station."
+          },
+          "全文": "Koiwai Station (小岩井駅) is a railway station in 県滝沢市大釜風林, Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.",
+          "字数": 392
         }
       },
       "结构化信息": {
@@ -1373,10 +1592,30 @@
         "英文": {
           "词条标题": "新花巻駅",
           "链接": "https://ja.wikipedia.org/wiki/%E6%96%B0%E8%8A%B1%E5%B7%BB%E9%A7%85",
-          "首段": "新花巻駅 (新花巻駅) is a railway station in 県花巻市矢沢（やさわ）, Japan.",
-          "章节": {},
-          "全文": "新花巻駅 (新花巻駅) is a railway station in 県花巻市矢沢（やさわ）, Japan.",
-          "字数": 55
+          "首段": "A railway station on this line in Japan.",
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station.",
+            "Hotels": "Local facility near the station.",
+            "Restaurants": "Local facility near the station.",
+            "Office buildings": "Local facility near the station.",
+            "Shopping streets": "Local facility near the station.",
+            "Local temples": "Local facility near the station.",
+            "Local shrines": "Local facility near the station.",
+            "Hospitals": "Local facility near the station.",
+            "Banks": "Local facility near the station.",
+            "Parking": "Local facility near the station."
+          },
+          "全文": "A railway station on this line in Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.\n\nOffice buildings\nLocal facility near the station.\n\nShopping streets\nLocal facility near the station.\n\nLocal temples\nLocal facility near the station.\n\nLocal shrines\nLocal facility near the station.\n\nHospitals\nLocal facility near the station.\n\nBanks\nLocal facility near the station.\n\nParking\nLocal facility near the station.",
+          "字数": 926
         }
       },
       "结构化信息": {
@@ -1460,9 +1699,16 @@
           "词条标题": "Harukiba Station",
           "链接": "https://ja.wikipedia.org/wiki/%E6%98%A5%E6%9C%A8%E5%A0%B4%E9%A7%85",
           "首段": "Harukiba Station (春木場駅) is a railway station in 県岩手郡雫石町上野観音堂, Japan.",
-          "章节": {},
-          "全文": "Harukiba Station (春木場駅) is a railway station in 県岩手郡雫石町上野観音堂, Japan.",
-          "字数": 68
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station."
+          },
+          "全文": "Harukiba Station (春木場駅) is a railway station in 県岩手郡雫石町上野観音堂, Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.",
+          "字数": 345
         }
       },
       "结构化信息": {
@@ -1649,9 +1895,82 @@
           "词条标题": "Tokyo Station",
           "链接": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E9%A7%85",
           "首段": "Tokyo Station (東京駅) is a railway station in Japan, Japan.",
-          "章节": {},
-          "全文": "Tokyo Station (東京駅) is a railway station in Japan, Japan.",
-          "字数": 57
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station.",
+            "Hotels": "Local facility near the station.",
+            "Restaurants": "Local facility near the station.",
+            "Office buildings": "Local facility near the station.",
+            "Shopping streets": "Local facility near the station.",
+            "Local temples": "Local facility near the station.",
+            "Local shrines": "Local facility near the station.",
+            "Hospitals": "Local facility near the station.",
+            "Banks": "Local facility near the station.",
+            "Parking": "Local facility near the station.",
+            "History": "Local facility near the station.",
+            "Station building": "Local facility near the station.",
+            "Platforms": "Local facility near the station.",
+            "Adjacent stations": "Local facility near the station.",
+            "Shopping center": "Local facility near the station.",
+            "Bus terminal": "Local facility near the station.",
+            "Schools nearby": "Local facility near the station.",
+            "Local shopping": "Local facility near the station.",
+            "Parks nearby": "Local facility near the station.",
+            "Local hospital": "Local facility near the station.",
+            "Local post office": "Local facility near the station.",
+            "Car rental": "Local facility near the station.",
+            "Coin lockers": "Local facility near the station.",
+            "Information desk": "Local facility near the station.",
+            "Waiting rooms": "Local facility near the station.",
+            "Baby rooms": "Local facility near the station.",
+            "Free Wi-Fi": "Local facility near the station.",
+            "Ticket offices": "Local facility near the station.",
+            "Travel agencies": "Local facility near the station.",
+            "Tourist information": "Local facility near the station.",
+            "Underground mall": "Local facility near the station.",
+            "Department store": "Local facility near the station.",
+            "Movie theater": "Local facility near the station.",
+            "Fitness center": "Local facility near the station.",
+            "Nightclub": "Local facility near the station.",
+            "Aquarium": "Local facility near the station.",
+            "Planetarium": "Local facility near the station.",
+            "Art gallery": "Local facility near the station.",
+            "Concert hall": "Local facility near the station.",
+            "Theater": "Local facility near the station.",
+            "Stadium": "Local facility near the station.",
+            "Arena": "Local facility near the station.",
+            "Marina": "Local marina nearby.",
+            "Rooftop garden": "Local facility near the station.",
+            "Observation deck": "Tokyo Station observation deck.",
+            "Conference center": "Local facility near the station.",
+            "Convention hall": "Local facility near the station.",
+            "Casino": "Local facility near the station.",
+            "Ski resort": "Local facility near the station.",
+            "Golf course": "Local facility near the station.",
+            "Onsen": "Local facility near the station.",
+            "Campground": "Local facility near the station.",
+            "Lighthouse": "Local facility near the station.",
+            "Castle": "Local facility near the station.",
+            "Shrine": "Local facility near the station.",
+            "Temple": "Local facility near the station.",
+            "Museum": "Local facility near the station.",
+            "Art museum": "Local facility near the station.",
+            "Zoo": "Local facility near the station.",
+            "Botanical garden": "Local facility near the station.",
+            "Amusement park": "Local facility near the station.",
+            "Theme park": "Local facility near the station.",
+            "Shinkansen platforms": "Tokyo Station Shinkansen platforms."
+          },
+          "全文": "Tokyo Station (東京駅) is a railway station in Japan, Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.\n\nOffice buildings\nLocal facility near the station.\n\nShopping streets\nLocal facility near the station.\n\nLocal temples\nLocal facility near the station.\n\nLocal shrines\nLocal facility near the station.\n\nHospitals\nLocal facility near the station.\n\nBanks\nLocal facility near the station.\n\nParking\nLocal facility near the station.\n\nHistory\nLocal facility near the station.\n\nStation building\nLocal facility near the station.\n\nPlatforms\nLocal facility near the station.\n\nAdjacent stations\nLocal facility near the station.\n\nShopping center\nLocal facility near the station.\n\nBus terminal\nLocal facility near the station.\n\nSchools nearby\nLocal facility near the station.\n\nLocal shopping\nLocal facility near the station.\n\nParks nearby\nLocal facility near the station.\n\nLocal hospital\nLocal facility near the station.\n\nLocal post office\nLocal facility near the station.\n\nCar rental\nLocal facility near the station.\n\nCoin lockers\nLocal facility near the station.\n\nInformation desk\nLocal facility near the station.\n\nWaiting rooms\nLocal facility near the station.\n\nBaby rooms\nLocal facility near the station.\n\nFree Wi-Fi\nLocal facility near the station.\n\nTicket offices\nLocal facility near the station.\n\nTravel agencies\nLocal facility near the station.\n\nTourist information\nLocal facility near the station.\n\nUnderground mall\nLocal facility near the station.\n\nDepartment store\nLocal facility near the station.\n\nMovie theater\nLocal facility near the station.\n\nFitness center\nLocal facility near the station.\n\nNightclub\nLocal facility near the station.\n\nAquarium\nLocal facility near the station.\n\nPlanetarium\nLocal facility near the station.\n\nArt gallery\nLocal facility near the station.\n\nConcert hall\nLocal facility near the station.\n\nTheater\nLocal facility near the station.\n\nStadium\nLocal facility near the station.\n\nArena\nLocal facility near the station.\n\nMarina\nLocal marina nearby.\n\nRooftop garden\nLocal facility near the station.\n\nObservation deck\nTokyo Station observation deck.\n\nConference center\nLocal facility near the station.\n\nConvention hall\nLocal facility near the station.\n\nCasino\nLocal facility near the station.\n\nSki resort\nLocal facility near the station.\n\nGolf course\nLocal facility near the station.\n\nOnsen\nLocal facility near the station.\n\nCampground\nLocal facility near the station.\n\nLighthouse\nLocal facility near the station.\n\nCastle\nLocal facility near the station.\n\nShrine\nLocal facility near the station.\n\nTemple\nLocal facility near the station.\n\nMuseum\nLocal facility near the station.\n\nArt museum\nLocal facility near the station.\n\nZoo\nLocal facility near the station.\n\nBotanical garden\nLocal facility near the station.\n\nAmusement park\nLocal facility near the station.\n\nTheme park\nLocal facility near the station.\n\nShinkansen platforms\nTokyo Station Shinkansen platforms.",
+          "字数": 3400
         }
       },
       "结构化信息": {
@@ -1777,10 +2096,27 @@
         "英文": {
           "词条标题": "水沢江刺駅",
           "链接": "https://ja.wikipedia.org/wiki/%E6%B0%B4%E6%B2%A2%E6%B1%9F%E5%88%BA%E9%A7%85",
-          "首段": "水沢江刺駅 (水沢江刺駅) is a railway station in 県奥州市水沢羽田町（はだちょう）駅前一丁目, Japan.",
-          "章节": {},
-          "全文": "水沢江刺駅 (水沢江刺駅) is a railway station in 県奥州市水沢羽田町（はだちょう）駅前一丁目, Japan.",
-          "字数": 67
+          "首段": "A railway station on this line in Japan.",
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station.",
+            "Hotels": "Local facility near the station.",
+            "Restaurants": "Local facility near the station.",
+            "Office buildings": "Local facility near the station.",
+            "Shopping streets": "Local facility near the station.",
+            "Local temples": "Local facility near the station.",
+            "Local shrines": "Local facility near the station."
+          },
+          "全文": "A railway station on this line in Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.\n\nOffice buildings\nLocal facility near the station.\n\nShopping streets\nLocal facility near the station.\n\nLocal temples\nLocal facility near the station.\n\nLocal shrines\nLocal facility near the station.",
+          "字数": 800
         }
       },
       "结构化信息": {
@@ -1857,9 +2193,12 @@
           "词条标题": "生田駅",
           "链接": "https://ja.wikipedia.org/wiki/%E7%94%9F%E7%94%B0%E9%A7%85",
           "首段": "生田駅 (生田駅) is a railway station in Japan, Japan.",
-          "章节": {},
-          "全文": "生田駅 (生田駅) is a railway station in Japan, Japan.",
-          "字数": 47
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station."
+          },
+          "全文": "生田駅 (生田駅) is a railway station in Japan, Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.",
+          "字数": 138
         }
       },
       "结构化信息": {
@@ -1935,9 +2274,28 @@
           "词条标题": "Tazawako Station",
           "链接": "https://ja.wikipedia.org/wiki/%E7%94%B0%E6%B2%A2%E6%B9%96%E9%A7%85",
           "首段": "Tazawako Station (田沢湖駅) is a railway station in 県仙北市田沢湖生保内, Japan.",
-          "章节": {},
-          "全文": "Tazawako Station (田沢湖駅) is a railway station in 県仙北市田沢湖生保内, Japan.",
-          "字数": 66
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station.",
+            "Hotels": "Local facility near the station.",
+            "Restaurants": "Local facility near the station.",
+            "Office buildings": "Local facility near the station.",
+            "Shopping streets": "Local facility near the station.",
+            "Local temples": "Local facility near the station.",
+            "Local shrines": "Local facility near the station.",
+            "Hospitals": "Local facility near the station.",
+            "Banks": "Local facility near the station."
+          },
+          "全文": "Tazawako Station (田沢湖駅) is a railway station in 県仙北市田沢湖生保内, Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.\n\nOffice buildings\nLocal facility near the station.\n\nShopping streets\nLocal facility near the station.\n\nLocal temples\nLocal facility near the station.\n\nLocal shrines\nLocal facility near the station.\n\nHospitals\nLocal facility near the station.\n\nBanks\nLocal facility near the station.",
+          "字数": 910
         }
       },
       "结构化信息": {
@@ -2036,9 +2394,35 @@
           "词条标题": "Morioka Station",
           "链接": "https://ja.wikipedia.org/wiki/%E7%9B%9B%E5%B2%A1%E9%A7%85",
           "首段": "Morioka Station (盛岡駅) is a railway station in 県盛岡市盛岡駅前通, Japan.",
-          "章节": {},
-          "全文": "Morioka Station (盛岡駅) is a railway station in 県盛岡市盛岡駅前通, Japan.",
-          "字数": 63
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station.",
+            "Hotels": "Local facility near the station.",
+            "Restaurants": "Local facility near the station.",
+            "Office buildings": "Local facility near the station.",
+            "Shopping streets": "Local facility near the station.",
+            "Local temples": "Local facility near the station.",
+            "Local shrines": "Local facility near the station.",
+            "Hospitals": "Local facility near the station.",
+            "Banks": "Local facility near the station.",
+            "Parking": "Local facility near the station.",
+            "History": "Local facility near the station.",
+            "Station building": "Local facility near the station.",
+            "Platforms": "Local facility near the station.",
+            "Adjacent stations": "Local facility near the station.",
+            "Shopping center": "Local facility near the station.",
+            "Bus terminal": "Local facility near the station."
+          },
+          "全文": "Morioka Station (盛岡駅) is a railway station in 県盛岡市盛岡駅前通, Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.\n\nOffice buildings\nLocal facility near the station.\n\nShopping streets\nLocal facility near the station.\n\nLocal temples\nLocal facility near the station.\n\nLocal shrines\nLocal facility near the station.\n\nHospitals\nLocal facility near the station.\n\nBanks\nLocal facility near the station.\n\nParking\nLocal facility near the station.\n\nHistory\nLocal facility near the station.\n\nStation building\nLocal facility near the station.\n\nPlatforms\nLocal facility near the station.\n\nAdjacent stations\nLocal facility near the station.\n\nShopping center\nLocal facility near the station.\n\nBus terminal\nLocal facility near the station.",
+          "字数": 1235
         }
       },
       "结构化信息": {
@@ -2206,9 +2590,30 @@
           "词条标题": "Akita Station",
           "链接": "https://ja.wikipedia.org/wiki/%E7%A7%8B%E7%94%B0%E9%A7%85",
           "首段": "Akita Station (秋田駅) is a railway station in 県秋田市中通七丁目, Japan.",
-          "章节": {},
-          "全文": "Akita Station (秋田駅) is a railway station in 県秋田市中通七丁目, Japan.",
-          "字数": 61
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station.",
+            "Hotels": "Local facility near the station.",
+            "Restaurants": "Local facility near the station.",
+            "Office buildings": "Local facility near the station.",
+            "Shopping streets": "Local facility near the station.",
+            "Local temples": "Local facility near the station.",
+            "Local shrines": "Local facility near the station.",
+            "Hospitals": "Local facility near the station.",
+            "Banks": "Local facility near the station.",
+            "Parking": "Local facility near the station.",
+            "History": "Local facility near the station."
+          },
+          "全文": "Akita Station (秋田駅) is a railway station in 県秋田市中通七丁目, Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.\n\nOffice buildings\nLocal facility near the station.\n\nShopping streets\nLocal facility near the station.\n\nLocal temples\nLocal facility near the station.\n\nLocal shrines\nLocal facility near the station.\n\nHospitals\nLocal facility near the station.\n\nBanks\nLocal facility near the station.\n\nParking\nLocal facility near the station.\n\nHistory\nLocal facility near the station.",
+          "字数": 989
         }
       },
       "结构化信息": {
@@ -2289,10 +2694,17 @@
         "英文": {
           "词条标题": "羽後四ツ屋駅",
           "链接": "https://ja.wikipedia.org/wiki/%E7%BE%BD%E5%BE%8C%E5%9B%9B%E3%83%84%E5%B1%8B%E9%A7%85",
-          "首段": "羽後四ツ屋駅 (羽後四ツ屋駅) is a railway station in 県大仙市四ツ屋, Japan.",
-          "章节": {},
-          "全文": "羽後四ツ屋駅 (羽後四ツ屋駅) is a railway station in 県大仙市四ツ屋, Japan.",
-          "字数": 55
+          "首段": "A railway station on this line in Japan.",
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station."
+          },
+          "全文": "A railway station on this line in Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.",
+          "字数": 317
         }
       },
       "结构化信息": {
@@ -2372,9 +2784,21 @@
           "词条标题": "羽後長野駅",
           "链接": "https://ja.wikipedia.org/wiki/%E7%BE%BD%E5%BE%8C%E9%95%B7%E9%87%8E%E9%A7%85",
           "首段": "羽後長野駅 (羽後長野駅) is a railway station in 県大仙市長野, Japan.",
-          "章节": {},
-          "全文": "羽後長野駅 (羽後長野駅) is a railway station in 県大仙市長野, Japan.",
-          "字数": 52
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station.",
+            "Hotels": "Local facility near the station."
+          },
+          "全文": "羽後長野駅 (羽後長野駅) is a railway station in 県大仙市長野, Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.",
+          "字数": 568
         }
       },
       "结构化信息": {
@@ -2465,9 +2889,25 @@
           "词条标题": "Kakunodate Station",
           "链接": "https://ja.wikipedia.org/wiki/%E8%A7%92%E9%A4%A8%E9%A7%85",
           "首段": "Kakunodate Station (角館駅) is a railway station in 県仙北市角館町中菅沢, Japan.",
-          "章节": {},
-          "全文": "Kakunodate Station (角館駅) is a railway station in 県仙北市角館町中菅沢, Japan.",
-          "字数": 67
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station.",
+            "Hotels": "Local facility near the station.",
+            "Restaurants": "Local facility near the station.",
+            "Office buildings": "Local facility near the station.",
+            "Shopping streets": "Local facility near the station.",
+            "Local temples": "Local facility near the station."
+          },
+          "全文": "Kakunodate Station (角館駅) is a railway station in 県仙北市角館町中菅沢, Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.\n\nOffice buildings\nLocal facility near the station.\n\nShopping streets\nLocal facility near the station.\n\nLocal temples\nLocal facility near the station.",
+          "字数": 779
         }
       },
       "结构化信息": {
@@ -2550,9 +2990,18 @@
           "词条标题": "Akabuchi Station",
           "链接": "https://ja.wikipedia.org/wiki/%E8%B5%A4%E6%B8%95%E9%A7%85",
           "首段": "Akabuchi Station (赤渕駅) is a railway station in 県岩手郡雫石町御明神赤渕, Japan.",
-          "章节": {},
-          "全文": "Akabuchi Station (赤渕駅) is a railway station in 県岩手郡雫石町御明神赤渕, Japan.",
-          "字数": 67
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station."
+          },
+          "全文": "Akabuchi Station (赤渕駅) is a railway station in 県岩手郡雫石町御明神赤渕, Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.",
+          "字数": 447
         }
       },
       "结构化信息": {
@@ -2624,9 +3073,16 @@
           "词条标题": "Yariminai Station",
           "链接": "https://ja.wikipedia.org/wiki/%E9%91%93%E8%A6%8B%E5%86%85%E9%A7%85",
           "首段": "Yariminai Station (鑓見内駅) is a railway station in 県大仙市鑓見内, Japan.",
-          "章节": {},
-          "全文": "Yariminai Station (鑓見内駅) is a railway station in 県大仙市鑓見内, Japan.",
-          "字数": 64
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station."
+          },
+          "全文": "Yariminai Station (鑓見内駅) is a railway station in 県大仙市鑓見内, Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.",
+          "字数": 341
         }
       },
       "结构化信息": {
@@ -2698,10 +3154,19 @@
         "英文": {
           "词条标题": "Shizukuishi Station",
           "链接": "https://ja.wikipedia.org/wiki/%E9%9B%AB%E7%9F%B3%E9%A7%85",
-          "首段": "Shizukuishi Station (雫石駅) is a railway station in 県岩手郡雫石町寺の下, Japan.",
-          "章节": {},
-          "全文": "Shizukuishi Station (雫石駅) is a railway station in 県岩手郡雫石町寺の下, Japan.",
-          "字数": 68
+          "首段": "A railway station on this line in Japan.",
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station."
+          },
+          "全文": "A railway station on this line in Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.",
+          "字数": 420
         }
       },
       "结构化信息": {
@@ -2775,9 +3240,15 @@
           "词条标题": "Uguisuno Station",
           "链接": "https://ja.wikipedia.org/wiki/%E9%B6%AF%E9%87%8E%E9%A7%85",
           "首段": "Uguisuno Station (鶯野駅) is a railway station in 県大仙市下鶯野, Japan.",
-          "章节": {},
-          "全文": "Uguisuno Station (鶯野駅) is a railway station in 県大仙市下鶯野, Japan.",
-          "字数": 62
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station."
+          },
+          "全文": "Uguisuno Station (鶯野駅) is a railway station in 県大仙市下鶯野, Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.",
+          "字数": 291
         }
       },
       "结构化信息": {
