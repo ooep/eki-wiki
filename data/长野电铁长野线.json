@@ -38,7 +38,14 @@
       "中文": {
         "来源": "⚠️ 暂未汉化"
       },
-      "英文": null
+      "英文": {
+        "词条标题": "長野電鉄長野線",
+        "链接": "https://ja.wikipedia.org/wiki/%E9%95%B7%E9%87%8E%E9%9B%BB%E9%89%84%E9%95%B7%E9%87%8E%E7%B7%9A",
+        "首段": "The 長野電鉄長野線 is a railway line in Japan.",
+        "章节": {},
+        "全文": "The 長野電鉄長野線 is a railway line in Japan.",
+        "字数": 39
+      }
     }
   },
   "车站": [
@@ -68,7 +75,14 @@
           "字数": 89,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "上条駅",
+          "链接": "https://ja.wikipedia.org/wiki/%E4%B8%8A%E6%9D%A1%E9%A7%85",
+          "首段": "上条駅 (上条駅) is a railway station in 県) - 新潟県魚沼市, Japan.",
+          "章节": {},
+          "全文": "上条駅 (上条駅) is a railway station in 県) - 新潟県魚沼市, Japan.",
+          "字数": 53
+        }
       },
       "结构化信息": {
         "读音": "かみじょうえき",
@@ -133,15 +147,11 @@
         },
         "英文": {
           "词条标题": "Nakanomatsukawa Station",
-          "链接": "https://en.wikipedia.org/wiki/Nakanomatsukawa%20Station",
-          "首段": "is a railway station in the city of Nakano, Nagano, Japan, operated by the private railway operating company Nagano Electric Railway.",
-          "章节": {
-            "Lines": "Nakano-Matsukawa Station is a station on the Nagano Electric Railway Nagano Line and is 27.0 kilometers from the terminus of the line at Nagano Station.\n\nStation layout\nThe station consists of one ground-level side platform serving a single bi-directional track. The station is unattended.\n\nAdjacent stations",
-            "History": "The station opened on 28 April 1927.\n\nPassenger statistics\nIn fiscal 2015, the station was used by an average of 68 passengers daily (boarding passengers only).\n\nSurrounding area\nNakano Elementary School\nMatsukawa Post Office\n\nSee also\n List of railway stations in Japan",
-            "References": "External links\n\n \n\nRailway stations in Japan opened in 1927\nRailway stations in Nagano Prefecture\nNagano Electric Railway\nNakano, Nagano"
-          },
-          "全文": "is a railway station in the city of Nakano, Nagano, Japan, operated by the private railway operating company Nagano Electric Railway.\n\nLines\nNakano-Matsukawa Station is a station on the Nagano Electric Railway Nagano Line and is 27.0 kilometers from the terminus of the line at Nagano Station.\n\nStation layout\nThe station consists of one ground-level side platform serving a single bi-directional track. The station is unattended.\n\nAdjacent stations\n\nHistory\nThe station opened on 28 April 1927.\n\nPassenger statistics\nIn fiscal 2015, the station was used by an average of 68 passengers daily (boarding passengers only).\n\nSurrounding area\nNakano Elementary School\nMatsukawa Post Office\n\nSee also\n List of railway stations in Japan\n\nReferences\n\nExternal links\n\n \n\nRailway stations in Japan opened in 1927\nRailway stations in Nagano Prefecture\nNagano Electric Railway\nNakano, Nagano",
-          "字数": 879
+          "链接": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E9%87%8E%E6%9D%BE%E5%B7%9D%E9%A7%85",
+          "首段": "Nakanomatsukawa Station (中野松川駅) is a railway station in 県中野市大字中野, Japan.",
+          "章节": {},
+          "全文": "Nakanomatsukawa Station (中野松川駅) is a railway station in 県中野市大字中野, Japan.",
+          "字数": 72
         }
       },
       "结构化信息": {
@@ -230,7 +240,14 @@
           "字数": 1539,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "信州中野駅",
+          "链接": "https://ja.wikipedia.org/wiki/%E4%BF%A1%E5%B7%9E%E4%B8%AD%E9%87%8E%E9%A7%85",
+          "首段": "信州中野駅 (信州中野駅) is a railway station in 県中野市西一丁目, Japan.",
+          "章节": {},
+          "全文": "信州中野駅 (信州中野駅) is a railway station in 県中野市西一丁目, Japan.",
+          "字数": 54
+        }
       },
       "结构化信息": {
         "读音": "しんしゅうなかのえき",
@@ -315,7 +332,14 @@
           "字数": 914,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "信濃吉田駅",
+          "链接": "https://ja.wikipedia.org/wiki/%E4%BF%A1%E6%BF%83%E5%90%89%E7%94%B0%E9%A7%85",
+          "首段": "信濃吉田駅 (信濃吉田駅) is a railway station in 県長野市吉田三丁目, Japan.",
+          "章节": {},
+          "全文": "信濃吉田駅 (信濃吉田駅) is a railway station in 県長野市吉田三丁目, Japan.",
+          "字数": 55
+        }
       },
       "结构化信息": {
         "读音": "しなのよしだえき",
@@ -395,16 +419,11 @@
         },
         "英文": {
           "词条标题": "Shinanotakehara Station",
-          "链接": "https://en.wikipedia.org/wiki/Shinanotakehara%20Station",
-          "首段": "is a railway station in the city of Nakano, Nagano, Japan, operated by the private railway operating company Nagano Electric Railway.",
-          "章节": {
-            "Lines": "Shinano-Takehara Station is a station on the Nagano Electric Railway Nagano Line and is 29.3 kilometers from the terminus of the line at Nagano Station.\n\nStation layout\nThe station consists of two ground-level opposed side platforms serving two tracks. The platforms are not numbered The station is unattended.",
-            "Platforms": "Adjacent stations",
-            "History": "The station opened on 28 April 1927 as . It was renamed to its present name on 16 June 1932.\n\nPassenger statistics\nIn fiscal 2015, the station was used by an average of 33 passengers daily (boarding passengers only).\n\nSurrounding area\n\nSee also\n List of railway stations in Japan",
-            "References": "External links\n\n \n\nRailway stations in Japan opened in 1927\nRailway stations in Nagano Prefecture\nNagano Electric Railway\nNakano, Nagano"
-          },
-          "全文": "is a railway station in the city of Nakano, Nagano, Japan, operated by the private railway operating company Nagano Electric Railway.\n\nLines\nShinano-Takehara Station is a station on the Nagano Electric Railway Nagano Line and is 29.3 kilometers from the terminus of the line at Nagano Station.\n\nStation layout\nThe station consists of two ground-level opposed side platforms serving two tracks. The platforms are not numbered The station is unattended.\n\nPlatforms\n\nAdjacent stations\n\nHistory\nThe station opened on 28 April 1927 as . It was renamed to its present name on 16 June 1932.\n\nPassenger statistics\nIn fiscal 2015, the station was used by an average of 33 passengers daily (boarding passengers only).\n\nSurrounding area\n\nSee also\n List of railway stations in Japan\n\nReferences\n\nExternal links\n\n \n\nRailway stations in Japan opened in 1927\nRailway stations in Nagano Prefecture\nNagano Electric Railway\nNakano, Nagano",
-          "字数": 920
+          "链接": "https://ja.wikipedia.org/wiki/%E4%BF%A1%E6%BF%83%E7%AB%B9%E5%8E%9F%E9%A7%85",
+          "首段": "Shinanotakehara Station (信濃竹原駅) is a railway station in 県中野市大字竹原, Japan.",
+          "章节": {},
+          "全文": "Shinanotakehara Station (信濃竹原駅) is a railway station in 県中野市大字竹原, Japan.",
+          "字数": 72
         }
       },
       "结构化信息": {
@@ -482,15 +501,11 @@
         },
         "英文": {
           "词条标题": "Kitasuzaka Station",
-          "链接": "https://en.wikipedia.org/wiki/Kitasuzaka%20Station",
-          "首段": "is a railway station in the city of Suzaka, Nagano, Japan, operated by the private railway operating company Nagano Electric Railway.",
-          "章节": {
-            "Lines": "Kitasuzaka Station is a station on the Nagano Electric Railway Nagano Line and is 15.0 kilometers from the terminus of the line at Nagano Station.\n\nStation layout\nThe station consists of one ground-level side platform serving a single bi-directional track. The station is unattended.\n\nAdjacent stations",
-            "History": "The station opened on 26 March 1923 as . It was renamed to its present name on 11 April 1960.\n\nPassenger statistics\nIn fiscal 2016, the station was used by an average of 342 passengers daily (boarding passengers only).\n\nSurrounding area\n\nAsahigaoka Elementary School\n\nSee also\n List of railway stations in Japan",
-            "References": "External links\n \n\nRailway stations in Japan opened in 1923\nRailway stations in Nagano Prefecture\nNagano Electric Railway\nSuzaka, Nagano"
-          },
-          "全文": "is a railway station in the city of Suzaka, Nagano, Japan, operated by the private railway operating company Nagano Electric Railway.\n\nLines\nKitasuzaka Station is a station on the Nagano Electric Railway Nagano Line and is 15.0 kilometers from the terminus of the line at Nagano Station.\n\nStation layout\nThe station consists of one ground-level side platform serving a single bi-directional track. The station is unattended.\n\nAdjacent stations\n\nHistory\nThe station opened on 26 March 1923 as . It was renamed to its present name on 11 April 1960.\n\nPassenger statistics\nIn fiscal 2016, the station was used by an average of 342 passengers daily (boarding passengers only).\n\nSurrounding area\n\nAsahigaoka Elementary School\n\nSee also\n List of railway stations in Japan\n\nReferences\n\nExternal links\n \n\nRailway stations in Japan opened in 1923\nRailway stations in Nagano Prefecture\nNagano Electric Railway\nSuzaka, Nagano",
-          "字数": 913
+          "链接": "https://ja.wikipedia.org/wiki/%E5%8C%97%E9%A0%88%E5%9D%82%E9%A7%85",
+          "首段": "Kitasuzaka Station (北須坂駅) is a railway station in 県須坂市大字小河原, Japan.",
+          "章节": {},
+          "全文": "Kitasuzaka Station (北須坂駅) is a railway station in 県須坂市大字小河原, Japan.",
+          "字数": 67
         }
       },
       "结构化信息": {
@@ -571,16 +586,11 @@
         },
         "英文": {
           "词条标题": "Zenkōjishita Station",
-          "链接": "https://en.wikipedia.org/wiki/Zenk%C5%8Djishita%20Station",
-          "首段": "is an underground railway station in the city of Nagano, Japan, operated by the private railway operating company Nagano Electric Railway.",
-          "章节": {
-            "Lines": "Zenkōjishita Station is a station on the Nagano Electric Railway Nagano Line and is 1.6 kilometers from the terminus of the line at Nagano Station.\n\nStation layout\nThe station is an underground station consisting of two opposed side platforms serving two tracks. The station is staffed.",
-            "Platforms": "Adjacent stations",
-            "History": "The station opened on 28 June 1926. It was reopened as an underground station on 26 March 1977.\n\nPassenger statistics\nIn fiscal 2016, the station was used by an average of 670 passengers daily (boarding passengers only).\n\nSurrounding area\nJoto Elementary School\n\nSee also\n List of railway stations in Japan",
-            "References": "External links\n\n \n\nRailway stations in Japan opened in 1926\nRailway stations in Nagano (city)\nNagano Electric Railway"
-          },
-          "全文": "is an underground railway station in the city of Nagano, Japan, operated by the private railway operating company Nagano Electric Railway.\n\nLines\nZenkōjishita Station is a station on the Nagano Electric Railway Nagano Line and is 1.6 kilometers from the terminus of the line at Nagano Station.\n\nStation layout\nThe station is an underground station consisting of two opposed side platforms serving two tracks. The station is staffed.\n\nPlatforms\n\nAdjacent stations\n\nHistory\nThe station opened on 28 June 1926. It was reopened as an underground station on 26 March 1977.\n\nPassenger statistics\nIn fiscal 2016, the station was used by an average of 670 passengers daily (boarding passengers only).\n\nSurrounding area\nJoto Elementary School\n\nSee also\n List of railway stations in Japan\n\nReferences\n\nExternal links\n\n \n\nRailway stations in Japan opened in 1926\nRailway stations in Nagano (city)\nNagano Electric Railway",
-          "字数": 909
+          "链接": "https://ja.wikipedia.org/wiki/%E5%96%84%E5%85%89%E5%AF%BA%E4%B8%8B%E9%A7%85",
+          "首段": "Zenkōjishita Station (善光寺下駅) is a railway station in 県長野市三輪七丁目, Japan.",
+          "章节": {},
+          "全文": "Zenkōjishita Station (善光寺下駅) is a railway station in 県長野市三輪七丁目, Japan.",
+          "字数": 70
         }
       },
       "结构化信息": {
@@ -660,15 +670,11 @@
         },
         "英文": {
           "词条标题": "Yomase Station",
-          "链接": "https://en.wikipedia.org/wiki/Yomase%20Station",
-          "首段": "is a railway station in the town of Yamanouchi, Nagano, Japan, operated by the private railway operating company Nagano Electric Railway.",
-          "章节": {
-            "Lines": "Yomase Station is a station on the Nagano Electric Railway Nagano Line and is 30.4 kilometers from the terminus of the line at Nagano Station.\n\nStation layout\nThe station consists of one ground-level side platform serving a single bi-directional track. The station is unattended.\n\nAdjacent stations",
-            "History": "The station opened on 28 April 1927.\n\nPassenger statistics\nIn fiscal 2015, the station was used by an average of 77 passengers daily (boarding passengers only).\n\nSurrounding area\n\nSee also\n List of railway stations in Japan",
-            "References": "External links\n\n \n\nRailway stations in Japan opened in 1927\nRailway stations in Nagano Prefecture\nNagano Electric Railway\nYamanouchi, Nagano"
-          },
-          "全文": "is a railway station in the town of Yamanouchi, Nagano, Japan, operated by the private railway operating company Nagano Electric Railway.\n\nLines\nYomase Station is a station on the Nagano Electric Railway Nagano Line and is 30.4 kilometers from the terminus of the line at Nagano Station.\n\nStation layout\nThe station consists of one ground-level side platform serving a single bi-directional track. The station is unattended.\n\nAdjacent stations\n\nHistory\nThe station opened on 28 April 1927.\n\nPassenger statistics\nIn fiscal 2015, the station was used by an average of 77 passengers daily (boarding passengers only).\n\nSurrounding area\n\nSee also\n List of railway stations in Japan\n\nReferences\n\nExternal links\n\n \n\nRailway stations in Japan opened in 1927\nRailway stations in Nagano Prefecture\nNagano Electric Railway\nYamanouchi, Nagano",
-          "字数": 830
+          "链接": "https://ja.wikipedia.org/wiki/%E5%A4%9C%E9%96%93%E7%80%AC%E9%A7%85",
+          "首段": "Yomase Station (夜間瀬駅) is a railway station in 県下高井郡山ノ内町大字夜間瀬, Japan.",
+          "章节": {},
+          "全文": "Yomase Station (夜間瀬駅) is a railway station in 県下高井郡山ノ内町大字夜間瀬, Japan.",
+          "字数": 68
         }
       },
       "结构化信息": {
@@ -748,16 +754,11 @@
         },
         "英文": {
           "词条标题": "Obuse Station",
-          "链接": "https://en.wikipedia.org/wiki/Obuse%20Station",
-          "首段": "is a railway station in the town of Obuse, Nagano, Japan, operated by the private railway operating company Nagano Electric Railway.",
-          "章节": {
-            "Lines": "Obuse Station is a station on the Nagano Electric Railway Nagano Line and is 17.5 kilometers from the terminus of the line at Nagano Station.\n\nStation layout\nThe station consists of one ground-level side platform and one island platform serving three tracks. The station is staffed.",
-            "Platforms": "Adjacent stations",
-            "History": "The station opened on 26 March 1923.\n\nPassenger statistics\nIn fiscal 2016, the station was used by an average of 754 passengers daily (boarding passengers only).\n\nSurrounding area\nObuse Town Hall\nObuse Post Office\nObuse Elementary School\n\nSee also\n List of railway stations in Japan",
-            "References": "External links\n\n \n\nRailway stations in Japan opened in 1923\nRailway stations in Nagano Prefecture\nNagano Electric Railway\nObuse, Nagano"
-          },
-          "全文": "is a railway station in the town of Obuse, Nagano, Japan, operated by the private railway operating company Nagano Electric Railway.\n\nLines\nObuse Station is a station on the Nagano Electric Railway Nagano Line and is 17.5 kilometers from the terminus of the line at Nagano Station.\n\nStation layout\nThe station consists of one ground-level side platform and one island platform serving three tracks. The station is staffed.\n\nPlatforms\n\nAdjacent stations\n\nHistory\nThe station opened on 26 March 1923.\n\nPassenger statistics\nIn fiscal 2016, the station was used by an average of 754 passengers daily (boarding passengers only).\n\nSurrounding area\nObuse Town Hall\nObuse Post Office\nObuse Elementary School\n\nSee also\n List of railway stations in Japan\n\nReferences\n\nExternal links\n\n \n\nRailway stations in Japan opened in 1923\nRailway stations in Nagano Prefecture\nNagano Electric Railway\nObuse, Nagano",
-          "字数": 893
+          "链接": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E5%B8%83%E6%96%BD%E9%A7%85",
+          "首段": "Obuse Station (小布施駅) is a railway station in 県上高井郡小布施町大字小布施, Japan.",
+          "章节": {},
+          "全文": "Obuse Station (小布施駅) is a railway station in 県上高井郡小布施町大字小布施, Japan.",
+          "字数": 67
         }
       },
       "结构化信息": {
@@ -828,7 +829,14 @@
           "字数": 1367,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "市役所前駅",
+          "链接": "https://ja.wikipedia.org/wiki/%E5%B8%82%E5%BD%B9%E6%89%80%E5%89%8D%E9%A7%85",
+          "首段": "市役所前駅 (市役所前駅) is a railway station in 県長崎市, Japan.",
+          "章节": {},
+          "全文": "市役所前駅 (市役所前駅) is a railway station in 県長崎市, Japan.",
+          "字数": 50
+        }
       },
       "结构化信息": {
         "读音": "しやくしょまええき",
@@ -905,16 +913,11 @@
         },
         "英文": {
           "词条标题": "Entoku Station",
-          "链接": "https://en.wikipedia.org/wiki/Entoku%20Station",
-          "首段": "is a railway station in the city of Nakano, Nagano, Japan, operated by the private railway operating company Nagano Electric Railway.",
-          "章节": {
-            "Lines": "Entoku Station is a station on the Nagano Electric Railway Nagano Line and is 23.3 kilometers from the terminus of the line at Nagano Station.\n\nStation layout\nThe station consists of one ground-level island platform connected to the two story station building by a level crossing. The station is unattended.",
-            "Platforms": "Adjacent stations",
-            "History": "The station opened on 26 March 1923. The station was relocated 300 meters towards Shinshūnakano Station in 1994 and the station building rebuilt in 1993 for the 1998 Winter Olympics.\n\nPassenger statistics\nIn fiscal 2015, the station was used by an average of 132 passengers daily (boarding passengers only).\n\nSurrounding area\nShinpei Nakayama Memorial Museum\n\nSee also\n List of railway stations in Japan",
-            "References": "External links\n\n \n\nRailway stations in Japan opened in 1923\nRailway stations in Nagano Prefecture\nNagano Electric Railway\nNakano, Nagano"
-          },
-          "全文": "is a railway station in the city of Nakano, Nagano, Japan, operated by the private railway operating company Nagano Electric Railway.\n\nLines\nEntoku Station is a station on the Nagano Electric Railway Nagano Line and is 23.3 kilometers from the terminus of the line at Nagano Station.\n\nStation layout\nThe station consists of one ground-level island platform connected to the two story station building by a level crossing. The station is unattended.\n\nPlatforms\n\nAdjacent stations\n\nHistory\nThe station opened on 26 March 1923. The station was relocated 300 meters towards Shinshūnakano Station in 1994 and the station building rebuilt in 1993 for the 1998 Winter Olympics.\n\nPassenger statistics\nIn fiscal 2015, the station was used by an average of 132 passengers daily (boarding passengers only).\n\nSurrounding area\nShinpei Nakayama Memorial Museum\n\nSee also\n List of railway stations in Japan\n\nReferences\n\nExternal links\n\n \n\nRailway stations in Japan opened in 1923\nRailway stations in Nagano Prefecture\nNagano Electric Railway\nNakano, Nagano",
-          "字数": 1041
+          "链接": "https://ja.wikipedia.org/wiki/%E5%BB%B6%E5%BE%B3%E9%A7%85",
+          "首段": "Entoku Station (延徳駅) is a railway station in 県中野市大字篠井, Japan.",
+          "章节": {},
+          "全文": "Entoku Station (延徳駅) is a railway station in 県中野市大字篠井, Japan.",
+          "字数": 61
         }
       },
       "结构化信息": {
@@ -1319,7 +1322,14 @@
           "字数": 151,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "桜沢駅",
+          "链接": "https://ja.wikipedia.org/wiki/%E6%A1%9C%E6%B2%A2%E9%A7%85",
+          "首段": "桜沢駅 (桜沢駅) is a railway station in Japan, Japan.",
+          "章节": {},
+          "全文": "桜沢駅 (桜沢駅) is a railway station in Japan, Japan.",
+          "字数": 47
+        }
       },
       "结构化信息": {
         "读音": null,
@@ -1382,16 +1392,11 @@
         },
         "英文": {
           "词条标题": "Gondō Station",
-          "链接": "https://en.wikipedia.org/wiki/Gond%C5%8D%20Station",
-          "首段": "is an underground railway station in the city of Nagano, Japan, operated by the private railway operating company Nagano Electric Railway.",
-          "章节": {
-            "Lines": "Gondō Station is a station on the Nagano Electric Railway Nagano Line and is 1.0 kilometers from the terminus of the line at Nagano Station and 32.2 km from the terminus at Yudanaka Station in Yamanouchi, Nagano.\n\nStation layout\nThe station is an underground station consisting of two opposed side platforms serving two tracks. The station is staffed.",
-            "Platforms": "Adjacent stations",
-            "History": "The station opened on 28 June 1926. It was reopened as an underground station on 1 March 1981.\n\nPassenger statistics\nIn fiscal 2016, the station was used by an average of 1305 passengers daily (boarding passengers only).\n\nSurrounding area\n\n central Nagano city\n \n \n Head office of Nagano Electric Railway\n \n , a cinema which first opened as a kabuki theatre in 1892\n Gocho Campus of the University of Nagano\n\nSee also\n List of railway stations in Japan",
-            "References": "External links\n\n \n\nRailway stations in Japan opened in 1926\nRailway stations in Nagano (city)\nNagano Electric Railway"
-          },
-          "全文": "is an underground railway station in the city of Nagano, Japan, operated by the private railway operating company Nagano Electric Railway.\n\nLines\nGondō Station is a station on the Nagano Electric Railway Nagano Line and is 1.0 kilometers from the terminus of the line at Nagano Station and 32.2 km from the terminus at Yudanaka Station in Yamanouchi, Nagano.\n\nStation layout\nThe station is an underground station consisting of two opposed side platforms serving two tracks. The station is staffed.\n\nPlatforms\n\nAdjacent stations\n\nHistory\nThe station opened on 28 June 1926. It was reopened as an underground station on 1 March 1981.\n\nPassenger statistics\nIn fiscal 2016, the station was used by an average of 1305 passengers daily (boarding passengers only).\n\nSurrounding area\n\n central Nagano city\n \n \n Head office of Nagano Electric Railway\n \n , a cinema which first opened as a kabuki theatre in 1892\n Gocho Campus of the University of Nagano\n\nSee also\n List of railway stations in Japan\n\nReferences\n\nExternal links\n\n \n\nRailway stations in Japan opened in 1926\nRailway stations in Nagano (city)\nNagano Electric Railway",
-          "字数": 1120
+          "链接": "https://ja.wikipedia.org/wiki/%E6%A8%A9%E5%A0%82%E9%A7%85",
+          "首段": "Gondō Station (権堂駅) is a railway station in 県長野市大字鶴賀権堂町, Japan.",
+          "章节": {},
+          "全文": "Gondō Station (権堂駅) is a railway station in 県長野市大字鶴賀権堂町, Japan.",
+          "字数": 63
         }
       },
       "结构化信息": {
@@ -1474,17 +1479,11 @@
         },
         "英文": {
           "词条标题": "Yudanaka Station",
-          "链接": "https://en.wikipedia.org/wiki/Yudanaka%20Station",
-          "首段": "is a railway station in the town of Yamanouchi, Nagano, Japan, operated by the private railway operating company Nagano Electric Railway. Yudanaka Station is a gateway to seasonal mountain and outdoor activities, including hiking and skiing or snowboarding, and to Jigokudani Monkey Park where Japanese macaques soak in an outdoor hot spring.\n\nAn indoor Japanese hot spring named  is located in the former station building, standing beside the current station. The former station building itself is registered as tangible cultural property.\n\nAt the train's arrival, the song , composed by Akira Nishizawa, Masao Koga, and Atsuo Okamoto plays. On departure, a regular train bell rings.",
-          "章节": {
-            "Lines": "Yudanaka Station is the terminus of the Nagano Electric Railway Nagano Line and is 33.2 kilometers from the opposing terminus of the line at Nagano Station. Yudanaka is 1.4 km from Kamijō Station, its nearest station on the local line, and 9.9 km from Shinshūnakano Station, its nearest station on the limited express.\n\nStation layout\nThe station consists of one ground-level side platform serving a single dead-headed track. The station formerly had two opposed side platforms, but one side platform is no longer in use. The staffed station building includes a station office, waiting room, tourist information center, and automatic ticket machines.\n\nAdjacent stations",
-            "Buses": "Shirane Kazan bus stop is closed due to an eruption of Mount Kusatsu-Shirane. It is impossible to transfer onto any bus route at Shirane Kazan bus stop with suspension of Nagaden Bus bound for Shirane Kazan.",
-            "History": "The station opened on 28 April 1927. Previously, there were plans to extend from Yudanaka a further 2 kilometers to . Two stations were built, two licenses were acquired, but the work to lay the rails never commenced. Those licenses expired in 1931 and in 1958.\n\nIn January 1937, a Japanese National Railways (JNR) train arrived for the first time via Nagano Station, and in July of the same year a JNR trained arrived via Yashiro Station.\n\nIn 1958, the current station building was completed. In 1971, freight operations ended. JNR operated  the Shiga train between Yudanaka and Ueno Station in Tokyo using the Shinetsu Line. This service to Yudanaka was discontinued in 1982.\n\nIn preparation for the 1998 Winter Olympics, there was an effort to rename the station ; however, this was withdrawn due to opposition from the Yudanaka Onsen Association.\n\nIn 2004, the former station was registered as tangible cultural property.\n\nIn 2006, the last mini switchback lines into the station were removed following repairs.\n\nBetween 2010 and 2012, the station was operated by Hokushin Sightseeing Taxi (currently Nagaden Taxi).\n\nPassenger statistics\nIn fiscal 2016, the station was used by an average of 646 passengers daily (boarding passengers only).",
-            "Gallery": "Surrounding area\nYudanaka Onsen\nYamanouchi Town Hall\nYamanouchi Middle School\nYudanaka Post Office\n\nSee also\n List of railway stations in Japan",
-            "References": "External links\n\n \n\nRailway stations in Japan opened in 1927\nRailway stations in Nagano Prefecture\nNagano Electric Railway\nYamanouchi, Nagano"
-          },
-          "全文": "is a railway station in the town of Yamanouchi, Nagano, Japan, operated by the private railway operating company Nagano Electric Railway. Yudanaka Station is a gateway to seasonal mountain and outdoor activities, including hiking and skiing or snowboarding, and to Jigokudani Monkey Park where Japanese macaques soak in an outdoor hot spring.\n\nAn indoor Japanese hot spring named  is located in the former station building, standing beside the current station. The former station building itself is registered as tangible cultural property.\n\nAt the train's arrival, the song , composed by Akira Nishizawa, Masao Koga, and Atsuo Okamoto plays. On departure, a regular train bell rings.\n\nLines\nYudanaka Station is the terminus of the Nagano Electric Railway Nagano Line and is 33.2 kilometers from the opposing terminus of the line at Nagano Station. Yudanaka is 1.4 km from Kamijō Station, its nearest station on the local line, and 9.9 km from Shinshūnakano Station, its nearest station on the limited express.\n\nStation layout\nThe station consists of one ground-level side platform serving a single dead-headed track. The station formerly had two opposed side platforms, but one side platform is no longer in use. The staffed station building includes a station office, waiting room, tourist information center, and automatic ticket machines.\n\nAdjacent stations\n\nBuses\n\nShirane Kazan bus stop is closed due to an eruption of Mount Kusatsu-Shirane. It is impossible to transfer onto any bus route at Shirane Kazan bus stop with suspension of Nagaden Bus bound for Shirane Kazan.\n\nHistory\nThe station opened on 28 April 1927. Previously, there were plans to extend from Yudanaka a further 2 kilometers to . Two stations were built, two licenses were acquired, but the work to lay the rails never commenced. Those licenses expired in 1931 and in 1958.\n\nIn January 1937, a Japanese National Railways (JNR) train arrived for the first time via Nagano Station, and in July of the same year a JNR trained arrived via Yashiro Station.\n\nIn 1958, the current station building was completed. In 1971, freight operations ended. JNR operated  the Shiga train between Yudanaka and Ueno Station in Tokyo using the Shinetsu Line. This service to Yudanaka was discontinued in 1982.\n\nIn preparation for the 1998 Winter Olympics, there was an effort to rename the station ; however, this was withdrawn due to opposition from the Yudanaka Onsen Association.\n\nIn 2004, the former station was registered as tangible cultural property.\n\nIn 2006, the last mini switchback lines into the station were removed following repairs.\n\nBetween 2010 and 2012, the station was operated by Hokushin Sightseeing Taxi (currently Nagaden Taxi).\n\nPassenger statistics\nIn fiscal 2016, the station was used by an average of 646 passengers daily (boarding passengers only).\n\nGallery\n\nSurrounding area\nYudanaka Onsen\nYamanouchi Town Hall\nYamanouchi Middle School\nYudanaka Post Office\n\nSee also\n List of railway stations in Japan\n\nReferences\n\nExternal links\n\n \n\nRailway stations in Japan opened in 1927\nRailway stations in Nagano Prefecture\nNagano Electric Railway\nYamanouchi, Nagano",
-          "字数": 3139
+          "链接": "https://ja.wikipedia.org/wiki/%E6%B9%AF%E7%94%B0%E4%B8%AD%E9%A7%85",
+          "首段": "Yudanaka Station (湯田中駅) is a railway station in 県下高井郡山ノ内町大字平穏, Japan.",
+          "章节": {},
+          "全文": "Yudanaka Station (湯田中駅) is a railway station in 県下高井郡山ノ内町大字平穏, Japan.",
+          "字数": 69
         }
       },
       "结构化信息": {
@@ -1558,15 +1557,11 @@
         },
         "英文": {
           "词条标题": "Tsusumi Station",
-          "链接": "https://en.wikipedia.org/wiki/Tsusumi%20Station",
-          "首段": "is a railway station in the town of Obuse, Nagano, Japan, operated by the private railway operating company Nagano Electric Railway.",
-          "章节": {
-            "Lines": "Tsusumi Station is a station on the Nagano Electric Railway Nagano Line and is 18.6 kilometers from the terminus of the line at Nagano Station.\n\nStation layout\nThe station consists of one ground-level side platform serving a single bi-directional track. The station is unattended.\n\nAdjacent stations",
-            "History": "The station opened on 11 October 1928.\n\nPassenger statistics\nIn fiscal 2015, the station was used by an average of 109 passengers daily (boarding passengers only).\n\nSurrounding area\n\nSee also\n List of railway stations in Japan",
-            "References": "External links\n\n \n\nRailway stations in Japan opened in 1928\nRailway stations in Nagano Prefecture\nNagano Electric Railway\nObuse, Nagano"
-          },
-          "全文": "is a railway station in the town of Obuse, Nagano, Japan, operated by the private railway operating company Nagano Electric Railway.\n\nLines\nTsusumi Station is a station on the Nagano Electric Railway Nagano Line and is 18.6 kilometers from the terminus of the line at Nagano Station.\n\nStation layout\nThe station consists of one ground-level side platform serving a single bi-directional track. The station is unattended.\n\nAdjacent stations\n\nHistory\nThe station opened on 11 October 1928.\n\nPassenger statistics\nIn fiscal 2015, the station was used by an average of 109 passengers daily (boarding passengers only).\n\nSurrounding area\n\nSee also\n List of railway stations in Japan\n\nReferences\n\nExternal links\n\n \n\nRailway stations in Japan opened in 1928\nRailway stations in Nagano Prefecture\nNagano Electric Railway\nObuse, Nagano",
-          "字数": 824
+          "链接": "https://ja.wikipedia.org/wiki/%E9%83%BD%E4%BD%8F%E9%A7%85",
+          "首段": "Tsusumi Station (都住駅) is a railway station in 県上高井郡小布施町大字都住, Japan.",
+          "章节": {},
+          "全文": "Tsusumi Station (都住駅) is a railway station in 県上高井郡小布施町大字都住, Japan.",
+          "字数": 67
         }
       },
       "结构化信息": {
@@ -1662,15 +1657,11 @@
         },
         "英文": {
           "词条标题": "Nagano Station",
-          "链接": "https://en.wikipedia.org/wiki/Nagano%20Station",
-          "首段": "is a railway station in the city of Nagano in Nagano Prefecture, Japan. The station is operated by East Japan Railway Company (JR East) and the private railway operator Nagano Electric Railway (Nagaden).",
-          "章节": {
-            "Lines": "Nagano Station is served by the following lines.\nJR East\nHokuriku Shinkansen (branded \"Nagano Shinkansen\" until March 2015), on which it is 222.4 kilometers from Tokyo Station\nShinetsu Main Line\nShinonoi Line\nIiyama Line\n Shinano Railway Line\nNagano Electric Railway Nagano Line\n\nStation layout \nThe JR East portion of the station has two elevated island platforms for the Shinkansen services, and three ground-level island platforms for local services, including onward services by Kita-Shinano Line trains. \nThe station has a \"Midori no Madoguchi\" staffed ticket office.\n\nJR East\n\nThe Shinkansen platforms use the tune \"Shinano no Kuni\" (the Nagano prefectural song) for the departure melody since January 2015.\n\nNagano Electric Railway \nThe Nagano Electric Railway platforms are located underground below the JR platforms. The Nagano Electric Railway has two island platforms serving three tracks.",
-            "History": "Nagano Station opened on 1 May 1888. When the Japanese National Railways (JNR) were divided and privatized on 1 April 1987, the station became a part of the system of East Japan Railway Company (JR East). On 1 October 1997, JR East opened the Nagano Shinkansen with its terminus at Nagano.\n\nBus terminals\n\nHighway buses \n For Nerima Station, Nakano-sakaue Station, and Shinjuku Station\n For Nerima Station,  Shimo-Ochiai Station, and Ikebukuro Station\n For Keisei Ueno Station, Asakusa, Tokyo Disney Resort, Nishi-Funabashi Station, and Narita International Airport\n For Sakudaira Station, Iwamurada Station, and Usuda\n For Matsumoto Bus Terminal (Matsumoto Station)\n For Hakuba-Goryu, Hakuba Station, Hakuba Happo, Tsugaike Kogen, and Hakuba-Norikura\n For Shinano-Ōmachi Station and Ōgizawa Station\n Misuzu Highway Bus; For Matsumoto, Okaya, Ina, Komagane, and  Iida Station\n Seseragi; For Kamikōchi\n For Nigata Station\n For Kurobe,, Uozu, Namerikawa, and Toyama Station\n Chuodo Kosoku Bus; For Tokadai, Sakae, and Nagoya Station\n Alpen Nagano; For Kyōto Station, Senri-Chūō Station, Momoyamadai Station, Shin-Ōsaka Station, and Umeda Station\n Southern Cross; For Kyoto Station, Ōsaka Station, JR Namba Station(OCAT), Namba Station, and Sannomiya Station\n\nPassenger statistics\nIn fiscal 2015, the JR East portion of the station was used by an average of 21,168 passengers daily (boarding passengers only).",
-            "References": "External links\n\n Nagano Station (JR East)\n\nRailway stations in Nagano Prefecture\nRailway stations in Nagano (city)\nShin'etsu Main Line\nStations of East Japan Railway Company\nNagano Electric Railway\nHokuriku Shinkansen\nRailway stations in Japan opened in 1888"
-          },
-          "全文": "is a railway station in the city of Nagano in Nagano Prefecture, Japan. The station is operated by East Japan Railway Company (JR East) and the private railway operator Nagano Electric Railway (Nagaden).\n\nLines\nNagano Station is served by the following lines.\nJR East\nHokuriku Shinkansen (branded \"Nagano Shinkansen\" until March 2015), on which it is 222.4 kilometers from Tokyo Station\nShinetsu Main Line\nShinonoi Line\nIiyama Line\n Shinano Railway Line\nNagano Electric Railway Nagano Line\n\nStation layout \nThe JR East portion of the station has two elevated island platforms for the Shinkansen services, and three ground-level island platforms for local services, including onward services by Kita-Shinano Line trains. \nThe station has a \"Midori no Madoguchi\" staffed ticket office.\n\nJR East\n\nThe Shinkansen platforms use the tune \"Shinano no Kuni\" (the Nagano prefectural song) for the departure melody since January 2015.\n\nNagano Electric Railway \nThe Nagano Electric Railway platforms are located underground below the JR platforms. The Nagano Electric Railway has two island platforms serving three tracks.\n\nHistory\nNagano Station opened on 1 May 1888. When the Japanese National Railways (JNR) were divided and privatized on 1 April 1987, the station became a part of the system of East Japan Railway Company (JR East). On 1 October 1997, JR East opened the Nagano Shinkansen with its terminus at Nagano.\n\nBus terminals\n\nHighway buses \n For Nerima Station, Nakano-sakaue Station, and Shinjuku Station\n For Nerima Station,  Shimo-Ochiai Station, and Ikebukuro Station\n For Keisei Ueno Station, Asakusa, Tokyo Disney Resort, Nishi-Funabashi Station, and Narita International Airport\n For Sakudaira Station, Iwamurada Station, and Usuda\n For Matsumoto Bus Terminal (Matsumoto Station)\n For Hakuba-Goryu, Hakuba Station, Hakuba Happo, Tsugaike Kogen, and Hakuba-Norikura\n For Shinano-Ōmachi Station and Ōgizawa Station\n Misuzu Highway Bus; For Matsumoto, Okaya, Ina, Komagane, and  Iida Station\n Seseragi; For Kamikōchi\n For Nigata Station\n For Kurobe,, Uozu, Namerikawa, and Toyama Station\n Chuodo Kosoku Bus; For Tokadai, Sakae, and Nagoya Station\n Alpen Nagano; For Kyōto Station, Senri-Chūō Station, Momoyamadai Station, Shin-Ōsaka Station, and Umeda Station\n Southern Cross; For Kyoto Station, Ōsaka Station, JR Namba Station(OCAT), Namba Station, and Sannomiya Station\n\nPassenger statistics\nIn fiscal 2015, the JR East portion of the station was used by an average of 21,168 passengers daily (boarding passengers only).\n\nReferences\n\nExternal links\n\n Nagano Station (JR East)\n\nRailway stations in Nagano Prefecture\nRailway stations in Nagano (city)\nShin'etsu Main Line\nStations of East Japan Railway Company\nNagano Electric Railway\nHokuriku Shinkansen\nRailway stations in Japan opened in 1888",
-          "字数": 2799
+          "链接": "https://ja.wikipedia.org/wiki/%E9%95%B7%E9%87%8E%E9%A7%85",
+          "首段": "Nagano Station (長野駅) is a railway station in 県長野市大字栗田および南千歳一丁目, Japan.",
+          "章节": {},
+          "全文": "Nagano Station (長野駅) is a railway station in 県長野市大字栗田および南千歳一丁目, Japan.",
+          "字数": 70
         }
       },
       "结构化信息": {
@@ -1766,7 +1757,14 @@
           "字数": 594,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "附属中学前駅",
+          "链接": "https://ja.wikipedia.org/wiki/%E9%99%84%E5%B1%9E%E4%B8%AD%E5%AD%A6%E5%89%8D%E9%A7%85",
+          "首段": "附属中学前駅 (附属中学前駅) is a railway station in 県長野市大字南堀, Japan.",
+          "章节": {},
+          "全文": "附属中学前駅 (附属中学前駅) is a railway station in 県長野市大字南堀, Japan.",
+          "字数": 56
+        }
       },
       "结构化信息": {
         "读音": "ふぞくちゅうがくまええき",
@@ -1857,16 +1855,11 @@
         },
         "英文": {
           "词条标题": "Suzaka Station",
-          "链接": "https://en.wikipedia.org/wiki/Suzaka%20Station",
-          "首段": "is a railway station in the city of Suzaka, Nagano, Japan, operated by the private railway operating company Nagano Electric Railway.",
-          "章节": {
-            "Lines": "Suzaka Station is a station on the Nagano Electric Railway Nagano Line and is 12.5 kilometers from the terminus of the line at Nagano Station.\n\nStation layout\nThe station consists of one ground-level side platform and two island platforms serving five tracks, with an elevated station building.",
-            "Platforms": "Adjacent stations",
-            "History": "The station opened on 10 June 1922. From 1922 to 2012, it was also a station on the now-discontinued Kato Line.\n\nPassenger statistics\nIn fiscal 2016, the station was used by an average of 3052 passengers daily (boarding passengers only).\n\nSurrounding area\n\nSuzaka City Hall\nSuzaka Post Office\nSuzaka High School\n\nSee also\n List of railway stations in Japan",
-            "References": "External links\n\n \n\nRailway stations in Japan opened in 1922\nRailway stations in Nagano Prefecture\nNagano Electric Railway\nSuzaka, Nagano"
-          },
-          "全文": "is a railway station in the city of Suzaka, Nagano, Japan, operated by the private railway operating company Nagano Electric Railway.\n\nLines\nSuzaka Station is a station on the Nagano Electric Railway Nagano Line and is 12.5 kilometers from the terminus of the line at Nagano Station.\n\nStation layout\nThe station consists of one ground-level side platform and two island platforms serving five tracks, with an elevated station building.\n\nPlatforms\n\nAdjacent stations\n\nHistory\nThe station opened on 10 June 1922. From 1922 to 2012, it was also a station on the now-discontinued Kato Line.\n\nPassenger statistics\nIn fiscal 2016, the station was used by an average of 3052 passengers daily (boarding passengers only).\n\nSurrounding area\n\nSuzaka City Hall\nSuzaka Post Office\nSuzaka High School\n\nSee also\n List of railway stations in Japan\n\nReferences\n\nExternal links\n\n \n\nRailway stations in Japan opened in 1922\nRailway stations in Nagano Prefecture\nNagano Electric Railway\nSuzaka, Nagano",
-          "字数": 981
+          "链接": "https://ja.wikipedia.org/wiki/%E9%A0%88%E5%9D%82%E9%A7%85",
+          "首段": "Suzaka Station (須坂駅) is a railway station in 県須坂市大字須坂, Japan.",
+          "章节": {},
+          "全文": "Suzaka Station (須坂駅) is a railway station in 県須坂市大字須坂, Japan.",
+          "字数": 61
         }
       },
       "结构化信息": {
@@ -1906,6 +1899,6 @@
     "有中文词条": 24,
     "已千问汉化": 0,
     "待汉化": 0,
-    "有英文词条": 18
+    "有英文词条": 24
   }
 }

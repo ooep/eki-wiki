@@ -52,7 +52,14 @@
         "字数": 731,
         "来源": "维基百科中文版（已转简体）"
       },
-      "英文": null
+      "英文": {
+        "词条标题": "桐生线",
+        "链接": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%AD%A6%E6%A1%90%E7%94%9F%E7%B7%9A",
+        "首段": "The 桐生线 is a railway line in Japan.",
+        "章节": {},
+        "全文": "The 桐生线 is a railway line in Japan.",
+        "字数": 35
+      }
     }
   },
   "车站": [
@@ -103,7 +110,14 @@
           "全文": "东京晴空塔站（とうきょうスカイツリーえき）是位于东京都墨田区押上一丁目的东武铁道伊势崎线车站，包含在「东武晴空塔线」爱称区间内。车站编号为TS 02。\n如站名所示为东京晴空塔（东京晴空塔城）的最近站，与车站直结。邻接押上站，运费计算上视为与本站同一车站。\n\n历史\n1895年（明治28年）4月6日东武铁道提交创立申请，申请自东京市本所区至栃木县足利町83.7公里的铁道铺设。因东京市内千住—本所段需与市区改正协调审查费时，不得已将申请缩小至北千住站以北，于1897年（明治30年）9月3日取得本许可。其后1902年（明治35年）4月1日，本站以东妻桥站名义开业，成为伊势崎线都心侧终点站。",
           "字数": 294
         },
-        "英文": null
+        "英文": {
+          "词条标题": "とうきょうスカイツリー駅",
+          "链接": "https://ja.wikipedia.org/wiki/%E3%81%A8%E3%81%86%E3%81%8D%E3%82%87%E3%81%86%E3%82%B9%E3%82%AB%E3%82%A4%E3%83%84%E3%83%AA%E3%83%BC%E9%A7%85",
+          "首段": "とうきょうスカイツリー駅 (とうきょうスカイツリー駅) is a railway station in Japan, Japan.",
+          "章节": {},
+          "全文": "とうきょうスカイツリー駅 (とうきょうスカイツリー駅) is a railway station in Japan, Japan.",
+          "字数": 65
+        }
       },
       "结构化信息": {
         "读音": "とうきょうスカイツリーえき",
@@ -180,7 +194,14 @@
           "字数": 320,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "三枚橋駅",
+          "链接": "https://ja.wikipedia.org/wiki/%E4%B8%89%E6%9E%9A%E6%A9%8B%E9%A7%85",
+          "首段": "三枚橋駅 (三枚橋駅) is a railway station in 県太田市鳥山下町, Japan.",
+          "章节": {},
+          "全文": "三枚橋駅 (三枚橋駅) is a railway station in 県太田市鳥山下町, Japan.",
+          "字数": 52
+        }
       },
       "结构化信息": {
         "读音": "さんまいばしえき",
@@ -379,15 +400,11 @@
         },
         "英文": {
           "词条标题": "Kazo Station",
-          "链接": "https://en.wikipedia.org/wiki/Kazo%20Station",
-          "首段": "is a passenger railway station located in the city of Kazo, Saitama, Japan, operated by the private railway operator Tōbu Railway.",
-          "章节": {
-            "Lines": "Kazo Station is served by the Tōbu Isesaki Line, and is located 58.5 km from the Tokyo terminus at . Section Express, Section Semi Express, and Local all-stations services stop at this station. Some limited express Ryomo services also stop here.\n\nStation layout\nThis station has an elevated station building, with one island platform and one side platform serving three tracks located on the ground level.",
-            "History": "Kazo Station opened on 6 September 1902. A new elevated station building was completed on 22 November 1985.\n\nFrom 17 March 2012, station numbering was introduced on all Tōbu lines, with Kazo Station becoming \"TI-05\".\n\nPassenger statistics\nIn fiscal 2019, the station was used by an average of 13,569 passengers daily.\n\nSurrounding area\n Kazo City Hall\n Kazo Post Office\n Kazo City Chamber of Commerce\n\nSee also\nList of railway stations in Japan",
-            "References": "External links\n\n KazoStation information  (Tobu) \n\nTobu Isesaki Line\nStations of Tobu Railway\nRailway stations in Saitama Prefecture\nRailway stations in Japan opened in 1902\nKazo, Saitama"
-          },
-          "全文": "is a passenger railway station located in the city of Kazo, Saitama, Japan, operated by the private railway operator Tōbu Railway.\n\nLines\nKazo Station is served by the Tōbu Isesaki Line, and is located 58.5 km from the Tokyo terminus at . Section Express, Section Semi Express, and Local all-stations services stop at this station. Some limited express Ryomo services also stop here.\n\nStation layout\nThis station has an elevated station building, with one island platform and one side platform serving three tracks located on the ground level.\n\nPlatforms\n\nHistory\nKazo Station opened on 6 September 1902. A new elevated station building was completed on 22 November 1985.\n\nFrom 17 March 2012, station numbering was introduced on all Tōbu lines, with Kazo Station becoming \"TI-05\".\n\nPassenger statistics\nIn fiscal 2019, the station was used by an average of 13,569 passengers daily.\n\nSurrounding area\n Kazo City Hall\n Kazo Post Office\n Kazo City Chamber of Commerce\n\nSee also\nList of railway stations in Japan\n\nReferences\n\nExternal links\n\n KazoStation information  (Tobu) \n\nTobu Isesaki Line\nStations of Tobu Railway\nRailway stations in Saitama Prefecture\nRailway stations in Japan opened in 1902\nKazo, Saitama",
-          "字数": 1209
+          "链接": "https://ja.wikipedia.org/wiki/%E5%8A%A0%E9%A0%88%E9%A7%85",
+          "首段": "Kazo Station (加須駅) is a railway station in 県加須市中央一丁目, Japan.",
+          "章节": {},
+          "全文": "Kazo Station (加須駅) is a railway station in 県加須市中央一丁目, Japan.",
+          "字数": 60
         }
       },
       "结构化信息": {
@@ -512,7 +529,14 @@
           "字数": 11617,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "北千住駅",
+          "链接": "https://ja.wikipedia.org/wiki/%E5%8C%97%E5%8D%83%E4%BD%8F%E9%A7%85",
+          "首段": "北千住駅 (北千住駅) is a railway station in 都足立区千住旭町および千住二丁目, Japan.",
+          "章节": {},
+          "全文": "北千住駅 (北千住駅) is a railway station in 都足立区千住旭町および千住二丁目, Japan.",
+          "字数": 60
+        }
       },
       "结构化信息": {
         "读音": "きたせんじゅえき",
@@ -612,7 +636,14 @@
           "字数": 308,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "太田駅",
+          "链接": "https://ja.wikipedia.org/wiki/%E5%A4%AA%E7%94%B0%E9%A7%85",
+          "首段": "太田駅 (太田駅) is a railway station in 県) - 群馬県太田市, Japan.",
+          "章节": {},
+          "全文": "太田駅 (太田駅) is a railway station in 県) - 群馬県太田市, Japan.",
+          "字数": 53
+        }
       },
       "结构化信息": {
         "读音": null,
@@ -672,7 +703,14 @@
           "字数": 550,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "新桐生駅",
+          "链接": "https://ja.wikipedia.org/wiki/%E6%96%B0%E6%A1%90%E7%94%9F%E9%A7%85",
+          "首段": "新桐生駅 (新桐生駅) is a railway station in 県桐生市広沢町二丁目, Japan.",
+          "章节": {},
+          "全文": "新桐生駅 (新桐生駅) is a railway station in 県桐生市広沢町二丁目, Japan.",
+          "字数": 54
+        }
       },
       "结构化信息": {
         "读音": "しんきりゅうえき",
@@ -775,15 +813,11 @@
         },
         "英文": {
           "词条标题": "Hikifune Station",
-          "链接": "https://en.wikipedia.org/wiki/Hikifune%20Station",
-          "首段": "is a railway station in Sumida, Tokyo, Japan, operated by the private railway operator Tobu Railway.",
-          "章节": {
-            "Lines": "Hikifune Station is served by the Tobu Skytree Line and Tōbu Kameido Line, and is located 2.4 km from the Tokyo terminus at Asakusa Station. It is also where the Skytree line and trains going to Oshiage Station and the Tokyo Metro Hanzōmon Line split. All kinds of the limited express have stopped at this station since 6 June 2020.\n\nStation layout\n\nThis station consists of two island platforms serving four tracks for the Tobu Skytree Line. For the Tobu Kameido Line, the station consists of a terminating single side platform serving one track.",
-            "History": "The station opened on 1 April 1902.\n\nPassenger statistics\nIn fiscal 2012, the station was used by an average of 24,135 passengers daily.",
-            "References": "External links\n\n Tobu station information \n\nRailway stations in Japan opened in 1902\nTobu Skytree Line\nStations of Tobu Railway\nRailway stations in Tokyo"
-          },
-          "全文": "is a railway station in Sumida, Tokyo, Japan, operated by the private railway operator Tobu Railway.\n\nLines\nHikifune Station is served by the Tobu Skytree Line and Tōbu Kameido Line, and is located 2.4 km from the Tokyo terminus at Asakusa Station. It is also where the Skytree line and trains going to Oshiage Station and the Tokyo Metro Hanzōmon Line split. All kinds of the limited express have stopped at this station since 6 June 2020.\n\nStation layout\n\nThis station consists of two island platforms serving four tracks for the Tobu Skytree Line. For the Tobu Kameido Line, the station consists of a terminating single side platform serving one track.\n\nPlatforms\n\nHistory\n\nThe station opened on 1 April 1902.\n\nPassenger statistics\nIn fiscal 2012, the station was used by an average of 24,135 passengers daily.\n\nReferences\n\nExternal links\n\n Tobu station information \n\nRailway stations in Japan opened in 1902\nTobu Skytree Line\nStations of Tobu Railway\nRailway stations in Tokyo",
-          "字数": 980
+          "链接": "https://ja.wikipedia.org/wiki/%E6%9B%B3%E8%88%9F%E9%A7%85",
+          "首段": "Hikifune Station (曳舟駅) is a railway station in Japan, Japan.",
+          "章节": {},
+          "全文": "Hikifune Station (曳舟駅) is a railway station in Japan, Japan.",
+          "字数": 60
         }
       },
       "结构化信息": {
@@ -865,7 +899,14 @@
           "字数": 1101,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "東小泉駅",
+          "链接": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E5%B0%8F%E6%B3%89%E9%A7%85",
+          "首段": "東小泉駅 (東小泉駅) is a railway station in 県邑楽郡大泉町東小泉一丁目, Japan.",
+          "章节": {},
+          "全文": "東小泉駅 (東小泉駅) is a railway station in 県邑楽郡大泉町東小泉一丁目, Japan.",
+          "字数": 57
+        }
       },
       "结构化信息": {
         "读音": "ひがしこいずみえき",
@@ -956,7 +997,14 @@
           "字数": 4397,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "東武動物公園駅",
+          "链接": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%AD%A6%E5%8B%95%E7%89%A9%E5%85%AC%E5%9C%92%E9%A7%85",
+          "首段": "東武動物公園駅 (東武動物公園駅) is a railway station in 県南埼玉郡宮代町百間二丁目, Japan.",
+          "章节": {},
+          "全文": "東武動物公園駅 (東武動物公園駅) is a railway station in 県南埼玉郡宮代町百間二丁目, Japan.",
+          "字数": 63
+        }
       },
       "结构化信息": {
         "读音": "とうぶどうぶつこうえんえき",
@@ -1036,7 +1084,14 @@
           "字数": 467,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "治良門橋駅",
+          "链接": "https://ja.wikipedia.org/wiki/%E6%B2%BB%E8%89%AF%E9%96%80%E6%A9%8B%E9%A7%85",
+          "首段": "治良門橋駅 (治良門橋駅) is a railway station in 県太田市成塚町, Japan.",
+          "章节": {},
+          "全文": "治良門橋駅 (治良門橋駅) is a railway station in 県太田市成塚町, Japan.",
+          "字数": 53
+        }
       },
       "结构化信息": {
         "读音": "じろえんばしえき",
@@ -1177,17 +1232,11 @@
         },
         "英文": {
           "词条标题": "Asakusa Station",
-          "链接": "https://en.wikipedia.org/wiki/Asakusa%20Station",
-          "首段": "is a railway station in the Asakusa district of Taitō, Tokyo, Japan, operated by Tobu Railway, Tokyo Metro, and Toei Subway. It forms one terminus of the original subway line in Tokyo, now the Ginza Line.\n\nStation layout\nThere is a connecting passage from the Tobu station to the Tokyo Metro station, and a connecting passage from the Tokyo Metro portion to the Toei portion. However, there are no direct connecting passages from the Toei portion to the Tobu portion or from the Tsukuba Express station to the rest of the station complex. Passengers wishing to transfer between the Toei and the Tobu stations have to walk at street level, while passengers transferring between the Tsukuba Express station and the rest of the complex must also walk at street level, as the Tsukuba Express station is located  to the west of the station complex.\n\nTobu Railway\n\nThe Tobu Railway terminal is a surface station, which occupies a portion of the Matsuya Department Store. The station is used by local and limited express trains. Although Asakusa is the most \"central\" terminal of the Skytree Line, it is connected to the next major terminal, Kita-Senju Station, by a length of track with sharp curves, beginning with the first stretch leaving the station, where trains have to turn 90 degrees to the right at a maximum speed of  to cross the Sumida River. In part due to the station's somewhat awkward location, most \"Express\" and \"Semi-Express\" services on the Skytree Line run through  to the Tokyo Metro Hanzōmon Line instead of continuing to Asakusa. \n\nDue to the track curvature that makes the eastern end of some of the platforms narrow and dangerous, platform 1 can accommodate 8-car trains, and the other platforms can only accommodate 6-car trains. Longer trains, such as the 8-car local trains terminating on platform 2, keep the doors of the two easternmost cars closed through selective door operation.",
-          "章节": {
-            "Platforms": "Tokyo Metro\n\nThe Tokyo Metro station is located underground to the south of the Tobu terminal.",
-            "Toei": "The Toei station is located underground to the south of the Tokyo Metro station.",
-            "History": "Today's Tokyo Metro Asakusa Station was one of the first underground stations in Japan, opening on 30 December 1927 as the eastern terminal of the Tokyo Underground Railway to , which was later extended to become the Tokyo Metro Ginza Line.\n\nThe Tobu Railway terminal opened on 25 May 1931 as . This was renamed \"Asakusa Station\" on 1 October 1945.\n\nThe Toei Asakusa station opened on 4 December 1960 as part of the Toei Asakusa Line from Oshiage Station.\n\nThe station facilities of the Ginza Line were inherited by Tokyo Metro after the privatization of the Teito Rapid Transit Authority (TRTA) in 2004.\n\nPASMO smart card coverage at this station began operation on 18 March 2007.\n\nSee also\n List of railway stations in Japan",
-            "References": "External links\n\n Asakusa Station information  (Tobu) \n Asakusa Station information (Tokyo Metro) \n Asakusa Station information (Toei) \n\nRailway stations in Japan opened in 1927\nRailway stations in Tokyo\nAsakusa Station\nAsakusa Station\nAsakusa Station\nAsakusa Station\nAsakusa Station\nAsakusa Station",
-            "Asakusa": "Art Deco architecture in Japan"
-          },
-          "全文": "is a railway station in the Asakusa district of Taitō, Tokyo, Japan, operated by Tobu Railway, Tokyo Metro, and Toei Subway. It forms one terminus of the original subway line in Tokyo, now the Ginza Line.\n\nStation layout\nThere is a connecting passage from the Tobu station to the Tokyo Metro station, and a connecting passage from the Tokyo Metro portion to the Toei portion. However, there are no direct connecting passages from the Toei portion to the Tobu portion or from the Tsukuba Express station to the rest of the station complex. Passengers wishing to transfer between the Toei and the Tobu stations have to walk at street level, while passengers transferring between the Tsukuba Express station and the rest of the complex must also walk at street level, as the Tsukuba Express station is located  to the west of the station complex.\n\nTobu Railway\n\nThe Tobu Railway terminal is a surface station, which occupies a portion of the Matsuya Department Store. The station is used by local and limited express trains. Although Asakusa is the most \"central\" terminal of the Skytree Line, it is connected to the next major terminal, Kita-Senju Station, by a length of track with sharp curves, beginning with the first stretch leaving the station, where trains have to turn 90 degrees to the right at a maximum speed of  to cross the Sumida River. In part due to the station's somewhat awkward location, most \"Express\" and \"Semi-Express\" services on the Skytree Line run through  to the Tokyo Metro Hanzōmon Line instead of continuing to Asakusa. \n\nDue to the track curvature that makes the eastern end of some of the platforms narrow and dangerous, platform 1 can accommodate 8-car trains, and the other platforms can only accommodate 6-car trains. Longer trains, such as the 8-car local trains terminating on platform 2, keep the doors of the two easternmost cars closed through selective door operation.\n\nPlatforms\n\nTokyo Metro\n\nThe Tokyo Metro station is located underground to the south of the Tobu terminal.\n\nPlatforms\n\nToei\n\nThe Toei station is located underground to the south of the Tokyo Metro station.\n\nPlatforms\n\nHistory\nToday's Tokyo Metro Asakusa Station was one of the first underground stations in Japan, opening on 30 December 1927 as the eastern terminal of the Tokyo Underground Railway to , which was later extended to become the Tokyo Metro Ginza Line.\n\nThe Tobu Railway terminal opened on 25 May 1931 as . This was renamed \"Asakusa Station\" on 1 October 1945.\n\nThe Toei Asakusa station opened on 4 December 1960 as part of the Toei Asakusa Line from Oshiage Station.\n\nThe station facilities of the Ginza Line were inherited by Tokyo Metro after the privatization of the Teito Rapid Transit Authority (TRTA) in 2004.\n\nPASMO smart card coverage at this station began operation on 18 March 2007.\n\nSee also\n List of railway stations in Japan\n\nReferences\n\nExternal links\n\n Asakusa Station information  (Tobu) \n Asakusa Station information (Tokyo Metro) \n Asakusa Station information (Toei) \n\nRailway stations in Japan opened in 1927\nRailway stations in Tokyo\nAsakusa Station\nAsakusa Station\nAsakusa Station\nAsakusa Station\nAsakusa Station\nAsakusa Station\nAsakusa\nArt Deco architecture in Japan",
-          "字数": 3211
+          "链接": "https://ja.wikipedia.org/wiki/%E6%B5%85%E8%8D%89%E9%A7%85",
+          "首段": "Asakusa Station (浅草駅) is a railway station in 都圏新都市鉄道)」を参照。\n\n\n\n\n\n\n\n \n \n \n\n, Japan.",
+          "章节": {},
+          "全文": "Asakusa Station (浅草駅) is a railway station in 都圏新都市鉄道)」を参照。\n\n\n\n\n\n\n\n \n \n \n\n, Japan.",
+          "字数": 82
         }
       },
       "结构化信息": {
@@ -1369,16 +1418,11 @@
         },
         "英文": {
           "词条标题": "Ryūmai Station",
-          "链接": "https://en.wikipedia.org/wiki/Ry%C5%ABmai%20Station",
-          "首段": "is a passenger railway station in the city of Ōta, Gunma, Japan, operated by the private railway operator Tōbu Railway. It is numbered \"TI-47\".",
-          "章节": {
-            "Lines": "Ryūmai Station is served by the Ōta Branch of the Tōbu Koizumi Line, and is located 5.7 kilometers from the terminus of the line at .\n\nStation layout\nThe station consists of a single island platform connected to the station building by a footbridge.",
-            "Platforms": "Adjacent stations",
-            "History": "Ryūmai Station opened on May 10, 1942. A new station building was completed in 2008.\n\nFrom March 17, 2012, station numbering was introduced on all Tōbu lines, with Ryūmai Station becoming \"TI-47\".\n\nPassenger statistics\nIn fiscal 2019, the station was used by an average of 611 passengers daily (boarding passengers only).\n\nSurrounding area\n Ōta sports complex \n Ōta-Ryūmai Post Office",
-            "References": "Zenkoku Tetsudo Jijo Daikenkyu  \n Ekisha Saihakken  \n Tetsudo Haisen Ato o Aruku\n\nExternal links\n\n Tobu station information \n\t\n\nTobu Koizumi Line\nStations of Tobu Railway\nRailway stations in Gunma Prefecture\nRailway stations in Japan opened in 1942\nŌta, Gunma"
-          },
-          "全文": "is a passenger railway station in the city of Ōta, Gunma, Japan, operated by the private railway operator Tōbu Railway. It is numbered \"TI-47\".\n\nLines\nRyūmai Station is served by the Ōta Branch of the Tōbu Koizumi Line, and is located 5.7 kilometers from the terminus of the line at .\n\nStation layout\nThe station consists of a single island platform connected to the station building by a footbridge.\n\nPlatforms\n\nAdjacent stations\n\nHistory\nRyūmai Station opened on May 10, 1942. A new station building was completed in 2008.\n\nFrom March 17, 2012, station numbering was introduced on all Tōbu lines, with Ryūmai Station becoming \"TI-47\".\n\nPassenger statistics\nIn fiscal 2019, the station was used by an average of 611 passengers daily (boarding passengers only).\n\nSurrounding area\n Ōta sports complex \n Ōta-Ryūmai Post Office\n\nReferences\n Zenkoku Tetsudo Jijo Daikenkyu  \n Ekisha Saihakken  \n Tetsudo Haisen Ato o Aruku\n\nExternal links\n\n Tobu station information \n\t\n\nTobu Koizumi Line\nStations of Tobu Railway\nRailway stations in Gunma Prefecture\nRailway stations in Japan opened in 1942\nŌta, Gunma",
-          "字数": 1097
+          "链接": "https://ja.wikipedia.org/wiki/%E7%AB%9C%E8%88%9E%E9%A7%85",
+          "首段": "Ryūmai Station (竜舞駅) is a railway station in 県太田市龍舞町, Japan.",
+          "章节": {},
+          "全文": "Ryūmai Station (竜舞駅) is a railway station in 県太田市龍舞町, Japan.",
+          "字数": 60
         }
       },
       "结构化信息": {
@@ -1466,7 +1510,14 @@
           "字数": 1473,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "羽生駅",
+          "链接": "https://ja.wikipedia.org/wiki/%E7%BE%BD%E7%94%9F%E9%A7%85",
+          "首段": "羽生駅 (羽生駅) is a railway station in 県羽生市南一丁目, Japan.",
+          "章节": {},
+          "全文": "羽生駅 (羽生駅) is a railway station in 県羽生市南一丁目, Japan.",
+          "字数": 50
+        }
       },
       "结构化信息": {
         "读音": "はにゅうえき",
@@ -1540,16 +1591,11 @@
         },
         "英文": {
           "词条标题": "Yabuzuka Station",
-          "链接": "https://en.wikipedia.org/wiki/Yabuzuka%20Station",
-          "首段": "is a passenger railway station in the city of Ōta, Gunma, Japan, operated by the private railway operator Tōbu Railway. It is numbered \"TI-53\".",
-          "章节": {
-            "Lines": "Yabuzuka Station is a station on the Tōbu Kiryū Line, and is located 9.7 kilometers from the terminus of the line at .\n\nStation layout\n\nThe station consists of two ground-level side platforms, serving two tracks. Platform 2 is connected to the station building by a footbridge.",
-            "Platforms": "Adjacent stations",
-            "History": "Yabuzaka Station opened on March 19, 1913.\n\nFrom March 17, 2012, station numbering was introduced on all Tōbu lines, with Yabuzuka Station becoming \"TI-53\".\n\nPassenger statistics\nIn fiscal 2019, the station was used by an average of 1097 passengers daily (boarding passengers only).\n\nSurrounding area\nformer Yabzuka Town Office\nYabuzuka Main  Post Office\nYabuzuka onsen",
-            "References": "External links\n\n Tobu station information \n\t\n\nTobu Kiryu Line\nStations of Tobu Railway\nRailway stations in Gunma Prefecture\nRailway stations in Japan opened in 1913\nŌta, Gunma"
-          },
-          "全文": "is a passenger railway station in the city of Ōta, Gunma, Japan, operated by the private railway operator Tōbu Railway. It is numbered \"TI-53\".\n\nLines\nYabuzuka Station is a station on the Tōbu Kiryū Line, and is located 9.7 kilometers from the terminus of the line at .\n\nStation layout\n\nThe station consists of two ground-level side platforms, serving two tracks. Platform 2 is connected to the station building by a footbridge.\n\nPlatforms\n\nAdjacent stations\n\nHistory\nYabuzaka Station opened on March 19, 1913.\n\nFrom March 17, 2012, station numbering was introduced on all Tōbu lines, with Yabuzuka Station becoming \"TI-53\".\n\nPassenger statistics\nIn fiscal 2019, the station was used by an average of 1097 passengers daily (boarding passengers only).\n\nSurrounding area\nformer Yabzuka Town Office\nYabuzuka Main  Post Office\nYabuzuka onsen\n\nReferences\n\nExternal links\n\n Tobu station information \n\t\n\nTobu Kiryu Line\nStations of Tobu Railway\nRailway stations in Gunma Prefecture\nRailway stations in Japan opened in 1913\nŌta, Gunma",
-          "字数": 1026
+          "链接": "https://ja.wikipedia.org/wiki/%E8%97%AA%E5%A1%9A%E9%A7%85",
+          "首段": "Yabuzuka Station (藪塚駅) is a railway station in 県太田市藪塚町, Japan.",
+          "章节": {},
+          "全文": "Yabuzuka Station (藪塚駅) is a railway station in 県太田市藪塚町, Japan.",
+          "字数": 62
         }
       },
       "结构化信息": {
@@ -1718,7 +1764,14 @@
           "字数": 1645,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "足利市駅",
+          "链接": "https://ja.wikipedia.org/wiki/%E8%B6%B3%E5%88%A9%E5%B8%82%E9%A7%85",
+          "首段": "足利市駅 (足利市駅) is a railway station in 県足利市南町, Japan.",
+          "章节": {},
+          "全文": "足利市駅 (足利市駅) is a railway station in 県足利市南町, Japan.",
+          "字数": 50
+        }
       },
       "结构化信息": {
         "读音": "あしかがしえき",
@@ -1798,15 +1851,11 @@
         },
         "英文": {
           "词条标题": "Azami Station",
-          "链接": "https://en.wikipedia.org/wiki/Azami%20Station",
-          "首段": "is a passenger railway station in the city of Midori, Gunma, Japan, operated by the private railway operator Tōbu Railway. It is numbered \"TI-54\".",
-          "章节": {
-            "Lines": "Azami Station is served by the Tōbu Kiryū Line, and is located 12.9 kilometers from the terminus of the line at .\n\nStation layout\nThe station consists of a single side platform serving traffic in both directions.\n\nAdjacent stations",
-            "History": "Azami Station was opened on May 5, 1937. During work to extend the platform from 1954-1955, extensive Jōmon period archaeological remains were discovered, which were proclaimed a Gunma Prefectural Historic Site in 1960.\n\nFrom March 17, 2012, station numbering was introduced on all Tōbu lines, with Azami Station becoming \"TI-54\".\n\nPassenger statistics\nIn fiscal 2019, the station was used by an average of 573 passengers daily (boarding passengers only).\n\nSurrounding area\n Kiryu University\nAzami Marsh\n\nSee also\n List of railway stations in Japan",
-            "References": "External links\n\n Tobu station information  \n\t\n\nTobu Kiryu Line\nStations of Tobu Railway\nRailway stations in Gunma Prefecture\nRailway stations in Japan opened in 1937\nMidori, Gunma"
-          },
-          "全文": "is a passenger railway station in the city of Midori, Gunma, Japan, operated by the private railway operator Tōbu Railway. It is numbered \"TI-54\".\n\nLines\nAzami Station is served by the Tōbu Kiryū Line, and is located 12.9 kilometers from the terminus of the line at .\n\nStation layout\nThe station consists of a single side platform serving traffic in both directions.\n\nAdjacent stations\n\nHistory\nAzami Station was opened on May 5, 1937. During work to extend the platform from 1954-1955, extensive Jōmon period archaeological remains were discovered, which were proclaimed a Gunma Prefectural Historic Site in 1960.\n\nFrom March 17, 2012, station numbering was introduced on all Tōbu lines, with Azami Station becoming \"TI-54\".\n\nPassenger statistics\nIn fiscal 2019, the station was used by an average of 573 passengers daily (boarding passengers only).\n\nSurrounding area\n Kiryu University\nAzami Marsh\n\nSee also\n List of railway stations in Japan\n\nReferences\n\nExternal links\n\n Tobu station information  \n\t\n\nTobu Kiryu Line\nStations of Tobu Railway\nRailway stations in Gunma Prefecture\nRailway stations in Japan opened in 1937\nMidori, Gunma",
-          "字数": 1136
+          "链接": "https://ja.wikipedia.org/wiki/%E9%98%BF%E5%B7%A6%E7%BE%8E%E9%A7%85",
+          "首段": "Azami Station (阿左美駅) is a railway station in 県みどり市笠懸町阿左美, Japan.",
+          "章节": {},
+          "全文": "Azami Station (阿左美駅) is a railway station in 県みどり市笠懸町阿左美, Japan.",
+          "字数": 64
         }
       },
       "结构化信息": {
@@ -1893,16 +1942,11 @@
         },
         "英文": {
           "词条标题": "Tatebayashi Station",
-          "链接": "https://en.wikipedia.org/wiki/Tatebayashi%20Station",
-          "首段": "is a junction passenger railway station in the city of Tatebayashi, Gunma, Japan, operated by the private railway operator Tōbu Railway.",
-          "章节": {
-            "Lines": "Tatebayashi Station is served by the Tōbu Isesaki Line, and is located 74.6 km from the line's Tokyo terminus at . It is also the terminal station for the Tōbu Koizumi Line and Tōbu Sano Line.",
-            "Platforms": "The stations one island platform, one side platform and one bay platform connected by the station building located above.\n\nRyōmō trains on the Sano Line that start at Kuzū arrive at platform 5. At those times, the trains from Ōta waits at platform 2.",
-            "History": "The station opened as  on 27 August 1907. It was renamed Tatebayashi on 1 March 1937.\n\nFrom 17 March 2012, station numbering was introduced on all Tōbu lines, with Tatebayashi Station becoming \"TI-10\".\n\nPassenger statistics\nIn fiscal 2019, the station was used by an average of 11,046 passengers daily (boarding passengers only).\n\nSurrounding area\n Syoda Soy Sauce Memorial Museum\n\nSee also\n List of railway stations in Japan",
-            "References": "External links\n\n Tatebayashi Station information (Tobu) \n\nTobu Isesaki Line\nTobu Sano Line\nTobu Koizumi Line\nStations of Tobu Railway\nRailway stations in Gunma Prefecture\nRailway stations in Japan opened in 1907\nTatebayashi, Gunma"
-          },
-          "全文": "is a junction passenger railway station in the city of Tatebayashi, Gunma, Japan, operated by the private railway operator Tōbu Railway.\n\nLines\nTatebayashi Station is served by the Tōbu Isesaki Line, and is located 74.6 km from the line's Tokyo terminus at . It is also the terminal station for the Tōbu Koizumi Line and Tōbu Sano Line.\n\nPlatforms\nThe stations one island platform, one side platform and one bay platform connected by the station building located above.\n\nRyōmō trains on the Sano Line that start at Kuzū arrive at platform 5. At those times, the trains from Ōta waits at platform 2.\n\nHistory\n\nThe station opened as  on 27 August 1907. It was renamed Tatebayashi on 1 March 1937.\n\nFrom 17 March 2012, station numbering was introduced on all Tōbu lines, with Tatebayashi Station becoming \"TI-10\".\n\nPassenger statistics\nIn fiscal 2019, the station was used by an average of 11,046 passengers daily (boarding passengers only).\n\nSurrounding area\n Syoda Soy Sauce Memorial Museum\n\nSee also\n List of railway stations in Japan\n\nReferences\n\nExternal links\n\n Tatebayashi Station information (Tobu) \n\nTobu Isesaki Line\nTobu Sano Line\nTobu Koizumi Line\nStations of Tobu Railway\nRailway stations in Gunma Prefecture\nRailway stations in Japan opened in 1907\nTatebayashi, Gunma",
-          "字数": 1278
+          "链接": "https://ja.wikipedia.org/wiki/%E9%A4%A8%E6%9E%97%E9%A7%85",
+          "首段": "Tatebayashi Station (館林駅) is a railway station in 県館林市本町二丁目, Japan.",
+          "章节": {},
+          "全文": "Tatebayashi Station (館林駅) is a railway station in 県館林市本町二丁目, Japan.",
+          "字数": 67
         }
       },
       "结构化信息": {
@@ -1948,6 +1992,6 @@
     "有中文词条": 20,
     "已千问汉化": 0,
     "待汉化": 0,
-    "有英文词条": 10
+    "有英文词条": 20
   }
 }

@@ -24,7 +24,14 @@
       "中文": {
         "来源": "⚠️ 暂未汉化"
       },
-      "英文": null
+      "英文": {
+        "词条标题": "新湊港線",
+        "链接": "https://ja.wikipedia.org/wiki/%E6%96%B0%E6%B9%8A%E6%B8%AF%E7%B7%9A",
+        "首段": "The 新湊港線 is a railway line in Japan.",
+        "章节": {},
+        "全文": "The 新湊港線 is a railway line in Japan.",
+        "字数": 36
+      }
     }
   },
   "车站": [
@@ -80,7 +87,14 @@
           "字数": 436,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "中伏木停留場",
+          "链接": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E4%BC%8F%E6%9C%A8%E5%81%9C%E7%95%99%E5%A0%B4",
+          "首段": "中伏木停留場 (中伏木停留場) is a railway station in 県射水市庄西町2丁目, Japan.",
+          "章节": {},
+          "全文": "中伏木停留場 (中伏木停留場) is a railway station in 県射水市庄西町2丁目, Japan.",
+          "字数": 58
+        }
       },
       "结构化信息": {
         "读音": "なかふしきていりゅうじょう",
@@ -147,7 +161,14 @@
           "字数": 506,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "中新湊駅",
+          "链接": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E6%96%B0%E6%B9%8A%E9%A7%85",
+          "首段": "中新湊駅 (中新湊駅) is a railway station in 県高岡市姫野, Japan.",
+          "章节": {},
+          "全文": "中新湊駅 (中新湊駅) is a railway station in 県高岡市姫野, Japan.",
+          "字数": 50
+        }
       },
       "结构化信息": {
         "读音": "なかしんみなとえき",
@@ -220,13 +241,11 @@
         },
         "英文": {
           "词条标题": "Rokudōji Station",
-          "链接": "https://en.wikipedia.org/wiki/Rokud%C5%8Dji%20Station",
-          "首段": "The  is a city tram station located in Imizu, Toyama Prefecture, Japan. The Takaoka Kidō Line and Shin-Minato Harbor Line meet at this station. The station's name was changed from Shin-Minato Station in March 1985.",
-          "章节": {
-            "Structure": "Rokudōji Station has two side platforms serving a track each. The station is unmanned.\n\nSurrounding area\nRokudōji Station is located just off Route 472, and is an important storage location for lumber and other materials. JFE Materials has an office near the station.\n\nAdjacent stations\n\nExternal links\n六渡寺駅 (private site)\n \n\nRailway stations in Toyama Prefecture"
-          },
-          "全文": "The  is a city tram station located in Imizu, Toyama Prefecture, Japan. The Takaoka Kidō Line and Shin-Minato Harbor Line meet at this station. The station's name was changed from Shin-Minato Station in March 1985.\n\nStructure\nRokudōji Station has two side platforms serving a track each. The station is unmanned.\n\nSurrounding area\nRokudōji Station is located just off Route 472, and is an important storage location for lumber and other materials. JFE Materials has an office near the station.\n\nAdjacent stations\n\nExternal links\n六渡寺駅 (private site)\n \n\nRailway stations in Toyama Prefecture",
-          "字数": 589
+          "链接": "https://ja.wikipedia.org/wiki/%E5%85%AD%E6%B8%A1%E5%AF%BA%E9%A7%85",
+          "首段": "Rokudōji Station (六渡寺駅) is a railway station in 県射水市庄西町, Japan.",
+          "章节": {},
+          "全文": "Rokudōji Station (六渡寺駅) is a railway station in 県射水市庄西町, Japan.",
+          "字数": 63
         }
       },
       "结构化信息": {
@@ -293,7 +312,14 @@
           "字数": 377,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "吉久停留場",
+          "链接": "https://ja.wikipedia.org/wiki/%E5%90%89%E4%B9%85%E5%81%9C%E7%95%99%E5%A0%B4",
+          "首段": "吉久停留場 (吉久停留場) is a railway station in 県高岡市吉久, Japan.",
+          "章节": {},
+          "全文": "吉久停留場 (吉久停留場) is a railway station in 県高岡市吉久, Japan.",
+          "字数": 52
+        }
       },
       "结构化信息": {
         "读音": "よしひさていりゅうじょう",
@@ -357,7 +383,14 @@
           "字数": 419,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "坂下町停留場",
+          "链接": "https://ja.wikipedia.org/wiki/%E5%9D%82%E4%B8%8B%E7%94%BA%E5%81%9C%E7%95%99%E5%A0%B4",
+          "首段": "坂下町停留場 (坂下町停留場) is a railway station in 県高岡市坂下町・片原中島町, Japan.",
+          "章节": {},
+          "全文": "坂下町停留場 (坂下町停留場) is a railway station in 県高岡市坂下町・片原中島町, Japan.",
+          "字数": 61
+        }
       },
       "结构化信息": {
         "读音": "さかしたまちていりゅうじょう",
@@ -417,7 +450,14 @@
           "全文": "市民医院前站（しみんびょういんまええき）是曾位于岐阜县岐阜市鹿岛町的名古屋铁道镜岛线车站。\n它是配合岐阜市民医院移筑新建而设的车站，乘客较多。\n\n历史\n镜岛线1924年开业时并不存在，1941年新设。含本站的镜岛线千手堂站—森屋站间最初为专用轨道区间，1950年切换为并用轨道。镜岛线受汽车普及影响于1964年废止，本站随之废站。\n1941年（昭和16年）10月21日：开业。",
           "字数": 188
         },
-        "英文": null
+        "英文": {
+          "词条标题": "市民病院前駅",
+          "链接": "https://ja.wikipedia.org/wiki/%E5%B8%82%E6%B0%91%E7%97%85%E9%99%A2%E5%89%8D%E9%A7%85",
+          "首段": "市民病院前駅 (市民病院前駅) is a railway station in 県岐阜市鹿島町, Japan.",
+          "章节": {},
+          "全文": "市民病院前駅 (市民病院前駅) is a railway station in 県岐阜市鹿島町, Japan.",
+          "字数": 55
+        }
       },
       "结构化信息": {
         "读音": "しみんびょういんまええき",
@@ -569,7 +609,14 @@
           "字数": 636,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "庄川口駅",
+          "链接": "https://ja.wikipedia.org/wiki/%E5%BA%84%E5%B7%9D%E5%8F%A3%E9%A7%85",
+          "首段": "庄川口駅 (庄川口駅) is a railway station in 県射水市庄川本町, Japan.",
+          "章节": {},
+          "全文": "庄川口駅 (庄川口駅) is a railway station in 県射水市庄川本町, Japan.",
+          "字数": 52
+        }
       },
       "结构化信息": {
         "读音": "しょうがわぐちえき",
@@ -638,7 +685,14 @@
           "字数": 903,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "志貴野中学校前停留場",
+          "链接": "https://ja.wikipedia.org/wiki/%E5%BF%97%E8%B2%B4%E9%87%8E%E4%B8%AD%E5%AD%A6%E6%A0%A1%E5%89%8D%E5%81%9C%E7%95%99%E5%A0%B4",
+          "首段": "志貴野中学校前停留場 (志貴野中学校前停留場) is a railway station in 県高岡市, Japan.",
+          "章节": {},
+          "全文": "志貴野中学校前停留場 (志貴野中学校前停留場) is a railway station in 県高岡市, Japan.",
+          "字数": 60
+        }
       },
       "结构化信息": {
         "读音": "しきのちゅうがっこうまえていりゅうじょう",
@@ -706,7 +760,14 @@
           "全文": "急诊医疗中心前停留场（きゅうかんいりょうセンターまえていりゅうじょう）是位于富山县高冈市本町的万叶线停留场。\n它位于高冈古城公园西侧，副站名为古城公园西口。\n\n概要\n本站是万叶线的电车站，紧邻高冈古城公园，副站名为古城公园西口。",
           "字数": 114
         },
-        "英文": null
+        "英文": {
+          "词条标题": "急患医療センター前停留場",
+          "链接": "https://ja.wikipedia.org/wiki/%E6%80%A5%E6%82%A3%E5%8C%BB%E7%99%82%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E5%89%8D%E5%81%9C%E7%95%99%E5%A0%B4",
+          "首段": "急患医療センター前停留場 (急患医療センター前停留場) is a railway station in 県高岡市本町, Japan.",
+          "章节": {},
+          "全文": "急患医療センター前停留場 (急患医療センター前停留場) is a railway station in 県高岡市本町, Japan.",
+          "字数": 66
+        }
       },
       "结构化信息": {
         "读音": null,
@@ -775,7 +836,14 @@
           "字数": 893,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "新吉久停留場",
+          "链接": "https://ja.wikipedia.org/wiki/%E6%96%B0%E5%90%89%E4%B9%85%E5%81%9C%E7%95%99%E5%A0%B4",
+          "首段": "新吉久停留場 (新吉久停留場) is a railway station in 県高岡市吉久, Japan.",
+          "章节": {},
+          "全文": "新吉久停留場 (新吉久停留場) is a railway station in 県高岡市吉久, Japan.",
+          "字数": 54
+        }
       },
       "结构化信息": {
         "读音": "しんよしひさていりゅうじょう",
@@ -847,13 +915,11 @@
         },
         "英文": {
           "词条标题": "Shinmachiguchi Station",
-          "链接": "https://en.wikipedia.org/wiki/Shinmachiguchi%20Station",
-          "首段": "The  is a city tram station located on the Shin-Minato Harbor Line in Imizu, Toyama Prefecture, Japan. This station is unmanned.\n\nSurrounding area\nThe  and Route 472 are located near this station.",
-          "章节": {
-            "References": "Railway stations in Toyama Prefecture"
-          },
-          "全文": "The  is a city tram station located on the Shin-Minato Harbor Line in Imizu, Toyama Prefecture, Japan. This station is unmanned.\n\nSurrounding area\nThe  and Route 472 are located near this station.\n\nReferences\n\nRailway stations in Toyama Prefecture",
-          "字数": 247
+          "链接": "https://ja.wikipedia.org/wiki/%E6%96%B0%E7%94%BA%E5%8F%A3%E9%A7%85",
+          "首段": "Shinmachiguchi Station (新町口駅) is a railway station in 県射水市中央町, Japan.",
+          "章节": {},
+          "全文": "Shinmachiguchi Station (新町口駅) is a railway station in 県射水市中央町, Japan.",
+          "字数": 69
         }
       },
       "结构化信息": {
@@ -922,7 +988,14 @@
           "字数": 470,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "新能町停留場",
+          "链接": "https://ja.wikipedia.org/wiki/%E6%96%B0%E8%83%BD%E7%94%BA%E5%81%9C%E7%95%99%E5%A0%B4",
+          "首段": "新能町停留場 (新能町停留場) is a railway station in 県高岡市荻布, Japan.",
+          "章节": {},
+          "全文": "新能町停留場 (新能町停留場) is a railway station in 県高岡市荻布, Japan.",
+          "字数": 54
+        }
       },
       "结构化信息": {
         "读音": "しんのうまちていりゅうじょう",
@@ -1033,7 +1106,14 @@
           "字数": 170,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "末広町駅",
+          "链接": "https://ja.wikipedia.org/wiki/%E6%9C%AB%E5%BA%83%E7%94%BA%E9%A7%85",
+          "首段": "末広町駅 (末広町駅) is a railway station in Japan, Japan.",
+          "章节": {},
+          "全文": "末広町駅 (末広町駅) is a railway station in Japan, Japan.",
+          "字数": 49
+        }
       },
       "结构化信息": {
         "读音": "すえひろちょうえき",
@@ -1091,7 +1171,14 @@
           "字数": 652,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "東新湊駅",
+          "链接": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%96%B0%E6%B9%8A%E9%A7%85",
+          "首段": "東新湊駅 (東新湊駅) is a railway station in 県射水市八幡町, Japan.",
+          "章节": {},
+          "全文": "東新湊駅 (東新湊駅) is a railway station in 県射水市八幡町, Japan.",
+          "字数": 51
+        }
       },
       "结构化信息": {
         "读音": "ひがししんみなとえき",
@@ -1160,7 +1247,14 @@
           "字数": 349,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "江尻停留場",
+          "链接": "https://ja.wikipedia.org/wiki/%E6%B1%9F%E5%B0%BB%E5%81%9C%E7%95%99%E5%A0%B4",
+          "首段": "江尻停留場 (江尻停留場) is a railway station in 県高岡市江尻, Japan.",
+          "章节": {},
+          "全文": "江尻停留場 (江尻停留場) is a railway station in 県高岡市江尻, Japan.",
+          "字数": 52
+        }
       },
       "结构化信息": {
         "读音": "えじりていりゅうじょう",
@@ -1227,13 +1321,11 @@
         },
         "英文": {
           "词条标题": "Kaiōmaru Station",
-          "链接": "https://en.wikipedia.org/wiki/Kai%C5%8Dmaru%20Station",
-          "首段": "is a city tram station located on the Man'yōsen Shinminatokō Line in Imizu, Toyama Prefecture, Japan. This station is unmanned.",
-          "章节": {
-            "Structure": "The station is served by one track with platforms on its both sides.\n\nSurrounding area\nKaiōmaru Park\n\nSee also\nKaiwo Maru II\n\nRailway stations in Toyama Prefecture"
-          },
-          "全文": "is a city tram station located on the Man'yōsen Shinminatokō Line in Imizu, Toyama Prefecture, Japan. This station is unmanned.\n\nStructure\nThe station is served by one track with platforms on its both sides.\n\nSurrounding area\nKaiōmaru Park\n\nSee also\nKaiwo Maru II\n\nRailway stations in Toyama Prefecture",
-          "字数": 302
+          "链接": "https://ja.wikipedia.org/wiki/%E6%B5%B7%E7%8E%8B%E4%B8%B8%E9%A7%85",
+          "首段": "Kaiōmaru Station (海王丸駅) is a railway station in 県射水市越の潟町, Japan.",
+          "章节": {},
+          "全文": "Kaiōmaru Station (海王丸駅) is a railway station in 県射水市越の潟町, Japan.",
+          "字数": 64
         }
       },
       "结构化信息": {
@@ -1297,7 +1389,14 @@
           "字数": 577,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "片原町駅",
+          "链接": "https://ja.wikipedia.org/wiki/%E7%89%87%E5%8E%9F%E7%94%BA%E9%A7%85",
+          "首段": "片原町駅 (片原町駅) is a railway station in 県高松市鶴屋町, Japan.",
+          "章节": {},
+          "全文": "片原町駅 (片原町駅) is a railway station in 県高松市鶴屋町, Japan.",
+          "字数": 51
+        }
       },
       "结构化信息": {
         "读音": "かたはらまちえき",
@@ -1365,7 +1464,14 @@
           "字数": 744,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "米島口停留場",
+          "链接": "https://ja.wikipedia.org/wiki/%E7%B1%B3%E5%B3%B6%E5%8F%A3%E5%81%9C%E7%95%99%E5%A0%B4",
+          "首段": "米島口停留場 (米島口停留場) is a railway station in 県高岡市米島・荻布, Japan.",
+          "章节": {},
+          "全文": "米島口停留場 (米島口停留場) is a railway station in 県高岡市米島・荻布, Japan.",
+          "字数": 57
+        }
       },
       "结构化信息": {
         "读音": "よねじまぐちていりゅうじょう",
@@ -1430,7 +1536,14 @@
           "字数": 366,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "能町口停留場",
+          "链接": "https://ja.wikipedia.org/wiki/%E8%83%BD%E7%94%BA%E5%8F%A3%E5%81%9C%E7%95%99%E5%A0%B4",
+          "首段": "能町口停留場 (能町口停留場) is a railway station in 県高岡市能町, Japan.",
+          "章节": {},
+          "全文": "能町口停留場 (能町口停留場) is a railway station in 県高岡市能町, Japan.",
+          "字数": 54
+        }
       },
       "结构化信息": {
         "读音": "のうまちぐちていりゅうじょう",
@@ -1495,7 +1608,14 @@
           "字数": 434,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "荻布停留場",
+          "链接": "https://ja.wikipedia.org/wiki/%E8%8D%BB%E5%B8%83%E5%81%9C%E7%95%99%E5%A0%B4",
+          "首段": "荻布停留場 (荻布停留場) is a railway station in 県高岡市荻布, Japan.",
+          "章节": {},
+          "全文": "荻布停留場 (荻布停留場) is a railway station in 県高岡市荻布, Japan.",
+          "字数": 52
+        }
       },
       "结构化信息": {
         "读音": "おぎのていりゅうじょう",
@@ -1566,13 +1686,11 @@
         },
         "英文": {
           "词条标题": "Koshinokata Station",
-          "链接": "https://en.wikipedia.org/wiki/Koshinokata%20Station",
-          "首段": "The  is a city tram station located on the Shin-Minato Harbor Line in Imizu, Toyama Prefecture, Japan. This station is unmanned.",
-          "章节": {
-            "Structure": "Koshinokata Station has one side platform.\n\nSurrounding area\nToyama Prefectural Ferry Port\n\nRailway stations in Toyama Prefecture"
-          },
-          "全文": "The  is a city tram station located on the Shin-Minato Harbor Line in Imizu, Toyama Prefecture, Japan. This station is unmanned.\n\nStructure\nKoshinokata Station has one side platform.\n\nSurrounding area\nToyama Prefectural Ferry Port\n\nRailway stations in Toyama Prefecture",
-          "字数": 269
+          "链接": "https://ja.wikipedia.org/wiki/%E8%B6%8A%E3%83%8E%E6%BD%9F%E9%A7%85",
+          "首段": "Koshinokata Station (越ノ潟駅) is a railway station in 県射水市堀岡新明神, Japan.",
+          "章节": {},
+          "全文": "Koshinokata Station (越ノ潟駅) is a railway station in 県射水市堀岡新明神, Japan.",
+          "字数": 68
         }
       },
       "结构化信息": {
@@ -1735,6 +1853,6 @@
     "有中文词条": 24,
     "已千问汉化": 0,
     "待汉化": 0,
-    "有英文词条": 7
+    "有英文词条": 24
   }
 }

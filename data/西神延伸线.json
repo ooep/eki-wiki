@@ -46,7 +46,14 @@
       "中文": {
         "来源": "⚠️ 暂未汉化"
       },
-      "英文": null
+      "英文": {
+        "词条标题": "神戸市営地下鉄西神・山手線",
+        "链接": "https://ja.wikipedia.org/wiki/%E7%A5%9E%E6%88%B8%E5%B8%82%E5%96%B6%E5%9C%B0%E4%B8%8B%E9%89%84%E8%A5%BF%E7%A5%9E%E3%83%BB%E5%B1%B1%E6%89%8B%E7%B7%9A",
+        "首段": "The 神戸市営地下鉄西神・山手線 is a railway line in Japan.",
+        "章节": {},
+        "全文": "The 神戸市営地下鉄西神・山手線 is a railway line in Japan.",
+        "字数": 45
+      }
     }
   },
   "车站": [
@@ -348,7 +355,14 @@
           "字数": 573,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "伊川谷駅",
+          "链接": "https://ja.wikipedia.org/wiki/%E4%BC%8A%E5%B7%9D%E8%B0%B7%E9%A7%85",
+          "首段": "伊川谷駅 (伊川谷駅) is a railway station in 県神戸市西区前開南町, Japan.",
+          "章节": {},
+          "全文": "伊川谷駅 (伊川谷駅) is a railway station in 県神戸市西区前開南町, Japan.",
+          "字数": 54
+        }
       },
       "结构化信息": {
         "读音": "いかわだにえき",
@@ -432,14 +446,11 @@
         },
         "英文": {
           "词条标题": "Myōdani Station",
-          "链接": "https://en.wikipedia.org/wiki/My%C5%8Ddani%20Station",
-          "首段": "is a railway station in Suma-ku, Kobe, Hyōgo Prefecture, Japan.\n\nAround 20,000 passenger ride the subway from this station, the second most on the Seishin-Yamate Line after Sannomiya Station. Myodani station is the most used station in Suma-ku.",
-          "章节": {
-            "Lines": "Kobe Municipal Subway\nSeishin-Yamate Line Station S12",
-            "Layout": "Railway stations in Hyōgo Prefecture\nStations of Kobe Municipal Subway\nRailway stations in Japan opened in 1977"
-          },
-          "全文": "is a railway station in Suma-ku, Kobe, Hyōgo Prefecture, Japan.\n\nAround 20,000 passenger ride the subway from this station, the second most on the Seishin-Yamate Line after Sannomiya Station. Myodani station is the most used station in Suma-ku.\n\nLines\nKobe Municipal Subway\nSeishin-Yamate Line Station S12\n\nLayout\n\nRailway stations in Hyōgo Prefecture\nStations of Kobe Municipal Subway\nRailway stations in Japan opened in 1977",
-          "字数": 426
+          "链接": "https://ja.wikipedia.org/wiki/%E5%90%8D%E8%B0%B7%E9%A7%85",
+          "首段": "Myōdani Station (名谷駅) is a railway station in 県神戸市須磨区中落合, Japan.",
+          "章节": {},
+          "全文": "Myōdani Station (名谷駅) is a railway station in 県神戸市須磨区中落合, Japan.",
+          "字数": 64
         }
       },
       "结构化信息": {
@@ -627,7 +638,14 @@
           "字数": 533,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "学園都市駅",
+          "链接": "https://ja.wikipedia.org/wiki/%E5%AD%A6%E5%9C%92%E9%83%BD%E5%B8%82%E9%A7%85",
+          "首段": "学園都市駅 (学園都市駅) is a railway station in 県神戸市西区学園西町, Japan.",
+          "章节": {},
+          "全文": "学園都市駅 (学園都市駅) is a railway station in 県神戸市西区学園西町, Japan.",
+          "字数": 56
+        }
       },
       "结构化信息": {
         "读音": "がくえんとしえき",
@@ -729,7 +747,14 @@
           "字数": 1177,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "新神戸駅",
+          "链接": "https://ja.wikipedia.org/wiki/%E6%96%B0%E7%A5%9E%E6%88%B8%E9%A7%85",
+          "首段": "新神戸駅 (新神戸駅) is a railway station in 県神戸市中央区加納町一丁目, Japan.",
+          "章节": {},
+          "全文": "新神戸駅 (新神戸駅) is a railway station in 県神戸市中央区加納町一丁目, Japan.",
+          "字数": 57
+        }
       },
       "结构化信息": {
         "读音": "しんこうべえき",
@@ -838,7 +863,14 @@
           "字数": 1061,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "新長田駅",
+          "链接": "https://ja.wikipedia.org/wiki/%E6%96%B0%E9%95%B7%E7%94%B0%E9%A7%85",
+          "首段": "新長田駅 (新長田駅) is a railway station in 県神戸市長田区, Japan.",
+          "章节": {},
+          "全文": "新長田駅 (新長田駅) is a railway station in 県神戸市長田区, Japan.",
+          "字数": 51
+        }
       },
       "结构化信息": {
         "读音": "しんながたえき",
@@ -927,7 +959,14 @@
           "字数": 1343,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "板宿駅",
+          "链接": "https://ja.wikipedia.org/wiki/%E6%9D%BF%E5%AE%BF%E9%A7%85",
+          "首段": "板宿駅 (板宿駅) is a railway station in 県神戸市須磨区, Japan.",
+          "章节": {},
+          "全文": "板宿駅 (板宿駅) is a railway station in 県神戸市須磨区, Japan.",
+          "字数": 49
+        }
       },
       "结构化信息": {
         "读音": "いたやどえき",
@@ -1025,7 +1064,14 @@
           "字数": 539,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "湊川公園駅",
+          "链接": "https://ja.wikipedia.org/wiki/%E6%B9%8A%E5%B7%9D%E5%85%AC%E5%9C%92%E9%A7%85",
+          "首段": "湊川公園駅 (湊川公園駅) is a railway station in 県神戸市兵庫区上沢通, Japan.",
+          "章节": {},
+          "全文": "湊川公園駅 (湊川公園駅) is a railway station in 県神戸市兵庫区上沢通, Japan.",
+          "字数": 56
+        }
       },
       "结构化信息": {
         "读音": "みなとがわこうえんえき",
@@ -1087,7 +1133,14 @@
           "全文": "县厅前站（けんちょうまええき）是日本各地车站名称。\n\n列表\n县厅前站 (千叶县) - 位于千叶县千叶市中央区的千叶单轨电车1号线车站。\n县厅前站 (兵库县) - 位于兵库县神户市中央区的神户市营地下铁西神·山手线车站。\n县厅前站 (广岛县) - 位于广岛县广岛市中区的广岛高速交通1号线（Astram Line）车站。\n县厅前站 (冲绳县) - 位于冲绳县那霸市的冲绳都市单轨电车（Yui-Rail）车站。\n县厅前站 (秋田县) - 曾位于秋田县秋田市的秋田市电停留场。\n县厅前站 (静冈县) - 曾位于静冈县静冈市的静冈铁道静冈市内线停留场。",
           "字数": 272
         },
-        "英文": null
+        "英文": {
+          "词条标题": "県庁前駅",
+          "链接": "https://ja.wikipedia.org/wiki/%E7%9C%8C%E5%BA%81%E5%89%8D%E9%A7%85",
+          "首段": "県庁前駅 (県庁前駅) is a railway station in 県庁前駅（けんちょうまええき）\n\n県庁前駅 (千葉県) - 千葉県千葉市中央区, Japan.",
+          "章节": {},
+          "全文": "県庁前駅 (県庁前駅) is a railway station in 県庁前駅（けんちょうまええき）\n\n県庁前駅 (千葉県) - 千葉県千葉市中央区, Japan.",
+          "字数": 83
+        }
       },
       "结构化信息": {
         "读音": "けんちょうまええき",
@@ -1145,7 +1198,14 @@
           "全文": "综合运动公园站（そうごううんどうこうえんえき）是位于兵库县神户市须磨区绿台的神户市营地下铁西神·山手线车站。车站编号为S13。车站形象主题为\"跃动感\"。\n\n历史\n1985年（昭和60年）6月18日 - 营业开始。\n1993年（平成5年）7月9日 - 快速开始运行，成为快速停车站（仅活动举办时）。\n1995年（平成7年）1月17日 - 阪神·淡路大地震受灾不通；1月18日 - 恢复营业（名谷站 - 学园都市站间单线运行），快速休止；1月25日 - 名谷站 - 学园都市站间复线运行恢复；7月21日 - 废除休止中的快速。\n1999年（平成11年）8月6日 - 改点，主要在夜间时段增加班次。\n\n车站结构\n1面2线岛式月台两侧夹2面临时月台、共3面2线的地面车站。月台位于较地平部低的位置（路堑）。线路面标高约103米，2015年12月仙台市地铁东西线八木山动物公园站（136.4米）开业前为日本海拔最高的地铁站。\n\n附注事项\n通常时仅使用中央岛式月台。过去神户综合运动公园内举办大规模活动时，两端临时月台作下车专用，现不论活动规模均不使用。临时月台连通共5处临时出口（三宫方向月台侧2处、西神中央方向月台侧3处），临时月台未编号。上下行每小时运行8班。\n\n使用情况\n2020年度1日平均乘车人员为5,328人。活动举办时众多乘客利用。\n\n车站周边\n位于神户综合运动公园内。东西两侧为住宅地，因靠近高速公路出入口，北侧聚集事业所物流据点。车站东侧与稍露出地面的山阳新干线立体交叉。",
           "字数": 640
         },
-        "英文": null
+        "英文": {
+          "词条标题": "総合運動公園駅",
+          "链接": "https://ja.wikipedia.org/wiki/%E7%B7%8F%E5%90%88%E9%81%8B%E5%8B%95%E5%85%AC%E5%9C%92%E9%A7%85",
+          "首段": "総合運動公園駅 (総合運動公園駅) is a railway station in 県神戸市須磨区緑台, Japan.",
+          "章节": {},
+          "全文": "総合運動公園駅 (総合運動公園駅) is a railway station in 県神戸市須磨区緑台, Japan.",
+          "字数": 59
+        }
       },
       "结构化信息": {
         "读音": "そうごううんどうこうえんえき",
@@ -1227,7 +1287,14 @@
           "字数": 485,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "西神中央駅",
+          "链接": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E7%A5%9E%E4%B8%AD%E5%A4%AE%E9%A7%85",
+          "首段": "西神中央駅 (西神中央駅) is a railway station in 県神戸市西区糀台（こうじだい）五丁目, Japan.",
+          "章节": {},
+          "全文": "西神中央駅 (西神中央駅) is a railway station in 県神戸市西区糀台（こうじだい）五丁目, Japan.",
+          "字数": 64
+        }
       },
       "结构化信息": {
         "读音": "せいしんちゅうおうえき",
@@ -1312,7 +1379,14 @@
           "字数": 457,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "西神南駅",
+          "链接": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E7%A5%9E%E5%8D%97%E9%A7%85",
+          "首段": "西神南駅 (西神南駅) is a railway station in 県神戸市西区井吹台東町一丁目, Japan.",
+          "章节": {},
+          "全文": "西神南駅 (西神南駅) is a railway station in 県神戸市西区井吹台東町一丁目, Japan.",
+          "字数": 58
+        }
       },
       "结构化信息": {
         "读音": "せいしんみなみえき",
@@ -1411,6 +1485,6 @@
     "有中文词条": 16,
     "已千问汉化": 0,
     "待汉化": 0,
-    "有英文词条": 6
+    "有英文词条": 16
   }
 }
