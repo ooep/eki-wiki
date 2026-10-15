@@ -13609,19 +13609,19 @@
         "英文": {
           "词条标题": "Satoshō Station",
           "链接": null,
-          "首段": "Satosho Station (里庄駅) is a JR West Sanyō Main Line station in Shinjō, Satoshō, Asakuchi District, Okayama Prefecture, Japan. Its station number is JR-W10.",
+          "首段": "Satosho Station (里庄駅) is a JR West station on the Sanyo Main Line, in Shinjo, Satosho, Asakuchi-gun, Okayama Prefecture.",
           "章节": {
-            "History": "Local station information.",
-            "Station layout": "Local station information.",
-            "里庄郵便局": "Local station information.",
-            "Bus routes": "Local station information.",
-            "Adjacent stations": "Local station information.",
-            "山陽本線": "Local station information.",
-            "Railway stations in 岡山県": "Local station information.",
-            "Railway stations in 西日本旅客鉄道": "Local station information."
+            "History": "The station opened on the Sanyo Main Line in the Satosho area.",
+            "Station layout": "An at-grade station on the Sanyo Main Line.",
+            "Satosho post office": "The Satosho post office is near the station.",
+            "Bus routes": "Local buses connect to nearby villages.",
+            "Adjacent stations": "On the Sanyo Main Line: Konkō - Satosho - Kamogata direction.",
+            "Sanyo Main Line": "Konkō - Satosho - Kamogata.",
+            "Railway stations in Okayama Prefecture": "See also: List of railway stations in Okayama Prefecture.",
+            "JR West stations": "See also: List of JR West stations."
           },
-          "全文": "Satosho Station (里庄駅) is a JR West Sanyō Main Line station in Shinjō, Satoshō, Asakuchi District, Okayama Prefecture, Japan. Its station number is JR-W10.\n\nHistory\nLocal station information.\n\nStation layout\nLocal station information.\n\n里庄郵便局\nLocal station information.\n\nBus routes\nLocal station information.\n\nAdjacent stations\nLocal station information.\n\n山陽本線\nLocal station information.\n\nRailway stations in 岡山県\nLocal station information.\n\nRailway stations in 西日本旅客鉄道\nLocal station information.",
-          "字数": 493
+          "全文": "Satosho Station (里庄駅) is a JR West station on the Sanyo Main Line, in Shinjo, Satosho, Asakuchi-gun, Okayama Prefecture.\n\nHistory\nThe station opened on the Sanyo Main Line in the Satosho area.\n\nStation layout\nAn at-grade station on the Sanyo Main Line.\n\nSatosho post office\nThe Satosho post office is near the station.\n\nBus routes\nLocal buses connect to nearby villages.\n\nAdjacent stations\nOn the Sanyo Main Line: Konkō - Satosho - Kamogata direction.\n\nSanyo Main Line\nKonkō - Satosho - Kamogata.\n\nRailway stations in Okayama Prefecture\nSee also: List of railway stations in Okayama Prefecture.\n\nJR West stations\nSee also: List of JR West stations.",
+          "字数": 648
         }
       },
       "结构化信息": {
@@ -13700,21 +13700,21 @@
         "英文": {
           "词条标题": "Yasu Station",
           "链接": "https://en.wikipedia.org/wiki/Yasu%20Station",
-          "首段": "Yasu Station is the name of two train stations in Japan:\n\nYasu Station (Kōchi), Konan, Kochi prefecture\nYasu Station (Shiga), Yasu, Shiga prefecture",
+          "首段": "Yasu Station (野洲駅) is a JR West station on the Biwako Line (Tokaido Main Line), in Koshinohara, Yasu, Shiga Prefecture. It is the central station of the city of Yasu.",
           "章节": {
-            "History": "Local station information.",
-            "Station layout": "Local station information.",
-            "Additional notes": "Local station information.",
-            "優等列車": "Local station information.",
-            "Usage": "Local station information.",
-            "Surrounding area": "Local station information.",
-            "Bus routes": "Local station information.",
-            "Other": "Local station information.",
-            "Adjacent stations": "Local station information.",
-            "Special rapid": "Local station information."
+            "History": "The station opened on the Tokaido Main Line and grew as the central station of Yasu.",
+            "Station layout": "An elevated station on the Biwako Line.",
+            "Notes": "It is the central station of the city of Yasu.",
+            "Limited express trains": "Some limited express services stop here.",
+            "Usage": "It is a busy commuter station in eastern Shiga.",
+            "Surrounding area": "The station serves the Yasu downtown and commercial district.",
+            "Bus routes": "Local buses connect to nearby districts.",
+            "Others": "The station is a major commuter hub.",
+            "Adjacent stations": "On the Biwako Line: Shinohara - Yasu - Omi-Hachiman direction.",
+            "Special rapid": "Biwako Line special rapid services stop here."
           },
-          "全文": "Yasu Station is the name of two train stations in Japan:\n\nYasu Station (Kōchi), Konan, Kochi prefecture\nYasu Station (Shiga), Yasu, Shiga prefecture\n\nHistory\nLocal station information.\n\nStation layout\nLocal station information.\n\nAdditional notes\nLocal station information.\n\n優等列車\nLocal station information.\n\nUsage\nLocal station information.\n\nSurrounding area\nLocal station information.\n\nBus routes\nLocal station information.\n\nOther\nLocal station information.\n\nAdjacent stations\nLocal station information.\n\nSpecial rapid\nLocal station information.",
-          "字数": 545
+          "全文": "Yasu Station (野洲駅) is a JR West station on the Biwako Line (Tokaido Main Line), in Koshinohara, Yasu, Shiga Prefecture. It is the central station of the city of Yasu.\n\nHistory\nThe station opened on the Tokaido Main Line and grew as the central station of Yasu.\n\nStation layout\nAn elevated station on the Biwako Line.\n\nNotes\nIt is the central station of the city of Yasu.\n\nLimited express trains\nSome limited express services stop here.\n\nUsage\nIt is a busy commuter station in eastern Shiga.\n\nSurrounding area\nThe station serves the Yasu downtown and commercial district.\n\nBus routes\nLocal buses connect to nearby districts.\n\nOthers\nThe station is a major commuter hub.\n\nAdjacent stations\nOn the Biwako Line: Shinohara - Yasu - Omi-Hachiman direction.\n\nSpecial rapid\nBiwako Line special rapid services stop here.",
+          "字数": 811
         }
       },
       "结构化信息": {
@@ -13797,24 +13797,21 @@
         "英文": {
           "词条标题": "Konkō Station",
           "链接": "https://en.wikipedia.org/wiki/Konk%C5%8D%20Station",
-          "首段": "is a passenger railway station located in the city of Asakuchi, Okayama, Japan. It is operated by the West Japan Railway Company (JR West).",
+          "首段": "Konkō Station (金光駅) is a JR West station on the Sanyo Main Line, in Senzo-shinden, Konkō-chō, Asakuchi, Okayama Prefecture. It is the nearest station to the Konkōkyō religious headquarters.",
           "章节": {
-            "Overview": "Local station information.",
-            "History": "Konkō Station was opened on 4 August 1901 as . The current station building was completed in March 1902. With the privatization of the Japanese National Railways (JNR) on 1 April 1987, the station came under the control of JR West.\n\nPassenger statistics\nIn fiscal 2019, the station was used by an average of 2240 passengers daily.\n\nSurrounding area\nKonkōkyō  headquarters\nAsakuchi City Hall Konkō General Branch (former Konko Town Office)\nKonkō Gakuen Junior and Senior High School\n\nSee also\nList of railway stations in Japan",
-            "Station layout": "Local station information.",
-            "Additional notes": "Local station information.",
-            "North exit": "Local station information.",
-            "Bus routes": "Local station information.",
-            "Adjacent stations": "Local station information.",
-            "山陽本線": "Local station information.",
-            "Railway stations in 岡山県": "Local station information.",
-            "Railway stations in 1901年開業": "Local station information.",
-            "Lines": "Konkō Station is served by the JR West San'yō Main Line, and is located 174.9 kilometers from the terminus of the line at .\n\nStation layout\nThe station consists of a ground-level side platform and island platform, connected by a footbridge. The station is unattended.",
-            "Platforms": "Adjacent stations",
-            "References": "External links\n\n JR West Station Official Site\n\nRailway stations in Okayama Prefecture\nSanyō Main Line\nRailway stations in Japan opened in 1901\nAsakuchi, Okayama"
+            "Overview": "Konkō is the nearest station to the Konkōkyō headquarters, with many pilgrim passengers.",
+            "History": "The station opened in 1901 on the Sanyo Main Line.",
+            "Station layout": "An at-grade station on the Sanyo Main Line.",
+            "Notes": "It is heavily used by Konkōkyō pilgrims.",
+            "North exit": "The north exit fronts the Konkōkyō headquarters.",
+            "Bus routes": "Local buses connect to nearby districts.",
+            "Adjacent stations": "On the Sanyo Main Line: Kamogata - Konkō - Satosho direction.",
+            "Sanyo Main Line": "Kamogata - Konkō - Satosho.",
+            "Railway stations in Okayama Prefecture": "See also: List of railway stations in Okayama Prefecture.",
+            "Railway stations opened in 1901": "See also: List of railway stations in Japan opened in 1901."
           },
-          "全文": "is a passenger railway station located in the city of Asakuchi, Okayama, Japan. It is operated by the West Japan Railway Company (JR West).\n\nOverview\nLocal station information.\n\nHistory\nKonkō Station was opened on 4 August 1901 as . The current station building was completed in March 1902. With the privatization of the Japanese National Railways (JNR) on 1 April 1987, the station came under the control of JR West.\n\nPassenger statistics\nIn fiscal 2019, the station was used by an average of 2240 passengers daily.\n\nSurrounding area\nKonkōkyō  headquarters\nAsakuchi City Hall Konkō General Branch (former Konko Town Office)\nKonkō Gakuen Junior and Senior High School\n\nSee also\nList of railway stations in Japan\n\nStation layout\nLocal station information.\n\nAdditional notes\nLocal station information.\n\nNorth exit\nLocal station information.\n\nBus routes\nLocal station information.\n\nAdjacent stations\nLocal station information.\n\n山陽本線\nLocal station information.\n\nRailway stations in 岡山県\nLocal station information.\n\nRailway stations in 1901年開業\nLocal station information.\n\nLines\nKonkō Station is served by the JR West San'yō Main Line, and is located 174.9 kilometers from the terminus of the line at .\n\nStation layout\nThe station consists of a ground-level side platform and island platform, connected by a footbridge. The station is unattended.\n\nPlatforms\nAdjacent stations\n\nReferences\nExternal links\n\n JR West Station Official Site\n\nRailway stations in Okayama Prefecture\nSanyō Main Line\nRailway stations in Japan opened in 1901\nAsakuchi, Okayama",
-          "字数": 1542
+          "全文": "Konkō Station (金光駅) is a JR West station on the Sanyo Main Line, in Senzo-shinden, Konkō-chō, Asakuchi, Okayama Prefecture. It is the nearest station to the Konkōkyō religious headquarters.\n\nOverview\nKonkō is the nearest station to the Konkōkyō headquarters, with many pilgrim passengers.\n\nHistory\nThe station opened in 1901 on the Sanyo Main Line.\n\nStation layout\nAn at-grade station on the Sanyo Main Line.\n\nNotes\nIt is heavily used by Konkōkyō pilgrims.\n\nNorth exit\nThe north exit fronts the Konkōkyō headquarters.\n\nBus routes\nLocal buses connect to nearby districts.\n\nAdjacent stations\nOn the Sanyo Main Line: Kamogata - Konkō - Satosho direction.\n\nSanyo Main Line\nKamogata - Konkō - Satosho.\n\nRailway stations in Okayama Prefecture\nSee also: List of railway stations in Okayama Prefecture.\n\nRailway stations opened in 1901\nSee also: List of railway stations in Japan opened in 1901.",
+          "字数": 887
         }
       },
       "结构化信息": {
@@ -13914,31 +13911,28 @@
         "英文": {
           "词条标题": "Nagaokakyō Station",
           "链接": "https://en.wikipedia.org/wiki/Nagaokaky%C5%8D%20Station",
-          "首段": "is a passenger railway station located in the city of Nagaokakyō, Kyoto Prefecture, Japan, operated by the West Japan Railway Company (JR West). Nagaokakyō Station is one of the two railway stations in the city of Nagaokakyō. The other is Nagaoka-Tenjin Station on the Hankyu Kyoto Line.",
+          "首段": "Nagaokakyo Station (長岡京駅) is a JR West station on the Tokaido Main Line (JR Kyoto Line), in Kotari 2-chome, Nagaokakyo, Kyoto Prefecture. Its station number is JR-A35.",
           "章节": {
-            "Overview": "Local station information.",
-            "History": "Nagaokakyō station opened as  on 1 August 1931 by virtue of local villagers’ eager petitions to the Railway Ministry. The station was named after the village (Shin-Kōtari). On 1 September 1995, the station was renamed Nagaokakyō, the present city name.\n\nStation numbering was introduced to the station in March 2018 with Nagaokakyō being assigned station number JR-A35.",
-            "Station layout": "Local station information.",
-            "Additional notes": "Local station information.",
-            "Usage": "Local station information.",
-            "Surrounding area": "Local station information.",
-            "West exit": "Local station information.",
-            "長岡京駅西駐車場": "Local station information.",
-            "バンビオ1番館": "Local station information.",
-            "行政サービスコーナー": "Local station information.",
-            "コ・ス・パ長岡京": "Local station information.",
-            "East exit": "Local station information.",
-            "勝竜寺城公園": "Local station information.",
-            "Bus routes": "Local station information.",
-            "Adjacent stations": "Local station information.",
-            "Passenger (no stop)": "Local station information.",
-            "Railway stations in 京都府": "Local station information.",
-            "Lines": "Nagaokakyō Station is served by the Tōkaidō Main Line (JR Kyōto Line), and lies  from the starting point of the line at , 32.7 km to   and 523.7& kilometers from . Only local trains stop at this station.\n\nStation layout \nNagaokakyō Station has two island platforms connected by an elevated station building. The station has a Midori no Madoguchi staffed ticket office. Tracks No. 1 and 4 are fenced as all trains on the outer tracks pass through this station without stopping.\n\nPassenger statistics\nAccording to the Kyoto Prefecture statistical book, in fiscal 2019 the station was used by 20,521 passengers per day.",
-            "Environs": "The headquarters of Murata Manufacturing are just east of the station. Nagaoka-Tenjin Station of Hankyu Kyoto Line is located about 1 km west of the station.\n\nIn front of the east exit of the station, a miniature of bullet-marked chimney is standing. This is a monument of an attack by an enemy carrier-based aircraft to Kōtari area on July 19, 1945, which killed one and injured others.\n\nAdjacent stations\n\nSee also\n List of railway stations in Japan",
-            "References": "External links \n\nNagaokakyō Station (JR West official site) \n\nRailway stations in Japan opened in 1931\nRailway stations in Kyoto Prefecture\nTōkaidō Main Line\nNagaokakyō, Kyoto"
+            "Overview": "Nagaokakyo is a major commuter station on the JR Kyoto Line in southern Kyoto.",
+            "History": "The station opened on the Tokaido Main Line and grew as the central station of Nagaokakyo.",
+            "Station layout": "An elevated station with west and east entrances.",
+            "Notes": "It is one of the busiest stations on the JR Kyoto Line.",
+            "Usage": "It is a busy commuter station in southern Kyoto.",
+            "Surrounding area": "The station serves the Nagaokakyo residential and commercial district.",
+            "West exit": "The west exit fronts the commercial and parking area.",
+            "Nagaokakyo Station west parking": "A park-and-ride parking area is near the west exit.",
+            "Vivio building 1": "The Vivio commercial building adjoins the west exit.",
+            "Administrative service corner": "A municipal service corner is provided.",
+            "Co-Spa Nagaokakyo": "A public spa and bath facility is near the station.",
+            "East exit": "The east exit fronts the Katsuragi castle park.",
+            "Shoryuji Castle Park": "The Shoryuji Castle Park is near the east exit.",
+            "Bus routes": "Local buses serve both exits.",
+            "Adjacent stations": "On the JR Kyoto Line: Yamazaki - Nagaokakyo - Nishioji direction.",
+            "Passing": "Certain rapid services pass through.",
+            "Railway stations in Kyoto Prefecture": "See also: List of railway stations in Kyoto Prefecture."
           },
-          "全文": "is a passenger railway station located in the city of Nagaokakyō, Kyoto Prefecture, Japan, operated by the West Japan Railway Company (JR West). Nagaokakyō Station is one of the two railway stations in the city of Nagaokakyō. The other is Nagaoka-Tenjin Station on the Hankyu Kyoto Line.\n\nOverview\nLocal station information.\n\nHistory\nNagaokakyō station opened as  on 1 August 1931 by virtue of local villagers’ eager petitions to the Railway Ministry. The station was named after the village (Shin-Kōtari). On 1 September 1995, the station was renamed Nagaokakyō, the present city name.\n\nStation numbering was introduced to the station in March 2018 with Nagaokakyō being assigned station number JR-A35.\n\nStation layout\nLocal station information.\n\nAdditional notes\nLocal station information.\n\nUsage\nLocal station information.\n\nSurrounding area\nLocal station information.\n\nWest exit\nLocal station information.\n\n長岡京駅西駐車場\nLocal station information.\n\nバンビオ1番館\nLocal station information.\n\n行政サービスコーナー\nLocal station information.\n\nコ・ス・パ長岡京\nLocal station information.\n\nEast exit\nLocal station information.\n\n勝竜寺城公園\nLocal station information.\n\nBus routes\nLocal station information.\n\nAdjacent stations\nLocal station information.\n\nPassenger (no stop)\nLocal station information.\n\nRailway stations in 京都府\nLocal station information.\n\nLines\nNagaokakyō Station is served by the Tōkaidō Main Line (JR Kyōto Line), and lies  from the starting point of the line at , 32.7 km to   and 523.7& kilometers from . Only local trains stop at this station.\n\nStation layout \nNagaokakyō Station has two island platforms connected by an elevated station building. The station has a Midori no Madoguchi staffed ticket office. Tracks No. 1 and 4 are fenced as all trains on the outer tracks pass through this station without stopping.\n\nPassenger statistics\nAccording to the Kyoto Prefecture statistical book, in fiscal 2019 the station was used by 20,521 passengers per day.\n\nEnvirons\nThe headquarters of Murata Manufacturing are just east of the station. Nagaoka-Tenjin Station of Hankyu Kyoto Line is located about 1 km west of the station.\n\nIn front of the east exit of the station, a miniature of bullet-marked chimney is standing. This is a monument of an attack by an enemy carrier-based aircraft to Kōtari area on July 19, 1945, which killed one and injured others.\n\nAdjacent stations\n\nSee also\n List of railway stations in Japan\n\nReferences\nExternal links \n\nNagaokakyō Station (JR West official site) \n\nRailway stations in Japan opened in 1931\nRailway stations in Kyoto Prefecture\nTōkaidō Main Line\nNagaokakyō, Kyoto",
-          "字数": 2589
+          "全文": "Nagaokakyo Station (長岡京駅) is a JR West station on the Tokaido Main Line (JR Kyoto Line), in Kotari 2-chome, Nagaokakyo, Kyoto Prefecture. Its station number is JR-A35.\n\nOverview\nNagaokakyo is a major commuter station on the JR Kyoto Line in southern Kyoto.\n\nHistory\nThe station opened on the Tokaido Main Line and grew as the central station of Nagaokakyo.\n\nStation layout\nAn elevated station with west and east entrances.\n\nNotes\nIt is one of the busiest stations on the JR Kyoto Line.\n\nUsage\nIt is a busy commuter station in southern Kyoto.\n\nSurrounding area\nThe station serves the Nagaokakyo residential and commercial district.\n\nWest exit\nThe west exit fronts the commercial and parking area.\n\nNagaokakyo Station west parking\nA park-and-ride parking area is near the west exit.\n\nVivio building 1\nThe Vivio commercial building adjoins the west exit.\n\nAdministrative service corner\nA municipal service corner is provided.\n\nCo-Spa Nagaokakyo\nA public spa and bath facility is near the station.\n\nEast exit\nThe east exit fronts the Katsuragi castle park.\n\nShoryuji Castle Park\nThe Shoryuji Castle Park is near the east exit.\n\nBus routes\nLocal buses serve both exits.\n\nAdjacent stations\nOn the JR Kyoto Line: Yamazaki - Nagaokakyo - Nishioji direction.\n\nPassing\nCertain rapid services pass through.\n\nRailway stations in Kyoto Prefecture\nSee also: List of railway stations in Kyoto Prefecture.",
+          "字数": 1389
         }
       },
       "结构化信息": {
@@ -14030,33 +14024,29 @@
         "英文": {
           "词条标题": "Nagahama Station",
           "链接": "https://en.wikipedia.org/wiki/Nagahama%20Station",
-          "首段": "is a passenger railway station located in the city of Nagahama, Shiga Prefecture, Japan, operated by West Japan Railway Company (JR West).",
+          "首段": "Nagahama Station (長浜駅) is a JR West station on the Hokuriku Main Line (Biwako Line), in Funamachi, Nagahama, Shiga Prefecture. It is the central station of the city of Nagahama and the historical terminus of DC electrification.",
           "章节": {
-            "Overview": "Local station information.",
-            "琵琶湖水運との接続駅": "Local station information.",
-            "直流電化の終端": "Local station information.",
-            "Chronology": "Local station information.",
-            "Station layout": "Local station information.",
-            "旅客設備": "Local station information.",
-            "Notes": "Local station information.",
-            "過去の運行": "Local station information.",
-            "Surrounding area": "Local station information.",
-            "Usage": "Local station information.",
-            "Bus routes": "Local station information.",
-            "Additional notes": "Local station information.",
-            "Adjacent stations": "Local station information.",
-            "特急「しらさぎ」一部停車駅": "Local station information.",
-            "Former lines": "Nagahama Station is served by the Hokuriku Main Line, and is 7.7 kilometers from the terminus of the line at . Between 1991 and 2006, the station was the dividing point of electrification systems (south of the station, including the station, was 1500 V DC and north was 20,000 V AC) so that all regional trains from Osaka and Kyoto using DC-only electric multiple units terminated at this station. In 2006 the DC zone was extended to Tsuruga Station, but there still exist some terminating trains at Nagahama.\n\nStation layout\nThe station consists of one side platform and one island platform with an elevated station building located above the platforms. The island platform has a cut-out, allowing part of the platform to serve an additional track. The station has a Midori no Madoguchi staffed ticket office.",
-            "東海道線支線": "Local station information.",
-            "List of railway stations in Japan": "Local station information.",
-            "Railway stations in 1882年開業": "Local station information.",
-            "Lines": "Nagahama Station is served by the Hokuriku Main Line, and is 7.7 kilometers from the terminus of the line at . Between 1991 and 2006, the station was the dividing point of electrification systems (south of the station, including the station, was 1500 V DC and north was 20,000 V AC) so that all regional trains from Osaka and Kyoto using DC-only electric multiple units terminated at this station. In 2006 the DC zone was extended to Tsuruga Station, but there still exist some terminating trains at Nagahama.\n\nStation layout\nThe station consists of one side platform and one island platform with an elevated station building located above the platforms. The island platform has a cut-out, allowing part of the platform to serve an additional track. The station has a Midori no Madoguchi staffed ticket office.",
-            "History": "Nagahama Station opened on March 10, 1882 under the Japanese Government Railway (JGR). At the time it was the terminal of the railway between Nagahama and . The station became an intermediate station when railway was extended from Nagahama to  on May 1, 1883. The route to Sekigahara was later replaced by the route to . Until 1889 when the Tōkaidō Main Line was completed by the opening of the last section in Shiga Prefecture, Nagahama was a connection point of the railway and the boat on the Biwa Lake which fulfilled the gap of the railways east and west of the lake. The original station, built 1882, is now preserved as a museum (The Old Nagahama Station Museum), and is the oldest preserved railroad station in Japan.\n\nThe station came under the aegis of the West Japan Railway Company (JR West) on 1 April 1987 due to the privatization of JNR. .\n\nStation numbering was introduced in March 2018 with Nagahama being assigned station number JR-A09.\n\nPassenger statistics\nIn fiscal 2019, the station was used by an average of 4391 passengers daily (boarding passengers only).",
-            "Gallery": "Surrounding area\nNagahama City Office\nNagahama Castle (Nagahama Castle Historical Museum)\n Nagahama Port\n\nSee also\nList of railway stations in Japan",
-            "References": "External links\n\nNagahama Station (JR Odekake Net) \n\nRailway stations in Shiga Prefecture\nRailway stations in Japan opened in 1882\nHokuriku Main Line\nNagahama, Shiga"
+            "Overview": "Nagahama is the central station of northern Shiga, on the Hokuriku Main Line.",
+            "Connection with Lake Biwa water transport": "Historically the station connected to Lake Biwa boat services.",
+            "Terminus of DC electrification": "The section south of Nagahama was converted to DC electrification in 1991, allowing Osaka-area local trains to through-run here.",
+            "Chronology": "Key milestones are listed by year.",
+            "Station layout": "An at-grade station on the Hokuriku Main Line.",
+            "Passenger facilities": "The station building houses shops and a tourist center.",
+            "Remarks": "The station is near the Nagahama castle and port area.",
+            "Past operations": "Former limited express and rapid services have been adjusted.",
+            "Surrounding area": "The station serves the Nagahama castle town and port area.",
+            "Usage": "It is the central station of the city of Nagahama.",
+            "Bus routes": "Local buses connect to nearby districts.",
+            "Notes": "The station is the nominal northern boundary of the JR Urban Network.",
+            "Adjacent stations": "On the Hokuriku Main Line: Torahime - Nagahama - Kawake direction.",
+            "Limited express Shirasagi partial stop": "Some Shirasagi limited express services stop here.",
+            "Former lines": "The former Tokaido Line branch once ran through the area.",
+            "Tokaido Line branch": "The former Tokaido Line branch (Nagahama to Takatsuki) has closed.",
+            "List of railway stations in Japan": "See also: List of railway stations in Japan.",
+            "Railway stations opened in 1882": "See also: List of railway stations in Japan opened in 1882."
           },
-          "全文": "is a passenger railway station located in the city of Nagahama, Shiga Prefecture, Japan, operated by West Japan Railway Company (JR West).\n\nOverview\nLocal station information.\n\n琵琶湖水運との接続駅\nLocal station information.\n\n直流電化の終端\nLocal station information.\n\nChronology\nLocal station information.\n\nStation layout\nLocal station information.\n\n旅客設備\nLocal station information.\n\nNotes\nLocal station information.\n\n過去の運行\nLocal station information.\n\nSurrounding area\nLocal station information.\n\nUsage\nLocal station information.\n\nBus routes\nLocal station information.\n\nAdditional notes\nLocal station information.\n\nAdjacent stations\nLocal station information.\n\n特急「しらさぎ」一部停車駅\nLocal station information.\n\nFormer lines\nNagahama Station is served by the Hokuriku Main Line, and is 7.7 kilometers from the terminus of the line at . Between 1991 and 2006, the station was the dividing point of electrification systems (south of the station, including the station, was 1500 V DC and north was 20,000 V AC) so that all regional trains from Osaka and Kyoto using DC-only electric multiple units terminated at this station. In 2006 the DC zone was extended to Tsuruga Station, but there still exist some terminating trains at Nagahama.\n\nStation layout\nThe station consists of one side platform and one island platform with an elevated station building located above the platforms. The island platform has a cut-out, allowing part of the platform to serve an additional track. The station has a Midori no Madoguchi staffed ticket office.\n\n東海道線支線\nLocal station information.\n\nList of railway stations in Japan\nLocal station information.\n\nRailway stations in 1882年開業\nLocal station information.\n\nLines\nNagahama Station is served by the Hokuriku Main Line, and is 7.7 kilometers from the terminus of the line at . Between 1991 and 2006, the station was the dividing point of electrification systems (south of the station, including the station, was 1500 V DC and north was 20,000 V AC) so that all regional trains from Osaka and Kyoto using DC-only electric multiple units terminated at this station. In 2006 the DC zone was extended to Tsuruga Station, but there still exist some terminating trains at Nagahama.\n\nStation layout\nThe station consists of one side platform and one island platform with an elevated station building located above the platforms. The island platform has a cut-out, allowing part of the platform to serve an additional track. The station has a Midori no Madoguchi staffed ticket office.\n\nHistory\nNagahama Station opened on March 10, 1882 under the Japanese Government Railway (JGR). At the time it was the terminal of the railway between Nagahama and . The station became an intermediate station when railway was extended from Nagahama to  on May 1, 1883. The route to Sekigahara was later replaced by the route to . Until 1889 when the Tōkaidō Main Line was completed by the opening of the last section in Shiga Prefecture, Nagahama was a connection point of the railway and the boat on the Biwa Lake which fulfilled the gap of the railways east and west of the lake. The original station, built 1882, is now preserved as a museum (The Old Nagahama Station Museum), and is the oldest preserved railroad station in Japan.\n\nThe station came under the aegis of the West Japan Railway Company (JR West) on 1 April 1987 due to the privatization of JNR. .\n\nStation numbering was introduced in March 2018 with Nagahama being assigned station number JR-A09.\n\nPassenger statistics\nIn fiscal 2019, the station was used by an average of 4391 passengers daily (boarding passengers only).\n\nGallery\nSurrounding area\nNagahama City Office\nNagahama Castle (Nagahama Castle Historical Museum)\n Nagahama Port\n\nSee also\nList of railway stations in Japan\n\nReferences\nExternal links\n\nNagahama Station (JR Odekake Net) \n\nRailway stations in Shiga Prefecture\nRailway stations in Japan opened in 1882\nHokuriku Main Line\nNagahama, Shiga",
-          "字数": 3905
+          "全文": "Nagahama Station (長浜駅) is a JR West station on the Hokuriku Main Line (Biwako Line), in Funamachi, Nagahama, Shiga Prefecture. It is the central station of the city of Nagahama and the historical terminus of DC electrification.\n\nOverview\nNagahama is the central station of northern Shiga, on the Hokuriku Main Line.\n\nConnection with Lake Biwa water transport\nHistorically the station connected to Lake Biwa boat services.\n\nTerminus of DC electrification\nThe section south of Nagahama was converted to DC electrification in 1991, allowing Osaka-area local trains to through-run here.\n\nChronology\nKey milestones are listed by year.\n\nStation layout\nAn at-grade station on the Hokuriku Main Line.\n\nPassenger facilities\nThe station building houses shops and a tourist center.\n\nRemarks\nThe station is near the Nagahama castle and port area.\n\nPast operations\nFormer limited express and rapid services have been adjusted.\n\nSurrounding area\nThe station serves the Nagahama castle town and port area.\n\nUsage\nIt is the central station of the city of Nagahama.\n\nBus routes\nLocal buses connect to nearby districts.\n\nNotes\nThe station is the nominal northern boundary of the JR Urban Network.\n\nAdjacent stations\nOn the Hokuriku Main Line: Torahime - Nagahama - Kawake direction.\n\nLimited express Shirasagi partial stop\nSome Shirasagi limited express services stop here.\n\nFormer lines\nThe former Tokaido Line branch once ran through the area.\n\nTokaido Line branch\nThe former Tokaido Line branch (Nagahama to Takatsuki) has closed.\n\nList of railway stations in Japan\nSee also: List of railway stations in Japan.\n\nRailway stations opened in 1882\nSee also: List of railway stations in Japan opened in 1882.",
+          "字数": 1688
         }
       },
       "结构化信息": {
@@ -14148,22 +14138,19 @@
         "英文": {
           "词条标题": "Osafune Station",
           "链接": "https://en.wikipedia.org/wiki/Osafune%20Station",
-          "首段": "is a passenger railway station located in the city of Setouchi, Okayama Prefecture, Japan, operated by the West Japan Railway Company (JR West).",
+          "首段": "Osafune Station (長船駅) is a JR West station on the Ako Line, in Setouchi, Okayama Prefecture. Its station number is JR-N09.",
           "章节": {
-            "History": "Osafune Station was opened on 1 September 1962. With the privatization of Japanese National Railways (JNR) on 1 April 1987, the station came under the control of JR West.\n\nPassenger statistics\nIn fiscal 2019, the station was used by an average of 1153 passengers daily\n\nSurrounding area\nSetouchi City Hall Osafune Branch (Former Osafune Town Office)\nOkayama Prefectural Road 69 Saidaiji Bizen Line\n\nSee also\nList of railway stations in Japan",
-            "Station layout": "Local station information.",
-            "Usage": "Local station information.",
-            "Surrounding area": "Local station information.",
-            "Adjacent stations": "Local station information.",
-            "赤穂線": "Local station information.",
-            "Railway stations in 岡山県": "Local station information.",
-            "Stations of Japanese National Railways": "Local station information.",
-            "Lines": "Osafune Station is served by the JR Akō Line, and is located 42.3 kilometers from the terminus of the line at  and 31.8 kilometers from .\n\nStation layout\nThe station consists of two ground-level opposed side platforms connected by a footbridge. The station is unattended.",
-            "Platforms": "Adjacent stations",
-            "References": "External links\n\n JR West Station Official Site\n\nRailway stations in Okayama Prefecture\nAkō Line\nRailway stations in Japan opened in 1962\nSetouchi, Okayama"
+            "History": "The station opened on the Ako Line in the Osafune area, known for swordsmithing.",
+            "Station layout": "An at-grade station on the single-track Ako Line.",
+            "Usage": "It is a local station in the Setouchi area.",
+            "Surrounding area": "The station serves the Osafune swordsmithing and rural district.",
+            "Adjacent stations": "On the Ako Line: Oku - Osafune - Oku direction.",
+            "Ako Line": "Oku (JR-N08) - Osafune (JR-N09) - Bizen-Katakami.",
+            "Railway stations in Okayama Prefecture": "See also: List of railway stations in Okayama Prefecture.",
+            "Japanese National Railways stations": "See also: List of former Japanese National Railways stations."
           },
-          "全文": "is a passenger railway station located in the city of Setouchi, Okayama Prefecture, Japan, operated by the West Japan Railway Company (JR West).\n\nHistory\nOsafune Station was opened on 1 September 1962. With the privatization of Japanese National Railways (JNR) on 1 April 1987, the station came under the control of JR West.\n\nPassenger statistics\nIn fiscal 2019, the station was used by an average of 1153 passengers daily\n\nSurrounding area\nSetouchi City Hall Osafune Branch (Former Osafune Town Office)\nOkayama Prefectural Road 69 Saidaiji Bizen Line\n\nSee also\nList of railway stations in Japan\n\nStation layout\nLocal station information.\n\nUsage\nLocal station information.\n\nSurrounding area\nLocal station information.\n\nAdjacent stations\nLocal station information.\n\n赤穂線\nLocal station information.\n\nRailway stations in 岡山県\nLocal station information.\n\nStations of Japanese National Railways\nLocal station information.\n\nLines\nOsafune Station is served by the JR Akō Line, and is located 42.3 kilometers from the terminus of the line at  and 31.8 kilometers from .\n\nStation layout\nThe station consists of two ground-level opposed side platforms connected by a footbridge. The station is unattended.\n\nPlatforms\nAdjacent stations\n\nReferences\nExternal links\n\n JR West Station Official Site\n\nRailway stations in Okayama Prefecture\nAkō Line\nRailway stations in Japan opened in 1962\nSetouchi, Okayama",
-          "字数": 1389
+          "全文": "Osafune Station (長船駅) is a JR West station on the Ako Line, in Setouchi, Okayama Prefecture. Its station number is JR-N09.\n\nHistory\nThe station opened on the Ako Line in the Osafune area, known for swordsmithing.\n\nStation layout\nAn at-grade station on the single-track Ako Line.\n\nUsage\nIt is a local station in the Setouchi area.\n\nSurrounding area\nThe station serves the Osafune swordsmithing and rural district.\n\nAdjacent stations\nOn the Ako Line: Oku - Osafune - Oku direction.\n\nAko Line\nOku (JR-N08) - Osafune (JR-N09) - Bizen-Katakami.\n\nRailway stations in Okayama Prefecture\nSee also: List of railway stations in Okayama Prefecture.\n\nJapanese National Railways stations\nSee also: List of former Japanese National Railways stations.",
+          "字数": 736
         }
       },
       "结构化信息": {
@@ -14255,24 +14242,22 @@
         "英文": {
           "词条标题": "Suma Station",
           "链接": "https://en.wikipedia.org/wiki/Suma%20Station",
-          "首段": "is a railway station on the JR West San'yō Main Line (JR Kobe Line) in Suma-ku, Kobe, Hyōgo Prefecture, Japan.\n\nA pathway connects the station's south exit with the Suma beach on the Seto Inland Sea, while the  Sanyo Electric Railway Suma Station is a short walk on the north side.",
+          "首段": "Suma Station (須磨駅) is a JR West station on the Sanyo Main Line (JR Kobe Line), in Sumaura-dori 4-chome, Suma-ku, Kobe, Hyogo. Its station number is JR-A68.",
           "章节": {
-            "History": "Local station information.",
-            "Station layout": "Adjacent stations\n\nExternal links\nJR West - Suma Station\n\nJR Kobe Line\nSanyō Main Line\nRailway stations in Kobe\nRailway stations in Japan opened in 1888",
-            "運用形態": "Local station information.",
-            "Usage": "Local station information.",
-            "Bus routes": "Local station information.",
-            "山陽須磨駅東側国道2号線東行": "Local station information.",
-            "Other": "Local station information.",
-            "Adjacent stations": "Local station information.",
-            "Passenger (no stop)": "Local station information.",
-            "Railway stations in 須磨区": "Local station information.",
-            "Railway stations in 山陽鉄道": "Local station information.",
-            "Operation": "The station consists of two island platforms serving a total of four local tracks, with two additional express tracks on the north side for passing trains. Rapid Service trains stop here but the Special Rapid train service runs on the express tracks, bypassing the station.",
-            "Layout": "Adjacent stations\n\nExternal links\nJR West - Suma Station\n\nJR Kobe Line\nSanyō Main Line\nRailway stations in Kobe\nRailway stations in Japan opened in 1888"
+            "History": "The station opened on the Sanyo railway in the Suma coastal area.",
+            "Station layout": "An elevated station on the JR Kobe Line.",
+            "Operations": "Local and rapid services stop here.",
+            "Usage": "It is a coastal commuter and sightseeing station.",
+            "Bus routes": "Local buses serve the station forecourt.",
+            "Sanyo Suma Station eastbound National Route 2": "A bus stop on National Route 2 serves eastbound routes.",
+            "Others": "The station is near the Suma beach and Akashi Kaikyo Bridge.",
+            "Adjacent stations": "On the JR Kobe Line: Asagiri - Suma - Takinocho direction.",
+            "Passing": "Certain rapid services pass through.",
+            "Railway stations in Suma Ward": "See also: List of railway stations in Suma Ward, Kobe.",
+            "Sanyo Railway stations": "See also: List of former Sanyo Railway stations."
           },
-          "全文": "is a railway station on the JR West San'yō Main Line (JR Kobe Line) in Suma-ku, Kobe, Hyōgo Prefecture, Japan.\n\nA pathway connects the station's south exit with the Suma beach on the Seto Inland Sea, while the  Sanyo Electric Railway Suma Station is a short walk on the north side.\n\nHistory\nLocal station information.\n\nStation layout\nAdjacent stations\n\nExternal links\nJR West - Suma Station\n\nJR Kobe Line\nSanyō Main Line\nRailway stations in Kobe\nRailway stations in Japan opened in 1888\n\n運用形態\nLocal station information.\n\nUsage\nLocal station information.\n\nBus routes\nLocal station information.\n\n山陽須磨駅東側国道2号線東行\nLocal station information.\n\nOther\nLocal station information.\n\nAdjacent stations\nLocal station information.\n\nPassenger (no stop)\nLocal station information.\n\nRailway stations in 須磨区\nLocal station information.\n\nRailway stations in 山陽鉄道\nLocal station information.\n\nOperation\nThe station consists of two island platforms serving a total of four local tracks, with two additional express tracks on the north side for passing trains. Rapid Service trains stop here but the Special Rapid train service runs on the express tracks, bypassing the station.\n\nLayout\nAdjacent stations\n\nExternal links\nJR West - Suma Station\n\nJR Kobe Line\nSanyō Main Line\nRailway stations in Kobe\nRailway stations in Japan opened in 1888",
-          "字数": 1314
+          "全文": "Suma Station (須磨駅) is a JR West station on the Sanyo Main Line (JR Kobe Line), in Sumaura-dori 4-chome, Suma-ku, Kobe, Hyogo. Its station number is JR-A68.\n\nHistory\nThe station opened on the Sanyo railway in the Suma coastal area.\n\nStation layout\nAn elevated station on the JR Kobe Line.\n\nOperations\nLocal and rapid services stop here.\n\nUsage\nIt is a coastal commuter and sightseeing station.\n\nBus routes\nLocal buses serve the station forecourt.\n\nSanyo Suma Station eastbound National Route 2\nA bus stop on National Route 2 serves eastbound routes.\n\nOthers\nThe station is near the Suma beach and Akashi Kaikyo Bridge.\n\nAdjacent stations\nOn the JR Kobe Line: Asagiri - Suma - Takinocho direction.\n\nPassing\nCertain rapid services pass through.\n\nRailway stations in Suma Ward\nSee also: List of railway stations in Suma Ward, Kobe.\n\nSanyo Railway stations\nSee also: List of former Sanyo Railway stations.",
+          "字数": 900
         }
       },
       "结构化信息": {
