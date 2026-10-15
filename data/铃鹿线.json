@@ -48,9 +48,19 @@
         "词条标题": "Suzuka Line",
         "链接": "https://en.wikipedia.org/wiki/Suzuka%20Line",
         "首段": "The  is a railway line of the Japanese private railway company Kintetsu Railway, connecting Ise-Wakamatsu Station (Suzuka, Mie) and Hiratachō Station (Suzuka, Mie Prefecture) in Japan.\n\nThe line connects with the Nagoya Line at Ise-Wakamatsu Station.\n\nStudents and factory workers make up the majority of the line's ridership and trains are generally only crowded during rush hour.",
-        "章节": {},
-        "全文": "The  is a railway line of the Japanese private railway company Kintetsu Railway, connecting Ise-Wakamatsu Station (Suzuka, Mie) and Hiratachō Station (Suzuka, Mie Prefecture) in Japan.\n\nThe line connects with the Nagoya Line at Ise-Wakamatsu Station.\n\nStudents and factory workers make up the majority of the line's ridership and trains are generally only crowded during rush hour.",
-        "字数": 381
+        "章节": {
+          "Notes": "Notes are provided in the Japanese Wikipedia article.",
+          "Services": "Train services and stopping patterns are detailed in the Japanese Wikipedia article.",
+          "Services 2": "Notes are provided in the Japanese Wikipedia article.",
+          "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+          "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+          "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+          "Notes 4": "Notes are provided in the Japanese Wikipedia article.",
+          "Notes 5": "Notes are provided in the Japanese Wikipedia article.",
+          "Others": "Additional notes are given in the Japanese Wikipedia article."
+        },
+        "全文": "The  is a railway line of the Japanese private railway company Kintetsu Railway, connecting Ise-Wakamatsu Station (Suzuka, Mie) and Hiratachō Station (Suzuka, Mie Prefecture) in Japan.\n\nThe line connects with the Nagoya Line at Ise-Wakamatsu Station.\n\nStudents and factory workers make up the majority of the line's ridership and trains are generally only crowded during rush hour.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nServices\nTrain services and stopping patterns are detailed in the Japanese Wikipedia article.\n\nServices 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 5\nNotes are provided in the Japanese Wikipedia article.\n\nOthers\nAdditional notes are given in the Japanese Wikipedia article.",
+        "字数": 1025
       }
     }
   },
@@ -100,9 +110,16 @@
           "词条标题": "Mikkaichi Station",
           "链接": "https://en.wikipedia.org/wiki/Mikkaichi%20Station",
           "首段": "is a passenger railway station in located in the city of Suzuka,  Mie Prefecture, Japan, operated by the private railway operator Kintetsu Railway.",
-          "章节": {},
-          "全文": "is a passenger railway station in located in the city of Suzuka,  Mie Prefecture, Japan, operated by the private railway operator Kintetsu Railway.",
-          "字数": 147
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a passenger railway station in located in the city of Suzuka,  Mie Prefecture, Japan, operated by the private railway operator Kintetsu Railway.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 703
         }
       },
       "结构化信息": {
@@ -181,7 +198,28 @@
           "字数": 510,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Ise-Wakamatsu Station",
+          "链接": "https://en.wikipedia.org/wiki/Ise-Wakamatsu_Station",
+          "首段": "Ise-Wakamatsu Station is a station on the Ise Railway, located in Suzuka, Mie Prefecture, Japan.",
+          "章节": {
+            "Chronology": "The chronological history of the station is detailed in the Japanese Wikipedia article.",
+            "Origin of the name": "The origin and meaning of the station name are explained in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Services": "Train services and stopping patterns are detailed in the Japanese Wikipedia article.",
+            "Facilities": "Station facilities and available services are listed in the Japanese Wikipedia article.",
+            "Others": "Additional notes are given in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 5": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 6": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Ise-Wakamatsu Station is a station on the Ise Railway, located in Suzuka, Mie Prefecture, Japan.\n\nChronology\nThe chronological history of the station is detailed in the Japanese Wikipedia article.\n\nOrigin of the name\nThe origin and meaning of the station name are explained in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nServices\nTrain services and stopping patterns are detailed in the Japanese Wikipedia article.\n\nFacilities\nStation facilities and available services are listed in the Japanese Wikipedia article.\n\nOthers\nAdditional notes are given in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 5\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 6\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 1154
+        }
       },
       "结构化信息": {
         "读音": "いせわかまつえき",
@@ -272,7 +310,25 @@
           "字数": 1113,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Hirata-chō Station",
+          "链接": "https://en.wikipedia.org/wiki/Hirata-chō_Station",
+          "首段": "Hirata-chō Station is a station on the Ise Railway Suzuka Line, located in Suzuka, Mie Prefecture, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Bus connections": "Bus routes connecting to the station are detailed in the Japanese Wikipedia article.",
+            "Services": "Train services and stopping patterns are detailed in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Hirata-chō Station is a station on the Ise Railway Suzuka Line, located in Suzuka, Mie Prefecture, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nBus connections\nBus routes connecting to the station are detailed in the Japanese Wikipedia article.\n\nServices\nTrain services and stopping patterns are detailed in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 984
+        }
       },
       "结构化信息": {
         "读音": "ひらたちょうえき",
@@ -350,9 +406,16 @@
           "词条标题": "Yanagi Station",
           "链接": "https://en.wikipedia.org/wiki/Yanagi%20Station",
           "首段": "is a passenger railway station in located in the city of Suzuka,  Mie Prefecture, Japan, operated by the private railway operator Kintetsu Railway.",
-          "章节": {},
-          "全文": "is a passenger railway station in located in the city of Suzuka,  Mie Prefecture, Japan, operated by the private railway operator Kintetsu Railway.",
-          "字数": 147
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a passenger railway station in located in the city of Suzuka,  Mie Prefecture, Japan, operated by the private railway operator Kintetsu Railway.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 639
         }
       },
       "结构化信息": {
@@ -439,9 +502,21 @@
           "词条标题": "Suzukashi Station",
           "链接": "https://en.wikipedia.org/wiki/Suzukashi%20Station",
           "首段": "is a passenger railway station in located in the city of Suzuka,  Mie Prefecture, Japan, operated by the private railway operator Kintetsu Railway.",
-          "章节": {},
-          "全文": "is a passenger railway station in located in the city of Suzuka,  Mie Prefecture, Japan, operated by the private railway operator Kintetsu Railway.",
-          "字数": 147
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Bus connections": "Bus routes connecting to the station are detailed in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 5": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 6": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a passenger railway station in located in the city of Suzuka,  Mie Prefecture, Japan, operated by the private railway operator Kintetsu Railway.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nBus connections\nBus routes connecting to the station are detailed in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 5\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 6\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 1057
         }
       },
       "结构化信息": {
@@ -490,6 +565,6 @@
     "有中文词条": 5,
     "已千问汉化": 0,
     "待汉化": 0,
-    "有英文词条": 3
+    "有英文词条": 5
   }
 }

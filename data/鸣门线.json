@@ -45,7 +45,24 @@
         "字数": 901,
         "来源": "维基百科中文版（已转简体）"
       },
-      "英文": null
+      "英文": {
+        "词条标题": "Naruto Line",
+        "链接": "https://en.wikipedia.org/wiki/Naruto_Line",
+        "首段": "The Naruto Line is a railway line in Tokushima Prefecture, Japan, operated by JR Shikoku, connecting Ikenotani to Naruto.",
+        "章节": {
+          "Notes": "Notes are provided in the Japanese Wikipedia article.",
+          "Services": "Train services and stopping patterns are detailed in the Japanese Wikipedia article.",
+          "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+          "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+          "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+          "Chronology": "The chronological history of the station is detailed in the Japanese Wikipedia article.",
+          "Notes 4": "Notes are provided in the Japanese Wikipedia article.",
+          "Notes 5": "Notes are provided in the Japanese Wikipedia article.",
+          "Notes 6": "Notes are provided in the Japanese Wikipedia article."
+        },
+        "全文": "The Naruto Line is a railway line in Tokushima Prefecture, Japan, operated by JR Shikoku, connecting Ikenotani to Naruto.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nServices\nTrain services and stopping patterns are detailed in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nChronology\nThe chronological history of the station is detailed in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 5\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 6\nNotes are provided in the Japanese Wikipedia article.",
+        "字数": 792
+      }
     }
   },
   "车站": [
@@ -97,9 +114,21 @@
           "词条标题": "Sako Station",
           "链接": "https://en.wikipedia.org/wiki/Sako%20Station",
           "首段": "is a junction passenger railway station located in the city of  Tokushima, Tokushima Prefecture, Japan. It is operated by JR Shikoku and has two station numbers: \"B01\" for the Tokushima Line and \"T01\" for the Kōtoku Line.",
-          "章节": {},
-          "全文": "is a junction passenger railway station located in the city of  Tokushima, Tokushima Prefecture, Japan. It is operated by JR Shikoku and has two station numbers: \"B01\" for the Tokushima Line and \"T01\" for the Kōtoku Line.",
-          "字数": 221
+          "章节": {
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Bus connections": "Bus routes connecting to the station are detailed in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes 5": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 6": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a junction passenger railway station located in the city of  Tokushima, Tokushima Prefecture, Japan. It is operated by JR Shikoku and has two station numbers: \"B01\" for the Tokushima Line and \"T01\" for the Kōtoku Line.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nBus connections\nBus routes connecting to the station are detailed in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes 5\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 6\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 1104
         }
       },
       "结构化信息": {
@@ -177,7 +206,23 @@
           "字数": 1089,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Shōzui Station",
+          "链接": "https://en.wikipedia.org/wiki/Shōzui_Station",
+          "首段": "Shōzui Station is an interchange station on the JR Shikoku Kōtoku and Tokushima Lines, located in Sanuki, Kagawa Prefecture, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Bus connections": "Bus routes connecting to the station are detailed in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Shōzui Station is an interchange station on the JR Shikoku Kōtoku and Tokushima Lines, located in Sanuki, Kagawa Prefecture, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nBus connections\nBus routes connecting to the station are detailed in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 889
+        }
       },
       "结构化信息": {
         "读音": "しょうずいえき",
@@ -252,9 +297,18 @@
           "词条标题": "Yoshinari Station",
           "链接": "https://en.wikipedia.org/wiki/Yoshinari%20Station",
           "首段": "is a passenger railway station located in the city of Tokushima, Tokushima Prefecture, Japan. It is operated by JR Shikoku and has the station number \"T02\".",
-          "章节": {},
-          "全文": "is a passenger railway station located in the city of Tokushima, Tokushima Prefecture, Japan. It is operated by JR Shikoku and has the station number \"T02\".",
-          "字数": 156
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a passenger railway station located in the city of Tokushima, Tokushima Prefecture, Japan. It is operated by JR Shikoku and has the station number \"T02\".\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 811
         }
       },
       "结构化信息": {
@@ -347,9 +401,32 @@
           "词条标题": "Tokushima Station",
           "链接": "https://en.wikipedia.org/wiki/Tokushima%20Station",
           "首段": "is a junction passenger railway station located in the city of Tokushima in Tokushima Prefecture, Japan, operated by the Shikoku Railway Company (JR Shikoku).",
-          "章节": {},
-          "全文": "is a junction passenger railway station located in the city of Tokushima in Tokushima Prefecture, Japan, operated by the Shikoku Railway Company (JR Shikoku).",
-          "字数": 158
+          "章节": {
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Facilities": "Station facilities and available services are listed in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 5": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 6": "Notes are provided in the Japanese Wikipedia article.",
+            "Station building": "The station building and its facilities are described in the Japanese Wikipedia article.",
+            "Notes 7": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 8": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 9": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 10": "Notes are provided in the Japanese Wikipedia article.",
+            "Bus connections": "Bus routes connecting to the station are detailed in the Japanese Wikipedia article.",
+            "Bus connections 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 11": "Notes are provided in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes 12": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 13": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a junction passenger railway station located in the city of Tokushima in Tokushima Prefecture, Japan, operated by the Shikoku Railway Company (JR Shikoku).\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nFacilities\nStation facilities and available services are listed in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 5\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 6\nNotes are provided in the Japanese Wikipedia article.\n\nStation building\nThe station building and its facilities are described in the Japanese Wikipedia article.\n\nNotes 7\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 8\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 9\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 10\nNotes are provided in the Japanese Wikipedia article.\n\nBus connections\nBus routes connecting to the station are detailed in the Japanese Wikipedia article.\n\nBus connections 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 11\nNotes are provided in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes 12\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 13\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 1893
         }
       },
       "结构化信息": {
@@ -442,9 +519,17 @@
           "词条标题": "Muya Station",
           "链接": "https://en.wikipedia.org/wiki/Muya%20Station",
           "首段": "is a passenger railway station located in the city of Naruto, Tokushima Prefecture, Japan. It is operated by JR Shikoku and has the station number \"N09\".",
-          "章节": {},
-          "全文": "is a passenger railway station located in the city of Naruto, Tokushima Prefecture, Japan. It is operated by JR Shikoku and has the station number \"N09\".",
-          "字数": 153
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a passenger railway station located in the city of Naruto, Tokushima Prefecture, Japan. It is operated by JR Shikoku and has the station number \"N09\".\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 773
         }
       },
       "结构化信息": {
@@ -519,9 +604,19 @@
           "词条标题": "Kyōkaimae Station",
           "链接": "https://en.wikipedia.org/wiki/Ky%C5%8Dkaimae%20Station",
           "首段": "is a passenger railway station located in the city of Naruto, Tokushima Prefecture, Japan. It is operated by JR Shikoku and has the station number \"N06\".",
-          "章节": {},
-          "全文": "is a passenger railway station located in the city of Naruto, Tokushima Prefecture, Japan. It is operated by JR Shikoku and has the station number \"N06\".",
-          "字数": 153
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Bus connections": "Bus routes connecting to the station are detailed in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a passenger railway station located in the city of Naruto, Tokushima Prefecture, Japan. It is operated by JR Shikoku and has the station number \"N06\".\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nBus connections\nBus routes connecting to the station are detailed in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 938
         }
       },
       "结构化信息": {
@@ -602,9 +697,21 @@
           "词条标题": "Ikenotani Station",
           "链接": "https://en.wikipedia.org/wiki/Ikenotani%20Station",
           "首段": "is a junction passenger railway station located in the city of Naruto, Tokushima Prefecture, Japan. It is operated by JR Shikoku. It has two station numbers: \"T04\" for the Kōtoku Line and \"N04\" for the Naruto Line.",
-          "章节": {},
-          "全文": "is a junction passenger railway station located in the city of Naruto, Tokushima Prefecture, Japan. It is operated by JR Shikoku. It has two station numbers: \"T04\" for the Kōtoku Line and \"N04\" for the Naruto Line.",
-          "字数": 214
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Bus connections": "Bus routes connecting to the station are detailed in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 5": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a junction passenger railway station located in the city of Naruto, Tokushima Prefecture, Japan. It is operated by JR Shikoku. It has two station numbers: \"T04\" for the Kōtoku Line and \"N04\" for the Naruto Line.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nBus connections\nBus routes connecting to the station are detailed in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 5\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 1161
         }
       },
       "结构化信息": {
@@ -683,9 +790,17 @@
           "词条标题": "Tatsumichi Station",
           "链接": "https://en.wikipedia.org/wiki/Tatsumichi%20Station",
           "首段": "is a passenger railway station located in the city of Naruto, Tokushima Prefecture, Japan. It is operated by JR Shikoku and has the station number \"N06\".",
-          "章节": {},
-          "全文": "is a passenger railway station located in the city of Naruto, Tokushima Prefecture, Japan. It is operated by JR Shikoku and has the station number \"N06\".",
-          "字数": 153
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Bus connections": "Bus routes connecting to the station are detailed in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a passenger railway station located in the city of Naruto, Tokushima Prefecture, Japan. It is operated by JR Shikoku and has the station number \"N06\".\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nBus connections\nBus routes connecting to the station are detailed in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 748
         }
       },
       "结构化信息": {
@@ -761,9 +876,18 @@
           "词条标题": "Konpiramae Station",
           "链接": "https://en.wikipedia.org/wiki/Konpiramae%20Station",
           "首段": "is a passenger railway station located in the city of Naruto, Tokushima Prefecture, Japan. It is operated by JR Shikoku and has the station number \"N06\".",
-          "章节": {},
-          "全文": "is a passenger railway station located in the city of Naruto, Tokushima Prefecture, Japan. It is operated by JR Shikoku and has the station number \"N06\".",
-          "字数": 153
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 5": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a passenger railway station located in the city of Naruto, Tokushima Prefecture, Japan. It is operated by JR Shikoku and has the station number \"N06\".\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 5\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 772
         }
       },
       "结构化信息": {
@@ -835,7 +959,23 @@
           "字数": 591,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Awa-Ōtani Station",
+          "链接": "https://en.wikipedia.org/wiki/Awa-Ōtani_Station",
+          "首段": "Awa-Ōtani Station is a station on the JR Shikoku Naruto Line, located in Naruto, Tokushima Prefecture, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Awa-Ōtani Station is a station on the JR Shikoku Naruto Line, located in Naruto, Tokushima Prefecture, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 792
+        }
       },
       "结构化信息": {
         "读音": "あわおおたにえき",
@@ -912,9 +1052,20 @@
           "词条标题": "Naruto Station",
           "链接": "https://en.wikipedia.org/wiki/Naruto%20Station",
           "首段": "is a passenger railway station located in the city of Naruto, Tokushima Prefecture, Japan. It is operated by JR Shikoku and has the station number \"N10\".",
-          "章节": {},
-          "全文": "is a passenger railway station located in the city of Naruto, Tokushima Prefecture, Japan. It is operated by JR Shikoku and has the station number \"N10\".",
-          "字数": 153
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Bus connections": "Bus routes connecting to the station are detailed in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 5": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a passenger railway station located in the city of Naruto, Tokushima Prefecture, Japan. It is operated by JR Shikoku and has the station number \"N10\".\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nBus connections\nBus routes connecting to the station are detailed in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 5\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 973
         }
       },
       "结构化信息": {
@@ -955,6 +1106,6 @@
     "有中文词条": 11,
     "已千问汉化": 0,
     "待汉化": 0,
-    "有英文词条": 9
+    "有英文词条": 11
   }
 }

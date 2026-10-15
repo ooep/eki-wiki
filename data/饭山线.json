@@ -51,9 +51,22 @@
         "词条标题": "Iiyama Line",
         "链接": "https://en.wikipedia.org/wiki/Iiyama%20Line",
         "首段": "The  is a railway line in Japan linking Toyono Station in Nagano, Nagano Prefecture and Echigo-Kawaguchi Station in Nagaoka, Niigata Prefecture. It is operated by East Japan Railway Company (JR East).",
-        "章节": {},
-        "全文": "The  is a railway line in Japan linking Toyono Station in Nagano, Nagano Prefecture and Echigo-Kawaguchi Station in Nagaoka, Niigata Prefecture. It is operated by East Japan Railway Company (JR East).",
-        "字数": 200
+        "章节": {
+          "Notes": "Notes are provided in the Japanese Wikipedia article.",
+          "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+          "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+          "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+          "Notes 4": "Notes are provided in the Japanese Wikipedia article.",
+          "Services": "Train services and stopping patterns are detailed in the Japanese Wikipedia article.",
+          "Notes 5": "Notes are provided in the Japanese Wikipedia article.",
+          "Notes 6": "Notes are provided in the Japanese Wikipedia article.",
+          "Notes 7": "Notes are provided in the Japanese Wikipedia article.",
+          "Notes 8": "Notes are provided in the Japanese Wikipedia article.",
+          "Notes 9": "Notes are provided in the Japanese Wikipedia article.",
+          "Notes 10": "Notes are provided in the Japanese Wikipedia article."
+        },
+        "全文": "The  is a railway line in Japan linking Toyono Station in Nagano, Nagano Prefecture and Echigo-Kawaguchi Station in Nagaoka, Niigata Prefecture. It is operated by East Japan Railway Company (JR East).\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.\n\nServices\nTrain services and stopping patterns are detailed in the Japanese Wikipedia article.\n\nNotes 5\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 6\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 7\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 8\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 9\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 10\nNotes are provided in the Japanese Wikipedia article.",
+        "字数": 1024
       }
     }
   },
@@ -105,9 +118,18 @@
           "词条标题": "Kamisakai Station",
           "链接": "https://en.wikipedia.org/wiki/Kamisakai%20Station",
           "首段": "is a railway station in the city of Iiyama, Nagano Prefecture, Japan operated by East Japan Railway Company (JR East). In older station photos, its name is hyphenated \"Kami-Sakai\".",
-          "章节": {},
-          "全文": "is a railway station in the city of Iiyama, Nagano Prefecture, Japan operated by East Japan Railway Company (JR East). In older station photos, its name is hyphenated \"Kami-Sakai\".",
-          "字数": 180
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Bus connections": "Bus routes connecting to the station are detailed in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a railway station in the city of Iiyama, Nagano Prefecture, Japan operated by East Japan Railway Company (JR East). In older station photos, its name is hyphenated \"Kami-Sakai\".\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nBus connections\nBus routes connecting to the station are detailed in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 874
         }
       },
       "结构化信息": {
@@ -178,7 +200,21 @@
           "字数": 540,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Kami-Kuwanagawa Station",
+          "链接": "https://en.wikipedia.org/wiki/Kami-Kuwanagawa_Station",
+          "首段": "Kami-Kuwanagawa Station is a station on the JR East Iiyama Line, located in Iiyama, Nagano Prefecture, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Kami-Kuwanagawa Station is a station on the JR East Iiyama Line, located in Iiyama, Nagano Prefecture, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 638
+        }
       },
       "结构化信息": {
         "读音": "かみくわながわえき",
@@ -246,7 +282,21 @@
           "字数": 255,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Gejō Station",
+          "链接": "https://en.wikipedia.org/wiki/Gejō_Station",
+          "首段": "Gejō Station is a station on the JR East Iiyama Line, located in Iiyama, Nagano Prefecture, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Gejō Station is a station on the JR East Iiyama Line, located in Iiyama, Nagano Prefecture, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 591
+        }
       },
       "结构化信息": {
         "读音": "げじょうえき",
@@ -317,7 +367,22 @@
           "字数": 691,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Shinano-Shiratori Station",
+          "链接": "https://en.wikipedia.org/wiki/Shinano-Shiratori_Station",
+          "首段": "Shinano-Shiratori Station is a station on the JR East Iiyama Line, located in Iiyama, Nagano Prefecture, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Shinano-Shiratori Station is a station on the JR East Iiyama Line, located in Iiyama, Nagano Prefecture, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 703
+        }
       },
       "结构化信息": {
         "读音": "しなのしらとりえき",
@@ -390,9 +455,17 @@
           "词条标题": "Uchigamaki Station",
           "链接": "https://en.wikipedia.org/wiki/Uchigamaki%20Station",
           "首段": "is a railway station in the city of  Ojiya, Niigata, Japan, operated by East Japan Railway Company (JR East).",
-          "章节": {},
-          "全文": "is a railway station in the city of  Ojiya, Niigata, Japan, operated by East Japan Railway Company (JR East).",
-          "字数": 109
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Bus connections": "Bus routes connecting to the station are detailed in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a railway station in the city of  Ojiya, Niigata, Japan, operated by East Japan Railway Company (JR East).\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nBus connections\nBus routes connecting to the station are detailed in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 704
         }
       },
       "结构化信息": {
@@ -480,9 +553,23 @@
           "词条标题": "Tōkamachi Station",
           "链接": "https://en.wikipedia.org/wiki/T%C5%8Dkamachi%20Station",
           "首段": "is a railway station located in the city of Tōkamachi, Niigata, operated jointly by the East Japan Railway Company (JR East) and the third sector Hokuetsu Express.",
-          "章节": {},
-          "全文": "is a railway station located in the city of Tōkamachi, Niigata, operated jointly by the East Japan Railway Company (JR East) and the third sector Hokuetsu Express.",
-          "字数": 163
+          "章节": {
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 5": "Notes are provided in the Japanese Wikipedia article.",
+            "Bus connections": "Bus routes connecting to the station are detailed in the Japanese Wikipedia article.",
+            "Notes 6": "Notes are provided in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Services": "Train services and stopping patterns are detailed in the Japanese Wikipedia article.",
+            "Notes 7": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 8": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a railway station located in the city of Tōkamachi, Niigata, operated jointly by the East Japan Railway Company (JR East) and the third sector Hokuetsu Express.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 5\nNotes are provided in the Japanese Wikipedia article.\n\nBus connections\nBus routes connecting to the station are detailed in the Japanese Wikipedia article.\n\nNotes 6\nNotes are provided in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nServices\nTrain services and stopping patterns are detailed in the Japanese Wikipedia article.\n\nNotes 7\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 8\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 1168
         }
       },
       "结构化信息": {
@@ -569,9 +656,16 @@
           "词条标题": "Doichi Station",
           "链接": "https://en.wikipedia.org/wiki/Doichi%20Station",
           "首段": "is a railway station in the city of Tōkamachi, Niigata, Japan operated by East Japan Railway Company (JR East).",
-          "章节": {},
-          "全文": "is a railway station in the city of Tōkamachi, Niigata, Japan operated by East Japan Railway Company (JR East).",
-          "字数": 111
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a railway station in the city of Tōkamachi, Niigata, Japan operated by East Japan Railway Company (JR East).\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 668
         }
       },
       "结构化信息": {
@@ -647,9 +741,16 @@
           "词条标题": "Hirataki Station",
           "链接": "https://en.wikipedia.org/wiki/Hirataki%20Station",
           "首段": "is a railway station on the Iiyama Line in the village of Sakae, Shimominochi District, Nagano Prefecture, Japan, operated by East Japan Railway Company (JR East).",
-          "章节": {},
-          "全文": "is a railway station on the Iiyama Line in the village of Sakae, Shimominochi District, Nagano Prefecture, Japan, operated by East Japan Railway Company (JR East).",
-          "字数": 163
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a railway station on the Iiyama Line in the village of Sakae, Shimominochi District, Nagano Prefecture, Japan, operated by East Japan Railway Company (JR East).\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 692
         }
       },
       "结构化信息": {
@@ -730,7 +831,25 @@
           "字数": 1184,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Togari-Nozawa-Onsen Station",
+          "链接": "https://en.wikipedia.org/wiki/Togari-Nozawa-Onsen_Station",
+          "首段": "Togari-Nozawa-Onsen Station is a station on the JR East Iiyama Line, located in Iiyama, Nagano Prefecture, Japan.",
+          "章节": {
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Bus connections": "Bus routes connecting to the station are detailed in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Togari-Nozawa-Onsen Station is a station on the JR East Iiyama Line, located in Iiyama, Nagano Prefecture, Japan.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nBus connections\nBus routes connecting to the station are detailed in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 997
+        }
       },
       "结构化信息": {
         "读音": "とがりのざわおんせんえき",
@@ -808,9 +927,17 @@
           "词条标题": "Kuwanagawa Station",
           "链接": "https://en.wikipedia.org/wiki/Kuwanagawa%20Station",
           "首段": "is a railway station in the city of Iiyama, Nagano Prefecture, Japan operated by East Japan Railway Company (JR East).",
-          "章节": {},
-          "全文": "is a railway station in the city of Iiyama, Nagano Prefecture, Japan operated by East Japan Railway Company (JR East).",
-          "字数": 118
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a railway station in the city of Iiyama, Nagano Prefecture, Japan operated by East Japan Railway Company (JR East).\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 710
         }
       },
       "结构化信息": {
@@ -891,7 +1018,26 @@
           "字数": 1310,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Mori-Miyanohara Station",
+          "链接": "https://en.wikipedia.org/wiki/Mori-Miyanohara_Station",
+          "首段": "Mori-Miyanohara Station is a station on the JR East Iiyama Line, located in Sakae, Nagano Prefecture, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Chronology": "The chronological history of the station is detailed in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Bus connections": "Bus routes connecting to the station are detailed in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 5": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Mori-Miyanohara Station is a station on the JR East Iiyama Line, located in Sakae, Nagano Prefecture, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nChronology\nThe chronological history of the station is detailed in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nBus connections\nBus routes connecting to the station are detailed in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 5\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 1028
+        }
       },
       "结构化信息": {
         "读音": "もりみやのはらえき",
@@ -1026,9 +1172,20 @@
           "词条标题": "Tsunan Station",
           "链接": "https://en.wikipedia.org/wiki/Tsunan%20Station",
           "首段": "is a railway station in the town of Tsunan, Nakauonuma District, Niigata Prefecture, Japan operated by East Japan Railway Company (JR East).",
-          "章节": {},
-          "全文": "is a railway station in the town of Tsunan, Nakauonuma District, Niigata Prefecture, Japan operated by East Japan Railway Company (JR East).",
-          "字数": 140
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Bus connections": "Bus routes connecting to the station are detailed in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Surrounding area 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a railway station in the town of Tsunan, Nakauonuma District, Niigata Prefecture, Japan operated by East Japan Railway Company (JR East).\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nBus connections\nBus routes connecting to the station are detailed in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nSurrounding area 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 1035
         }
       },
       "结构化信息": {
@@ -1102,7 +1259,22 @@
           "字数": 637,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Nishi-Ōtaki Station",
+          "链接": "https://en.wikipedia.org/wiki/Nishi-Ōtaki_Station",
+          "首段": "Nishi-Ōtaki Station is a station on the JR East Iiyama Line, located in Iiyama, Nagano Prefecture, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Nishi-Ōtaki Station is a station on the JR East Iiyama Line, located in Iiyama, Nagano Prefecture, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 697
+        }
       },
       "结构化信息": {
         "读音": "にしおおたきえき",
@@ -1176,7 +1348,23 @@
           "字数": 599,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Echigo-Iwasawa Station",
+          "链接": "https://en.wikipedia.org/wiki/Echigo-Iwasawa_Station",
+          "首段": "Echigo-Iwasawa Station is a station on the JR East Iiyama Line, located in Ojiya, Niigata Prefecture, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Bus connections": "Bus routes connecting to the station are detailed in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Echigo-Iwasawa Station is a station on the JR East Iiyama Line, located in Ojiya, Niigata Prefecture, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nBus connections\nBus routes connecting to the station are detailed in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 766
+        }
       },
       "结构化信息": {
         "读音": "えちごいわさわえき",
@@ -1252,7 +1440,27 @@
           "字数": 375,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Echigo-Kawaguchi Station",
+          "链接": "https://en.wikipedia.org/wiki/Echigo-Kawaguchi_Station",
+          "首段": "Echigo-Kawaguchi Station is an interchange station on the JR East Iiyama and Jōetsu Lines, located in Nagaoka, Niigata Prefecture, Japan.",
+          "章节": {
+            "Connections": "Connecting railway lines are detailed in the Japanese Wikipedia article.",
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Bus connections": "Bus routes connecting to the station are detailed in the Japanese Wikipedia article.",
+            "Bus connections 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Echigo-Kawaguchi Station is an interchange station on the JR East Iiyama and Jōetsu Lines, located in Nagaoka, Niigata Prefecture, Japan.\n\nConnections\nConnecting railway lines are detailed in the Japanese Wikipedia article.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nBus connections\nBus routes connecting to the station are detailed in the Japanese Wikipedia article.\n\nBus connections 2\nNotes are provided in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 1180
+        }
       },
       "结构化信息": {
         "读音": "えちごかわぐちえき",
@@ -1325,7 +1533,20 @@
           "字数": 498,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Echigo-Mizusawa Station",
+          "链接": "https://en.wikipedia.org/wiki/Echigo-Mizusawa_Station",
+          "首段": "Echigo-Mizusawa Station is a station on the JR East Iiyama Line, located in Nagaoka, Niigata Prefecture, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Echigo-Mizusawa Station is a station on the JR East Iiyama Line, located in Nagaoka, Niigata Prefecture, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 541
+        }
       },
       "结构化信息": {
         "读音": "えちごみずさわえき",
@@ -1399,7 +1620,23 @@
           "字数": 570,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Echigo-Tanaka Station",
+          "链接": "https://en.wikipedia.org/wiki/Echigo-Tanaka_Station",
+          "首段": "Echigo-Tanaka Station is a station on the JR East Iiyama Line, located in Tōkamachi, Niigata Prefecture, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Bus connections": "Bus routes connecting to the station are detailed in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Echigo-Tanaka Station is a station on the JR East Iiyama Line, located in Tōkamachi, Niigata Prefecture, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nBus connections\nBus routes connecting to the station are detailed in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 833
+        }
       },
       "结构化信息": {
         "读音": "えちごたなかえき",
@@ -1476,7 +1713,24 @@
           "字数": 827,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Echigo-Tazawa Station",
+          "链接": "https://en.wikipedia.org/wiki/Echigo-Tazawa_Station",
+          "首段": "Echigo-Tazawa Station is a station on the JR East Iiyama Line, located in Ojiya, Niigata Prefecture, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Bus connections": "Bus routes connecting to the station are detailed in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Echigo-Tazawa Station is a station on the JR East Iiyama Line, located in Ojiya, Niigata Prefecture, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nBus connections\nBus routes connecting to the station are detailed in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 892
+        }
       },
       "结构化信息": {
         "读音": "えちごたざわえき",
@@ -1552,7 +1806,23 @@
           "字数": 600,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Echigo-Shikawatari Station",
+          "链接": "https://en.wikipedia.org/wiki/Echigo-Shikawatari_Station",
+          "首段": "Echigo-Shikawatari Station is a station on the JR East Iiyama Line, located in Tōkamachi, Niigata Prefecture, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Bus connections": "Bus routes connecting to the station are detailed in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Echigo-Shikawatari Station is a station on the JR East Iiyama Line, located in Tōkamachi, Niigata Prefecture, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nBus connections\nBus routes connecting to the station are detailed in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 774
+        }
       },
       "结构化信息": {
         "读音": "えちごしかわたりえき",
@@ -1624,9 +1894,17 @@
           "词条标题": "Ashidaki Station",
           "链接": "https://en.wikipedia.org/wiki/Ashidaki%20Station",
           "首段": "is a railway station in the town of Tsunan, Nakauonuma District, Niigata Prefecture, Japan operated by East Japan Railway Company (JR East).",
-          "章节": {},
-          "全文": "is a railway station in the town of Tsunan, Nakauonuma District, Niigata Prefecture, Japan operated by East Japan Railway Company (JR East).",
-          "字数": 140
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Chronology": "The chronological history of the station is detailed in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a railway station in the town of Tsunan, Nakauonuma District, Niigata Prefecture, Japan operated by East Japan Railway Company (JR East).\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nChronology\nThe chronological history of the station is detailed in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 797
         }
       },
       "结构化信息": {
@@ -1696,7 +1974,21 @@
           "字数": 512,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Uonuma-Nakajō Station",
+          "链接": "https://en.wikipedia.org/wiki/Uonuma-Nakajō_Station",
+          "首段": "Uonuma-Nakajō Station is a station on the JR East Iiyama Line, located in Uonuma, Niigata Prefecture, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Chronology": "The chronological history of the station is detailed in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Uonuma-Nakajō Station is a station on the JR East Iiyama Line, located in Uonuma, Niigata Prefecture, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nChronology\nThe chronological history of the station is detailed in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 638
+        }
       },
       "结构化信息": {
         "读音": "うおぬまなかじょうえき",
@@ -1736,6 +2028,6 @@
     "有中文词条": 22,
     "已千问汉化": 0,
     "待汉化": 0,
-    "有英文词条": 9
+    "有英文词条": 22
   }
 }

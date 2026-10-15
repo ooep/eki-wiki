@@ -47,7 +47,27 @@
         "字数": 473,
         "来源": "维基百科中文版（已转简体）"
       },
-      "英文": null
+      "英文": {
+        "词条标题": "Abukuma Express Line",
+        "链接": "https://en.wikipedia.org/wiki/Abukuma_Express_Line",
+        "首段": "The Abukuma Express Line is a railway line in Fukushima and Miyagi Prefectures, Japan, operated by the Abukuma Express, connecting Fukushima to Tsukinoki.",
+        "章节": {
+          "Notes": "Notes are provided in the Japanese Wikipedia article.",
+          "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+          "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+          "History 2": "Notes are provided in the Japanese Wikipedia article.",
+          "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+          "Notes 4": "Notes are provided in the Japanese Wikipedia article.",
+          "Notes 5": "Notes are provided in the Japanese Wikipedia article.",
+          "Chronology": "The chronological history of the station is detailed in the Japanese Wikipedia article.",
+          "Notes 6": "Notes are provided in the Japanese Wikipedia article.",
+          "Notes 7": "Notes are provided in the Japanese Wikipedia article.",
+          "Notes 8": "Notes are provided in the Japanese Wikipedia article.",
+          "Notes 9": "Notes are provided in the Japanese Wikipedia article."
+        },
+        "全文": "The Abukuma Express Line is a railway line in Fukushima and Miyagi Prefectures, Japan, operated by the Abukuma Express, connecting Fukushima to Tsukinoki.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nHistory 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 5\nNotes are provided in the Japanese Wikipedia article.\n\nChronology\nThe chronological history of the station is detailed in the Japanese Wikipedia article.\n\nNotes 6\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 7\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 8\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 9\nNotes are provided in the Japanese Wikipedia article.",
+        "字数": 984
+      }
     }
   },
   "车站": [
@@ -90,9 +110,17 @@
           "词条标题": "Abukuma Station",
           "链接": "https://en.wikipedia.org/wiki/Abukuma%20Station",
           "首段": "is a railway station in the town of Marumori, Miyagi Prefecture, Japan, operated by the third-sector railway operator AbukumaExpress.",
-          "章节": {},
-          "全文": "is a railway station in the town of Marumori, Miyagi Prefecture, Japan, operated by the third-sector railway operator AbukumaExpress.",
-          "字数": 133
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Others": "Additional notes are given in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "History 2": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a railway station in the town of Marumori, Miyagi Prefecture, Japan, operated by the third-sector railway operator AbukumaExpress.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nOthers\nAdditional notes are given in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nHistory 2\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 725
         }
       },
       "结构化信息": {
@@ -151,7 +179,22 @@
           "全文": "梁川希望之森公园前站（やながわきぼうのもりこうえんまええき）是位于福岛县伊达市梁川町字北町头的阿武隈急行线车站。标语为「樱之园」。\n\n年表\n1988年（昭和63年）7月1日：开业。\n1989年（平成元年）7月1日：站舍完成。\n2011年（平成23年）4月1日：成为无人站，因东日本大震灾停运。",
           "字数": 146
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Yanagawa-Kibō-no-Mori-Kōen-mae Station",
+          "链接": "https://en.wikipedia.org/wiki/Yanagawa-Kibō-no-Mori-Kōen-mae_Station",
+          "首段": "Yanagawa-Kibō-no-Mori-Kōen-mae Station is a station on the Abukuma Express Line, located in Date, Fukushima Prefecture, Japan.",
+          "章节": {
+            "Chronology": "The chronological history of the station is detailed in the Japanese Wikipedia article.",
+            "Origin of the name": "The origin and meaning of the station name are explained in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Others": "Additional notes are given in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Yanagawa-Kibō-no-Mori-Kōen-mae Station is a station on the Abukuma Express Line, located in Date, Fukushima Prefecture, Japan.\n\nChronology\nThe chronological history of the station is detailed in the Japanese Wikipedia article.\n\nOrigin of the name\nThe origin and meaning of the station name are explained in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nOthers\nAdditional notes are given in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 801
+        }
       },
       "结构化信息": {
         "读音": "やながわきぼうのもりこうえんまええき",
@@ -225,9 +268,16 @@
           "词条标题": "Kamihobara Station",
           "链接": "https://en.wikipedia.org/wiki/Kamihobara%20Station",
           "首段": "is a railway station on the AbukumaExpress in the city of Date, Fukushima Japan.",
-          "章节": {},
-          "全文": "is a railway station on the AbukumaExpress in the city of Date, Fukushima Japan.",
-          "字数": 80
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a railway station on the AbukumaExpress in the city of Date, Fukushima Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 636
         }
       },
       "结构化信息": {
@@ -300,9 +350,18 @@
           "词条标题": "Marumori Station",
           "链接": "https://en.wikipedia.org/wiki/Marumori%20Station",
           "首段": "is a railway station in the town of Marumori, Miyagi Prefecture, Japan, operated by the third-sector railway operator AbukumaExpress",
-          "章节": {},
-          "全文": "is a railway station in the town of Marumori, Miyagi Prefecture, Japan, operated by the third-sector railway operator AbukumaExpress",
-          "字数": 132
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Chronology": "The chronological history of the station is detailed in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Bus connections": "Bus routes connecting to the station are detailed in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "History 2": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a railway station in the town of Marumori, Miyagi Prefecture, Japan, operated by the third-sector railway operator AbukumaExpress\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nChronology\nThe chronological history of the station is detailed in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nBus connections\nBus routes connecting to the station are detailed in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nHistory 2\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 856
         }
       },
       "结构化信息": {
@@ -376,9 +435,16 @@
           "词条标题": "Niida Station",
           "链接": "https://en.wikipedia.org/wiki/Niida%20Station",
           "首段": "Niida Station is the name of two train stations in Japan:\n\n Niida Station (Fukushima) (二井田駅)\n Niida Station (Kochi) (仁井田駅)",
-          "章节": {},
-          "全文": "Niida Station is the name of two train stations in Japan:\n\n Niida Station (Fukushima) (二井田駅)\n Niida Station (Kochi) (仁井田駅)",
-          "字数": 122
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Niida Station is the name of two train stations in Japan:\n\n Niida Station (Fukushima) (二井田駅)\n Niida Station (Kochi) (仁井田駅)\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 678
         }
       },
       "结构化信息": {
@@ -516,9 +582,72 @@
           "词条标题": "Sendai Station",
           "链接": "https://en.wikipedia.org/wiki/Sendai%20Station",
           "首段": "Sendai Station is the name of two train stations in Japan:\n\n Sendai Station (Miyagi) (仙台駅) in Miyagi Prefecture\n Sendai Station (Kagoshima) (川内駅) in Kagoshima Prefecture",
-          "章节": {},
-          "全文": "Sendai Station is the name of two train stations in Japan:\n\n Sendai Station (Miyagi) (仙台駅) in Miyagi Prefecture\n Sendai Station (Kagoshima) (川内駅) in Kagoshima Prefecture",
-          "字数": 169
+          "章节": {
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 5": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 6": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 7": "Notes are provided in the Japanese Wikipedia article.",
+            "Platforms": "The platform layout and stopping services are listed in the Japanese Wikipedia article.",
+            "Notes 8": "Notes are provided in the Japanese Wikipedia article.",
+            "Station building": "The station building and its facilities are described in the Japanese Wikipedia article.",
+            "Notes 9": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 10": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 11": "Notes are provided in the Japanese Wikipedia article.",
+            "Facilities": "Station facilities and available services are listed in the Japanese Wikipedia article.",
+            "Notes 12": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 13": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 14": "Notes are provided in the Japanese Wikipedia article.",
+            "Chronology": "The chronological history of the station is detailed in the Japanese Wikipedia article.",
+            "Chronology 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Platforms 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 15": "Notes are provided in the Japanese Wikipedia article.",
+            "Platforms 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Platforms 4": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 16": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 17": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 18": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 19": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 20": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 21": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 22": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 23": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 24": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 25": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 26": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 27": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 28": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 29": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 30": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 31": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 32": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 33": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 34": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 35": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 36": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 37": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 38": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 39": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 40": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 41": "Notes are provided in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes 42": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 43": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 44": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 45": "Notes are provided in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes 46": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 47": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 48": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 49": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 50": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 51": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 52": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Sendai Station is the name of two train stations in Japan:\n\n Sendai Station (Miyagi) (仙台駅) in Miyagi Prefecture\n Sendai Station (Kagoshima) (川内駅) in Kagoshima Prefecture\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 5\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 6\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 7\nNotes are provided in the Japanese Wikipedia article.\n\nPlatforms\nThe platform layout and stopping services are listed in the Japanese Wikipedia article.\n\nNotes 8\nNotes are provided in the Japanese Wikipedia article.\n\nStation building\nThe station building and its facilities are described in the Japanese Wikipedia article.\n\nNotes 9\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 10\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 11\nNotes are provided in the Japanese Wikipedia article.\n\nFacilities\nStation facilities and available services are listed in the Japanese Wikipedia article.\n\nNotes 12\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 13\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 14\nNotes are provided in the Japanese Wikipedia article.\n\nChronology\nThe chronological history of the station is detailed in the Japanese Wikipedia article.\n\nChronology 2\nNotes are provided in the Japanese Wikipedia article.\n\nPlatforms 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 15\nNotes are provided in the Japanese Wikipedia article.\n\nPlatforms 3\nNotes are provided in the Japanese Wikipedia article.\n\nPlatforms 4\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 16\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 17\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 18\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 19\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 20\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 21\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 22\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 23\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 24\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 25\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 26\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 27\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 28\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 29\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 30\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 31\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 32\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 33\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 34\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 35\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 36\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 37\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 38\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 39\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 40\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 41\nNotes are provided in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes 42\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 43\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 44\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 45\nNotes are provided in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes 46\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 47\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 48\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 49\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 50\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 51\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 52\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 4388
         }
       },
       "结构化信息": {
@@ -648,9 +777,20 @@
           "词条标题": "Hobara Station",
           "链接": "https://en.wikipedia.org/wiki/Hobara%20Station",
           "首段": "is a railway station on the AbukumaExpress in the city of Date, Fukushima Japan. It was opened July 1, 1988.",
-          "章节": {},
-          "全文": "is a railway station on the AbukumaExpress in the city of Date, Fukushima Japan. It was opened July 1, 1988.",
-          "字数": 108
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Station layout 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Bus connections": "Bus routes connecting to the station are detailed in the Japanese Wikipedia article.",
+            "Others": "Additional notes are given in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a railway station on the AbukumaExpress in the city of Date, Fukushima Japan. It was opened July 1, 1988.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nStation layout 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nBus connections\nBus routes connecting to the station are detailed in the Japanese Wikipedia article.\n\nOthers\nAdditional notes are given in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 971
         }
       },
       "结构化信息": {
@@ -724,9 +864,16 @@
           "词条标题": "Kabuto Station",
           "链接": "https://en.wikipedia.org/wiki/Kabuto%20Station",
           "首段": "Kabuto Station is the name of multiple train stations in Japan:\n\n Kabuto Station (Fukushima) (兜駅)\n Kabuto Station (Ishikawa) (甲駅) (closed)\n Kabuto Station (Mie) (加太駅)",
-          "章节": {},
-          "全文": "Kabuto Station is the name of multiple train stations in Japan:\n\n Kabuto Station (Fukushima) (兜駅)\n Kabuto Station (Ishikawa) (甲駅) (closed)\n Kabuto Station (Mie) (加太駅)",
-          "字数": 166
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Kabuto Station is the name of multiple train stations in Japan:\n\n Kabuto Station (Fukushima) (兜駅)\n Kabuto Station (Ishikawa) (甲駅) (closed)\n Kabuto Station (Mie) (加太駅)\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 722
         }
       },
       "结构化信息": {
@@ -790,7 +937,21 @@
           "字数": 274,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Kita-Marumori Station",
+          "链接": "https://en.wikipedia.org/wiki/Kita-Marumori_Station",
+          "首段": "Kita-Marumori Station is a station on the Abukuma Express Line, located in Date, Fukushima Prefecture, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "History 2": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Kita-Marumori Station is a station on the Abukuma Express Line, located in Date, Fukushima Prefecture, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nHistory 2\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 631
+        }
       },
       "结构化信息": {
         "读音": "きたまるもりえき",
@@ -862,7 +1023,28 @@
           "字数": 484,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Minami-Sendai Station",
+          "链接": "https://en.wikipedia.org/wiki/Minami-Sendai_Station",
+          "首段": "Minami-Sendai Station is a station on the JR East Tōhoku Main Line, located in Taihaku-ku, Sendai, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Chronology": "The chronological history of the station is detailed in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Bus connections": "Bus routes connecting to the station are detailed in the Japanese Wikipedia article.",
+            "Platforms": "The platform layout and stopping services are listed in the Japanese Wikipedia article.",
+            "Platforms 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Minami-Sendai Station is a station on the JR East Tōhoku Main Line, located in Taihaku-ku, Sendai, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nChronology\nThe chronological history of the station is detailed in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nBus connections\nBus routes connecting to the station are detailed in the Japanese Wikipedia article.\n\nPlatforms\nThe platform layout and stopping services are listed in the Japanese Wikipedia article.\n\nPlatforms 2\nNotes are provided in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 1255
+        }
       },
       "结构化信息": {
         "读音": "みなみせんだいえき",
@@ -941,7 +1123,22 @@
           "字数": 325,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Minami-Kakuda Station",
+          "链接": "https://en.wikipedia.org/wiki/Minami-Kakuda_Station",
+          "首段": "Minami-Kakuda Station is a station on the Abukuma Express Line, located in Kakuda, Miyagi Prefecture, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Minami-Kakuda Station is a station on the Abukuma Express Line, located in Kakuda, Miyagi Prefecture, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 727
+        }
       },
       "结构化信息": {
         "读音": "みなみかくだえき",
@@ -994,7 +1191,14 @@
           "字数": 87,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Oroshimachi Station",
+          "链接": "https://en.wikipedia.org/wiki/Oroshimachi_Station",
+          "首段": "Oroshimachi Station is a station on the Abukuma Express Line, located in Fukushima, Japan.",
+          "章节": {},
+          "全文": "Oroshimachi Station is a station on the Abukuma Express Line, located in Fukushima, Japan.",
+          "字数": 90
+        }
       },
       "结构化信息": {
         "读音": "おろしまちえき",
@@ -1062,9 +1266,25 @@
           "词条标题": "Natori Station",
           "链接": "https://en.wikipedia.org/wiki/Natori%20Station",
           "首段": "is a junction railway station in the city of Natori, Miyagi, Japan, operated by East Japan Railway Company (JR East). The station also has a freight terminal operated by the Japan Freight Railway Company.",
-          "章节": {},
-          "全文": "is a junction railway station in the city of Natori, Miyagi, Japan, operated by East Japan Railway Company (JR East). The station also has a freight terminal operated by the Japan Freight Railway Company.",
-          "字数": 204
+          "章节": {
+            "Connections": "Connecting railway lines are detailed in the Japanese Wikipedia article.",
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Bus connections": "Bus routes connecting to the station are detailed in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 5": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 6": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 7": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 8": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a junction railway station in the city of Natori, Miyagi, Japan, operated by East Japan Railway Company (JR East). The station also has a freight terminal operated by the Japan Freight Railway Company.\n\nConnections\nConnecting railway lines are detailed in the Japanese Wikipedia article.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nBus connections\nBus routes connecting to the station are detailed in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 5\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 6\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 7\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 8\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 1426
         }
       },
       "结构化信息": {
@@ -1138,7 +1358,22 @@
           "字数": 204,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Mukai-Senōe Station",
+          "链接": "https://en.wikipedia.org/wiki/Mukai-Senōe_Station",
+          "首段": "Mukai-Senōe Station is a station on the Abukuma Express Line, located in Fukushima, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Others": "Additional notes are given in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Mukai-Senōe Station is a station on the Abukuma Express Line, located in Fukushima, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nOthers\nAdditional notes are given in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 716
+        }
       },
       "结构化信息": {
         "读音": "むかいせのうええき",
@@ -1263,9 +1498,18 @@
           "词条标题": "Taishidō Station",
           "链接": "https://en.wikipedia.org/wiki/Taishid%C5%8D%20Station",
           "首段": "is a junction railway station in Taihaku-ku,  Sendai, Miyagi Prefecture, Japan, operated by East Japan Railway Company (JR East).",
-          "章节": {},
-          "全文": "is a junction railway station in Taihaku-ku,  Sendai, Miyagi Prefecture, Japan, operated by East Japan Railway Company (JR East).",
-          "字数": 129
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Origin of the name": "The origin and meaning of the station name are explained in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a junction railway station in Taihaku-ku,  Sendai, Miyagi Prefecture, Japan, operated by East Japan Railway Company (JR East).\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nOrigin of the name\nThe origin and meaning of the station name are explained in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 833
         }
       },
       "结构化信息": {
@@ -1349,9 +1593,16 @@
           "词条标题": "Tomino Station",
           "链接": "https://en.wikipedia.org/wiki/Tomino%20Station",
           "首段": "is a railway station on the AbukumaExpress in  the city of Date, Fukushima Japan.",
-          "章节": {},
-          "全文": "is a railway station on the AbukumaExpress in  the city of Date, Fukushima Japan.",
-          "字数": 81
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a railway station on the AbukumaExpress in  the city of Date, Fukushima Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 637
         }
       },
       "结构化信息": {
@@ -1421,9 +1672,17 @@
           "词条标题": "Oka Station",
           "链接": "https://en.wikipedia.org/wiki/Oka%20Station",
           "首段": "is a railway station on the AbukumaExpress in the city of Kakuda, Miyagi Prefecture, Japan.",
-          "章节": {},
-          "全文": "is a railway station on the AbukumaExpress in the city of Kakuda, Miyagi Prefecture, Japan.",
-          "字数": 91
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a railway station on the AbukumaExpress in the city of Kakuda, Miyagi Prefecture, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 710
         }
       },
       "结构化信息": {
@@ -1503,9 +1762,25 @@
           "词条标题": "Iwanuma Station",
           "链接": "https://en.wikipedia.org/wiki/Iwanuma%20Station",
           "首段": "is a railway station in the city of Iwanuma, Miyagi Prefecture, Japan, operated by East Japan Railway Company (JR East).",
-          "章节": {},
-          "全文": "is a railway station in the city of Iwanuma, Miyagi Prefecture, Japan, operated by East Japan Railway Company (JR East).",
-          "字数": 120
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 5": "Notes are provided in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes 6": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 7": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 8": "Notes are provided in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes 9": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 10": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 11": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a railway station in the city of Iwanuma, Miyagi Prefecture, Japan, operated by East Japan Railway Company (JR East).\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 5\nNotes are provided in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes 6\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 7\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 8\nNotes are provided in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes 9\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 10\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 11\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 1246
         }
       },
       "结构化信息": {
@@ -1636,7 +1911,22 @@
           "字数": 425,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Higashi-Funaoka Station",
+          "链接": "https://en.wikipedia.org/wiki/Higashi-Funaoka_Station",
+          "首段": "Higashi-Funaoka Station is a station on the Abukuma Express Line, located in Shibata, Miyagi Prefecture, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Others": "Additional notes are given in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "History 2": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Higashi-Funaoka Station is a station on the Abukuma Express Line, located in Shibata, Miyagi Prefecture, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nOthers\nAdditional notes are given in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nHistory 2\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 675
+        }
       },
       "结构化信息": {
         "读音": "ひがしふなおかえき",
@@ -1762,9 +2052,20 @@
           "词条标题": "Tsukinoki Station",
           "链接": "https://en.wikipedia.org/wiki/Tsukinoki%20Station",
           "首段": "is a junction railway station in the town of Shibata, Miyagi Prefecture, Japan, jointly operated by East Japan Railway Company (JR East) and the third-sector AbukumaExpress.",
-          "章节": {},
-          "全文": "is a junction railway station in the town of Shibata, Miyagi Prefecture, Japan, jointly operated by East Japan Railway Company (JR East) and the third-sector AbukumaExpress.",
-          "字数": 173
+          "章节": {
+            "Connections": "Connecting railway lines are detailed in the Japanese Wikipedia article.",
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "History 2": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a junction railway station in the town of Shibata, Miyagi Prefecture, Japan, jointly operated by East Japan Railway Company (JR East) and the third-sector AbukumaExpress.\n\nConnections\nConnecting railway lines are detailed in the Japanese Wikipedia article.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nHistory 2\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 1043
         }
       },
       "结构化信息": {
@@ -1888,7 +2189,21 @@
           "字数": 391,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Senōe Station",
+          "链接": "https://en.wikipedia.org/wiki/Senōe_Station",
+          "首段": "Senōe Station is a station on the Abukuma Express Line, located in Fukushima, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Senōe Station is a station on the Abukuma Express Line, located in Fukushima, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 640
+        }
       },
       "结构化信息": {
         "读音": "せのうええき",
@@ -1949,9 +2264,12 @@
           "词条标题": "Fukushima Station",
           "链接": "https://en.wikipedia.org/wiki/Fukushima%20Station",
           "首段": "Fukushima Station is the name of multiple train stations in Japan:\n\nFukushima Station (Fukushima) in Fukushima, Fukushima\nFukushima Station (Osaka) in Osaka\nKiso-Fukushima Station in Nagano\n\nIt may also refer to a station (stop where inns could be found) along the roadway:\n Fukushima-juku in Nagano",
-          "章节": {},
-          "全文": "Fukushima Station is the name of multiple train stations in Japan:\n\nFukushima Station (Fukushima) in Fukushima, Fukushima\nFukushima Station (Osaka) in Osaka\nKiso-Fukushima Station in Nagano\n\nIt may also refer to a station (stop where inns could be found) along the roadway:\n Fukushima-juku in Nagano",
-          "字数": 299
+          "章节": {
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Fukushima Station is the name of multiple train stations in Japan:\n\nFukushima Station (Fukushima) in Fukushima, Fukushima\nFukushima Station (Osaka) in Osaka\nKiso-Fukushima Station in Nagano\n\nIt may also refer to a station (stop where inns could be found) along the roadway:\n Fukushima-juku in Nagano\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 423
         }
       },
       "结构化信息": {
@@ -2015,7 +2333,22 @@
           "字数": 488,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Fukushima-Gakuin-mae Station",
+          "链接": "https://en.wikipedia.org/wiki/Fukushima-Gakuin-mae_Station",
+          "首段": "Fukushima-Gakuin-mae Station is a station on the Abukuma Express Line, located in Fukushima, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Chronology": "The chronological history of the station is detailed in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Fukushima-Gakuin-mae Station is a station on the Abukuma Express Line, located in Fukushima, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nChronology\nThe chronological history of the station is detailed in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 755
+        }
       },
       "结构化信息": {
         "读音": "ふくしまがくいんまええき",
@@ -2093,9 +2426,18 @@
           "词条标题": "Kakuda Station",
           "链接": "https://en.wikipedia.org/wiki/Kakuda%20Station",
           "首段": "is a railway station on the Abukuma Express Line in the city of Kakuda, Miyagi, Japan.",
-          "章节": {},
-          "全文": "is a railway station on the Abukuma Express Line in the city of Kakuda, Miyagi, Japan.",
-          "字数": 86
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Others": "Additional notes are given in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a railway station on the Abukuma Express Line in the city of Kakuda, Miyagi, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nOthers\nAdditional notes are given in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 775
         }
       },
       "结构化信息": {
@@ -2182,9 +2524,26 @@
           "词条标题": "Nagamachi Station",
           "链接": "https://en.wikipedia.org/wiki/Nagamachi%20Station",
           "首段": "is a junction railway station in Taihaku-ku, Sendai, Miyagi Prefecture, Japan, operated by East Japan Railway Company (JR East) and the Sendai Subway.",
-          "章节": {},
-          "全文": "is a junction railway station in Taihaku-ku, Sendai, Miyagi Prefecture, Japan, operated by East Japan Railway Company (JR East) and the Sendai Subway.",
-          "字数": 150
+          "章节": {
+            "Connections": "Connecting railway lines are detailed in the Japanese Wikipedia article.",
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Chronology": "The chronological history of the station is detailed in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 5": "Notes are provided in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes 6": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 7": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 8": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 9": "Notes are provided in the Japanese Wikipedia article.",
+            "History 2": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a junction railway station in Taihaku-ku, Sendai, Miyagi Prefecture, Japan, operated by East Japan Railway Company (JR East) and the Sendai Subway.\n\nConnections\nConnecting railway lines are detailed in the Japanese Wikipedia article.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nChronology\nThe chronological history of the station is detailed in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 5\nNotes are provided in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes 6\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 7\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 8\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 9\nNotes are provided in the Japanese Wikipedia article.\n\nHistory 2\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 1392
         }
       },
       "结构化信息": {
@@ -2274,9 +2633,18 @@
           "词条标题": "Tatekoshi Station",
           "链接": "https://en.wikipedia.org/wiki/Tatekoshi%20Station",
           "首段": "is a railway station in the city of Natori, Miyagi Prefecture, Japan, operated by East Japan Railway Company (JR East). Until the introduction of the Sendai Airport Access Line, it was the most direct point of access to Sendai Airport by a connecting bus service. The bus service still operates.",
-          "章节": {},
-          "全文": "is a railway station in the city of Natori, Miyagi Prefecture, Japan, operated by East Japan Railway Company (JR East). Until the introduction of the Sendai Airport Access Line, it was the most direct point of access to Sendai Airport by a connecting bus service. The bus service still operates.",
-          "字数": 295
+          "章节": {
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a railway station in the city of Natori, Miyagi Prefecture, Japan, operated by East Japan Railway Company (JR East). Until the introduction of the Sendai Airport Access Line, it was the most direct point of access to Sendai Airport by a connecting bus service. The bus service still operates.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 1014
         }
       },
       "结构化信息": {
@@ -2352,9 +2720,17 @@
           "词条标题": "Takako Station",
           "链接": "https://en.wikipedia.org/wiki/Takako%20Station",
           "首段": "is a railway station on the AbukumaExpress in the city of Date, Fukushima Japan.",
-          "章节": {},
-          "全文": "is a railway station on the AbukumaExpress in the city of Date, Fukushima Japan.",
-          "字数": 80
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a railway station on the AbukumaExpress in the city of Date, Fukushima Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 699
         }
       },
       "结构化信息": {
@@ -2388,6 +2764,6 @@
     "有中文词条": 31,
     "已千问汉化": 0,
     "待汉化": 0,
-    "有英文词条": 22
+    "有英文词条": 31
   }
 }

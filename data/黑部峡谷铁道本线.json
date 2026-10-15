@@ -44,7 +44,21 @@
         "字数": 2038,
         "来源": "维基百科中文版（已转简体）"
       },
-      "英文": null
+      "英文": {
+        "词条标题": "Kurobe Gorge Railway Main Line",
+        "链接": "https://en.wikipedia.org/wiki/Kurobe_Gorge_Railway_Main_Line",
+        "首段": "The Kurobe Gorge Railway Main Line is a scenic railway in Toyama Prefecture, Japan, operated by the Kurobe Gorge Railway.",
+        "章节": {
+          "Notes": "Notes are provided in the Japanese Wikipedia article.",
+          "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+          "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+          "Services": "Train services and stopping patterns are detailed in the Japanese Wikipedia article.",
+          "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+          "Others": "Additional notes are given in the Japanese Wikipedia article."
+        },
+        "全文": "The Kurobe Gorge Railway Main Line is a scenic railway in Toyama Prefecture, Japan, operated by the Kurobe Gorge Railway.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nServices\nTrain services and stopping patterns are detailed in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nOthers\nAdditional notes are given in the Japanese Wikipedia article.",
+        "字数": 573
+      }
     }
   },
   "车站": [
@@ -97,9 +111,20 @@
           "词条标题": "Unazuki Station",
           "链接": "https://en.wikipedia.org/wiki/Unazuki%20Station",
           "首段": "is a railway station in Kurobe, Toyama, Japan, operated by the Kurobe Gorge Railway.",
-          "章节": {},
-          "全文": "is a railway station in Kurobe, Toyama, Japan, operated by the Kurobe Gorge Railway.",
-          "字数": 84
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Services": "Train services and stopping patterns are detailed in the Japanese Wikipedia article.",
+            "Services 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article.",
+            "History 2": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a railway station in Kurobe, Toyama, Japan, operated by the Kurobe Gorge Railway.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nServices\nTrain services and stopping patterns are detailed in the Japanese Wikipedia article.\n\nServices 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.\n\nHistory 2\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 893
         }
       },
       "结构化信息": {
@@ -164,9 +189,16 @@
           "词条标题": "Keyakidaira Station",
           "链接": "https://en.wikipedia.org/wiki/Keyakidaira%20Station",
           "首段": "is a railway station operated by Kurobe Gorge Railway in Kurobe, Toyama Prefecture, Japan. Though the tracks continue southward to Kurobe Dam, access past Keyakidaira Station is limited to employees of the Kansai Electric Power Company (Kanden) and guided tours.\n\nStation overview \n\nKeyakidaira Station is composed of two separate platforms that are separated by 200 m of elevation. The lower platform, known as , is open to the general public, and is the terminus of regular passenger service. The upper platform, known as , is limited to Kanden employees only. The two platforms are connected by an elevator that is capable of carrying one train car at a time.\n\nThere are several onsens near Keyakidaira Station, some of which have ryokans operating at the springs.\n\nAdjacent stations",
-          "章节": {},
-          "全文": "is a railway station operated by Kurobe Gorge Railway in Kurobe, Toyama Prefecture, Japan. Though the tracks continue southward to Kurobe Dam, access past Keyakidaira Station is limited to employees of the Kansai Electric Power Company (Kanden) and guided tours.\n\nStation overview \n\nKeyakidaira Station is composed of two separate platforms that are separated by 200 m of elevation. The lower platform, known as , is open to the general public, and is the terminus of regular passenger service. The upper platform, known as , is limited to Kanden employees only. The two platforms are connected by an elevator that is capable of carrying one train car at a time.\n\nThere are several onsens near Keyakidaira Station, some of which have ryokans operating at the springs.\n\nAdjacent stations",
-          "字数": 786
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "History 2": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a railway station operated by Kurobe Gorge Railway in Kurobe, Toyama Prefecture, Japan. Though the tracks continue southward to Kurobe Dam, access past Keyakidaira Station is limited to employees of the Kansai Electric Power Company (Kanden) and guided tours.\n\nStation overview \n\nKeyakidaira Station is composed of two separate platforms that are separated by 200 m of elevation. The lower platform, known as , is open to the general public, and is the terminus of regular passenger service. The upper platform, known as , is limited to Kanden employees only. The two platforms are connected by an elevator that is capable of carrying one train car at a time.\n\nThere are several onsens near Keyakidaira Station, some of which have ryokans operating at the springs.\n\nAdjacent stations\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nHistory 2\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 1244
         }
       },
       "结构化信息": {
@@ -239,9 +271,18 @@
           "词条标题": "Kanetsuri Station",
           "链接": "https://en.wikipedia.org/wiki/Kanetsuri%20Station",
           "首段": "is a railway station operated by Kurobe Gorge Railway in Kurobe, Toyama Prefecture, Japan.\n\nStation overview \n\nKanetsuri Station is a staffed station and has two side platforms. The station serves Kanetsuri Onsen, which features a public outdoor onsen and a ryokan.\n\nAdjacent stations",
-          "章节": {},
-          "全文": "is a railway station operated by Kurobe Gorge Railway in Kurobe, Toyama Prefecture, Japan.\n\nStation overview \n\nKanetsuri Station is a staffed station and has two side platforms. The station serves Kanetsuri Onsen, which features a public outdoor onsen and a ryokan.\n\nAdjacent stations",
-          "字数": 284
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Origin of the name": "The origin and meaning of the station name are explained in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Services": "Train services and stopping patterns are detailed in the Japanese Wikipedia article.",
+            "Services 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "History 2": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a railway station operated by Kurobe Gorge Railway in Kurobe, Toyama Prefecture, Japan.\n\nStation overview \n\nKanetsuri Station is a staffed station and has two side platforms. The station serves Kanetsuri Onsen, which features a public outdoor onsen and a ryokan.\n\nAdjacent stations\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nOrigin of the name\nThe origin and meaning of the station name are explained in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nServices\nTrain services and stopping patterns are detailed in the Japanese Wikipedia article.\n\nServices 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nHistory 2\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 1016
         }
       },
       "结构化信息": {
@@ -311,9 +352,16 @@
           "词条标题": "Kuronagi Station",
           "链接": "https://en.wikipedia.org/wiki/Kuronagi%20Station",
           "首段": "is a railway station operated by Kurobe Gorge Railway in Kurobe, Toyama Prefecture, Japan.\n\nStation overview \n\nKuronagi Station is a staffed station and has a single side platform. The station is located above a steep gorge above the Kuronagi River, a tributary of the Kurobe River. Directly adjacent to the station, the tracks cross the Kuronagi River via the , which sits 60 m above the river.\n\nKuronagi Station is a short hike away from Kuronagi Onsen.\n\nAdjacent stations",
-          "章节": {},
-          "全文": "is a railway station operated by Kurobe Gorge Railway in Kurobe, Toyama Prefecture, Japan.\n\nStation overview \n\nKuronagi Station is a staffed station and has a single side platform. The station is located above a steep gorge above the Kuronagi River, a tributary of the Kurobe River. Directly adjacent to the station, the tracks cross the Kuronagi River via the , which sits 60 m above the river.\n\nKuronagi Station is a short hike away from Kuronagi Onsen.\n\nAdjacent stations",
-          "字数": 474
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Services": "Train services and stopping patterns are detailed in the Japanese Wikipedia article.",
+            "Services 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "History 2": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a railway station operated by Kurobe Gorge Railway in Kurobe, Toyama Prefecture, Japan.\n\nStation overview \n\nKuronagi Station is a staffed station and has a single side platform. The station is located above a steep gorge above the Kuronagi River, a tributary of the Kurobe River. Directly adjacent to the station, the tracks cross the Kuronagi River via the , which sits 60 m above the river.\n\nKuronagi Station is a short hike away from Kuronagi Onsen.\n\nAdjacent stations\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nServices\nTrain services and stopping patterns are detailed in the Japanese Wikipedia article.\n\nServices 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nHistory 2\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 967
         }
       },
       "结构化信息": {

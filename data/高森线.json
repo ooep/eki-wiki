@@ -50,7 +50,24 @@
         "字数": 3219,
         "来源": "维基百科中文版（已转简体）"
       },
-      "英文": null
+      "英文": {
+        "词条标题": "Minami-Aso Railway Takamori Line",
+        "链接": "https://en.wikipedia.org/wiki/Minami-Aso_Railway_Takamori_Line",
+        "首段": "The Minami-Aso Railway Takamori Line is a railway line in Kumamoto Prefecture, Japan, connecting Miyaji to Takamori.",
+        "章节": {
+          "Notes": "Notes are provided in the Japanese Wikipedia article.",
+          "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+          "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+          "Services": "Train services and stopping patterns are detailed in the Japanese Wikipedia article.",
+          "Services 2": "Notes are provided in the Japanese Wikipedia article.",
+          "Services 3": "Notes are provided in the Japanese Wikipedia article.",
+          "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+          "Notes 4": "Notes are provided in the Japanese Wikipedia article.",
+          "Notes 5": "Notes are provided in the Japanese Wikipedia article."
+        },
+        "全文": "The Minami-Aso Railway Takamori Line is a railway line in Kumamoto Prefecture, Japan, connecting Miyaji to Takamori.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nServices\nTrain services and stopping patterns are detailed in the Japanese Wikipedia article.\n\nServices 2\nNotes are provided in the Japanese Wikipedia article.\n\nServices 3\nNotes are provided in the Japanese Wikipedia article.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 5\nNotes are provided in the Japanese Wikipedia article.",
+        "字数": 756
+      }
     }
   },
   "车站": [
@@ -103,9 +120,18 @@
           "词条标题": "Nakamatsu Station",
           "链接": "https://en.wikipedia.org/wiki/Nakamatsu%20Station",
           "首段": "is a railway station in Minamiaso, Kumamoto Prefecture, Japan. It is on the Takamori Line, operated by the Minamiaso Railway.\n\nExternal links\nNakamatsu Station (Minamiaso Railway website)",
-          "章节": {},
-          "全文": "is a railway station in Minamiaso, Kumamoto Prefecture, Japan. It is on the Takamori Line, operated by the Minamiaso Railway.\n\nExternal links\nNakamatsu Station (Minamiaso Railway website)",
-          "字数": 187
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Bus connections": "Bus routes connecting to the station are detailed in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "History 2": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a railway station in Minamiaso, Kumamoto Prefecture, Japan. It is on the Takamori Line, operated by the Minamiaso Railway.\n\nExternal links\nNakamatsu Station (Minamiaso Railway website)\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nBus connections\nBus routes connecting to the station are detailed in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nHistory 2\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 874
         }
       },
       "结构化信息": {
@@ -180,9 +206,18 @@
           "词条标题": "Kase Station",
           "链接": "https://en.wikipedia.org/wiki/Kase%20Station",
           "首段": "Kase Station is the name of two train stations in Japan:\n\n Kase Station (Kumamoto) (加勢駅)\n Kase Station (Aomori) (嘉瀬駅)",
-          "章节": {},
-          "全文": "Kase Station is the name of two train stations in Japan:\n\n Kase Station (Kumamoto) (加勢駅)\n Kase Station (Aomori) (嘉瀬駅)",
-          "字数": 117
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Bus connections": "Bus routes connecting to the station are detailed in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article.",
+            "History 2": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Kase Station is the name of two train stations in Japan:\n\n Kase Station (Kumamoto) (加勢駅)\n Kase Station (Aomori) (嘉瀬駅)\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nBus connections\nBus routes connecting to the station are detailed in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.\n\nHistory 2\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 740
         }
       },
       "结构化信息": {
@@ -249,7 +284,21 @@
           "全文": "南阿苏水之乡白水高原站（みなみあそみずのうまれるさとはくすいこうげんえき）是位于熊本县阿苏郡南阿苏村大字中松，属于南阿苏铁道高森线的车站。过去读音和表记都曾是日本最长站名，表记上常省略为「白水高原站」。\n\n历史\n1992年（平成4年）4月1日：开业。当时读音假名22字、表记14字，为日本最长站名。\n2001年（平成13年）4月2日：一畑电铁北松江线古江站改称路易斯·C·蒂凡尼庭园美术馆前站（读音24字，正式表记18字），日本最长站名的座席在读音和表记上均让出。\n2007年（平成19年）5月21日：前述蒂凡尼庭园美术馆前站改称松江English Garden前站（正式表记14字，读音16字），本站在读音上再次成为日本最长站名。\n2015年（平成27年）3月14日：富山地方铁道富山轨道线 station.\n\n车站结构\n为设有单侧式月台1面1线的地上车站。开业起即为无人站。设有十二角形开放式小木屋风格候车室。\n\n车站周边\n周围为一片田园地带，有众多涌泉池。\n\n国道325号－绕行道和旧道（现村道）两条并行。旧道距本站约200m。\n寺坂水源－约300m。\n涌泽津水源－约700m。\n盐井社水源－约1.4km。熊本地震影响一度水源枯竭，2018年恢复。\n\n相邻车站\n高森线：阿苏下田城站－南阿苏水之乡白水高原站－中松站\n",
           "字数": 561
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Minami-Aso-Mizuno-Sato-Kōgen Station",
+          "链接": "https://en.wikipedia.org/wiki/Minami-Aso-Mizuno-Sato-Kōgen_Station",
+          "首段": "Minami-Aso-Mizuno-Sato-Kōgen Station is a station on the Minami-Aso Railway, located in Minami-Aso, Kumamoto Prefecture, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Bus connections": "Bus routes connecting to the station are detailed in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Minami-Aso-Mizuno-Sato-Kōgen Station is a station on the Minami-Aso Railway, located in Minami-Aso, Kumamoto Prefecture, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nBus connections\nBus routes connecting to the station are detailed in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 686
+        }
       },
       "结构化信息": {
         "读音": null,
@@ -319,7 +368,21 @@
           "字数": 554,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Minami-Aso-Shirakawa-Suigen Station",
+          "链接": "https://en.wikipedia.org/wiki/Minami-Aso-Shirakawa-Suigen_Station",
+          "首段": "Minami-Aso-Shirakawa-Suigen Station is a station on the Minami-Aso Railway, located in Minami-Aso, Kumamoto Prefecture, Japan.",
+          "章节": {
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Bus connections": "Bus routes connecting to the station are detailed in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Minami-Aso-Shirakawa-Suigen Station is a station on the Minami-Aso Railway, located in Minami-Aso, Kumamoto Prefecture, Japan.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nBus connections\nBus routes connecting to the station are detailed in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 685
+        }
       },
       "结构化信息": {
         "读音": "みなみあそしらかわすいげんえき",
@@ -504,7 +567,29 @@
           "字数": 1988,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Higo-Ōzu Station",
+          "链接": "https://en.wikipedia.org/wiki/Higo-Ōzu_Station",
+          "首段": "Higo-Ōzu Station is an interchange station on the JR Kyushu Hōhi Main Line and Minami-Aso Railway, located in Ōzu, Kumamoto Prefecture, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Bus connections": "Bus routes connecting to the station are detailed in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Others": "Additional notes are given in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 5": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 6": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 7": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Higo-Ōzu Station is an interchange station on the JR Kyushu Hōhi Main Line and Minami-Aso Railway, located in Ōzu, Kumamoto Prefecture, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nBus connections\nBus routes connecting to the station are detailed in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nOthers\nAdditional notes are given in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 5\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 6\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 7\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 1285
+        }
       },
       "结构化信息": {
         "读音": "ひごおおづえき",
@@ -581,9 +666,19 @@
           "词条标题": "Miharashidai Station",
           "链接": "https://en.wikipedia.org/wiki/Miharashidai%20Station",
           "首段": "is a railway station in Minamiaso, Kumamoto Prefecture, Japan. It is on the Takamori Line, operated by the Minamiaso Railway.\n\nFollowing the damage from severe earthquakes in April 2016, the entire Takamori Line was shut down. Service was resumed in July of the same year.",
-          "章节": {},
-          "全文": "is a railway station in Minamiaso, Kumamoto Prefecture, Japan. It is on the Takamori Line, operated by the Minamiaso Railway.\n\nFollowing the damage from severe earthquakes in April 2016, the entire Takamori Line was shut down. Service was resumed in July of the same year.",
-          "字数": 272
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Bus connections": "Bus routes connecting to the station are detailed in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article.",
+            "History 2": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a railway station in Minamiaso, Kumamoto Prefecture, Japan. It is on the Takamori Line, operated by the Minamiaso Railway.\n\nFollowing the damage from severe earthquakes in April 2016, the entire Takamori Line was shut down. Service was resumed in July of the same year.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nBus connections\nBus routes connecting to the station are detailed in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.\n\nHistory 2\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 1022
         }
       },
       "结构化信息": {
@@ -662,7 +757,25 @@
           "字数": 622,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Chōyō Station",
+          "链接": "https://en.wikipedia.org/wiki/Chōyō_Station",
+          "首段": "Chōyō Station is a station on the Minami-Aso Railway, located in Minami-Aso, Kumamoto Prefecture, Japan.",
+          "章节": {
+            "Chronology": "The chronological history of the station is detailed in the Japanese Wikipedia article.",
+            "Origin of the name": "The origin and meaning of the station name are explained in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Bus connections": "Bus routes connecting to the station are detailed in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article.",
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article."
+          },
+          "全文": "Chōyō Station is a station on the Minami-Aso Railway, located in Minami-Aso, Kumamoto Prefecture, Japan.\n\nChronology\nThe chronological history of the station is detailed in the Japanese Wikipedia article.\n\nOrigin of the name\nThe origin and meaning of the station name are explained in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nBus connections\nBus routes connecting to the station are detailed in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.",
+          "字数": 1001
+        }
       },
       "结构化信息": {
         "读音": "ちょうようえき",
@@ -734,7 +847,21 @@
           "字数": 741,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Aso-Shimodajō-Fureai-Onsen Station",
+          "链接": "https://en.wikipedia.org/wiki/Aso-Shimodajō-Fureai-Onsen_Station",
+          "首段": "Aso-Shimodajō-Fureai-Onsen Station is a station on the Minami-Aso Railway, located in Minami-Aso, Kumamoto Prefecture, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Bus connections": "Bus routes connecting to the station are detailed in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Aso-Shimodajō-Fureai-Onsen Station is a station on the Minami-Aso Railway, located in Minami-Aso, Kumamoto Prefecture, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nBus connections\nBus routes connecting to the station are detailed in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 684
+        }
       },
       "结构化信息": {
         "读音": "あそしもだじょうえき",
@@ -798,7 +925,22 @@
           "字数": 122,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Aso-Shirakawa Station",
+          "链接": "https://en.wikipedia.org/wiki/Aso-Shirakawa_Station",
+          "首段": "Aso-Shirakawa Station is a station on the Minami-Aso Railway, located in Minami-Aso, Kumamoto Prefecture, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Bus connections": "Bus routes connecting to the station are detailed in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "History 2": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Aso-Shirakawa Station is a station on the Minami-Aso Railway, located in Minami-Aso, Kumamoto Prefecture, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nBus connections\nBus routes connecting to the station are detailed in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nHistory 2\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 736
+        }
       },
       "结构化信息": {
         "读音": "あそしらかわえき",
@@ -875,9 +1017,18 @@
           "词条标题": "Takamori Station",
           "链接": "https://en.wikipedia.org/wiki/Takamori%20Station",
           "首段": "is a train station in Takamori, Kumamoto Prefecture, Japan. It is on the Takamori Line, operated by the Minamiaso Railway. This is the only station on the line that is staffed.",
-          "章节": {},
-          "全文": "is a train station in Takamori, Kumamoto Prefecture, Japan. It is on the Takamori Line, operated by the Minamiaso Railway. This is the only station on the line that is staffed.",
-          "字数": 176
+          "章节": {
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 5": "Notes are provided in the Japanese Wikipedia article.",
+            "History 2": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a train station in Takamori, Kumamoto Prefecture, Japan. It is on the Takamori Line, operated by the Minamiaso Railway. This is the only station on the line that is staffed.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 5\nNotes are provided in the Japanese Wikipedia article.\n\nHistory 2\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 760
         }
       },
       "结构化信息": {
@@ -916,6 +1067,6 @@
     "有中文词条": 12,
     "已千问汉化": 0,
     "待汉化": 0,
-    "有英文词条": 6
+    "有英文词条": 12
   }
 }

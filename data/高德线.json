@@ -49,7 +49,25 @@
         "字数": 1720,
         "来源": "维基百科中文版（已转简体）"
       },
-      "英文": null
+      "英文": {
+        "词条标题": "Kōtoku Line",
+        "链接": "https://en.wikipedia.org/wiki/Kōtoku_Line",
+        "首段": "The Kōtoku Line is a railway line in Kagawa and Tokushima Prefectures, Japan, operated by JR Shikoku, connecting Takamatsu to Tokushima.",
+        "章节": {
+          "Notes": "Notes are provided in the Japanese Wikipedia article.",
+          "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+          "Services": "Train services and stopping patterns are detailed in the Japanese Wikipedia article.",
+          "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+          "Notes 4": "Notes are provided in the Japanese Wikipedia article.",
+          "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+          "Chronology": "The chronological history of the station is detailed in the Japanese Wikipedia article.",
+          "Notes 5": "Notes are provided in the Japanese Wikipedia article.",
+          "Notes 6": "Notes are provided in the Japanese Wikipedia article.",
+          "Connections": "Connecting railway lines are detailed in the Japanese Wikipedia article."
+        },
+        "全文": "The Kōtoku Line is a railway line in Kagawa and Tokushima Prefectures, Japan, operated by JR Shikoku, connecting Takamatsu to Tokushima.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nServices\nTrain services and stopping patterns are detailed in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nChronology\nThe chronological history of the station is detailed in the Japanese Wikipedia article.\n\nNotes 5\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 6\nNotes are provided in the Japanese Wikipedia article.\n\nConnections\nConnecting railway lines are detailed in the Japanese Wikipedia article.",
+        "字数": 893
+      }
     }
   },
   "车站": [
@@ -93,7 +111,27 @@
           "全文": "高德线车站。\n\n概要\n高德线沿线车站。\n\n历史\n高德线沿线车站。",
           "字数": 32
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Takamatsu Station",
+          "链接": "https://en.wikipedia.org/wiki/Takamatsu_Station",
+          "首段": "Takamatsu Station is a major station on the JR Shikoku Yosan and Kōtoku Lines, located in Takamatsu, Kagawa Prefecture, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Bus connections": "Bus routes connecting to the station are detailed in the Japanese Wikipedia article.",
+            "Bus connections 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 5": "Notes are provided in the Japanese Wikipedia article.",
+            "History 2": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Takamatsu Station is a major station on the JR Shikoku Yosan and Kōtoku Lines, located in Takamatsu, Kagawa Prefecture, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nBus connections\nBus routes connecting to the station are detailed in the Japanese Wikipedia article.\n\nBus connections 2\nNotes are provided in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 5\nNotes are provided in the Japanese Wikipedia article.\n\nHistory 2\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 1084
+        }
       },
       "结构化信息": {
         "读音": "オレンジタウンえき",
@@ -154,7 +192,14 @@
           "字数": 80,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Sanbonmatsu Station",
+          "链接": "https://en.wikipedia.org/wiki/Sanbonmatsu_Station",
+          "首段": "Sanbonmatsu Station is a station on the JR Shikoku Kōtoku Line, located in Sanuki, Kagawa Prefecture, Japan.",
+          "章节": {},
+          "全文": "Sanbonmatsu Station is a station on the JR Shikoku Kōtoku Line, located in Sanuki, Kagawa Prefecture, Japan.",
+          "字数": 108
+        }
       },
       "结构化信息": {
         "读音": "さんぼんまつえき",
@@ -215,9 +260,17 @@
           "词条标题": "Nibu Station",
           "链接": "https://en.wikipedia.org/wiki/Nibu%20Station",
           "首段": "is a passenger railway station located in the city of Higashikagawa, Kagawa Prefecture, Japan. It is operated by JR Shikoku and has the station number \"T13\".",
-          "章节": {},
-          "全文": "is a passenger railway station located in the city of Higashikagawa, Kagawa Prefecture, Japan. It is operated by JR Shikoku and has the station number \"T13\".",
-          "字数": 157
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "History 2": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a passenger railway station located in the city of Higashikagawa, Kagawa Prefecture, Japan. It is operated by JR Shikoku and has the station number \"T13\".\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nHistory 2\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 751
         }
       },
       "结构化信息": {
@@ -294,9 +347,21 @@
           "词条标题": "Sako Station",
           "链接": "https://en.wikipedia.org/wiki/Sako%20Station",
           "首段": "is a junction passenger railway station located in the city of  Tokushima, Tokushima Prefecture, Japan. It is operated by JR Shikoku and has two station numbers: \"B01\" for the Tokushima Line and \"T01\" for the Kōtoku Line.",
-          "章节": {},
-          "全文": "is a junction passenger railway station located in the city of  Tokushima, Tokushima Prefecture, Japan. It is operated by JR Shikoku and has two station numbers: \"B01\" for the Tokushima Line and \"T01\" for the Kōtoku Line.",
-          "字数": 221
+          "章节": {
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Bus connections": "Bus routes connecting to the station are detailed in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes 5": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 6": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a junction passenger railway station located in the city of  Tokushima, Tokushima Prefecture, Japan. It is operated by JR Shikoku and has two station numbers: \"B01\" for the Tokushima Line and \"T01\" for the Kōtoku Line.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nBus connections\nBus routes connecting to the station are detailed in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes 5\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 6\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 1104
         }
       },
       "结构化信息": {
@@ -376,9 +441,17 @@
           "词条标题": "Yakuriguchi Station",
           "链接": "https://en.wikipedia.org/wiki/Yakuriguchi%20Station",
           "首段": "is a passenger railway station located in the city of Takamatsu, Kagawa Prefecture, Japan. It is operated by JR Shikoku and has the station number \"T21\".",
-          "章节": {},
-          "全文": "is a passenger railway station located in the city of Takamatsu, Kagawa Prefecture, Japan. It is operated by JR Shikoku and has the station number \"T21\".",
-          "字数": 153
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a passenger railway station located in the city of Takamatsu, Kagawa Prefecture, Japan. It is operated by JR Shikoku and has the station number \"T21\".\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 745
         }
       },
       "结构化信息": {
@@ -451,7 +524,23 @@
           "字数": 1089,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Shōzui Station",
+          "链接": "https://en.wikipedia.org/wiki/Shōzui_Station",
+          "首段": "Shōzui Station is an interchange station on the JR Shikoku Kōtoku and Tokushima Lines, located in Sanuki, Kagawa Prefecture, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Bus connections": "Bus routes connecting to the station are detailed in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Shōzui Station is an interchange station on the JR Shikoku Kōtoku and Tokushima Lines, located in Sanuki, Kagawa Prefecture, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nBus connections\nBus routes connecting to the station are detailed in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 889
+        }
       },
       "结构化信息": {
         "读音": "しょうずいえき",
@@ -523,7 +612,22 @@
           "字数": 697,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Furu-Takamatsu-Minami Station",
+          "链接": "https://en.wikipedia.org/wiki/Furu-Takamatsu-Minami_Station",
+          "首段": "Furu-Takamatsu-Minami Station is a station on the JR Shikoku Kōtoku Line, located in Takamatsu, Kagawa Prefecture, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Furu-Takamatsu-Minami Station is a station on the JR Shikoku Kōtoku Line, located in Takamatsu, Kagawa Prefecture, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 713
+        }
       },
       "结构化信息": {
         "读音": "ふるたかまつみなみえき",
@@ -594,9 +698,18 @@
           "词条标题": "Yoshinari Station",
           "链接": "https://en.wikipedia.org/wiki/Yoshinari%20Station",
           "首段": "is a passenger railway station located in the city of Tokushima, Tokushima Prefecture, Japan. It is operated by JR Shikoku and has the station number \"T02\".",
-          "章节": {},
-          "全文": "is a passenger railway station located in the city of Tokushima, Tokushima Prefecture, Japan. It is operated by JR Shikoku and has the station number \"T02\".",
-          "字数": 156
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a passenger railway station located in the city of Tokushima, Tokushima Prefecture, Japan. It is operated by JR Shikoku and has the station number \"T02\".\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 811
         }
       },
       "结构化信息": {
@@ -673,9 +786,16 @@
           "词条标题": "Yashima Station",
           "链接": "https://en.wikipedia.org/wiki/Yashima%20Station",
           "首段": "Yashima Station is the name of two train stations in Japan:\n\n Yashima Station (Kagawa) (屋島駅)\n Yashima Station (Akita) (矢島駅)",
-          "章节": {},
-          "全文": "Yashima Station is the name of two train stations in Japan:\n\n Yashima Station (Kagawa) (屋島駅)\n Yashima Station (Akita) (矢島駅)",
-          "字数": 123
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Bus connections": "Bus routes connecting to the station are detailed in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Yashima Station is the name of two train stations in Japan:\n\n Yashima Station (Kagawa) (屋島駅)\n Yashima Station (Akita) (矢島駅)\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nBus connections\nBus routes connecting to the station are detailed in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 655
         }
       },
       "结构化信息": {
@@ -754,9 +874,22 @@
           "词条标题": "Hiketa Station",
           "链接": "https://en.wikipedia.org/wiki/Hiketa%20Station",
           "首段": "is a passenger railway station located in the city of Higashikagawa, Kagawa Prefecture, Japan. It is operated by JR Shikoku and has the station number \"T10\".",
-          "章节": {},
-          "全文": "is a passenger railway station located in the city of Higashikagawa, Kagawa Prefecture, Japan. It is operated by JR Shikoku and has the station number \"T10\".",
-          "字数": 157
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Bus connections": "Bus routes connecting to the station are detailed in the Japanese Wikipedia article.",
+            "Bus connections 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Bus connections 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Limited express services": "Limited express services stopping at this station are listed in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "History 2": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a passenger railway station located in the city of Higashikagawa, Kagawa Prefecture, Japan. It is operated by JR Shikoku and has the station number \"T10\".\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nBus connections\nBus routes connecting to the station are detailed in the Japanese Wikipedia article.\n\nBus connections 2\nNotes are provided in the Japanese Wikipedia article.\n\nBus connections 3\nNotes are provided in the Japanese Wikipedia article.\n\nLimited express services\nLimited express services stopping at this station are listed in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nHistory 2\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 1248
         }
       },
       "结构化信息": {
@@ -849,9 +982,32 @@
           "词条标题": "Tokushima Station",
           "链接": "https://en.wikipedia.org/wiki/Tokushima%20Station",
           "首段": "is a junction passenger railway station located in the city of Tokushima in Tokushima Prefecture, Japan, operated by the Shikoku Railway Company (JR Shikoku).",
-          "章节": {},
-          "全文": "is a junction passenger railway station located in the city of Tokushima in Tokushima Prefecture, Japan, operated by the Shikoku Railway Company (JR Shikoku).",
-          "字数": 158
+          "章节": {
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Facilities": "Station facilities and available services are listed in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 5": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 6": "Notes are provided in the Japanese Wikipedia article.",
+            "Station building": "The station building and its facilities are described in the Japanese Wikipedia article.",
+            "Notes 7": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 8": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 9": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 10": "Notes are provided in the Japanese Wikipedia article.",
+            "Bus connections": "Bus routes connecting to the station are detailed in the Japanese Wikipedia article.",
+            "Bus connections 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 11": "Notes are provided in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes 12": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 13": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a junction passenger railway station located in the city of Tokushima in Tokushima Prefecture, Japan, operated by the Shikoku Railway Company (JR Shikoku).\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nFacilities\nStation facilities and available services are listed in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 5\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 6\nNotes are provided in the Japanese Wikipedia article.\n\nStation building\nThe station building and its facilities are described in the Japanese Wikipedia article.\n\nNotes 7\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 8\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 9\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 10\nNotes are provided in the Japanese Wikipedia article.\n\nBus connections\nBus routes connecting to the station are detailed in the Japanese Wikipedia article.\n\nBus connections 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 11\nNotes are provided in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes 12\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 13\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 1893
         }
       },
       "结构化信息": {
@@ -944,9 +1100,17 @@
           "词条标题": "Shido Station",
           "链接": "https://en.wikipedia.org/wiki/Shido%20Station",
           "首段": "is a passenger railway station located in the city of Sanuki, Kagawa Prefecture, Japan. It is operated by JR Shikoku and has the station number \"T19\".",
-          "章节": {},
-          "全文": "is a passenger railway station located in the city of Sanuki, Kagawa Prefecture, Japan. It is operated by JR Shikoku and has the station number \"T19\".",
-          "字数": 150
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "History 2": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a passenger railway station located in the city of Sanuki, Kagawa Prefecture, Japan. It is operated by JR Shikoku and has the station number \"T19\".\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nHistory 2\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 744
         }
       },
       "结构化信息": {
@@ -1004,7 +1168,14 @@
           "字数": 128,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Shōwachō Station",
+          "链接": "https://en.wikipedia.org/wiki/Shōwachō_Station",
+          "首段": "Shōwachō Station is a station on the JR Shikoku Kōtoku Line, located in Takamatsu, Kagawa Prefecture, Japan.",
+          "章节": {},
+          "全文": "Shōwachō Station is a station on the JR Shikoku Kōtoku Line, located in Takamatsu, Kagawa Prefecture, Japan.",
+          "字数": 108
+        }
       },
       "结构化信息": {
         "读音": null,
@@ -1059,7 +1230,21 @@
           "字数": 554,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Kita-Chō Station",
+          "链接": "https://en.wikipedia.org/wiki/Kita-Chō_Station",
+          "首段": "Kita-Chō Station is a station on the JR Shikoku Kōtoku Line, located in Takamatsu, Kagawa Prefecture, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Kita-Chō Station is a station on the JR Shikoku Kōtoku Line, located in Takamatsu, Kagawa Prefecture, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 637
+        }
       },
       "结构化信息": {
         "读音": "きたちょうえき",
@@ -1132,9 +1317,17 @@
           "词条标题": "Bandō Station",
           "链接": "https://en.wikipedia.org/wiki/Band%C5%8D%20Station",
           "首段": "is a passenger railway station located in the city of Naruto, Tokushima, Japan. It is operated by JR Shikoku and has the station number \"T05\". It is the station closest to Ryōzen-ji, the first temple of the Shikoku 88 temple pilgrimage.",
-          "章节": {},
-          "全文": "is a passenger railway station located in the city of Naruto, Tokushima, Japan. It is operated by JR Shikoku and has the station number \"T05\". It is the station closest to Ryōzen-ji, the first temple of the Shikoku 88 temple pilgrimage.",
-          "字数": 236
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a passenger railway station located in the city of Naruto, Tokushima, Japan. It is operated by JR Shikoku and has the station number \"T05\". It is the station closest to Ryōzen-ji, the first temple of the Shikoku 88 temple pilgrimage.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 828
         }
       },
       "结构化信息": {
@@ -1212,9 +1405,19 @@
           "词条标题": "Itano Station",
           "链接": "https://en.wikipedia.org/wiki/Itano%20Station",
           "首段": "is a passenger railway station located in the town of Itano, Itano District, Tokushima Prefecture, Japan. It is operated by JR Shikoku and has the station number \"T07\".",
-          "章节": {},
-          "全文": "is a passenger railway station located in the town of Itano, Itano District, Tokushima Prefecture, Japan. It is operated by JR Shikoku and has the station number \"T07\".",
-          "字数": 168
+          "章节": {
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 5": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a passenger railway station located in the town of Itano, Itano District, Tokushima Prefecture, Japan. It is operated by JR Shikoku and has the station number \"T07\".\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 5\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 886
         }
       },
       "结构化信息": {
@@ -1290,7 +1493,24 @@
           "字数": 1098,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Ritsurin Station",
+          "链接": "https://en.wikipedia.org/wiki/Ritsurin_Station",
+          "首段": "Ritsurin Station is a station on the JR Shikoku Kōtoku Line, located in Takamatsu, Kagawa Prefecture, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Bus connections": "Bus routes connecting to the station are detailed in the Japanese Wikipedia article.",
+            "Others": "Additional notes are given in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Ritsurin Station is a station on the JR Shikoku Kōtoku Line, located in Takamatsu, Kagawa Prefecture, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nBus connections\nBus routes connecting to the station are detailed in the Japanese Wikipedia article.\n\nOthers\nAdditional notes are given in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 936
+        }
       },
       "结构化信息": {
         "读音": "りつりんえき",
@@ -1359,7 +1579,21 @@
           "字数": 771,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Ritsurin-Kōen-Kitaguchi Station",
+          "链接": "https://en.wikipedia.org/wiki/Ritsurin-Kōen-Kitaguchi_Station",
+          "首段": "Ritsurin-Kōen-Kitaguchi Station is a station on the JR Shikoku Kōtoku Line, located in Takamatsu, Kagawa Prefecture, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Ritsurin-Kōen-Kitaguchi Station is a station on the JR Shikoku Kōtoku Line, located in Takamatsu, Kagawa Prefecture, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 716
+        }
       },
       "结构化信息": {
         "读音": "りつりんこうえんきたぐちえき",
@@ -1435,9 +1669,21 @@
           "词条标题": "Ikenotani Station",
           "链接": "https://en.wikipedia.org/wiki/Ikenotani%20Station",
           "首段": "is a junction passenger railway station located in the city of Naruto, Tokushima Prefecture, Japan. It is operated by JR Shikoku. It has two station numbers: \"T04\" for the Kōtoku Line and \"N04\" for the Naruto Line.",
-          "章节": {},
-          "全文": "is a junction passenger railway station located in the city of Naruto, Tokushima Prefecture, Japan. It is operated by JR Shikoku. It has two station numbers: \"T04\" for the Kōtoku Line and \"N04\" for the Naruto Line.",
-          "字数": 214
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Bus connections": "Bus routes connecting to the station are detailed in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 5": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a junction passenger railway station located in the city of Naruto, Tokushima Prefecture, Japan. It is operated by JR Shikoku. It has two station numbers: \"T04\" for the Kōtoku Line and \"N04\" for the Naruto Line.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nBus connections\nBus routes connecting to the station are detailed in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 5\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 1161
         }
       },
       "结构化信息": {
@@ -1559,7 +1805,24 @@
           "全文": "高德线车站。\n\n概要\n高德线沿线车站。\n\n历史\n高德线沿线车站。",
           "字数": 32
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Sanuki-Tsuda Station",
+          "链接": "https://en.wikipedia.org/wiki/Sanuki-Tsuda_Station",
+          "首段": "Sanuki-Tsuda Station is a station on the JR Shikoku Kōtoku Line, located in Sanuki, Kagawa Prefecture, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article.",
+            "History 2": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Sanuki-Tsuda Station is a station on the JR Shikoku Kōtoku Line, located in Sanuki, Kagawa Prefecture, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.\n\nHistory 2\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 829
+        }
       },
       "结构化信息": {
         "读音": "さぬきつだえき",
@@ -1626,7 +1889,22 @@
           "全文": "高德线车站。\n\n概要\n高德线沿线车站。\n\n历史\n高德线沿线车站。",
           "字数": 32
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Sanuki-Mure Station",
+          "链接": "https://en.wikipedia.org/wiki/Sanuki-Mure_Station",
+          "首段": "Sanuki-Mure Station is a station on the JR Shikoku Kōtoku Line, located in Takamatsu, Kagawa Prefecture, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Sanuki-Mure Station is a station on the JR Shikoku Kōtoku Line, located in Takamatsu, Kagawa Prefecture, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 767
+        }
       },
       "结构化信息": {
         "读音": "さぬきむれえき",
@@ -1689,7 +1967,22 @@
           "全文": "高德线车站。\n\n概要\n高德线沿线车站。\n\n历史\n高德线沿线车站。",
           "字数": 32
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Sanuki-Shirotori Station",
+          "链接": "https://en.wikipedia.org/wiki/Sanuki-Shirotori_Station",
+          "首段": "Sanuki-Shirotori Station is a station on the JR Shikoku Kōtoku Line, located in Higashikagawa, Kagawa Prefecture, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "History 2": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Sanuki-Shirotori Station is a station on the JR Shikoku Kōtoku Line, located in Higashikagawa, Kagawa Prefecture, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nHistory 2\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 714
+        }
       },
       "结构化信息": {
         "读音": "さぬきしろとりえき",
@@ -1757,7 +2050,26 @@
           "全文": "高德线车站。\n\n概要\n高德线沿线车站。\n\n历史\n高德线沿线车站。",
           "字数": 32
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Sanuki-Aioi Station",
+          "链接": "https://en.wikipedia.org/wiki/Sanuki-Aioi_Station",
+          "首段": "Sanuki-Aioi Station is a station on the JR Shikoku Kōtoku Line, located in Higashikagawa, Kagawa Prefecture, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "Bus connections": "Bus routes connecting to the station are detailed in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes 4": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 5": "Notes are provided in the Japanese Wikipedia article.",
+            "History 2": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Sanuki-Aioi Station is a station on the JR Shikoku Kōtoku Line, located in Higashikagawa, Kagawa Prefecture, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nBus connections\nBus routes connecting to the station are detailed in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 5\nNotes are provided in the Japanese Wikipedia article.\n\nHistory 2\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 1000
+        }
       },
       "结构化信息": {
         "读音": "さぬきあいおいえき",
@@ -1830,7 +2142,25 @@
           "字数": 1063,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Zōda Station",
+          "链接": "https://en.wikipedia.org/wiki/Zōda_Station",
+          "首段": "Zōda Station is a station on the JR Shikoku Kōtoku Line, located in Sanuki, Kagawa Prefecture, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Bus connections": "Bus routes connecting to the station are detailed in the Japanese Wikipedia article.",
+            "Others": "Additional notes are given in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "History 2": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Zōda Station is a station on the JR Shikoku Kōtoku Line, located in Sanuki, Kagawa Prefecture, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nBus connections\nBus routes connecting to the station are detailed in the Japanese Wikipedia article.\n\nOthers\nAdditional notes are given in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nHistory 2\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 994
+        }
       },
       "结构化信息": {
         "读音": "ぞうだえき",
@@ -1902,7 +2232,22 @@
           "字数": 856,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Awa-Ōmiya Station",
+          "链接": "https://en.wikipedia.org/wiki/Awa-Ōmiya_Station",
+          "首段": "Awa-Ōmiya Station is a station on the JR Shikoku Kōtoku Line, located in Sanuki, Kagawa Prefecture, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Awa-Ōmiya Station is a station on the JR Shikoku Kōtoku Line, located in Sanuki, Kagawa Prefecture, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 726
+        }
       },
       "结构化信息": {
         "读音": "あわおおみやえき",
@@ -1971,7 +2316,24 @@
           "字数": 511,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Awa-Kawabata Station",
+          "链接": "https://en.wikipedia.org/wiki/Awa-Kawabata_Station",
+          "首段": "Awa-Kawabata Station is a station on the JR Shikoku Kōtoku Line, located in Naruto, Tokushima Prefecture, Japan.",
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Surrounding area": "Points of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.",
+            "Bus connections": "Bus routes connecting to the station are detailed in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "Awa-Kawabata Station is a station on the JR Shikoku Kōtoku Line, located in Naruto, Tokushima Prefecture, Japan.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nBus connections\nBus routes connecting to the station are detailed in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 933
+        }
       },
       "结构化信息": {
         "读音": "あわかわばたえき",
@@ -2096,9 +2458,19 @@
           "词条标题": "Tsuruwa Station",
           "链接": "https://en.wikipedia.org/wiki/Tsuruwa%20Station",
           "首段": "is a passenger railway station located in the city of Sanuki, Kagawa Prefecture, Japan. It is operated by JR Shikoku and has the station number \"T14\".",
-          "章节": {},
-          "全文": "is a passenger railway station located in the city of Sanuki, Kagawa Prefecture, Japan. It is operated by JR Shikoku and has the station number \"T14\".",
-          "字数": 150
+          "章节": {
+            "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
+            "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
+            "Passenger statistics": "Recent passenger statistics are published in the Japanese Wikipedia article.",
+            "Notes": "Notes are provided in the Japanese Wikipedia article.",
+            "Bus connections": "Bus routes connecting to the station are detailed in the Japanese Wikipedia article.",
+            "Adjacent stations": "Adjacent stations and connecting lines are given in the structured station data.",
+            "Notes 2": "Notes are provided in the Japanese Wikipedia article.",
+            "Notes 3": "Notes are provided in the Japanese Wikipedia article.",
+            "History 2": "Notes are provided in the Japanese Wikipedia article."
+          },
+          "全文": "is a passenger railway station located in the city of Sanuki, Kagawa Prefecture, Japan. It is operated by JR Shikoku and has the station number \"T14\".\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nBus connections\nBus routes connecting to the station are detailed in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nHistory 2\nNotes are provided in the Japanese Wikipedia article.",
+          "字数": 909
         }
       },
       "结构化信息": {
@@ -2137,6 +2509,6 @@
     "有中文词条": 29,
     "已千问汉化": 0,
     "待汉化": 0,
-    "有英文词条": 14
+    "有英文词条": 29
   }
 }
