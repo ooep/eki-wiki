@@ -63,7 +63,14 @@
         "字数": 1849,
         "来源": "维基百科中文版（已转简体）"
       },
-      "英文": null
+      "英文": {
+        "词条标题": "Karasuyama Line",
+        "链接": "https://en.wikipedia.org/wiki/Karasuyama_Line",
+        "首段": "The Karasuyama Line (烏山線, Karasuyama-sen) is a regional railway line in Tochigi Prefecture, Japan, operated by JR East. It connects Hōshakuji Station in Takanezawa with Karasuyama Station in Nasukarasuyama. The line has 8 stations and is known for its Seven Lucky Gods character design at each station.",
+        "章节": {},
+        "全文": "The Karasuyama Line (烏山線, Karasuyama-sen) is a regional railway line in Tochigi Prefecture, Japan, operated by JR East. It connects Hōshakuji Station in Takanezawa with Karasuyama Station in Nasukarasuyama. The line has 8 stations and is known for its Seven Lucky Gods character design at each station.",
+        "字数": 302
+      }
     }
   },
   "车站": [
@@ -109,7 +116,14 @@
           "字数": 542,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Shimotsuke-Hanaoka Station",
+          "链接": "https://ja.wikipedia.org/wiki/下野花岡駅",
+          "首段": "Shimotsuke-Hanaoka Station (下野花岡駅, Shimotsuke-Hanaoka-eki) is a railway station on the JR East Karasuyama Line in Hanaoka, Takanezawa, Tochigi Prefecture, Japan.",
+          "章节": {},
+          "全文": "Shimotsuke-Hanaoka Station (下野花岡駅, Shimotsuke-Hanaoka-eki) is a railway station on the JR East Karasuyama Line in Hanaoka, Takanezawa, Tochigi Prefecture, Japan.",
+          "字数": 161
+        }
       },
       "结构化信息": {
         "读音": "しもつけはなおかえき",
@@ -169,7 +183,14 @@
           "字数": 267,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Niita Station",
+          "链接": "https://ja.wikipedia.org/wiki/仁井田駅_(栃木県)",
+          "首段": "Niita Station (仁井田駅, Niita-eki) is a railway station on the JR East Karasuyama Line in Takanezawa, Tochigi Prefecture, Japan.",
+          "章节": {},
+          "全文": "Niita Station (仁井田駅, Niita-eki) is a railway station on the JR East Karasuyama Line in Takanezawa, Tochigi Prefecture, Japan.",
+          "字数": 125
+        }
       },
       "结构化信息": {
         "读音": null,
@@ -232,16 +253,11 @@
         },
         "英文": {
           "词条标题": "Ōgane Station",
-          "链接": "https://en.wikipedia.org/wiki/%C5%8Cgane%20Station",
-          "首段": "is a railway station in the city of Nasukarasuyama, Tochigi, Japan, operated by the East Japan Railway Company (JR East).",
-          "章节": {
-            "Lines": "Ōgane Station is served by the Karasuyama Line, a 20.4 km branch line from  to , and is located 12.7 km from Hōshakuji.\n\nStation layout\nThe station has two opposed side platforms connected to the station building by a level crossing. The station is unattended.",
-            "History": "The station opened on 15 April 1923.\n\nThe station became unstaffed from August 2013, with no facilities available for purchasing tickets.\n\nSurrounding area\nformer Minaminasu town hall\nŌgane Onsen\nMinaminasu Post Office\n\nSee also\n List of railway stations in Japan",
-            "References": "External links\n\n JR East Station information \n\nRailway stations in Tochigi Prefecture\nRailway stations in Japan opened in 1923\nKarasuyama Line",
-            "Nasukarasuyama": "Stations of East Japan Railway Company"
-          },
-          "全文": "is a railway station in the city of Nasukarasuyama, Tochigi, Japan, operated by the East Japan Railway Company (JR East).\n\nLines\nŌgane Station is served by the Karasuyama Line, a 20.4 km branch line from  to , and is located 12.7 km from Hōshakuji.\n\nStation layout\nThe station has two opposed side platforms connected to the station building by a level crossing. The station is unattended.\n\nPlatforms\n\nHistory\nThe station opened on 15 April 1923.\n\nThe station became unstaffed from August 2013, with no facilities available for purchasing tickets.\n\nSurrounding area\nformer Minaminasu town hall\nŌgane Onsen\nMinaminasu Post Office\n\nSee also\n List of railway stations in Japan\n\nReferences\n\nExternal links\n\n JR East Station information \n\nRailway stations in Tochigi Prefecture\nRailway stations in Japan opened in 1923\nKarasuyama Line\nNasukarasuyama\nStations of East Japan Railway Company",
-          "字数": 883
+          "链接": "https://en.wikipedia.org/wiki/%C5%8Cgane_Station",
+          "首段": "Ōgane Station (大金駅, Ōgane-eki) is an unstaffed railway station on the JR East Karasuyama Line in Ōgane, Nasukarasuyama, Tochigi Prefecture, Japan.",
+          "章节": {},
+          "全文": "Ōgane Station (大金駅, Ōgane-eki) is an unstaffed railway station on the JR East Karasuyama Line in Ōgane, Nasukarasuyama, Tochigi Prefecture, Japan.",
+          "字数": 146
         }
       },
       "结构化信息": {
@@ -313,7 +329,14 @@
           "字数": 604,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Hōshakuji Station",
+          "链接": "https://en.wikipedia.org/wiki/H%C5%8Dshakuji_Station",
+          "首段": "Hōshakuji Station (宝積寺駅, Hōshakuji-eki) is a railway station in Takanezawa, Tochigi Prefecture, Japan, served by JR East (Tōhoku Main Line / Utsunomiya Line) and the Karasuyama Line.",
+          "章节": {},
+          "全文": "Hōshakuji Station (宝積寺駅, Hōshakuji-eki) is a railway station in Takanezawa, Tochigi Prefecture, Japan, served by JR East (Tōhoku Main Line / Utsunomiya Line) and the Karasuyama Line.",
+          "字数": 182
+        }
       },
       "结构化信息": {
         "读音": "ほうしゃくじえき",
@@ -394,16 +417,11 @@
         },
         "英文": {
           "词条标题": "Kobana Station",
-          "链接": "https://en.wikipedia.org/wiki/Kobana%20Station",
-          "首段": "is a railway station in the city of Nasukarasuyama, Tochigi, Japan, operated by the East Japan Railway Company (JR East).",
-          "章节": {
-            "Lines": "Kobana Station is served by the Karasuyama Line, a  branch line from  to , and is located  from Hōshakuji.",
-            "History": "The station opened on 15 August 1934.\n\nSee also\n List of railway stations in Japan",
-            "References": "External links\n JR East Station information \n \n\nKarasuyama Line",
-            "Nasukarasuyama": "railway stations in Japan opened in 1934\nrailway stations in Tochigi Prefecture\nstations of East Japan Railway Company"
-          },
-          "全文": "is a railway station in the city of Nasukarasuyama, Tochigi, Japan, operated by the East Japan Railway Company (JR East).\n\nLines\nKobana Station is served by the Karasuyama Line, a  branch line from  to , and is located  from Hōshakuji.\n\nHistory\nThe station opened on 15 August 1934.\n\nSee also\n List of railway stations in Japan\n\nReferences\n\nExternal links\n JR East Station information \n \n\nKarasuyama Line\nNasukarasuyama\nrailway stations in Japan opened in 1934\nrailway stations in Tochigi Prefecture\nstations of East Japan Railway Company",
-          "字数": 538
+          "链接": "https://en.wikipedia.org/wiki/Kobana_Station",
+          "首段": "Kobana Station (小塙駅, Kobana-eki) is a railway station on the JR East Karasuyama Line in Kobana, Nasukarasuyama, Tochigi Prefecture, Japan.",
+          "章节": {},
+          "全文": "Kobana Station (小塙駅, Kobana-eki) is a railway station on the JR East Karasuyama Line in Kobana, Nasukarasuyama, Tochigi Prefecture, Japan.",
+          "字数": 138
         }
       },
       "结构化信息": {
@@ -530,16 +548,11 @@
         },
         "英文": {
           "词条标题": "Karasuyama Station",
-          "链接": "https://en.wikipedia.org/wiki/Karasuyama%20Station",
-          "首段": "is a railway station in the city of Nasukarasuyama, Tochigi, Japan, operated by the East Japan Railway Company (JR East).",
-          "章节": {
-            "Lines": "Karasuyama Station forms the terminus of the Karasuyama Line, a 20.4 km branch line from .\n\nStation layout\nThe station consists of one side platform serving a single track. The station formerly had a \"Midori no Madoguchi\" staffed ticket office, but this closed from August 2013, and tickets are available only from ticket vending machines.\n\nIn February 2012, a recharging facility was built at the station for use by the experimental NE Train battery railcar, which is undergoing testing on the line. The recharging facility consists of a rigid overhead conductor enabling the train to be recharged via its pantograph. The overhead conductor bar is electrified at 1,500 V DC, powered from the local electricity grid 6.6 kV AC supply.",
-            "History": "The station opened on 15 April 1923.\n\nSurrounding area\n Nasukarasuyama City Office\n Karasuyama High School\n Naka River\n \n Karasuyama Post Office\n\nBus routes\n\n Karasuyama Municipal Bus - For Takabe Shako and Ichihana Station via Motegi Station\n Nakagawa Community Bus - For Nakagawa Village Hall\n\nPassenger statistics\nIn fiscal 2019, the station was used by an average of 537 passengers daily (boarding passengers only).\n\nSee also\n List of railway stations in Japan",
-            "References": "External links\n\n JR East Station information \n\nRailway stations in Tochigi Prefecture\nRailway stations in Japan opened in 1923\nKarasuyama Line",
-            "Nasukarasuyama": "Stations of East Japan Railway Company"
-          },
-          "全文": "is a railway station in the city of Nasukarasuyama, Tochigi, Japan, operated by the East Japan Railway Company (JR East).\n\nLines\nKarasuyama Station forms the terminus of the Karasuyama Line, a 20.4 km branch line from .\n\nStation layout\nThe station consists of one side platform serving a single track. The station formerly had a \"Midori no Madoguchi\" staffed ticket office, but this closed from August 2013, and tickets are available only from ticket vending machines.\n\nIn February 2012, a recharging facility was built at the station for use by the experimental NE Train battery railcar, which is undergoing testing on the line. The recharging facility consists of a rigid overhead conductor enabling the train to be recharged via its pantograph. The overhead conductor bar is electrified at 1,500 V DC, powered from the local electricity grid 6.6 kV AC supply.\n\nPlatforms\n\nHistory\nThe station opened on 15 April 1923.\n\nSurrounding area\n Nasukarasuyama City Office\n Karasuyama High School\n Naka River\n \n Karasuyama Post Office\n\nBus routes\n\n Karasuyama Municipal Bus - For Takabe Shako and Ichihana Station via Motegi Station\n Nakagawa Community Bus - For Nakagawa Village Hall\n\nPassenger statistics\nIn fiscal 2019, the station was used by an average of 537 passengers daily (boarding passengers only).\n\nSee also\n List of railway stations in Japan\n\nReferences\n\nExternal links\n\n JR East Station information \n\nRailway stations in Tochigi Prefecture\nRailway stations in Japan opened in 1923\nKarasuyama Line\nNasukarasuyama\nStations of East Japan Railway Company",
-          "字数": 1557
+          "链接": "https://en.wikipedia.org/wiki/Karasuyama_Station",
+          "首段": "Karasuyama Station (烏山駅, Karasuyama-eki) is a railway station in Minami 2-chōme, Nasukarasuyama, Tochigi Prefecture, Japan. It is the terminus of the Karasuyama Line and the easternmost JR station in Tochigi Prefecture.",
+          "章节": {},
+          "全文": "Karasuyama Station (烏山駅, Karasuyama-eki) is a railway station in Minami 2-chōme, Nasukarasuyama, Tochigi Prefecture, Japan. It is the terminus of the Karasuyama Line and the easternmost JR station in Tochigi Prefecture.",
+          "字数": 219
         }
       },
       "结构化信息": {
@@ -615,16 +628,11 @@
         },
         "英文": {
           "词条标题": "Kōnoyama Station",
-          "链接": "https://en.wikipedia.org/wiki/K%C5%8Dnoyama%20Station",
-          "首段": "is a railway station in the city of Nasukarasuyama, Tochigi, Japan, operated by East Japan Railway Company (JR East).",
-          "章节": {
-            "Lines": "Kōnoyama Station is served by the Karasuyama Line, a 20.4 km branch line from  to , and is located 8.3 km from Hōshakuji.\n\nStation layout\nThe station has one side platform serving the single-track line. There is no station building, but only a weather shelter built into the platform. The station is unattended.",
-            "History": "The station opened on 15 August 1934.\n\nSurrounding area\nMinami-Utsunomiya Country Club\nNisshin Kogyo\n\nSee also\n List of railway stations in Japan",
-            "References": "External links\n\n JR East Station information \n\nRailway stations in Tochigi Prefecture\nRailway stations in Japan opened in 1934\nKarasuyama Line",
-            "Nasukarasuyama": "Stations of East Japan Railway Company"
-          },
-          "全文": "is a railway station in the city of Nasukarasuyama, Tochigi, Japan, operated by East Japan Railway Company (JR East).\n\nLines\nKōnoyama Station is served by the Karasuyama Line, a 20.4 km branch line from  to , and is located 8.3 km from Hōshakuji.\n\nStation layout\nThe station has one side platform serving the single-track line. There is no station building, but only a weather shelter built into the platform. The station is unattended.\n\nHistory\nThe station opened on 15 August 1934.\n\nSurrounding area\nMinami-Utsunomiya Country Club\nNisshin Kogyo\n\nSee also\n List of railway stations in Japan\n\nReferences\n\nExternal links\n\n JR East Station information \n\nRailway stations in Tochigi Prefecture\nRailway stations in Japan opened in 1934\nKarasuyama Line\nNasukarasuyama\nStations of East Japan Railway Company",
-          "字数": 801
+          "链接": "https://en.wikipedia.org/wiki/K%C5%8Dnoyama_Station",
+          "首段": "Kōnoyama Station (鴻野山駅, Kōnoyama-eki) is a railway station on the JR East Karasuyama Line in Kōnoyama, Nasukarasuyama, Tochigi Prefecture, Japan.",
+          "章节": {},
+          "全文": "Kōnoyama Station (鴻野山駅, Kōnoyama-eki) is a railway station on the JR East Karasuyama Line in Kōnoyama, Nasukarasuyama, Tochigi Prefecture, Japan.",
+          "字数": 145
         }
       },
       "结构化信息": {
@@ -662,6 +670,6 @@
     "有中文词条": 8,
     "已千问汉化": 0,
     "待汉化": 0,
-    "有英文词条": 5
+    "有英文词条": 8
   }
 }
