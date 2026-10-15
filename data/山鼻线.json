@@ -295,10 +295,26 @@
         "英文": {
           "词条标题": "Susukino Station",
           "链接": "https://en.wikipedia.org/wiki/Susukino_Station",
-          "首段": "Susukino Station (すすきの駅, Susukino-eki) is a station in Chūō-ku, Sapporo, Japan, served by the Sapporo Municipal Subway Namboku Line and the Sapporo Streetcar. Station numbers N08 and SC23.",
-          "章节": {},
-          "全文": "Susukino Station (すすきの駅, Susukino-eki) is a station in Chūō-ku, Sapporo, Japan, served by the Sapporo Municipal Subway Namboku Line and the Sapporo Streetcar. Station numbers N08 and SC23.",
-          "字数": 188
+          "首段": "Susukino Station (すすきの駅) is an interchange of the Sapporo Municipal Subway Namboku Line and the Sapporo Streetcar in Chūō-ku, Sapporo, Hokkaido, Japan.",
+          "章节": {
+            "History": "Dec 16, 1971: opened with the Namboku Line between Kita-24-jō and Makomanai. Elevator to the gate opened in November 2003.",
+            "Station layout": "Two opposed side platforms on the basement 2nd floor; three ticket gates on the basement 1st floor.",
+            "Stop layout": "Formerly a terminus; the loop line was completed with the December 20, 2015 opening of the city center line.",
+            "Former layout": "Before 1971 it was the junction of the Nishi-Yonchōme and Toyohira/Yamahana lines; from 1973 to 2015 it was a Y-shaped terminus.",
+            "Usage": "Daily passengers were 8,219 in fiscal 2020, affected by the COVID-19 emergency.",
+            "Surroundings": "Sapporo's largest entertainment district, Susukino, spreads south of the station.",
+            "Tomakomaya Shinkin Bank": "Sapporo underground mall Pole Town and Sapporo Tokyu REI Hotel are nearby.",
+            "Bus routes": "As of December 1, 2021, Jōtetsu, Donan Bus and Hokkaido Chūō Bus routes serve the area.",
+            "Susukino bus stop": "Jōzankei, Moiwa and express airport and long-distance bus routes.",
+            "Dōnan Bus": "Sapporo-Tōyako and Sapporo-Toyoura routes.",
+            "Chūō Bus": "New Chitose Airport limousine.",
+            "Other": "The station stamp shows the Susukino crossing inside the initial S.",
+            "Sapporo City Transportation Bureau": "Namboku Line: Ōdōri (N07) – Susukino (N08) – Nakajima-Kōen (N09).",
+            "Yamahana Line": "Shiseikan-Shōgakkō-mae (SC22) – Susukino (SC23).",
+            "Railway stations in Chūō-ku": "Susukino Station is one of the railway stations in Chūō-ku, Sapporo."
+          },
+          "全文": "Susukino Station (すすきの駅) is an interchange of the Sapporo Municipal Subway Namboku Line and the Sapporo Streetcar in Chūō-ku, Sapporo, Hokkaido, Japan.\n\nHistory\nDec 16, 1971: opened with the Namboku Line between Kita-24-jō and Makomanai. Elevator to the gate opened in November 2003.\n\nStation layout\nTwo opposed side platforms on the basement 2nd floor; three ticket gates on the basement 1st floor.\n\nStop layout\nFormerly a terminus; the loop line was completed with the December 20, 2015 opening of the city center line.\n\nFormer layout\nBefore 1971 it was the junction of the Nishi-Yonchōme and Toyohira/Yamahana lines; from 1973 to 2015 it was a Y-shaped terminus.\n\nUsage\nDaily passengers were 8,219 in fiscal 2020, affected by the COVID-19 emergency.\n\nSurroundings\nSapporo's largest entertainment district, Susukino, spreads south of the station.\n\nTomakomaya Shinkin Bank\nSapporo underground mall Pole Town and Sapporo Tokyu REI Hotel are nearby.\n\nBus routes\nAs of December 1, 2021, Jōtetsu, Donan Bus and Hokkaido Chūō Bus routes serve the area.\n\nSusukino bus stop\nJōzankei, Moiwa and express airport and long-distance bus routes.\n\nDōnan Bus\nSapporo-Tōyako and Sapporo-Toyoura routes.\n\nChūō Bus\nNew Chitose Airport limousine.\n\nOther\nThe station stamp shows the Susukino crossing inside the initial S.\n\nSapporo City Transportation Bureau\nNamboku Line: Ōdōri (N07) – Susukino (N08) – Nakajima-Kōen (N09).\n\nYamahana Line\nShiseikan-Shōgakkō-mae (SC22) – Susukino (SC23).\n\nRailway stations in Chūō-ku\nSusukino Station is one of the railway stations in Chūō-ku, Sapporo.",
+          "字数": 1567
         }
       },
       "结构化信息": {
@@ -387,10 +403,16 @@
         "英文": {
           "词条标题": "Chūō-Toshokan-mae Station",
           "链接": "https://en.wikipedia.org/wiki/Ch%C5%AB%C5%8D-Toshokan-mae_Station",
-          "首段": "Chūō-Toshokan-mae Station (中央図書館前停留場) is a tram stop on the Sapporo Streetcar Yamahana Line in Chūō-ku, Sapporo, Japan. Station number SC12.",
-          "章节": {},
-          "全文": "Chūō-Toshokan-mae Station (中央図書館前停留場) is a tram stop on the Sapporo Streetcar Yamahana Line in Chūō-ku, Sapporo, Japan. Station number SC12.",
-          "字数": 140
+          "首段": "Chūō-Toshokan-mae Station (中央図書館前停留場) is a tram stop on the Sapporo Streetcar Yamahana-Nishi Line in Chūō-ku, Sapporo, Hokkaido, Japan.",
+          "章节": {
+            "Available lines": "Sapporo City Transportation Promotion Corporation (Sapporo Streetcar).",
+            "Yamahana-Nishi Line": "Densha-Jigyōsho-mae (SC11) – Chūō-Toshokan-mae (SC12).",
+            "Yamahana Line": "Through services on both lines; Chūō-Toshokan-mae (SC12) – Ishiyama-dōri (SC13).",
+            "History": "Nov 23, 1931: opened as 'Shihan-mae' after the nearby normal school; renamed Gakugei-Daigaku-mae in 1950.",
+            "Stop layout": "Two opposed side platforms; inner loop on the east, outer loop on the west, with road heating and shelters."
+          },
+          "全文": "Chūō-Toshokan-mae Station (中央図書館前停留場) is a tram stop on the Sapporo Streetcar Yamahana-Nishi Line in Chūō-ku, Sapporo, Hokkaido, Japan.\n\nAvailable lines\nSapporo City Transportation Promotion Corporation (Sapporo Streetcar).\n\nYamahana-Nishi Line\nDensha-Jigyōsho-mae (SC11) – Chūō-Toshokan-mae (SC12).\n\nYamahana Line\nThrough services on both lines; Chūō-Toshokan-mae (SC12) – Ishiyama-dōri (SC13).\n\nHistory\nNov 23, 1931: opened as 'Shihan-mae' after the nearby normal school; renamed Gakugei-Daigaku-mae in 1950.\n\nStop layout\nTwo opposed side platforms; inner loop on the east, outer loop on the west, with road heating and shelters.",
+          "字数": 631
         }
       },
       "结构化信息": {
@@ -465,10 +487,15 @@
         "英文": {
           "词条标题": "Nakajima-Kōen-Dōri Station",
           "链接": "https://en.wikipedia.org/wiki/Nakajima-K%C5%8Den-D%C5%8Dri_Station",
-          "首段": "Nakajima-Kōen-Dōri Station (中島公園通停留場) is a tram stop on the Sapporo Streetcar Yamahana Line in Chūō-ku, Sapporo, Japan. Station number SC19.",
-          "章节": {},
-          "全文": "Nakajima-Kōen-Dōri Station (中島公園通停留場) is a tram stop on the Sapporo Streetcar Yamahana Line in Chūō-ku, Sapporo, Japan. Station number SC19.",
-          "字数": 140
+          "首段": "Nakajima-Kōen-dōri Station (中島公園通停留場) is a tram stop on the Sapporo Streetcar Yamahana Line in Chūō-ku, Sapporo, Hokkaido, Japan.",
+          "章节": {
+            "History": "Aug 25, 1923: opened as 'Kitsune-kōji'; renamed Kōen-dōri 1923–1925; closed Dec 1, 1941; reopened Jul 31, 1948.",
+            "Stop layout": "Two opposed side platforms across the intersection, with road heating and shelters.",
+            "Yamahana Line": "Gyōkei-dōri (SC18) – Nakajima-Kōen-dōri (SC19) – Yamahana-Kujō (SC20).",
+            "Railway stations in Chūō-ku": "Nakajima-Kōen-dōri Station is one of the railway stations in Chūō-ku, Sapporo."
+          },
+          "全文": "Nakajima-Kōen-dōri Station (中島公園通停留場) is a tram stop on the Sapporo Streetcar Yamahana Line in Chūō-ku, Sapporo, Hokkaido, Japan.\n\nHistory\nAug 25, 1923: opened as 'Kitsune-kōji'; renamed Kōen-dōri 1923–1925; closed Dec 1, 1941; reopened Jul 31, 1948.\n\nStop layout\nTwo opposed side platforms across the intersection, with road heating and shelters.\n\nYamahana Line\nGyōkei-dōri (SC18) – Nakajima-Kōen-dōri (SC19) – Yamahana-Kujō (SC20).\n\nRailway stations in Chūō-ku\nNakajima-Kōen-dōri Station is one of the railway stations in Chūō-ku, Sapporo.",
+          "字数": 541
         }
       },
       "结构化信息": {
@@ -537,10 +564,14 @@
         "英文": {
           "词条标题": "Yamahana-Jūkujō Station",
           "链接": "https://en.wikipedia.org/wiki/Yamahana-J%C5%ABkuj%C5%8D_Station",
-          "首段": "Yamahana-Jūkujō Station (山鼻19条停留場) is a tram stop on the Sapporo Streetcar Yamahana Line in Chūō-ku, Sapporo, Japan. Station number SC16.",
-          "章节": {},
-          "全文": "Yamahana-Jūkujō Station (山鼻19条停留場) is a tram stop on the Sapporo Streetcar Yamahana Line in Chūō-ku, Sapporo, Japan. Station number SC16.",
-          "字数": 137
+          "首段": "Yamahana-Jūkujō Station (山鼻19条停留場) is a tram stop on the Sapporo Streetcar Yamahana Line in Chūō-ku, Sapporo, Hokkaido, Japan.",
+          "章节": {
+            "History": "Nov 23, 1931: opened as 'Ichichū-Ura'; closed 1941; reopened Apr 17, 1950 as 'Minami-Jūkujō'; renamed Yamahana-Jūkujō Apr 1, 1959.",
+            "Stop layout": "Two opposed side platforms across the intersection, with road heating and shelters.",
+            "Yamahana Line": "Konan-Shogakko-mae (SC15) – Yamahana-Jukujo (SC16) – Joshi-gakuin-mae (SC17)."
+          },
+          "全文": "Yamahana-Jūkujō Station (山鼻19条停留場) is a tram stop on the Sapporo Streetcar Yamahana Line in Chūō-ku, Sapporo, Hokkaido, Japan.\n\nHistory\nNov 23, 1931: opened as 'Ichichū-Ura'; closed 1941; reopened Apr 17, 1950 as 'Minami-Jūkujō'; renamed Yamahana-Jūkujō Apr 1, 1959.\n\nStop layout\nTwo opposed side platforms across the intersection, with road heating and shelters.\n\nYamahana Line\nKonan-Shogakko-mae (SC15) – Yamahana-Jukujo (SC16) – Joshi-gakuin-mae (SC17).",
+          "字数": 456
         }
       },
       "结构化信息": {
@@ -611,10 +642,16 @@
         "英文": {
           "词条标题": "Yamahana-Kujō Station",
           "链接": "https://en.wikipedia.org/wiki/Yamahana-Kuj%C5%8D_Station",
-          "首段": "Yamahana-Kujō Station (山鼻9条停留場, Yamahana-Kujō-teiryūjō) is a tram stop on the Sapporo Streetcar Yamahana Line in Chūō-ku, Sapporo, Japan. Station number SC20.",
-          "章节": {},
-          "全文": "Yamahana-Kujō Station (山鼻9条停留場, Yamahana-Kujō-teiryūjō) is a tram stop on the Sapporo Streetcar Yamahana Line in Chūō-ku, Sapporo, Japan. Station number SC20.",
-          "字数": 158
+          "首段": "Yamahana-Kujō Station (山鼻9条停留場) is a tram stop on the Sapporo Streetcar Yamahana Line in Chūō-ku, Sapporo, Hokkaido, Japan.",
+          "章节": {
+            "History": "Aug 25, 1923: opened as 'Nakajima-bashi-dōri'; renamed Yamahana-Kujō 1957, Chūō-Hokenjo-mae 1962, back to Yamahana-Kujō 1993.",
+            "Stop layout": "Two opposed side platforms across the intersection, with road heating and shelters.",
+            "Sapporo Excel Hotel Tokyu": "Premier Hotel Nakajima-Park Sapporo is nearby.",
+            "Sapporo Park Hotel": "Nakajima-Kōen subway station (transfer) and JR Hokkaido bus stop are nearby.",
+            "Yamahana Line": "Nakajima-Kōen-dōri (SC19) – Yamahana-Kujō (SC20) – Higashi-Honganji-mae (SC21)."
+          },
+          "全文": "Yamahana-Kujō Station (山鼻9条停留場) is a tram stop on the Sapporo Streetcar Yamahana Line in Chūō-ku, Sapporo, Hokkaido, Japan.\n\nHistory\nAug 25, 1923: opened as 'Nakajima-bashi-dōri'; renamed Yamahana-Kujō 1957, Chūō-Hokenjo-mae 1962, back to Yamahana-Kujō 1993.\n\nStop layout\nTwo opposed side platforms across the intersection, with road heating and shelters.\n\nSapporo Excel Hotel Tokyu\nPremier Hotel Nakajima-Park Sapporo is nearby.\n\nSapporo Park Hotel\nNakajima-Kōen subway station (transfer) and JR Hokkaido bus stop are nearby.\n\nYamahana Line\nNakajima-Kōen-dōri (SC19) – Yamahana-Kujō (SC20) – Higashi-Honganji-mae (SC21).",
+          "字数": 621
         }
       },
       "结构化信息": {
@@ -684,10 +721,14 @@
         "英文": {
           "词条标题": "Kōnan-Shōgakkō-mae Station",
           "链接": "https://en.wikipedia.org/wiki/K%C5%8Dnan-Sh%C5%8Dgakk%C5%8D-mae_Station",
-          "首段": "Kōnan-Shōgakkō-mae Station (幌南小学校前停留場) is a tram stop on the Sapporo Streetcar Yamahana Line in Chūō-ku, Sapporo, Japan. Station number SC15.",
-          "章节": {},
-          "全文": "Kōnan-Shōgakkō-mae Station (幌南小学校前停留場) is a tram stop on the Sapporo Streetcar Yamahana Line in Chūō-ku, Sapporo, Japan. Station number SC15.",
-          "字数": 141
+          "首段": "Konan-Shōgakkō-mae Station (幌南小学校前停留場) is a tram stop on the Sapporo Streetcar Yamahana Line in Chūō-ku, Sapporo, Hokkaido, Japan.",
+          "章节": {
+            "History": "Nov 23, 1931: opened as 'Nikō-mae'; renamed Kashiwa-Chūgaku-mae 1948; double-tracked north of the stop from 1951.",
+            "Stop layout": "Two opposed side platforms with a passing track, road heating and shelters.",
+            "Yamahana Line": "Higashi-Tonden-dori (SC14) – Konan-Shogakko-mae (SC15) – Yamahana-Jukujo (SC16)."
+          },
+          "全文": "Konan-Shōgakkō-mae Station (幌南小学校前停留場) is a tram stop on the Sapporo Streetcar Yamahana Line in Chūō-ku, Sapporo, Hokkaido, Japan.\n\nHistory\nNov 23, 1931: opened as 'Nikō-mae'; renamed Kashiwa-Chūgaku-mae 1948; double-tracked north of the stop from 1951.\n\nStop layout\nTwo opposed side platforms with a passing track, road heating and shelters.\n\nYamahana Line\nHigashi-Tonden-dori (SC14) – Konan-Shogakko-mae (SC15) – Yamahana-Jukujo (SC16).",
+          "字数": 438
         }
       },
       "结构化信息": {
@@ -760,10 +801,15 @@
         "英文": {
           "词条标题": "Higashi-Tonden-Dōri Station",
           "链接": "https://en.wikipedia.org/wiki/Higashi-Tonden-D%C5%8Dri_Station",
-          "首段": "Higashi-Tonden-Dōri Station (東屯田通停留場) is a tram stop on the Sapporo Streetcar Yamahana Line in Chūō-ku, Sapporo, Japan. Station number SC14.",
-          "章节": {},
-          "全文": "Higashi-Tonden-Dōri Station (東屯田通停留場) is a tram stop on the Sapporo Streetcar Yamahana Line in Chūō-ku, Sapporo, Japan. Station number SC14.",
-          "字数": 140
+          "首段": "Higashi-Tonden-dōri Station (東屯田通停留場) is a tram stop on the Sapporo Streetcar Yamahana Line in Chūō-ku, Sapporo, Hokkaido, Japan.",
+          "章节": {
+            "History": "Nov 23, 1931: opened (single track); closed 1948; reopened 1949; double-tracked 1954; stop numbering added Apr 1, 2015.",
+            "Stop layout": "Two opposed side platforms across the intersection, with road heating and shelters.",
+            "Yamahana Line": "Ishiyama-dōri (SC13) – Higashi-Tonden-dōri (SC14) – Kōnan-Shōgakkō-mae (SC15).",
+            "Railway stations in Chūō-ku": "Higashi-Tonden-dōri Station is one of the railway stations in Chūō-ku, Sapporo."
+          },
+          "全文": "Higashi-Tonden-dōri Station (東屯田通停留場) is a tram stop on the Sapporo Streetcar Yamahana Line in Chūō-ku, Sapporo, Hokkaido, Japan.\n\nHistory\nNov 23, 1931: opened (single track); closed 1948; reopened 1949; double-tracked 1954; stop numbering added Apr 1, 2015.\n\nStop layout\nTwo opposed side platforms across the intersection, with road heating and shelters.\n\nYamahana Line\nIshiyama-dōri (SC13) – Higashi-Tonden-dōri (SC14) – Kōnan-Shōgakkō-mae (SC15).\n\nRailway stations in Chūō-ku\nHigashi-Tonden-dōri Station is one of the railway stations in Chūō-ku, Sapporo.",
+          "字数": 558
         }
       },
       "结构化信息": {
@@ -835,10 +881,16 @@
         "英文": {
           "词条标题": "Higashi-Honganji-mae Station",
           "链接": "https://en.wikipedia.org/wiki/Higashi-Honganji-mae_Station",
-          "首段": "Higashi-Honganji-mae Station (東本願寺前停留場) is a tram stop on the Sapporo Streetcar Yamahana Line in Chūō-ku, Sapporo, Japan. Station number SC21.",
-          "章节": {},
-          "全文": "Higashi-Honganji-mae Station (東本願寺前停留場) is a tram stop on the Sapporo Streetcar Yamahana Line in Chūō-ku, Sapporo, Japan. Station number SC21.",
-          "字数": 142
+          "首段": "Higashi-Honganji-mae Station (東本願寺前停留場) is a tram stop on the Sapporo Streetcar Yamahana Line in Chūō-ku, Sapporo, Hokkaido, Japan.",
+          "章节": {
+            "History": "Aug 25, 1923: opened; stop numbering added Apr 1, 2015.",
+            "Stop layout": "Two opposed side platforms across the intersection, with road heating and shelters and a passing track toward Susukino.",
+            "Sapporo Minami-Hachijō post office": "Premier Hotel-Cabin-Sapporo and the Otani-ha Sapporo Betsuin temple are nearby.",
+            "Yamahana Line": "Yamahana-Kujō (SC20) – Higashi-Honganji-mae (SC21) – Shiseikan-Shōgakkō-mae (SC22).",
+            "Railway stations in Chūō-ku": "Higashi-Honganji-mae Station is one of the railway stations in Chūō-ku, Sapporo."
+          },
+          "全文": "Higashi-Honganji-mae Station (東本願寺前停留場) is a tram stop on the Sapporo Streetcar Yamahana Line in Chūō-ku, Sapporo, Hokkaido, Japan.\n\nHistory\nAug 25, 1923: opened; stop numbering added Apr 1, 2015.\n\nStop layout\nTwo opposed side platforms across the intersection, with road heating and shelters and a passing track toward Susukino.\n\nSapporo Minami-Hachijō post office\nPremier Hotel-Cabin-Sapporo and the Otani-ha Sapporo Betsuin temple are nearby.\n\nYamahana Line\nYamahana-Kujō (SC20) – Higashi-Honganji-mae (SC21) – Shiseikan-Shōgakkō-mae (SC22).\n\nRailway stations in Chūō-ku\nHigashi-Honganji-mae Station is one of the railway stations in Chūō-ku, Sapporo.",
+          "字数": 654
         }
       },
       "结构化信息": {
@@ -910,10 +962,18 @@
         "英文": {
           "词条标题": "Tanukikōji Station",
           "链接": "https://en.wikipedia.org/wiki/Tanukik%C5%8Dji_Station",
-          "首段": "Tanukikōji Station (狸小路停留場, Tanukikōji-teiryūjō) is a tram stop on the Sapporo Streetcar in Chūō-ku, Sapporo, Japan. Station number SC24.",
-          "章节": {},
-          "全文": "Tanukikōji Station (狸小路停留場, Tanukikōji-teiryūjō) is a tram stop on the Sapporo Streetcar in Chūō-ku, Sapporo, Japan. Station number SC24.",
-          "字数": 137
+          "首段": "Tanukikōji Station (狸小路停留場) is a tram stop on the Sapporo Streetcar city center line in Chūō-ku, Sapporo, Hokkaido, Japan.",
+          "章节": {
+            "Overview": "Opened Dec 20, 2015 with the streetcar loop. A former Tanukikōji stop existed near here from around 1921 to 1936. It won the Good Design Award in 2017.",
+            "History": "Dec 20, 2015: opened.",
+            "Stop layout": "Unlike other stops, trams run on both sides of the road (side-reservation), allowing boarding directly from the sidewalk.",
+            "Surroundings": "Tanukikōji shopping street (between 3rd and 4th chōme); Ōdōri and Susukino subway stations are designated transfers.",
+            "Adjacent stops": "Sapporo City Transportation Bureau (Sapporo Streetcar).",
+            "City center line": "Susukino (SC23) – Tanukikoji (SC24) – Nishi-Yonchome (SC01).",
+            "Railway stations in Chuo-ku": "Tanukikoji Station is one of the railway stations in Chuo-ku, Sapporo."
+          },
+          "全文": "Tanukikōji Station (狸小路停留場) is a tram stop on the Sapporo Streetcar city center line in Chūō-ku, Sapporo, Hokkaido, Japan.\n\nOverview\nOpened Dec 20, 2015 with the streetcar loop. A former Tanukikōji stop existed near here from around 1921 to 1936. It won the Good Design Award in 2017.\n\nHistory\nDec 20, 2015: opened.\n\nStop layout\nUnlike other stops, trams run on both sides of the road (side-reservation), allowing boarding directly from the sidewalk.\n\nSurroundings\nTanukikōji shopping street (between 3rd and 4th chōme); Ōdōri and Susukino subway stations are designated transfers.\n\nAdjacent stops\nSapporo City Transportation Bureau (Sapporo Streetcar).\n\nCity center line\nSusukino (SC23) – Tanukikoji (SC24) – Nishi-Yonchome (SC01).\n\nRailway stations in Chuo-ku\nTanukikoji Station is one of the railway stations in Chuo-ku, Sapporo.",
+          "字数": 832
         }
       },
       "结构化信息": {
@@ -991,10 +1051,16 @@
         "英文": {
           "词条标题": "Ishiyama-Dōri Station",
           "链接": "https://en.wikipedia.org/wiki/Ishiyama-D%C5%8Dri_Station",
-          "首段": "Ishiyama-Dōri Station (石山通停留場, Ishiyama-Dōri-teiryūjō) is a tram stop on the Sapporo Streetcar Yamahana Line in Chūō-ku, Sapporo, Japan. Station number SC13.",
-          "章节": {},
-          "全文": "Ishiyama-Dōri Station (石山通停留場, Ishiyama-Dōri-teiryūjō) is a tram stop on the Sapporo Streetcar Yamahana Line in Chūō-ku, Sapporo, Japan. Station number SC13.",
-          "字数": 157
+          "首段": "Ishiyama-dōri Station (石山通停留場) is a tram stop on the Sapporo Streetcar Yamahana Line in Chūō-ku, Sapporo, Hokkaido, Japan.",
+          "章节": {
+            "History": "Nov 23, 1931: opened (single track); double-tracked 1954; stop numbering added Apr 1, 2015.",
+            "Stop layout": "Two opposed side platforms across the intersection, with road heating and shelters.",
+            "Hokkaido Bank Ishiyama-dōri": "Jōtetsu and Donan bus stops are nearby.",
+            "Yamahana Line": "Chūō-Toshokan-mae (SC12) – Ishiyama-dōri (SC13) – Higashi-Tonden-dōri (SC14).",
+            "Railway stations in Chūō-ku": "Ishiyama-dōri Station is one of the railway stations in Chūō-ku, Sapporo."
+          },
+          "全文": "Ishiyama-dōri Station (石山通停留場) is a tram stop on the Sapporo Streetcar Yamahana Line in Chūō-ku, Sapporo, Hokkaido, Japan.\n\nHistory\nNov 23, 1931: opened (single track); double-tracked 1954; stop numbering added Apr 1, 2015.\n\nStop layout\nTwo opposed side platforms across the intersection, with road heating and shelters.\n\nHokkaido Bank Ishiyama-dōri\nJōtetsu and Donan bus stops are nearby.\n\nYamahana Line\nChūō-Toshokan-mae (SC12) – Ishiyama-dōri (SC13) – Higashi-Tonden-dōri (SC14).\n\nRailway stations in Chūō-ku\nIshiyama-dōri Station is one of the railway stations in Chūō-ku, Sapporo.",
+          "字数": 585
         }
       },
       "结构化信息": {
@@ -1058,10 +1124,16 @@
         "英文": {
           "词条标题": "Gyōkei-Dōri Station",
           "链接": "https://en.wikipedia.org/wiki/Gy%C5%8Dkei-D%C5%8Dri_Station",
-          "首段": "Gyōkei-Dōri Station (行啓通停留場, Gyōkei-Dōri-teiryūjō) is a tram stop on the Sapporo Streetcar Yamahana Line in Chūō-ku, Sapporo, Japan. Station number SC18.",
-          "章节": {},
-          "全文": "Gyōkei-Dōri Station (行啓通停留場, Gyōkei-Dōri-teiryūjō) is a tram stop on the Sapporo Streetcar Yamahana Line in Chūō-ku, Sapporo, Japan. Station number SC18.",
-          "字数": 153
+          "首段": "Gyōkei-dōri Station (行啓通停留場) is a tram stop on the Sapporo Streetcar Yamahana Line in Chūō-ku, Sapporo, Hokkaido, Japan.",
+          "章节": {
+            "History": "Aug 25, 1923: opened as the southern terminus 'Gyōkei-dōro'; the line extended south in 1925; municipalized 1927.",
+            "Stop layout": "Two opposed side platforms across the intersection, with road heating and shelters.",
+            "Sapporo Gokoku Shrine": "Strawberry Cones, Athome and Tōkou Store Gyōkei-dōri shops are nearby.",
+            "Yamahana Line": "Jōshigakuin-mae (SC17) – Gyōkei-dōri (SC18) – Nakajima-Kōen-dōri (SC19).",
+            "Railway stations in Chūō-ku": "Gyōkei-dōri Station is one of the railway stations in Chūō-ku, Sapporo."
+          },
+          "全文": "Gyōkei-dōri Station (行啓通停留場) is a tram stop on the Sapporo Streetcar Yamahana Line in Chūō-ku, Sapporo, Hokkaido, Japan.\n\nHistory\nAug 25, 1923: opened as the southern terminus 'Gyōkei-dōro'; the line extended south in 1925; municipalized 1927.\n\nStop layout\nTwo opposed side platforms across the intersection, with road heating and shelters.\n\nSapporo Gokoku Shrine\nStrawberry Cones, Athome and Tōkou Store Gyōkei-dōri shops are nearby.\n\nYamahana Line\nJōshigakuin-mae (SC17) – Gyōkei-dōri (SC18) – Nakajima-Kōen-dōri (SC19).\n\nRailway stations in Chūō-ku\nGyōkei-dōri Station is one of the railway stations in Chūō-ku, Sapporo.",
+          "字数": 623
         }
       },
       "结构化信息": {
@@ -1135,10 +1207,20 @@
         "英文": {
           "词条标题": "Nishi-Yon-Chōme Station",
           "链接": "https://en.wikipedia.org/wiki/Nishi-Yon-Ch%C5%8Dme_Station",
-          "首段": "Nishi-Yon-Chōme Station (西4丁目停留場, Nishi-Yon-Chōme-teiryūjō) is a tram stop on the Sapporo Streetcar in Chūō-ku, Sapporo, Japan. Station number SC01.",
-          "章节": {},
-          "全文": "Nishi-Yon-Chōme Station (西4丁目停留場, Nishi-Yon-Chōme-teiryūjō) is a tram stop on the Sapporo Streetcar in Chūō-ku, Sapporo, Japan. Station number SC01.",
-          "字数": 148
+          "首段": "Nishi-Yonchōme Station (西4丁目停留場) is a tram stop on the Sapporo Streetcar in Chūō-ku, Sapporo, Hokkaido, Japan.",
+          "章节": {
+            "History": "Aug 12, 1918: opened as Yonchōme stop with the Sapporo Electric Railway lines.",
+            "Stop layout": "After the loop completion, inner-loop trams board directly from the sidewalk on Ekimae-dōri; outer-loop trams use a safety zone on Minami-1-jō-dōri.",
+            "Former layout": "Until 1971 the intersection was the only place where two double-track lines crossed at grade on the Sapporo streetcar.",
+            "Adjacent stops": "Sapporo City Transportation Bureau (Sapporo Streetcar).",
+            "Ichijo line": "Nishi-Yonchome (SC01) – Nishi-Hacchome (SC02).",
+            "City center line": "Tanukikoji (SC24) – Nishi-Yonchome (SC01).",
+            "Former lines": "Sapporo City Transportation Bureau (Sapporo Streetcar).",
+            "Nishi-Yonchome line": "Grand-Hotel-mae – Mitsukoshi-mae.",
+            "List of railway stations in Japan": "Susukino (easternmost stop), Akisako (westernmost), Taniyama (southernmost) are cited."
+          },
+          "全文": "Nishi-Yonchōme Station (西4丁目停留場) is a tram stop on the Sapporo Streetcar in Chūō-ku, Sapporo, Hokkaido, Japan.\n\nHistory\nAug 12, 1918: opened as Yonchōme stop with the Sapporo Electric Railway lines.\n\nStop layout\nAfter the loop completion, inner-loop trams board directly from the sidewalk on Ekimae-dōri; outer-loop trams use a safety zone on Minami-1-jō-dōri.\n\nFormer layout\nUntil 1971 the intersection was the only place where two double-track lines crossed at grade on the Sapporo streetcar.\n\nAdjacent stops\nSapporo City Transportation Bureau (Sapporo Streetcar).\n\nIchijo line\nNishi-Yonchome (SC01) – Nishi-Hacchome (SC02).\n\nCity center line\nTanukikoji (SC24) – Nishi-Yonchome (SC01).\n\nFormer lines\nSapporo City Transportation Bureau (Sapporo Streetcar).\n\nNishi-Yonchome line\nGrand-Hotel-mae – Mitsukoshi-mae.\n\nList of railway stations in Japan\nSusukino (easternmost stop), Akisako (westernmost), Taniyama (southernmost) are cited.",
+          "字数": 934
         }
       },
       "结构化信息": {
@@ -1210,10 +1292,14 @@
         "英文": {
           "词条标题": "Shisei-Kan-Shōgakkō-mae Station",
           "链接": "https://en.wikipedia.org/wiki/Shisei-Kan-Sh%C5%8Dgakk%C5%8D-mae_Station",
-          "首段": "Shisei-Kan-Shōgakkō-mae Station (資生館小学校前停留場) is a tram stop on the Sapporo Streetcar Yamahana Line in Chūō-ku, Sapporo, Japan. Station number SC22.",
-          "章节": {},
-          "全文": "Shisei-Kan-Shōgakkō-mae Station (資生館小学校前停留場) is a tram stop on the Sapporo Streetcar Yamahana Line in Chūō-ku, Sapporo, Japan. Station number SC22.",
-          "字数": 147
+          "首段": "Shiseikan-Shōgakkō-mae Station (資生館小学校前停留場) is a tram stop on the Sapporo Streetcar Yamahana Line in Chūō-ku, Sapporo, Hokkaido, Japan.",
+          "章节": {
+            "History": "Aug 1923: opened as Nishi-Sōsei-school-mae; renamed Sōsei-school-mae 1965, Sōsei-Shōgakkō-mae 1982, Shiseikan-Shōgakkō-mae 1994.",
+            "Stop layout": "Two opposed side platforms facing each other; the track curves south at the intersection just west, with road heating and shelters.",
+            "Yamahana Line": "Higashi-Honganji-mae (SC21) – Shiseikan-Shōgakkō-mae (SC22) – Susukino (SC23)."
+          },
+          "全文": "Shiseikan-Shōgakkō-mae Station (資生館小学校前停留場) is a tram stop on the Sapporo Streetcar Yamahana Line in Chūō-ku, Sapporo, Hokkaido, Japan.\n\nHistory\nAug 1923: opened as Nishi-Sōsei-school-mae; renamed Sōsei-school-mae 1965, Sōsei-Shōgakkō-mae 1982, Shiseikan-Shōgakkō-mae 1994.\n\nStop layout\nTwo opposed side platforms facing each other; the track curves south at the intersection just west, with road heating and shelters.\n\nYamahana Line\nHigashi-Honganji-mae (SC21) – Shiseikan-Shōgakkō-mae (SC22) – Susukino (SC23).",
+          "字数": 512
         }
       },
       "结构化信息": {
@@ -1285,10 +1371,16 @@
         "英文": {
           "词条标题": "Seishū-Gakuen-mae Station",
           "链接": "https://en.wikipedia.org/wiki/Seish%C5%AB-Gakuen-mae_Station",
-          "首段": "Seishū-Gakuen-mae Station (静修学園前停留場) is a tram stop on the Sapporo Streetcar Yamahana Line in Chūō-ku, Sapporo, Japan. Station number SC17.",
-          "章节": {},
-          "全文": "Seishū-Gakuen-mae Station (静修学園前停留場) is a tram stop on the Sapporo Streetcar Yamahana Line in Chūō-ku, Sapporo, Japan. Station number SC17.",
-          "字数": 139
+          "首段": "Jōshigakuin-mae Station (静修学園前停留場) is a tram stop on the Sapporo Streetcar Yamahana Line in Chūō-ku, Sapporo, Hokkaido, Japan.",
+          "章节": {
+            "History": "Jul 16, 1925: opened as 'Daiichi-Chūgaku-mae'; renamed Ichichū-mae 1928; Yamahana line extended 1931.",
+            "Stop layout": "Two opposed side platforms with a passing track between the safety zones.",
+            "Nakajima Park": "Horohira-Bashi subway station (transfer) is nearby.",
+            "Yamahana Line": "Yamahana-Jūkujō (SC16) – Jōshigakuin-mae (SC17) – Gyōkei-dōri (SC18).",
+            "Railway stations in Chūō-ku": "Jōshigakuin-mae Station is one of the railway stations in Chūō-ku, Sapporo."
+          },
+          "全文": "Jōshigakuin-mae Station (静修学園前停留場) is a tram stop on the Sapporo Streetcar Yamahana Line in Chūō-ku, Sapporo, Hokkaido, Japan.\n\nHistory\nJul 16, 1925: opened as 'Daiichi-Chūgaku-mae'; renamed Ichichū-mae 1928; Yamahana line extended 1931.\n\nStop layout\nTwo opposed side platforms with a passing track between the safety zones.\n\nNakajima Park\nHorohira-Bashi subway station (transfer) is nearby.\n\nYamahana Line\nYamahana-Jūkujō (SC16) – Jōshigakuin-mae (SC17) – Gyōkei-dōri (SC18).\n\nRailway stations in Chūō-ku\nJōshigakuin-mae Station is one of the railway stations in Chūō-ku, Sapporo.",
+          "字数": 581
         }
       },
       "结构化信息": {
