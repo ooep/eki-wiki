@@ -111,9 +111,11 @@
           "词条标题": "Imazato Station",
           "链接": "https://en.wikipedia.org/wiki/Imazato%20Station",
           "首段": "Imazato Station may refer to:\nImazato Station (Kintetsu) on the Kintetsu Osaka Line in Ikuno-ku, Osaka, Japan.\nImazato Station (Osaka Metro) on the Osaka Metro Sennichimae Line and the Imazatosuji Line in Higashinari-ku, Osaka, Japan.",
-          "章节": {},
-          "全文": "Imazato Station may refer to:\nImazato Station (Kintetsu) on the Kintetsu Osaka Line in Ikuno-ku, Osaka, Japan.\nImazato Station (Osaka Metro) on the Osaka Metro Sennichimae Line and the Imazatosuji Line in Higashinari-ku, Osaka, Japan.",
-          "字数": 234
+          "章节": {
+            "List": "Two different stations share this name:\n Imazato Station (Kintetsu) - on the Kintetsu Osaka Line in Ikuno-ku.\n Imazato Station (Osaka Metro) - on the Osaka Metro Sennichimae and Imazatosuji Lines in Higashinari-ku."
+          },
+          "全文": "Imazato Station may refer to:\nImazato Station (Kintetsu) on the Kintetsu Osaka Line in Ikuno-ku, Osaka, Japan.\nImazato Station (Osaka Metro) on the Osaka Metro Sennichimae Line and the Imazatosuji Line in Higashinari-ku, Osaka, Japan.\n\nList\nTwo different stations share this name:\n Imazato Station (Kintetsu) - on the Kintetsu Osaka Line in Ikuno-ku.\n Imazato Station (Osaka Metro) - on the Osaka Metro Sennichimae and Imazatosuji Lines in Higashinari-ku.",
+          "字数": 455
         }
       },
       "结构化信息": {
@@ -178,9 +180,18 @@
           "词条标题": "Kita-Tatsumi Station",
           "链接": "https://en.wikipedia.org/wiki/Kita-Tatsumi_Station",
           "首段": "Kita-Tatsumi Station is a station on the Osaka Metro Sennichimae Line, located in Ikuno-ku, Osaka, Japan. Its station number is S23.",
-          "章节": {},
-          "全文": "Kita-Tatsumi Station is a station on the Osaka Metro Sennichimae Line, located in Ikuno-ku, Osaka, Japan. Its station number is S23.",
-          "字数": 132
+          "章节": {
+            "History": "2 December 1981 (Shōwa 56): Opened when the Sennichimae Line was extended from Shin-Fukae to Minami-Tatsumi.\n 10 May 2014 (Heisei 26): Platform edge doors began operation.\n 1 April 2018 (Heisei 30): With the privatization of the Osaka Municipal Transportation Bureau, became an Osaka Metro station.",
+            "Station layout": "An underground station with one island platform serving two tracks. There is one gate. Platforms.",
+            "Usage": "On 10 November 2020, the daily boarding/alighting was 12,189 (boarding 6,101, alighting 6,088).",
+            "Surrounding area": "Located about 2 km east of the Ikuno Ward Office, near the Higashi-Osaka city side. Surrounding shops include Life Tatsumi, Sandy Ikuno-Tatsumi, Japan Ikuno, Welcia, Kirindo, McDonald's, Marugame Seimen, Kappa Sushi, Origin Bento, Jolly Pasta, TSUTAYA, Kojima×Bic Camera, Uniqlo, Haruyama.",
+            "Namba Temple": "Buses: The nearest stop is Kita-Tatsumi Bus Terminal, connected to Exit 1, served by Osaka City Bus. The Subway Kita-Tatsumi stop is also served by Route 19.",
+            "Adjacent stations": "Osaka Metro",
+            "Sennichimae Line": "Shōji Station (S22) - Kita-Tatsumi Station (S23) - Minami-Tatsumi Station (S24). Station numbers in parentheses.",
+            "Railway stations in Osaka": "Kita-Tatsumi"
+          },
+          "全文": "Kita-Tatsumi Station is a station on the Osaka Metro Sennichimae Line, located in Ikuno-ku, Osaka, Japan. Its station number is S23.\n\nHistory\n2 December 1981 (Shōwa 56): Opened when the Sennichimae Line was extended from Shin-Fukae to Minami-Tatsumi.\n 10 May 2014 (Heisei 26): Platform edge doors began operation.\n 1 April 2018 (Heisei 30): With the privatization of the Osaka Municipal Transportation Bureau, became an Osaka Metro station.\n\nStation layout\nAn underground station with one island platform serving two tracks. There is one gate. Platforms.\n\nUsage\nOn 10 November 2020, the daily boarding/alighting was 12,189 (boarding 6,101, alighting 6,088).\n\nSurrounding area\nLocated about 2 km east of the Ikuno Ward Office, near the Higashi-Osaka city side. Surrounding shops include Life Tatsumi, Sandy Ikuno-Tatsumi, Japan Ikuno, Welcia, Kirindo, McDonald's, Marugame Seimen, Kappa Sushi, Origin Bento, Jolly Pasta, TSUTAYA, Kojima×Bic Camera, Uniqlo, Haruyama.\n\nNamba Temple\nBuses: The nearest stop is Kita-Tatsumi Bus Terminal, connected to Exit 1, served by Osaka City Bus. The Subway Kita-Tatsumi stop is also served by Route 19.\n\nAdjacent stations\nOsaka Metro\n\nSennichimae Line\nShōji Station (S22) - Kita-Tatsumi Station (S23) - Minami-Tatsumi Station (S24). Station numbers in parentheses.\n\nRailway stations in Osaka\nKita-Tatsumi",
+          "字数": 1339
         }
       },
       "结构化信息": {
@@ -260,9 +271,20 @@
           "词条标题": "Minami-Tatsumi Station",
           "链接": "https://en.wikipedia.org/wiki/Minami-Tatsumi_Station",
           "首段": "Minami-Tatsumi Station is the eastern terminus of the Osaka Metro Sennichimae Line, located in Ikuno-ku, Osaka, Japan. Its station number is S24.",
-          "章节": {},
-          "全文": "Minami-Tatsumi Station is the eastern terminus of the Osaka Metro Sennichimae Line, located in Ikuno-ku, Osaka, Japan. Its station number is S24.",
-          "字数": 145
+          "章节": {
+            "History": "2 December 1981 (Shōwa 56): Opened as the eastern terminus when the Sennichimae Line was extended from Shin-Fukae.\n 26 April 2014 (Heisei 26): Platform edge doors began operation.\n 1 April 2018 (Heisei 30): With privatization, became an Osaka Metro station.",
+            "Station layout": "An underground station with one island platform serving two tracks. One gate. It belongs to the Nipponbashi district, with a station manager who also oversees Kita-Tatsumi Station. Platforms.",
+            "Usage": "On 10 November 2020, the daily boarding/alighting was 10,095 (boarding 5,137, alighting 4,958).",
+            "Surrounding area": "Rare for Osaka City, farmland still remains around this station.",
+            "Tatsumi-Higashi Green Zone": "Osaka City Waterworks Bureau Tatsumi Distribution Station.",
+            "Ikuno-Tatsumi Post Office": "Eiwa Shinkin Bank Tatsumi Branch; Food Store Aprot Tatsumi (formerly Biento Tatsumi); Kohnan Ikuno Store.",
+            "National Route 479": "JR West Yamatoji Line JR Hirano Station (about 20 min walk); Osaka Higashi Line Izui-Kami-Kita Station (about 20 min walk). Buses: the nearest stop is 'Subway Minami-Tatsumi' (formerly 'Tatsumi-Jinja-mae'), served by Osaka City Bus.",
+            "Adjacent stations": "Osaka Metro",
+            "Sennichimae Line": "Kita-Tatsumi Station (S23) - Minami-Tatsumi Station (S24). Station numbers in parentheses.",
+            "Railway stations in Osaka": "Minami-Tatsumi"
+          },
+          "全文": "Minami-Tatsumi Station is the eastern terminus of the Osaka Metro Sennichimae Line, located in Ikuno-ku, Osaka, Japan. Its station number is S24.\n\nHistory\n2 December 1981 (Shōwa 56): Opened as the eastern terminus when the Sennichimae Line was extended from Shin-Fukae.\n 26 April 2014 (Heisei 26): Platform edge doors began operation.\n 1 April 2018 (Heisei 30): With privatization, became an Osaka Metro station.\n\nStation layout\nAn underground station with one island platform serving two tracks. One gate. It belongs to the Nipponbashi district, with a station manager who also oversees Kita-Tatsumi Station. Platforms.\n\nUsage\nOn 10 November 2020, the daily boarding/alighting was 10,095 (boarding 5,137, alighting 4,958).\n\nSurrounding area\nRare for Osaka City, farmland still remains around this station.\n\nTatsumi-Higashi Green Zone\nOsaka City Waterworks Bureau Tatsumi Distribution Station.\n\nIkuno-Tatsumi Post Office\nEiwa Shinkin Bank Tatsumi Branch; Food Store Aprot Tatsumi (formerly Biento Tatsumi); Kohnan Ikuno Store.\n\nNational Route 479\nJR West Yamatoji Line JR Hirano Station (about 20 min walk); Osaka Higashi Line Izui-Kami-Kita Station (about 20 min walk). Buses: the nearest stop is 'Subway Minami-Tatsumi' (formerly 'Tatsumi-Jinja-mae'), served by Osaka City Bus.\n\nAdjacent stations\nOsaka Metro\n\nSennichimae Line\nKita-Tatsumi Station (S23) - Minami-Tatsumi Station (S24). Station numbers in parentheses.\n\nRailway stations in Osaka\nMinami-Tatsumi",
+          "字数": 1461
         }
       },
       "结构化信息": {
@@ -343,9 +365,18 @@
           "词条标题": "Shōji Station",
           "链接": "https://en.wikipedia.org/wiki/Shōji_Station",
           "首段": "Shōji Station is a station on the Osaka Metro Sennichimae Line, located in Ikuno-ku, Osaka, Japan. Its station number is S22.",
-          "章节": {},
-          "全文": "Shōji Station is a station on the Osaka Metro Sennichimae Line, located in Ikuno-ku, Osaka, Japan. Its station number is S22.",
-          "字数": 125
+          "章节": {
+            "History": "2 December 1981 (Shōwa 56): Opened when the Sennichimae Line was extended from Shin-Fukae to Minami-Tatsumi.\n 7 June 2014 (Heisei 26): Platform edge doors began operation.\n 1 April 2018 (Heisei 30): Became an Osaka Metro station.",
+            "Station layout": "An underground station with one island platform serving two tracks. One gate. All ground exits are on the Tsuruhashi side of the platform. Near Exits 1-2 there is a free space with benches and a small gallery. A共同溝 (utility tunnel) for the Shingō-Yamato River Line runs adjacent, with a viewing window in the concourse.",
+            "Usage": "On 10 November 2020, the daily boarding/alighting was 7,849 (boarding 4,014, alighting 3,835), the lowest on the Sennichimae Line, related to Kintetsu Fuse Station about 600 m east.",
+            "Surrounding area": "The area is a mix of residential and urban. The west side is more residential; walking 500 m east enters the shopping district. There is no transfer announcement with Kintetsu Fuse Station, but it is a 10-minute walk.",
+            "Bus routes": "The nearest stop is 'Subway Shōji', served by Osaka City Bus Route 12.",
+            "Adjacent stations": "Osaka Metro",
+            "Sennichimae Line": "Shin-Fukae Station (S21) - Shōji Station (S22) - Kita-Tatsumi Station (S23). Station numbers in parentheses.",
+            "Railway stations in Osaka": "Shōji"
+          },
+          "全文": "Shōji Station is a station on the Osaka Metro Sennichimae Line, located in Ikuno-ku, Osaka, Japan. Its station number is S22.\n\nHistory\n2 December 1981 (Shōwa 56): Opened when the Sennichimae Line was extended from Shin-Fukae to Minami-Tatsumi.\n 7 June 2014 (Heisei 26): Platform edge doors began operation.\n 1 April 2018 (Heisei 30): Became an Osaka Metro station.\n\nStation layout\nAn underground station with one island platform serving two tracks. One gate. All ground exits are on the Tsuruhashi side of the platform. Near Exits 1-2 there is a free space with benches and a small gallery. A共同溝 (utility tunnel) for the Shingō-Yamato River Line runs adjacent, with a viewing window in the concourse.\n\nUsage\nOn 10 November 2020, the daily boarding/alighting was 7,849 (boarding 4,014, alighting 3,835), the lowest on the Sennichimae Line, related to Kintetsu Fuse Station about 600 m east.\n\nSurrounding area\nThe area is a mix of residential and urban. The west side is more residential; walking 500 m east enters the shopping district. There is no transfer announcement with Kintetsu Fuse Station, but it is a 10-minute walk.\n\nBus routes\nThe nearest stop is 'Subway Shōji', served by Osaka City Bus Route 12.\n\nAdjacent stations\nOsaka Metro\n\nSennichimae Line\nShin-Fukae Station (S21) - Shōji Station (S22) - Kita-Tatsumi Station (S23). Station numbers in parentheses.\n\nRailway stations in Osaka\nShōji",
+          "字数": 1399
         }
       },
       "结构化信息": {
@@ -430,9 +461,18 @@
           "词条标题": "Shin-Fukae Station",
           "链接": "https://en.wikipedia.org/wiki/Shin-Fukae_Station",
           "首段": "Shin-Fukae Station is a station on the Osaka Metro Sennichimae Line, located in Higashinari-ku, Osaka, Japan. Its station number is S21.",
-          "章节": {},
-          "全文": "Shin-Fukae Station is a station on the Osaka Metro Sennichimae Line, located in Higashinari-ku, Osaka, Japan. Its station number is S21.",
-          "字数": 136
+          "章节": {
+            "History": "10 September 1969 (Shōwa 44): Opened as the terminus of Line 5 (now Sennichimae Line) when extended from Imazato.\n 2 December 1981 (Shōwa 56): The Sennichimae Line was extended to Minami-Tatsumi, making it an intermediate station.\n 28 June 2014 (Heisei 26): Platform edge doors began operation.\n 1 April 2018 (Heisei 30): Became an Osaka Metro station.",
+            "Station layout": "An underground station with one island platform serving two tracks. Gates are on the east and west sides; elevators are only on the east. Belongs to Nipponbashi district, managed by Imazato Station. The concourse and platform walls feature kasa-hatsu (straw rain hat) designs related to the Fukae kasa-hatsu legacy.",
+            "Usage": "On 10 November 2020, the daily boarding/alighting was 10,483 (boarding 5,328, alighting 5,155).",
+            "Surrounding area": "A short distance from the Shin-Fukae intersection (Sennichimae-dori and Osaka Inner Loop). Kokuyo headquarters (connected to Exit 4); DoggyMan Hayashi headquarters; Life Shin-Fukae store.",
+            "National Route 308": "Buses: nearest stop 'Subway Shin-Fukae', served by Osaka City Bus Route 86.",
+            "Adjacent stations": "Osaka Metro",
+            "Sennichimae Line": "Imazato Station (S20) - Shin-Fukae Station (S21) - Shōji Station (S22). Station numbers in parentheses.",
+            "Railway stations in Osaka": "Shin-Fukae"
+          },
+          "全文": "Shin-Fukae Station is a station on the Osaka Metro Sennichimae Line, located in Higashinari-ku, Osaka, Japan. Its station number is S21.\n\nHistory\n10 September 1969 (Shōwa 44): Opened as the terminus of Line 5 (now Sennichimae Line) when extended from Imazato.\n 2 December 1981 (Shōwa 56): The Sennichimae Line was extended to Minami-Tatsumi, making it an intermediate station.\n 28 June 2014 (Heisei 26): Platform edge doors began operation.\n 1 April 2018 (Heisei 30): Became an Osaka Metro station.\n\nStation layout\nAn underground station with one island platform serving two tracks. Gates are on the east and west sides; elevators are only on the east. Belongs to Nipponbashi district, managed by Imazato Station. The concourse and platform walls feature kasa-hatsu (straw rain hat) designs related to the Fukae kasa-hatsu legacy.\n\nUsage\nOn 10 November 2020, the daily boarding/alighting was 10,483 (boarding 5,328, alighting 5,155).\n\nSurrounding area\nA short distance from the Shin-Fukae intersection (Sennichimae-dori and Osaka Inner Loop). Kokuyo headquarters (connected to Exit 4); DoggyMan Hayashi headquarters; Life Shin-Fukae store.\n\nNational Route 308\nBuses: nearest stop 'Subway Shin-Fukae', served by Osaka City Bus Route 86.\n\nAdjacent stations\nOsaka Metro\n\nSennichimae Line\nImazato Station (S20) - Shin-Fukae Station (S21) - Shōji Station (S22). Station numbers in parentheses.\n\nRailway stations in Osaka\nShin-Fukae",
+          "字数": 1426
         }
       },
       "结构化信息": {
@@ -500,9 +540,11 @@
           "词条标题": "Nipponbashi Station",
           "链接": "https://en.wikipedia.org/wiki/Nipponbashi_Station",
           "首段": "Nipponbashi Station may refer to several stations, including Nipponbashi Station on the Osaka Metro Sennichimae Line in Namba, Osaka.",
-          "章节": {},
-          "全文": "Nipponbashi Station may refer to several stations, including Nipponbashi Station on the Osaka Metro Sennichimae Line in Namba, Osaka.",
-          "字数": 133
+          "章节": {
+            "Nipponbashi Station": "Nipponbashi Station (Tōkyō) - on the Tokyo Metro and Toei Subway in Chūō, Tokyo.\n Nipponbashi Station (Ōsaka) - on the Osaka Metro in Chūō-ku, Osaka.\n Kintetsu Nipponbashi Station - on the Kintetsu Namba Line in Chūō-ku, Osaka."
+          },
+          "全文": "Nipponbashi Station may refer to several stations, including Nipponbashi Station on the Osaka Metro Sennichimae Line in Namba, Osaka.\n\nNipponbashi Station\nNipponbashi Station (Tōkyō) - on the Tokyo Metro and Toei Subway in Chūō, Tokyo.\n Nipponbashi Station (Ōsaka) - on the Osaka Metro in Chūō-ku, Osaka.\n Kintetsu Nipponbashi Station - on the Kintetsu Namba Line in Chūō-ku, Osaka.",
+          "字数": 382
         }
       },
       "结构化信息": {
@@ -675,9 +717,26 @@
           "词条标题": "Nishi-Nagahori Station",
           "链接": "https://en.wikipedia.org/wiki/Nishi-Nagahori_Station",
           "首段": "Nishi-Nagahori Station is an interchange station on the Osaka Metro Sennichimae Line (S14) and Nagahori Tsurumi-ryokuchi Line (N13), located in Nishi-ku, Osaka, Japan.",
-          "章节": {},
-          "全文": "Nishi-Nagahori Station is an interchange station on the Osaka Metro Sennichimae Line (S14) and Nagahori Tsurumi-ryokuchi Line (N13), located in Nishi-ku, Osaka, Japan.",
-          "字数": 167
+          "章节": {
+            "History": "16 April 1969 (Shōwa 44): Opened when Line 5 (now Sennichimae Line) opened between Nodahanshin and Sakuragawa.\n 29 August 1997 (Heisei 9): With the Nagahori Tsurumi-ryokuchi Line extension between Taishō and Shinsaibashi, became an interchange.\n September 2010 (Heisei 22): Platform edge doors installed on the Nagahori Line platform.\n 8 November 2014 (Heisei 26): Platform edge doors on the Sennichimae Line platform.",
+            "Station layout": "The Sennichimae Line has two opposing side platforms; the Nagahori Tsurumi-ryokuchi Line has one island platform. A relatively long transfer passage connects the north end of the Sennichimae Minami-Tatsumi-bound platform to the east end of the Nagahori Line platform.",
+            "Design theme": "The Nagahori Line theme is 'warmth of wood'; the transfer passage has wood-grain tile decoration. This area was Shiraga-chō, where timber wholesalers for Awa and Tosa domains concentrated in the Edo period.",
+            "Usage": "On 10 November 2020, the daily boarding/alighting was 22,242 (boarding 11,180, alighting 11,062).",
+            "Surrounding area": "The area around Shinmachi 3-4 chōme and Kitahorie 3-4 chōme near Nagahori-dōri was strongly influenced by the Tosa domain, which had large warehouse residences here; the name 'Nishi-Nagahori' derives from this. The intersections 'Shiragabashi' and 'Katsuozabashi' on Nagahori-dōri derive from Tosa's 'Shiragayama' and 'Katsuo'; this is also the birthplace of Mitsubishi, founded by Iwasaki Yatarō from Tosa.",
+            "Nishi Ward Office": "Tatsumi Shōkai Central Library (Osaka Municipal Central Library).",
+            "Tosa Inari Shrine": "Wakō-ji (Amida-Ike); Kansai Kōmei Kaikan (Kōmeitō Osaka headquarters).",
+            "Maruichi Steel Tube headquarters": "Nishi-Nagahori entrance (Hanshin Expressway Route 3 Kobe / Route 16 Osaka Port).",
+            "Bus routes": "Nearest stops: Subway Nishi-Nagahori on Nagahori-dōri, Shiragabashi and Amida-Ike on Amidaike-suji, served by Osaka City Bus.",
+            "Subway Nishi-Nagahori": "Route 84 for Benten-mae / Yahatan'ya 3-chōme, or Namba.",
+            "Shiragabashi / Amida-Ike": "Route 55 for Osaka Station / Tsurumachi 4-chōme.",
+            "Adjacent stations": "Osaka Metro",
+            "Sennichimae Line": "Awaza Station (S13) - Nishi-Nagahori Station (S14) - Sakuragawa Station (S15)",
+            "Nagahori Tsurumi-ryokuchi Line": "Dome-mae Chiyozaki (Kyocera Dome Osaka) (N12) - Nishi-Nagahori Station (N13) - Nishi-Ōhashi Station (N14). Station numbers in parentheses.",
+            "Railway stations in Osaka": "Nishi-Nagahori",
+            "Railway stations opened in 1969": "Nishi-Nagahori"
+          },
+          "全文": "Nishi-Nagahori Station is an interchange station on the Osaka Metro Sennichimae Line (S14) and Nagahori Tsurumi-ryokuchi Line (N13), located in Nishi-ku, Osaka, Japan.\n\nHistory\n16 April 1969 (Shōwa 44): Opened when Line 5 (now Sennichimae Line) opened between Nodahanshin and Sakuragawa.\n 29 August 1997 (Heisei 9): With the Nagahori Tsurumi-ryokuchi Line extension between Taishō and Shinsaibashi, became an interchange.\n September 2010 (Heisei 22): Platform edge doors installed on the Nagahori Line platform.\n 8 November 2014 (Heisei 26): Platform edge doors on the Sennichimae Line platform.\n\nStation layout\nThe Sennichimae Line has two opposing side platforms; the Nagahori Tsurumi-ryokuchi Line has one island platform. A relatively long transfer passage connects the north end of the Sennichimae Minami-Tatsumi-bound platform to the east end of the Nagahori Line platform.\n\nDesign theme\nThe Nagahori Line theme is 'warmth of wood'; the transfer passage has wood-grain tile decoration. This area was Shiraga-chō, where timber wholesalers for Awa and Tosa domains concentrated in the Edo period.\n\nUsage\nOn 10 November 2020, the daily boarding/alighting was 22,242 (boarding 11,180, alighting 11,062).\n\nSurrounding area\nThe area around Shinmachi 3-4 chōme and Kitahorie 3-4 chōme near Nagahori-dōri was strongly influenced by the Tosa domain, which had large warehouse residences here; the name 'Nishi-Nagahori' derives from this. The intersections 'Shiragabashi' and 'Katsuozabashi' on Nagahori-dōri derive from Tosa's 'Shiragayama' and 'Katsuo'; this is also the birthplace of Mitsubishi, founded by Iwasaki Yatarō from Tosa.\n\nNishi Ward Office\nTatsumi Shōkai Central Library (Osaka Municipal Central Library).\n\nTosa Inari Shrine\nWakō-ji (Amida-Ike); Kansai Kōmei Kaikan (Kōmeitō Osaka headquarters).\n\nMaruichi Steel Tube headquarters\nNishi-Nagahori entrance (Hanshin Expressway Route 3 Kobe / Route 16 Osaka Port).\n\nBus routes\nNearest stops: Subway Nishi-Nagahori on Nagahori-dōri, Shiragabashi and Amida-Ike on Amidaike-suji, served by Osaka City Bus.\n\nSubway Nishi-Nagahori\nRoute 84 for Benten-mae / Yahatan'ya 3-chōme, or Namba.\n\nShiragabashi / Amida-Ike\nRoute 55 for Osaka Station / Tsurumachi 4-chōme.\n\nAdjacent stations\nOsaka Metro\n\nSennichimae Line\nAwaza Station (S13) - Nishi-Nagahori Station (S14) - Sakuragawa Station (S15)\n\nNagahori Tsurumi-ryokuchi Line\nDome-mae Chiyozaki (Kyocera Dome Osaka) (N12) - Nishi-Nagahori Station (N13) - Nishi-Ōhashi Station (N14). Station numbers in parentheses.\n\nRailway stations in Osaka\nNishi-Nagahori\n\nRailway stations opened in 1969\nNishi-Nagahori",
+          "字数": 2601
         }
       },
       "结构化信息": {
@@ -772,9 +831,25 @@
           "词条标题": "Tanimachi-Kyūchōme Station",
           "链接": "https://en.wikipedia.org/wiki/Tanimachi-Kyūchōme_Station",
           "首段": "Tanimachi-Kyūchōme Station is an interchange station on the Osaka Metro Tanimachi Line (T25) and Sennichimae Line (S18), located in Tennōji-ku, Osaka, Japan.",
-          "章节": {},
-          "全文": "Tanimachi-Kyūchōme Station is an interchange station on the Osaka Metro Tanimachi Line (T25) and Sennichimae Line (S18), located in Tennōji-ku, Osaka, Japan.",
-          "字数": 157
+          "章节": {
+            "History": "17 December 1968 (Shōwa 43): Opened when Line 2 (now Tanimachi Line) was extended from Tanimachi Yonchōme to Tennōji.\n 25 July 1969 (Shōwa 44): Line 5 (now Sennichimae Line) opened from this station to Imazato, making it an interchange and the Sennichimae Line terminus.\n 11 March 1970 (Shōwa 45): The Sennichimae Line was extended to Sakuragawa, through to Nodahanshin, making it an intermediate station.",
+            "Station layout": "The Tanimachi Line has two opposing side platforms on the first basement floor; the Sennichimae Line has one island platform with platform edge doors on the second basement floor. The Kintetsu Namba Line runs directly beneath the Tanimachi Line platforms.",
+            "Usage": "On 10 November 2020, the daily boarding/alighting was 61,996 (boarding 30,351, alighting 31,645), ranking 6th on the Tanimachi Line and 2nd on the Sennichimae Line (after Namba).",
+            "Tanimachi 9-chōme intersection": "The station lies beneath the Tanimachi 9 intersection of Tanimachi-suji and Sennichimae-dōri.",
+            "Tanimachi-Kyūchōme / Uehonmachi 6-chōme": "Historically the Tanimachi-suji and Uemachi-suji areas reversed fortunes after the city tram system closed and the subway opened; Ueroku (Uehonmachi 6-chōme) lost its terminal status.",
+            "Shrines and temples": "Ikukunitama Shrine - venue for the Hikohachi Festival.",
+            "Osaka Prefectural Yūhigaoka High School of Technology": "Sundai Preparatory School Uehonmachi; Kawai Juku Uehonmachi.",
+            "Uehonmachi High-High Town": "Kintetsu Department Store Uehonmachi branch.",
+            "Other": "Muramoto Construction headquarters; Pine headquarters; Seichō no Ie Osaka culture hall. Buses: nearest stops are Tanimachi Kyūchōme, Uehonmachi 6-chōme, Uehonmachi 6-chōme Minami, Uehonmachi 6-chōme Higashi, served by Osaka City Bus.",
+            "Tanimachi Kyūchōme": "Route 73 for Namba / for Deto Bus Terminal via Kuze and Subway Hirano.",
+            "Hotel district": "The south side has been a tea-house district around Ikukunitama Shrine since the Edo period and remains one of Osaka's largest love-hotel districts, sometimes called 'Tani-Kyū', 'Ikutama', or 'Ue-Roku'.",
+            "Adjacent stations": "Osaka Metro",
+            "Tanimachi Line": "Tanimachi Rokuchōme Station (T24) - Tanimachi Kyūchōme Station (T25) - Shitennōji-mae Yūhigaoka Station (T26)",
+            "Sennichimae Line": "Nipponbashi Station (S17) - Tanimachi Kyūchōme Station (S18) - Tsuruhashi Station (S19). Station numbers in parentheses.",
+            "Railway stations in Tennōji Ward": "Tanimachi Kyūchōme"
+          },
+          "全文": "Tanimachi-Kyūchōme Station is an interchange station on the Osaka Metro Tanimachi Line (T25) and Sennichimae Line (S18), located in Tennōji-ku, Osaka, Japan.\n\nHistory\n17 December 1968 (Shōwa 43): Opened when Line 2 (now Tanimachi Line) was extended from Tanimachi Yonchōme to Tennōji.\n 25 July 1969 (Shōwa 44): Line 5 (now Sennichimae Line) opened from this station to Imazato, making it an interchange and the Sennichimae Line terminus.\n 11 March 1970 (Shōwa 45): The Sennichimae Line was extended to Sakuragawa, through to Nodahanshin, making it an intermediate station.\n\nStation layout\nThe Tanimachi Line has two opposing side platforms on the first basement floor; the Sennichimae Line has one island platform with platform edge doors on the second basement floor. The Kintetsu Namba Line runs directly beneath the Tanimachi Line platforms.\n\nUsage\nOn 10 November 2020, the daily boarding/alighting was 61,996 (boarding 30,351, alighting 31,645), ranking 6th on the Tanimachi Line and 2nd on the Sennichimae Line (after Namba).\n\nTanimachi 9-chōme intersection\nThe station lies beneath the Tanimachi 9 intersection of Tanimachi-suji and Sennichimae-dōri.\n\nTanimachi-Kyūchōme / Uehonmachi 6-chōme\nHistorically the Tanimachi-suji and Uemachi-suji areas reversed fortunes after the city tram system closed and the subway opened; Ueroku (Uehonmachi 6-chōme) lost its terminal status.\n\nShrines and temples\nIkukunitama Shrine - venue for the Hikohachi Festival.\n\nOsaka Prefectural Yūhigaoka High School of Technology\nSundai Preparatory School Uehonmachi; Kawai Juku Uehonmachi.\n\nUehonmachi High-High Town\nKintetsu Department Store Uehonmachi branch.\n\nOther\nMuramoto Construction headquarters; Pine headquarters; Seichō no Ie Osaka culture hall. Buses: nearest stops are Tanimachi Kyūchōme, Uehonmachi 6-chōme, Uehonmachi 6-chōme Minami, Uehonmachi 6-chōme Higashi, served by Osaka City Bus.\n\nTanimachi Kyūchōme\nRoute 73 for Namba / for Deto Bus Terminal via Kuze and Subway Hirano.\n\nHotel district\nThe south side has been a tea-house district around Ikukunitama Shrine since the Edo period and remains one of Osaka's largest love-hotel districts, sometimes called 'Tani-Kyū', 'Ikutama', or 'Ue-Roku'.\n\nAdjacent stations\nOsaka Metro\n\nTanimachi Line\nTanimachi Rokuchōme Station (T24) - Tanimachi Kyūchōme Station (T25) - Shitennōji-mae Yūhigaoka Station (T26)\n\nSennichimae Line\nNipponbashi Station (S17) - Tanimachi Kyūchōme Station (S18) - Tsuruhashi Station (S19). Station numbers in parentheses.\n\nRailway stations in Tennōji Ward\nTanimachi Kyūchōme",
+          "字数": 2545
         }
       },
       "结构化信息": {
@@ -873,9 +948,24 @@
           "词条标题": "Nodahanshin Station",
           "链接": "https://en.wikipedia.org/wiki/Nodahanshin%20Station",
           "首段": "is a terminus on the Osaka Metro Sennichimae Line in Fukushima-ku, Osaka, Japan.\n\nThe station name \"Nodahanshin\" was originally a name of tram stop of a former municipal streetcar line and means \"Hanshin Railway Noda Station\".",
-          "章节": {},
-          "全文": "is a terminus on the Osaka Metro Sennichimae Line in Fukushima-ku, Osaka, Japan.\n\nThe station name \"Nodahanshin\" was originally a name of tram stop of a former municipal streetcar line and means \"Hanshin Railway Noda Station\".",
-          "字数": 226
+          "章节": {
+            "Connecting lines": "Hanshin Electric Railway - Noda Station.",
+            "Main Line": "JR West - Ebie Station.",
+            "JR Tōzai Line": "Not connected to Osaka Loop Line Noda Station; the adjacent Tamagawa Station is the transfer station.",
+            "History": "16 April 1969 (Shōwa 44): Opened when Line 5 (now Sennichimae Line) opened between this station and Sakuragawa.\n 13 December 2014 (Heisei 26): Platform edge doors began operation.\n 1 April 2018 (Heisei 30): Became an Osaka Metro station.\n 27 March 2020 (Reiwa 2): North and south gates closed; the west-central gate opened.",
+            "Station layout": "An underground station with two opposing side platforms. Gates: the east-central gate on Platform 1 and the exit-only west-central gate on Platform 2. Minami-Tatsumi-bound trains depart from Platform 1.",
+            "Usage": "On 10 November 2020, the daily boarding/alighting was 24,539 (boarding 12,585, alighting 11,954).",
+            "Surrounding area": "The surrounding area is known as 'Nodahanshin'.",
+            "Osaka Municipal Fukushima Library": "SMBC Nishi-Noda, Yotsugashira and Utajibashi branches (formerly Sumitomo Bank).",
+            "Tenkaippin Nodahanshin": "KFC Nodahanshin.",
+            "Kongandō headquarters": "Nodahanshin machinery tools district (under the Hanshin Main Line elevated); Ebie Memorial Hospital (formerly Matsumoto Hospital).",
+            "Adjacent stations": "Osaka Metro",
+            "Sennichimae Line": "Nodahanshin Station (S11) - Tamagawa Station (S12). Station numbers in parentheses.",
+            "JR Matsuka-mae Station": "JNR Chiba-mae Station (renamed 1987); Kawanishi-Kokumae Station (closed 1981); Nogami-Densha-mae stop (closed 1971).",
+            "Railway stations in Fukushima Ward": "Nodahanshin"
+          },
+          "全文": "is a terminus on the Osaka Metro Sennichimae Line in Fukushima-ku, Osaka, Japan.\n\nThe station name \"Nodahanshin\" was originally a name of tram stop of a former municipal streetcar line and means \"Hanshin Railway Noda Station\".\n\nConnecting lines\nHanshin Electric Railway - Noda Station.\n\nMain Line\nJR West - Ebie Station.\n\nJR Tōzai Line\nNot connected to Osaka Loop Line Noda Station; the adjacent Tamagawa Station is the transfer station.\n\nHistory\n16 April 1969 (Shōwa 44): Opened when Line 5 (now Sennichimae Line) opened between this station and Sakuragawa.\n 13 December 2014 (Heisei 26): Platform edge doors began operation.\n 1 April 2018 (Heisei 30): Became an Osaka Metro station.\n 27 March 2020 (Reiwa 2): North and south gates closed; the west-central gate opened.\n\nStation layout\nAn underground station with two opposing side platforms. Gates: the east-central gate on Platform 1 and the exit-only west-central gate on Platform 2. Minami-Tatsumi-bound trains depart from Platform 1.\n\nUsage\nOn 10 November 2020, the daily boarding/alighting was 24,539 (boarding 12,585, alighting 11,954).\n\nSurrounding area\nThe surrounding area is known as 'Nodahanshin'.\n\nOsaka Municipal Fukushima Library\nSMBC Nishi-Noda, Yotsugashira and Utajibashi branches (formerly Sumitomo Bank).\n\nTenkaippin Nodahanshin\nKFC Nodahanshin.\n\nKongandō headquarters\nNodahanshin machinery tools district (under the Hanshin Main Line elevated); Ebie Memorial Hospital (formerly Matsumoto Hospital).\n\nAdjacent stations\nOsaka Metro\n\nSennichimae Line\nNodahanshin Station (S11) - Tamagawa Station (S12). Station numbers in parentheses.\n\nJR Matsuka-mae Station\nJNR Chiba-mae Station (renamed 1987); Kawanishi-Kokumae Station (closed 1981); Nogami-Densha-mae stop (closed 1971).\n\nRailway stations in Fukushima Ward\nNodahanshin",
+          "字数": 1792
         }
       },
       "结构化信息": {
@@ -964,9 +1054,25 @@
           "词条标题": "Awaza Station",
           "链接": "https://en.wikipedia.org/wiki/Awaza%20Station",
           "首段": "is a railway station on the two lines of the Osaka Metro.  The station is in Nishi-ku, Osaka, Japan.",
-          "章节": {},
-          "全文": "is a railway station on the two lines of the Osaka Metro.  The station is in Nishi-ku, Osaka, Japan.",
-          "字数": 100
+          "章节": {
+            "History": "31 October 1964 (Shōwa 39): Opened when Line 4 (now Chūō Line) was extended between Bentenchō and Honmachi (temporary).\n 16 April 1969 (Shōwa 44): Line 5 (now Sennichimae Line) opened between Nodahanshin and Sakuragawa, making it an interchange.\n 22 November 2014 (Heisei 26): Platform edge doors on the Sennichimae Line.\n 1 April 2018 (Heisei 30): Became an Osaka Metro station.",
+            "Station layout": "Both lines are underground with two opposing side platforms. A transfer passage connects the Cosmosquare end of the Chūō Line platform to the Minami-Tatsumi end of the Sennichimae Line platform.",
+            "Features": "Sennichimae Line trains use the connecting track to enter/exit the Morinomiya depot via the Chūō Line. Some Sennichimae Line through trains start here.",
+            "Usage": "On 10 November 2020, the daily boarding/alighting was 42,165 (boarding 21,196, alighting 20,969).",
+            "Surrounding area": "An office district continuing from Honmachi Station.",
+            "Osaka Nishi Post Office": "Nishi-Osaka River Improvement Office (tsunami/storm surge station).",
+            "Kansai Geijutsu-za": "Paloma Kansai branch (Paloma Awaza Building).",
+            "Life Awaza-mae Store": "SMBC Tachibana, Osaka-Nishi, Minato branches and Cosmos Tower office (formerly Sumitomo Bank).",
+            "Hanshin Expressway Route 16 Osaka Port": "A rare motorcycle-only bicycle parking area is northwest of the station.",
+            "Bus routes": "Nearest stops are Okazaki-bashi and Tachibana 3-chōme, served by Osaka City Bus Route 55 for Osaka Station / Tsurumachi 4-chōme.",
+            "Adjacent stations": "Osaka Metro",
+            "Chūō Line": "Kujō Station (C14) - Awaza Station (C15) - Honmachi Station (C16)",
+            "Sennichimae Line": "Tamagawa Station (S12) - Awaza Station (S13) - Nishi-Nagahori Station (S14). Station numbers in parentheses.",
+            "Railway stations in Osaka": "Awaza",
+            "Railway stations opened in 1964": "Awaza"
+          },
+          "全文": "is a railway station on the two lines of the Osaka Metro.  The station is in Nishi-ku, Osaka, Japan.\n\nHistory\n31 October 1964 (Shōwa 39): Opened when Line 4 (now Chūō Line) was extended between Bentenchō and Honmachi (temporary).\n 16 April 1969 (Shōwa 44): Line 5 (now Sennichimae Line) opened between Nodahanshin and Sakuragawa, making it an interchange.\n 22 November 2014 (Heisei 26): Platform edge doors on the Sennichimae Line.\n 1 April 2018 (Heisei 30): Became an Osaka Metro station.\n\nStation layout\nBoth lines are underground with two opposing side platforms. A transfer passage connects the Cosmosquare end of the Chūō Line platform to the Minami-Tatsumi end of the Sennichimae Line platform.\n\nFeatures\nSennichimae Line trains use the connecting track to enter/exit the Morinomiya depot via the Chūō Line. Some Sennichimae Line through trains start here.\n\nUsage\nOn 10 November 2020, the daily boarding/alighting was 42,165 (boarding 21,196, alighting 20,969).\n\nSurrounding area\nAn office district continuing from Honmachi Station.\n\nOsaka Nishi Post Office\nNishi-Osaka River Improvement Office (tsunami/storm surge station).\n\nKansai Geijutsu-za\nPaloma Kansai branch (Paloma Awaza Building).\n\nLife Awaza-mae Store\nSMBC Tachibana, Osaka-Nishi, Minato branches and Cosmos Tower office (formerly Sumitomo Bank).\n\nHanshin Expressway Route 16 Osaka Port\nA rare motorcycle-only bicycle parking area is northwest of the station.\n\nBus routes\nNearest stops are Okazaki-bashi and Tachibana 3-chōme, served by Osaka City Bus Route 55 for Osaka Station / Tsurumachi 4-chōme.\n\nAdjacent stations\nOsaka Metro\n\nChūō Line\nKujō Station (C14) - Awaza Station (C15) - Honmachi Station (C16)\n\nSennichimae Line\nTamagawa Station (S12) - Awaza Station (S13) - Nishi-Nagahori Station (S14). Station numbers in parentheses.\n\nRailway stations in Osaka\nAwaza\n\nRailway stations opened in 1964\nAwaza",
+          "字数": 1875
         }
       },
       "结构化信息": {
@@ -1075,9 +1181,37 @@
           "词条标题": "Tsuruhashi Station",
           "链接": "https://en.wikipedia.org/wiki/Tsuruhashi_Station",
           "首段": "Tsuruhashi Station is a major interchange station on the Kintetsu Osaka Line and Namba Line, the JR West Osaka Loop Line (JR-O04), and the Osaka Metro Sennichimae Line (S19), located in Ikuno-ku, Osaka, Japan.",
-          "章节": {},
-          "全文": "Tsuruhashi Station is a major interchange station on the Kintetsu Osaka Line and Namba Line, the JR West Osaka Loop Line (JR-O04), and the Osaka Metro Sennichimae Line (S19), located in Ikuno-ku, Osaka, Japan.",
-          "字数": 209
+          "章节": {
+            "Overview": "A major interchange of Kintetsu and JR; the busiest section of the Osaka Loop Line is between this station and Tamatsukuri (142% load factor in fiscal 2005).",
+            "Lines serving": "Kintetsu lines (see below), JR West Osaka Loop Line, and Osaka Metro Sennichimae Line. The JR station is in the Urban Network and 'Osaka-shinai' fare area. Kintetsu trains on the Osaka Line (and through Nara Line services) stop here.",
+            "Transfer gates": "Rare for the Osaka area, a single gate allows transfers. The JR→Kintetsu gate is managed by JR; the Kintetsu→JR gate by Kintetsu.",
+            "Kintetsu": "The core Kintetsu station in the Osaka direction; all trains including Urban Liner, Hinotori, Ise-Shima Liner and Shimakaze stop. It has a station manager who oversees Imazato Station.",
+            "History": "30 April 1914 (Taishō 3): Opened when the Osaka Electric Tramway line opened.\n August 1932 (Shōwa 7): Moved 0.3 km toward Uehonmachi in preparation for the JNR Tsuruhashi Station opening.\n August 1940 (Shōwa 15): Up line expanded.\n 15 March 1941 (Shōwa 16): Through merger with Sangū Express Electric Railway, became a Kansai Kyūkō Dentetsu station.",
+            "Past major upgrades": "By 1951 daily passengers exceeded 120,000. Before the quadruple track between Uehonmachi and Fuse, the station had two platforms serving three tracks. The 1956 quadruple-track expansion resolved severe rush-hour congestion.",
+            "Station layout": "An elevated station with two island platforms serving four tracks, effective for 10-car trains; platforms are on the second floor.",
+            "JR West": "The JR West station is on the Osaka Loop Line, in the Urban Network area. It is a major transfer point to Kintetsu.",
+            "Osaka Metro": "The Sennichimae Line station (S19) is connected via underground passageways.",
+            "Keihan": "Keihan Line services do not serve this station.",
+            "Surrounding area": "The area around Tsuruhashi is a major Korean town (Pureland Town) with many Korean restaurants and shops.",
+            "Bus routes": "Buses depart from the Tsuruhashi bus terminal.",
+            "Adjacent stations": "Osaka Metro Sennichimae Line: Tanimachi Kyuchome (S18) - Tsuruhashi (S19) - Imazato (S20).",
+            "History (JR)": "The JNR Tsuruhashi Station opened in 1932 on the Osaka Loop Line (then JNR Jōtō Line).",
+            "Station layout (JR)": "JR West uses elevated island platforms on the Osaka Loop Line.",
+            "Surrounding area - shopping": "Tsuruhashi has a large Koreatown market known for Korean food and produce.",
+            "Hotels": "Business hotels are located near the east and west exits.",
+            "Offices": "Several corporate offices are in the surrounding area.",
+            "Schools": "Nearby schools include Tsuruhashi elementary and middle schools.",
+            "Parks": "Small neighborhood parks are within walking distance.",
+            "Religious sites": "Nearby temples and shrines serve the local community.",
+            "Medical facilities": "Clinics and hospitals are located along the main roads.",
+            "Chronology": "Key dates include the 1914 Kintetsu station opening, 1932 JNR opening, and subsequent expansions.",
+            "Passenger statistics": "Tsuruhashi is one of the busiest stations in the Kansai region, with heavy transfer traffic between Kintetsu and JR.",
+            "Naming origin": "The name Tsuruhashi derives from a local bridge over a nearby river.",
+            "Railway stations in Osaka": "Tsuruhashi",
+            "Railway stations opened in 1914": "Tsuruhashi"
+          },
+          "全文": "Tsuruhashi Station is a major interchange station on the Kintetsu Osaka Line and Namba Line, the JR West Osaka Loop Line (JR-O04), and the Osaka Metro Sennichimae Line (S19), located in Ikuno-ku, Osaka, Japan.\n\nOverview\nA major interchange of Kintetsu and JR; the busiest section of the Osaka Loop Line is between this station and Tamatsukuri (142% load factor in fiscal 2005).\n\nLines serving\nKintetsu lines (see below), JR West Osaka Loop Line, and Osaka Metro Sennichimae Line. The JR station is in the Urban Network and 'Osaka-shinai' fare area. Kintetsu trains on the Osaka Line (and through Nara Line services) stop here.\n\nTransfer gates\nRare for the Osaka area, a single gate allows transfers. The JR→Kintetsu gate is managed by JR; the Kintetsu→JR gate by Kintetsu.\n\nKintetsu\nThe core Kintetsu station in the Osaka direction; all trains including Urban Liner, Hinotori, Ise-Shima Liner and Shimakaze stop. It has a station manager who oversees Imazato Station.\n\nHistory\n30 April 1914 (Taishō 3): Opened when the Osaka Electric Tramway line opened.\n August 1932 (Shōwa 7): Moved 0.3 km toward Uehonmachi in preparation for the JNR Tsuruhashi Station opening.\n August 1940 (Shōwa 15): Up line expanded.\n 15 March 1941 (Shōwa 16): Through merger with Sangū Express Electric Railway, became a Kansai Kyūkō Dentetsu station.\n\nPast major upgrades\nBy 1951 daily passengers exceeded 120,000. Before the quadruple track between Uehonmachi and Fuse, the station had two platforms serving three tracks. The 1956 quadruple-track expansion resolved severe rush-hour congestion.\n\nStation layout\nAn elevated station with two island platforms serving four tracks, effective for 10-car trains; platforms are on the second floor.\n\nJR West\nThe JR West station is on the Osaka Loop Line, in the Urban Network area. It is a major transfer point to Kintetsu.\n\nOsaka Metro\nThe Sennichimae Line station (S19) is connected via underground passageways.\n\nKeihan\nKeihan Line services do not serve this station.\n\nSurrounding area\nThe area around Tsuruhashi is a major Korean town (Pureland Town) with many Korean restaurants and shops.\n\nBus routes\nBuses depart from the Tsuruhashi bus terminal.\n\nAdjacent stations\nOsaka Metro Sennichimae Line: Tanimachi Kyuchome (S18) - Tsuruhashi (S19) - Imazato (S20).\n\nHistory (JR)\nThe JNR Tsuruhashi Station opened in 1932 on the Osaka Loop Line (then JNR Jōtō Line).\n\nStation layout (JR)\nJR West uses elevated island platforms on the Osaka Loop Line.\n\nSurrounding area - shopping\nTsuruhashi has a large Koreatown market known for Korean food and produce.\n\nHotels\nBusiness hotels are located near the east and west exits.\n\nOffices\nSeveral corporate offices are in the surrounding area.\n\nSchools\nNearby schools include Tsuruhashi elementary and middle schools.\n\nParks\nSmall neighborhood parks are within walking distance.\n\nReligious sites\nNearby temples and shrines serve the local community.\n\nMedical facilities\nClinics and hospitals are located along the main roads.\n\nChronology\nKey dates include the 1914 Kintetsu station opening, 1932 JNR opening, and subsequent expansions.\n\nPassenger statistics\nTsuruhashi is one of the busiest stations in the Kansai region, with heavy transfer traffic between Kintetsu and JR.\n\nNaming origin\nThe name Tsuruhashi derives from a local bridge over a nearby river.\n\nRailway stations in Osaka\nTsuruhashi\n\nRailway stations opened in 1914\nTsuruhashi",
+          "字数": 3398
         }
       },
       "结构化信息": {
