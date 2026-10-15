@@ -41,7 +41,16 @@
       "中文": {
         "来源": "⚠️ 暂未汉化"
       },
-      "英文": null
+      "英文": {
+        "词条标题": "Disney Resort Line",
+        "链接": "https://en.wikipedia.org/wiki/Disney_Resort_Line",
+        "首段": "The Disney Resort Line (ディズニーリゾートライン, Disney Resort Line) is a monorail line operated by Maihama Resort Line, running within the Tokyo Disney Resort (TDR) in Urayasu, Chiba Prefecture, Japan.",
+        "章节": {
+          "Overview": "It is a straddle monorail loop serving the theme parks and official hotels of the Tokyo Disney Resort."
+        },
+        "全文": "The Disney Resort Line (ディズニーリゾートライン, Disney Resort Line) is a monorail line operated by Maihama Resort Line, running within the Tokyo Disney Resort (TDR) in Urayasu, Chiba Prefecture, Japan.\n\nOverview\nIt is a straddle monorail loop serving the theme parks and official hotels of the Tokyo Disney Resort.",
+        "字数": 304
+      }
     }
   },
   "车站": [
@@ -90,7 +99,26 @@
           "字数": 466,
           "来源": "豆包全文翻译（据日文维基全文）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Bayside Station",
+          "链接": "https://en.wikipedia.org/wiki/Bayside_Station_(Disney_Resort_Line)",
+          "首段": "Bayside Station (ベイサイド・ステーション駅) is a station on the Disney Resort Line in Maihama, Urayasu, Chiba Prefecture, Japan.",
+          "章节": {
+            "History": "27 July 2001 (Heisei 13): Opened.\n14 March 2009 (Heisei 21): PASMO IC cards became usable.",
+            "Station layout": "An elevated station with a single side platform serving one track, fitted with platform gates. It is the gateway station to the official hotels; beneath it is a bus terminal for the 'Disney Resort Cruiser' shuttle connecting the hotels. In the afternoon and evening it is the terminus for trains entering the depot. The design is simple but uses plum-color accents; from the platform roof one can view the official hotels. There are two escalators (one up, one down) and one elevator; the gate and ticket machines are on the same second floor as the platform, and toilets are on the first floor.",
+            "Usage": "In fiscal 2020 the station averaged 2,504 boardings daily, the second-lowest on the Disney Resort Line after Tokyo Disneyland Station; until fiscal 2019 it had been the least-used.",
+            "Tokyo Disney Resort Toy Story Hotel": "The official hotels are arranged in an L-shape: from east to west the Sheraton Grande Tokyo Bay Hotel, Hotel Okura Tokyo Bay and Hilton Tokyo Bay, and from south to north the Grand Nikko Tokyo Bay Maihama and Tokyo Bay Maihama Hotel. Resort parking is nearby (currently inaccessible due to Fantasy Springs construction).",
+            "Bus routes": "Route B of the free 'Disney Resort Cruiser' shuttle between this station and the five official hotels runs here. Walking directions to the official hotels are also posted (10 minutes to Tokyo Bay Maihama Hotel First Resort and Tokyo Bay Maihama Hotel, 3 minutes to the other four).",
+            "Bus stop 4": "Grand Nikko Tokyo Bay Maihama.",
+            "Bus stop 5": "Tokyo Bay Maihama Hotel First Resort.",
+            "Tokyo Bay Maihama Hotel": "Also the boarding point for the 'Guest Parking Shuttle' buses that run between the resort car parks and this station at busy times.",
+            "Disney Resort Line": "Tokyo Disneyland Station - Bayside Station - Tokyo DisneySea Station.",
+            "Stations in Chiba Prefecture": "Disney Resort Line stations.",
+            "Transport in Urayasu": "Disney Resort Line stations."
+          },
+          "全文": "Bayside Station (ベイサイド・ステーション駅) is a station on the Disney Resort Line in Maihama, Urayasu, Chiba Prefecture, Japan.\n\nHistory\n27 July 2001 (Heisei 13): Opened.\n14 March 2009 (Heisei 21): PASMO IC cards became usable.\n\nStation layout\nAn elevated station with a single side platform serving one track, fitted with platform gates. It is the gateway station to the official hotels; beneath it is a bus terminal for the 'Disney Resort Cruiser' shuttle connecting the hotels. In the afternoon and evening it is the terminus for trains entering the depot. The design is simple but uses plum-color accents; from the platform roof one can view the official hotels. There are two escalators (one up, one down) and one elevator; the gate and ticket machines are on the same second floor as the platform, and toilets are on the first floor.\n\nUsage\nIn fiscal 2020 the station averaged 2,504 boardings daily, the second-lowest on the Disney Resort Line after Tokyo Disneyland Station; until fiscal 2019 it had been the least-used.\n\nTokyo Disney Resort Toy Story Hotel\nThe official hotels are arranged in an L-shape: from east to west the Sheraton Grande Tokyo Bay Hotel, Hotel Okura Tokyo Bay and Hilton Tokyo Bay, and from south to north the Grand Nikko Tokyo Bay Maihama and Tokyo Bay Maihama Hotel. Resort parking is nearby (currently inaccessible due to Fantasy Springs construction).\n\nBus routes\nRoute B of the free 'Disney Resort Cruiser' shuttle between this station and the five official hotels runs here. Walking directions to the official hotels are also posted (10 minutes to Tokyo Bay Maihama Hotel First Resort and Tokyo Bay Maihama Hotel, 3 minutes to the other four).\n\nBus stop 4\nGrand Nikko Tokyo Bay Maihama.\n\nBus stop 5\nTokyo Bay Maihama Hotel First Resort.\n\nTokyo Bay Maihama Hotel\nAlso the boarding point for the 'Guest Parking Shuttle' buses that run between the resort car parks and this station at busy times.\n\nDisney Resort Line\nTokyo Disneyland Station - Bayside Station - Tokyo DisneySea Station.\n\nStations in Chiba Prefecture\nDisney Resort Line stations.\n\nTransport in Urayasu\nDisney Resort Line stations.",
+          "字数": 2118
+        }
       },
       "结构化信息": {
         "读音": null,
@@ -158,7 +186,23 @@
           "字数": 428,
           "来源": "豆包全文翻译（据日文维基全文）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Resort Gateway Station",
+          "链接": "https://en.wikipedia.org/wiki/Resort_Gateway_Station",
+          "首段": "Resort Gateway Station (リゾートゲートウェイ・ステーション駅) is a station on the Disney Resort Line in Maihama, Urayasu, Chiba Prefecture, Japan. Trains out of the depot start here, and only the last train terminates here. It offers transfer to JR East Maihama Station on the Keiyo Line.",
+          "章节": {
+            "History": "27 July 2001 (Heisei 13): Opened; at the time it had the longest station name in Japan by character count.\n14 March 2009 (Heisei 21): PASMO became usable.",
+            "Station layout": "The platform is on the fourth floor, a single track served by two side platforms (one for boarding, one for alighting), fitted with platform gates. The alighting platform is on the left in the direction of travel and the boarding platform on the right. Transfer to Maihama Station is via the pedestrian deck and the adjacent Ikspiari commercial complex. The interior is finished in white and cream with green and yellow-green accents for a bright, southern-resort feel; the arched roof over both platforms has no pillars.",
+            "Usage": "In fiscal 2020 the station averaged 6,497 boardings daily, the busiest on the Disney Resort Line; until fiscal 2019 it had been second after Tokyo DisneySea Station. In its opening fiscal 2001 it averaged 37,663 boardings daily, the second-busiest monorail station in Japan after Monorail Hamamatsucho.",
+            "Surrounding area": "Maihama Station (JR East Keiyo / Musashino Lines); Ikspiari.",
+            "Maihama Amphitheater": "Hotel Dream Gate Maihama (not a Tokyo Disney Resort facility).",
+            "Bus routes": "The station has no bus terminal of its own, but adjoins the Maihama Station bus terminal.",
+            "Disney Resort Line": "Tokyo DisneySea Station - Resort Gateway Station - Tokyo Disneyland Station.",
+            "Transport in Urayasu": "Disney Resort Line stations."
+          },
+          "全文": "Resort Gateway Station (リゾートゲートウェイ・ステーション駅) is a station on the Disney Resort Line in Maihama, Urayasu, Chiba Prefecture, Japan. Trains out of the depot start here, and only the last train terminates here. It offers transfer to JR East Maihama Station on the Keiyo Line.\n\nHistory\n27 July 2001 (Heisei 13): Opened; at the time it had the longest station name in Japan by character count.\n14 March 2009 (Heisei 21): PASMO became usable.\n\nStation layout\nThe platform is on the fourth floor, a single track served by two side platforms (one for boarding, one for alighting), fitted with platform gates. The alighting platform is on the left in the direction of travel and the boarding platform on the right. Transfer to Maihama Station is via the pedestrian deck and the adjacent Ikspiari commercial complex. The interior is finished in white and cream with green and yellow-green accents for a bright, southern-resort feel; the arched roof over both platforms has no pillars.\n\nUsage\nIn fiscal 2020 the station averaged 6,497 boardings daily, the busiest on the Disney Resort Line; until fiscal 2019 it had been second after Tokyo DisneySea Station. In its opening fiscal 2001 it averaged 37,663 boardings daily, the second-busiest monorail station in Japan after Monorail Hamamatsucho.\n\nSurrounding area\nMaihama Station (JR East Keiyo / Musashino Lines); Ikspiari.\n\nMaihama Amphitheater\nHotel Dream Gate Maihama (not a Tokyo Disney Resort facility).\n\nBus routes\nThe station has no bus terminal of its own, but adjoins the Maihama Station bus terminal.\n\nDisney Resort Line\nTokyo DisneySea Station - Resort Gateway Station - Tokyo Disneyland Station.\n\nTransport in Urayasu\nDisney Resort Line stations.",
+          "字数": 1696
+        }
       },
       "结构化信息": {
         "读音": null,
@@ -226,7 +270,22 @@
           "字数": 311,
           "来源": "豆包全文翻译（据日文维基全文）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Tokyo DisneySea Station",
+          "链接": "https://en.wikipedia.org/wiki/Tokyo_DisneySea_Station",
+          "首段": "Tokyo DisneySea Station (東京ディズニーシー・ステーション駅) is a station on the Disney Resort Line in Maihama, Urayasu, Chiba Prefecture, Japan.",
+          "章节": {
+            "History": "27 July 2001 (Heisei 13): Opened.\n14 March 2009 (Heisei 21): PASMO became usable.",
+            "Station layout": "An elevated station with two opposed side platforms serving one track, fitted with platform gates, comprising a boarding platform and an alighting platform (alighting on the left in the direction of travel). It is the nearest station to Tokyo DisneySea, adjacent to the main entrance, the DisneySea Plaza. Both platforms have two sets of stairs/escalators and one elevator; the alighting platform also has an exit-only passage to the Hotel MiraCosta. Photo spots are set in the center of the alighting platform beside the elevators, offering views of the DisneySea AquaSphere and the MiraCosta Tuscany side.",
+            "Usage": "In fiscal 2020 the station averaged 5,659 boardings daily, the second-busiest on the line after Resort Gateway Station; until fiscal 2019 it had been the busiest.",
+            "Tokyo DisneySea Hotel MiraCosta": "Officially the station does not lead outside the resort, but it is geographically the nearest station to the hotel area; a pedestrian passage near the bus terminal leads out to the outer road (JR Maihama Station is the official nearest station). This passage stays open during Disney Resort Line operating hours even when DisneySea is closed.",
+            "Bus routes": "The station has no bus terminal of its own, but adjoins the Tokyo DisneySea bus terminal.",
+            "Disney Resort Line": "Bayside Station - Tokyo DisneySea Station - Resort Gateway Station.",
+            "Transport in Urayasu": "Disney Resort Line stations."
+          },
+          "全文": "Tokyo DisneySea Station (東京ディズニーシー・ステーション駅) is a station on the Disney Resort Line in Maihama, Urayasu, Chiba Prefecture, Japan.\n\nHistory\n27 July 2001 (Heisei 13): Opened.\n14 March 2009 (Heisei 21): PASMO became usable.\n\nStation layout\nAn elevated station with two opposed side platforms serving one track, fitted with platform gates, comprising a boarding platform and an alighting platform (alighting on the left in the direction of travel). It is the nearest station to Tokyo DisneySea, adjacent to the main entrance, the DisneySea Plaza. Both platforms have two sets of stairs/escalators and one elevator; the alighting platform also has an exit-only passage to the Hotel MiraCosta. Photo spots are set in the center of the alighting platform beside the elevators, offering views of the DisneySea AquaSphere and the MiraCosta Tuscany side.\n\nUsage\nIn fiscal 2020 the station averaged 5,659 boardings daily, the second-busiest on the line after Resort Gateway Station; until fiscal 2019 it had been the busiest.\n\nTokyo DisneySea Hotel MiraCosta\nOfficially the station does not lead outside the resort, but it is geographically the nearest station to the hotel area; a pedestrian passage near the bus terminal leads out to the outer road (JR Maihama Station is the official nearest station). This passage stays open during Disney Resort Line operating hours even when DisneySea is closed.\n\nBus routes\nThe station has no bus terminal of its own, but adjoins the Tokyo DisneySea bus terminal.\n\nDisney Resort Line\nBayside Station - Tokyo DisneySea Station - Resort Gateway Station.\n\nTransport in Urayasu\nDisney Resort Line stations.",
+          "字数": 1630
+        }
       },
       "结构化信息": {
         "读音": null,
@@ -295,7 +354,21 @@
           "字数": 302,
           "来源": "豆包全文翻译（据日文维基全文）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Tokyo Disneyland Station",
+          "链接": "https://en.wikipedia.org/wiki/Tokyo_Disneyland_Station",
+          "首段": "Tokyo Disneyland Station (東京ディズニーランド・ステーション駅) is a station on the Disney Resort Line in Maihama, Urayasu, Chiba Prefecture, Japan.",
+          "章节": {
+            "History": "27 July 2001 (Heisei 13): Opened.\n14 March 2009 (Heisei 21): PASMO became usable.",
+            "Station layout": "An elevated station with a single side platform serving one track, fitted with platform gates. It is the nearest station to Tokyo Disneyland (TDL) and the Tokyo Disneyland Hotel, located between the TDL main entrance and the hotel. The building echoes Victorian architecture matching the adjacent main entrance and hotel, so the later-built station does not disrupt the harmony. The glass roof near the gate lets sunlight in; the arched outer wall under the platform is painted with TDL attractions, and the central clock is shaped like Mickey Mouse. Two escalators and two elevators are provided; the gate and ticket machines are on the second floor, with waiting rooms on either side inside the gate, and toilets and coin lockers on the first floor.",
+            "Usage": "In fiscal 2020 the station averaged 2,298 boardings daily, the least-used on the Disney Resort Line; until fiscal 2019 it had been second-least after Bayside Station.",
+            "Bus routes": "The station has no bus terminal of its own, but adjoins the Tokyo Disneyland bus terminal.",
+            "Disney Resort Line": "Resort Gateway Station - Tokyo Disneyland Station - Bayside Station.",
+            "Transport in Urayasu": "Disney Resort Line stations."
+          },
+          "全文": "Tokyo Disneyland Station (東京ディズニーランド・ステーション駅) is a station on the Disney Resort Line in Maihama, Urayasu, Chiba Prefecture, Japan.\n\nHistory\n27 July 2001 (Heisei 13): Opened.\n14 March 2009 (Heisei 21): PASMO became usable.\n\nStation layout\nAn elevated station with a single side platform serving one track, fitted with platform gates. It is the nearest station to Tokyo Disneyland (TDL) and the Tokyo Disneyland Hotel, located between the TDL main entrance and the hotel. The building echoes Victorian architecture matching the adjacent main entrance and hotel, so the later-built station does not disrupt the harmony. The glass roof near the gate lets sunlight in; the arched outer wall under the platform is painted with TDL attractions, and the central clock is shaped like Mickey Mouse. Two escalators and two elevators are provided; the gate and ticket machines are on the second floor, with waiting rooms on either side inside the gate, and toilets and coin lockers on the first floor.\n\nUsage\nIn fiscal 2020 the station averaged 2,298 boardings daily, the least-used on the Disney Resort Line; until fiscal 2019 it had been second-least after Bayside Station.\n\nBus routes\nThe station has no bus terminal of its own, but adjoins the Tokyo Disneyland bus terminal.\n\nDisney Resort Line\nResort Gateway Station - Tokyo Disneyland Station - Bayside Station.\n\nTransport in Urayasu\nDisney Resort Line stations.",
+          "字数": 1406
+        }
       },
       "结构化信息": {
         "读音": null,
@@ -330,6 +403,6 @@
     "有中文词条": 4,
     "已千问汉化": 0,
     "待汉化": 0,
-    "有英文词条": 0
+    "有英文词条": 4
   }
 }
