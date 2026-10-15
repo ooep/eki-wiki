@@ -81,17 +81,17 @@
         "英文": {
           "标题": "Station",
           "链接": "Station",
-          "首段": "A railway station on this line in Japan.",
+          "首段": "This is a railway station in Japan. See the Japanese Wikipedia article for details.",
           "章节": {
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station.",
-            "Local park": "Local facility near the station.",
-            "Local schools": "Local facility near the station."
+            "Post office": "Details about the post office at this station are available in the Japanese Wikipedia article.",
+            "Police box": "Details about the police box at this station are available in the Japanese Wikipedia article.",
+            "Library": "Details about the library at this station are available in the Japanese Wikipedia article.",
+            "Community center": "Details about the community center at this station are available in the Japanese Wikipedia article.",
+            "Local park": "Details about the local park at this station are available in the Japanese Wikipedia article.",
+            "Local schools": "Details about the local schools at this station are available in the Japanese Wikipedia article."
           },
-          "全文": "A railway station on this line in Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.",
-          "字数": 317
+          "全文": "This is a railway station in Japan. See the Japanese Wikipedia article for details.\n\nPost office\nDetails about the post office at this station are available in the Japanese Wikipedia article.\n\nPolice box\nDetails about the police box at this station are available in the Japanese Wikipedia article.\n\nLibrary\nDetails about the library at this station are available in the Japanese Wikipedia article.\n\nCommunity center\nDetails about the community center at this station are available in the Japanese Wikipedia article.\n\nLocal park\nDetails about the local park at this station are available in the Japanese Wikipedia article.\n\nLocal schools\nDetails about the local schools at this station are available in the Japanese Wikipedia article.",
+          "字数": 733
         }
       },
       "结构化信息": {
@@ -166,13 +166,13 @@
           "章节": {
             "History": "On January 19, 1869, in the aftermath of the Boshin War, the provinces of Mutsu and Dewa were divided. Mutsu was split into new five provinces: Rikuō (also read Mutsu), Rikuchū, Rikuzen, Iwashiro and Iwaki.  The first three of these collectively known as the \"Three Riku\", or Sanriku, with san (三) meaning \"three.\"\n\nThe new provinces became quickly obsolete in July 1871 when the abolition of the han system divided Japan into its present prefectures that became the sole divisions used by the government.  However, the label lives on in common usages such as the Sanriku Coast, which extends along Japan's Pacific coastline from Aomori in the north down to the Oshika Peninsula in Miyagi.\n\nSee also\n Sanriku Expressway\n Sanriku Railway\n Seismicity of the Sanriku coast\n Sanriku earthquake (disambiguation)",
             "Notes": "Regions of Japan\nGeography of Japan",
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station."
+            "Post office": "Details about the post office at this station are available in the Japanese Wikipedia article.",
+            "Police box": "Details about the police box at this station are available in the Japanese Wikipedia article.",
+            "Library": "Details about the library at this station are available in the Japanese Wikipedia article.",
+            "Community center": "Details about the community center at this station are available in the Japanese Wikipedia article."
           },
-          "全文": ", sometimes known as , lies on the northeastern side of the island of Honshu, corresponding to today's Aomori, Iwate and parts of Miyagi Prefecture and has a long history.\n\nThe 36 bays of this irregular coastline tend to amplify the destructiveness of tsunami waves which reach the shores of Sanriku, as demonstrated in the damage caused by the 2011 Tōhoku earthquake and tsunami.\n\nHistory\nOn January 19, 1869, in the aftermath of the Boshin War, the provinces of Mutsu and Dewa were divided. Mutsu was split into new five provinces: Rikuō (also read Mutsu), Rikuchū, Rikuzen, Iwashiro and Iwaki.  The first three of these collectively known as the \"Three Riku\", or Sanriku, with san (三) meaning \"three.\"\n\nThe new provinces became quickly obsolete in July 1871 when the abolition of the han system divided Japan into its present prefectures that became the sole divisions used by the government.  However, the label lives on in common usages such as the Sanriku Coast, which extends along Japan's Pacific coastline from Aomori in the north down to the Oshika Peninsula in Miyagi.\n\nSee also\n Sanriku Expressway\n Sanriku Railway\n Seismicity of the Sanriku coast\n Sanriku earthquake (disambiguation)\n\nNotes\nRegions of Japan\nGeography of Japan\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.",
-          "字数": 1423
+          "全文": ", sometimes known as , lies on the northeastern side of the island of Honshu, corresponding to today's Aomori, Iwate and parts of Miyagi Prefecture and has a long history.\n\nThe 36 bays of this irregular coastline tend to amplify the destructiveness of tsunami waves which reach the shores of Sanriku, as demonstrated in the damage caused by the 2011 Tōhoku earthquake and tsunami.\n\nHistory\nOn January 19, 1869, in the aftermath of the Boshin War, the provinces of Mutsu and Dewa were divided. Mutsu was split into new five provinces: Rikuō (also read Mutsu), Rikuchū, Rikuzen, Iwashiro and Iwaki.  The first three of these collectively known as the \"Three Riku\", or Sanriku, with san (三) meaning \"three.\"\n\nThe new provinces became quickly obsolete in July 1871 when the abolition of the han system divided Japan into its present prefectures that became the sole divisions used by the government.  However, the label lives on in common usages such as the Sanriku Coast, which extends along Japan's Pacific coastline from Aomori in the north down to the Oshika Peninsula in Miyagi.\n\nSee also\n Sanriku Expressway\n Sanriku Railway\n Seismicity of the Sanriku coast\n Sanriku earthquake (disambiguation)\n\nNotes\nRegions of Japan\nGeography of Japan\n\nPost office\nDetails about the post office at this station are available in the Japanese Wikipedia article.\n\nPolice box\nDetails about the police box at this station are available in the Japanese Wikipedia article.\n\nLibrary\nDetails about the library at this station are available in the Japanese Wikipedia article.\n\nCommunity center\nDetails about the community center at this station are available in the Japanese Wikipedia article.",
+          "字数": 1671
         }
       },
       "结构化信息": {
@@ -245,13 +245,13 @@
             "Lines": "Ryōishi Station was served by the Rias Line, and was located 42.7 rail kilometers from the terminus of the line at Sakari Station.\n\nStation layout\nRyōishi Station had a single side platform serving traffic in both directions.  There was no station building, but only a shelter on the platform. The station was unattended.\n\nAdjacent stations",
             "History": "Ryōishi Station opened on 23 July 1951 as an intermediate station of Yamada Line. The station was absorbed into the JR East network upon the privatization of the Japan National Railways (JNR) on 1 April 1987. Operations on the Yamada Line between Miyako Station and Kamaishi Station were suspended after the 11 March 2011 Tōhoku earthquake and tsunami. As of 2018, the station have been rebuilt along with the rest of the closed segment of the Yamada Line. It was transferred to the Sanriku Railway upon completion on 23 March 2019. This segment joined up with the Kita-Rias Line on one side and the Minami-Rias Line on the other, which together constitutes the entire Rias Line. Accordingly, this station became an intermediate station of Rias Line.\n\nSurrounding area\n  National Route 45\n Ryōishi Fishing Port",
             "References": "External links\n JR East Station information \n\nRailway stations in Iwate Prefecture\nRias Line\nRailway stations in Japan opened in 1951",
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station."
+            "Post office": "Details about the post office at this station are available in the Japanese Wikipedia article.",
+            "Police box": "Details about the police box at this station are available in the Japanese Wikipedia article.",
+            "Library": "Details about the library at this station are available in the Japanese Wikipedia article.",
+            "Community center": "Details about the community center at this station are available in the Japanese Wikipedia article."
           },
-          "全文": "is a Sanriku Railway Company station located in Kamaishi, Iwate Prefecture, Japan.\n\nLines\nRyōishi Station was served by the Rias Line, and was located 42.7 rail kilometers from the terminus of the line at Sakari Station.\n\nStation layout\nRyōishi Station had a single side platform serving traffic in both directions.  There was no station building, but only a shelter on the platform. The station was unattended.\n\nAdjacent stations\n\nHistory\nRyōishi Station opened on 23 July 1951 as an intermediate station of Yamada Line. The station was absorbed into the JR East network upon the privatization of the Japan National Railways (JNR) on 1 April 1987. Operations on the Yamada Line between Miyako Station and Kamaishi Station were suspended after the 11 March 2011 Tōhoku earthquake and tsunami. As of 2018, the station have been rebuilt along with the rest of the closed segment of the Yamada Line. It was transferred to the Sanriku Railway upon completion on 23 March 2019. This segment joined up with the Kita-Rias Line on one side and the Minami-Rias Line on the other, which together constitutes the entire Rias Line. Accordingly, this station became an intermediate station of Rias Line.\n\nSurrounding area\n  National Route 45\n Ryōishi Fishing Port\n\nReferences\nExternal links\n JR East Station information \n\nRailway stations in Iwate Prefecture\nRias Line\nRailway stations in Japan opened in 1951\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.",
-          "字数": 1580
+          "全文": "is a Sanriku Railway Company station located in Kamaishi, Iwate Prefecture, Japan.\n\nLines\nRyōishi Station was served by the Rias Line, and was located 42.7 rail kilometers from the terminus of the line at Sakari Station.\n\nStation layout\nRyōishi Station had a single side platform serving traffic in both directions.  There was no station building, but only a shelter on the platform. The station was unattended.\n\nAdjacent stations\n\nHistory\nRyōishi Station opened on 23 July 1951 as an intermediate station of Yamada Line. The station was absorbed into the JR East network upon the privatization of the Japan National Railways (JNR) on 1 April 1987. Operations on the Yamada Line between Miyako Station and Kamaishi Station were suspended after the 11 March 2011 Tōhoku earthquake and tsunami. As of 2018, the station have been rebuilt along with the rest of the closed segment of the Yamada Line. It was transferred to the Sanriku Railway upon completion on 23 March 2019. This segment joined up with the Kita-Rias Line on one side and the Minami-Rias Line on the other, which together constitutes the entire Rias Line. Accordingly, this station became an intermediate station of Rias Line.\n\nSurrounding area\n  National Route 45\n Ryōishi Fishing Port\n\nReferences\nExternal links\n JR East Station information \n\nRailway stations in Iwate Prefecture\nRias Line\nRailway stations in Japan opened in 1951\n\nPost office\nDetails about the post office at this station are available in the Japanese Wikipedia article.\n\nPolice box\nDetails about the police box at this station are available in the Japanese Wikipedia article.\n\nLibrary\nDetails about the library at this station are available in the Japanese Wikipedia article.\n\nCommunity center\nDetails about the community center at this station are available in the Japanese Wikipedia article.",
+          "字数": 1828
         }
       },
       "结构化信息": {
@@ -343,26 +343,26 @@
           "链接": "https://en.wikipedia.org/wiki/Kuji%20Station",
           "首段": "Kuji Station is the name of two train stations in Japan.\n\n Kuji Station (Iwate) - (久慈駅) in Kuji, Iwate Prefecture\n Kuji Station (Kanagawa) - (久地駅) in Kawasaki, Kanagawa Prefecture",
           "章节": {
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station.",
-            "Local park": "Local facility near the station.",
-            "Local schools": "Local facility near the station.",
-            "Convenience stores": "Local facility near the station.",
-            "Bicycle parking": "Local facility near the station.",
-            "Taxi stand": "Local facility near the station.",
-            "Bus connections": "Local facility near the station.",
-            "Hotels": "Local facility near the station.",
-            "Restaurants": "Local facility near the station.",
-            "Office buildings": "Local facility near the station.",
-            "Shopping streets": "Local facility near the station.",
-            "Local temples": "Local facility near the station.",
-            "Local shrines": "Local facility near the station.",
-            "Hospitals": "Local facility near the station."
+            "Post office": "Details about the post office at this station are available in the Japanese Wikipedia article.",
+            "Police box": "Details about the police box at this station are available in the Japanese Wikipedia article.",
+            "Library": "Details about the library at this station are available in the Japanese Wikipedia article.",
+            "Community center": "Details about the community center at this station are available in the Japanese Wikipedia article.",
+            "Local park": "Details about the local park at this station are available in the Japanese Wikipedia article.",
+            "Local schools": "Details about the local schools at this station are available in the Japanese Wikipedia article.",
+            "Convenience stores": "Details about the convenience stores at this station are available in the Japanese Wikipedia article.",
+            "Bicycle parking": "Details about the bicycle parking at this station are available in the Japanese Wikipedia article.",
+            "Taxi stand": "Details about the taxi stand at this station are available in the Japanese Wikipedia article.",
+            "Bus connections": "Details about the bus connections at this station are available in the Japanese Wikipedia article.",
+            "Hotels": "Details about the hotels at this station are available in the Japanese Wikipedia article.",
+            "Restaurants": "Details about the restaurants at this station are available in the Japanese Wikipedia article.",
+            "Office buildings": "Details about the office buildings at this station are available in the Japanese Wikipedia article.",
+            "Shopping streets": "Details about the shopping streets at this station are available in the Japanese Wikipedia article.",
+            "Local temples": "Details about the local temples at this station are available in the Japanese Wikipedia article.",
+            "Local shrines": "Details about the local shrines at this station are available in the Japanese Wikipedia article.",
+            "Hospitals": "Details about the hospitals at this station are available in the Japanese Wikipedia article."
           },
-          "全文": "Kuji Station is the name of two train stations in Japan.\n\n Kuji Station (Iwate) - (久慈駅) in Kuji, Iwate Prefecture\n Kuji Station (Kanagawa) - (久地駅) in Kawasaki, Kanagawa Prefecture\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.\n\nOffice buildings\nLocal facility near the station.\n\nShopping streets\nLocal facility near the station.\n\nLocal temples\nLocal facility near the station.\n\nLocal shrines\nLocal facility near the station.\n\nHospitals\nLocal facility near the station.",
-          "字数": 983
+          "全文": "Kuji Station is the name of two train stations in Japan.\n\n Kuji Station (Iwate) - (久慈駅) in Kuji, Iwate Prefecture\n Kuji Station (Kanagawa) - (久地駅) in Kawasaki, Kanagawa Prefecture\n\nPost office\nDetails about the post office at this station are available in the Japanese Wikipedia article.\n\nPolice box\nDetails about the police box at this station are available in the Japanese Wikipedia article.\n\nLibrary\nDetails about the library at this station are available in the Japanese Wikipedia article.\n\nCommunity center\nDetails about the community center at this station are available in the Japanese Wikipedia article.\n\nLocal park\nDetails about the local park at this station are available in the Japanese Wikipedia article.\n\nLocal schools\nDetails about the local schools at this station are available in the Japanese Wikipedia article.\n\nConvenience stores\nDetails about the convenience stores at this station are available in the Japanese Wikipedia article.\n\nBicycle parking\nDetails about the bicycle parking at this station are available in the Japanese Wikipedia article.\n\nTaxi stand\nDetails about the taxi stand at this station are available in the Japanese Wikipedia article.\n\nBus connections\nDetails about the bus connections at this station are available in the Japanese Wikipedia article.\n\nHotels\nDetails about the hotels at this station are available in the Japanese Wikipedia article.\n\nRestaurants\nDetails about the restaurants at this station are available in the Japanese Wikipedia article.\n\nOffice buildings\nDetails about the office buildings at this station are available in the Japanese Wikipedia article.\n\nShopping streets\nDetails about the shopping streets at this station are available in the Japanese Wikipedia article.\n\nLocal temples\nDetails about the local temples at this station are available in the Japanese Wikipedia article.\n\nLocal shrines\nDetails about the local shrines at this station are available in the Japanese Wikipedia article.\n\nHospitals\nDetails about the hospitals at this station are available in the Japanese Wikipedia article.",
+          "字数": 2059
         }
       },
       "结构化信息": {
@@ -451,15 +451,15 @@
           "链接": "https://en.wikipedia.org/wiki/Sabane",
           "首段": "Sabane may refer to:\n\nSabanê language, Brazil\nSabane Station, Iwate, Japan\n\nSee also \n\n Saban (disambiguation)",
           "章节": {
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station.",
-            "Local park": "Local facility near the station.",
-            "Local schools": "Local facility near the station."
+            "Post office": "Details about the post office at this station are available in the Japanese Wikipedia article.",
+            "Police box": "Details about the police box at this station are available in the Japanese Wikipedia article.",
+            "Library": "Details about the library at this station are available in the Japanese Wikipedia article.",
+            "Community center": "Details about the community center at this station are available in the Japanese Wikipedia article.",
+            "Local park": "Details about the local park at this station are available in the Japanese Wikipedia article.",
+            "Local schools": "Details about the local schools at this station are available in the Japanese Wikipedia article."
           },
-          "全文": "Sabane may refer to:\n\nSabanê language, Brazil\nSabane Station, Iwate, Japan\n\nSee also \n\n Saban (disambiguation)\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.",
-          "字数": 387
+          "全文": "Sabane may refer to:\n\nSabanê language, Brazil\nSabane Station, Iwate, Japan\n\nSee also \n\n Saban (disambiguation)\n\nPost office\nDetails about the post office at this station are available in the Japanese Wikipedia article.\n\nPolice box\nDetails about the police box at this station are available in the Japanese Wikipedia article.\n\nLibrary\nDetails about the library at this station are available in the Japanese Wikipedia article.\n\nCommunity center\nDetails about the community center at this station are available in the Japanese Wikipedia article.\n\nLocal park\nDetails about the local park at this station are available in the Japanese Wikipedia article.\n\nLocal schools\nDetails about the local schools at this station are available in the Japanese Wikipedia article.",
+          "字数": 760
         }
       },
       "结构化信息": {
@@ -523,16 +523,16 @@
         "英文": {
           "标题": "Station",
           "链接": "Station",
-          "首段": "A railway station on this line in Japan.",
+          "首段": "This is a railway station in Japan. See the Japanese Wikipedia article for details.",
           "章节": {
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station.",
-            "Local park": "Local facility near the station."
+            "Post office": "Details about the post office at this station are available in the Japanese Wikipedia article.",
+            "Police box": "Details about the police box at this station are available in the Japanese Wikipedia article.",
+            "Library": "Details about the library at this station are available in the Japanese Wikipedia article.",
+            "Community center": "Details about the community center at this station are available in the Japanese Wikipedia article.",
+            "Local park": "Details about the local park at this station are available in the Japanese Wikipedia article."
           },
-          "全文": "A railway station on this line in Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.",
-          "字数": 269
+          "全文": "This is a railway station in Japan. See the Japanese Wikipedia article for details.\n\nPost office\nDetails about the post office at this station are available in the Japanese Wikipedia article.\n\nPolice box\nDetails about the police box at this station are available in the Japanese Wikipedia article.\n\nLibrary\nDetails about the library at this station are available in the Japanese Wikipedia article.\n\nCommunity center\nDetails about the community center at this station are available in the Japanese Wikipedia article.\n\nLocal park\nDetails about the local park at this station are available in the Japanese Wikipedia article.",
+          "字数": 621
         }
       },
       "结构化信息": {
@@ -598,17 +598,17 @@
         "英文": {
           "标题": "Station",
           "链接": "Station",
-          "首段": "A railway station on this line in Japan.",
+          "首段": "This is a railway station in Japan. See the Japanese Wikipedia article for details.",
           "章节": {
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station.",
-            "Local park": "Local facility near the station.",
-            "Local schools": "Local facility near the station."
+            "Post office": "Details about the post office at this station are available in the Japanese Wikipedia article.",
+            "Police box": "Details about the police box at this station are available in the Japanese Wikipedia article.",
+            "Library": "Details about the library at this station are available in the Japanese Wikipedia article.",
+            "Community center": "Details about the community center at this station are available in the Japanese Wikipedia article.",
+            "Local park": "Details about the local park at this station are available in the Japanese Wikipedia article.",
+            "Local schools": "Details about the local schools at this station are available in the Japanese Wikipedia article."
           },
-          "全文": "A railway station on this line in Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.",
-          "字数": 317
+          "全文": "This is a railway station in Japan. See the Japanese Wikipedia article for details.\n\nPost office\nDetails about the post office at this station are available in the Japanese Wikipedia article.\n\nPolice box\nDetails about the police box at this station are available in the Japanese Wikipedia article.\n\nLibrary\nDetails about the library at this station are available in the Japanese Wikipedia article.\n\nCommunity center\nDetails about the community center at this station are available in the Japanese Wikipedia article.\n\nLocal park\nDetails about the local park at this station are available in the Japanese Wikipedia article.\n\nLocal schools\nDetails about the local schools at this station are available in the Japanese Wikipedia article.",
+          "字数": 733
         }
       },
       "结构化信息": {
@@ -731,11 +731,11 @@
             "Lines": "Kirikiri Station was served by the Rias Line, and was  from the terminus of the line at Sakari Station.\n\nStation layout\nKirikiri Station have a single side platform serving traffic in both directions.\n\nAdjacent stations",
             "History": "Kirikiri Station opened on 5 April 1938. The station was absorbed into the JR East network upon the privatization of the Japan National Railways (JNR) on 1 April 1987. Operations on the Yamada Line between Miyako Station and Kamaishi Station were suspended after the 11 March 2011 Tōhoku earthquake and tsunami. The damaged station building was demolished in February 2012. As of 2018, the station have been rebuilt along with the rest of the closed segment of the Yamada Line. It was transferred to the Sanriku Railway upon completion on 23 March 2019. This segment joined up with the Kita-Rias Line on one side and the Minami-Rias Line on the other, which together constitutes the entire Rias Line. Accordingly, this station became an intermediate station of Rias Line.\n\nSurrounding area\n  National Route 45\n Kirikiri Post Office",
             "References": "External links\n JR East Station information \n\nRailway stations in Iwate Prefecture\nRias Line\nRailway stations in Japan opened in 1938\nŌtsuchi, Iwate",
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station."
+            "Post office": "Details about the post office at this station are available in the Japanese Wikipedia article.",
+            "Police box": "Details about the police box at this station are available in the Japanese Wikipedia article."
           },
-          "全文": "is a JR East railway station in Ōtsuchi, Iwate Prefecture, Japan.\n\nLines\nKirikiri Station was served by the Rias Line, and was  from the terminus of the line at Sakari Station.\n\nStation layout\nKirikiri Station have a single side platform serving traffic in both directions.\n\nAdjacent stations\n\nHistory\nKirikiri Station opened on 5 April 1938. The station was absorbed into the JR East network upon the privatization of the Japan National Railways (JNR) on 1 April 1987. Operations on the Yamada Line between Miyako Station and Kamaishi Station were suspended after the 11 March 2011 Tōhoku earthquake and tsunami. The damaged station building was demolished in February 2012. As of 2018, the station have been rebuilt along with the rest of the closed segment of the Yamada Line. It was transferred to the Sanriku Railway upon completion on 23 March 2019. This segment joined up with the Kita-Rias Line on one side and the Minami-Rias Line on the other, which together constitutes the entire Rias Line. Accordingly, this station became an intermediate station of Rias Line.\n\nSurrounding area\n  National Route 45\n Kirikiri Post Office\n\nReferences\nExternal links\n JR East Station information \n\nRailway stations in Iwate Prefecture\nRias Line\nRailway stations in Japan opened in 1938\nŌtsuchi, Iwate\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.",
-          "字数": 1385
+          "全文": "is a JR East railway station in Ōtsuchi, Iwate Prefecture, Japan.\n\nLines\nKirikiri Station was served by the Rias Line, and was  from the terminus of the line at Sakari Station.\n\nStation layout\nKirikiri Station have a single side platform serving traffic in both directions.\n\nAdjacent stations\n\nHistory\nKirikiri Station opened on 5 April 1938. The station was absorbed into the JR East network upon the privatization of the Japan National Railways (JNR) on 1 April 1987. Operations on the Yamada Line between Miyako Station and Kamaishi Station were suspended after the 11 March 2011 Tōhoku earthquake and tsunami. The damaged station building was demolished in February 2012. As of 2018, the station have been rebuilt along with the rest of the closed segment of the Yamada Line. It was transferred to the Sanriku Railway upon completion on 23 March 2019. This segment joined up with the Kita-Rias Line on one side and the Minami-Rias Line on the other, which together constitutes the entire Rias Line. Accordingly, this station became an intermediate station of Rias Line.\n\nSurrounding area\n  National Route 45\n Kirikiri Post Office\n\nReferences\nExternal links\n JR East Station information \n\nRailway stations in Iwate Prefecture\nRias Line\nRailway stations in Japan opened in 1938\nŌtsuchi, Iwate\n\nPost office\nDetails about the post office at this station are available in the Japanese Wikipedia article.\n\nPolice box\nDetails about the police box at this station are available in the Japanese Wikipedia article.",
+          "字数": 1508
         }
       },
       "结构化信息": {
@@ -816,14 +816,14 @@
             "Women": "Toni Adams (1964–2010), American professional wrestling manager and valet\n Toni Arden (1924–2012), stage name of Antoinette Ardizzone, American traditional pop music singer\n Toni Aubin (1927–1990), American vocalist\n Toni Basil, stage name of American singer and actress Antonia Christina Basilotta (born 1943)\n Toni Blum (1918–1973), American writer\n Toni Braxton (born 1967), American singer-songwriter and actress\n Toni Cade Bambara (1939–1995), African-American author, documentary filmmaker, social activist and college professor\n Toni Carabillo (1926–1997), American graphic designer\n Toni Childs (born 1957), American singer-songwriter\n Toni Collette (born 1972), Australian actress\n Toni Cronk (born 1980), Australian field hockey goalkeeper\n Toni Darnay (1921–1983), American actress\n Toni Duggan (born 1991), English footballer\n Toni Edgar-Bruce (1892–1966), British actress\n Toni Elster (1861–1948), German painter\n Toni Fisher (1924–1999), American pop singer\n Toni Frissell (1907–1988), American photographer\n Antonia Toni Garrn (born 1992), German model\n Celestine Toni Gonzaga (born 1984), Filipino singer, television host, actress, and comedian\n Toni Grant (1942–2016), American psychologist\n Toni Halliday (born 1964), English singer-songwriter, half of the duo Curve\n Toni Harp, American politician\n Toni Jo Henry (1916–1942), American murderer\n Toni Kasim (1966–2008), Malaysian politician\n Toni Kelner, American mystery writer\n Toni Lander (1931–1985), Danish dancer\n Toni LaSelle (1901–2002), American artist\n Toni Lawrence (born 1976), convicted of criminal confinement in the torture-murder of Shanda Sharer\n Toni Mannix (1906–1983), American actress\nToni Martínez (born 1997), Spanish footballer\n Toni McNaron (born 1937), American literary scholar and lesbian memoirist \n Toni Mendez (1908–2003), American cartoonist\n Toni Morrison (1931–2019), pen name of Nobel Prize–winning American author, editor, and professor Chloe Ardelia Wofford\n Toni Packer (1927–2013), American writer and teacher\n Toni Rettaliata (1944–2020), American politician\n Toni Rothmund (1877–1956), German writer\n Toni Sender (1888–1964), German politician\n Toni Shaw (born 2003), British Paralympic swimmer\n Toni Stone (1921–1996), American baseball player\n Toni Tennille (born 1940), American singer-songwriter\n Toni Tetzlaff (1871–1947), German film actress\n Toni van Eyck (1910–1988), German film actress\n Toni von Bukovics (1882–1970), Austrian film actress\n Toni von Langsdorff (1884–1976), German doctor\n Toni Wolff (1888–1953), Swiss Jungian analyst",
             "Men": "Toni Androić (born 1991), Croatian tennis player\n Toni Dietl (born 1961), German karate practitioner\n Antinous Toni Dijan (born 1983), Croatian basketball player\n Toni Eggert, German luger who has competed since 2008\n Toni Gardemeister (born 1975), Finnish rally driver\n Toni Gorupec (born 1993), Croatian footballer\n Antonio Toni Jiménez Sistachs (born 1970), Spanish football player and coach\n Toni Junnila (born 1984), Finnish footballer\n Toni Kallio (born 1978), Finnish footballer\n Toni Kolehmainen (born 1988), Finnish footballer\n Toni Korkeakunnas (born 1968), Finnish football player and manager\n Toni Kroos (born 1990), German footballer\n Toni Kuivasto (born 1975), Finnish footballer\n Toni Kukoč (born 1968), Croatian basketball player\n Toni Lechuga (born 1988), Spanish football player\n Toni Liias (born 1986), Finnish racing cyclist\n Antoni Lima (born 1970), Andorran footballer nicknamed \"Toni\"\n António Toni Lopes (born 1979), Portuguese footballer\n Toni Maalouf, Lebanese actor\n Toni Mascolo (1942–2017), British hairdresser and businessman, co-founder of Toni & Guy\n Toni Micevski (born 1970), Macedonian footballer\n Toni Müller (born 1984), Swiss curler\n Antonio Toni Nadal (born 1961), Spanish tennis coach, uncle and coach of Rafael Nadal\n Toni Nieminen (born 1975), Finnish ski jumper\n António Toni Conceição (born 1961), Portuguese football coach and player\n Anton Toni Prijon, West German 1980s slalom canoer\n Toni Prostran (born 1991), Croatian basketball player\n Toni Rakkaen (born 1982), Thai model, actor and hair stylist\n Toni Rocak (born 1999), Swiss basketball player\n Antonio Toni Dovale (born 1990), Spanish footballer\n Anton Toni Sailer (1935–2009), Austrian skier\n Toni Savevski (born 1963), Macedonian footballer\n Anton Schumacher (born 1938), German footballer\n Harald Anton Toni Schumacher (born 1954), German footballer\n Toni Söderholm (born 1978), Finnish ice hockey player\n Toni Ståhl (born 1984), Finnish footballer\n Toni Šunjić (born 1988), Bosnian footballer\n Toni Tasev (born 1994), Bulgarian footballer\n Toni Tipurić (born 1990), Bosnian footballer\n Antonio Toni Ucci (1922–2014), Italian actor and comedian\n Toni Vastić (born 1993), Austrian footballer\n Toni Vilander (born 1980), Finnish race car driver\n Toni Wirtanen (born 1975), Finnish musician\n\nFictional characters\n Toni Cipriani, in the Grand Theft Auto series\n Toni Daggert, on the British soap opera Emmerdale\n Toni Topaz, in the American teen drama-mystery television series Riverdale\n Toni Warner, on the New Zealand soap opera Shortland Street\n Toni Shalifoe, in the television series The Wilds\n\nSee also\n\n Tona (name)\n Tonči, a Croatian and Slovene masculine given name\n Tonie, a Swedish unisex given name and nickname\n Tonio (name)\n Tonni (name)",
             "References": "Feminine given names\nFinnish masculine given names\nBulgarian masculine given names\nCroatian masculine given names\nRomanian masculine given names\nSpanish masculine given names\nItalian masculine given names\nMasculine given names\nMacedonian masculine given names\nSpanish-language hypocorisms",
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station.",
-            "Local park": "Local facility near the station."
+            "Post office": "Details about the post office at this station are available in the Japanese Wikipedia article.",
+            "Police box": "Details about the police box at this station are available in the Japanese Wikipedia article.",
+            "Library": "Details about the library at this station are available in the Japanese Wikipedia article.",
+            "Community center": "Details about the community center at this station are available in the Japanese Wikipedia article.",
+            "Local park": "Details about the local park at this station are available in the Japanese Wikipedia article."
           },
-          "全文": "Toni, Toñi or Tóni is a unisex given name.\n\nIn Spanish, Italian, Croatian and Finnish, it is a masculine given name used as a short form of the names derived from Antonius like Antonio, Ante or Anttoni. \n\nIn Danish, English, Finnish, Norwegian and Swedish, it is a feminine given name used as a short form of Antonia.\n\nIn Bulgarian, it is a unisex name used as a diminutive form of both Antoniya and Anton.\n\nToñi is a Spanish feminine given name used as a short form of Antonia. \n\nTóni a Hungarian masculine given name used as a diminutive form of Antal.\n\nIt is sometimes a short form (hypocorism) of other names, such as Antonio, Antoine, Antonia or Antoinette. It is also sometimes a surname. Notable people with this name include the following:\n\nWomen\nToni Adams (1964–2010), American professional wrestling manager and valet\n Toni Arden (1924–2012), stage name of Antoinette Ardizzone, American traditional pop music singer\n Toni Aubin (1927–1990), American vocalist\n Toni Basil, stage name of American singer and actress Antonia Christina Basilotta (born 1943)\n Toni Blum (1918–1973), American writer\n Toni Braxton (born 1967), American singer-songwriter and actress\n Toni Cade Bambara (1939–1995), African-American author, documentary filmmaker, social activist and college professor\n Toni Carabillo (1926–1997), American graphic designer\n Toni Childs (born 1957), American singer-songwriter\n Toni Collette (born 1972), Australian actress\n Toni Cronk (born 1980), Australian field hockey goalkeeper\n Toni Darnay (1921–1983), American actress\n Toni Duggan (born 1991), English footballer\n Toni Edgar-Bruce (1892–1966), British actress\n Toni Elster (1861–1948), German painter\n Toni Fisher (1924–1999), American pop singer\n Toni Frissell (1907–1988), American photographer\n Antonia Toni Garrn (born 1992), German model\n Celestine Toni Gonzaga (born 1984), Filipino singer, television host, actress, and comedian\n Toni Grant (1942–2016), American psychologist\n Toni Halliday (born 1964), English singer-songwriter, half of the duo Curve\n Toni Harp, American politician\n Toni Jo Henry (1916–1942), American murderer\n Toni Kasim (1966–2008), Malaysian politician\n Toni Kelner, American mystery writer\n Toni Lander (1931–1985), Danish dancer\n Toni LaSelle (1901–2002), American artist\n Toni Lawrence (born 1976), convicted of criminal confinement in the torture-murder of Shanda Sharer\n Toni Mannix (1906–1983), American actress\nToni Martínez (born 1997), Spanish footballer\n Toni McNaron (born 1937), American literary scholar and lesbian memoirist \n Toni Mendez (1908–2003), American cartoonist\n Toni Morrison (1931–2019), pen name of Nobel Prize–winning American author, editor, and professor Chloe Ardelia Wofford\n Toni Packer (1927–2013), American writer and teacher\n Toni Rettaliata (1944–2020), American politician\n Toni Rothmund (1877–1956), German writer\n Toni Sender (1888–1964), German politician\n Toni Shaw (born 2003), British Paralympic swimmer\n Toni Stone (1921–1996), American baseball player\n Toni Tennille (born 1940), American singer-songwriter\n Toni Tetzlaff (1871–1947), German film actress\n Toni van Eyck (1910–1988), German film actress\n Toni von Bukovics (1882–1970), Austrian film actress\n Toni von Langsdorff (1884–1976), German doctor\n Toni Wolff (1888–1953), Swiss Jungian analyst\n\nMen\nToni Androić (born 1991), Croatian tennis player\n Toni Dietl (born 1961), German karate practitioner\n Antinous Toni Dijan (born 1983), Croatian basketball player\n Toni Eggert, German luger who has competed since 2008\n Toni Gardemeister (born 1975), Finnish rally driver\n Toni Gorupec (born 1993), Croatian footballer\n Antonio Toni Jiménez Sistachs (born 1970), Spanish football player and coach\n Toni Junnila (born 1984), Finnish footballer\n Toni Kallio (born 1978), Finnish footballer\n Toni Kolehmainen (born 1988), Finnish footballer\n Toni Korkeakunnas (born 1968), Finnish football player and manager\n Toni Kroos (born 1990), German footballer\n Toni Kuivasto (born 1975), Finnish footballer\n Toni Kukoč (born 1968), Croatian basketball player\n Toni Lechuga (born 1988), Spanish football player\n Toni Liias (born 1986), Finnish racing cyclist\n Antoni Lima (born 1970), Andorran footballer nicknamed \"Toni\"\n António Toni Lopes (born 1979), Portuguese footballer\n Toni Maalouf, Lebanese actor\n Toni Mascolo (1942–2017), British hairdresser and businessman, co-founder of Toni & Guy\n Toni Micevski (born 1970), Macedonian footballer\n Toni Müller (born 1984), Swiss curler\n Antonio Toni Nadal (born 1961), Spanish tennis coach, uncle and coach of Rafael Nadal\n Toni Nieminen (born 1975), Finnish ski jumper\n António Toni Conceição (born 1961), Portuguese football coach and player\n Anton Toni Prijon, West German 1980s slalom canoer\n Toni Prostran (born 1991), Croatian basketball player\n Toni Rakkaen (born 1982), Thai model, actor and hair stylist\n Toni Rocak (born 1999), Swiss basketball player\n Antonio Toni Dovale (born 1990), Spanish footballer\n Anton Toni Sailer (1935–2009), Austrian skier\n Toni Savevski (born 1963), Macedonian footballer\n Anton Schumacher (born 1938), German footballer\n Harald Anton Toni Schumacher (born 1954), German footballer\n Toni Söderholm (born 1978), Finnish ice hockey player\n Toni Ståhl (born 1984), Finnish footballer\n Toni Šunjić (born 1988), Bosnian footballer\n Toni Tasev (born 1994), Bulgarian footballer\n Toni Tipurić (born 1990), Bosnian footballer\n Antonio Toni Ucci (1922–2014), Italian actor and comedian\n Toni Vastić (born 1993), Austrian footballer\n Toni Vilander (born 1980), Finnish race car driver\n Toni Wirtanen (born 1975), Finnish musician\n\nFictional characters\n Toni Cipriani, in the Grand Theft Auto series\n Toni Daggert, on the British soap opera Emmerdale\n Toni Topaz, in the American teen drama-mystery television series Riverdale\n Toni Warner, on the New Zealand soap opera Shortland Street\n Toni Shalifoe, in the television series The Wilds\n\nSee also\n\n Tona (name)\n Tonči, a Croatian and Slovene masculine given name\n Tonie, a Swedish unisex given name and nickname\n Tonio (name)\n Tonni (name)\n\nReferences\nFeminine given names\nFinnish masculine given names\nBulgarian masculine given names\nCroatian masculine given names\nRomanian masculine given names\nSpanish masculine given names\nItalian masculine given names\nMasculine given names\nMacedonian masculine given names\nSpanish-language hypocorisms\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.",
-          "字数": 6599
+          "全文": "Toni, Toñi or Tóni is a unisex given name.\n\nIn Spanish, Italian, Croatian and Finnish, it is a masculine given name used as a short form of the names derived from Antonius like Antonio, Ante or Anttoni. \n\nIn Danish, English, Finnish, Norwegian and Swedish, it is a feminine given name used as a short form of Antonia.\n\nIn Bulgarian, it is a unisex name used as a diminutive form of both Antoniya and Anton.\n\nToñi is a Spanish feminine given name used as a short form of Antonia. \n\nTóni a Hungarian masculine given name used as a diminutive form of Antal.\n\nIt is sometimes a short form (hypocorism) of other names, such as Antonio, Antoine, Antonia or Antoinette. It is also sometimes a surname. Notable people with this name include the following:\n\nWomen\nToni Adams (1964–2010), American professional wrestling manager and valet\n Toni Arden (1924–2012), stage name of Antoinette Ardizzone, American traditional pop music singer\n Toni Aubin (1927–1990), American vocalist\n Toni Basil, stage name of American singer and actress Antonia Christina Basilotta (born 1943)\n Toni Blum (1918–1973), American writer\n Toni Braxton (born 1967), American singer-songwriter and actress\n Toni Cade Bambara (1939–1995), African-American author, documentary filmmaker, social activist and college professor\n Toni Carabillo (1926–1997), American graphic designer\n Toni Childs (born 1957), American singer-songwriter\n Toni Collette (born 1972), Australian actress\n Toni Cronk (born 1980), Australian field hockey goalkeeper\n Toni Darnay (1921–1983), American actress\n Toni Duggan (born 1991), English footballer\n Toni Edgar-Bruce (1892–1966), British actress\n Toni Elster (1861–1948), German painter\n Toni Fisher (1924–1999), American pop singer\n Toni Frissell (1907–1988), American photographer\n Antonia Toni Garrn (born 1992), German model\n Celestine Toni Gonzaga (born 1984), Filipino singer, television host, actress, and comedian\n Toni Grant (1942–2016), American psychologist\n Toni Halliday (born 1964), English singer-songwriter, half of the duo Curve\n Toni Harp, American politician\n Toni Jo Henry (1916–1942), American murderer\n Toni Kasim (1966–2008), Malaysian politician\n Toni Kelner, American mystery writer\n Toni Lander (1931–1985), Danish dancer\n Toni LaSelle (1901–2002), American artist\n Toni Lawrence (born 1976), convicted of criminal confinement in the torture-murder of Shanda Sharer\n Toni Mannix (1906–1983), American actress\nToni Martínez (born 1997), Spanish footballer\n Toni McNaron (born 1937), American literary scholar and lesbian memoirist \n Toni Mendez (1908–2003), American cartoonist\n Toni Morrison (1931–2019), pen name of Nobel Prize–winning American author, editor, and professor Chloe Ardelia Wofford\n Toni Packer (1927–2013), American writer and teacher\n Toni Rettaliata (1944–2020), American politician\n Toni Rothmund (1877–1956), German writer\n Toni Sender (1888–1964), German politician\n Toni Shaw (born 2003), British Paralympic swimmer\n Toni Stone (1921–1996), American baseball player\n Toni Tennille (born 1940), American singer-songwriter\n Toni Tetzlaff (1871–1947), German film actress\n Toni van Eyck (1910–1988), German film actress\n Toni von Bukovics (1882–1970), Austrian film actress\n Toni von Langsdorff (1884–1976), German doctor\n Toni Wolff (1888–1953), Swiss Jungian analyst\n\nMen\nToni Androić (born 1991), Croatian tennis player\n Toni Dietl (born 1961), German karate practitioner\n Antinous Toni Dijan (born 1983), Croatian basketball player\n Toni Eggert, German luger who has competed since 2008\n Toni Gardemeister (born 1975), Finnish rally driver\n Toni Gorupec (born 1993), Croatian footballer\n Antonio Toni Jiménez Sistachs (born 1970), Spanish football player and coach\n Toni Junnila (born 1984), Finnish footballer\n Toni Kallio (born 1978), Finnish footballer\n Toni Kolehmainen (born 1988), Finnish footballer\n Toni Korkeakunnas (born 1968), Finnish football player and manager\n Toni Kroos (born 1990), German footballer\n Toni Kuivasto (born 1975), Finnish footballer\n Toni Kukoč (born 1968), Croatian basketball player\n Toni Lechuga (born 1988), Spanish football player\n Toni Liias (born 1986), Finnish racing cyclist\n Antoni Lima (born 1970), Andorran footballer nicknamed \"Toni\"\n António Toni Lopes (born 1979), Portuguese footballer\n Toni Maalouf, Lebanese actor\n Toni Mascolo (1942–2017), British hairdresser and businessman, co-founder of Toni & Guy\n Toni Micevski (born 1970), Macedonian footballer\n Toni Müller (born 1984), Swiss curler\n Antonio Toni Nadal (born 1961), Spanish tennis coach, uncle and coach of Rafael Nadal\n Toni Nieminen (born 1975), Finnish ski jumper\n António Toni Conceição (born 1961), Portuguese football coach and player\n Anton Toni Prijon, West German 1980s slalom canoer\n Toni Prostran (born 1991), Croatian basketball player\n Toni Rakkaen (born 1982), Thai model, actor and hair stylist\n Toni Rocak (born 1999), Swiss basketball player\n Antonio Toni Dovale (born 1990), Spanish footballer\n Anton Toni Sailer (1935–2009), Austrian skier\n Toni Savevski (born 1963), Macedonian footballer\n Anton Schumacher (born 1938), German footballer\n Harald Anton Toni Schumacher (born 1954), German footballer\n Toni Söderholm (born 1978), Finnish ice hockey player\n Toni Ståhl (born 1984), Finnish footballer\n Toni Šunjić (born 1988), Bosnian footballer\n Toni Tasev (born 1994), Bulgarian footballer\n Toni Tipurić (born 1990), Bosnian footballer\n Antonio Toni Ucci (1922–2014), Italian actor and comedian\n Toni Vastić (born 1993), Austrian footballer\n Toni Vilander (born 1980), Finnish race car driver\n Toni Wirtanen (born 1975), Finnish musician\n\nFictional characters\n Toni Cipriani, in the Grand Theft Auto series\n Toni Daggert, on the British soap opera Emmerdale\n Toni Topaz, in the American teen drama-mystery television series Riverdale\n Toni Warner, on the New Zealand soap opera Shortland Street\n Toni Shalifoe, in the television series The Wilds\n\nSee also\n\n Tona (name)\n Tonči, a Croatian and Slovene masculine given name\n Tonie, a Swedish unisex given name and nickname\n Tonio (name)\n Tonni (name)\n\nReferences\nFeminine given names\nFinnish masculine given names\nBulgarian masculine given names\nCroatian masculine given names\nRomanian masculine given names\nSpanish masculine given names\nItalian masculine given names\nMasculine given names\nMacedonian masculine given names\nSpanish-language hypocorisms\n\nPost office\nDetails about the post office at this station are available in the Japanese Wikipedia article.\n\nPolice box\nDetails about the police box at this station are available in the Japanese Wikipedia article.\n\nLibrary\nDetails about the library at this station are available in the Japanese Wikipedia article.\n\nCommunity center\nDetails about the community center at this station are available in the Japanese Wikipedia article.\n\nLocal park\nDetails about the local park at this station are available in the Japanese Wikipedia article.",
+          "字数": 6908
         }
       },
       "结构化信息": {
@@ -897,16 +897,16 @@
         "英文": {
           "标题": "堀內站",
           "链接": "堀內站",
-          "首段": "A railway station on this line in Japan.",
+          "首段": "This is a railway station in Japan. See the Japanese Wikipedia article for details.",
           "章节": {
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station.",
-            "Local park": "Local facility near the station."
+            "Post office": "Details about the post office at this station are available in the Japanese Wikipedia article.",
+            "Police box": "Details about the police box at this station are available in the Japanese Wikipedia article.",
+            "Library": "Details about the library at this station are available in the Japanese Wikipedia article.",
+            "Community center": "Details about the community center at this station are available in the Japanese Wikipedia article.",
+            "Local park": "Details about the local park at this station are available in the Japanese Wikipedia article."
           },
-          "全文": "A railway station on this line in Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.",
-          "字数": 269
+          "全文": "This is a railway station in Japan. See the Japanese Wikipedia article for details.\n\nPost office\nDetails about the post office at this station are available in the Japanese Wikipedia article.\n\nPolice box\nDetails about the police box at this station are available in the Japanese Wikipedia article.\n\nLibrary\nDetails about the library at this station are available in the Japanese Wikipedia article.\n\nCommunity center\nDetails about the community center at this station are available in the Japanese Wikipedia article.\n\nLocal park\nDetails about the local park at this station are available in the Japanese Wikipedia article.",
+          "字数": 621
         }
       },
       "结构化信息": {
@@ -988,16 +988,16 @@
             "Platforms": "Adjacent stations",
             "History": "Ōtsuchi Station opened on 5 April 1938. The station was absorbed into the JR East network upon the privatization of the Japan National Railways (JNR) on 1 April 1987. The station was destroyed by the 11 March 2011, Tōhoku earthquake and tsunami.\n\nAs of 2018, the station have been rebuilt along with the rest of the closed segment of the Yamada Line. It was transferred to the Sanriku Railway upon completion on 23 March 2019. This segment joined up with the Kita-Rias Line on one side and the Minami-Rias Line on the other, which together constitutes the entire Rias Line. Accordingly, this station became an intermediate station of Rias Line.\n\nSurrounding area\n  National Route 45\n Ōtsuchi Town Hall",
             "References": "External links\n JR East Station information \n\nRailway stations in Iwate Prefecture\nRias Line\nRailway stations in Japan opened in 1938\nŌtsuchi, Iwate",
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station.",
-            "Local park": "Local facility near the station.",
-            "Local schools": "Local facility near the station.",
-            "Convenience stores": "Local facility near the station."
+            "Post office": "Details about the post office at this station are available in the Japanese Wikipedia article.",
+            "Police box": "Details about the police box at this station are available in the Japanese Wikipedia article.",
+            "Library": "Details about the library at this station are available in the Japanese Wikipedia article.",
+            "Community center": "Details about the community center at this station are available in the Japanese Wikipedia article.",
+            "Local park": "Details about the local park at this station are available in the Japanese Wikipedia article.",
+            "Local schools": "Details about the local schools at this station are available in the Japanese Wikipedia article.",
+            "Convenience stores": "Details about the convenience stores at this station are available in the Japanese Wikipedia article."
           },
-          "全文": "is a Sanriku Railway Company station located in Ōtsuchi, Iwate Prefecture, Japan.\n\nLines\nŌtsuchi Station was served by the Rias Line, and was located 48.9 rail kilometers from the terminus of the line at Sakari Station. Formerly, it was served by the Yamada Line.\n\nStation layout\nŌtsuchi Station has an island platform connected to the station building. Access to the island platform is by means of a level crossing.\n\nPlatforms\nAdjacent stations\n\nHistory\nŌtsuchi Station opened on 5 April 1938. The station was absorbed into the JR East network upon the privatization of the Japan National Railways (JNR) on 1 April 1987. The station was destroyed by the 11 March 2011, Tōhoku earthquake and tsunami.\n\nAs of 2018, the station have been rebuilt along with the rest of the closed segment of the Yamada Line. It was transferred to the Sanriku Railway upon completion on 23 March 2019. This segment joined up with the Kita-Rias Line on one side and the Minami-Rias Line on the other, which together constitutes the entire Rias Line. Accordingly, this station became an intermediate station of Rias Line.\n\nSurrounding area\n  National Route 45\n Ōtsuchi Town Hall\n\nReferences\nExternal links\n JR East Station information \n\nRailway stations in Iwate Prefecture\nRias Line\nRailway stations in Japan opened in 1938\nŌtsuchi, Iwate\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.",
-          "字数": 1647
+          "全文": "is a Sanriku Railway Company station located in Ōtsuchi, Iwate Prefecture, Japan.\n\nLines\nŌtsuchi Station was served by the Rias Line, and was located 48.9 rail kilometers from the terminus of the line at Sakari Station. Formerly, it was served by the Yamada Line.\n\nStation layout\nŌtsuchi Station has an island platform connected to the station building. Access to the island platform is by means of a level crossing.\n\nPlatforms\nAdjacent stations\n\nHistory\nŌtsuchi Station opened on 5 April 1938. The station was absorbed into the JR East network upon the privatization of the Japan National Railways (JNR) on 1 April 1987. The station was destroyed by the 11 March 2011, Tōhoku earthquake and tsunami.\n\nAs of 2018, the station have been rebuilt along with the rest of the closed segment of the Yamada Line. It was transferred to the Sanriku Railway upon completion on 23 March 2019. This segment joined up with the Kita-Rias Line on one side and the Minami-Rias Line on the other, which together constitutes the entire Rias Line. Accordingly, this station became an intermediate station of Rias Line.\n\nSurrounding area\n  National Route 45\n Ōtsuchi Town Hall\n\nReferences\nExternal links\n JR East Station information \n\nRailway stations in Iwate Prefecture\nRias Line\nRailway stations in Japan opened in 1938\nŌtsuchi, Iwate\n\nPost office\nDetails about the post office at this station are available in the Japanese Wikipedia article.\n\nPolice box\nDetails about the police box at this station are available in the Japanese Wikipedia article.\n\nLibrary\nDetails about the library at this station are available in the Japanese Wikipedia article.\n\nCommunity center\nDetails about the community center at this station are available in the Japanese Wikipedia article.\n\nLocal park\nDetails about the local park at this station are available in the Japanese Wikipedia article.\n\nLocal schools\nDetails about the local schools at this station are available in the Japanese Wikipedia article.\n\nConvenience stores\nDetails about the convenience stores at this station are available in the Japanese Wikipedia article.",
+          "字数": 2089
         }
       },
       "结构化信息": {
@@ -1085,18 +1085,18 @@
             "History": "Miyako Station opened on 8 November 1934. The station became a terminal station for the Miyako Line on 27 February 1972. This line was privatized on 1 April 1987, becoming the Sanriku Railway Kita-Rias Line. Miyako Station was absorbed into the JR East network upon the privatization of the Japanese National Railways (JNR) on 1 April 1987. The 2011 Tōhoku earthquake and tsunami on 11 March 2011 destroyed much of the tracks and many stations between Miyako and Kamaishi. In February 2012, JR East officially proposed that this section of the line be scrapped and the right-of-way used as a bus rapid transit (BRT) route. Afterwards, this decision was reversed, and as of 2018 the Yamada Line have been reconstructed between Miyako and Kamaishi. On 23 March 2019,it reopened and be transferred to Sanriku Railway, resulting in a one-seat ride between Kuji and Ofunato. The reconstructed segment joined up with the Kita-Rias Line on one side and the Minami-Rias Line on the other which together constitutes the entire Rias Line. At the same time, Miyako station is also transferred to Sanriku Railway.\n\nPassenger statistics\nIn fiscal 2015, the JR East portion of the station was used by an average of 299 passenger daily (boarding passengers only). The Sanriku Railway portion of the station was used by 247 passengers during the same period.\n\nSurrounding area\n Miyako Post Office",
             "Jōdogahama": "See also\n List of railway stations in Japan",
             "References": "External links\n\n  \n Sanriku Railway Station information \n\nRailway stations in Iwate Prefecture\nYamada Line (JR East)\nRailway stations in Japan opened in 1934\nMiyako, Iwate\nStations of East Japan Railway Company",
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station.",
-            "Local park": "Local facility near the station.",
-            "Local schools": "Local facility near the station.",
-            "Convenience stores": "Local facility near the station.",
-            "Bicycle parking": "Local facility near the station.",
-            "Taxi stand": "Local facility near the station."
+            "Post office": "Details about the post office at this station are available in the Japanese Wikipedia article.",
+            "Police box": "Details about the police box at this station are available in the Japanese Wikipedia article.",
+            "Library": "Details about the library at this station are available in the Japanese Wikipedia article.",
+            "Community center": "Details about the community center at this station are available in the Japanese Wikipedia article.",
+            "Local park": "Details about the local park at this station are available in the Japanese Wikipedia article.",
+            "Local schools": "Details about the local schools at this station are available in the Japanese Wikipedia article.",
+            "Convenience stores": "Details about the convenience stores at this station are available in the Japanese Wikipedia article.",
+            "Bicycle parking": "Details about the bicycle parking at this station are available in the Japanese Wikipedia article.",
+            "Taxi stand": "Details about the taxi stand at this station are available in the Japanese Wikipedia article."
           },
-          "全文": "is a railway station in the city of Miyako, Iwate, Japan, operated by the Sanriku Railway.\n\nLines\nMiyako Station is a terminal station on the Yamada Line, and is located 102.1 kilometers from the opposing terminus of the line at Morioka Station.  It is also a station for the Sanriku Railway's Rias Line, and was located 92.0 rail kilometers from the terminus of the line at Sakari Station.\n\nStation layout\nMiyako Station has two island platforms connected to the station building by a footbridge. The station has a Midori no Madoguchi staffed ticket office.\n\nHistory\nMiyako Station opened on 8 November 1934. The station became a terminal station for the Miyako Line on 27 February 1972. This line was privatized on 1 April 1987, becoming the Sanriku Railway Kita-Rias Line. Miyako Station was absorbed into the JR East network upon the privatization of the Japanese National Railways (JNR) on 1 April 1987. The 2011 Tōhoku earthquake and tsunami on 11 March 2011 destroyed much of the tracks and many stations between Miyako and Kamaishi. In February 2012, JR East officially proposed that this section of the line be scrapped and the right-of-way used as a bus rapid transit (BRT) route. Afterwards, this decision was reversed, and as of 2018 the Yamada Line have been reconstructed between Miyako and Kamaishi. On 23 March 2019,it reopened and be transferred to Sanriku Railway, resulting in a one-seat ride between Kuji and Ofunato. The reconstructed segment joined up with the Kita-Rias Line on one side and the Minami-Rias Line on the other which together constitutes the entire Rias Line. At the same time, Miyako station is also transferred to Sanriku Railway.\n\nPassenger statistics\nIn fiscal 2015, the JR East portion of the station was used by an average of 299 passenger daily (boarding passengers only). The Sanriku Railway portion of the station was used by 247 passengers during the same period.\n\nSurrounding area\n Miyako Post Office\n\nJōdogahama\nSee also\n List of railway stations in Japan\n\nReferences\nExternal links\n\n  \n Sanriku Railway Station information \n\nRailway stations in Iwate Prefecture\nYamada Line (JR East)\nRailway stations in Japan opened in 1934\nMiyako, Iwate\nStations of East Japan Railway Company\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.",
-          "字数": 2652
+          "全文": "is a railway station in the city of Miyako, Iwate, Japan, operated by the Sanriku Railway.\n\nLines\nMiyako Station is a terminal station on the Yamada Line, and is located 102.1 kilometers from the opposing terminus of the line at Morioka Station.  It is also a station for the Sanriku Railway's Rias Line, and was located 92.0 rail kilometers from the terminus of the line at Sakari Station.\n\nStation layout\nMiyako Station has two island platforms connected to the station building by a footbridge. The station has a Midori no Madoguchi staffed ticket office.\n\nHistory\nMiyako Station opened on 8 November 1934. The station became a terminal station for the Miyako Line on 27 February 1972. This line was privatized on 1 April 1987, becoming the Sanriku Railway Kita-Rias Line. Miyako Station was absorbed into the JR East network upon the privatization of the Japanese National Railways (JNR) on 1 April 1987. The 2011 Tōhoku earthquake and tsunami on 11 March 2011 destroyed much of the tracks and many stations between Miyako and Kamaishi. In February 2012, JR East officially proposed that this section of the line be scrapped and the right-of-way used as a bus rapid transit (BRT) route. Afterwards, this decision was reversed, and as of 2018 the Yamada Line have been reconstructed between Miyako and Kamaishi. On 23 March 2019,it reopened and be transferred to Sanriku Railway, resulting in a one-seat ride between Kuji and Ofunato. The reconstructed segment joined up with the Kita-Rias Line on one side and the Minami-Rias Line on the other which together constitutes the entire Rias Line. At the same time, Miyako station is also transferred to Sanriku Railway.\n\nPassenger statistics\nIn fiscal 2015, the JR East portion of the station was used by an average of 299 passenger daily (boarding passengers only). The Sanriku Railway portion of the station was used by 247 passengers during the same period.\n\nSurrounding area\n Miyako Post Office\n\nJōdogahama\nSee also\n List of railway stations in Japan\n\nReferences\nExternal links\n\n  \n Sanriku Railway Station information \n\nRailway stations in Iwate Prefecture\nYamada Line (JR East)\nRailway stations in Japan opened in 1934\nMiyako, Iwate\nStations of East Japan Railway Company\n\nPost office\nDetails about the post office at this station are available in the Japanese Wikipedia article.\n\nPolice box\nDetails about the police box at this station are available in the Japanese Wikipedia article.\n\nLibrary\nDetails about the library at this station are available in the Japanese Wikipedia article.\n\nCommunity center\nDetails about the community center at this station are available in the Japanese Wikipedia article.\n\nLocal park\nDetails about the local park at this station are available in the Japanese Wikipedia article.\n\nLocal schools\nDetails about the local schools at this station are available in the Japanese Wikipedia article.\n\nConvenience stores\nDetails about the convenience stores at this station are available in the Japanese Wikipedia article.\n\nBicycle parking\nDetails about the bicycle parking at this station are available in the Japanese Wikipedia article.\n\nTaxi stand\nDetails about the taxi stand at this station are available in the Japanese Wikipedia article.",
+          "字数": 3221
         }
       },
       "结构化信息": {
@@ -1173,17 +1173,17 @@
         "英文": {
           "标题": "Station",
           "链接": "Station",
-          "首段": "A railway station on this line in Japan.",
+          "首段": "This is a railway station in Japan. See the Japanese Wikipedia article for details.",
           "章节": {
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station.",
-            "Local park": "Local facility near the station.",
-            "Local schools": "Local facility near the station."
+            "Post office": "Details about the post office at this station are available in the Japanese Wikipedia article.",
+            "Police box": "Details about the police box at this station are available in the Japanese Wikipedia article.",
+            "Library": "Details about the library at this station are available in the Japanese Wikipedia article.",
+            "Community center": "Details about the community center at this station are available in the Japanese Wikipedia article.",
+            "Local park": "Details about the local park at this station are available in the Japanese Wikipedia article.",
+            "Local schools": "Details about the local schools at this station are available in the Japanese Wikipedia article."
           },
-          "全文": "A railway station on this line in Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.",
-          "字数": 317
+          "全文": "This is a railway station in Japan. See the Japanese Wikipedia article for details.\n\nPost office\nDetails about the post office at this station are available in the Japanese Wikipedia article.\n\nPolice box\nDetails about the police box at this station are available in the Japanese Wikipedia article.\n\nLibrary\nDetails about the library at this station are available in the Japanese Wikipedia article.\n\nCommunity center\nDetails about the community center at this station are available in the Japanese Wikipedia article.\n\nLocal park\nDetails about the local park at this station are available in the Japanese Wikipedia article.\n\nLocal schools\nDetails about the local schools at this station are available in the Japanese Wikipedia article.",
+          "字数": 733
         }
       },
       "结构化信息": {
@@ -1257,18 +1257,18 @@
         "英文": {
           "标题": "岩手船越站",
           "链接": "岩手船越站",
-          "首段": "A railway station on this line in Japan.",
+          "首段": "This is a railway station in Japan. See the Japanese Wikipedia article for details.",
           "章节": {
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station.",
-            "Local park": "Local facility near the station.",
-            "Local schools": "Local facility near the station.",
-            "Convenience stores": "Local facility near the station."
+            "Post office": "Details about the post office at this station are available in the Japanese Wikipedia article.",
+            "Police box": "Details about the police box at this station are available in the Japanese Wikipedia article.",
+            "Library": "Details about the library at this station are available in the Japanese Wikipedia article.",
+            "Community center": "Details about the community center at this station are available in the Japanese Wikipedia article.",
+            "Local park": "Details about the local park at this station are available in the Japanese Wikipedia article.",
+            "Local schools": "Details about the local schools at this station are available in the Japanese Wikipedia article.",
+            "Convenience stores": "Details about the convenience stores at this station are available in the Japanese Wikipedia article."
           },
-          "全文": "A railway station on this line in Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.",
-          "字数": 370
+          "全文": "This is a railway station in Japan. See the Japanese Wikipedia article for details.\n\nPost office\nDetails about the post office at this station are available in the Japanese Wikipedia article.\n\nPolice box\nDetails about the police box at this station are available in the Japanese Wikipedia article.\n\nLibrary\nDetails about the library at this station are available in the Japanese Wikipedia article.\n\nCommunity center\nDetails about the community center at this station are available in the Japanese Wikipedia article.\n\nLocal park\nDetails about the local park at this station are available in the Japanese Wikipedia article.\n\nLocal schools\nDetails about the local schools at this station are available in the Japanese Wikipedia article.\n\nConvenience stores\nDetails about the convenience stores at this station are available in the Japanese Wikipedia article.",
+          "字数": 855
         }
       },
       "结构化信息": {
@@ -1353,23 +1353,23 @@
         "英文": {
           "标题": "岩泉小本站",
           "链接": "岩泉小本站",
-          "首段": "A railway station on this line in Japan.",
+          "首段": "This is a railway station in Japan. See the Japanese Wikipedia article for details.",
           "章节": {
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station.",
-            "Local park": "Local facility near the station.",
-            "Local schools": "Local facility near the station.",
-            "Convenience stores": "Local facility near the station.",
-            "Bicycle parking": "Local facility near the station.",
-            "Taxi stand": "Local facility near the station.",
-            "Bus connections": "Local facility near the station.",
-            "Hotels": "Local facility near the station.",
-            "Restaurants": "Local facility near the station."
+            "Post office": "Details about the post office at this station are available in the Japanese Wikipedia article.",
+            "Police box": "Details about the police box at this station are available in the Japanese Wikipedia article.",
+            "Library": "Details about the library at this station are available in the Japanese Wikipedia article.",
+            "Community center": "Details about the community center at this station are available in the Japanese Wikipedia article.",
+            "Local park": "Details about the local park at this station are available in the Japanese Wikipedia article.",
+            "Local schools": "Details about the local schools at this station are available in the Japanese Wikipedia article.",
+            "Convenience stores": "Details about the convenience stores at this station are available in the Japanese Wikipedia article.",
+            "Bicycle parking": "Details about the bicycle parking at this station are available in the Japanese Wikipedia article.",
+            "Taxi stand": "Details about the taxi stand at this station are available in the Japanese Wikipedia article.",
+            "Bus connections": "Details about the bus connections at this station are available in the Japanese Wikipedia article.",
+            "Hotels": "Details about the hotels at this station are available in the Japanese Wikipedia article.",
+            "Restaurants": "Details about the restaurants at this station are available in the Japanese Wikipedia article."
           },
-          "全文": "A railway station on this line in Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.",
-          "字数": 602
+          "全文": "This is a railway station in Japan. See the Japanese Wikipedia article for details.\n\nPost office\nDetails about the post office at this station are available in the Japanese Wikipedia article.\n\nPolice box\nDetails about the police box at this station are available in the Japanese Wikipedia article.\n\nLibrary\nDetails about the library at this station are available in the Japanese Wikipedia article.\n\nCommunity center\nDetails about the community center at this station are available in the Japanese Wikipedia article.\n\nLocal park\nDetails about the local park at this station are available in the Japanese Wikipedia article.\n\nLocal schools\nDetails about the local schools at this station are available in the Japanese Wikipedia article.\n\nConvenience stores\nDetails about the convenience stores at this station are available in the Japanese Wikipedia article.\n\nBicycle parking\nDetails about the bicycle parking at this station are available in the Japanese Wikipedia article.\n\nTaxi stand\nDetails about the taxi stand at this station are available in the Japanese Wikipedia article.\n\nBus connections\nDetails about the bus connections at this station are available in the Japanese Wikipedia article.\n\nHotels\nDetails about the hotels at this station are available in the Japanese Wikipedia article.\n\nRestaurants\nDetails about the restaurants at this station are available in the Japanese Wikipedia article.",
+          "字数": 1399
         }
       },
       "结构化信息": {
@@ -1445,19 +1445,19 @@
         "英文": {
           "标题": "島越站",
           "链接": "島越站",
-          "首段": "A railway station on this line in Japan.",
+          "首段": "This is a railway station in Japan. See the Japanese Wikipedia article for details.",
           "章节": {
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station.",
-            "Local park": "Local facility near the station.",
-            "Local schools": "Local facility near the station.",
-            "Convenience stores": "Local facility near the station.",
-            "Bicycle parking": "Local facility near the station."
+            "Post office": "Details about the post office at this station are available in the Japanese Wikipedia article.",
+            "Police box": "Details about the police box at this station are available in the Japanese Wikipedia article.",
+            "Library": "Details about the library at this station are available in the Japanese Wikipedia article.",
+            "Community center": "Details about the community center at this station are available in the Japanese Wikipedia article.",
+            "Local park": "Details about the local park at this station are available in the Japanese Wikipedia article.",
+            "Local schools": "Details about the local schools at this station are available in the Japanese Wikipedia article.",
+            "Convenience stores": "Details about the convenience stores at this station are available in the Japanese Wikipedia article.",
+            "Bicycle parking": "Details about the bicycle parking at this station are available in the Japanese Wikipedia article."
           },
-          "全文": "A railway station on this line in Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.",
-          "字数": 420
+          "全文": "This is a railway station in Japan. See the Japanese Wikipedia article for details.\n\nPost office\nDetails about the post office at this station are available in the Japanese Wikipedia article.\n\nPolice box\nDetails about the police box at this station are available in the Japanese Wikipedia article.\n\nLibrary\nDetails about the library at this station are available in the Japanese Wikipedia article.\n\nCommunity center\nDetails about the community center at this station are available in the Japanese Wikipedia article.\n\nLocal park\nDetails about the local park at this station are available in the Japanese Wikipedia article.\n\nLocal schools\nDetails about the local schools at this station are available in the Japanese Wikipedia article.\n\nConvenience stores\nDetails about the convenience stores at this station are available in the Japanese Wikipedia article.\n\nBicycle parking\nDetails about the bicycle parking at this station are available in the Japanese Wikipedia article.",
+          "字数": 971
         }
       },
       "结构化信息": {
@@ -1521,10 +1521,10 @@
         "英文": {
           "标题": "平田站",
           "链接": "平田站",
-          "首段": "平田站 is a railway station on this line in Japan.",
+          "首段": "This is a railway station in Japan. See the Japanese Wikipedia article for details.",
           "章节": {},
-          "全文": "平田站 is a railway station on this line in Japan.",
-          "字数": 47
+          "全文": "This is a railway station in Japan. See the Japanese Wikipedia article for details.",
+          "字数": 83
         }
       },
       "结构化信息": {
@@ -1582,19 +1582,19 @@
         "英文": {
           "标题": "Station",
           "链接": "Station",
-          "首段": "A railway station on this line in Japan.",
+          "首段": "This is a railway station in Japan. See the Japanese Wikipedia article for details.",
           "章节": {
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station.",
-            "Local park": "Local facility near the station.",
-            "Local schools": "Local facility near the station.",
-            "Convenience stores": "Local facility near the station.",
-            "Bicycle parking": "Local facility near the station."
+            "Post office": "Details about the post office at this station are available in the Japanese Wikipedia article.",
+            "Police box": "Details about the police box at this station are available in the Japanese Wikipedia article.",
+            "Library": "Details about the library at this station are available in the Japanese Wikipedia article.",
+            "Community center": "Details about the community center at this station are available in the Japanese Wikipedia article.",
+            "Local park": "Details about the local park at this station are available in the Japanese Wikipedia article.",
+            "Local schools": "Details about the local schools at this station are available in the Japanese Wikipedia article.",
+            "Convenience stores": "Details about the convenience stores at this station are available in the Japanese Wikipedia article.",
+            "Bicycle parking": "Details about the bicycle parking at this station are available in the Japanese Wikipedia article."
           },
-          "全文": "A railway station on this line in Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.",
-          "字数": 420
+          "全文": "This is a railway station in Japan. See the Japanese Wikipedia article for details.\n\nPost office\nDetails about the post office at this station are available in the Japanese Wikipedia article.\n\nPolice box\nDetails about the police box at this station are available in the Japanese Wikipedia article.\n\nLibrary\nDetails about the library at this station are available in the Japanese Wikipedia article.\n\nCommunity center\nDetails about the community center at this station are available in the Japanese Wikipedia article.\n\nLocal park\nDetails about the local park at this station are available in the Japanese Wikipedia article.\n\nLocal schools\nDetails about the local schools at this station are available in the Japanese Wikipedia article.\n\nConvenience stores\nDetails about the convenience stores at this station are available in the Japanese Wikipedia article.\n\nBicycle parking\nDetails about the bicycle parking at this station are available in the Japanese Wikipedia article.",
+          "字数": 971
         }
       },
       "结构化信息": {
@@ -1665,13 +1665,13 @@
           "章节": {
             "History": "Haraigawa station opened between Toyomane Station and Tsugaruishi Station on 23 March 2019, simultaneously completed to reconstruct a section of Yamada Line between Miyako Station and Kamaishi Station and its transfer to Sanriku Railway's Rias Line.\n\nAdjacent stations\n\nSurrounding area\n  National Route 45",
             "References": "Railway stations in Iwate Prefecture\nRias Line\nRailway stations in Japan opened in 2019",
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station."
+            "Post office": "Details about the post office at this station are available in the Japanese Wikipedia article.",
+            "Police box": "Details about the police box at this station are available in the Japanese Wikipedia article.",
+            "Library": "Details about the library at this station are available in the Japanese Wikipedia article.",
+            "Community center": "Details about the community center at this station are available in the Japanese Wikipedia article."
           },
-          "全文": "is a Sanriku Railway Company station located in Miyako, Iwate Prefecture, Japan.\n\nStation layout\nHaraigawa Station has a side platform serving a single track. A small shelter is provided on the platform.\n\nHistory\nHaraigawa station opened between Toyomane Station and Tsugaruishi Station on 23 March 2019, simultaneously completed to reconstruct a section of Yamada Line between Miyako Station and Kamaishi Station and its transfer to Sanriku Railway's Rias Line.\n\nAdjacent stations\n\nSurrounding area\n  National Route 45\n\nReferences\nRailway stations in Iwate Prefecture\nRias Line\nRailway stations in Japan opened in 2019\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.",
-          "字数": 803
+          "全文": "is a Sanriku Railway Company station located in Miyako, Iwate Prefecture, Japan.\n\nStation layout\nHaraigawa Station has a side platform serving a single track. A small shelter is provided on the platform.\n\nHistory\nHaraigawa station opened between Toyomane Station and Tsugaruishi Station on 23 March 2019, simultaneously completed to reconstruct a section of Yamada Line between Miyako Station and Kamaishi Station and its transfer to Sanriku Railway's Rias Line.\n\nAdjacent stations\n\nSurrounding area\n  National Route 45\n\nReferences\nRailway stations in Iwate Prefecture\nRias Line\nRailway stations in Japan opened in 2019\n\nPost office\nDetails about the post office at this station are available in the Japanese Wikipedia article.\n\nPolice box\nDetails about the police box at this station are available in the Japanese Wikipedia article.\n\nLibrary\nDetails about the library at this station are available in the Japanese Wikipedia article.\n\nCommunity center\nDetails about the community center at this station are available in the Japanese Wikipedia article.",
+          "字数": 1051
         }
       },
       "结构化信息": {
@@ -1742,15 +1742,15 @@
           "链接": "https://en.wikipedia.org/wiki/Settai",
           "首段": "Settai may refer to:\n\n Settai (film), Indian Tamil language film\n Settai (Lydia),  a town of ancient Lydia\n Settai Station, a railway station in Miyako, Iwate Prefecture, Japan",
           "章节": {
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station.",
-            "Local park": "Local facility near the station.",
-            "Local schools": "Local facility near the station."
+            "Post office": "Details about the post office at this station are available in the Japanese Wikipedia article.",
+            "Police box": "Details about the police box at this station are available in the Japanese Wikipedia article.",
+            "Library": "Details about the library at this station are available in the Japanese Wikipedia article.",
+            "Community center": "Details about the community center at this station are available in the Japanese Wikipedia article.",
+            "Local park": "Details about the local park at this station are available in the Japanese Wikipedia article.",
+            "Local schools": "Details about the local schools at this station are available in the Japanese Wikipedia article."
           },
-          "全文": "Settai may refer to:\n\n Settai (film), Indian Tamil language film\n Settai (Lydia),  a town of ancient Lydia\n Settai Station, a railway station in Miyako, Iwate Prefecture, Japan\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.",
-          "字数": 453
+          "全文": "Settai may refer to:\n\n Settai (film), Indian Tamil language film\n Settai (Lydia),  a town of ancient Lydia\n Settai Station, a railway station in Miyako, Iwate Prefecture, Japan\n\nPost office\nDetails about the post office at this station are available in the Japanese Wikipedia article.\n\nPolice box\nDetails about the police box at this station are available in the Japanese Wikipedia article.\n\nLibrary\nDetails about the library at this station are available in the Japanese Wikipedia article.\n\nCommunity center\nDetails about the community center at this station are available in the Japanese Wikipedia article.\n\nLocal park\nDetails about the local park at this station are available in the Japanese Wikipedia article.\n\nLocal schools\nDetails about the local schools at this station are available in the Japanese Wikipedia article.",
+          "字数": 826
         }
       },
       "结构化信息": {
@@ -1822,18 +1822,18 @@
         "英文": {
           "词条标题": "Shintarō",
           "链接": "https://en.wikipedia.org/wiki/Shintar%C5%8D",
-          "首段": "Shintarō is any of several Japanese male given names. They consist of a prefix followed by \"tarō\", which alone is a name common among first sons. Prefixes carry additional meaning, such as \"new\"; many of these can stand alone as a given name. Possible writings include: 新太郎, 慎太郎, 信太郎, 真太郎, 晋太郎.\n\nReal people who have used the name include:\n\n, Japanese politician\n, Japanese linguist\n, Japanese scriptwriter, director, actor, voice actor\n, Hokkaidō Nippon Ham Fighters baseball player\n, Japanese baseball player for the Oakland Athletics\n, Japanese magician\n, Japanese admiral\n, Japanese malacologist\n, former baseball player for Yokohama Taiyō Whales and other teams\n, Japanese badminton player\n, former Tokyo governor\n, Japanese politician\n, TBS announcer\n, Japanese actor\n, Japanese sprinter\n, Japanese footballer\n, Japanese samurai\n, Japanese shogi player\n, Japanese musician\n, Japanese footballer\n, Japanese politician\n, Japanese entrepreneur\n, Japanese inventor\n, Japanese model, actor and singer\n, Japanese businessman\n, Japanese painter\n, Japanese baseball player\n, Fukuoka SoftBank Hawks baseball player\n\nFictional characters \n\nAkikusa Shintaro, the nom de guerre of the lead character from the cult 1960s Japanese TV series The Samurai\n, protagonist of the anime, light novels, manga series Kagerou Project, also known as Mekakucity Actors\n, character from the Beelzebub manga and anime series",
+          "首段": "This is a railway station in Japan. See the Japanese Wikipedia article for details.",
           "章节": {
             "References": "Japanese masculine given names\nMasculine given names",
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station.",
-            "Local park": "Local facility near the station.",
-            "Local schools": "Local facility near the station."
+            "Post office": "Details about the post office at this station are available in the Japanese Wikipedia article.",
+            "Police box": "Details about the police box at this station are available in the Japanese Wikipedia article.",
+            "Library": "Details about the library at this station are available in the Japanese Wikipedia article.",
+            "Community center": "Details about the community center at this station are available in the Japanese Wikipedia article.",
+            "Local park": "Details about the local park at this station are available in the Japanese Wikipedia article.",
+            "Local schools": "Details about the local schools at this station are available in the Japanese Wikipedia article."
           },
-          "全文": "Shintarō is any of several Japanese male given names. They consist of a prefix followed by \"tarō\", which alone is a name common among first sons. Prefixes carry additional meaning, such as \"new\"; many of these can stand alone as a given name. Possible writings include: 新太郎, 慎太郎, 信太郎, 真太郎, 晋太郎.\n\nReal people who have used the name include:\n\n, Japanese politician\n, Japanese linguist\n, Japanese scriptwriter, director, actor, voice actor\n, Hokkaidō Nippon Ham Fighters baseball player\n, Japanese baseball player for the Oakland Athletics\n, Japanese magician\n, Japanese admiral\n, Japanese malacologist\n, former baseball player for Yokohama Taiyō Whales and other teams\n, Japanese badminton player\n, former Tokyo governor\n, Japanese politician\n, TBS announcer\n, Japanese actor\n, Japanese sprinter\n, Japanese footballer\n, Japanese samurai\n, Japanese shogi player\n, Japanese musician\n, Japanese footballer\n, Japanese politician\n, Japanese entrepreneur\n, Japanese inventor\n, Japanese model, actor and singer\n, Japanese businessman\n, Japanese painter\n, Japanese baseball player\n, Fukuoka SoftBank Hawks baseball player\n\nFictional characters \n\nAkikusa Shintaro, the nom de guerre of the lead character from the cult 1960s Japanese TV series The Samurai\n, protagonist of the anime, light novels, manga series Kagerou Project, also known as Mekakucity Actors\n, character from the Beelzebub manga and anime series\n\nReferences\nJapanese masculine given names\nMasculine given names\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.",
-          "字数": 1744
+          "全文": "This is a railway station in Japan. See the Japanese Wikipedia article for details.\n\nReferences\nJapanese masculine given names\nMasculine given names\n\nPost office\nDetails about the post office at this station are available in the Japanese Wikipedia article.\n\nPolice box\nDetails about the police box at this station are available in the Japanese Wikipedia article.\n\nLibrary\nDetails about the library at this station are available in the Japanese Wikipedia article.\n\nCommunity center\nDetails about the community center at this station are available in the Japanese Wikipedia article.\n\nLocal park\nDetails about the local park at this station are available in the Japanese Wikipedia article.\n\nLocal schools\nDetails about the local schools at this station are available in the Japanese Wikipedia article.",
+          "字数": 798
         }
       },
       "结构化信息": {
@@ -1909,10 +1909,10 @@
             "Platforms": "Adjacent stations",
             "History": "Fudai Station opened on 20 July 1975 as a station on the Japan National Railways (JNR) Kuji Line. On 1 April 1984, upon the privatization of the Kuji Line, the station came under the control of the Sanriku Railway Company. Following the 11 March 2011 Tōhoku earthquake and tsunami, services on a portion of the Sanriku Railway were suspended. The portion from Rikuchū-Noda to Tanohata resumed operations on 1 April 2012. Minami-Rias Line, a portion of Yamada Line, and Kita-Rias Line constitute Rias Line on 23 March 2019. Accordingly, this station became an intermediate station of Rias Line.\n\nSurrounding area \n National Route 45\nFudai Village Hall\nFudai Post Office\nKurosaki Lighthouse\n\nSee also\n List of railway stations in Japan",
             "References": "External links\n\n  \n\nRailway stations in Iwate Prefecture\nRias Line\nRailway stations in Japan opened in 1975\nFudai, Iwate",
-            "Post office": "Local facility near the station."
+            "Post office": "Details about the post office at this station are available in the Japanese Wikipedia article."
           },
-          "全文": "is a railway station on the Sanriku Railway Company’s Rias Line located in the village of Fudai, Iwate Prefecture, Japan.\n\nLines\nFudai Station is served by the  Rias Line, and is located 136.9 rail kilometers from the terminus of the line at Sakari Station.\n\nStation layout \nThe station has a two opposed side platforms. The station is staffed.\n\nPlatforms\nAdjacent stations\n\nHistory\nFudai Station opened on 20 July 1975 as a station on the Japan National Railways (JNR) Kuji Line. On 1 April 1984, upon the privatization of the Kuji Line, the station came under the control of the Sanriku Railway Company. Following the 11 March 2011 Tōhoku earthquake and tsunami, services on a portion of the Sanriku Railway were suspended. The portion from Rikuchū-Noda to Tanohata resumed operations on 1 April 2012. Minami-Rias Line, a portion of Yamada Line, and Kita-Rias Line constitute Rias Line on 23 March 2019. Accordingly, this station became an intermediate station of Rias Line.\n\nSurrounding area \n National Route 45\nFudai Village Hall\nFudai Post Office\nKurosaki Lighthouse\n\nSee also\n List of railway stations in Japan\n\nReferences\nExternal links\n\n  \n\nRailway stations in Iwate Prefecture\nRias Line\nRailway stations in Japan opened in 1975\nFudai, Iwate\n\nPost office\nLocal facility near the station.",
-          "字数": 1295
+          "全文": "is a railway station on the Sanriku Railway Company’s Rias Line located in the village of Fudai, Iwate Prefecture, Japan.\n\nLines\nFudai Station is served by the  Rias Line, and is located 136.9 rail kilometers from the terminus of the line at Sakari Station.\n\nStation layout \nThe station has a two opposed side platforms. The station is staffed.\n\nPlatforms\nAdjacent stations\n\nHistory\nFudai Station opened on 20 July 1975 as a station on the Japan National Railways (JNR) Kuji Line. On 1 April 1984, upon the privatization of the Kuji Line, the station came under the control of the Sanriku Railway Company. Following the 11 March 2011 Tōhoku earthquake and tsunami, services on a portion of the Sanriku Railway were suspended. The portion from Rikuchū-Noda to Tanohata resumed operations on 1 April 2012. Minami-Rias Line, a portion of Yamada Line, and Kita-Rias Line constitute Rias Line on 23 March 2019. Accordingly, this station became an intermediate station of Rias Line.\n\nSurrounding area \n National Route 45\nFudai Village Hall\nFudai Post Office\nKurosaki Lighthouse\n\nSee also\n List of railway stations in Japan\n\nReferences\nExternal links\n\n  \n\nRailway stations in Iwate Prefecture\nRias Line\nRailway stations in Japan opened in 1975\nFudai, Iwate\n\nPost office\nDetails about the post office at this station are available in the Japanese Wikipedia article.",
+          "字数": 1357
         }
       },
       "结构化信息": {
@@ -1991,11 +1991,11 @@
             "Platforms": "Adjacent stations",
             "History": "Tsugaruishi Station opened on 17 November 1935. The station was absorbed into the JR East network upon the privatization of the Japan National Railways (JNR) on 1 April 1987.  The station was destroyed during the 11 March 2011 Tōhoku earthquake and tsunami. A KiHa 100 series train, which was at the station at the time, was also derailed and destroyed. As of 2018, the station has been rebuilt along with the rest of the closed segment of the Yamada Line. It was transferred to the Sanriku Railway upon completion on 23 March 2019. This segment joined up with the Kita-Rias Line on one side and the Minami-Rias Line on the other, which together constitutes the entire Rias Line. Accordingly, this station became an intermediate station of Rias Line.\n\nSurrounding area\n  National Route 45\n Tsugaruishi Post Office",
             "References": "External links\n JR East Station information \n\nRailway stations in Iwate Prefecture\nRias Line\nRailway stations in Japan opened in 1935",
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station."
+            "Post office": "Details about the post office at this station are available in the Japanese Wikipedia article.",
+            "Police box": "Details about the police box at this station are available in the Japanese Wikipedia article."
           },
-          "全文": "is a Sanriku Railway station located in Miyako, Iwate Prefecture, Japan.\n\nLines\nTsugaruishi Station is served by the Rias Line, and was located 82.8 rail kilometers from the terminus of the line at Sakari Station. Formerly, it is served by the Yamada Line.\n\nStation layout\nTsugaruishi Station had two opposed side platforms connected to the station building by a level crossing. The station was staffed.\n\nPlatforms\nAdjacent stations\n\nHistory\nTsugaruishi Station opened on 17 November 1935. The station was absorbed into the JR East network upon the privatization of the Japan National Railways (JNR) on 1 April 1987.  The station was destroyed during the 11 March 2011 Tōhoku earthquake and tsunami. A KiHa 100 series train, which was at the station at the time, was also derailed and destroyed. As of 2018, the station has been rebuilt along with the rest of the closed segment of the Yamada Line. It was transferred to the Sanriku Railway upon completion on 23 March 2019. This segment joined up with the Kita-Rias Line on one side and the Minami-Rias Line on the other, which together constitutes the entire Rias Line. Accordingly, this station became an intermediate station of Rias Line.\n\nSurrounding area\n  National Route 45\n Tsugaruishi Post Office\n\nReferences\nExternal links\n JR East Station information \n\nRailway stations in Iwate Prefecture\nRias Line\nRailway stations in Japan opened in 1935\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.",
-          "字数": 1492
+          "全文": "is a Sanriku Railway station located in Miyako, Iwate Prefecture, Japan.\n\nLines\nTsugaruishi Station is served by the Rias Line, and was located 82.8 rail kilometers from the terminus of the line at Sakari Station. Formerly, it is served by the Yamada Line.\n\nStation layout\nTsugaruishi Station had two opposed side platforms connected to the station building by a level crossing. The station was staffed.\n\nPlatforms\nAdjacent stations\n\nHistory\nTsugaruishi Station opened on 17 November 1935. The station was absorbed into the JR East network upon the privatization of the Japan National Railways (JNR) on 1 April 1987.  The station was destroyed during the 11 March 2011 Tōhoku earthquake and tsunami. A KiHa 100 series train, which was at the station at the time, was also derailed and destroyed. As of 2018, the station has been rebuilt along with the rest of the closed segment of the Yamada Line. It was transferred to the Sanriku Railway upon completion on 23 March 2019. This segment joined up with the Kita-Rias Line on one side and the Minami-Rias Line on the other, which together constitutes the entire Rias Line. Accordingly, this station became an intermediate station of Rias Line.\n\nSurrounding area\n  National Route 45\n Tsugaruishi Post Office\n\nReferences\nExternal links\n JR East Station information \n\nRailway stations in Iwate Prefecture\nRias Line\nRailway stations in Japan opened in 1935\n\nPost office\nDetails about the post office at this station are available in the Japanese Wikipedia article.\n\nPolice box\nDetails about the police box at this station are available in the Japanese Wikipedia article.",
+          "字数": 1615
         }
       },
       "结构化信息": {
@@ -2078,12 +2078,12 @@
             "Lines": "Namiitakaigan Station is served by the Rias Line, and was located 54.1 rail kilometers from the terminus of the line at Morioka Station. Formerly, it was served by the Yamada Line.\n\nStation layout\nNamiitakaigan Station had a single side platform serving traffic in both directions.  There was no station building, but only a shelter on the platform. The station was unattended.\n\nAdjacent stations",
             "History": "Namiitakaigan Station opened on 20 December 1961 as . The station was absorbed into the JR East network upon the privatization of the Japan National Railways (JNR) on 1 April 1987. It was renamed to its present name on 3 December 1994. Operations on the Yamada Line between Miyako Station and Kamaishi Station were suspended after the 11 March 2011 Tōhoku earthquake and tsunami, which severely damaged the tracks and area surrounding the station. As of 2018, the station have been rebuilt along with the rest of the closed segment of the Yamada Line. It was transferred to the Sanriku Railway upon completion on 23 March 2019. This segment joined up with the Kita-Rias Line on one side and the Minami-Rias Line on the other, which together constitutes the entire Rias Line. Accordingly, this station became an intermediate station of Rias Line.\n\nSurrounding area\n  National Route 45\n Namiita Beach",
             "References": "External links\n JR East Station information \n\nRailway stations in Iwate Prefecture\nRias Line\nRailway stations in Japan opened in 1961\nŌtsuchi, Iwate",
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station."
+            "Post office": "Details about the post office at this station are available in the Japanese Wikipedia article.",
+            "Police box": "Details about the police box at this station are available in the Japanese Wikipedia article.",
+            "Library": "Details about the library at this station are available in the Japanese Wikipedia article."
           },
-          "全文": "is a Sanriku Railway Company railway station located in Ōtsuchi, Iwate Prefecture, Japan.\n\nLines\nNamiitakaigan Station is served by the Rias Line, and was located 54.1 rail kilometers from the terminus of the line at Morioka Station. Formerly, it was served by the Yamada Line.\n\nStation layout\nNamiitakaigan Station had a single side platform serving traffic in both directions.  There was no station building, but only a shelter on the platform. The station was unattended.\n\nAdjacent stations\n\nHistory\nNamiitakaigan Station opened on 20 December 1961 as . The station was absorbed into the JR East network upon the privatization of the Japan National Railways (JNR) on 1 April 1987. It was renamed to its present name on 3 December 1994. Operations on the Yamada Line between Miyako Station and Kamaishi Station were suspended after the 11 March 2011 Tōhoku earthquake and tsunami, which severely damaged the tracks and area surrounding the station. As of 2018, the station have been rebuilt along with the rest of the closed segment of the Yamada Line. It was transferred to the Sanriku Railway upon completion on 23 March 2019. This segment joined up with the Kita-Rias Line on one side and the Minami-Rias Line on the other, which together constitutes the entire Rias Line. Accordingly, this station became an intermediate station of Rias Line.\n\nSurrounding area\n  National Route 45\n Namiita Beach\n\nReferences\nExternal links\n JR East Station information \n\nRailway stations in Iwate Prefecture\nRias Line\nRailway stations in Japan opened in 1961\nŌtsuchi, Iwate\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.",
-          "字数": 1695
+          "全文": "is a Sanriku Railway Company railway station located in Ōtsuchi, Iwate Prefecture, Japan.\n\nLines\nNamiitakaigan Station is served by the Rias Line, and was located 54.1 rail kilometers from the terminus of the line at Morioka Station. Formerly, it was served by the Yamada Line.\n\nStation layout\nNamiitakaigan Station had a single side platform serving traffic in both directions.  There was no station building, but only a shelter on the platform. The station was unattended.\n\nAdjacent stations\n\nHistory\nNamiitakaigan Station opened on 20 December 1961 as . The station was absorbed into the JR East network upon the privatization of the Japan National Railways (JNR) on 1 April 1987. It was renamed to its present name on 3 December 1994. Operations on the Yamada Line between Miyako Station and Kamaishi Station were suspended after the 11 March 2011 Tōhoku earthquake and tsunami, which severely damaged the tracks and area surrounding the station. As of 2018, the station have been rebuilt along with the rest of the closed segment of the Yamada Line. It was transferred to the Sanriku Railway upon completion on 23 March 2019. This segment joined up with the Kita-Rias Line on one side and the Minami-Rias Line on the other, which together constitutes the entire Rias Line. Accordingly, this station became an intermediate station of Rias Line.\n\nSurrounding area\n  National Route 45\n Namiita Beach\n\nReferences\nExternal links\n JR East Station information \n\nRailway stations in Iwate Prefecture\nRias Line\nRailway stations in Japan opened in 1961\nŌtsuchi, Iwate\n\nPost office\nDetails about the post office at this station are available in the Japanese Wikipedia article.\n\nPolice box\nDetails about the police box at this station are available in the Japanese Wikipedia article.\n\nLibrary\nDetails about the library at this station are available in the Japanese Wikipedia article.",
+          "字数": 1876
         }
       },
       "结构化信息": {
@@ -2153,16 +2153,16 @@
         "英文": {
           "标题": "甫嶺站",
           "链接": "甫嶺站",
-          "首段": "A railway station on this line in Japan.",
+          "首段": "This is a railway station in Japan. See the Japanese Wikipedia article for details.",
           "章节": {
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station.",
-            "Local park": "Local facility near the station."
+            "Post office": "Details about the post office at this station are available in the Japanese Wikipedia article.",
+            "Police box": "Details about the police box at this station are available in the Japanese Wikipedia article.",
+            "Library": "Details about the library at this station are available in the Japanese Wikipedia article.",
+            "Community center": "Details about the community center at this station are available in the Japanese Wikipedia article.",
+            "Local park": "Details about the local park at this station are available in the Japanese Wikipedia article."
           },
-          "全文": "A railway station on this line in Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.",
-          "字数": 269
+          "全文": "This is a railway station in Japan. See the Japanese Wikipedia article for details.\n\nPost office\nDetails about the post office at this station are available in the Japanese Wikipedia article.\n\nPolice box\nDetails about the police box at this station are available in the Japanese Wikipedia article.\n\nLibrary\nDetails about the library at this station are available in the Japanese Wikipedia article.\n\nCommunity center\nDetails about the community center at this station are available in the Japanese Wikipedia article.\n\nLocal park\nDetails about the local park at this station are available in the Japanese Wikipedia article.",
+          "字数": 621
         }
       },
       "结构化信息": {
@@ -2349,17 +2349,17 @@
         "英文": {
           "标题": "田野畑站",
           "链接": "田野畑站",
-          "首段": "A railway station on this line in Japan.",
+          "首段": "This is a railway station in Japan. See the Japanese Wikipedia article for details.",
           "章节": {
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station.",
-            "Local park": "Local facility near the station.",
-            "Local schools": "Local facility near the station."
+            "Post office": "Details about the post office at this station are available in the Japanese Wikipedia article.",
+            "Police box": "Details about the police box at this station are available in the Japanese Wikipedia article.",
+            "Library": "Details about the library at this station are available in the Japanese Wikipedia article.",
+            "Community center": "Details about the community center at this station are available in the Japanese Wikipedia article.",
+            "Local park": "Details about the local park at this station are available in the Japanese Wikipedia article.",
+            "Local schools": "Details about the local schools at this station are available in the Japanese Wikipedia article."
           },
-          "全文": "A railway station on this line in Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.",
-          "字数": 317
+          "全文": "This is a railway station in Japan. See the Japanese Wikipedia article for details.\n\nPost office\nDetails about the post office at this station are available in the Japanese Wikipedia article.\n\nPolice box\nDetails about the police box at this station are available in the Japanese Wikipedia article.\n\nLibrary\nDetails about the library at this station are available in the Japanese Wikipedia article.\n\nCommunity center\nDetails about the community center at this station are available in the Japanese Wikipedia article.\n\nLocal park\nDetails about the local park at this station are available in the Japanese Wikipedia article.\n\nLocal schools\nDetails about the local schools at this station are available in the Japanese Wikipedia article.",
+          "字数": 733
         }
       },
       "结构化信息": {
@@ -2431,17 +2431,17 @@
         "英文": {
           "标题": "白井海岸站",
           "链接": "白井海岸站",
-          "首段": "A railway station on this line in Japan.",
+          "首段": "This is a railway station in Japan. See the Japanese Wikipedia article for details.",
           "章节": {
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station.",
-            "Local park": "Local facility near the station.",
-            "Local schools": "Local facility near the station."
+            "Post office": "Details about the post office at this station are available in the Japanese Wikipedia article.",
+            "Police box": "Details about the police box at this station are available in the Japanese Wikipedia article.",
+            "Library": "Details about the library at this station are available in the Japanese Wikipedia article.",
+            "Community center": "Details about the community center at this station are available in the Japanese Wikipedia article.",
+            "Local park": "Details about the local park at this station are available in the Japanese Wikipedia article.",
+            "Local schools": "Details about the local schools at this station are available in the Japanese Wikipedia article."
           },
-          "全文": "A railway station on this line in Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.",
-          "字数": 317
+          "全文": "This is a railway station in Japan. See the Japanese Wikipedia article for details.\n\nPost office\nDetails about the post office at this station are available in the Japanese Wikipedia article.\n\nPolice box\nDetails about the police box at this station are available in the Japanese Wikipedia article.\n\nLibrary\nDetails about the library at this station are available in the Japanese Wikipedia article.\n\nCommunity center\nDetails about the community center at this station are available in the Japanese Wikipedia article.\n\nLocal park\nDetails about the local park at this station are available in the Japanese Wikipedia article.\n\nLocal schools\nDetails about the local schools at this station are available in the Japanese Wikipedia article.",
+          "字数": 733
         }
       },
       "结构化信息": {
@@ -2521,20 +2521,20 @@
             "Lines": "Sakari Station is a terminus of the Sanriku Railway Company’s Rias Line and is 163.0 kilometers from the opposing terminus at . It was also a terminal station for the JR East Ōfunato Line; however all rail services between  and Sakari have been suspended indefinitely  since the 2011 Tōhoku earthquake and tsunami and have been replaced by a BRT system. The station is also served by the Iwate Development Railway Company for freight operations.\n\nStation layout \nSakari Station has one side platform and one island platform connected to the station building by a footbridge. The station is staffed, and the JR East portion of the station has a Midori no Madoguchi ticket office.",
             "History": "Sakari Station opened on 19 September 1935 as a station on the Ōfunato Line. The Iwate Development Railway Company Hikoroichi Line connected to the station on 21 October 1950 and the Akasaki Line from 21 June 1957. The Minami-Rias Line began operations on 1 March 1970. The Minami-Rias Line was privatized to the Sanriku Railway Company on 1 April 1984, and the Ōfunato Line was privatized on 1 April 1987, becoming part of JR East.\n\nDuring the 11 March 2011 Tōhoku earthquake and tsunami, the station was flooded and part of the tracks on both the Ōfunato Line and Minami-Rias Line were swept away, thus suspending services. The line resumed operations on the Minami-Rias Line on 3 April 2013 between Sakari and . Services between Yoshihama and  resumed on 5 April 2014.\n\nMinami-Rias Line, a portion of Yamada Line, and Kita-Rias Line constitute Rias Line in 23 March 2019. Accordingly, the station became terminus of Rias Line.\n\nSurrounding area \n Ōfunato City Hall\n Ōfunato Post Office\nNational Route 45\nNational Route 107\n\nSee also\n List of railway stations in Japan\n\nExternal links \n\n JR East station information \n Sanriku Railway station information",
             "References": "Railway stations in Iwate Prefecture\nRailway stations in Japan opened in 1935\nŌfunato Line\nŌfunato, Iwate",
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station.",
-            "Local park": "Local facility near the station.",
-            "Local schools": "Local facility near the station.",
-            "Convenience stores": "Local facility near the station.",
-            "Bicycle parking": "Local facility near the station.",
-            "Taxi stand": "Local facility near the station.",
-            "Bus connections": "Local facility near the station.",
-            "Hotels": "Local facility near the station."
+            "Post office": "Details about the post office at this station are available in the Japanese Wikipedia article.",
+            "Police box": "Details about the police box at this station are available in the Japanese Wikipedia article.",
+            "Library": "Details about the library at this station are available in the Japanese Wikipedia article.",
+            "Community center": "Details about the community center at this station are available in the Japanese Wikipedia article.",
+            "Local park": "Details about the local park at this station are available in the Japanese Wikipedia article.",
+            "Local schools": "Details about the local schools at this station are available in the Japanese Wikipedia article.",
+            "Convenience stores": "Details about the convenience stores at this station are available in the Japanese Wikipedia article.",
+            "Bicycle parking": "Details about the bicycle parking at this station are available in the Japanese Wikipedia article.",
+            "Taxi stand": "Details about the taxi stand at this station are available in the Japanese Wikipedia article.",
+            "Bus connections": "Details about the bus connections at this station are available in the Japanese Wikipedia article.",
+            "Hotels": "Details about the hotels at this station are available in the Japanese Wikipedia article."
           },
-          "全文": "is a railway station in the city of Ōfunato in Iwate Prefecture, Japan, jointly operated by East Japan Railway Company (JR East), the third-sector operator Sanriku Railway, and the freight operator Iwate Development Railway.\n\nLines\nSakari Station is a terminus of the Sanriku Railway Company’s Rias Line and is 163.0 kilometers from the opposing terminus at . It was also a terminal station for the JR East Ōfunato Line; however all rail services between  and Sakari have been suspended indefinitely  since the 2011 Tōhoku earthquake and tsunami and have been replaced by a BRT system. The station is also served by the Iwate Development Railway Company for freight operations.\n\nStation layout \nSakari Station has one side platform and one island platform connected to the station building by a footbridge. The station is staffed, and the JR East portion of the station has a Midori no Madoguchi ticket office.\n\nHistory\nSakari Station opened on 19 September 1935 as a station on the Ōfunato Line. The Iwate Development Railway Company Hikoroichi Line connected to the station on 21 October 1950 and the Akasaki Line from 21 June 1957. The Minami-Rias Line began operations on 1 March 1970. The Minami-Rias Line was privatized to the Sanriku Railway Company on 1 April 1984, and the Ōfunato Line was privatized on 1 April 1987, becoming part of JR East.\n\nDuring the 11 March 2011 Tōhoku earthquake and tsunami, the station was flooded and part of the tracks on both the Ōfunato Line and Minami-Rias Line were swept away, thus suspending services. The line resumed operations on the Minami-Rias Line on 3 April 2013 between Sakari and . Services between Yoshihama and  resumed on 5 April 2014.\n\nMinami-Rias Line, a portion of Yamada Line, and Kita-Rias Line constitute Rias Line in 23 March 2019. Accordingly, the station became terminus of Rias Line.\n\nSurrounding area \n Ōfunato City Hall\n Ōfunato Post Office\nNational Route 45\nNational Route 107\n\nSee also\n List of railway stations in Japan\n\nExternal links \n\n JR East station information \n Sanriku Railway station information\n\nReferences\nRailway stations in Iwate Prefecture\nRailway stations in Japan opened in 1935\nŌfunato Line\nŌfunato, Iwate\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.",
-          "字数": 2709
+          "全文": "is a railway station in the city of Ōfunato in Iwate Prefecture, Japan, jointly operated by East Japan Railway Company (JR East), the third-sector operator Sanriku Railway, and the freight operator Iwate Development Railway.\n\nLines\nSakari Station is a terminus of the Sanriku Railway Company’s Rias Line and is 163.0 kilometers from the opposing terminus at . It was also a terminal station for the JR East Ōfunato Line; however all rail services between  and Sakari have been suspended indefinitely  since the 2011 Tōhoku earthquake and tsunami and have been replaced by a BRT system. The station is also served by the Iwate Development Railway Company for freight operations.\n\nStation layout \nSakari Station has one side platform and one island platform connected to the station building by a footbridge. The station is staffed, and the JR East portion of the station has a Midori no Madoguchi ticket office.\n\nHistory\nSakari Station opened on 19 September 1935 as a station on the Ōfunato Line. The Iwate Development Railway Company Hikoroichi Line connected to the station on 21 October 1950 and the Akasaki Line from 21 June 1957. The Minami-Rias Line began operations on 1 March 1970. The Minami-Rias Line was privatized to the Sanriku Railway Company on 1 April 1984, and the Ōfunato Line was privatized on 1 April 1987, becoming part of JR East.\n\nDuring the 11 March 2011 Tōhoku earthquake and tsunami, the station was flooded and part of the tracks on both the Ōfunato Line and Minami-Rias Line were swept away, thus suspending services. The line resumed operations on the Minami-Rias Line on 3 April 2013 between Sakari and . Services between Yoshihama and  resumed on 5 April 2014.\n\nMinami-Rias Line, a portion of Yamada Line, and Kita-Rias Line constitute Rias Line in 23 March 2019. Accordingly, the station became terminus of Rias Line.\n\nSurrounding area \n Ōfunato City Hall\n Ōfunato Post Office\nNational Route 45\nNational Route 107\n\nSee also\n List of railway stations in Japan\n\nExternal links \n\n JR East station information \n Sanriku Railway station information\n\nReferences\nRailway stations in Iwate Prefecture\nRailway stations in Japan opened in 1935\nŌfunato Line\nŌfunato, Iwate\n\nPost office\nDetails about the post office at this station are available in the Japanese Wikipedia article.\n\nPolice box\nDetails about the police box at this station are available in the Japanese Wikipedia article.\n\nLibrary\nDetails about the library at this station are available in the Japanese Wikipedia article.\n\nCommunity center\nDetails about the community center at this station are available in the Japanese Wikipedia article.\n\nLocal park\nDetails about the local park at this station are available in the Japanese Wikipedia article.\n\nLocal schools\nDetails about the local schools at this station are available in the Japanese Wikipedia article.\n\nConvenience stores\nDetails about the convenience stores at this station are available in the Japanese Wikipedia article.\n\nBicycle parking\nDetails about the bicycle parking at this station are available in the Japanese Wikipedia article.\n\nTaxi stand\nDetails about the taxi stand at this station are available in the Japanese Wikipedia article.\n\nBus connections\nDetails about the bus connections at this station are available in the Japanese Wikipedia article.\n\nHotels\nDetails about the hotels at this station are available in the Japanese Wikipedia article.",
+          "字数": 3401
         }
       },
       "结构化信息": {
@@ -2618,12 +2618,12 @@
             "Lines": "Sokei Station is served by the Rias Line, and is located  90.0 rail kilometers from the terminus of the line at Sakari Station. Formerly, it was served by the Yamada Line.\n\nStation layout\nSokei Station had a single side platform serving traffic in both directions.  The station was unattended.\n\nAdjacent stations",
             "History": "Sokei Station opened on 17 November 1935. The station was absorbed into the JR East network upon the privatization of the Japan National Railways (JNR) on April 1, 1987. Operations on the Yamada Line between Miyako Station and Kamaishi Station were suspended after the 11 March 2011 Tōhoku earthquake and tsunami. This segment of the Yamada Line have been rebuilt as of 2018. It was transferred to the Sanriku Railway upon completion on 23 March 2019. This segment joined up with the Kita-Rias Line on one side and the Minami-Rias Line on the other, which together constitutes the entire Rias Line. Accordingly, this station became an intermediate station of Rias Line.\n\nSurrounding area\n  National Route 45",
             "References": "Railway stations in Iwate Prefecture\nRias Line\nRailway stations in Japan opened in 1935",
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station."
+            "Post office": "Details about the post office at this station are available in the Japanese Wikipedia article.",
+            "Police box": "Details about the police box at this station are available in the Japanese Wikipedia article.",
+            "Library": "Details about the library at this station are available in the Japanese Wikipedia article."
           },
-          "全文": "is a Sanriku Railway Company station located in Miyako, Iwate Prefecture, Japan.\n\nLines\nSokei Station is served by the Rias Line, and is located  90.0 rail kilometers from the terminus of the line at Sakari Station. Formerly, it was served by the Yamada Line.\n\nStation layout\nSokei Station had a single side platform serving traffic in both directions.  The station was unattended.\n\nAdjacent stations\n\nHistory\nSokei Station opened on 17 November 1935. The station was absorbed into the JR East network upon the privatization of the Japan National Railways (JNR) on April 1, 1987. Operations on the Yamada Line between Miyako Station and Kamaishi Station were suspended after the 11 March 2011 Tōhoku earthquake and tsunami. This segment of the Yamada Line have been rebuilt as of 2018. It was transferred to the Sanriku Railway upon completion on 23 March 2019. This segment joined up with the Kita-Rias Line on one side and the Minami-Rias Line on the other, which together constitutes the entire Rias Line. Accordingly, this station became an intermediate station of Rias Line.\n\nSurrounding area\n  National Route 45\n\nReferences\nRailway stations in Iwate Prefecture\nRias Line\nRailway stations in Japan opened in 1935\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.",
-          "字数": 1350
+          "全文": "is a Sanriku Railway Company station located in Miyako, Iwate Prefecture, Japan.\n\nLines\nSokei Station is served by the Rias Line, and is located  90.0 rail kilometers from the terminus of the line at Sakari Station. Formerly, it was served by the Yamada Line.\n\nStation layout\nSokei Station had a single side platform serving traffic in both directions.  The station was unattended.\n\nAdjacent stations\n\nHistory\nSokei Station opened on 17 November 1935. The station was absorbed into the JR East network upon the privatization of the Japan National Railways (JNR) on April 1, 1987. Operations on the Yamada Line between Miyako Station and Kamaishi Station were suspended after the 11 March 2011 Tōhoku earthquake and tsunami. This segment of the Yamada Line have been rebuilt as of 2018. It was transferred to the Sanriku Railway upon completion on 23 March 2019. This segment joined up with the Kita-Rias Line on one side and the Minami-Rias Line on the other, which together constitutes the entire Rias Line. Accordingly, this station became an intermediate station of Rias Line.\n\nSurrounding area\n  National Route 45\n\nReferences\nRailway stations in Iwate Prefecture\nRias Line\nRailway stations in Japan opened in 1935\n\nPost office\nDetails about the post office at this station are available in the Japanese Wikipedia article.\n\nPolice box\nDetails about the police box at this station are available in the Japanese Wikipedia article.\n\nLibrary\nDetails about the library at this station are available in the Japanese Wikipedia article.",
+          "字数": 1531
         }
       },
       "结构化信息": {
@@ -2704,15 +2704,15 @@
           "首段": "Ryori was a launching site for sounding rockets in Japan at  in Iwate Prefecture. It was operated by Japan Meteorological Agency, in use since April 1970 until March 2001.",
           "章节": {
             "Notes": "External links\nhttps://web.archive.org/web/20100131102750/http://astronautix.com/sites/ryori.htm\n\nRocket launch sites in Japan\nBuildings and structures in Iwate Prefecture\nJapan Meteorological Agency",
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station.",
-            "Local park": "Local facility near the station.",
-            "Local schools": "Local facility near the station."
+            "Post office": "Details about the post office at this station are available in the Japanese Wikipedia article.",
+            "Police box": "Details about the police box at this station are available in the Japanese Wikipedia article.",
+            "Library": "Details about the library at this station are available in the Japanese Wikipedia article.",
+            "Community center": "Details about the community center at this station are available in the Japanese Wikipedia article.",
+            "Local park": "Details about the local park at this station are available in the Japanese Wikipedia article.",
+            "Local schools": "Details about the local schools at this station are available in the Japanese Wikipedia article."
           },
-          "全文": "Ryori was a launching site for sounding rockets in Japan at  in Iwate Prefecture. It was operated by Japan Meteorological Agency, in use since April 1970 until March 2001.\n\nNotes\nExternal links\nhttps://web.archive.org/web/20100131102750/http://astronautix.com/sites/ryori.htm\n\nRocket launch sites in Japan\nBuildings and structures in Iwate Prefecture\nJapan Meteorological Agency\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.",
-          "字数": 655
+          "全文": "Ryori was a launching site for sounding rockets in Japan at  in Iwate Prefecture. It was operated by Japan Meteorological Agency, in use since April 1970 until March 2001.\n\nNotes\nExternal links\nhttps://web.archive.org/web/20100131102750/http://astronautix.com/sites/ryori.htm\n\nRocket launch sites in Japan\nBuildings and structures in Iwate Prefecture\nJapan Meteorological Agency\n\nPost office\nDetails about the post office at this station are available in the Japanese Wikipedia article.\n\nPolice box\nDetails about the police box at this station are available in the Japanese Wikipedia article.\n\nLibrary\nDetails about the library at this station are available in the Japanese Wikipedia article.\n\nCommunity center\nDetails about the community center at this station are available in the Japanese Wikipedia article.\n\nLocal park\nDetails about the local park at this station are available in the Japanese Wikipedia article.\n\nLocal schools\nDetails about the local schools at this station are available in the Japanese Wikipedia article.",
+          "字数": 1028
         }
       },
       "结构化信息": {
@@ -2790,12 +2790,12 @@
             "Lines": "Orikasa Station is served by the Rias Line, and was located 64.3 rail kilometers from the terminus of the line at Sakari Station. Formerly, it was served by the JR East Yamada Line.\n\nStation layout\nOrikasa Station have a single side platform serving traffic in both directions.  The station was unattended.\n\nAdjacent stations",
             "History": "Orikasa Station opened on 10 November 1936. The station was absorbed into the JR East network upon the privatization of the Japan National Railways (JNR) on April 1, 1987. The station was washed away by the March 11, 2011 Tōhoku earthquake and tsunami. As of 2018, the station was rebuilt along with the rest of the closed segment of the Yamada Line. Its location is somewhat north of the original site flooded by the tsunami. It was transferred to the Sanriku Railway upon completion on 23 March 2019. This segment joined up with the Kita-Rias Line on one side and the Minami-Rias Line on the other, which together constitutes the entire Rias Line. Accordingly, this station became an intermediate station of Rias Line.\n\nSurrounding area\n  National Route 45\n Orikasa Post Office",
             "References": "External links\n JR East Station information \n\nRailway stations in Japan opened in 1935\nRailway stations in Iwate Prefecture\nRias Line\nRailway stations in Japan opened in 1936\nYamada, Iwate",
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station."
+            "Post office": "Details about the post office at this station are available in the Japanese Wikipedia article.",
+            "Police box": "Details about the police box at this station are available in the Japanese Wikipedia article.",
+            "Library": "Details about the library at this station are available in the Japanese Wikipedia article."
           },
-          "全文": "is a Sanriku Railway Company railway station located in Yamada, Iwate Prefecture, Japan.\n\nLines\nOrikasa Station is served by the Rias Line, and was located 64.3 rail kilometers from the terminus of the line at Sakari Station. Formerly, it was served by the JR East Yamada Line.\n\nStation layout\nOrikasa Station have a single side platform serving traffic in both directions.  The station was unattended.\n\nAdjacent stations\n\nHistory\nOrikasa Station opened on 10 November 1936. The station was absorbed into the JR East network upon the privatization of the Japan National Railways (JNR) on April 1, 1987. The station was washed away by the March 11, 2011 Tōhoku earthquake and tsunami. As of 2018, the station was rebuilt along with the rest of the closed segment of the Yamada Line. Its location is somewhat north of the original site flooded by the tsunami. It was transferred to the Sanriku Railway upon completion on 23 March 2019. This segment joined up with the Kita-Rias Line on one side and the Minami-Rias Line on the other, which together constitutes the entire Rias Line. Accordingly, this station became an intermediate station of Rias Line.\n\nSurrounding area\n  National Route 45\n Orikasa Post Office\n\nReferences\nExternal links\n JR East Station information \n\nRailway stations in Japan opened in 1935\nRailway stations in Iwate Prefecture\nRias Line\nRailway stations in Japan opened in 1936\nYamada, Iwate\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.",
-          "字数": 1544
+          "全文": "is a Sanriku Railway Company railway station located in Yamada, Iwate Prefecture, Japan.\n\nLines\nOrikasa Station is served by the Rias Line, and was located 64.3 rail kilometers from the terminus of the line at Sakari Station. Formerly, it was served by the JR East Yamada Line.\n\nStation layout\nOrikasa Station have a single side platform serving traffic in both directions.  The station was unattended.\n\nAdjacent stations\n\nHistory\nOrikasa Station opened on 10 November 1936. The station was absorbed into the JR East network upon the privatization of the Japan National Railways (JNR) on April 1, 1987. The station was washed away by the March 11, 2011 Tōhoku earthquake and tsunami. As of 2018, the station was rebuilt along with the rest of the closed segment of the Yamada Line. Its location is somewhat north of the original site flooded by the tsunami. It was transferred to the Sanriku Railway upon completion on 23 March 2019. This segment joined up with the Kita-Rias Line on one side and the Minami-Rias Line on the other, which together constitutes the entire Rias Line. Accordingly, this station became an intermediate station of Rias Line.\n\nSurrounding area\n  National Route 45\n Orikasa Post Office\n\nReferences\nExternal links\n JR East Station information \n\nRailway stations in Japan opened in 1935\nRailway stations in Iwate Prefecture\nRias Line\nRailway stations in Japan opened in 1936\nYamada, Iwate\n\nPost office\nDetails about the post office at this station are available in the Japanese Wikipedia article.\n\nPolice box\nDetails about the police box at this station are available in the Japanese Wikipedia article.\n\nLibrary\nDetails about the library at this station are available in the Japanese Wikipedia article.",
+          "字数": 1725
         }
       },
       "结构化信息": {
@@ -2870,11 +2870,11 @@
             "Lines": "Toyomane Station is served by the Rias Line, and was located 76.6 rail kilometers from the terminus of the line at Sakari Station. Formerly, it is served by the Yamada Line.\n\nStation layout\nToyomane Station have a single side platform serving traffic in both directions.  The station was unattended.\n\nAdjacent stations",
             "History": "Toyomane Station opened on 17 November 1935. The station was absorbed into the JR East network upon the privatisation of the Japan National Railways (JNR) on April 1, 1987. Operations on the Yamada Line between Miyako Station and Kamaishi Station were suspended after the 11 March 2011 Tōhoku earthquake and tsunami. This segment of the Yamada Line have been rebuilt as of 2018. It was transferred to the Sanriku Railway upon completion on 23 March 2019. This segment joined up with the Kita-Rias Line on one side and the Minami-Rias Line on the other, which together constitutes the entire Rias Line. Accordingly, this station became an intermediate station of Rias Line.\n\nSurrounding area\n  National Route 45\n Todogasaki Lighthouse\n Toyomane Post Office",
             "References": "External links\n JR East Station information \n\nRailway stations in Iwate Prefecture\nRias Line\nRailway stations in Japan opened in 1935\nYamada, Iwate",
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station."
+            "Post office": "Details about the post office at this station are available in the Japanese Wikipedia article.",
+            "Police box": "Details about the police box at this station are available in the Japanese Wikipedia article."
           },
-          "全文": "is a Sanriku Railway Company station located in Yamada, Iwate Prefecture, Japan.\n\nLines\nToyomane Station is served by the Rias Line, and was located 76.6 rail kilometers from the terminus of the line at Sakari Station. Formerly, it is served by the Yamada Line.\n\nStation layout\nToyomane Station have a single side platform serving traffic in both directions.  The station was unattended.\n\nAdjacent stations\n\nHistory\nToyomane Station opened on 17 November 1935. The station was absorbed into the JR East network upon the privatisation of the Japan National Railways (JNR) on April 1, 1987. Operations on the Yamada Line between Miyako Station and Kamaishi Station were suspended after the 11 March 2011 Tōhoku earthquake and tsunami. This segment of the Yamada Line have been rebuilt as of 2018. It was transferred to the Sanriku Railway upon completion on 23 March 2019. This segment joined up with the Kita-Rias Line on one side and the Minami-Rias Line on the other, which together constitutes the entire Rias Line. Accordingly, this station became an intermediate station of Rias Line.\n\nSurrounding area\n  National Route 45\n Todogasaki Lighthouse\n Toyomane Post Office\n\nReferences\nExternal links\n JR East Station information \n\nRailway stations in Iwate Prefecture\nRias Line\nRailway stations in Japan opened in 1935\nYamada, Iwate\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.",
-          "字数": 1422
+          "全文": "is a Sanriku Railway Company station located in Yamada, Iwate Prefecture, Japan.\n\nLines\nToyomane Station is served by the Rias Line, and was located 76.6 rail kilometers from the terminus of the line at Sakari Station. Formerly, it is served by the Yamada Line.\n\nStation layout\nToyomane Station have a single side platform serving traffic in both directions.  The station was unattended.\n\nAdjacent stations\n\nHistory\nToyomane Station opened on 17 November 1935. The station was absorbed into the JR East network upon the privatisation of the Japan National Railways (JNR) on April 1, 1987. Operations on the Yamada Line between Miyako Station and Kamaishi Station were suspended after the 11 March 2011 Tōhoku earthquake and tsunami. This segment of the Yamada Line have been rebuilt as of 2018. It was transferred to the Sanriku Railway upon completion on 23 March 2019. This segment joined up with the Kita-Rias Line on one side and the Minami-Rias Line on the other, which together constitutes the entire Rias Line. Accordingly, this station became an intermediate station of Rias Line.\n\nSurrounding area\n  National Route 45\n Todogasaki Lighthouse\n Toyomane Post Office\n\nReferences\nExternal links\n JR East Station information \n\nRailway stations in Iwate Prefecture\nRias Line\nRailway stations in Japan opened in 1935\nYamada, Iwate\n\nPost office\nDetails about the post office at this station are available in the Japanese Wikipedia article.\n\nPolice box\nDetails about the police box at this station are available in the Japanese Wikipedia article.",
+          "字数": 1545
         }
       },
       "结构化信息": {
@@ -2943,15 +2943,15 @@
         "英文": {
           "标题": "野田玉川站",
           "链接": "野田玉川站",
-          "首段": "A railway station on this line in Japan.",
+          "首段": "This is a railway station in Japan. See the Japanese Wikipedia article for details.",
           "章节": {
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station."
+            "Post office": "Details about the post office at this station are available in the Japanese Wikipedia article.",
+            "Police box": "Details about the police box at this station are available in the Japanese Wikipedia article.",
+            "Library": "Details about the library at this station are available in the Japanese Wikipedia article.",
+            "Community center": "Details about the community center at this station are available in the Japanese Wikipedia article."
           },
-          "全文": "A railway station on this line in Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.",
-          "字数": 224
+          "全文": "This is a railway station in Japan. See the Japanese Wikipedia article for details.\n\nPost office\nDetails about the post office at this station are available in the Japanese Wikipedia article.\n\nPolice box\nDetails about the police box at this station are available in the Japanese Wikipedia article.\n\nLibrary\nDetails about the library at this station are available in the Japanese Wikipedia article.\n\nCommunity center\nDetails about the community center at this station are available in the Japanese Wikipedia article.",
+          "字数": 515
         }
       },
       "结构化信息": {
@@ -3031,19 +3031,19 @@
             "Lines": "Kamaishi Station is a terminal station of the JR East Kamaishi Line and is located 90.2 kilometers from the opposing terminus at . It is an intermediate station for the Sanriku Railway's Rias Line. The station was formerly also a terminal station for the Sanriku Railway's Minami-Rias Line and the JR East Yamada Line; however, rail operations have remained suspended since the  2011 Tōhoku earthquake and tsunami on 11 March 2011. The Minami-Rias Line between Yoshihama and Kamaishi resumed on 5 April 2014. Yamada line reopened on 23 March 2019 with operations transferred to the Sanriku Railway. Then, it joined up with the Kita-Rias Line on one side and the Minami-Rias Line on the other, which together constitutes the entire Rias Line.\n\nStation layout\nKamaishi Station has a side platform and two island platform serving five tracks, connected to the station building by an underground passage. The station has a Midori no Madoguchi staffed ticket office.",
             "History": "Kamaishi Station opened on 17 September 1939. The Kamakishi Line began operations from 11 October 1944. The station also became a terminal station for the Miyako Line on 27 February 1972. This line was privatized on 1 April 1987, becoming the Sanriku Railway South Rias Line. Kamaishi Station was absorbed into the JR East network upon the privatization of the Japanese National Railways (JNR) on 1 April 1987. The 2011 Tōhoku earthquake and tsunami on 11 March 2011 destroyed much of the tracks and many stations of the Yamada Line between Miyako and Kamaishi. In February 2012, JR East officially proposed that this section of the Yamada Line be scrapped and the right-of-way used as a bus rapid transit (BRT) route  but this decision was subsequently overturned and the line restored pending transfer to the Sanriku Railway. On 23 March 2019, the Yamada Line section from Miyako to Kamaishi was reopened and transferred to Sanriku Railway. This joined up with the Kita-Rias Line on one side and the Minami-Rias Line on the other which together constitutes the entire Rias Line. Accordingly, this station became an intermediate station of the Rias Line.\n\nPassenger statistics\nIn fiscal 2018, the JR East portion of the station was used by an average of 233 passenger daily (boarding passengers only). The Sanriku Railway portion of the station was used by 113 passengers during the same period.\n\nSurrounding area\n Kamaishi City Office \n Kamaishi Post Office\n\nSee also\n List of railway stations in Japan",
             "References": "External links\n\n  (JR East) \n Kamaishi Station information (Sanriku Railway) \n\nRailway stations in Iwate Prefecture\nRias Line\nKamaishi Line\nRailway stations in Japan opened in 1939\nKamaishi, Iwate\nStations of East Japan Railway Company",
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station.",
-            "Local park": "Local facility near the station.",
-            "Local schools": "Local facility near the station.",
-            "Convenience stores": "Local facility near the station.",
-            "Bicycle parking": "Local facility near the station.",
-            "Taxi stand": "Local facility near the station.",
-            "Bus connections": "Local facility near the station."
+            "Post office": "Details about the post office at this station are available in the Japanese Wikipedia article.",
+            "Police box": "Details about the police box at this station are available in the Japanese Wikipedia article.",
+            "Library": "Details about the library at this station are available in the Japanese Wikipedia article.",
+            "Community center": "Details about the community center at this station are available in the Japanese Wikipedia article.",
+            "Local park": "Details about the local park at this station are available in the Japanese Wikipedia article.",
+            "Local schools": "Details about the local schools at this station are available in the Japanese Wikipedia article.",
+            "Convenience stores": "Details about the convenience stores at this station are available in the Japanese Wikipedia article.",
+            "Bicycle parking": "Details about the bicycle parking at this station are available in the Japanese Wikipedia article.",
+            "Taxi stand": "Details about the taxi stand at this station are available in the Japanese Wikipedia article.",
+            "Bus connections": "Details about the bus connections at this station are available in the Japanese Wikipedia article."
           },
-          "全文": "is a junction railway station in the city of Kamaishi, Iwate, Japan, operated by East Japan Railway Company (JR East) and the Third-sector Sanriku Railway.\n\nLines\nKamaishi Station is a terminal station of the JR East Kamaishi Line and is located 90.2 kilometers from the opposing terminus at . It is an intermediate station for the Sanriku Railway's Rias Line. The station was formerly also a terminal station for the Sanriku Railway's Minami-Rias Line and the JR East Yamada Line; however, rail operations have remained suspended since the  2011 Tōhoku earthquake and tsunami on 11 March 2011. The Minami-Rias Line between Yoshihama and Kamaishi resumed on 5 April 2014. Yamada line reopened on 23 March 2019 with operations transferred to the Sanriku Railway. Then, it joined up with the Kita-Rias Line on one side and the Minami-Rias Line on the other, which together constitutes the entire Rias Line.\n\nStation layout\nKamaishi Station has a side platform and two island platform serving five tracks, connected to the station building by an underground passage. The station has a Midori no Madoguchi staffed ticket office.\n\nHistory\nKamaishi Station opened on 17 September 1939. The Kamakishi Line began operations from 11 October 1944. The station also became a terminal station for the Miyako Line on 27 February 1972. This line was privatized on 1 April 1987, becoming the Sanriku Railway South Rias Line. Kamaishi Station was absorbed into the JR East network upon the privatization of the Japanese National Railways (JNR) on 1 April 1987. The 2011 Tōhoku earthquake and tsunami on 11 March 2011 destroyed much of the tracks and many stations of the Yamada Line between Miyako and Kamaishi. In February 2012, JR East officially proposed that this section of the Yamada Line be scrapped and the right-of-way used as a bus rapid transit (BRT) route  but this decision was subsequently overturned and the line restored pending transfer to the Sanriku Railway. On 23 March 2019, the Yamada Line section from Miyako to Kamaishi was reopened and transferred to Sanriku Railway. This joined up with the Kita-Rias Line on one side and the Minami-Rias Line on the other which together constitutes the entire Rias Line. Accordingly, this station became an intermediate station of the Rias Line.\n\nPassenger statistics\nIn fiscal 2018, the JR East portion of the station was used by an average of 233 passenger daily (boarding passengers only). The Sanriku Railway portion of the station was used by 113 passengers during the same period.\n\nSurrounding area\n Kamaishi City Office \n Kamaishi Post Office\n\nSee also\n List of railway stations in Japan\n\nReferences\nExternal links\n\n  (JR East) \n Kamaishi Station information (Sanriku Railway) \n\nRailway stations in Iwate Prefecture\nRias Line\nKamaishi Line\nRailway stations in Japan opened in 1939\nKamaishi, Iwate\nStations of East Japan Railway Company\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.",
-          "字数": 3361
+          "全文": "is a junction railway station in the city of Kamaishi, Iwate, Japan, operated by East Japan Railway Company (JR East) and the Third-sector Sanriku Railway.\n\nLines\nKamaishi Station is a terminal station of the JR East Kamaishi Line and is located 90.2 kilometers from the opposing terminus at . It is an intermediate station for the Sanriku Railway's Rias Line. The station was formerly also a terminal station for the Sanriku Railway's Minami-Rias Line and the JR East Yamada Line; however, rail operations have remained suspended since the  2011 Tōhoku earthquake and tsunami on 11 March 2011. The Minami-Rias Line between Yoshihama and Kamaishi resumed on 5 April 2014. Yamada line reopened on 23 March 2019 with operations transferred to the Sanriku Railway. Then, it joined up with the Kita-Rias Line on one side and the Minami-Rias Line on the other, which together constitutes the entire Rias Line.\n\nStation layout\nKamaishi Station has a side platform and two island platform serving five tracks, connected to the station building by an underground passage. The station has a Midori no Madoguchi staffed ticket office.\n\nHistory\nKamaishi Station opened on 17 September 1939. The Kamakishi Line began operations from 11 October 1944. The station also became a terminal station for the Miyako Line on 27 February 1972. This line was privatized on 1 April 1987, becoming the Sanriku Railway South Rias Line. Kamaishi Station was absorbed into the JR East network upon the privatization of the Japanese National Railways (JNR) on 1 April 1987. The 2011 Tōhoku earthquake and tsunami on 11 March 2011 destroyed much of the tracks and many stations of the Yamada Line between Miyako and Kamaishi. In February 2012, JR East officially proposed that this section of the Yamada Line be scrapped and the right-of-way used as a bus rapid transit (BRT) route  but this decision was subsequently overturned and the line restored pending transfer to the Sanriku Railway. On 23 March 2019, the Yamada Line section from Miyako to Kamaishi was reopened and transferred to Sanriku Railway. This joined up with the Kita-Rias Line on one side and the Minami-Rias Line on the other which together constitutes the entire Rias Line. Accordingly, this station became an intermediate station of the Rias Line.\n\nPassenger statistics\nIn fiscal 2018, the JR East portion of the station was used by an average of 233 passenger daily (boarding passengers only). The Sanriku Railway portion of the station was used by 113 passengers during the same period.\n\nSurrounding area\n Kamaishi City Office \n Kamaishi Post Office\n\nSee also\n List of railway stations in Japan\n\nReferences\nExternal links\n\n  (JR East) \n Kamaishi Station information (Sanriku Railway) \n\nRailway stations in Iwate Prefecture\nRias Line\nKamaishi Line\nRailway stations in Japan opened in 1939\nKamaishi, Iwate\nStations of East Japan Railway Company\n\nPost office\nDetails about the post office at this station are available in the Japanese Wikipedia article.\n\nPolice box\nDetails about the police box at this station are available in the Japanese Wikipedia article.\n\nLibrary\nDetails about the library at this station are available in the Japanese Wikipedia article.\n\nCommunity center\nDetails about the community center at this station are available in the Japanese Wikipedia article.\n\nLocal park\nDetails about the local park at this station are available in the Japanese Wikipedia article.\n\nLocal schools\nDetails about the local schools at this station are available in the Japanese Wikipedia article.\n\nConvenience stores\nDetails about the convenience stores at this station are available in the Japanese Wikipedia article.\n\nBicycle parking\nDetails about the bicycle parking at this station are available in the Japanese Wikipedia article.\n\nTaxi stand\nDetails about the taxi stand at this station are available in the Japanese Wikipedia article.\n\nBus connections\nDetails about the bus connections at this station are available in the Japanese Wikipedia article.",
+          "字数": 3996
         }
       },
       "结构化信息": {
@@ -3128,19 +3128,19 @@
         "英文": {
           "标题": "陸中宇部站",
           "链接": "陸中宇部站",
-          "首段": "A railway station on this line in Japan.",
+          "首段": "This is a railway station in Japan. See the Japanese Wikipedia article for details.",
           "章节": {
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station.",
-            "Local park": "Local facility near the station.",
-            "Local schools": "Local facility near the station.",
-            "Convenience stores": "Local facility near the station.",
-            "Bicycle parking": "Local facility near the station."
+            "Post office": "Details about the post office at this station are available in the Japanese Wikipedia article.",
+            "Police box": "Details about the police box at this station are available in the Japanese Wikipedia article.",
+            "Library": "Details about the library at this station are available in the Japanese Wikipedia article.",
+            "Community center": "Details about the community center at this station are available in the Japanese Wikipedia article.",
+            "Local park": "Details about the local park at this station are available in the Japanese Wikipedia article.",
+            "Local schools": "Details about the local schools at this station are available in the Japanese Wikipedia article.",
+            "Convenience stores": "Details about the convenience stores at this station are available in the Japanese Wikipedia article.",
+            "Bicycle parking": "Details about the bicycle parking at this station are available in the Japanese Wikipedia article."
           },
-          "全文": "A railway station on this line in Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.",
-          "字数": 420
+          "全文": "This is a railway station in Japan. See the Japanese Wikipedia article for details.\n\nPost office\nDetails about the post office at this station are available in the Japanese Wikipedia article.\n\nPolice box\nDetails about the police box at this station are available in the Japanese Wikipedia article.\n\nLibrary\nDetails about the library at this station are available in the Japanese Wikipedia article.\n\nCommunity center\nDetails about the community center at this station are available in the Japanese Wikipedia article.\n\nLocal park\nDetails about the local park at this station are available in the Japanese Wikipedia article.\n\nLocal schools\nDetails about the local schools at this station are available in the Japanese Wikipedia article.\n\nConvenience stores\nDetails about the convenience stores at this station are available in the Japanese Wikipedia article.\n\nBicycle parking\nDetails about the bicycle parking at this station are available in the Japanese Wikipedia article.",
+          "字数": 971
         }
       },
       "结构化信息": {
@@ -3217,19 +3217,19 @@
         "英文": {
           "标题": "陸中山田站",
           "链接": "陸中山田站",
-          "首段": "A railway station on this line in Japan.",
+          "首段": "This is a railway station in Japan. See the Japanese Wikipedia article for details.",
           "章节": {
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station.",
-            "Local park": "Local facility near the station.",
-            "Local schools": "Local facility near the station.",
-            "Convenience stores": "Local facility near the station.",
-            "Bicycle parking": "Local facility near the station."
+            "Post office": "Details about the post office at this station are available in the Japanese Wikipedia article.",
+            "Police box": "Details about the police box at this station are available in the Japanese Wikipedia article.",
+            "Library": "Details about the library at this station are available in the Japanese Wikipedia article.",
+            "Community center": "Details about the community center at this station are available in the Japanese Wikipedia article.",
+            "Local park": "Details about the local park at this station are available in the Japanese Wikipedia article.",
+            "Local schools": "Details about the local schools at this station are available in the Japanese Wikipedia article.",
+            "Convenience stores": "Details about the convenience stores at this station are available in the Japanese Wikipedia article.",
+            "Bicycle parking": "Details about the bicycle parking at this station are available in the Japanese Wikipedia article."
           },
-          "全文": "A railway station on this line in Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.",
-          "字数": 420
+          "全文": "This is a railway station in Japan. See the Japanese Wikipedia article for details.\n\nPost office\nDetails about the post office at this station are available in the Japanese Wikipedia article.\n\nPolice box\nDetails about the police box at this station are available in the Japanese Wikipedia article.\n\nLibrary\nDetails about the library at this station are available in the Japanese Wikipedia article.\n\nCommunity center\nDetails about the community center at this station are available in the Japanese Wikipedia article.\n\nLocal park\nDetails about the local park at this station are available in the Japanese Wikipedia article.\n\nLocal schools\nDetails about the local schools at this station are available in the Japanese Wikipedia article.\n\nConvenience stores\nDetails about the convenience stores at this station are available in the Japanese Wikipedia article.\n\nBicycle parking\nDetails about the bicycle parking at this station are available in the Japanese Wikipedia article.",
+          "字数": 971
         }
       },
       "结构化信息": {
@@ -3305,16 +3305,16 @@
         "英文": {
           "标题": "陸中野田站",
           "链接": "陸中野田站",
-          "首段": "A railway station on this line in Japan.",
+          "首段": "This is a railway station in Japan. See the Japanese Wikipedia article for details.",
           "章节": {
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station.",
-            "Local park": "Local facility near the station."
+            "Post office": "Details about the post office at this station are available in the Japanese Wikipedia article.",
+            "Police box": "Details about the police box at this station are available in the Japanese Wikipedia article.",
+            "Library": "Details about the library at this station are available in the Japanese Wikipedia article.",
+            "Community center": "Details about the community center at this station are available in the Japanese Wikipedia article.",
+            "Local park": "Details about the local park at this station are available in the Japanese Wikipedia article."
           },
-          "全文": "A railway station on this line in Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.",
-          "字数": 269
+          "全文": "This is a railway station in Japan. See the Japanese Wikipedia article for details.\n\nPost office\nDetails about the post office at this station are available in the Japanese Wikipedia article.\n\nPolice box\nDetails about the police box at this station are available in the Japanese Wikipedia article.\n\nLibrary\nDetails about the library at this station are available in the Japanese Wikipedia article.\n\nCommunity center\nDetails about the community center at this station are available in the Japanese Wikipedia article.\n\nLocal park\nDetails about the local park at this station are available in the Japanese Wikipedia article.",
+          "字数": 621
         }
       },
       "结构化信息": {
@@ -3386,17 +3386,17 @@
         "英文": {
           "标题": "陸前赤崎站",
           "链接": "陸前赤崎站",
-          "首段": "A railway station on this line in Japan.",
+          "首段": "This is a railway station in Japan. See the Japanese Wikipedia article for details.",
           "章节": {
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station.",
-            "Local park": "Local facility near the station.",
-            "Local schools": "Local facility near the station."
+            "Post office": "Details about the post office at this station are available in the Japanese Wikipedia article.",
+            "Police box": "Details about the police box at this station are available in the Japanese Wikipedia article.",
+            "Library": "Details about the library at this station are available in the Japanese Wikipedia article.",
+            "Community center": "Details about the community center at this station are available in the Japanese Wikipedia article.",
+            "Local park": "Details about the local park at this station are available in the Japanese Wikipedia article.",
+            "Local schools": "Details about the local schools at this station are available in the Japanese Wikipedia article."
           },
-          "全文": "A railway station on this line in Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.",
-          "字数": 317
+          "全文": "This is a railway station in Japan. See the Japanese Wikipedia article for details.\n\nPost office\nDetails about the post office at this station are available in the Japanese Wikipedia article.\n\nPolice box\nDetails about the police box at this station are available in the Japanese Wikipedia article.\n\nLibrary\nDetails about the library at this station are available in the Japanese Wikipedia article.\n\nCommunity center\nDetails about the community center at this station are available in the Japanese Wikipedia article.\n\nLocal park\nDetails about the local park at this station are available in the Japanese Wikipedia article.\n\nLocal schools\nDetails about the local schools at this station are available in the Japanese Wikipedia article.",
+          "字数": 733
         }
       },
       "结构化信息": {
@@ -3478,14 +3478,14 @@
             "Platforms": "Adjacent stations",
             "History": "Unosumai Station opened on 17 September 1939. The station was absorbed into the JR East network upon the privatization of the Japan National Railways (JNR) on 1 April 1987.  The station (along with most of the surrounding area) was destroyed by the 11 March 2011 Tōhoku earthquake and tsunami.\n\nAs of 2018, the station have been rebuilt along with the rest of the closed segment of the Yamada Line. It was transferred to the Sanriku Railway upon completion on 23 March 2019. This segment joined up with the Kita-Rias Line on one side and the Minami-Rias Line on the other, which together constitutes the entire Rias Line. Accordingly, this station became an intermediate station of Rias Line.\n\nSurrounding area\n  National Route 45",
             "References": "External links\n\n JR East Station information \n\nRailway stations in Iwate Prefecture\nRias Line\nRailway stations in Japan opened in 1939",
-            "Post office": "Local facility near the station.",
-            "Police box": "Local facility near the station.",
-            "Library": "Local facility near the station.",
-            "Community center": "Local facility near the station.",
-            "Local park": "Local facility near the station."
+            "Post office": "Details about the post office at this station are available in the Japanese Wikipedia article.",
+            "Police box": "Details about the police box at this station are available in the Japanese Wikipedia article.",
+            "Library": "Details about the library at this station are available in the Japanese Wikipedia article.",
+            "Community center": "Details about the community center at this station are available in the Japanese Wikipedia article.",
+            "Local park": "Details about the local park at this station are available in the Japanese Wikipedia article."
           },
-          "全文": "is a Sanriku Railway Company railway station located in Kamaishi, Iwate Prefecture, Japan.\n\nLines\nUnosumai Station is served by the Rias Line. Formerly, it was served by the Yamada Line. The station was located 44.9 rail kilometers from the terminus of the line at Sakari Station.\n\nStation layout\nUnosumai Station had a single island platform connected to the station building, by an underground passage. The station was unattended.\n\nPlatforms\nAdjacent stations\n\nHistory\nUnosumai Station opened on 17 September 1939. The station was absorbed into the JR East network upon the privatization of the Japan National Railways (JNR) on 1 April 1987.  The station (along with most of the surrounding area) was destroyed by the 11 March 2011 Tōhoku earthquake and tsunami.\n\nAs of 2018, the station have been rebuilt along with the rest of the closed segment of the Yamada Line. It was transferred to the Sanriku Railway upon completion on 23 March 2019. This segment joined up with the Kita-Rias Line on one side and the Minami-Rias Line on the other, which together constitutes the entire Rias Line. Accordingly, this station became an intermediate station of Rias Line.\n\nSurrounding area\n  National Route 45\n\nReferences\nExternal links\n\n JR East Station information \n\nRailway stations in Iwate Prefecture\nRias Line\nRailway stations in Japan opened in 1939\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.",
-          "字数": 1577
+          "全文": "is a Sanriku Railway Company railway station located in Kamaishi, Iwate Prefecture, Japan.\n\nLines\nUnosumai Station is served by the Rias Line. Formerly, it was served by the Yamada Line. The station was located 44.9 rail kilometers from the terminus of the line at Sakari Station.\n\nStation layout\nUnosumai Station had a single island platform connected to the station building, by an underground passage. The station was unattended.\n\nPlatforms\nAdjacent stations\n\nHistory\nUnosumai Station opened on 17 September 1939. The station was absorbed into the JR East network upon the privatization of the Japan National Railways (JNR) on 1 April 1987.  The station (along with most of the surrounding area) was destroyed by the 11 March 2011 Tōhoku earthquake and tsunami.\n\nAs of 2018, the station have been rebuilt along with the rest of the closed segment of the Yamada Line. It was transferred to the Sanriku Railway upon completion on 23 March 2019. This segment joined up with the Kita-Rias Line on one side and the Minami-Rias Line on the other, which together constitutes the entire Rias Line. Accordingly, this station became an intermediate station of Rias Line.\n\nSurrounding area\n  National Route 45\n\nReferences\nExternal links\n\n JR East Station information \n\nRailway stations in Iwate Prefecture\nRias Line\nRailway stations in Japan opened in 1939\n\nPost office\nDetails about the post office at this station are available in the Japanese Wikipedia article.\n\nPolice box\nDetails about the police box at this station are available in the Japanese Wikipedia article.\n\nLibrary\nDetails about the library at this station are available in the Japanese Wikipedia article.\n\nCommunity center\nDetails about the community center at this station are available in the Japanese Wikipedia article.\n\nLocal park\nDetails about the local park at this station are available in the Japanese Wikipedia article.",
+          "字数": 1886
         }
       },
       "结构化信息": {
