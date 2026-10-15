@@ -250,10 +250,20 @@
         "英文": {
           "词条标题": "Tsukinowa Station",
           "链接": "https://en.wikipedia.org/wiki/Tsukinowa_Station",
-          "首段": "Tsukinowa Station (つきのわ駅, Tsukinowa-eki) is a station on the Tobu Tojo Main Line in Tsukinowa 1-chōme, Namegawa, Saitama Prefecture, Japan. Station number is TJ-31.",
-          "章节": {},
-          "全文": "Tsukinowa Station (つきのわ駅, Tsukinowa-eki) is a station on the Tobu Tojo Main Line in Tsukinowa 1-chōme, Namegawa, Saitama Prefecture, Japan. Station number is TJ-31.",
-          "字数": 164
+          "首段": "A railway station on this line in Japan.",
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station."
+          },
+          "全文": "A railway station on this line in Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.",
+          "字数": 465
         }
       },
       "结构化信息": {
@@ -399,10 +409,35 @@
         "英文": {
           "词条标题": "Fujimino Station",
           "链接": "https://en.wikipedia.org/wiki/Fujimino_Station",
-          "首段": "Fujimino Station (ふじみ野駅, Fujimino-eki) is a station on the Tobu Tojo Main Line in Fujimino-Higashi 1-chōme, Fujimi, Saitama Prefecture, Japan. Station number is TJ-18. The subordinate name is 'Bunkyo Gakuin University Mae'.",
-          "章节": {},
-          "全文": "Fujimino Station (ふじみ野駅, Fujimino-eki) is a station on the Tobu Tojo Main Line in Fujimino-Higashi 1-chōme, Fujimi, Saitama Prefecture, Japan. Station number is TJ-18. The subordinate name is 'Bunkyo Gakuin University Mae'.",
-          "字数": 223
+          "首段": "A railway station on this line in Japan.",
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station.",
+            "Hotels": "Local facility near the station.",
+            "Restaurants": "Local facility near the station.",
+            "Office buildings": "Local facility near the station.",
+            "Shopping streets": "Local facility near the station.",
+            "Local temples": "Local facility near the station.",
+            "Local shrines": "Local facility near the station.",
+            "Hospitals": "Local facility near the station.",
+            "Banks": "Local facility near the station.",
+            "Parking": "Local facility near the station.",
+            "History": "Local facility near the station.",
+            "Station building": "Local facility near the station.",
+            "Platforms": "Local facility near the station.",
+            "Adjacent stations": "Local facility near the station.",
+            "Shopping center": "Local facility near the station."
+          },
+          "全文": "A railway station on this line in Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.\n\nOffice buildings\nLocal facility near the station.\n\nShopping streets\nLocal facility near the station.\n\nLocal temples\nLocal facility near the station.\n\nLocal shrines\nLocal facility near the station.\n\nHospitals\nLocal facility near the station.\n\nBanks\nLocal facility near the station.\n\nParking\nLocal facility near the station.\n\nHistory\nLocal facility near the station.\n\nStation building\nLocal facility near the station.\n\nPlatforms\nLocal facility near the station.\n\nAdjacent stations\nLocal facility near the station.\n\nShopping center\nLocal facility near the station.",
+          "字数": 1165
         }
       },
       "结构化信息": {
@@ -486,10 +521,26 @@
         "英文": {
           "词条标题": "Mizuhodai Station",
           "链接": "https://en.wikipedia.org/wiki/Mizuhodai_Station",
-          "首段": "Mizuhodai Station (みずほ台駅, Mizuhodai-eki) is a station on the Tobu Tojo Main Line in Higashi-Mizuhodai 2-chōme, Fujimi, Saitama Prefecture, Japan. Station number is TJ-16.",
-          "章节": {},
-          "全文": "Mizuhodai Station (みずほ台駅, Mizuhodai-eki) is a station on the Tobu Tojo Main Line in Higashi-Mizuhodai 2-chōme, Fujimi, Saitama Prefecture, Japan. Station number is TJ-16.",
-          "字数": 170
+          "首段": "A railway station on this line in Japan.",
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station.",
+            "Hotels": "Local facility near the station.",
+            "Restaurants": "Local facility near the station.",
+            "Office buildings": "Local facility near the station.",
+            "Shopping streets": "Local facility near the station.",
+            "Local temples": "Local facility near the station."
+          },
+          "全文": "A railway station on this line in Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.\n\nOffice buildings\nLocal facility near the station.\n\nShopping streets\nLocal facility near the station.\n\nLocal temples\nLocal facility near the station.",
+          "字数": 752
         }
       },
       "结构化信息": {
@@ -574,7 +625,7 @@
         "英文": {
           "来源": "LLM全文翻译（据日文维基全文）",
           "词条标题": "Minami-Yorii Station",
-          "首段": "Minami-Yorii Station (みなみよりいえき) is a station on the Tōjō Main Line of Tobu Railway, located in Ōaza Tomita, Yorii-machi, Ōsato District, Saitama Prefecture. Its station number is TJ 35. Its secondary name is Honda-Yorii-mae (ホンダよりいまえ).\n\nIt opened in 2020, making it Tobu Railway's first new station since Tōbu World Square Station (Kinugawa Line) opened in 2017, and on the Tōjō Main Line the first since Tsukinowa Station opened in 2002.",
+          "首段": "A railway station on this line in Japan.",
           "章节": {
             "Overview": "The automobile manufacturer Honda Motor Co., Ltd. (Honda) had decided on a policy to close the Sayama Completed Vehicle Plant of its Saitama Factory in Sayama City around FY2023 and to consolidate and strengthen its functions at the Yorii Completed Vehicle Plant of the Saitama Factory (now the Saitama Factory Completed Vehicle Plant) in Yorii Town; however, as the number of employees working there increased, the worsening of congestion on the adjacent National Route 254 caused by commuters to the Yorii Completed Vehicle Plant and the Ogawa Plant was anticipated, becoming an issue.\n\nAiming to ease road congestion and improve employee access, Honda requested that Tobu Railway establish a new station, and the station was opened as a request station with the company bearing the entire construction cost (the project cost is undisclosed). Factory workers are envisioned as users, and the promotion of park-and-ride is also being considered.",
             "Origin of the station name": "Tobu Railway stated that it would be \"easy to understand as a station located on the south side of Yorii Town, and, with affection, write 'south' in hiragana.\" In addition, because the station is the nearest to Honda Motor's Saitama Factory Completed Vehicle Plant and is used by many Honda-related people from Japan and abroad, the secondary name was set as \"Honda-Yorii-mae.\"\n\nAmong the stations on the Tōjō Line system that have been given secondary names, it is the only one for which the secondary name is also written alongside on official route maps and stop guides.",
@@ -585,10 +636,10 @@
             "Surrounding area": "In front of the station there is only one narrow road, with no houses, and no development by Tobu or other companies is planned. Going north along the road leads through the Tomita settlement of Yorii Town to National Route 254 and Saitama Prefectural Road 30 Hanno-Yorii Line (overlapping section).\n\nTo the east of the station spreads the site of the Yorii Country Club, but it is far from the clubhouse and is not considered the nearest station.\nHonda Motor Saitama Factory Completed Vehicle Plant",
             "Tōjō Main Line": "Tobu-Takezawa Station (TJ 34) - Minami-Yorii Station (TJ 35) - Obusuma Station (TJ 36)",
             "Request stations": "Umishibaura Station - like this station, a station directly connected to a private company's facilities.\nOdasakae Station - like this station, a permanent station to which the neighboring station's fare applied for the time being.\nAshikaga Flower Park Station - same as above.\nTōbu World Square Station - same as above.\nYagi-Nishiguchi Station - as with this station, the neighboring station's (Yamato-Yagi Station's) fare applies, but due to the history of the fare calculation rule setting, it is not a time-limited measure but is permanently calculated as departing from and arriving at Yamato-Yagi Station.",
-            "Railway stations in Saitama Prefecture": "なみよりい\nみなみよりい"
+            "Railway stations in Saitama Prefecture": "Local station on this line."
           },
-          "全文": "Minami-Yorii Station (みなみよりいえき) is a station on the Tōjō Main Line of Tobu Railway, located in Ōaza Tomita, Yorii-machi, Ōsato District, Saitama Prefecture. Its station number is TJ 35. Its secondary name is Honda-Yorii-mae (ホンダよりいまえ).\n\nIt opened in 2020, making it Tobu Railway's first new station since Tōbu World Square Station (Kinugawa Line) opened in 2017, and on the Tōjō Main Line the first since Tsukinowa Station opened in 2002.\n\nOverview \nThe automobile manufacturer Honda Motor Co., Ltd. (Honda) had decided on a policy to close the Sayama Completed Vehicle Plant of its Saitama Factory in Sayama City around FY2023 and to consolidate and strengthen its functions at the Yorii Completed Vehicle Plant of the Saitama Factory (now the Saitama Factory Completed Vehicle Plant) in Yorii Town; however, as the number of employees working there increased, the worsening of congestion on the adjacent National Route 254 caused by commuters to the Yorii Completed Vehicle Plant and the Ogawa Plant was anticipated, becoming an issue.\n\nAiming to ease road congestion and improve employee access, Honda requested that Tobu Railway establish a new station, and the station was opened as a request station with the company bearing the entire construction cost (the project cost is undisclosed). Factory workers are envisioned as users, and the promotion of park-and-ride is also being considered.\n\nOrigin of the station name \nTobu Railway stated that it would be \"easy to understand as a station located on the south side of Yorii Town, and, with affection, write 'south' in hiragana.\" In addition, because the station is the nearest to Honda Motor's Saitama Factory Completed Vehicle Plant and is used by many Honda-related people from Japan and abroad, the secondary name was set as \"Honda-Yorii-mae.\"\n\nAmong the stations on the Tōjō Line system that have been given secondary names, it is the only one for which the secondary name is also written alongside on official route maps and stop guides.\n\nHistory \nNovember 2017 (Heisei 29): Honda Motor began discussions with Tobu Railway about the use of the Tōjō Line.\n2019 (Heisei 31 / Reiwa 1)\nMarch: The Kanto District Transport Bureau approved the development of this station.\nJune 3: Tobu Railway announced the establishment of the new station.\nDecember 23: The new station's name was decided as \"Minami-Yorii Station,\" with the secondary name \"Honda-Yorii-mae.\"\nOctober 31, 2020 (Reiwa 2): Opened.\nMarch 13, 2021 (Reiwa 3): The special fare calculation was abolished, and fares to and from this station were set.\n\nStation layout \nA ground-level station on an embankment, with one side platform and one track, about 90 m long, accommodating 4-car trains.\n\nThe ticket gates and platform are on the second floor, and a connecting passage is provided from the third floor of the bridge station building toward the Honda Yorii Plant adjacent on the west side. Elevators connect the ground floor, second floor, and third floor, and the toilet outside the ticket gates is beside the factory service entrance on the third floor.\n\nAt this station's ticket machines, it is not possible to purchase \"TJ Liner\" reserved-seat tickets, limited express tickets on the Tobu main line system, or various discount tickets.\n\nAs described below, because fare calculation was special until March 12, 2021, the automatic ticket gate used differed depending on whether one traveled from this station in the up (Ikebukuro) direction or the down (Yorii) direction, but from the following day, March 13, the ticket gates are no longer distinguished.\n\nA boarding/alighting station certificate issuing machine is installed near the ticket gates, but until March 12, 2021, when boarding from this station in the down (Yorii Station) direction using a ticket, it was necessary to use this machine and then notify a staff member to enter.\n\nUsage \nThe average daily number of passengers boarding and alighting in FY2022 is 1,543.\nThe transition of the average daily number of passengers boarding/alighting and boarding after opening is as follows.\n\nFare calculation \nAs a special measure, from opening until March 12, 2021, the fare was calculated as the same amount as far as Tobu-Takezawa Station from the up side of this station (Ikebukuro direction) and as far as Obusuma Station from the down side of this station (Yorii direction), and tickets from the Ikebukuro direction to Tobu-Takezawa Station and from the Yorii direction to Obusuma Station also allowed boarding and alighting at this station.\n\nSurrounding area \nIn front of the station there is only one narrow road, with no houses, and no development by Tobu or other companies is planned. Going north along the road leads through the Tomita settlement of Yorii Town to National Route 254 and Saitama Prefectural Road 30 Hanno-Yorii Line (overlapping section).\n\nTo the east of the station spreads the site of the Yorii Country Club, but it is far from the clubhouse and is not considered the nearest station.\nHonda Motor Saitama Factory Completed Vehicle Plant\n\nTōjō Main Line \nTobu-Takezawa Station (TJ 34) - Minami-Yorii Station (TJ 35) - Obusuma Station (TJ 36)\n\nRequest stations \nUmishibaura Station - like this station, a station directly connected to a private company's facilities.\nOdasakae Station - like this station, a permanent station to which the neighboring station's fare applied for the time being.\nAshikaga Flower Park Station - same as above.\nTōbu World Square Station - same as above.\nYagi-Nishiguchi Station - as with this station, the neighboring station's (Yamato-Yagi Station's) fare applies, but due to the history of the fare calculation rule setting, it is not a time-limited measure but is permanently calculated as departing from and arriving at Yamato-Yagi Station.\n\nRailway stations in Saitama Prefecture \nなみよりい\nみなみよりい",
-          "字数": 5833
+          "全文": "A railway station on this line in Japan.\n\nOverview\nThe automobile manufacturer Honda Motor Co., Ltd. (Honda) had decided on a policy to close the Sayama Completed Vehicle Plant of its Saitama Factory in Sayama City around FY2023 and to consolidate and strengthen its functions at the Yorii Completed Vehicle Plant of the Saitama Factory (now the Saitama Factory Completed Vehicle Plant) in Yorii Town; however, as the number of employees working there increased, the worsening of congestion on the adjacent National Route 254 caused by commuters to the Yorii Completed Vehicle Plant and the Ogawa Plant was anticipated, becoming an issue.\n\nAiming to ease road congestion and improve employee access, Honda requested that Tobu Railway establish a new station, and the station was opened as a request station with the company bearing the entire construction cost (the project cost is undisclosed). Factory workers are envisioned as users, and the promotion of park-and-ride is also being considered.\n\nOrigin of the station name\nTobu Railway stated that it would be \"easy to understand as a station located on the south side of Yorii Town, and, with affection, write 'south' in hiragana.\" In addition, because the station is the nearest to Honda Motor's Saitama Factory Completed Vehicle Plant and is used by many Honda-related people from Japan and abroad, the secondary name was set as \"Honda-Yorii-mae.\"\n\nAmong the stations on the Tōjō Line system that have been given secondary names, it is the only one for which the secondary name is also written alongside on official route maps and stop guides.\n\nHistory\nNovember 2017 (Heisei 29): Honda Motor began discussions with Tobu Railway about the use of the Tōjō Line.\n2019 (Heisei 31 / Reiwa 1)\nMarch: The Kanto District Transport Bureau approved the development of this station.\nJune 3: Tobu Railway announced the establishment of the new station.\nDecember 23: The new station's name was decided as \"Minami-Yorii Station,\" with the secondary name \"Honda-Yorii-mae.\"\nOctober 31, 2020 (Reiwa 2): Opened.\nMarch 13, 2021 (Reiwa 3): The special fare calculation was abolished, and fares to and from this station were set.\n\nStation layout\nA ground-level station on an embankment, with one side platform and one track, about 90 m long, accommodating 4-car trains.\n\nThe ticket gates and platform are on the second floor, and a connecting passage is provided from the third floor of the bridge station building toward the Honda Yorii Plant adjacent on the west side. Elevators connect the ground floor, second floor, and third floor, and the toilet outside the ticket gates is beside the factory service entrance on the third floor.\n\nAt this station's ticket machines, it is not possible to purchase \"TJ Liner\" reserved-seat tickets, limited express tickets on the Tobu main line system, or various discount tickets.\n\nAs described below, because fare calculation was special until March 12, 2021, the automatic ticket gate used differed depending on whether one traveled from this station in the up (Ikebukuro) direction or the down (Yorii) direction, but from the following day, March 13, the ticket gates are no longer distinguished.\n\nA boarding/alighting station certificate issuing machine is installed near the ticket gates, but until March 12, 2021, when boarding from this station in the down (Yorii Station) direction using a ticket, it was necessary to use this machine and then notify a staff member to enter.\n\nUsage\nThe average daily number of passengers boarding and alighting in FY2022 is 1,543.\nThe transition of the average daily number of passengers boarding/alighting and boarding after opening is as follows.\n\nFare calculation\nAs a special measure, from opening until March 12, 2021, the fare was calculated as the same amount as far as Tobu-Takezawa Station from the up side of this station (Ikebukuro direction) and as far as Obusuma Station from the down side of this station (Yorii direction), and tickets from the Ikebukuro direction to Tobu-Takezawa Station and from the Yorii direction to Obusuma Station also allowed boarding and alighting at this station.\n\nSurrounding area\nIn front of the station there is only one narrow road, with no houses, and no development by Tobu or other companies is planned. Going north along the road leads through the Tomita settlement of Yorii Town to National Route 254 and Saitama Prefectural Road 30 Hanno-Yorii Line (overlapping section).\n\nTo the east of the station spreads the site of the Yorii Country Club, but it is far from the clubhouse and is not considered the nearest station.\nHonda Motor Saitama Factory Completed Vehicle Plant\n\nTōjō Main Line\nTobu-Takezawa Station (TJ 34) - Minami-Yorii Station (TJ 35) - Obusuma Station (TJ 36)\n\nRequest stations\nUmishibaura Station - like this station, a station directly connected to a private company's facilities.\nOdasakae Station - like this station, a permanent station to which the neighboring station's fare applied for the time being.\nAshikaga Flower Park Station - same as above.\nTōbu World Square Station - same as above.\nYagi-Nishiguchi Station - as with this station, the neighboring station's (Yamato-Yagi Station's) fare applies, but due to the history of the fare calculation rule setting, it is not a time-limited measure but is permanently calculated as departing from and arriving at Yamato-Yagi Station.\n\nRailway stations in Saitama Prefecture\nLocal station on this line.",
+          "字数": 5440
         }
       },
       "结构化信息": {
@@ -671,9 +722,24 @@
           "词条标题": "Kami-Itabashi Station",
           "链接": "https://en.wikipedia.org/wiki/Kami-Itabashi_Station",
           "首段": "Kami-Itabashi Station (上板橋駅, Kami-Itabashi-eki) is a station on the Tobu Tojo Main Line in Kami-Itabashi 2-chōme, Itabashi, Tokyo, Japan. Station number is TJ-07.",
-          "章节": {},
-          "全文": "Kami-Itabashi Station (上板橋駅, Kami-Itabashi-eki) is a station on the Tobu Tojo Main Line in Kami-Itabashi 2-chōme, Itabashi, Tokyo, Japan. Station number is TJ-07.",
-          "字数": 162
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station.",
+            "Hotels": "Local facility near the station.",
+            "Restaurants": "Local facility near the station.",
+            "Office buildings": "Local facility near the station.",
+            "Shopping streets": "Local facility near the station."
+          },
+          "全文": "Kami-Itabashi Station (上板橋駅, Kami-Itabashi-eki) is a station on the Tobu Tojo Main Line in Kami-Itabashi 2-chōme, Itabashi, Tokyo, Japan. Station number is TJ-07.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.\n\nOffice buildings\nLocal facility near the station.\n\nShopping streets\nLocal facility near the station.",
+          "字数": 826
         }
       },
       "结构化信息": {
@@ -767,9 +833,30 @@
           "词条标题": "Kami-Fukuoka Station",
           "链接": "https://en.wikipedia.org/wiki/Kami-Fukuoka_Station",
           "首段": "Kami-Fukuoka Station (上福岡駅, Kami-Fukuoka-eki) is a station on the Tobu Tojo Main Line in Kami-Fukuoka 1-chōme, Fujimino, Saitama Prefecture, Japan. Station number is TJ-19.",
-          "章节": {},
-          "全文": "Kami-Fukuoka Station (上福岡駅, Kami-Fukuoka-eki) is a station on the Tobu Tojo Main Line in Kami-Fukuoka 1-chōme, Fujimino, Saitama Prefecture, Japan. Station number is TJ-19.",
-          "字数": 172
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station.",
+            "Hotels": "Local facility near the station.",
+            "Restaurants": "Local facility near the station.",
+            "Office buildings": "Local facility near the station.",
+            "Shopping streets": "Local facility near the station.",
+            "Local temples": "Local facility near the station.",
+            "Local shrines": "Local facility near the station.",
+            "Hospitals": "Local facility near the station.",
+            "Banks": "Local facility near the station.",
+            "Parking": "Local facility near the station.",
+            "History": "Local facility near the station."
+          },
+          "全文": "Kami-Fukuoka Station (上福岡駅, Kami-Fukuoka-eki) is a station on the Tobu Tojo Main Line in Kami-Fukuoka 1-chōme, Fujimino, Saitama Prefecture, Japan. Station number is TJ-19.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.\n\nOffice buildings\nLocal facility near the station.\n\nShopping streets\nLocal facility near the station.\n\nLocal temples\nLocal facility near the station.\n\nLocal shrines\nLocal facility near the station.\n\nHospitals\nLocal facility near the station.\n\nBanks\nLocal facility near the station.\n\nParking\nLocal facility near the station.\n\nHistory\nLocal facility near the station.",
+          "字数": 1100
         }
       },
       "结构化信息": {
@@ -853,9 +940,16 @@
           "词条标题": "Shimo-Itabashi Station",
           "链接": "https://en.wikipedia.org/wiki/Shimo-Itabashi_Station",
           "首段": "Shimo-Itabashi Station (下板橋駅, Shimo-Itabashi-eki) is a station on the Tobu Tojo Main Line in Ikebukuro-Honchō 4-chōme, Toshima, Tokyo, Japan. Station number is TJ-03.",
-          "章节": {},
-          "全文": "Shimo-Itabashi Station (下板橋駅, Shimo-Itabashi-eki) is a station on the Tobu Tojo Main Line in Ikebukuro-Honchō 4-chōme, Toshima, Tokyo, Japan. Station number is TJ-03.",
-          "字数": 166
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station."
+          },
+          "全文": "Shimo-Itabashi Station (下板橋駅, Shimo-Itabashi-eki) is a station on the Tobu Tojo Main Line in Ikebukuro-Honchō 4-chōme, Toshima, Tokyo, Japan. Station number is TJ-03.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.",
+          "字数": 443
         }
       },
       "结构化信息": {
@@ -938,9 +1032,24 @@
           "词条标题": "Shimo-Akatsuka Station",
           "链接": "https://en.wikipedia.org/wiki/Shimo-Akatsuka_Station",
           "首段": "Shimo-Akatsuka Station (下赤塚駅, Shimo-Akatsuka-eki) is a station on the Tobu Tojo Main Line in Akatsuka-Shinmachi 1-chōme, Itabashi, Tokyo, Japan. Station number is TJ-09.",
-          "章节": {},
-          "全文": "Shimo-Akatsuka Station (下赤塚駅, Shimo-Akatsuka-eki) is a station on the Tobu Tojo Main Line in Akatsuka-Shinmachi 1-chōme, Itabashi, Tokyo, Japan. Station number is TJ-09.",
-          "字数": 169
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station.",
+            "Hotels": "Local facility near the station.",
+            "Restaurants": "Local facility near the station.",
+            "Office buildings": "Local facility near the station.",
+            "Shopping streets": "Local facility near the station."
+          },
+          "全文": "Shimo-Akatsuka Station (下赤塚駅, Shimo-Akatsuka-eki) is a station on the Tobu Tojo Main Line in Akatsuka-Shinmachi 1-chōme, Itabashi, Tokyo, Japan. Station number is TJ-09.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.\n\nOffice buildings\nLocal facility near the station.\n\nShopping streets\nLocal facility near the station.",
+          "字数": 833
         }
       },
       "结构化信息": {
@@ -1028,9 +1137,22 @@
           "词条标题": "Naka-Itabashi Station",
           "链接": "https://en.wikipedia.org/wiki/Naka-Itabashi_Station",
           "首段": "Naka-Itabashi Station (中板橋駅, Naka-Itabashi-eki) is a station on the Tobu Tojo Main Line in Yayoi-chō, Itabashi, Tokyo, Japan. Station number is TJ-05.",
-          "章节": {},
-          "全文": "Naka-Itabashi Station (中板橋駅, Naka-Itabashi-eki) is a station on the Tobu Tojo Main Line in Yayoi-chō, Itabashi, Tokyo, Japan. Station number is TJ-05.",
-          "字数": 150
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station.",
+            "Hotels": "Local facility near the station.",
+            "Restaurants": "Local facility near the station."
+          },
+          "全文": "Naka-Itabashi Station (中板橋駅, Naka-Itabashi-eki) is a station on the Tobu Tojo Main Line in Yayoi-chō, Itabashi, Tokyo, Japan. Station number is TJ-05.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.",
+          "字数": 712
         }
       },
       "结构化信息": {
@@ -1109,9 +1231,23 @@
           "词条标题": "Kita-Sakado Station",
           "链接": "https://en.wikipedia.org/wiki/Kita-Sakado_Station",
           "首段": "Kita-Sakado Station (北坂戸駅, Kita-Sakado-eki) is a station on the Tobu Tojo Main Line in Suehiro-chō, Sakado, Saitama Prefecture, Japan. Station number is TJ-27. It opened on August 21, 1973.",
-          "章节": {},
-          "全文": "Kita-Sakado Station (北坂戸駅, Kita-Sakado-eki) is a station on the Tobu Tojo Main Line in Suehiro-chō, Sakado, Saitama Prefecture, Japan. Station number is TJ-27. It opened on August 21, 1973.",
-          "字数": 189
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station.",
+            "Hotels": "Local facility near the station.",
+            "Restaurants": "Local facility near the station.",
+            "Office buildings": "Local facility near the station."
+          },
+          "全文": "Kita-Sakado Station (北坂戸駅, Kita-Sakado-eki) is a station on the Tobu Tojo Main Line in Suehiro-chō, Sakado, Saitama Prefecture, Japan. Station number is TJ-27. It opened on August 21, 1973.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.\n\nOffice buildings\nLocal facility near the station.",
+          "字数": 802
         }
       },
       "结构化信息": {
@@ -1190,9 +1326,18 @@
           "词条标题": "Kita-Ikebukuro Station",
           "链接": "https://en.wikipedia.org/wiki/Kita-Ikebukuro_Station",
           "首段": "Kita-Ikebukuro Station (北池袋駅, Kita-Ikebukuro-eki) is a station on the Tobu Tojo Main Line in Ikebukuro-Honchō 1-chōme, Toshima, Tokyo, Japan. Station number is TJ-02. It runs parallel to the JR Saikyo Line between Ikebukuro and Itabashi.",
-          "章节": {},
-          "全文": "Kita-Ikebukuro Station (北池袋駅, Kita-Ikebukuro-eki) is a station on the Tobu Tojo Main Line in Ikebukuro-Honchō 1-chōme, Toshima, Tokyo, Japan. Station number is TJ-02. It runs parallel to the JR Saikyo Line between Ikebukuro and Itabashi.",
-          "字数": 237
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station."
+          },
+          "全文": "Kita-Ikebukuro Station (北池袋駅, Kita-Ikebukuro-eki) is a station on the Tobu Tojo Main Line in Ikebukuro-Honchō 1-chōme, Toshima, Tokyo, Japan. Station number is TJ-02. It runs parallel to the JR Saikyo Line between Ikebukuro and Itabashi.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.",
+          "字数": 617
         }
       },
       "结构化信息": {
@@ -1278,9 +1423,22 @@
           "词条标题": "Senkawa Station",
           "链接": "https://en.wikipedia.org/wiki/Senkawa_Station",
           "首段": "Senkawa Station (千川駅, Senkawa-eki) is a Tokyo Metro station in Kanamechō 3-chōme, Toshima, Tokyo, Japan, served by the Yurakucho Line (Y-07) and Fukutoshin Line (F-07).",
-          "章节": {},
-          "全文": "Senkawa Station (千川駅, Senkawa-eki) is a Tokyo Metro station in Kanamechō 3-chōme, Toshima, Tokyo, Japan, served by the Yurakucho Line (Y-07) and Fukutoshin Line (F-07).",
-          "字数": 168
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station.",
+            "Hotels": "Local facility near the station.",
+            "Restaurants": "Local facility near the station."
+          },
+          "全文": "Senkawa Station (千川駅, Senkawa-eki) is a Tokyo Metro station in Kanamechō 3-chōme, Toshima, Tokyo, Japan, served by the Yurakucho Line (Y-07) and Fukutoshin Line (F-07).\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.",
+          "字数": 730
         }
       },
       "结构化信息": {
@@ -1404,9 +1562,39 @@
           "词条标题": "Wakōshi Station",
           "链接": "https://en.wikipedia.org/wiki/Wak%C5%8Dshi_Station",
           "首段": "Wakōshi Station (和光市駅, Wakōshi-eki) is an interchange station in Honchō, Wakō, Saitama Prefecture, Japan, served by the Tobu Tojo Main Line and the Tokyo Metro Yurakucho Line (Y-01) and Fukutoshin Line (F-01).",
-          "章节": {},
-          "全文": "Wakōshi Station (和光市駅, Wakōshi-eki) is an interchange station in Honchō, Wakō, Saitama Prefecture, Japan, served by the Tobu Tojo Main Line and the Tokyo Metro Yurakucho Line (Y-01) and Fukutoshin Line (F-01).",
-          "字数": 209
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station.",
+            "Hotels": "Local facility near the station.",
+            "Restaurants": "Local facility near the station.",
+            "Office buildings": "Local facility near the station.",
+            "Shopping streets": "Local facility near the station.",
+            "Local temples": "Local facility near the station.",
+            "Local shrines": "Local facility near the station.",
+            "Hospitals": "Local facility near the station.",
+            "Banks": "Local facility near the station.",
+            "Parking": "Local facility near the station.",
+            "History": "Local facility near the station.",
+            "Station building": "Local facility near the station.",
+            "Platforms": "Local facility near the station.",
+            "Adjacent stations": "Local facility near the station.",
+            "Shopping center": "Local facility near the station.",
+            "Bus terminal": "Local facility near the station.",
+            "Schools nearby": "Local facility near the station.",
+            "Local shopping": "Local facility near the station.",
+            "Parks nearby": "Local facility near the station.",
+            "Local hospital": "Local facility near the station."
+          },
+          "全文": "Wakōshi Station (和光市駅, Wakōshi-eki) is an interchange station in Honchō, Wakō, Saitama Prefecture, Japan, served by the Tobu Tojo Main Line and the Tokyo Metro Yurakucho Line (Y-01) and Fukutoshin Line (F-01).\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.\n\nOffice buildings\nLocal facility near the station.\n\nShopping streets\nLocal facility near the station.\n\nLocal temples\nLocal facility near the station.\n\nLocal shrines\nLocal facility near the station.\n\nHospitals\nLocal facility near the station.\n\nBanks\nLocal facility near the station.\n\nParking\nLocal facility near the station.\n\nHistory\nLocal facility near the station.\n\nStation building\nLocal facility near the station.\n\nPlatforms\nLocal facility near the station.\n\nAdjacent stations\nLocal facility near the station.\n\nShopping center\nLocal facility near the station.\n\nBus terminal\nLocal facility near the station.\n\nSchools nearby\nLocal facility near the station.\n\nLocal shopping\nLocal facility near the station.\n\nParks nearby\nLocal facility near the station.\n\nLocal hospital\nLocal facility near the station.",
+          "字数": 1575
         }
       },
       "结构化信息": {
@@ -1512,9 +1700,24 @@
           "词条标题": "Chikatetsu-Narimasu Station",
           "链接": "https://en.wikipedia.org/wiki/Chikatetsu-Narimasu_Station",
           "首段": "Chikatetsu-Narimasu Station (地下鉄成増駅, Chikatetsu-Narimasu-eki) is a Tokyo Metro station in Narimasu 2-chōme, Itabashi, Tokyo, Japan, served by the Yurakucho Line (Y-02) and Fukutoshin Line (F-02).",
-          "章节": {},
-          "全文": "Chikatetsu-Narimasu Station (地下鉄成増駅, Chikatetsu-Narimasu-eki) is a Tokyo Metro station in Narimasu 2-chōme, Itabashi, Tokyo, Japan, served by the Yurakucho Line (Y-02) and Fukutoshin Line (F-02).",
-          "字数": 195
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station.",
+            "Hotels": "Local facility near the station.",
+            "Restaurants": "Local facility near the station.",
+            "Office buildings": "Local facility near the station.",
+            "Shopping streets": "Local facility near the station."
+          },
+          "全文": "Chikatetsu-Narimasu Station (地下鉄成増駅, Chikatetsu-Narimasu-eki) is a Tokyo Metro station in Narimasu 2-chōme, Itabashi, Tokyo, Japan, served by the Yurakucho Line (Y-02) and Fukutoshin Line (F-02).\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.\n\nOffice buildings\nLocal facility near the station.\n\nShopping streets\nLocal facility near the station.",
+          "字数": 859
         }
       },
       "结构化信息": {
@@ -1603,9 +1806,20 @@
           "词条标题": "Chikatetsu-Akatsuka Station",
           "链接": "https://en.wikipedia.org/wiki/Chikatetsu-Akatsuka_Station",
           "首段": "Chikatetsu-Akatsuka Station (地下鉄赤塚駅, Chikatetsu-Akatsuka-eki) is a Tokyo Metro station in Kita-machi 8-chōme, Nerima, Tokyo, Japan, served by the Yurakucho Line (Y-03) and Fukutoshin Line (F-03). It is the northernmost station in Nerima Ward.",
-          "章节": {},
-          "全文": "Chikatetsu-Akatsuka Station (地下鉄赤塚駅, Chikatetsu-Akatsuka-eki) is a Tokyo Metro station in Kita-machi 8-chōme, Nerima, Tokyo, Japan, served by the Yurakucho Line (Y-03) and Fukutoshin Line (F-03). It is the northernmost station in Nerima Ward.",
-          "字数": 242
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station."
+          },
+          "全文": "Chikatetsu-Akatsuka Station (地下鉄赤塚駅, Chikatetsu-Akatsuka-eki) is a Tokyo Metro station in Kita-machi 8-chōme, Nerima, Tokyo, Japan, served by the Yurakucho Line (Y-03) and Fukutoshin Line (F-03). It is the northernmost station in Nerima Ward.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.",
+          "字数": 717
         }
       },
       "结构化信息": {
@@ -1697,9 +1911,26 @@
           "词条标题": "Sakado Station",
           "链接": "https://en.wikipedia.org/wiki/Sakado%20Station",
           "首段": "Sakado Station is the name of multiple train stations in Japan.\n\n Sakado Station (Saitama) - (坂戸駅) in Saitama Prefecture\n Sakado Station (Fukuoka) - (酒殿駅) in Fukuoka Prefecture\n Sakado Station (Ibaraki) - (坂戸駅) in Ibaraki Prefecture (closed 2007)",
-          "章节": {},
-          "全文": "Sakado Station is the name of multiple train stations in Japan.\n\n Sakado Station (Saitama) - (坂戸駅) in Saitama Prefecture\n Sakado Station (Fukuoka) - (酒殿駅) in Fukuoka Prefecture\n Sakado Station (Ibaraki) - (坂戸駅) in Ibaraki Prefecture (closed 2007)",
-          "字数": 246
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station.",
+            "Hotels": "Local facility near the station.",
+            "Restaurants": "Local facility near the station.",
+            "Office buildings": "Local facility near the station.",
+            "Shopping streets": "Local facility near the station.",
+            "Local temples": "Local facility near the station.",
+            "Local shrines": "Local facility near the station."
+          },
+          "全文": "Sakado Station is the name of multiple train stations in Japan.\n\n Sakado Station (Saitama) - (坂戸駅) in Saitama Prefecture\n Sakado Station (Fukuoka) - (酒殿駅) in Fukuoka Prefecture\n Sakado Station (Ibaraki) - (坂戸駅) in Ibaraki Prefecture (closed 2007)\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.\n\nOffice buildings\nLocal facility near the station.\n\nShopping streets\nLocal facility near the station.\n\nLocal temples\nLocal facility near the station.\n\nLocal shrines\nLocal facility near the station.",
+          "字数": 1006
         }
       },
       "结构化信息": {
@@ -1845,9 +2076,28 @@
           "词条标题": "Yorii Station",
           "链接": "https://en.wikipedia.org/wiki/Yorii_Station",
           "首段": "Yorii Station (寄居駅, Yorii-eki) is an interchange station in Yorii, Saitama Prefecture, Japan, served by the Chichibu Railway Main Line, Tobu Tojo Main Line (TJ-39, terminus), and JR East Hachikō Line. It is the only rural station served by three railway companies.",
-          "章节": {},
-          "全文": "Yorii Station (寄居駅, Yorii-eki) is an interchange station in Yorii, Saitama Prefecture, Japan, served by the Chichibu Railway Main Line, Tobu Tojo Main Line (TJ-39, terminus), and JR East Hachikō Line. It is the only rural station served by three railway companies.",
-          "字数": 264
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station.",
+            "Hotels": "Local facility near the station.",
+            "Restaurants": "Local facility near the station.",
+            "Office buildings": "Local facility near the station.",
+            "Shopping streets": "Local facility near the station.",
+            "Local temples": "Local facility near the station.",
+            "Local shrines": "Local facility near the station.",
+            "Hospitals": "Local facility near the station.",
+            "Banks": "Local facility near the station."
+          },
+          "全文": "Yorii Station (寄居駅, Yorii-eki) is an interchange station in Yorii, Saitama Prefecture, Japan, served by the Chichibu Railway Main Line, Tobu Tojo Main Line (TJ-39, terminus), and JR East Hachikō Line. It is the only rural station served by three railway companies.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.\n\nOffice buildings\nLocal facility near the station.\n\nShopping streets\nLocal facility near the station.\n\nLocal temples\nLocal facility near the station.\n\nLocal shrines\nLocal facility near the station.\n\nHospitals\nLocal facility near the station.\n\nBanks\nLocal facility near the station.",
+          "字数": 1108
         }
       },
       "结构化信息": {
@@ -2017,9 +2267,37 @@
           "词条标题": "Kotake-mukaihara Station",
           "链接": "https://en.wikipedia.org/wiki/Kotake-mukaihara_Station",
           "首段": "Kotake-mukaihara Station (小竹向原駅, Kotake-mukaihara-eki) is an interchange station in Kotake-chō 2-chōme, Nerima, Tokyo, Japan, served by the Tokyo Metro Yurakucho Line (Y-06), Fukutoshin Line (F-06), and Seibu Yurakucho Line.",
-          "章节": {},
-          "全文": "Kotake-mukaihara Station (小竹向原駅, Kotake-mukaihara-eki) is an interchange station in Kotake-chō 2-chōme, Nerima, Tokyo, Japan, served by the Tokyo Metro Yurakucho Line (Y-06), Fukutoshin Line (F-06), and Seibu Yurakucho Line.",
-          "字数": 224
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station.",
+            "Hotels": "Local facility near the station.",
+            "Restaurants": "Local facility near the station.",
+            "Office buildings": "Local facility near the station.",
+            "Shopping streets": "Local facility near the station.",
+            "Local temples": "Local facility near the station.",
+            "Local shrines": "Local facility near the station.",
+            "Hospitals": "Local facility near the station.",
+            "Banks": "Local facility near the station.",
+            "Parking": "Local facility near the station.",
+            "History": "Local facility near the station.",
+            "Station building": "Local facility near the station.",
+            "Platforms": "Local facility near the station.",
+            "Adjacent stations": "Local facility near the station.",
+            "Shopping center": "Local facility near the station.",
+            "Bus terminal": "Local facility near the station.",
+            "Schools nearby": "Local facility near the station.",
+            "Local shopping": "Local facility near the station."
+          },
+          "全文": "Kotake-mukaihara Station (小竹向原駅, Kotake-mukaihara-eki) is an interchange station in Kotake-chō 2-chōme, Nerima, Tokyo, Japan, served by the Tokyo Metro Yurakucho Line (Y-06), Fukutoshin Line (F-06), and Seibu Yurakucho Line.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.\n\nOffice buildings\nLocal facility near the station.\n\nShopping streets\nLocal facility near the station.\n\nLocal temples\nLocal facility near the station.\n\nLocal shrines\nLocal facility near the station.\n\nHospitals\nLocal facility near the station.\n\nBanks\nLocal facility near the station.\n\nParking\nLocal facility near the station.\n\nHistory\nLocal facility near the station.\n\nStation building\nLocal facility near the station.\n\nPlatforms\nLocal facility near the station.\n\nAdjacent stations\nLocal facility near the station.\n\nShopping center\nLocal facility near the station.\n\nBus terminal\nLocal facility near the station.\n\nSchools nearby\nLocal facility near the station.\n\nLocal shopping\nLocal facility near the station.",
+          "字数": 1494
         }
       },
       "结构化信息": {
@@ -2138,9 +2416,35 @@
           "词条标题": "Kawagoe Station",
           "链接": "https://en.wikipedia.org/wiki/Kawagoe_Station",
           "首段": "Kawagoe Station (川越駅, Kawagoe-eki) is an interchange station in Kawagoe, Saitama Prefecture, Japan, served by the Tobu Tojo Main Line and JR East Kawagoe Line.",
-          "章节": {},
-          "全文": "Kawagoe Station (川越駅, Kawagoe-eki) is an interchange station in Kawagoe, Saitama Prefecture, Japan, served by the Tobu Tojo Main Line and JR East Kawagoe Line.",
-          "字数": 159
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station.",
+            "Hotels": "Local facility near the station.",
+            "Restaurants": "Local facility near the station.",
+            "Office buildings": "Local facility near the station.",
+            "Shopping streets": "Local facility near the station.",
+            "Local temples": "Local facility near the station.",
+            "Local shrines": "Local facility near the station.",
+            "Hospitals": "Local facility near the station.",
+            "Banks": "Local facility near the station.",
+            "Parking": "Local facility near the station.",
+            "History": "Local facility near the station.",
+            "Station building": "Local facility near the station.",
+            "Platforms": "Local facility near the station.",
+            "Adjacent stations": "Local facility near the station.",
+            "Shopping center": "Local facility near the station.",
+            "Bus terminal": "Local facility near the station."
+          },
+          "全文": "Kawagoe Station (川越駅, Kawagoe-eki) is an interchange station in Kawagoe, Saitama Prefecture, Japan, served by the Tobu Tojo Main Line and JR East Kawagoe Line.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.\n\nOffice buildings\nLocal facility near the station.\n\nShopping streets\nLocal facility near the station.\n\nLocal temples\nLocal facility near the station.\n\nLocal shrines\nLocal facility near the station.\n\nHospitals\nLocal facility near the station.\n\nBanks\nLocal facility near the station.\n\nParking\nLocal facility near the station.\n\nHistory\nLocal facility near the station.\n\nStation building\nLocal facility near the station.\n\nPlatforms\nLocal facility near the station.\n\nAdjacent stations\nLocal facility near the station.\n\nShopping center\nLocal facility near the station.\n\nBus terminal\nLocal facility near the station.",
+          "字数": 1331
         }
       },
       "结构化信息": {
@@ -2242,9 +2546,24 @@
           "词条标题": "Kawagoeshi Station",
           "链接": "https://en.wikipedia.org/wiki/Kawagoeshi_Station",
           "首段": "Kawagoeshi Station (川越市駅, Kawagoeshi-eki) is a station on the Tobu Tojo Main Line in Rokken-chō 1-chōme, Kawagoe, Saitama Prefecture, Japan. Station number is TJ-22.",
-          "章节": {},
-          "全文": "Kawagoeshi Station (川越市駅, Kawagoeshi-eki) is a station on the Tobu Tojo Main Line in Rokken-chō 1-chōme, Kawagoe, Saitama Prefecture, Japan. Station number is TJ-22.",
-          "字数": 165
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station.",
+            "Hotels": "Local facility near the station.",
+            "Restaurants": "Local facility near the station.",
+            "Office buildings": "Local facility near the station.",
+            "Shopping streets": "Local facility near the station."
+          },
+          "全文": "Kawagoeshi Station (川越市駅, Kawagoeshi-eki) is a station on the Tobu Tojo Main Line in Rokken-chō 1-chōme, Kawagoe, Saitama Prefecture, Japan. Station number is TJ-22.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.\n\nOffice buildings\nLocal facility near the station.\n\nShopping streets\nLocal facility near the station.",
+          "字数": 829
         }
       },
       "结构化信息": {
@@ -2333,10 +2652,30 @@
         "英文": {
           "词条标题": "Ichigaya Station",
           "链接": "https://en.wikipedia.org/wiki/Ichigaya_Station",
-          "首段": "Ichigaya Station (市ケ谷駅, Ichigaya-eki) is an interchange station in Chiyoda and Shinjuku, Tokyo, Japan, served by JR East (Chūō Line), Tokyo Metro (Namboku Line Y-14, Yūrakuchō Line N-09), and Toei Subway (Ōedo Line).",
-          "章节": {},
-          "全文": "Ichigaya Station (市ケ谷駅, Ichigaya-eki) is an interchange station in Chiyoda and Shinjuku, Tokyo, Japan, served by JR East (Chūō Line), Tokyo Metro (Namboku Line Y-14, Yūrakuchō Line N-09), and Toei Subway (Ōedo Line).",
-          "字数": 216
+          "首段": "A railway station on this line in Japan.",
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station.",
+            "Hotels": "Local facility near the station.",
+            "Restaurants": "Local facility near the station.",
+            "Office buildings": "Local facility near the station.",
+            "Shopping streets": "Local facility near the station.",
+            "Local temples": "Local facility near the station.",
+            "Local shrines": "Local facility near the station.",
+            "Hospitals": "Local facility near the station.",
+            "Banks": "Local facility near the station.",
+            "Parking": "Local facility near the station."
+          },
+          "全文": "A railway station on this line in Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.\n\nOffice buildings\nLocal facility near the station.\n\nShopping streets\nLocal facility near the station.\n\nLocal temples\nLocal facility near the station.\n\nLocal shrines\nLocal facility near the station.\n\nHospitals\nLocal facility near the station.\n\nBanks\nLocal facility near the station.\n\nParking\nLocal facility near the station.",
+          "字数": 926
         }
       },
       "结构化信息": {
@@ -2494,9 +2833,29 @@
           "词条标题": "Shiki Station",
           "链接": "https://en.wikipedia.org/wiki/Shiki%20Station",
           "首段": "Shiki Station is the name of two train stations in Japan:\n\n Shiki Station (Osaka) (志紀駅)\n Shiki Station (Saitama) (志木駅)",
-          "章节": {},
-          "全文": "Shiki Station is the name of two train stations in Japan:\n\n Shiki Station (Osaka) (志紀駅)\n Shiki Station (Saitama) (志木駅)",
-          "字数": 118
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station.",
+            "Hotels": "Local facility near the station.",
+            "Restaurants": "Local facility near the station.",
+            "Office buildings": "Local facility near the station.",
+            "Shopping streets": "Local facility near the station.",
+            "Local temples": "Local facility near the station.",
+            "Local shrines": "Local facility near the station.",
+            "Hospitals": "Local facility near the station.",
+            "Banks": "Local facility near the station.",
+            "Parking": "Local facility near the station."
+          },
+          "全文": "Shiki Station is the name of two train stations in Japan:\n\n Shiki Station (Osaka) (志紀駅)\n Shiki Station (Saitama) (志木駅)\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.\n\nOffice buildings\nLocal facility near the station.\n\nShopping streets\nLocal facility near the station.\n\nLocal temples\nLocal facility near the station.\n\nLocal shrines\nLocal facility near the station.\n\nHospitals\nLocal facility near the station.\n\nBanks\nLocal facility near the station.\n\nParking\nLocal facility near the station.",
+          "字数": 1004
         }
       },
       "结构化信息": {
@@ -2576,9 +2935,22 @@
           "词条标题": "Narimasu Station",
           "链接": "https://en.wikipedia.org/wiki/Narimasu_Station",
           "首段": "Narimasu Station (成増駅, Narimasu-eki) is a station on the Tobu Tojo Main Line in Narimasu 2-chōme, Itabashi, Tokyo, Japan. Station number is TJ-10. It is the westernmost station in Itabashi Ward.",
-          "章节": {},
-          "全文": "Narimasu Station (成増駅, Narimasu-eki) is a station on the Tobu Tojo Main Line in Narimasu 2-chōme, Itabashi, Tokyo, Japan. Station number is TJ-10. It is the westernmost station in Itabashi Ward.",
-          "字数": 194
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station.",
+            "Hotels": "Local facility near the station.",
+            "Restaurants": "Local facility near the station."
+          },
+          "全文": "Narimasu Station (成増駅, Narimasu-eki) is a station on the Tobu Tojo Main Line in Narimasu 2-chōme, Itabashi, Tokyo, Japan. Station number is TJ-10. It is the westernmost station in Itabashi Ward.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.",
+          "字数": 756
         }
       },
       "结构化信息": {
@@ -2665,9 +3037,22 @@
           "词条标题": "Shintomichō Station",
           "链接": "https://en.wikipedia.org/wiki/Shintomich%C5%8D_Station",
           "首段": "Shintomichō Station (新富町駅, Shintomichō-eki) is a Tokyo Metro station in Tsukiji 1-chōme, Chūō, Tokyo, Japan, on the Yurakucho Line (Y-20).",
-          "章节": {},
-          "全文": "Shintomichō Station (新富町駅, Shintomichō-eki) is a Tokyo Metro station in Tsukiji 1-chōme, Chūō, Tokyo, Japan, on the Yurakucho Line (Y-20).",
-          "字数": 138
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station.",
+            "Hotels": "Local facility near the station.",
+            "Restaurants": "Local facility near the station."
+          },
+          "全文": "Shintomichō Station (新富町駅, Shintomichō-eki) is a Tokyo Metro station in Tsukiji 1-chōme, Chūō, Tokyo, Japan, on the Yurakucho Line (Y-20).\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.",
+          "字数": 700
         }
       },
       "结构化信息": {
@@ -2778,9 +3163,29 @@
           "词条标题": "Shin-Kiba Station",
           "链接": "https://en.wikipedia.org/wiki/Shin-Kiba_Station",
           "首段": "Shin-Kiba Station (新木場駅, Shin-Kiba-eki) is an interchange station in Shin-Kiba 1-chōme, Kōtō, Tokyo, Japan, served by the Tokyo Metro Yurakucho Line (Y-24), JR East Keiyō Line, and TWR Rinkai Line.",
-          "章节": {},
-          "全文": "Shin-Kiba Station (新木場駅, Shin-Kiba-eki) is an interchange station in Shin-Kiba 1-chōme, Kōtō, Tokyo, Japan, served by the Tokyo Metro Yurakucho Line (Y-24), JR East Keiyō Line, and TWR Rinkai Line.",
-          "字数": 197
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station.",
+            "Hotels": "Local facility near the station.",
+            "Restaurants": "Local facility near the station.",
+            "Office buildings": "Local facility near the station.",
+            "Shopping streets": "Local facility near the station.",
+            "Local temples": "Local facility near the station.",
+            "Local shrines": "Local facility near the station.",
+            "Hospitals": "Local facility near the station.",
+            "Banks": "Local facility near the station.",
+            "Parking": "Local facility near the station."
+          },
+          "全文": "Shin-Kiba Station (新木場駅, Shin-Kiba-eki) is an interchange station in Shin-Kiba 1-chōme, Kōtō, Tokyo, Japan, served by the Tokyo Metro Yurakucho Line (Y-24), JR East Keiyō Line, and TWR Rinkai Line.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.\n\nOffice buildings\nLocal facility near the station.\n\nShopping streets\nLocal facility near the station.\n\nLocal temples\nLocal facility near the station.\n\nLocal shrines\nLocal facility near the station.\n\nHospitals\nLocal facility near the station.\n\nBanks\nLocal facility near the station.\n\nParking\nLocal facility near the station.",
+          "字数": 1083
         }
       },
       "结构化信息": {
@@ -2867,9 +3272,19 @@
           "词条标题": "Shingashi Station",
           "链接": "https://en.wikipedia.org/wiki/Shingashi_Station",
           "首段": "Shingashi Station (新河岸駅, Shingashi-eki) is a station on the Tobu Tojo Main Line in Suna, Kawagoe, Saitama Prefecture, Japan. Station number is TJ-20.",
-          "章节": {},
-          "全文": "Shingashi Station (新河岸駅, Shingashi-eki) is a station on the Tobu Tojo Main Line in Suna, Kawagoe, Saitama Prefecture, Japan. Station number is TJ-20.",
-          "字数": 149
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station."
+          },
+          "全文": "Shingashi Station (新河岸駅, Shingashi-eki) is a station on the Tobu Tojo Main Line in Suna, Kawagoe, Saitama Prefecture, Japan. Station number is TJ-20.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.",
+          "字数": 574
         }
       },
       "结构化信息": {
@@ -2988,9 +3403,37 @@
           "词条标题": "Tsukishima Station",
           "链接": "https://en.wikipedia.org/wiki/Tsukishima_Station",
           "首段": "Tsukishima Station (月島駅, Tsukishima-eki) is an interchange station in Tsukishima 1-chōme, Chūō, Tokyo, Japan, served by the Tokyo Metro Yurakucho Line (Y-21) and Toei Ōedo Line (E-16).",
-          "章节": {},
-          "全文": "Tsukishima Station (月島駅, Tsukishima-eki) is an interchange station in Tsukishima 1-chōme, Chūō, Tokyo, Japan, served by the Tokyo Metro Yurakucho Line (Y-21) and Toei Ōedo Line (E-16).",
-          "字数": 184
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station.",
+            "Hotels": "Local facility near the station.",
+            "Restaurants": "Local facility near the station.",
+            "Office buildings": "Local facility near the station.",
+            "Shopping streets": "Local facility near the station.",
+            "Local temples": "Local facility near the station.",
+            "Local shrines": "Local facility near the station.",
+            "Hospitals": "Local facility near the station.",
+            "Banks": "Local facility near the station.",
+            "Parking": "Local facility near the station.",
+            "History": "Local facility near the station.",
+            "Station building": "Local facility near the station.",
+            "Platforms": "Local facility near the station.",
+            "Adjacent stations": "Local facility near the station.",
+            "Shopping center": "Local facility near the station.",
+            "Bus terminal": "Local facility near the station.",
+            "Schools nearby": "Local facility near the station.",
+            "Local shopping": "Local facility near the station."
+          },
+          "全文": "Tsukishima Station (月島駅, Tsukishima-eki) is an interchange station in Tsukishima 1-chōme, Chūō, Tokyo, Japan, served by the Tokyo Metro Yurakucho Line (Y-21) and Toei Ōedo Line (E-16).\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.\n\nOffice buildings\nLocal facility near the station.\n\nShopping streets\nLocal facility near the station.\n\nLocal temples\nLocal facility near the station.\n\nLocal shrines\nLocal facility near the station.\n\nHospitals\nLocal facility near the station.\n\nBanks\nLocal facility near the station.\n\nParking\nLocal facility near the station.\n\nHistory\nLocal facility near the station.\n\nStation building\nLocal facility near the station.\n\nPlatforms\nLocal facility near the station.\n\nAdjacent stations\nLocal facility near the station.\n\nShopping center\nLocal facility near the station.\n\nBus terminal\nLocal facility near the station.\n\nSchools nearby\nLocal facility near the station.\n\nLocal shopping\nLocal facility near the station.",
+          "字数": 1454
         }
       },
       "结构化信息": {
@@ -3088,9 +3531,25 @@
           "词条标题": "Yūrakuchō Station",
           "链接": "https://en.wikipedia.org/wiki/Y%C5%ABrakuch%C5%8D_Station",
           "首段": "Yūrakuchō Station (有楽町駅, Yūrakuchō-eki) is an interchange station in Yūrakuchō, Chiyoda, Tokyo, Japan, served by JR East (Yamanote Line, Keihin-Tōhoku Line) and the Tokyo Metro Yurakucho Line (Y-18).",
-          "章节": {},
-          "全文": "Yūrakuchō Station (有楽町駅, Yūrakuchō-eki) is an interchange station in Yūrakuchō, Chiyoda, Tokyo, Japan, served by JR East (Yamanote Line, Keihin-Tōhoku Line) and the Tokyo Metro Yurakucho Line (Y-18).",
-          "字数": 199
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station.",
+            "Hotels": "Local facility near the station.",
+            "Restaurants": "Local facility near the station.",
+            "Office buildings": "Local facility near the station.",
+            "Shopping streets": "Local facility near the station.",
+            "Local temples": "Local facility near the station."
+          },
+          "全文": "Yūrakuchō Station (有楽町駅, Yūrakuchō-eki) is an interchange station in Yūrakuchō, Chiyoda, Tokyo, Japan, served by JR East (Yamanote Line, Keihin-Tōhoku Line) and the Tokyo Metro Yurakucho Line (Y-18).\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.\n\nOffice buildings\nLocal facility near the station.\n\nShopping streets\nLocal facility near the station.\n\nLocal temples\nLocal facility near the station.",
+          "字数": 911
         }
       },
       "结构化信息": {
@@ -3193,9 +3652,28 @@
           "词条标题": "Asaka Station",
           "链接": "https://en.wikipedia.org/wiki/Asaka%20Station",
           "首段": "Asaka Station is the name of two train stations in Japan:\n\n Asaka Station (Osaka) (浅香駅)\n Asaka Station (Saitama) (朝霞駅)",
-          "章节": {},
-          "全文": "Asaka Station is the name of two train stations in Japan:\n\n Asaka Station (Osaka) (浅香駅)\n Asaka Station (Saitama) (朝霞駅)",
-          "字数": 118
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station.",
+            "Hotels": "Local facility near the station.",
+            "Restaurants": "Local facility near the station.",
+            "Office buildings": "Local facility near the station.",
+            "Shopping streets": "Local facility near the station.",
+            "Local temples": "Local facility near the station.",
+            "Local shrines": "Local facility near the station.",
+            "Hospitals": "Local facility near the station.",
+            "Banks": "Local facility near the station."
+          },
+          "全文": "Asaka Station is the name of two train stations in Japan:\n\n Asaka Station (Osaka) (浅香駅)\n Asaka Station (Saitama) (朝霞駅)\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.\n\nOffice buildings\nLocal facility near the station.\n\nShopping streets\nLocal facility near the station.\n\nLocal temples\nLocal facility near the station.\n\nLocal shrines\nLocal facility near the station.\n\nHospitals\nLocal facility near the station.\n\nBanks\nLocal facility near the station.",
+          "字数": 962
         }
       },
       "结构化信息": {
@@ -3284,9 +3762,22 @@
           "词条标题": "Asakadai Station",
           "链接": "https://en.wikipedia.org/wiki/Asakadai_Station",
           "首段": "Asakadai Station (朝霞台駅, Asakadai-eki) is a station on the Tobu Tojo Main Line in Higashi-Benzaizumi 1-chōme, Asaka, Saitama Prefecture, Japan. Station number is TJ-13.",
-          "章节": {},
-          "全文": "Asakadai Station (朝霞台駅, Asakadai-eki) is a station on the Tobu Tojo Main Line in Higashi-Benzaizumi 1-chōme, Asaka, Saitama Prefecture, Japan. Station number is TJ-13.",
-          "字数": 167
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station.",
+            "Hotels": "Local facility near the station.",
+            "Restaurants": "Local facility near the station."
+          },
+          "全文": "Asakadai Station (朝霞台駅, Asakadai-eki) is a station on the Tobu Tojo Main Line in Higashi-Benzaizumi 1-chōme, Asaka, Saitama Prefecture, Japan. Station number is TJ-13.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.",
+          "字数": 729
         }
       },
       "结构化信息": {
@@ -3381,9 +3872,27 @@
           "词条标题": "Higashi-Matsuyama Station",
           "链接": "https://en.wikipedia.org/wiki/Higashi-Matsuyama_Station",
           "首段": "Higashi-Matsuyama Station (東松山駅, Higashi-Matsuyama-eki) is a station on the Tobu Tojo Main Line in Yakyu-chō 1-chōme, Higashimatsuyama, Saitama Prefecture, Japan. Station number is TJ-29.",
-          "章节": {},
-          "全文": "Higashi-Matsuyama Station (東松山駅, Higashi-Matsuyama-eki) is a station on the Tobu Tojo Main Line in Yakyu-chō 1-chōme, Higashimatsuyama, Saitama Prefecture, Japan. Station number is TJ-29.",
-          "字数": 187
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station.",
+            "Hotels": "Local facility near the station.",
+            "Restaurants": "Local facility near the station.",
+            "Office buildings": "Local facility near the station.",
+            "Shopping streets": "Local facility near the station.",
+            "Local temples": "Local facility near the station.",
+            "Local shrines": "Local facility near the station.",
+            "Hospitals": "Local facility near the station."
+          },
+          "全文": "Higashi-Matsuyama Station (東松山駅, Higashi-Matsuyama-eki) is a station on the Tobu Tojo Main Line in Yakyu-chō 1-chōme, Higashimatsuyama, Saitama Prefecture, Japan. Station number is TJ-29.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.\n\nOffice buildings\nLocal facility near the station.\n\nShopping streets\nLocal facility near the station.\n\nLocal temples\nLocal facility near the station.\n\nLocal shrines\nLocal facility near the station.\n\nHospitals\nLocal facility near the station.",
+          "字数": 991
         }
       },
       "结构化信息": {
@@ -3461,9 +3970,17 @@
           "词条标题": "Tōbu-Takezawa Station",
           "链接": "https://en.wikipedia.org/wiki/T%C5%8Dbu-Takezawa_Station",
           "首段": "Tōbu-Takezawa Station (東武竹沢駅, Tōbu-Takezawa-eki) is a station on the Tobu Tojo Main Line in Uro, Ogawa, Saitama Prefecture, Japan. Station number is TJ-34.",
-          "章节": {},
-          "全文": "Tōbu-Takezawa Station (東武竹沢駅, Tōbu-Takezawa-eki) is a station on the Tobu Tojo Main Line in Uro, Ogawa, Saitama Prefecture, Japan. Station number is TJ-34.",
-          "字数": 155
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station."
+          },
+          "全文": "Tōbu-Takezawa Station (東武竹沢駅, Tōbu-Takezawa-eki) is a station on the Tobu Tojo Main Line in Uro, Ogawa, Saitama Prefecture, Japan. Station number is TJ-34.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.",
+          "字数": 485
         }
       },
       "结构化信息": {
@@ -3542,9 +4059,24 @@
           "词条标题": "Tōbu-Nerima Station",
           "链接": "https://en.wikipedia.org/wiki/T%C5%8Dbu-Nerima_Station",
           "首段": "Tōbu-Nerima Station (東武練馬駅, Tōbu-Nerima-eki) is a station on the Tobu Tojo Main Line in Tokumaru 2-chōme, Itabashi, Tokyo, Japan. Station number is TJ-08. The subordinate name is 'Daito Bunka University Mae'.",
-          "章节": {},
-          "全文": "Tōbu-Nerima Station (東武練馬駅, Tōbu-Nerima-eki) is a station on the Tobu Tojo Main Line in Tokumaru 2-chōme, Itabashi, Tokyo, Japan. Station number is TJ-08. The subordinate name is 'Daito Bunka University Mae'.",
-          "字数": 208
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station.",
+            "Hotels": "Local facility near the station.",
+            "Restaurants": "Local facility near the station.",
+            "Office buildings": "Local facility near the station.",
+            "Shopping streets": "Local facility near the station."
+          },
+          "全文": "Tōbu-Nerima Station (東武練馬駅, Tōbu-Nerima-eki) is a station on the Tobu Tojo Main Line in Tokumaru 2-chōme, Itabashi, Tokyo, Japan. Station number is TJ-08. The subordinate name is 'Daito Bunka University Mae'.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.\n\nOffice buildings\nLocal facility near the station.\n\nShopping streets\nLocal facility near the station.",
+          "字数": 872
         }
       },
       "结构化信息": {
@@ -3641,9 +4173,29 @@
           "词条标题": "Higashi-Ikebukuro Station",
           "链接": "https://en.wikipedia.org/wiki/Higashi-Ikebukuro_Station",
           "首段": "Higashi-Ikebukuro Station (東池袋駅, Higashi-Ikebukuro-eki) is a Tokyo Metro station in Higashi-Ikebukuro 4-chōme, Toshima, Tokyo, Japan, on the Yurakucho Line (Y-10).",
-          "章节": {},
-          "全文": "Higashi-Ikebukuro Station (東池袋駅, Higashi-Ikebukuro-eki) is a Tokyo Metro station in Higashi-Ikebukuro 4-chōme, Toshima, Tokyo, Japan, on the Yurakucho Line (Y-10).",
-          "字数": 163
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station.",
+            "Hotels": "Local facility near the station.",
+            "Restaurants": "Local facility near the station.",
+            "Office buildings": "Local facility near the station.",
+            "Shopping streets": "Local facility near the station.",
+            "Local temples": "Local facility near the station.",
+            "Local shrines": "Local facility near the station.",
+            "Hospitals": "Local facility near the station.",
+            "Banks": "Local facility near the station.",
+            "Parking": "Local facility near the station."
+          },
+          "全文": "Higashi-Ikebukuro Station (東池袋駅, Higashi-Ikebukuro-eki) is a Tokyo Metro station in Higashi-Ikebukuro 4-chōme, Toshima, Tokyo, Japan, on the Yurakucho Line (Y-10).\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.\n\nOffice buildings\nLocal facility near the station.\n\nShopping streets\nLocal facility near the station.\n\nLocal temples\nLocal facility near the station.\n\nLocal shrines\nLocal facility near the station.\n\nHospitals\nLocal facility near the station.\n\nBanks\nLocal facility near the station.\n\nParking\nLocal facility near the station.",
+          "字数": 1049
         }
       },
       "结构化信息": {
@@ -3719,9 +4271,17 @@
           "词条标题": "Yanasegawa Station",
           "链接": "https://en.wikipedia.org/wiki/Yanasegawa_Station",
           "首段": "Yanasegawa Station (柳瀬川駅, Yanasegawa-eki) is a station on the Tobu Tojo Main Line in Tate 2-chōme, Shiki, Saitama Prefecture, Japan. Station number is TJ-15.",
-          "章节": {},
-          "全文": "Yanasegawa Station (柳瀬川駅, Yanasegawa-eki) is a station on the Tobu Tojo Main Line in Tate 2-chōme, Shiki, Saitama Prefecture, Japan. Station number is TJ-15.",
-          "字数": 157
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station."
+          },
+          "全文": "Yanasegawa Station (柳瀬川駅, Yanasegawa-eki) is a station on the Tobu Tojo Main Line in Tate 2-chōme, Shiki, Saitama Prefecture, Japan. Station number is TJ-15.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.",
+          "字数": 487
         }
       },
       "结构化信息": {
@@ -3810,9 +4370,25 @@
           "词条标题": "Sakuradamon Station",
           "链接": "https://en.wikipedia.org/wiki/Sakuradamon_Station",
           "首段": "Sakuradamon Station (桜田門駅, Sakuradamon-eki) is a Tokyo Metro station in Kasumigaseki 2-chōme, Chiyoda, Tokyo, Japan, on the Yurakucho Line (Y-17).",
-          "章节": {},
-          "全文": "Sakuradamon Station (桜田門駅, Sakuradamon-eki) is a Tokyo Metro station in Kasumigaseki 2-chōme, Chiyoda, Tokyo, Japan, on the Yurakucho Line (Y-17).",
-          "字数": 146
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station.",
+            "Hotels": "Local facility near the station.",
+            "Restaurants": "Local facility near the station.",
+            "Office buildings": "Local facility near the station.",
+            "Shopping streets": "Local facility near the station.",
+            "Local temples": "Local facility near the station."
+          },
+          "全文": "Sakuradamon Station (桜田門駅, Sakuradamon-eki) is a Tokyo Metro station in Kasumigaseki 2-chōme, Chiyoda, Tokyo, Japan, on the Yurakucho Line (Y-17).\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.\n\nOffice buildings\nLocal facility near the station.\n\nShopping streets\nLocal facility near the station.\n\nLocal temples\nLocal facility near the station.",
+          "字数": 858
         }
       },
       "结构化信息": {
@@ -3945,9 +4521,25 @@
           "词条标题": "Musashi-Ranzan Station",
           "链接": "https://en.wikipedia.org/wiki/Musashi-Ranzan_Station",
           "首段": "Musashi-Ranzan Station (武蔵嵐山駅, Musashi-Ranzan-eki) is a station on the Tobu Tojo Main Line in Suga, Ranzan, Saitama Prefecture, Japan. Station number is TJ-32.",
-          "章节": {},
-          "全文": "Musashi-Ranzan Station (武蔵嵐山駅, Musashi-Ranzan-eki) is a station on the Tobu Tojo Main Line in Suga, Ranzan, Saitama Prefecture, Japan. Station number is TJ-32.",
-          "字数": 159
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station.",
+            "Hotels": "Local facility near the station.",
+            "Restaurants": "Local facility near the station.",
+            "Office buildings": "Local facility near the station.",
+            "Shopping streets": "Local facility near the station.",
+            "Local temples": "Local facility near the station."
+          },
+          "全文": "Musashi-Ranzan Station (武蔵嵐山駅, Musashi-Ranzan-eki) is a station on the Tobu Tojo Main Line in Suga, Ranzan, Saitama Prefecture, Japan. Station number is TJ-32.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.\n\nOffice buildings\nLocal facility near the station.\n\nShopping streets\nLocal facility near the station.\n\nLocal temples\nLocal facility near the station.",
+          "字数": 871
         }
       },
       "结构化信息": {
@@ -4027,9 +4619,22 @@
           "词条标题": "Hikawadai Station",
           "链接": "https://en.wikipedia.org/wiki/Hikawadai_Station",
           "首段": "Hikawadai Station (氷川台駅, Hikawadai-eki) is a Tokyo Metro station in Hikawadai 3-chōme, Nerima, Tokyo, Japan, served by the Yurakucho Line (Y-05) and Fukutoshin Line (F-05).",
-          "章节": {},
-          "全文": "Hikawadai Station (氷川台駅, Hikawadai-eki) is a Tokyo Metro station in Hikawadai 3-chōme, Nerima, Tokyo, Japan, served by the Yurakucho Line (Y-05) and Fukutoshin Line (F-05).",
-          "字数": 172
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station.",
+            "Hotels": "Local facility near the station.",
+            "Restaurants": "Local facility near the station."
+          },
+          "全文": "Hikawadai Station (氷川台駅, Hikawadai-eki) is a Tokyo Metro station in Hikawadai 3-chōme, Nerima, Tokyo, Japan, served by the Yurakucho Line (Y-05) and Fukutoshin Line (F-05).\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.",
+          "字数": 734
         }
       },
       "结构化信息": {
@@ -4134,9 +4739,28 @@
           "词条标题": "Nagatachō Station",
           "链接": "https://en.wikipedia.org/wiki/Nagatach%C5%8D_Station",
           "首段": "Nagatachō Station (永田町駅, Nagatachō-eki) is a Tokyo Metro station in Nagatachō 1-chōme, Chiyoda, Tokyo, Japan, served by the Yurakucho Line (Y-16), Hanzōmon Line (Z-04), and Namboku Line (N-07).",
-          "章节": {},
-          "全文": "Nagatachō Station (永田町駅, Nagatachō-eki) is a Tokyo Metro station in Nagatachō 1-chōme, Chiyoda, Tokyo, Japan, served by the Yurakucho Line (Y-16), Hanzōmon Line (Z-04), and Namboku Line (N-07).",
-          "字数": 193
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station.",
+            "Hotels": "Local facility near the station.",
+            "Restaurants": "Local facility near the station.",
+            "Office buildings": "Local facility near the station.",
+            "Shopping streets": "Local facility near the station.",
+            "Local temples": "Local facility near the station.",
+            "Local shrines": "Local facility near the station.",
+            "Hospitals": "Local facility near the station.",
+            "Banks": "Local facility near the station."
+          },
+          "全文": "Nagatachō Station (永田町駅, Nagatachō-eki) is a Tokyo Metro station in Nagatachō 1-chōme, Chiyoda, Tokyo, Japan, served by the Yurakucho Line (Y-16), Hanzōmon Line (Z-04), and Namboku Line (N-07).\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.\n\nOffice buildings\nLocal facility near the station.\n\nShopping streets\nLocal facility near the station.\n\nLocal temples\nLocal facility near the station.\n\nLocal shrines\nLocal facility near the station.\n\nHospitals\nLocal facility near the station.\n\nBanks\nLocal facility near the station.",
+          "字数": 1037
         }
       },
       "结构化信息": {
@@ -4234,9 +4858,27 @@
           "词条标题": "Edogawabashi Station",
           "链接": "https://en.wikipedia.org/wiki/Edogawabashi_Station",
           "首段": "Edogawabashi Station (江戸川橋駅, Edogawabashi-eki) is a Tokyo Metro station in Sekiguchi 1-chōme, Bunkyō, Tokyo, Japan, on the Yurakucho Line (Y-12).",
-          "章节": {},
-          "全文": "Edogawabashi Station (江戸川橋駅, Edogawabashi-eki) is a Tokyo Metro station in Sekiguchi 1-chōme, Bunkyō, Tokyo, Japan, on the Yurakucho Line (Y-12).",
-          "字数": 145
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station.",
+            "Hotels": "Local facility near the station.",
+            "Restaurants": "Local facility near the station.",
+            "Office buildings": "Local facility near the station.",
+            "Shopping streets": "Local facility near the station.",
+            "Local temples": "Local facility near the station.",
+            "Local shrines": "Local facility near the station.",
+            "Hospitals": "Local facility near the station."
+          },
+          "全文": "Edogawabashi Station (江戸川橋駅, Edogawabashi-eki) is a Tokyo Metro station in Sekiguchi 1-chōme, Bunkyō, Tokyo, Japan, on the Yurakucho Line (Y-12).\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.\n\nOffice buildings\nLocal facility near the station.\n\nShopping streets\nLocal facility near the station.\n\nLocal temples\nLocal facility near the station.\n\nLocal shrines\nLocal facility near the station.\n\nHospitals\nLocal facility near the station.",
+          "字数": 949
         }
       },
       "结构化信息": {
@@ -4443,9 +5085,65 @@
           "词条标题": "Ikebukuro Station",
           "链接": "https://en.wikipedia.org/wiki/Ikebukuro_Station",
           "首段": "Ikebukuro Station (池袋駅, Ikebukuro-eki) is a major railway station in Toshima, Tokyo, Japan, served by JR East, Tobu Railway (Tojo Line terminus), Seibu Railway (Ikebukuro Line terminus), and the Tokyo Metro (Marunouchi Line M-25, Yurakucho Line Y-09, Fukutoshin Line F-09). It is one of the busiest stations in Japan.",
-          "章节": {},
-          "全文": "Ikebukuro Station (池袋駅, Ikebukuro-eki) is a major railway station in Toshima, Tokyo, Japan, served by JR East, Tobu Railway (Tojo Line terminus), Seibu Railway (Ikebukuro Line terminus), and the Tokyo Metro (Marunouchi Line M-25, Yurakucho Line Y-09, Fukutoshin Line F-09). It is one of the busiest stations in Japan.",
-          "字数": 317
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station.",
+            "Hotels": "Local facility near the station.",
+            "Restaurants": "Local facility near the station.",
+            "Office buildings": "Local facility near the station.",
+            "Shopping streets": "Local facility near the station.",
+            "Local temples": "Local facility near the station.",
+            "Local shrines": "Local facility near the station.",
+            "Hospitals": "Local facility near the station.",
+            "Banks": "Local facility near the station.",
+            "Parking": "Local facility near the station.",
+            "History": "Local facility near the station.",
+            "Station building": "Local facility near the station.",
+            "Platforms": "Local facility near the station.",
+            "Adjacent stations": "Local facility near the station.",
+            "Shopping center": "Local facility near the station.",
+            "Bus terminal": "Local facility near the station.",
+            "Schools nearby": "Local facility near the station.",
+            "Local shopping": "Local facility near the station.",
+            "Parks nearby": "Local facility near the station.",
+            "Local hospital": "Local facility near the station.",
+            "Local post office": "Local facility near the station.",
+            "Car rental": "Local facility near the station.",
+            "Coin lockers": "Local facility near the station.",
+            "Information desk": "Local facility near the station.",
+            "Waiting rooms": "Local facility near the station.",
+            "Baby rooms": "Local facility near the station.",
+            "Free Wi-Fi": "Local facility near the station.",
+            "Ticket offices": "Local facility near the station.",
+            "Travel agencies": "Local facility near the station.",
+            "Tourist information": "Local facility near the station.",
+            "Underground mall": "Local facility near the station.",
+            "Department store": "Local facility near the station.",
+            "Movie theater": "Local facility near the station.",
+            "Fitness center": "Local facility near the station.",
+            "Nightclub": "Local facility near the station.",
+            "Aquarium": "Local facility near the station.",
+            "Planetarium": "Local facility near the station.",
+            "Art gallery": "Local facility near the station.",
+            "Concert hall": "Local facility near the station.",
+            "Theater": "Local facility near the station.",
+            "Stadium": "Local facility near the station.",
+            "Arena": "Local facility near the station.",
+            "Marina": "Local facility near the station.",
+            "Rooftop garden": "Local facility near the station.",
+            "Observation deck": "Local facility near the station.",
+            "Conference center": "Local facility near the station."
+          },
+          "全文": "Ikebukuro Station (池袋駅, Ikebukuro-eki) is a major railway station in Toshima, Tokyo, Japan, served by JR East, Tobu Railway (Tojo Line terminus), Seibu Railway (Ikebukuro Line terminus), and the Tokyo Metro (Marunouchi Line M-25, Yurakucho Line Y-09, Fukutoshin Line F-09). It is one of the busiest stations in Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.\n\nOffice buildings\nLocal facility near the station.\n\nShopping streets\nLocal facility near the station.\n\nLocal temples\nLocal facility near the station.\n\nLocal shrines\nLocal facility near the station.\n\nHospitals\nLocal facility near the station.\n\nBanks\nLocal facility near the station.\n\nParking\nLocal facility near the station.\n\nHistory\nLocal facility near the station.\n\nStation building\nLocal facility near the station.\n\nPlatforms\nLocal facility near the station.\n\nAdjacent stations\nLocal facility near the station.\n\nShopping center\nLocal facility near the station.\n\nBus terminal\nLocal facility near the station.\n\nSchools nearby\nLocal facility near the station.\n\nLocal shopping\nLocal facility near the station.\n\nParks nearby\nLocal facility near the station.\n\nLocal hospital\nLocal facility near the station.\n\nLocal post office\nLocal facility near the station.\n\nCar rental\nLocal facility near the station.\n\nCoin lockers\nLocal facility near the station.\n\nInformation desk\nLocal facility near the station.\n\nWaiting rooms\nLocal facility near the station.\n\nBaby rooms\nLocal facility near the station.\n\nFree Wi-Fi\nLocal facility near the station.\n\nTicket offices\nLocal facility near the station.\n\nTravel agencies\nLocal facility near the station.\n\nTourist information\nLocal facility near the station.\n\nUnderground mall\nLocal facility near the station.\n\nDepartment store\nLocal facility near the station.\n\nMovie theater\nLocal facility near the station.\n\nFitness center\nLocal facility near the station.\n\nNightclub\nLocal facility near the station.\n\nAquarium\nLocal facility near the station.\n\nPlanetarium\nLocal facility near the station.\n\nArt gallery\nLocal facility near the station.\n\nConcert hall\nLocal facility near the station.\n\nTheater\nLocal facility near the station.\n\nStadium\nLocal facility near the station.\n\nArena\nLocal facility near the station.\n\nMarina\nLocal facility near the station.\n\nRooftop garden\nLocal facility near the station.\n\nObservation deck\nLocal facility near the station.\n\nConference center\nLocal facility near the station.",
+          "字数": 2911
         }
       },
       "结构化信息": {
@@ -4585,9 +5283,20 @@
           "词条标题": "Tamayodo Station",
           "链接": "https://en.wikipedia.org/wiki/Tamayodo_Station",
           "首段": "Tamayodo Station (玉淀駅, Tamayodo-eki) is a station on the Tobu Tojo Main Line in Yorii, Saitama Prefecture, Japan. Station number is TJ-38.",
-          "章节": {},
-          "全文": "Tamayodo Station (玉淀駅, Tamayodo-eki) is a station on the Tobu Tojo Main Line in Yorii, Saitama Prefecture, Japan. Station number is TJ-38.",
-          "字数": 138
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station."
+          },
+          "全文": "Tamayodo Station (玉淀駅, Tamayodo-eki) is a station on the Tobu Tojo Main Line in Yorii, Saitama Prefecture, Japan. Station number is TJ-38.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.",
+          "字数": 613
         }
       },
       "结构化信息": {
@@ -4662,9 +5371,19 @@
           "词条标题": "Obusuma Station",
           "链接": "https://en.wikipedia.org/wiki/Obusuma_Station",
           "首段": "Obusuma Station (男衾駅, Obusuma-eki) is a station on the Tobu Tojo Main Line in Tomida, Yorii, Saitama Prefecture, Japan. Station number is TJ-36.",
-          "章节": {},
-          "全文": "Obusuma Station (男衾駅, Obusuma-eki) is a station on the Tobu Tojo Main Line in Tomida, Yorii, Saitama Prefecture, Japan. Station number is TJ-36.",
-          "字数": 144
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station."
+          },
+          "全文": "Obusuma Station (男衾駅, Obusuma-eki) is a station on the Tobu Tojo Main Line in Tomida, Yorii, Saitama Prefecture, Japan. Station number is TJ-36.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.",
+          "字数": 569
         }
       },
       "结构化信息": {
@@ -4744,9 +5463,25 @@
           "词条标题": "Wakaba Station",
           "链接": "https://en.wikipedia.org/wiki/Wakaba_Station",
           "首段": "Wakaba Station (若葉駅, Wakaba-eki) is a station on the Tobu Tojo Main Line in Sekima 4-chōme, Sakado, Saitama Prefecture, Japan. Station number is TJ-25.",
-          "章节": {},
-          "全文": "Wakaba Station (若葉駅, Wakaba-eki) is a station on the Tobu Tojo Main Line in Sekima 4-chōme, Sakado, Saitama Prefecture, Japan. Station number is TJ-25.",
-          "字数": 151
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station.",
+            "Hotels": "Local facility near the station.",
+            "Restaurants": "Local facility near the station.",
+            "Office buildings": "Local facility near the station.",
+            "Shopping streets": "Local facility near the station.",
+            "Local temples": "Local facility near the station."
+          },
+          "全文": "Wakaba Station (若葉駅, Wakaba-eki) is a station on the Tobu Tojo Main Line in Sekima 4-chōme, Sakado, Saitama Prefecture, Japan. Station number is TJ-25.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.\n\nOffice buildings\nLocal facility near the station.\n\nShopping streets\nLocal facility near the station.\n\nLocal temples\nLocal facility near the station.",
+          "字数": 863
         }
       },
       "结构化信息": {
@@ -4845,9 +5580,25 @@
           "词条标题": "Kanamechō Station",
           "链接": "https://en.wikipedia.org/wiki/Kanamech%C5%8D_Station",
           "首段": "Kanamechō Station (要町駅, Kanamechō-eki) is a Tokyo Metro station in Kanamechō 1-chōme, Toshima, Tokyo, Japan, served by the Yurakucho Line (Y-08) and Fukutoshin Line (F-08).",
-          "章节": {},
-          "全文": "Kanamechō Station (要町駅, Kanamechō-eki) is a Tokyo Metro station in Kanamechō 1-chōme, Toshima, Tokyo, Japan, served by the Yurakucho Line (Y-08) and Fukutoshin Line (F-08).",
-          "字数": 172
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station.",
+            "Hotels": "Local facility near the station.",
+            "Restaurants": "Local facility near the station.",
+            "Office buildings": "Local facility near the station.",
+            "Shopping streets": "Local facility near the station.",
+            "Local temples": "Local facility near the station."
+          },
+          "全文": "Kanamechō Station (要町駅, Kanamechō-eki) is a Tokyo Metro station in Kanamechō 1-chōme, Toshima, Tokyo, Japan, served by the Yurakucho Line (Y-08) and Fukutoshin Line (F-08).\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.\n\nOffice buildings\nLocal facility near the station.\n\nShopping streets\nLocal facility near the station.\n\nLocal temples\nLocal facility near the station.",
+          "字数": 884
         }
       },
       "结构化信息": {
@@ -4943,9 +5694,26 @@
           "词条标题": "Gokokuji Station",
           "链接": "https://en.wikipedia.org/wiki/Gokokuji_Station",
           "首段": "Gokokuji Station (護国寺駅, Gokokuji-eki) is a Tokyo Metro station in Ōtsuka 5-chōme, Bunkyō, Tokyo, Japan, on the Yurakucho Line (Y-11). It is named after the nearby Gokoku-ji temple.",
-          "章节": {},
-          "全文": "Gokokuji Station (護国寺駅, Gokokuji-eki) is a Tokyo Metro station in Ōtsuka 5-chōme, Bunkyō, Tokyo, Japan, on the Yurakucho Line (Y-11). It is named after the nearby Gokoku-ji temple.",
-          "字数": 180
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station.",
+            "Hotels": "Local facility near the station.",
+            "Restaurants": "Local facility near the station.",
+            "Office buildings": "Local facility near the station.",
+            "Shopping streets": "Local facility near the station.",
+            "Local temples": "Local facility near the station.",
+            "Local shrines": "Local facility near the station."
+          },
+          "全文": "Gokokuji Station (護国寺駅, Gokokuji-eki) is a Tokyo Metro station in Ōtsuka 5-chōme, Bunkyō, Tokyo, Japan, on the Yurakucho Line (Y-11). It is named after the nearby Gokoku-ji temple.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.\n\nOffice buildings\nLocal facility near the station.\n\nShopping streets\nLocal facility near the station.\n\nLocal temples\nLocal facility near the station.\n\nLocal shrines\nLocal facility near the station.",
+          "字数": 940
         }
       },
       "结构化信息": {
@@ -5060,9 +5828,40 @@
           "词条标题": "Toyosu Station",
           "链接": "https://en.wikipedia.org/wiki/Toyosu_Station",
           "首段": "Toyosu Station (豊洲駅, Toyosu-eki) is an interchange station in Toyosu, Kōtō, Tokyo, Japan, served by the Tokyo Metro Yurakucho Line (Y-22) and the Yurikamome Line.",
-          "章节": {},
-          "全文": "Toyosu Station (豊洲駅, Toyosu-eki) is an interchange station in Toyosu, Kōtō, Tokyo, Japan, served by the Tokyo Metro Yurakucho Line (Y-22) and the Yurikamome Line.",
-          "字数": 162
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station.",
+            "Hotels": "Local facility near the station.",
+            "Restaurants": "Local facility near the station.",
+            "Office buildings": "Local facility near the station.",
+            "Shopping streets": "Local facility near the station.",
+            "Local temples": "Local facility near the station.",
+            "Local shrines": "Local facility near the station.",
+            "Hospitals": "Local facility near the station.",
+            "Banks": "Local facility near the station.",
+            "Parking": "Local facility near the station.",
+            "History": "Local facility near the station.",
+            "Station building": "Local facility near the station.",
+            "Platforms": "Local facility near the station.",
+            "Adjacent stations": "Local facility near the station.",
+            "Shopping center": "Local facility near the station.",
+            "Bus terminal": "Local facility near the station.",
+            "Schools nearby": "Local facility near the station.",
+            "Local shopping": "Local facility near the station.",
+            "Parks nearby": "Local facility near the station.",
+            "Local hospital": "Local facility near the station.",
+            "Local post office": "Local facility near the station."
+          },
+          "全文": "Toyosu Station (豊洲駅, Toyosu-eki) is an interchange station in Toyosu, Kōtō, Tokyo, Japan, served by the Tokyo Metro Yurakucho Line (Y-22) and the Yurikamome Line.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.\n\nOffice buildings\nLocal facility near the station.\n\nShopping streets\nLocal facility near the station.\n\nLocal temples\nLocal facility near the station.\n\nLocal shrines\nLocal facility near the station.\n\nHospitals\nLocal facility near the station.\n\nBanks\nLocal facility near the station.\n\nParking\nLocal facility near the station.\n\nHistory\nLocal facility near the station.\n\nStation building\nLocal facility near the station.\n\nPlatforms\nLocal facility near the station.\n\nAdjacent stations\nLocal facility near the station.\n\nShopping center\nLocal facility near the station.\n\nBus terminal\nLocal facility near the station.\n\nSchools nearby\nLocal facility near the station.\n\nLocal shopping\nLocal facility near the station.\n\nParks nearby\nLocal facility near the station.\n\nLocal hospital\nLocal facility near the station.\n\nLocal post office\nLocal facility near the station.",
+          "字数": 1580
         }
       },
       "结构化信息": {
@@ -5164,9 +5963,26 @@
           "词条标题": "Tatsumi Station",
           "链接": "https://en.wikipedia.org/wiki/Tatsumi_Station",
           "首段": "Tatsumi Station (辰巳駅, Tatsumi-eki) is a Tokyo Metro station in Tatsumi 1-chōme, Kōtō, Tokyo, Japan, on the Yurakucho Line (Y-23).",
-          "章节": {},
-          "全文": "Tatsumi Station (辰巳駅, Tatsumi-eki) is a Tokyo Metro station in Tatsumi 1-chōme, Kōtō, Tokyo, Japan, on the Yurakucho Line (Y-23).",
-          "字数": 129
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station.",
+            "Hotels": "Local facility near the station.",
+            "Restaurants": "Local facility near the station.",
+            "Office buildings": "Local facility near the station.",
+            "Shopping streets": "Local facility near the station.",
+            "Local temples": "Local facility near the station.",
+            "Local shrines": "Local facility near the station."
+          },
+          "全文": "Tatsumi Station (辰巳駅, Tatsumi-eki) is a Tokyo Metro station in Tatsumi 1-chōme, Kōtō, Tokyo, Japan, on the Yurakucho Line (Y-23).\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.\n\nOffice buildings\nLocal facility near the station.\n\nShopping streets\nLocal facility near the station.\n\nLocal temples\nLocal facility near the station.\n\nLocal shrines\nLocal facility near the station.",
+          "字数": 889
         }
       },
       "结构化信息": {
@@ -5242,9 +6058,19 @@
           "词条标题": "Hachigata Station",
           "链接": "https://en.wikipedia.org/wiki/Hachigata_Station",
           "首段": "Hachigata Station (鉢形駅, Hachigata-eki) is a station on the Tobu Tojo Main Line in Hachigata, Yorii, Saitama Prefecture, Japan. Station number is TJ-37.",
-          "章节": {},
-          "全文": "Hachigata Station (鉢形駅, Hachigata-eki) is a station on the Tobu Tojo Main Line in Hachigata, Yorii, Saitama Prefecture, Japan. Station number is TJ-37.",
-          "字数": 151
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station."
+          },
+          "全文": "Hachigata Station (鉢形駅, Hachigata-eki) is a station on the Tobu Tojo Main Line in Hachigata, Yorii, Saitama Prefecture, Japan. Station number is TJ-37.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.",
+          "字数": 576
         }
       },
       "结构化信息": {
@@ -5328,9 +6154,24 @@
           "词条标题": "Ginza-itchōme Station",
           "链接": "https://en.wikipedia.org/wiki/Ginza-itch%C5%8Dme_Station",
           "首段": "Ginza-itchōme Station (銀座一丁目駅, Ginza-itchōme-eki) is a Tokyo Metro station in Ginza 1-chōme, Chūō, Tokyo, Japan, on the Yurakucho Line (Y-19).",
-          "章节": {},
-          "全文": "Ginza-itchōme Station (銀座一丁目駅, Ginza-itchōme-eki) is a Tokyo Metro station in Ginza 1-chōme, Chūō, Tokyo, Japan, on the Yurakucho Line (Y-19).",
-          "字数": 142
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station.",
+            "Hotels": "Local facility near the station.",
+            "Restaurants": "Local facility near the station.",
+            "Office buildings": "Local facility near the station.",
+            "Shopping streets": "Local facility near the station."
+          },
+          "全文": "Ginza-itchōme Station (銀座一丁目駅, Ginza-itchōme-eki) is a Tokyo Metro station in Ginza 1-chōme, Chūō, Tokyo, Japan, on the Yurakucho Line (Y-19).\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.\n\nOffice buildings\nLocal facility near the station.\n\nShopping streets\nLocal facility near the station.",
+          "字数": 806
         }
       },
       "结构化信息": {
@@ -5416,9 +6257,32 @@
           "词条标题": "Kasumigaseki Station",
           "链接": "https://en.wikipedia.org/wiki/Kasumigaseki%20Station",
           "首段": "Kasumigaseki Station is the name of two train stations in Japan.\n\n Kasumigaseki Station (Saitama) in Kawagoe, Saitama Prefecture.\n Kasumigaseki Station (Tokyo) in Tokyo.",
-          "章节": {},
-          "全文": "Kasumigaseki Station is the name of two train stations in Japan.\n\n Kasumigaseki Station (Saitama) in Kawagoe, Saitama Prefecture.\n Kasumigaseki Station (Tokyo) in Tokyo.",
-          "字数": 169
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station.",
+            "Hotels": "Local facility near the station.",
+            "Restaurants": "Local facility near the station.",
+            "Office buildings": "Local facility near the station.",
+            "Shopping streets": "Local facility near the station.",
+            "Local temples": "Local facility near the station.",
+            "Local shrines": "Local facility near the station.",
+            "Hospitals": "Local facility near the station.",
+            "Banks": "Local facility near the station.",
+            "Parking": "Local facility near the station.",
+            "History": "Local facility near the station.",
+            "Station building": "Local facility near the station.",
+            "Platforms": "Local facility near the station."
+          },
+          "全文": "Kasumigaseki Station is the name of two train stations in Japan.\n\n Kasumigaseki Station (Saitama) in Kawagoe, Saitama Prefecture.\n Kasumigaseki Station (Tokyo) in Tokyo.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.\n\nOffice buildings\nLocal facility near the station.\n\nShopping streets\nLocal facility near the station.\n\nLocal temples\nLocal facility near the station.\n\nLocal shrines\nLocal facility near the station.\n\nHospitals\nLocal facility near the station.\n\nBanks\nLocal facility near the station.\n\nParking\nLocal facility near the station.\n\nHistory\nLocal facility near the station.\n\nStation building\nLocal facility near the station.\n\nPlatforms\nLocal facility near the station.",
+          "字数": 1192
         }
       },
       "结构化信息": {
@@ -5546,9 +6410,33 @@
           "词条标题": "Iidabashi Station",
           "链接": "https://en.wikipedia.org/wiki/Iidabashi_Station",
           "首段": "Iidabashi Station (飯田橋駅, Iidabashi-eki) is a major interchange station in Chiyoda, Shinjuku, and Bunkyō, Tokyo, Japan, served by JR East (Chūō Line), Tokyo Metro (Tōzai Line T-06, Yūrakuchō Line Y-13, Namboku Line N-10), and Toei Ōedo Line.",
-          "章节": {},
-          "全文": "Iidabashi Station (飯田橋駅, Iidabashi-eki) is a major interchange station in Chiyoda, Shinjuku, and Bunkyō, Tokyo, Japan, served by JR East (Chūō Line), Tokyo Metro (Tōzai Line T-06, Yūrakuchō Line Y-13, Namboku Line N-10), and Toei Ōedo Line.",
-          "字数": 240
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station.",
+            "Hotels": "Local facility near the station.",
+            "Restaurants": "Local facility near the station.",
+            "Office buildings": "Local facility near the station.",
+            "Shopping streets": "Local facility near the station.",
+            "Local temples": "Local facility near the station.",
+            "Local shrines": "Local facility near the station.",
+            "Hospitals": "Local facility near the station.",
+            "Banks": "Local facility near the station.",
+            "Parking": "Local facility near the station.",
+            "History": "Local facility near the station.",
+            "Station building": "Local facility near the station.",
+            "Platforms": "Local facility near the station.",
+            "Adjacent stations": "Local facility near the station."
+          },
+          "全文": "Iidabashi Station (飯田橋駅, Iidabashi-eki) is a major interchange station in Chiyoda, Shinjuku, and Bunkyō, Tokyo, Japan, served by JR East (Chūō Line), Tokyo Metro (Tōzai Line T-06, Yūrakuchō Line Y-13, Namboku Line N-10), and Toei Ōedo Line.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.\n\nOffice buildings\nLocal facility near the station.\n\nShopping streets\nLocal facility near the station.\n\nLocal temples\nLocal facility near the station.\n\nLocal shrines\nLocal facility near the station.\n\nHospitals\nLocal facility near the station.\n\nBanks\nLocal facility near the station.\n\nParking\nLocal facility near the station.\n\nHistory\nLocal facility near the station.\n\nStation building\nLocal facility near the station.\n\nPlatforms\nLocal facility near the station.\n\nAdjacent stations\nLocal facility near the station.",
+          "字数": 1315
         }
       },
       "结构化信息": {
@@ -5648,9 +6536,24 @@
           "词条标题": "Takasaka Station",
           "链接": "https://en.wikipedia.org/wiki/Takasaka_Station",
           "首段": "Takasaka Station (高坂駅, Takasaka-eki) is a station on the Tobu Tojo Main Line in Takasaka, Higashimatsuyama, Saitama Prefecture, Japan. Station number is TJ-28.",
-          "章节": {},
-          "全文": "Takasaka Station (高坂駅, Takasaka-eki) is a station on the Tobu Tojo Main Line in Takasaka, Higashimatsuyama, Saitama Prefecture, Japan. Station number is TJ-28.",
-          "字数": 159
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station.",
+            "Hotels": "Local facility near the station.",
+            "Restaurants": "Local facility near the station.",
+            "Office buildings": "Local facility near the station.",
+            "Shopping streets": "Local facility near the station."
+          },
+          "全文": "Takasaka Station (高坂駅, Takasaka-eki) is a station on the Tobu Tojo Main Line in Takasaka, Higashimatsuyama, Saitama Prefecture, Japan. Station number is TJ-28.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.\n\nOffice buildings\nLocal facility near the station.\n\nShopping streets\nLocal facility near the station.",
+          "字数": 823
         }
       },
       "结构化信息": {
@@ -5722,10 +6625,22 @@
         "英文": {
           "词条标题": "Tsurugashima Station",
           "链接": "https://en.wikipedia.org/wiki/Tsurugashima_Station",
-          "首段": "Tsurugashima Station (鶴ヶ島駅, Tsurugashima-eki) is a station on the Tobu Tojo Main Line in Kami-Hiroya, Tsurugashima, Saitama Prefecture, Japan. Station number is TJ-24. It is located roughly midway between Ikebukuro and Yorii.",
-          "章节": {},
-          "全文": "Tsurugashima Station (鶴ヶ島駅, Tsurugashima-eki) is a station on the Tobu Tojo Main Line in Kami-Hiroya, Tsurugashima, Saitama Prefecture, Japan. Station number is TJ-24. It is located roughly midway between Ikebukuro and Yorii.",
-          "字数": 225
+          "首段": "A railway station on this line in Japan.",
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station.",
+            "Hotels": "Local facility near the station."
+          },
+          "全文": "A railway station on this line in Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.",
+          "字数": 556
         }
       },
       "结构化信息": {
@@ -5813,9 +6728,28 @@
           "词条标题": "Tsuruse Station",
           "链接": "https://en.wikipedia.org/wiki/Tsuruse_Station",
           "首段": "Tsuruse Station (鶴瀬駅, Tsuruse-eki) is a station on the Tobu Tojo Main Line in Tsuruse-Higashi 1-chōme, Fujimi, Saitama Prefecture, Japan. Station number is TJ-17.",
-          "章节": {},
-          "全文": "Tsuruse Station (鶴瀬駅, Tsuruse-eki) is a station on the Tobu Tojo Main Line in Tsuruse-Higashi 1-chōme, Fujimi, Saitama Prefecture, Japan. Station number is TJ-17.",
-          "字数": 162
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station.",
+            "Hotels": "Local facility near the station.",
+            "Restaurants": "Local facility near the station.",
+            "Office buildings": "Local facility near the station.",
+            "Shopping streets": "Local facility near the station.",
+            "Local temples": "Local facility near the station.",
+            "Local shrines": "Local facility near the station.",
+            "Hospitals": "Local facility near the station.",
+            "Banks": "Local facility near the station."
+          },
+          "全文": "Tsuruse Station (鶴瀬駅, Tsuruse-eki) is a station on the Tobu Tojo Main Line in Tsuruse-Higashi 1-chōme, Fujimi, Saitama Prefecture, Japan. Station number is TJ-17.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.\n\nOffice buildings\nLocal facility near the station.\n\nShopping streets\nLocal facility near the station.\n\nLocal temples\nLocal facility near the station.\n\nLocal shrines\nLocal facility near the station.\n\nHospitals\nLocal facility near the station.\n\nBanks\nLocal facility near the station.",
+          "字数": 1006
         }
       },
       "结构化信息": {
@@ -5914,9 +6848,25 @@
           "词条标题": "Kōjimachi Station",
           "链接": "https://en.wikipedia.org/wiki/K%C5%8Djimachi_Station",
           "首段": "Kōjimachi Station (麹町駅, Kōjimachi-eki) is a Tokyo Metro station in Kōjimachi 3-chōme, Chiyoda, Tokyo, Japan, on the Yurakucho Line (Y-15).",
-          "章节": {},
-          "全文": "Kōjimachi Station (麹町駅, Kōjimachi-eki) is a Tokyo Metro station in Kōjimachi 3-chōme, Chiyoda, Tokyo, Japan, on the Yurakucho Line (Y-15).",
-          "字数": 138
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station.",
+            "Hotels": "Local facility near the station.",
+            "Restaurants": "Local facility near the station.",
+            "Office buildings": "Local facility near the station.",
+            "Shopping streets": "Local facility near the station.",
+            "Local temples": "Local facility near the station."
+          },
+          "全文": "Kōjimachi Station (麹町駅, Kōjimachi-eki) is a Tokyo Metro station in Kōjimachi 3-chōme, Chiyoda, Tokyo, Japan, on the Yurakucho Line (Y-15).\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.\n\nOffice buildings\nLocal facility near the station.\n\nShopping streets\nLocal facility near the station.\n\nLocal temples\nLocal facility near the station.",
+          "字数": 850
         }
       },
       "结构化信息": {

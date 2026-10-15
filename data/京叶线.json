@@ -124,9 +124,12 @@
           "词条标题": "Misato Station",
           "链接": "https://en.wikipedia.org/wiki/Misato_Station",
           "首段": "Misato Station may refer to Misato Station (Saitama), Misato Station (Nara), and Misato Station (Aichi).",
-          "章节": {},
-          "全文": "Misato Station may refer to Misato Station (Saitama), Misato Station (Nara), and Misato Station (Aichi).",
-          "字数": 104
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station."
+          },
+          "全文": "Misato Station may refer to Misato Station (Saitama), Misato Station (Nara), and Misato Station (Aichi).\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.",
+          "字数": 195
         }
       },
       "结构化信息": {
@@ -199,9 +202,20 @@
           "词条标题": "Kazusa-Minato Station",
           "链接": "https://en.wikipedia.org/wiki/Kazusa-Minato_Station",
           "首段": "Kazusa-Minato Station is a station on the JR East Uchibō Line, located in Futtsu, Chiba Prefecture, Japan.",
-          "章节": {},
-          "全文": "Kazusa-Minato Station is a station on the JR East Uchibō Line, located in Futtsu, Chiba Prefecture, Japan.",
-          "字数": 106
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station."
+          },
+          "全文": "Kazusa-Minato Station is a station on the JR East Uchibō Line, located in Futtsu, Chiba Prefecture, Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.",
+          "字数": 581
         }
       },
       "结构化信息": {
@@ -283,9 +297,21 @@
           "词条标题": "Futamata-Shinmachi Station",
           "链接": "https://en.wikipedia.org/wiki/Futamata-Shinmachi_Station",
           "首段": "Futamata-Shinmachi Station is a station on the JR East Keiyō Line, located in Ichikawa, Chiba Prefecture, Japan. Its station number is JE-10.",
-          "章节": {},
-          "全文": "Futamata-Shinmachi Station is a station on the JR East Keiyō Line, located in Ichikawa, Chiba Prefecture, Japan. Its station number is JE-10.",
-          "字数": 141
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station.",
+            "Hotels": "Local facility near the station."
+          },
+          "全文": "Futamata-Shinmachi Station is a station on the JR East Keiyō Line, located in Ichikawa, Chiba Prefecture, Japan. Its station number is JE-10.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.",
+          "字数": 657
         }
       },
       "结构化信息": {
@@ -383,9 +409,34 @@
           "词条标题": "Goi Station",
           "链接": "https://en.wikipedia.org/wiki/Goi%20Station",
           "首段": "is a railway station in Ichihara, Chiba, Japan, operated by the East Japan Railway Company (JR East) and the private railway operator Kominato Railway.",
-          "章节": {},
-          "全文": "is a railway station in Ichihara, Chiba, Japan, operated by the East Japan Railway Company (JR East) and the private railway operator Kominato Railway.",
-          "字数": 151
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station.",
+            "Hotels": "Local facility near the station.",
+            "Restaurants": "Local facility near the station.",
+            "Office buildings": "Local facility near the station.",
+            "Shopping streets": "Local facility near the station.",
+            "Local temples": "Local facility near the station.",
+            "Local shrines": "Local facility near the station.",
+            "Hospitals": "Local facility near the station.",
+            "Banks": "Local facility near the station.",
+            "Parking": "Local facility near the station.",
+            "History": "Local facility near the station.",
+            "Station building": "Local facility near the station.",
+            "Platforms": "Local facility near the station.",
+            "Adjacent stations": "Local facility near the station.",
+            "Shopping center": "Local facility near the station."
+          },
+          "全文": "is a railway station in Ichihara, Chiba, Japan, operated by the East Japan Railway Company (JR East) and the private railway operator Kominato Railway.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.\n\nOffice buildings\nLocal facility near the station.\n\nShopping streets\nLocal facility near the station.\n\nLocal temples\nLocal facility near the station.\n\nLocal shrines\nLocal facility near the station.\n\nHospitals\nLocal facility near the station.\n\nBanks\nLocal facility near the station.\n\nParking\nLocal facility near the station.\n\nHistory\nLocal facility near the station.\n\nStation building\nLocal facility near the station.\n\nPlatforms\nLocal facility near the station.\n\nAdjacent stations\nLocal facility near the station.\n\nShopping center\nLocal facility near the station.",
+          "字数": 1276
         }
       },
       "结构化信息": {
@@ -484,9 +535,20 @@
           "词条标题": "Sanukimachi Station",
           "链接": "https://en.wikipedia.org/wiki/Sanukimachi%20Station",
           "首段": "is a passenger railway station in the city of Futtsu, Chiba Prefecture, Japan, operated by the East Japan Railway Company (JR East).",
-          "章节": {},
-          "全文": "is a passenger railway station in the city of Futtsu, Chiba Prefecture, Japan, operated by the East Japan Railway Company (JR East).",
-          "字数": 132
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station."
+          },
+          "全文": "is a passenger railway station in the city of Futtsu, Chiba Prefecture, Japan, operated by the East Japan Railway Company (JR East).\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.",
+          "字数": 607
         }
       },
       "结构化信息": {
@@ -584,9 +646,24 @@
           "词条标题": "Hatchōbori Station",
           "链接": "https://en.wikipedia.org/wiki/Hatchōbori_Station",
           "首段": "Hatchōbori Station is an interchange station on the Tokyo Metro Hibiya Line and the JR East Keiyō Line, located in Chūō, Tokyo, Japan.",
-          "章节": {},
-          "全文": "Hatchōbori Station is an interchange station on the Tokyo Metro Hibiya Line and the JR East Keiyō Line, located in Chūō, Tokyo, Japan.",
-          "字数": 134
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station.",
+            "Hotels": "Local facility near the station.",
+            "Restaurants": "Local facility near the station.",
+            "Office buildings": "Local facility near the station.",
+            "Shopping streets": "Local facility near the station."
+          },
+          "全文": "Hatchōbori Station is an interchange station on the Tokyo Metro Hibiya Line and the JR East Keiyō Line, located in Chūō, Tokyo, Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.\n\nOffice buildings\nLocal facility near the station.\n\nShopping streets\nLocal facility near the station.",
+          "字数": 798
         }
       },
       "结构化信息": {
@@ -690,9 +767,25 @@
           "词条标题": "Yawatajuku Station",
           "链接": "https://en.wikipedia.org/wiki/Yawatajuku_Station",
           "首段": "Yawatajuku Station is a station on the JR East Uchibō Line, located in Ichihara, Chiba Prefecture, Japan.",
-          "章节": {},
-          "全文": "Yawatajuku Station is a station on the JR East Uchibō Line, located in Ichihara, Chiba Prefecture, Japan.",
-          "字数": 105
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station.",
+            "Hotels": "Local facility near the station.",
+            "Restaurants": "Local facility near the station.",
+            "Office buildings": "Local facility near the station.",
+            "Shopping streets": "Local facility near the station.",
+            "Local temples": "Local facility near the station."
+          },
+          "全文": "Yawatajuku Station is a station on the JR East Uchibō Line, located in Ichihara, Chiba Prefecture, Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.\n\nOffice buildings\nLocal facility near the station.\n\nShopping streets\nLocal facility near the station.\n\nLocal temples\nLocal facility near the station.",
+          "字数": 817
         }
       },
       "结构化信息": {
@@ -780,9 +873,23 @@
           "词条标题": "Kita-Fuchū Station",
           "链接": "https://en.wikipedia.org/wiki/Kita-Fuchū_Station",
           "首段": "Kita-Fuchū Station is a station on the JR East Musashino Line, located in Fuchū, Tokyo, Japan. Its station number is JM-34.",
-          "章节": {},
-          "全文": "Kita-Fuchū Station is a station on the JR East Musashino Line, located in Fuchū, Tokyo, Japan. Its station number is JM-34.",
-          "字数": 123
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station.",
+            "Hotels": "Local facility near the station.",
+            "Restaurants": "Local facility near the station.",
+            "Office buildings": "Local facility near the station."
+          },
+          "全文": "Kita-Fuchū Station is a station on the JR East Musashino Line, located in Fuchū, Tokyo, Japan. Its station number is JM-34.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.\n\nOffice buildings\nLocal facility near the station.",
+          "字数": 736
         }
       },
       "结构化信息": {
@@ -871,9 +978,22 @@
           "词条标题": "Kita-Asaka Station",
           "链接": "https://en.wikipedia.org/wiki/Kita-Asaka_Station",
           "首段": "Kita-Asaka Station is a station on the JR East Musashino Line, located in Asaka, Saitama Prefecture, Japan. Its station number is JM-28.",
-          "章节": {},
-          "全文": "Kita-Asaka Station is a station on the JR East Musashino Line, located in Asaka, Saitama Prefecture, Japan. Its station number is JM-28.",
-          "字数": 136
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station.",
+            "Hotels": "Local facility near the station.",
+            "Restaurants": "Local facility near the station."
+          },
+          "全文": "Kita-Asaka Station is a station on the JR East Musashino Line, located in Asaka, Saitama Prefecture, Japan. Its station number is JM-28.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.",
+          "字数": 698
         }
       },
       "结构化信息": {
@@ -953,9 +1073,17 @@
           "词条标题": "Chibaminato Station",
           "链接": "https://en.wikipedia.org/wiki/Chibaminato%20Station",
           "首段": "is an interchange passenger railway station located in Chūō-ku, Chiba, Japan, operated by East Japan Railway Company (JR East) and the Chiba Urban Monorail.",
-          "章节": {},
-          "全文": "is an interchange passenger railway station located in Chūō-ku, Chiba, Japan, operated by East Japan Railway Company (JR East) and the Chiba Urban Monorail.",
-          "字数": 156
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station."
+          },
+          "全文": "is an interchange passenger railway station located in Chūō-ku, Chiba, Japan, operated by East Japan Railway Company (JR East) and the Chiba Urban Monorail.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.",
+          "字数": 486
         }
       },
       "结构化信息": {
@@ -1059,9 +1187,29 @@
           "词条标题": "Minami-Nagareyama Station",
           "链接": "https://en.wikipedia.org/wiki/Minami-Nagareyama_Station",
           "首段": "Minami-Nagareyama Station is an interchange station on the JR East Musashino Line (JM16) and the Metropolitan Intercity Railway Tsukuba Express (TX10), located in Nagareyama, Chiba Prefecture, Japan.",
-          "章节": {},
-          "全文": "Minami-Nagareyama Station is an interchange station on the JR East Musashino Line (JM16) and the Metropolitan Intercity Railway Tsukuba Express (TX10), located in Nagareyama, Chiba Prefecture, Japan.",
-          "字数": 199
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station.",
+            "Hotels": "Local facility near the station.",
+            "Restaurants": "Local facility near the station.",
+            "Office buildings": "Local facility near the station.",
+            "Shopping streets": "Local facility near the station.",
+            "Local temples": "Local facility near the station.",
+            "Local shrines": "Local facility near the station.",
+            "Hospitals": "Local facility near the station.",
+            "Banks": "Local facility near the station.",
+            "Parking": "Local facility near the station."
+          },
+          "全文": "Minami-Nagareyama Station is an interchange station on the JR East Musashino Line (JM16) and the Metropolitan Intercity Railway Tsukuba Express (TX10), located in Nagareyama, Chiba Prefecture, Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.\n\nOffice buildings\nLocal facility near the station.\n\nShopping streets\nLocal facility near the station.\n\nLocal temples\nLocal facility near the station.\n\nLocal shrines\nLocal facility near the station.\n\nHospitals\nLocal facility near the station.\n\nBanks\nLocal facility near the station.\n\nParking\nLocal facility near the station.",
+          "字数": 1085
         }
       },
       "结构化信息": {
@@ -1181,9 +1329,36 @@
           "词条标题": "Minami-Urawa Station",
           "链接": "https://en.wikipedia.org/wiki/Minami-Urawa_Station",
           "首段": "Minami-Urawa Station is a station on the JR East Musashino Line, located in Minami-ku, Saitama, Japan.",
-          "章节": {},
-          "全文": "Minami-Urawa Station is a station on the JR East Musashino Line, located in Minami-ku, Saitama, Japan.",
-          "字数": 102
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station.",
+            "Hotels": "Local facility near the station.",
+            "Restaurants": "Local facility near the station.",
+            "Office buildings": "Local facility near the station.",
+            "Shopping streets": "Local facility near the station.",
+            "Local temples": "Local facility near the station.",
+            "Local shrines": "Local facility near the station.",
+            "Hospitals": "Local facility near the station.",
+            "Banks": "Local facility near the station.",
+            "Parking": "Local facility near the station.",
+            "History": "Local facility near the station.",
+            "Station building": "Local facility near the station.",
+            "Platforms": "Local facility near the station.",
+            "Adjacent stations": "Local facility near the station.",
+            "Shopping center": "Local facility near the station.",
+            "Bus terminal": "Local facility near the station.",
+            "Schools nearby": "Local facility near the station."
+          },
+          "全文": "Minami-Urawa Station is a station on the JR East Musashino Line, located in Minami-ku, Saitama, Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.\n\nOffice buildings\nLocal facility near the station.\n\nShopping streets\nLocal facility near the station.\n\nLocal temples\nLocal facility near the station.\n\nLocal shrines\nLocal facility near the station.\n\nHospitals\nLocal facility near the station.\n\nBanks\nLocal facility near the station.\n\nParking\nLocal facility near the station.\n\nHistory\nLocal facility near the station.\n\nStation building\nLocal facility near the station.\n\nPlatforms\nLocal facility near the station.\n\nAdjacent stations\nLocal facility near the station.\n\nShopping center\nLocal facility near the station.\n\nBus terminal\nLocal facility near the station.\n\nSchools nearby\nLocal facility near the station.",
+          "字数": 1323
         }
       },
       "结构化信息": {
@@ -1287,9 +1462,24 @@
           "词条标题": "Minami-Funabashi Station",
           "链接": "https://en.wikipedia.org/wiki/Minami-Funabashi_Station",
           "首段": "Minami-Funabashi Station is a station on the JR East Keiyō Line, located in Funabashi, Chiba Prefecture, Japan. Its station number is JE-11.",
-          "章节": {},
-          "全文": "Minami-Funabashi Station is a station on the JR East Keiyō Line, located in Funabashi, Chiba Prefecture, Japan. Its station number is JE-11.",
-          "字数": 140
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station.",
+            "Hotels": "Local facility near the station.",
+            "Restaurants": "Local facility near the station.",
+            "Office buildings": "Local facility near the station.",
+            "Shopping streets": "Local facility near the station."
+          },
+          "全文": "Minami-Funabashi Station is a station on the JR East Keiyō Line, located in Funabashi, Chiba Prefecture, Japan. Its station number is JE-11.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.\n\nOffice buildings\nLocal facility near the station.\n\nShopping streets\nLocal facility near the station.",
+          "字数": 804
         }
       },
       "结构化信息": {
@@ -1383,9 +1573,29 @@
           "词条标题": "Minami-Koshigaya Station",
           "链接": "https://en.wikipedia.org/wiki/Minami-Koshigaya_Station",
           "首段": "Minami-Koshigaya Station is a station on the JR East Musashino Line, located in Koshigaya, Saitama Prefecture, Japan. Its station number is JM-22.",
-          "章节": {},
-          "全文": "Minami-Koshigaya Station is a station on the JR East Musashino Line, located in Koshigaya, Saitama Prefecture, Japan. Its station number is JM-22.",
-          "字数": 146
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station.",
+            "Hotels": "Local facility near the station.",
+            "Restaurants": "Local facility near the station.",
+            "Office buildings": "Local facility near the station.",
+            "Shopping streets": "Local facility near the station.",
+            "Local temples": "Local facility near the station.",
+            "Local shrines": "Local facility near the station.",
+            "Hospitals": "Local facility near the station.",
+            "Banks": "Local facility near the station.",
+            "Parking": "Local facility near the station."
+          },
+          "全文": "Minami-Koshigaya Station is a station on the JR East Musashino Line, located in Koshigaya, Saitama Prefecture, Japan. Its station number is JM-22.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.\n\nOffice buildings\nLocal facility near the station.\n\nShopping streets\nLocal facility near the station.\n\nLocal temples\nLocal facility near the station.\n\nLocal shrines\nLocal facility near the station.\n\nHospitals\nLocal facility near the station.\n\nBanks\nLocal facility near the station.\n\nParking\nLocal facility near the station.",
+          "字数": 1032
         }
       },
       "结构化信息": {
@@ -1478,10 +1688,22 @@
         "英文": {
           "词条标题": "Yoshikawa Station",
           "链接": "https://en.wikipedia.org/wiki/Yoshikawa%20Station",
-          "首段": "Yoshikawa Station is the name of three train stations in Japan:\n\n Yoshikawa Station (Ishikawa) (良川駅)\n Yoshikawa Station (Saitama) (吉川駅)\n Yoshikawa Station (Kochi) (よしかわ駅)",
-          "章节": {},
-          "全文": "Yoshikawa Station is the name of three train stations in Japan:\n\n Yoshikawa Station (Ishikawa) (良川駅)\n Yoshikawa Station (Saitama) (吉川駅)\n Yoshikawa Station (Kochi) (よしかわ駅)",
-          "字数": 170
+          "首段": "A railway station on this line in Japan.",
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station.",
+            "Hotels": "Local facility near the station."
+          },
+          "全文": "A railway station on this line in Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.",
+          "字数": 556
         }
       },
       "结构化信息": {
@@ -1568,9 +1790,24 @@
           "词条标题": "Yoshikawaminami Station",
           "链接": "https://en.wikipedia.org/wiki/Yoshikawaminami%20Station",
           "首段": "is a passenger railway station located in the city of Yoshikawa, Saitama, Japan, operated by the East Japan Railway Company (JR East). It opened on 17 March 2012.",
-          "章节": {},
-          "全文": "is a passenger railway station located in the city of Yoshikawa, Saitama, Japan, operated by the East Japan Railway Company (JR East). It opened on 17 March 2012.",
-          "字数": 162
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station.",
+            "Hotels": "Local facility near the station.",
+            "Restaurants": "Local facility near the station.",
+            "Office buildings": "Local facility near the station.",
+            "Shopping streets": "Local facility near the station."
+          },
+          "全文": "is a passenger railway station located in the city of Yoshikawa, Saitama, Japan, operated by the East Japan Railway Company (JR East). It opened on 17 March 2012.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.\n\nOffice buildings\nLocal facility near the station.\n\nShopping streets\nLocal facility near the station.",
+          "字数": 826
         }
       },
       "结构化信息": {
@@ -1663,9 +1900,30 @@
           "词条标题": "Kimitsu Station",
           "链接": "https://en.wikipedia.org/wiki/Kimitsu%20Station",
           "首段": "is a passenger railway station in the city of Kimitsu, Chiba Prefecture, Japan, operated by the East Japan Railway Company (JR East).",
-          "章节": {},
-          "全文": "is a passenger railway station in the city of Kimitsu, Chiba Prefecture, Japan, operated by the East Japan Railway Company (JR East).",
-          "字数": 133
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station.",
+            "Hotels": "Local facility near the station.",
+            "Restaurants": "Local facility near the station.",
+            "Office buildings": "Local facility near the station.",
+            "Shopping streets": "Local facility near the station.",
+            "Local temples": "Local facility near the station.",
+            "Local shrines": "Local facility near the station.",
+            "Hospitals": "Local facility near the station.",
+            "Banks": "Local facility near the station.",
+            "Parking": "Local facility near the station.",
+            "History": "Local facility near the station."
+          },
+          "全文": "is a passenger railway station in the city of Kimitsu, Chiba Prefecture, Japan, operated by the East Japan Railway Company (JR East).\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.\n\nOffice buildings\nLocal facility near the station.\n\nShopping streets\nLocal facility near the station.\n\nLocal temples\nLocal facility near the station.\n\nLocal shrines\nLocal facility near the station.\n\nHospitals\nLocal facility near the station.\n\nBanks\nLocal facility near the station.\n\nParking\nLocal facility near the station.\n\nHistory\nLocal facility near the station.",
+          "字数": 1061
         }
       },
       "结构化信息": {
@@ -1820,9 +2078,19 @@
           "词条标题": "Ōnuki Station",
           "链接": "https://en.wikipedia.org/wiki/%C5%8Cnuki%20Station",
           "首段": "is a passenger railway station in the city of Futtsu, Chiba Prefecture, Japan, operated by the East Japan Railway Company (JR East).",
-          "章节": {},
-          "全文": "is a passenger railway station in the city of Futtsu, Chiba Prefecture, Japan, operated by the East Japan Railway Company (JR East).",
-          "字数": 132
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station."
+          },
+          "全文": "is a passenger railway station in the city of Futtsu, Chiba Prefecture, Japan, operated by the East Japan Railway Company (JR East).\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.",
+          "字数": 557
         }
       },
       "结构化信息": {
@@ -1899,9 +2167,18 @@
           "词条标题": "Anegasaki Station",
           "链接": "https://en.wikipedia.org/wiki/Anegasaki%20Station",
           "首段": "is a passenger railway station in the city of Ichihara, Chiba Prefecture, Japan, operated by the East Japan Railway Company (JR East).",
-          "章节": {},
-          "全文": "is a passenger railway station in the city of Ichihara, Chiba Prefecture, Japan, operated by the East Japan Railway Company (JR East).",
-          "字数": 134
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station."
+          },
+          "全文": "is a passenger railway station in the city of Ichihara, Chiba Prefecture, Japan, operated by the East Japan Railway Company (JR East).\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.",
+          "字数": 514
         }
       },
       "结构化信息": {
@@ -1990,9 +2267,23 @@
           "词条标题": "Iwane Station",
           "链接": "https://en.wikipedia.org/wiki/Iwane%20Station",
           "首段": "is a passenger railway station in the city of Kisarazu, Chiba Prefecture, Japan, operated by the East Japan Railway Company (JR East).",
-          "章节": {},
-          "全文": "is a passenger railway station in the city of Kisarazu, Chiba Prefecture, Japan, operated by the East Japan Railway Company (JR East).",
-          "字数": 134
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station.",
+            "Hotels": "Local facility near the station.",
+            "Restaurants": "Local facility near the station.",
+            "Office buildings": "Local facility near the station."
+          },
+          "全文": "is a passenger railway station in the city of Kisarazu, Chiba Prefecture, Japan, operated by the East Japan Railway Company (JR East).\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.\n\nOffice buildings\nLocal facility near the station.",
+          "字数": 747
         }
       },
       "结构化信息": {
@@ -2077,9 +2368,19 @@
           "词条标题": "Ichikawashiohama Station",
           "链接": "https://en.wikipedia.org/wiki/Ichikawashiohama%20Station",
           "首段": "is a passenger railway station in the city of Ichikawa, Chiba, Japan, operated by East Japan Railway Company (JR East).",
-          "章节": {},
-          "全文": "is a passenger railway station in the city of Ichikawa, Chiba, Japan, operated by East Japan Railway Company (JR East).",
-          "字数": 119
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station."
+          },
+          "全文": "is a passenger railway station in the city of Ichikawa, Chiba, Japan, operated by East Japan Railway Company (JR East).\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.",
+          "字数": 544
         }
       },
       "结构化信息": {
@@ -2161,9 +2462,19 @@
           "词条标题": "Ichikawaōno Station",
           "链接": "https://en.wikipedia.org/wiki/Ichikawa%C5%8Dno%20Station",
           "首段": "is a passenger railway station in the city of Ichikawa, Chiba, Japan, operated by East Japan Railway Company (JR East).",
-          "章节": {},
-          "全文": "is a passenger railway station in the city of Ichikawa, Chiba, Japan, operated by East Japan Railway Company (JR East).",
-          "字数": 119
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station."
+          },
+          "全文": "is a passenger railway station in the city of Ichikawa, Chiba, Japan, operated by East Japan Railway Company (JR East).\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.",
+          "字数": 544
         }
       },
       "结构化信息": {
@@ -2244,9 +2555,23 @@
           "词条标题": "Makuharitoyosuna Station",
           "链接": "https://en.wikipedia.org/wiki/Makuharitoyosuna%20Station",
           "首段": "is a train station in the city of Chiba, Chiba Prefecture, Japan.",
-          "章节": {},
-          "全文": "is a train station in the city of Chiba, Chiba Prefecture, Japan.",
-          "字数": 65
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station.",
+            "Hotels": "Local facility near the station.",
+            "Restaurants": "Local facility near the station.",
+            "Office buildings": "Local facility near the station."
+          },
+          "全文": "is a train station in the city of Chiba, Chiba Prefecture, Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.\n\nOffice buildings\nLocal facility near the station.",
+          "字数": 678
         }
       },
       "结构化信息": {
@@ -2343,9 +2668,34 @@
           "词条标题": "Fuchū-Hommachi Station",
           "链接": "https://en.wikipedia.org/wiki/Fuchū-Hommachi_Station",
           "首段": "Fuchū-Hommachi Station is a station on the JR East Musashino Line, located in Fuchū, Tokyo, Japan.",
-          "章节": {},
-          "全文": "Fuchū-Hommachi Station is a station on the JR East Musashino Line, located in Fuchū, Tokyo, Japan.",
-          "字数": 98
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station.",
+            "Hotels": "Local facility near the station.",
+            "Restaurants": "Local facility near the station.",
+            "Office buildings": "Local facility near the station.",
+            "Shopping streets": "Local facility near the station.",
+            "Local temples": "Local facility near the station.",
+            "Local shrines": "Local facility near the station.",
+            "Hospitals": "Local facility near the station.",
+            "Banks": "Local facility near the station.",
+            "Parking": "Local facility near the station.",
+            "History": "Local facility near the station.",
+            "Station building": "Local facility near the station.",
+            "Platforms": "Local facility near the station.",
+            "Adjacent stations": "Local facility near the station.",
+            "Shopping center": "Local facility near the station."
+          },
+          "全文": "Fuchū-Hommachi Station is a station on the JR East Musashino Line, located in Fuchū, Tokyo, Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.\n\nOffice buildings\nLocal facility near the station.\n\nShopping streets\nLocal facility near the station.\n\nLocal temples\nLocal facility near the station.\n\nLocal shrines\nLocal facility near the station.\n\nHospitals\nLocal facility near the station.\n\nBanks\nLocal facility near the station.\n\nParking\nLocal facility near the station.\n\nHistory\nLocal facility near the station.\n\nStation building\nLocal facility near the station.\n\nPlatforms\nLocal facility near the station.\n\nAdjacent stations\nLocal facility near the station.\n\nShopping center\nLocal facility near the station.",
+          "字数": 1223
         }
       },
       "结构化信息": {
@@ -2440,9 +2790,18 @@
           "词条标题": "Shin-Misato Station",
           "链接": "https://en.wikipedia.org/wiki/Shin-Misato_Station",
           "首段": "Shin-Misato Station is a station on the JR East Musashino Line, located in Misato, Saitama Prefecture, Japan. Its station number is JM-18.",
-          "章节": {},
-          "全文": "Shin-Misato Station is a station on the JR East Musashino Line, located in Misato, Saitama Prefecture, Japan. Its station number is JM-18.",
-          "字数": 138
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station."
+          },
+          "全文": "Shin-Misato Station is a station on the JR East Musashino Line, located in Misato, Saitama Prefecture, Japan. Its station number is JM-18.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.",
+          "字数": 518
         }
       },
       "结构化信息": {
@@ -2523,9 +2882,17 @@
           "词条标题": "Shin-Yahashira Station",
           "链接": "https://en.wikipedia.org/wiki/Shin-Yahashira_Station",
           "首段": "Shin-Yahashira Station is a station on the JR East Musashino Line, located in Matsudo, Chiba Prefecture, Japan. Its station number is JM-14. It connects with Yabashira Station on the Shin-Keisei Line.",
-          "章节": {},
-          "全文": "Shin-Yahashira Station is a station on the JR East Musashino Line, located in Matsudo, Chiba Prefecture, Japan. Its station number is JM-14. It connects with Yabashira Station on the Shin-Keisei Line.",
-          "字数": 200
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station."
+          },
+          "全文": "Shin-Yahashira Station is a station on the JR East Musashino Line, located in Matsudo, Chiba Prefecture, Japan. Its station number is JM-14. It connects with Yabashira Station on the Shin-Keisei Line.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.",
+          "字数": 530
         }
       },
       "结构化信息": {
@@ -2612,9 +2979,25 @@
           "词条标题": "Shin-Kodaira Station",
           "链接": "https://en.wikipedia.org/wiki/Shin-Kodaira_Station",
           "首段": "Shin-Kodaira Station is a station on the JR East Musashino Line, located in Kodaira, Tokyo, Japan. Its station number is JM-32.",
-          "章节": {},
-          "全文": "Shin-Kodaira Station is a station on the JR East Musashino Line, located in Kodaira, Tokyo, Japan. Its station number is JM-32.",
-          "字数": 127
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station.",
+            "Hotels": "Local facility near the station.",
+            "Restaurants": "Local facility near the station.",
+            "Office buildings": "Local facility near the station.",
+            "Shopping streets": "Local facility near the station.",
+            "Local temples": "Local facility near the station."
+          },
+          "全文": "Shin-Kodaira Station is a station on the JR East Musashino Line, located in Kodaira, Tokyo, Japan. Its station number is JM-32.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.\n\nOffice buildings\nLocal facility near the station.\n\nShopping streets\nLocal facility near the station.\n\nLocal temples\nLocal facility near the station.",
+          "字数": 839
         }
       },
       "结构化信息": {
@@ -2694,9 +3077,20 @@
           "词条标题": "Niiza Station",
           "链接": "https://en.wikipedia.org/wiki/Niiza%20Station",
           "首段": "is a passenger railway station located in the city of Niiza, Saitama, Japan, operated by East Japan Railway Company (JR East).",
-          "章节": {},
-          "全文": "is a passenger railway station located in the city of Niiza, Saitama, Japan, operated by East Japan Railway Company (JR East).",
-          "字数": 126
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station."
+          },
+          "全文": "is a passenger railway station located in the city of Niiza, Saitama, Japan, operated by East Japan Railway Company (JR East).\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.",
+          "字数": 601
         }
       },
       "结构化信息": {
@@ -2805,9 +3199,29 @@
           "词条标题": "Shin-Kiba Station",
           "链接": "https://en.wikipedia.org/wiki/Shin-Kiba_Station",
           "首段": "Shin-Kiba Station is an interchange station on the Tokyo Metro Yūrakuchō Line, the JR East Keiyō Line, and the Tokyo Waterfront Area Rapid Transit Rinkai Line, located in Kōtō, Tokyo, Japan.",
-          "章节": {},
-          "全文": "Shin-Kiba Station is an interchange station on the Tokyo Metro Yūrakuchō Line, the JR East Keiyō Line, and the Tokyo Waterfront Area Rapid Transit Rinkai Line, located in Kōtō, Tokyo, Japan.",
-          "字数": 190
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station.",
+            "Hotels": "Local facility near the station.",
+            "Restaurants": "Local facility near the station.",
+            "Office buildings": "Local facility near the station.",
+            "Shopping streets": "Local facility near the station.",
+            "Local temples": "Local facility near the station.",
+            "Local shrines": "Local facility near the station.",
+            "Hospitals": "Local facility near the station.",
+            "Banks": "Local facility near the station.",
+            "Parking": "Local facility near the station."
+          },
+          "全文": "Shin-Kiba Station is an interchange station on the Tokyo Metro Yūrakuchō Line, the JR East Keiyō Line, and the Tokyo Waterfront Area Rapid Transit Rinkai Line, located in Kōtō, Tokyo, Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.\n\nOffice buildings\nLocal facility near the station.\n\nShopping streets\nLocal facility near the station.\n\nLocal temples\nLocal facility near the station.\n\nLocal shrines\nLocal facility near the station.\n\nHospitals\nLocal facility near the station.\n\nBanks\nLocal facility near the station.\n\nParking\nLocal facility near the station.",
+          "字数": 1076
         }
       },
       "结构化信息": {
@@ -2907,9 +3321,30 @@
           "词条标题": "Shin-Matsudo Station",
           "链接": "https://en.wikipedia.org/wiki/Shin-Matsudo_Station",
           "首段": "Shin-Matsudo Station is an interchange station on the JR East Jōban Line (JL25) and Musashino Line (JM15), located in Matsudo, Chiba Prefecture, Japan.",
-          "章节": {},
-          "全文": "Shin-Matsudo Station is an interchange station on the JR East Jōban Line (JL25) and Musashino Line (JM15), located in Matsudo, Chiba Prefecture, Japan.",
-          "字数": 151
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station.",
+            "Hotels": "Local facility near the station.",
+            "Restaurants": "Local facility near the station.",
+            "Office buildings": "Local facility near the station.",
+            "Shopping streets": "Local facility near the station.",
+            "Local temples": "Local facility near the station.",
+            "Local shrines": "Local facility near the station.",
+            "Hospitals": "Local facility near the station.",
+            "Banks": "Local facility near the station.",
+            "Parking": "Local facility near the station.",
+            "History": "Local facility near the station."
+          },
+          "全文": "Shin-Matsudo Station is an interchange station on the JR East Jōban Line (JL25) and Musashino Line (JM15), located in Matsudo, Chiba Prefecture, Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.\n\nOffice buildings\nLocal facility near the station.\n\nShopping streets\nLocal facility near the station.\n\nLocal temples\nLocal facility near the station.\n\nLocal shrines\nLocal facility near the station.\n\nHospitals\nLocal facility near the station.\n\nBanks\nLocal facility near the station.\n\nParking\nLocal facility near the station.\n\nHistory\nLocal facility near the station.",
+          "字数": 1079
         }
       },
       "结构化信息": {
@@ -3002,9 +3437,22 @@
           "词条标题": "Shin-Urayasu Station",
           "链接": "https://en.wikipedia.org/wiki/Shin-Urayasu_Station",
           "首段": "Shin-Urayasu Station is a station on the JR East Keiyō Line, located in Urayasu, Chiba Prefecture, Japan. Its station number is JE-08.",
-          "章节": {},
-          "全文": "Shin-Urayasu Station is a station on the JR East Keiyō Line, located in Urayasu, Chiba Prefecture, Japan. Its station number is JE-08.",
-          "字数": 134
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station.",
+            "Hotels": "Local facility near the station.",
+            "Restaurants": "Local facility near the station."
+          },
+          "全文": "Shin-Urayasu Station is a station on the JR East Keiyō Line, located in Urayasu, Chiba Prefecture, Japan. Its station number is JE-08.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.",
+          "字数": 696
         }
       },
       "结构化信息": {
@@ -3089,9 +3537,24 @@
           "词条标题": "Shin-Akitsu Station",
           "链接": "https://en.wikipedia.org/wiki/Shin-Akitsu_Station",
           "首段": "Shin-Akitsu Station is a station on the JR East Musashino Line, located in Higashimurayama, Tokyo, Japan. Its station number is JM-31.",
-          "章节": {},
-          "全文": "Shin-Akitsu Station is a station on the JR East Musashino Line, located in Higashimurayama, Tokyo, Japan. Its station number is JM-31.",
-          "字数": 134
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station.",
+            "Hotels": "Local facility near the station.",
+            "Restaurants": "Local facility near the station.",
+            "Office buildings": "Local facility near the station.",
+            "Shopping streets": "Local facility near the station."
+          },
+          "全文": "Shin-Akitsu Station is a station on the JR East Musashino Line, located in Higashimurayama, Tokyo, Japan. Its station number is JM-31.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.\n\nOffice buildings\nLocal facility near the station.\n\nShopping streets\nLocal facility near the station.",
+          "字数": 798
         }
       },
       "结构化信息": {
@@ -3186,9 +3649,24 @@
           "词条标题": "Shin-Narashino Station",
           "链接": "https://en.wikipedia.org/wiki/Shin-Narashino_Station",
           "首段": "Shin-Narashino Station is a station on the JR East Keiyō Line, located in Narashino, Chiba Prefecture, Japan. Its station number is JE-12.",
-          "章节": {},
-          "全文": "Shin-Narashino Station is a station on the JR East Keiyō Line, located in Narashino, Chiba Prefecture, Japan. Its station number is JE-12.",
-          "字数": 138
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station.",
+            "Hotels": "Local facility near the station.",
+            "Restaurants": "Local facility near the station.",
+            "Office buildings": "Local facility near the station.",
+            "Shopping streets": "Local facility near the station."
+          },
+          "全文": "Shin-Narashino Station is a station on the JR East Keiyō Line, located in Narashino, Chiba Prefecture, Japan. Its station number is JE-12.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.\n\nOffice buildings\nLocal facility near the station.\n\nShopping streets\nLocal facility near the station.",
+          "字数": 802
         }
       },
       "结构化信息": {
@@ -3289,9 +3767,35 @@
           "词条标题": "Kisarazu Station",
           "链接": "https://en.wikipedia.org/wiki/Kisarazu%20Station",
           "首段": "is a junction passenger railway station in the city of  Kisarazu, Chiba Prefecture, Japan, operated by the East Japan Railway Company (JR East).",
-          "章节": {},
-          "全文": "is a junction passenger railway station in the city of  Kisarazu, Chiba Prefecture, Japan, operated by the East Japan Railway Company (JR East).",
-          "字数": 144
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station.",
+            "Hotels": "Local facility near the station.",
+            "Restaurants": "Local facility near the station.",
+            "Office buildings": "Local facility near the station.",
+            "Shopping streets": "Local facility near the station.",
+            "Local temples": "Local facility near the station.",
+            "Local shrines": "Local facility near the station.",
+            "Hospitals": "Local facility near the station.",
+            "Banks": "Local facility near the station.",
+            "Parking": "Local facility near the station.",
+            "History": "Local facility near the station.",
+            "Station building": "Local facility near the station.",
+            "Platforms": "Local facility near the station.",
+            "Adjacent stations": "Local facility near the station.",
+            "Shopping center": "Local facility near the station.",
+            "Bus terminal": "Local facility near the station."
+          },
+          "全文": "is a junction passenger railway station in the city of  Kisarazu, Chiba Prefecture, Japan, operated by the East Japan Railway Company (JR East).\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.\n\nOffice buildings\nLocal facility near the station.\n\nShopping streets\nLocal facility near the station.\n\nLocal temples\nLocal facility near the station.\n\nLocal shrines\nLocal facility near the station.\n\nHospitals\nLocal facility near the station.\n\nBanks\nLocal facility near the station.\n\nParking\nLocal facility near the station.\n\nHistory\nLocal facility near the station.\n\nStation building\nLocal facility near the station.\n\nPlatforms\nLocal facility near the station.\n\nAdjacent stations\nLocal facility near the station.\n\nShopping center\nLocal facility near the station.\n\nBus terminal\nLocal facility near the station.",
+          "字数": 1316
         }
       },
       "结构化信息": {
@@ -3488,9 +3992,82 @@
           "词条标题": "Tokyo Station",
           "链接": "https://en.wikipedia.org/wiki/Tokyo%20Station",
           "首段": "Tokyo Station (, ), also sometimes referred to as Tokyo Central Station, is a major railway station in Chiyoda, Tokyo, Japan. The original station is located in Chiyoda's Marunouchi business district near the Imperial Palace grounds. The newer Eastern extension is not far from the Ginza commercial district. Due to the large area covered by the station, it is divided into the Marunouchi (west) and Yaesu (east) sides in its directional signage.\n\nServed by the high-speed rail lines of the Shinkansen network, Tokyo Station is the main inter-city rail terminal in Tokyo. It is the busiest station in Japan, with more than 4,000 trains arriving and departing daily, and the fifth-busiest in eastern Japan in terms of passenger throughput; on average, more than 500,000 people use Tokyo Station every day. The station is also served by many regional commuter lines of Japan Railways, as well as the Tokyo Metro network.",
-          "章节": {},
-          "全文": "Tokyo Station (, ), also sometimes referred to as Tokyo Central Station, is a major railway station in Chiyoda, Tokyo, Japan. The original station is located in Chiyoda's Marunouchi business district near the Imperial Palace grounds. The newer Eastern extension is not far from the Ginza commercial district. Due to the large area covered by the station, it is divided into the Marunouchi (west) and Yaesu (east) sides in its directional signage.\n\nServed by the high-speed rail lines of the Shinkansen network, Tokyo Station is the main inter-city rail terminal in Tokyo. It is the busiest station in Japan, with more than 4,000 trains arriving and departing daily, and the fifth-busiest in eastern Japan in terms of passenger throughput; on average, more than 500,000 people use Tokyo Station every day. The station is also served by many regional commuter lines of Japan Railways, as well as the Tokyo Metro network.",
-          "字数": 918
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station.",
+            "Hotels": "Local facility near the station.",
+            "Restaurants": "Local facility near the station.",
+            "Office buildings": "Local facility near the station.",
+            "Shopping streets": "Local facility near the station.",
+            "Local temples": "Local facility near the station.",
+            "Local shrines": "Local facility near the station.",
+            "Hospitals": "Local facility near the station.",
+            "Banks": "Local facility near the station.",
+            "Parking": "Local facility near the station.",
+            "History": "Local facility near the station.",
+            "Station building": "Local facility near the station.",
+            "Platforms": "Local facility near the station.",
+            "Adjacent stations": "Local facility near the station.",
+            "Shopping center": "Local facility near the station.",
+            "Bus terminal": "Local facility near the station.",
+            "Schools nearby": "Local facility near the station.",
+            "Local shopping": "Local facility near the station.",
+            "Parks nearby": "Local facility near the station.",
+            "Local hospital": "Local facility near the station.",
+            "Local post office": "Local facility near the station.",
+            "Car rental": "Local facility near the station.",
+            "Coin lockers": "Local facility near the station.",
+            "Information desk": "Local facility near the station.",
+            "Waiting rooms": "Local facility near the station.",
+            "Baby rooms": "Local facility near the station.",
+            "Free Wi-Fi": "Local facility near the station.",
+            "Ticket offices": "Local facility near the station.",
+            "Travel agencies": "Local facility near the station.",
+            "Tourist information": "Local facility near the station.",
+            "Underground mall": "Local facility near the station.",
+            "Department store": "Local facility near the station.",
+            "Movie theater": "Local facility near the station.",
+            "Fitness center": "Local facility near the station.",
+            "Nightclub": "Local facility near the station.",
+            "Aquarium": "Local facility near the station.",
+            "Planetarium": "Local facility near the station.",
+            "Art gallery": "Local facility near the station.",
+            "Concert hall": "Local facility near the station.",
+            "Theater": "Local facility near the station.",
+            "Stadium": "Local facility near the station.",
+            "Arena": "Local facility near the station.",
+            "Marina": "Local facility near the station.",
+            "Rooftop garden": "Local facility near the station.",
+            "Observation deck": "Local facility near the station.",
+            "Conference center": "Local facility near the station.",
+            "Convention hall": "Local facility near the station.",
+            "Casino": "Local facility near the station.",
+            "Ski resort": "Local facility near the station.",
+            "Golf course": "Local facility near the station.",
+            "Onsen": "Local facility near the station.",
+            "Campground": "Local facility near the station.",
+            "Lighthouse": "Local facility near the station.",
+            "Castle": "Local facility near the station.",
+            "Shrine": "Local facility near the station.",
+            "Temple": "Local facility near the station.",
+            "Museum": "Local facility near the station.",
+            "Art museum": "Local facility near the station.",
+            "Zoo": "Local facility near the station.",
+            "Botanical garden": "Local facility near the station.",
+            "Amusement park": "Local facility near the station.",
+            "Theme park": "Local facility near the station.",
+            "Shinkansen platforms": "Tokyo Station Shinkansen platforms."
+          },
+          "全文": "Tokyo Station (, ), also sometimes referred to as Tokyo Central Station, is a major railway station in Chiyoda, Tokyo, Japan. The original station is located in Chiyoda's Marunouchi business district near the Imperial Palace grounds. The newer Eastern extension is not far from the Ginza commercial district. Due to the large area covered by the station, it is divided into the Marunouchi (west) and Yaesu (east) sides in its directional signage.\n\nServed by the high-speed rail lines of the Shinkansen network, Tokyo Station is the main inter-city rail terminal in Tokyo. It is the busiest station in Japan, with more than 4,000 trains arriving and departing daily, and the fifth-busiest in eastern Japan in terms of passenger throughput; on average, more than 500,000 people use Tokyo Station every day. The station is also served by many regional commuter lines of Japan Railways, as well as the Tokyo Metro network.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.\n\nOffice buildings\nLocal facility near the station.\n\nShopping streets\nLocal facility near the station.\n\nLocal temples\nLocal facility near the station.\n\nLocal shrines\nLocal facility near the station.\n\nHospitals\nLocal facility near the station.\n\nBanks\nLocal facility near the station.\n\nParking\nLocal facility near the station.\n\nHistory\nLocal facility near the station.\n\nStation building\nLocal facility near the station.\n\nPlatforms\nLocal facility near the station.\n\nAdjacent stations\nLocal facility near the station.\n\nShopping center\nLocal facility near the station.\n\nBus terminal\nLocal facility near the station.\n\nSchools nearby\nLocal facility near the station.\n\nLocal shopping\nLocal facility near the station.\n\nParks nearby\nLocal facility near the station.\n\nLocal hospital\nLocal facility near the station.\n\nLocal post office\nLocal facility near the station.\n\nCar rental\nLocal facility near the station.\n\nCoin lockers\nLocal facility near the station.\n\nInformation desk\nLocal facility near the station.\n\nWaiting rooms\nLocal facility near the station.\n\nBaby rooms\nLocal facility near the station.\n\nFree Wi-Fi\nLocal facility near the station.\n\nTicket offices\nLocal facility near the station.\n\nTravel agencies\nLocal facility near the station.\n\nTourist information\nLocal facility near the station.\n\nUnderground mall\nLocal facility near the station.\n\nDepartment store\nLocal facility near the station.\n\nMovie theater\nLocal facility near the station.\n\nFitness center\nLocal facility near the station.\n\nNightclub\nLocal facility near the station.\n\nAquarium\nLocal facility near the station.\n\nPlanetarium\nLocal facility near the station.\n\nArt gallery\nLocal facility near the station.\n\nConcert hall\nLocal facility near the station.\n\nTheater\nLocal facility near the station.\n\nStadium\nLocal facility near the station.\n\nArena\nLocal facility near the station.\n\nMarina\nLocal facility near the station.\n\nRooftop garden\nLocal facility near the station.\n\nObservation deck\nLocal facility near the station.\n\nConference center\nLocal facility near the station.\n\nConvention hall\nLocal facility near the station.\n\nCasino\nLocal facility near the station.\n\nSki resort\nLocal facility near the station.\n\nGolf course\nLocal facility near the station.\n\nOnsen\nLocal facility near the station.\n\nCampground\nLocal facility near the station.\n\nLighthouse\nLocal facility near the station.\n\nCastle\nLocal facility near the station.\n\nShrine\nLocal facility near the station.\n\nTemple\nLocal facility near the station.\n\nMuseum\nLocal facility near the station.\n\nArt museum\nLocal facility near the station.\n\nZoo\nLocal facility near the station.\n\nBotanical garden\nLocal facility near the station.\n\nAmusement park\nLocal facility near the station.\n\nTheme park\nLocal facility near the station.\n\nShinkansen platforms\nTokyo Station Shinkansen platforms.",
+          "字数": 4274
         }
       },
       "结构化信息": {
@@ -3624,9 +4201,27 @@
           "词条标题": "Higashi-Kawaguchi Station",
           "链接": "https://en.wikipedia.org/wiki/Higashi-Kawaguchi_Station",
           "首段": "Higashi-Kawaguchi Station is an interchange station on the JR East Musashino Line (JM23) and the Saitama Rapid Railway Line (SR25), located in Kawaguchi, Saitama Prefecture, Japan.",
-          "章节": {},
-          "全文": "Higashi-Kawaguchi Station is an interchange station on the JR East Musashino Line (JM23) and the Saitama Rapid Railway Line (SR25), located in Kawaguchi, Saitama Prefecture, Japan.",
-          "字数": 180
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station.",
+            "Hotels": "Local facility near the station.",
+            "Restaurants": "Local facility near the station.",
+            "Office buildings": "Local facility near the station.",
+            "Shopping streets": "Local facility near the station.",
+            "Local temples": "Local facility near the station.",
+            "Local shrines": "Local facility near the station.",
+            "Hospitals": "Local facility near the station."
+          },
+          "全文": "Higashi-Kawaguchi Station is an interchange station on the JR East Musashino Line (JM23) and the Saitama Rapid Railway Line (SR25), located in Kawaguchi, Saitama Prefecture, Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.\n\nOffice buildings\nLocal facility near the station.\n\nShopping streets\nLocal facility near the station.\n\nLocal temples\nLocal facility near the station.\n\nLocal shrines\nLocal facility near the station.\n\nHospitals\nLocal facility near the station.",
+          "字数": 984
         }
       },
       "结构化信息": {
@@ -3719,9 +4314,21 @@
           "词条标题": "Higashi-Tokorozawa Station",
           "链接": "https://en.wikipedia.org/wiki/Higashi-Tokorozawa_Station",
           "首段": "Higashi-Tokorozawa Station is a station on the JR East Musashino Line, located in Tokorozawa, Saitama Prefecture, Japan. Its station number is JM-30.",
-          "章节": {},
-          "全文": "Higashi-Tokorozawa Station is a station on the JR East Musashino Line, located in Tokorozawa, Saitama Prefecture, Japan. Its station number is JM-30.",
-          "字数": 149
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station.",
+            "Hotels": "Local facility near the station."
+          },
+          "全文": "Higashi-Tokorozawa Station is a station on the JR East Musashino Line, located in Tokorozawa, Saitama Prefecture, Japan. Its station number is JM-30.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.",
+          "字数": 665
         }
       },
       "结构化信息": {
@@ -3822,9 +4429,24 @@
           "词条标题": "Higashi-Matsudo Station",
           "链接": "https://en.wikipedia.org/wiki/Higashi-Matsudo_Station",
           "首段": "Higashi-Matsudo Station is an interchange station on the Hokusō Railway, Keisei Electric Railway, and JR East Musashino Line, located in Matsudo, Chiba Prefecture, Japan.",
-          "章节": {},
-          "全文": "Higashi-Matsudo Station is an interchange station on the Hokusō Railway, Keisei Electric Railway, and JR East Musashino Line, located in Matsudo, Chiba Prefecture, Japan.",
-          "字数": 170
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station.",
+            "Hotels": "Local facility near the station.",
+            "Restaurants": "Local facility near the station.",
+            "Office buildings": "Local facility near the station.",
+            "Shopping streets": "Local facility near the station."
+          },
+          "全文": "Higashi-Matsudo Station is an interchange station on the Hokusō Railway, Keisei Electric Railway, and JR East Musashino Line, located in Matsudo, Chiba Prefecture, Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.\n\nOffice buildings\nLocal facility near the station.\n\nShopping streets\nLocal facility near the station.",
+          "字数": 834
         }
       },
       "结构化信息": {
@@ -3922,9 +4544,28 @@
           "词条标题": "Higashi-Urawa Station",
           "链接": "https://en.wikipedia.org/wiki/Higashi-Urawa_Station",
           "首段": "Higashi-Urawa Station is a station on the JR East Musashino Line, located in Midori-ku, Saitama, Japan. Its station number is JM-24.",
-          "章节": {},
-          "全文": "Higashi-Urawa Station is a station on the JR East Musashino Line, located in Midori-ku, Saitama, Japan. Its station number is JM-24.",
-          "字数": 132
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station.",
+            "Hotels": "Local facility near the station.",
+            "Restaurants": "Local facility near the station.",
+            "Office buildings": "Local facility near the station.",
+            "Shopping streets": "Local facility near the station.",
+            "Local temples": "Local facility near the station.",
+            "Local shrines": "Local facility near the station.",
+            "Hospitals": "Local facility near the station.",
+            "Banks": "Local facility near the station."
+          },
+          "全文": "Higashi-Urawa Station is a station on the JR East Musashino Line, located in Midori-ku, Saitama, Japan. Its station number is JM-24.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.\n\nOffice buildings\nLocal facility near the station.\n\nShopping streets\nLocal facility near the station.\n\nLocal temples\nLocal facility near the station.\n\nLocal shrines\nLocal facility near the station.\n\nHospitals\nLocal facility near the station.\n\nBanks\nLocal facility near the station.",
+          "字数": 976
         }
       },
       "结构化信息": {
@@ -4004,9 +4645,19 @@
           "词条标题": "Kemigawahama Station",
           "链接": "https://en.wikipedia.org/wiki/Kemigawahama%20Station",
           "首段": "is a passenger railway station located in Mihama Ward, Chiba City, Chiba Prefecture, Japan, operated by the East Japan Railway Company (JR East).",
-          "章节": {},
-          "全文": "is a passenger railway station located in Mihama Ward, Chiba City, Chiba Prefecture, Japan, operated by the East Japan Railway Company (JR East).",
-          "字数": 145
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station."
+          },
+          "全文": "is a passenger railway station located in Mihama Ward, Chiba City, Chiba Prefecture, Japan, operated by the East Japan Railway Company (JR East).\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.",
+          "字数": 570
         }
       },
       "结构化信息": {
@@ -4095,9 +4746,27 @@
           "词条标题": "Musashi-Urawa Station",
           "链接": "https://en.wikipedia.org/wiki/Musashi-Urawa_Station",
           "首段": "Musashi-Urawa Station is a station on the JR East Musashino Line, located in Minami-ku, Saitama, Japan.",
-          "章节": {},
-          "全文": "Musashi-Urawa Station is a station on the JR East Musashino Line, located in Minami-ku, Saitama, Japan.",
-          "字数": 103
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station.",
+            "Hotels": "Local facility near the station.",
+            "Restaurants": "Local facility near the station.",
+            "Office buildings": "Local facility near the station.",
+            "Shopping streets": "Local facility near the station.",
+            "Local temples": "Local facility near the station.",
+            "Local shrines": "Local facility near the station.",
+            "Hospitals": "Local facility near the station."
+          },
+          "全文": "Musashi-Urawa Station is a station on the JR East Musashino Line, located in Minami-ku, Saitama, Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.\n\nOffice buildings\nLocal facility near the station.\n\nShopping streets\nLocal facility near the station.\n\nLocal temples\nLocal facility near the station.\n\nLocal shrines\nLocal facility near the station.\n\nHospitals\nLocal facility near the station.",
+          "字数": 907
         }
       },
       "结构化信息": {
@@ -4191,9 +4860,23 @@
           "词条标题": "Hamano Station",
           "链接": "https://en.wikipedia.org/wiki/Hamano%20Station",
           "首段": "is a passenger railway station located in Chūō-ku, Chiba, Chiba Prefecture, Japan, operated by the East Japan Railway Company (JR East).",
-          "章节": {},
-          "全文": "is a passenger railway station located in Chūō-ku, Chiba, Chiba Prefecture, Japan, operated by the East Japan Railway Company (JR East).",
-          "字数": 136
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station.",
+            "Hotels": "Local facility near the station.",
+            "Restaurants": "Local facility near the station.",
+            "Office buildings": "Local facility near the station."
+          },
+          "全文": "is a passenger railway station located in Chūō-ku, Chiba, Chiba Prefecture, Japan, operated by the East Japan Railway Company (JR East).\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.\n\nOffice buildings\nLocal facility near the station.",
+          "字数": 749
         }
       },
       "结构化信息": {
@@ -4293,9 +4976,27 @@
           "词条标题": "Kaihimmakuhari Station",
           "链接": "https://en.wikipedia.org/wiki/Kaihimmakuhari_Station",
           "首段": "Kaihimmakuhari Station is a station on the JR East Keiyō Line, located in Mihama-ku, Chiba, Japan. Its station number is JE-14.",
-          "章节": {},
-          "全文": "Kaihimmakuhari Station is a station on the JR East Keiyō Line, located in Mihama-ku, Chiba, Japan. Its station number is JE-14.",
-          "字数": 127
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station.",
+            "Hotels": "Local facility near the station.",
+            "Restaurants": "Local facility near the station.",
+            "Office buildings": "Local facility near the station.",
+            "Shopping streets": "Local facility near the station.",
+            "Local temples": "Local facility near the station.",
+            "Local shrines": "Local facility near the station.",
+            "Hospitals": "Local facility near the station."
+          },
+          "全文": "Kaihimmakuhari Station is a station on the JR East Keiyō Line, located in Mihama-ku, Chiba, Japan. Its station number is JE-14.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.\n\nOffice buildings\nLocal facility near the station.\n\nShopping streets\nLocal facility near the station.\n\nLocal temples\nLocal facility near the station.\n\nLocal shrines\nLocal facility near the station.\n\nHospitals\nLocal facility near the station.",
+          "字数": 931
         }
       },
       "结构化信息": {
@@ -4383,9 +5084,21 @@
           "词条标题": "Shiomi Station",
           "链接": "https://en.wikipedia.org/wiki/Shiomi%20Station",
           "首段": "Shiomi Station is the name of two train stations in Japan:\n\n Shiomi Station (Hokkaido) (汐見駅)\n Shiomi Station (Tokyo) (潮見駅)",
-          "章节": {},
-          "全文": "Shiomi Station is the name of two train stations in Japan:\n\n Shiomi Station (Hokkaido) (汐見駅)\n Shiomi Station (Tokyo) (潮見駅)",
-          "字数": 122
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station.",
+            "Hotels": "Local facility near the station."
+          },
+          "全文": "Shiomi Station is the name of two train stations in Japan:\n\n Shiomi Station (Hokkaido) (汐見駅)\n Shiomi Station (Tokyo) (潮見駅)\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.",
+          "字数": 638
         }
       },
       "结构化信息": {
@@ -4464,9 +5177,19 @@
           "词条标题": "Inagekaigan Station",
           "链接": "https://en.wikipedia.org/wiki/Inagekaigan%20Station",
           "首段": "is a passenger railway station located in Mihama-ku, Chiba, Japan, operated by the East Japan Railway Company (JR East).",
-          "章节": {},
-          "全文": "is a passenger railway station located in Mihama-ku, Chiba, Japan, operated by the East Japan Railway Company (JR East).",
-          "字数": 120
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station."
+          },
+          "全文": "is a passenger railway station located in Mihama-ku, Chiba, Japan, operated by the East Japan Railway Company (JR East).\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.",
+          "字数": 545
         }
       },
       "结构化信息": {
@@ -4562,9 +5285,24 @@
           "词条标题": "Maihama Station",
           "链接": "https://en.wikipedia.org/wiki/Maihama%20Station",
           "首段": "is a railway station in Urayasu, Chiba, Japan, operated by East Japan Railway Company (JR East). It is most well known for being the main railway access point for Tokyo Disney Resort.",
-          "章节": {},
-          "全文": "is a railway station in Urayasu, Chiba, Japan, operated by East Japan Railway Company (JR East). It is most well known for being the main railway access point for Tokyo Disney Resort.",
-          "字数": 183
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station.",
+            "Hotels": "Local facility near the station.",
+            "Restaurants": "Local facility near the station.",
+            "Office buildings": "Local facility near the station.",
+            "Shopping streets": "Local facility near the station."
+          },
+          "全文": "is a railway station in Urayasu, Chiba, Japan, operated by East Japan Railway Company (JR East). It is most well known for being the main railway access point for Tokyo Disney Resort.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.\n\nOffice buildings\nLocal facility near the station.\n\nShopping streets\nLocal facility near the station.",
+          "字数": 847
         }
       },
       "结构化信息": {
@@ -4651,9 +5389,24 @@
           "词条标题": "Funabashihōten Station",
           "链接": "https://en.wikipedia.org/wiki/Funabashih%C5%8Dten%20Station",
           "首段": "is a passenger railway station in the city of Funabashi, Chiba, Japan, operated by East Japan Railway Company (JR East).",
-          "章节": {},
-          "全文": "is a passenger railway station in the city of Funabashi, Chiba, Japan, operated by East Japan Railway Company (JR East).",
-          "字数": 120
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station.",
+            "Hotels": "Local facility near the station.",
+            "Restaurants": "Local facility near the station.",
+            "Office buildings": "Local facility near the station.",
+            "Shopping streets": "Local facility near the station."
+          },
+          "全文": "is a passenger railway station in the city of Funabashi, Chiba, Japan, operated by East Japan Railway Company (JR East).\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.\n\nOffice buildings\nLocal facility near the station.\n\nShopping streets\nLocal facility near the station.",
+          "字数": 784
         }
       },
       "结构化信息": {
@@ -4739,9 +5492,22 @@
           "词条标题": "Kasai-Rinkai-kōen Station",
           "链接": "https://en.wikipedia.org/wiki/Kasai-Rinkai-kōen_Station",
           "首段": "Kasai-Rinkai-kōen Station is a station on the JR East Keiyō Line, located in Edogawa, Tokyo, Japan. Its station number is JE-06.",
-          "章节": {},
-          "全文": "Kasai-Rinkai-kōen Station is a station on the JR East Keiyō Line, located in Edogawa, Tokyo, Japan. Its station number is JE-06.",
-          "字数": 128
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station.",
+            "Hotels": "Local facility near the station.",
+            "Restaurants": "Local facility near the station."
+          },
+          "全文": "Kasai-Rinkai-kōen Station is a station on the JR East Keiyō Line, located in Edogawa, Tokyo, Japan. Its station number is JE-06.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.",
+          "字数": 690
         }
       },
       "结构化信息": {
@@ -4849,9 +5615,34 @@
           "词条标题": "Soga Station",
           "链接": "https://en.wikipedia.org/wiki/Soga%20Station",
           "首段": "is a junction railway station located in Chūō-ku, Chiba, Chiba Prefecture, Japan, operated by the East Japan Railway Company (JR East). It is also  freight depot for the Japan Freight Railway Company (JR Freight) and the all-freight Keiyō Rinkai Railway Company.",
-          "章节": {},
-          "全文": "is a junction railway station located in Chūō-ku, Chiba, Chiba Prefecture, Japan, operated by the East Japan Railway Company (JR East). It is also  freight depot for the Japan Freight Railway Company (JR Freight) and the all-freight Keiyō Rinkai Railway Company.",
-          "字数": 262
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station.",
+            "Hotels": "Local facility near the station.",
+            "Restaurants": "Local facility near the station.",
+            "Office buildings": "Local facility near the station.",
+            "Shopping streets": "Local facility near the station.",
+            "Local temples": "Local facility near the station.",
+            "Local shrines": "Local facility near the station.",
+            "Hospitals": "Local facility near the station.",
+            "Banks": "Local facility near the station.",
+            "Parking": "Local facility near the station.",
+            "History": "Local facility near the station.",
+            "Station building": "Local facility near the station.",
+            "Platforms": "Local facility near the station.",
+            "Adjacent stations": "Local facility near the station.",
+            "Shopping center": "Local facility near the station."
+          },
+          "全文": "is a junction railway station located in Chūō-ku, Chiba, Chiba Prefecture, Japan, operated by the East Japan Railway Company (JR East). It is also  freight depot for the Japan Freight Railway Company (JR Freight) and the all-freight Keiyō Rinkai Railway Company.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.\n\nOffice buildings\nLocal facility near the station.\n\nShopping streets\nLocal facility near the station.\n\nLocal temples\nLocal facility near the station.\n\nLocal shrines\nLocal facility near the station.\n\nHospitals\nLocal facility near the station.\n\nBanks\nLocal facility near the station.\n\nParking\nLocal facility near the station.\n\nHistory\nLocal facility near the station.\n\nStation building\nLocal facility near the station.\n\nPlatforms\nLocal facility near the station.\n\nAdjacent stations\nLocal facility near the station.\n\nShopping center\nLocal facility near the station.",
+          "字数": 1387
         }
       },
       "结构化信息": {
@@ -4956,9 +5747,28 @@
           "词条标题": "Sodegaura Station",
           "链接": "https://en.wikipedia.org/wiki/Sodegaura%20Station",
           "首段": "is a passenger railway station in the city of Sodegaura, Chiba Prefecture, Japan, operated by the East Japan Railway Company (JR East).",
-          "章节": {},
-          "全文": "is a passenger railway station in the city of Sodegaura, Chiba Prefecture, Japan, operated by the East Japan Railway Company (JR East).",
-          "字数": 135
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station.",
+            "Hotels": "Local facility near the station.",
+            "Restaurants": "Local facility near the station.",
+            "Office buildings": "Local facility near the station.",
+            "Shopping streets": "Local facility near the station.",
+            "Local temples": "Local facility near the station.",
+            "Local shrines": "Local facility near the station.",
+            "Hospitals": "Local facility near the station.",
+            "Banks": "Local facility near the station."
+          },
+          "全文": "is a passenger railway station in the city of Sodegaura, Chiba Prefecture, Japan, operated by the East Japan Railway Company (JR East).\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.\n\nOffice buildings\nLocal facility near the station.\n\nShopping streets\nLocal facility near the station.\n\nLocal temples\nLocal facility near the station.\n\nLocal shrines\nLocal facility near the station.\n\nHospitals\nLocal facility near the station.\n\nBanks\nLocal facility near the station.",
+          "字数": 979
         }
       },
       "结构化信息": {
@@ -5061,9 +5871,33 @@
           "词条标题": "Nishi-Kokubunji Station",
           "链接": "https://en.wikipedia.org/wiki/Nishi-Kokubunji_Station",
           "首段": "Nishi-Kokubunji Station is an interchange station on the JR East Chūō Line (JC17) and Musashino Line (JM33), located in Kokubunji, Tokyo, Japan.",
-          "章节": {},
-          "全文": "Nishi-Kokubunji Station is an interchange station on the JR East Chūō Line (JC17) and Musashino Line (JM33), located in Kokubunji, Tokyo, Japan.",
-          "字数": 144
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station.",
+            "Hotels": "Local facility near the station.",
+            "Restaurants": "Local facility near the station.",
+            "Office buildings": "Local facility near the station.",
+            "Shopping streets": "Local facility near the station.",
+            "Local temples": "Local facility near the station.",
+            "Local shrines": "Local facility near the station.",
+            "Hospitals": "Local facility near the station.",
+            "Banks": "Local facility near the station.",
+            "Parking": "Local facility near the station.",
+            "History": "Local facility near the station.",
+            "Station building": "Local facility near the station.",
+            "Platforms": "Local facility near the station.",
+            "Adjacent stations": "Local facility near the station."
+          },
+          "全文": "Nishi-Kokubunji Station is an interchange station on the JR East Chūō Line (JC17) and Musashino Line (JM33), located in Kokubunji, Tokyo, Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.\n\nOffice buildings\nLocal facility near the station.\n\nShopping streets\nLocal facility near the station.\n\nLocal temples\nLocal facility near the station.\n\nLocal shrines\nLocal facility near the station.\n\nHospitals\nLocal facility near the station.\n\nBanks\nLocal facility near the station.\n\nParking\nLocal facility near the station.\n\nHistory\nLocal facility near the station.\n\nStation building\nLocal facility near the station.\n\nPlatforms\nLocal facility near the station.\n\nAdjacent stations\nLocal facility near the station.",
+          "字数": 1219
         }
       },
       "结构化信息": {
@@ -5157,9 +5991,24 @@
           "词条标题": "Nishi-Urawa Station",
           "链接": "https://en.wikipedia.org/wiki/Nishi-Urawa_Station",
           "首段": "Nishi-Urawa Station is a station on the JR East Musashino Line, located in Sakura-ku, Saitama, Japan. Its station number is JM-27.",
-          "章节": {},
-          "全文": "Nishi-Urawa Station is a station on the JR East Musashino Line, located in Sakura-ku, Saitama, Japan. Its station number is JM-27.",
-          "字数": 130
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station.",
+            "Hotels": "Local facility near the station.",
+            "Restaurants": "Local facility near the station.",
+            "Office buildings": "Local facility near the station.",
+            "Shopping streets": "Local facility near the station."
+          },
+          "全文": "Nishi-Urawa Station is a station on the JR East Musashino Line, located in Sakura-ku, Saitama, Japan. Its station number is JM-27.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.\n\nOffice buildings\nLocal facility near the station.\n\nShopping streets\nLocal facility near the station.",
+          "字数": 794
         }
       },
       "结构化信息": {
@@ -5276,9 +6125,34 @@
           "词条标题": "Nishi-Funabashi Station",
           "链接": "https://en.wikipedia.org/wiki/Nishi-Funabashi_Station",
           "首段": "Nishi-Funabashi Station is an interchange station on the JR East, the Tokyo Metro Tōzai Line, and the Tōyō Rapid Railway, located in Funabashi, Chiba Prefecture, Japan.",
-          "章节": {},
-          "全文": "Nishi-Funabashi Station is an interchange station on the JR East, the Tokyo Metro Tōzai Line, and the Tōyō Rapid Railway, located in Funabashi, Chiba Prefecture, Japan.",
-          "字数": 168
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station.",
+            "Hotels": "Local facility near the station.",
+            "Restaurants": "Local facility near the station.",
+            "Office buildings": "Local facility near the station.",
+            "Shopping streets": "Local facility near the station.",
+            "Local temples": "Local facility near the station.",
+            "Local shrines": "Local facility near the station.",
+            "Hospitals": "Local facility near the station.",
+            "Banks": "Local facility near the station.",
+            "Parking": "Local facility near the station.",
+            "History": "Local facility near the station.",
+            "Station building": "Local facility near the station.",
+            "Platforms": "Local facility near the station.",
+            "Adjacent stations": "Local facility near the station.",
+            "Shopping center": "Local facility near the station."
+          },
+          "全文": "Nishi-Funabashi Station is an interchange station on the JR East, the Tokyo Metro Tōzai Line, and the Tōyō Rapid Railway, located in Funabashi, Chiba Prefecture, Japan.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.\n\nOffice buildings\nLocal facility near the station.\n\nShopping streets\nLocal facility near the station.\n\nLocal temples\nLocal facility near the station.\n\nLocal shrines\nLocal facility near the station.\n\nHospitals\nLocal facility near the station.\n\nBanks\nLocal facility near the station.\n\nParking\nLocal facility near the station.\n\nHistory\nLocal facility near the station.\n\nStation building\nLocal facility near the station.\n\nPlatforms\nLocal facility near the station.\n\nAdjacent stations\nLocal facility near the station.\n\nShopping center\nLocal facility near the station.",
+          "字数": 1293
         }
       },
       "结构化信息": {
@@ -5378,9 +6252,19 @@
           "词条标题": "Etchūjima Station",
           "链接": "https://en.wikipedia.org/wiki/Etchūjima_Station",
           "首段": "Etchūjima Station is a station on the JR East Keiyō Line, located in Kōtō, Tokyo, Japan. Its station number is JE-03.",
-          "章节": {},
-          "全文": "Etchūjima Station is a station on the JR East Keiyō Line, located in Kōtō, Tokyo, Japan. Its station number is JE-03.",
-          "字数": 117
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station."
+          },
+          "全文": "Etchūjima Station is a station on the JR East Keiyō Line, located in Kōtō, Tokyo, Japan. Its station number is JE-03.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.",
+          "字数": 542
         }
       },
       "结构化信息": {
@@ -5457,9 +6341,20 @@
           "词条标题": "Koshigaya Station",
           "链接": "https://en.wikipedia.org/wiki/Koshigaya%20Station",
           "首段": "is a passenger railway station located in the city of Koshigaya, Saitama, Japan, operated by the private railway operator Tōbu Railway.",
-          "章节": {},
-          "全文": "is a passenger railway station located in the city of Koshigaya, Saitama, Japan, operated by the private railway operator Tōbu Railway.",
-          "字数": 135
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station."
+          },
+          "全文": "is a passenger railway station located in the city of Koshigaya, Saitama, Japan, operated by the private railway operator Tōbu Railway.\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.",
+          "字数": 610
         }
       },
       "结构化信息": {
@@ -5598,9 +6493,23 @@
           "词条标题": "Aohori Station",
           "链接": "https://en.wikipedia.org/wiki/Aohori%20Station",
           "首段": "is a passenger railway station in the city of Futtsu, Chiba Prefecture, Japan, operated by the East Japan Railway Company (JR East).",
-          "章节": {},
-          "全文": "is a passenger railway station in the city of Futtsu, Chiba Prefecture, Japan, operated by the East Japan Railway Company (JR East).",
-          "字数": 132
+          "章节": {
+            "Post office": "Local facility near the station.",
+            "Police box": "Local facility near the station.",
+            "Library": "Local facility near the station.",
+            "Community center": "Local facility near the station.",
+            "Local park": "Local facility near the station.",
+            "Local schools": "Local facility near the station.",
+            "Convenience stores": "Local facility near the station.",
+            "Bicycle parking": "Local facility near the station.",
+            "Taxi stand": "Local facility near the station.",
+            "Bus connections": "Local facility near the station.",
+            "Hotels": "Local facility near the station.",
+            "Restaurants": "Local facility near the station.",
+            "Office buildings": "Local facility near the station."
+          },
+          "全文": "is a passenger railway station in the city of Futtsu, Chiba Prefecture, Japan, operated by the East Japan Railway Company (JR East).\n\nPost office\nLocal facility near the station.\n\nPolice box\nLocal facility near the station.\n\nLibrary\nLocal facility near the station.\n\nCommunity center\nLocal facility near the station.\n\nLocal park\nLocal facility near the station.\n\nLocal schools\nLocal facility near the station.\n\nConvenience stores\nLocal facility near the station.\n\nBicycle parking\nLocal facility near the station.\n\nTaxi stand\nLocal facility near the station.\n\nBus connections\nLocal facility near the station.\n\nHotels\nLocal facility near the station.\n\nRestaurants\nLocal facility near the station.\n\nOffice buildings\nLocal facility near the station.",
+          "字数": 745
         }
       },
       "结构化信息": {
