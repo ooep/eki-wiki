@@ -282,10 +282,10 @@
           "链接": null,
           "首段": "Sanda Station (三田駅) is a disambiguation entry referring to several railway stations of that name in Japan.",
           "章节": {
-            "三田駅": "Sanda Station (Tokyo) is a station on the Toei Asakusa and Mita lines in Minato, Tokyo. Sanda Station (Hyogo) is a station on the JR West Fukuchiyama Line and Kobe Electric Railway Sanda Line in Sanda, Hyogo Prefecture."
+            "Other": "Sanda Station (Tokyo) is a station on the Toei Asakusa and Mita lines in Minato, Tokyo. Sanda Station (Hyogo) is a station on the JR West Fukuchiyama Line and Kobe Electric Railway Sanda Line in Sanda, Hyogo Prefecture."
           },
-          "全文": "Sanda Station (三田駅) is a disambiguation entry referring to several railway stations of that name in Japan.\n\n三田駅\nSanda Station (Tokyo) is a station on the Toei Asakusa and Mita lines in Minato, Tokyo. Sanda Station (Hyogo) is a station on the JR West Fukuchiyama Line and Kobe Electric Railway Sanda Line in Sanda, Hyogo Prefecture.",
-          "字数": 331
+          "全文": "Sanda Station (三田駅) is a disambiguation entry referring to several railway stations of that name in Japan.\n\nOther\nSanda Station (Tokyo) is a station on the Toei Asakusa and Mita lines in Minato, Tokyo. Sanda Station (Hyogo) is a station on the JR West Fukuchiyama Line and Kobe Electric Railway Sanda Line in Sanda, Hyogo Prefecture.",
+          "字数": 333
         }
       },
       "结构化信息": {
@@ -352,12 +352,12 @@
             "Station layout": "An at-grade station with one island platform serving two tracks; the station building is on the down side, connected to the platform by an underpass.",
             "Usage": "Average daily passengers: 306 (fiscal 2021).",
             "Surrounding area": "Located on the edge of Sanda's urban area but close to the old town center of Honmachi; mostly residential with some farmland.",
-            "神戸電鉄": "Sanda Line (including through services on the Kōen-Toshi Line).",
-            "特快速（新開地行のみ運転）・急行・準急・普通": "Yokoyama Station (KB27) – Sanda-Hommachi Station (KB28) – Sanda Station (KB29).",
-            "Railway stations in 三田市": "Sanda-Hommachi Station is one of the railway stations in Sanda, Hyogo Prefecture."
+            "Other": "Sanda-Hommachi Station is one of the railway stations in Sanda, Hyogo Prefecture.",
+            "History (2)": "See the Japanese Wikipedia article for historical details.",
+            "Station layout (2)": "This is an at-grade station."
           },
-          "全文": "Sanda-Hommachi Station (三田本町駅) is a Kobe Electric Railway Sanda Line station in Aioichō, Sanda, Hyōgo Prefecture, Japan. Its station number is KB28.\n\nHistory\nOct 10, 1929: opened on the Kobe-Arima Electric Railway Sanda Line between Dentetsu-Yokoyama and Sanda. Jan 9, 1947: became a station of the Shintetsu group following a merger with the Miki Electric Railway.\n\nStation layout\nAn at-grade station with one island platform serving two tracks; the station building is on the down side, connected to the platform by an underpass.\n\nUsage\nAverage daily passengers: 306 (fiscal 2021).\n\nSurrounding area\nLocated on the edge of Sanda's urban area but close to the old town center of Honmachi; mostly residential with some farmland.\n\n神戸電鉄\nSanda Line (including through services on the Kōen-Toshi Line).\n\n特快速（新開地行のみ運転）・急行・準急・普通\nYokoyama Station (KB27) – Sanda-Hommachi Station (KB28) – Sanda Station (KB29).\n\nRailway stations in 三田市\nSanda-Hommachi Station is one of the railway stations in Sanda, Hyogo Prefecture.",
-          "字数": 1009
+          "全文": "Sanda-Hommachi Station (三田本町駅) is a Kobe Electric Railway Sanda Line station in Aioichō, Sanda, Hyōgo Prefecture, Japan. Its station number is KB28.\n\nHistory\nOct 10, 1929: opened on the Kobe-Arima Electric Railway Sanda Line between Dentetsu-Yokoyama and Sanda. Jan 9, 1947: became a station of the Shintetsu group following a merger with the Miki Electric Railway.\n\nStation layout\nAn at-grade station with one island platform serving two tracks; the station building is on the down side, connected to the platform by an underpass.\n\nUsage\nAverage daily passengers: 306 (fiscal 2021).\n\nSurrounding area\nLocated on the edge of Sanda's urban area but close to the old town center of Honmachi; mostly residential with some farmland.\n\nOther\nSanda-Hommachi Station is one of the railway stations in Sanda, Hyogo Prefecture.\n\nHistory (2)\nSee the Japanese Wikipedia article for historical details.\n\nStation layout (2)\nThis is an at-grade station.",
+          "字数": 938
         }
       },
       "结构化信息": {
