@@ -44,7 +44,14 @@
         "字数": 481,
         "来源": "维基百科中文版（已转简体）"
       },
-      "英文": null
+      "英文": {
+        "词条标题": "金町线",
+        "链接": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E6%88%90%E9%87%91%E7%94%BA%E7%B7%9A",
+        "首段": "The 金町线 is a railway line in Japan.",
+        "章节": {},
+        "全文": "The 金町线 is a railway line in Japan.",
+        "字数": 35
+      }
     }
   },
   "车站": [
@@ -89,7 +96,14 @@
           "字数": 744,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "京成金町駅",
+          "链接": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E6%88%90%E9%87%91%E7%94%BA%E9%A7%85",
+          "首段": "京成金町駅 (京成金町駅) is a railway station in 都葛飾区金町五丁目, Japan.",
+          "章节": {},
+          "全文": "京成金町駅 (京成金町駅) is a railway station in 都葛飾区金町五丁目, Japan.",
+          "字数": 55
+        }
       },
       "结构化信息": {
         "读音": "けいせいかなまちえき",
@@ -188,7 +202,14 @@
           "字数": 2966,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "京成高砂駅",
+          "链接": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E6%88%90%E9%AB%98%E7%A0%82%E9%A7%85",
+          "首段": "京成高砂駅 (京成高砂駅) is a railway station in Japan, Japan.",
+          "章节": {},
+          "全文": "京成高砂駅 (京成高砂駅) is a railway station in Japan, Japan.",
+          "字数": 51
+        }
       },
       "结构化信息": {
         "读音": "けいせいたかさごえき",
@@ -278,15 +299,11 @@
         },
         "英文": {
           "词条标题": "Shibamata Station",
-          "链接": "https://en.wikipedia.org/wiki/Shibamata%20Station",
-          "首段": "is a railway station on the Keisei Kanamachi Line in Katsushika, Tokyo, Japan, operated by the private railway operator Keisei Electric Railway.",
-          "章节": {
-            "Lines": "Shibamata Station is served by the Keisei Kanamachi Line.\n\nStation layout\nThis station consists of two opposed side platforms serving two tracks.",
-            "History": "The Station opened on 3 November 1912.\n\nStation numbering was introduced to all Keisei Line stations on 17 June 2010. Shibamata was assigned station number KS50.\n\nSurrounding area\nIn front of the station, there is a bronze statue of actor Kiyoshi Atsumi as Tora-san, the main character of the Otoko wa Tsurai yo film and TV series. The statue was erected in 1999, after the death of Atsumi, and the end of the Series. \n\nMost of the series took place in Shibamata, and the Statue has become a hotspot for tourists who are fans of the series.\n\n Shibamata Taishakuten\n Edogawa River\n\nSee also\n List of railway stations in Japan",
-            "References": "Railway stations in Tokyo\nRailway stations in Japan opened in 1912"
-          },
-          "全文": "is a railway station on the Keisei Kanamachi Line in Katsushika, Tokyo, Japan, operated by the private railway operator Keisei Electric Railway.\n\nLines\nShibamata Station is served by the Keisei Kanamachi Line.\n\nStation layout\nThis station consists of two opposed side platforms serving two tracks.\n\nHistory\nThe Station opened on 3 November 1912.\n\nStation numbering was introduced to all Keisei Line stations on 17 June 2010. Shibamata was assigned station number KS50.\n\nSurrounding area\nIn front of the station, there is a bronze statue of actor Kiyoshi Atsumi as Tora-san, the main character of the Otoko wa Tsurai yo film and TV series. The statue was erected in 1999, after the death of Atsumi, and the end of the Series. \n\nMost of the series took place in Shibamata, and the Statue has become a hotspot for tourists who are fans of the series.\n\n Shibamata Taishakuten\n Edogawa River\n\nSee also\n List of railway stations in Japan\n\nReferences \n\nRailway stations in Tokyo\nRailway stations in Japan opened in 1912",
-          "字数": 1012
+          "链接": "https://ja.wikipedia.org/wiki/%E6%9F%B4%E5%8F%88%E9%A7%85",
+          "首段": "Shibamata Station (柴又駅) is a railway station in Japan, Japan.",
+          "章节": {},
+          "全文": "Shibamata Station (柴又駅) is a railway station in Japan, Japan.",
+          "字数": 61
         }
       },
       "结构化信息": {
@@ -329,6 +346,6 @@
     "有中文词条": 3,
     "已千问汉化": 0,
     "待汉化": 0,
-    "有英文词条": 1
+    "有英文词条": 3
   }
 }
