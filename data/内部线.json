@@ -152,17 +152,11 @@
         },
         "英文": {
           "词条标题": "Utsube Station",
-          "链接": "https://en.wikipedia.org/wiki/Utsube%20Station",
-          "首段": "is a terminal railway station on the Yokkaichi Asunarou Railway Utsube Line in Yokkaichi, Mie Prefecture, Japan, operated by the private railway operator Yokkaichi Asunarou Railway. It is 5.7 rail kilometers from the opposing terminus of the line at Asunarou Yokkaichi Station.",
-          "章节": {
-            "Lines": "Utsube Line",
-            "Layout": "Utsube Station has a side platform. Trains arriving at Utsube Station reverse course back for Asunarou Yokkaichi Station.",
-            "Platforms": "Adjacent stations",
-            "History": "Utsube Station was opened on June 22, 1922 as a station on the Mie Railway. On February 11, 1944, due to mergers, station falls under the ownership of Sanco. On February 1, 1964 the Railway division of Sanco splits off and forms separate company, the Mie Electric Railway, which merged with Kintetsu on April 1, 1965. Yokkaichi Asunarou Railway took over the control of the lines and started the operation on April 1, 2015. Until the day before, the lines were operated by Kintetsu Railway, a major private railway operator, as branches of the Kintetsu Nagoya Line.",
-            "References": "External links\n\nRailway stations in Japan opened in 1922\nRailway stations in Mie Prefecture"
-          },
-          "全文": "is a terminal railway station on the Yokkaichi Asunarou Railway Utsube Line in Yokkaichi, Mie Prefecture, Japan, operated by the private railway operator Yokkaichi Asunarou Railway. It is 5.7 rail kilometers from the opposing terminus of the line at Asunarou Yokkaichi Station.\n\nLines\nUtsube Line\n\nLayout\nUtsube Station has a side platform. Trains arriving at Utsube Station reverse course back for Asunarou Yokkaichi Station.\n\nPlatforms\n\nAdjacent stations\n\nHistory\nUtsube Station was opened on June 22, 1922 as a station on the Mie Railway. On February 11, 1944, due to mergers, station falls under the ownership of Sanco. On February 1, 1964 the Railway division of Sanco splits off and forms separate company, the Mie Electric Railway, which merged with Kintetsu on April 1, 1965. Yokkaichi Asunarou Railway took over the control of the lines and started the operation on April 1, 2015. Until the day before, the lines were operated by Kintetsu Railway, a major private railway operator, as branches of the Kintetsu Nagoya Line.\n\nReferences\n\nExternal links\n\nRailway stations in Japan opened in 1922\nRailway stations in Mie Prefecture",
-          "字数": 1136
+          "链接": "https://en.wikipedia.org/wiki/Utsube_Station",
+          "首段": "Utsube Station (内部駅, Utsube-eki) is the terminus of the Yokkaichi Asunarō Railway Utsube Line in Yokkaichi, Mie Prefecture, Japan.",
+          "章节": {},
+          "全文": "Utsube Station (内部駅, Utsube-eki) is the terminus of the Yokkaichi Asunarō Railway Utsube Line in Yokkaichi, Mie Prefecture, Japan.",
+          "字数": 130
         }
       },
       "结构化信息": {
@@ -239,7 +233,14 @@
           "字数": 857,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Minami-Hinaga Station",
+          "链接": "https://en.wikipedia.org/wiki/Minami-Hinaga_Station",
+          "首段": "Minami-Hinaga Station (南日永駅, Minami-Hinaga-eki) is a station on the Yokkaichi Asunarō Railway Utsube Line in Yokkaichi, Mie Prefecture, Japan.",
+          "章节": {},
+          "全文": "Minami-Hinaga Station (南日永駅, Minami-Hinaga-eki) is a station on the Yokkaichi Asunarō Railway Utsube Line in Yokkaichi, Mie Prefecture, Japan.",
+          "字数": 142
+        }
       },
       "结构化信息": {
         "读音": "みなみひながえき",
@@ -321,17 +322,11 @@
         },
         "英文": {
           "词条标题": "Ogoso Station",
-          "链接": "https://en.wikipedia.org/wiki/Ogoso%20Station",
-          "首段": "is a railway station on the Kintetsu Utsube Line in Yokkaichi, Mie Prefecture, Japan, operated by the private railway operator Kintetsu. It is 5.0 rail kilometers from the terminus of the line at Kintetsu-Yokkaichi Station.",
-          "章节": {
-            "Kintetsu": "Utsube Line",
-            "Layout": "Ogoso Station has a single side platform for bidirectional traffic.",
-            "Platforms": "Adjacent stations",
-            "History": "Ogoso Station was opened on June 22, 1922 as a station on the Mie Railway. The station was closed in January 1944, and reopened in May 1959 as a station on the Mie Kotsu, which later became the Mie Electric Railway, and which merged with Kintetsu on April 1, 1965.",
-            "References": "External links\n\n Kintetsu: Ogoso Station\n\nRailway stations in Japan opened in 1922\nRailway stations in Mie Prefecture"
-          },
-          "全文": "is a railway station on the Kintetsu Utsube Line in Yokkaichi, Mie Prefecture, Japan, operated by the private railway operator Kintetsu. It is 5.0 rail kilometers from the terminus of the line at Kintetsu-Yokkaichi Station.\n\nLines\nKintetsu\nUtsube Line\n\nLayout\nOgoso Station has a single side platform for bidirectional traffic.\n\nPlatforms\n\nAdjacent stations\n\nHistory\nOgoso Station was opened on June 22, 1922 as a station on the Mie Railway. The station was closed in January 1944, and reopened in May 1959 as a station on the Mie Kotsu, which later became the Mie Electric Railway, and which merged with Kintetsu on April 1, 1965.\n\nReferences\n\nExternal links\n\n Kintetsu: Ogoso Station\n\nRailway stations in Japan opened in 1922\nRailway stations in Mie Prefecture",
-          "字数": 762
+          "链接": "https://en.wikipedia.org/wiki/Ogoso_Station",
+          "首段": "Ogoso Station (小古曽駅, Ogoso-eki) is a station on the Yokkaichi Asunarō Railway Utsube Line in Yokkaichi, Mie Prefecture, Japan.",
+          "章节": {},
+          "全文": "Ogoso Station (小古曽駅, Ogoso-eki) is a station on the Yokkaichi Asunarō Railway Utsube Line in Yokkaichi, Mie Prefecture, Japan.",
+          "字数": 126
         }
       },
       "结构化信息": {
@@ -625,7 +620,14 @@
           "字数": 471,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "词条标题": "Oiwake Station",
+          "链接": "https://en.wikipedia.org/wiki/Oiwake_Station_(Mie)",
+          "首段": "Oiwake Station (追分駅, Oiwake-eki) is a station on the Yokkaichi Asunarō Railway Utsube Line in Yokkaichi, Mie Prefecture, Japan.",
+          "章节": {},
+          "全文": "Oiwake Station (追分駅, Oiwake-eki) is a station on the Yokkaichi Asunarō Railway Utsube Line in Yokkaichi, Mie Prefecture, Japan.",
+          "字数": 127
+        }
       },
       "结构化信息": {
         "读音": null,
@@ -654,6 +656,6 @@
     "有中文词条": 7,
     "已千问汉化": 0,
     "待汉化": 0,
-    "有英文词条": 5
+    "有英文词条": 7
   }
 }
