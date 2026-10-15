@@ -46,14 +46,14 @@
         "链接": "https://ja.wikipedia.org/wiki/%E4%BC%8A%E4%BA%88%E9%89%84%E9%81%93%E6%9C%AC%E7%94%BA%E7%B7%9A",
         "首段": "The 本町线 is a railway line in Japan.",
         "章节": {
-          "路線データ": "路 Line距離（営業キロ）：1.5km\n 軌間：1067mm\n 停留場数：5（起終点含む）\n 複 Line区間：なし（全 Line単 Line）\n 電化区間：全 Line電化（直流600V）",
-          "Operations": "単 Lineで途中に列車交換設備がないため、1列車のみ入 Line可能である。\n本町六丁目では、城北 Lineとの軌道は接続されていない。\n乗客減少から近年はダイヤ改正毎に列車の削減が行われている。\n2005年11月1日のダイヤ改正により昼間時間帯で改正前の20分間隔運転から30分間隔運転に減便され、路面電車としては日本で最も長い運転間隔となった。\n2018年3月1日のダイヤ改正ではさらに終日40分間隔運転に減便された。\n2020年7月23日のダイヤ改正により、土休日は終日運転が取りやめとなる。\n2021年3月1日のダイヤ改正により、平日のみ14往復に削減。午前中と夕方前に2時間半ほど運行のない時間帯が生じることとなった。\n2023年11月1日のダイヤ改正により、平日のみ7往復に削減。（予定）\n使用車両は1列車運用でバリアフリー対応をするため2100形の運用が多い。50形、2000形の運用はほとんど見られない。\n\nこの路 Lineにほぼ並行するバス路 Lineとして伊予鉄バス北条 Lineがある。",
-          "History": "1911年9月に開通した松山電気軌道がルーツで、札ノ辻（現在の本町三丁目） - 本町（現在の本町四丁目）間は現路 Lineの東側の路地を通っていた。\n\n1948年、旧松山電気軌道 Lineが1946年にsuspendedされて以来、途切れていた西堀端 - 本町三丁目（現在の本町四丁目）間が本町 LineとしてOpened.本町通り拡幅に伴い、軌道を道路中央に移設した。\n\n 1911年(1911)\n 9月1日 松山電気軌道が西堀端 - 札ノ辻（現在の本町三丁目）間をopened\n 9月19日 松山電気軌道が札ノ辻 - 本町間をopened\n 1921年(1921)4月1日 伊予鉄道が松山電気軌道を合併。\n 1946年(1946)8月19日 旧松山電気軌道 Lineの西堀端 - 本町 - 萱町 - 古町間suspended認可。\n 1948年(1948)7月1日 西堀端 - 本町三丁目（現在の本町四丁目）間が本町 LineとしてOpened.\n 1962年(1962)2月1日 本町三丁目（現在の本町四丁目） - 本町七丁目（現在の本町六丁目）間がOpened.\n 2018年(2018)3月1日 西堀端のうち、本町 Lineののりばを本町一丁目にrenamedならびに6号 Lineの起終点を道後温泉から松山市に変更。\n 2020年(2020)\n 4月11日 新型コロナウイルスの影響で当面の間、土日祝日は全便運休。\n 7月23日 ダイヤ改正により、土日祝日は全便運休。\n 2021年(2021)3月1日 平日のみの運行で1日14往復に削減。\n 2023年(2023)11月1日 平日のみの運行で1日7往復に削減。終電は本町六丁目13時発となる。（予定）\n 2024年(2024)3月 ICOCAを導入。（予定）",
-          "延伸構想": "国道196号 Line沿いに山越・鴨川方面までextensionして、 people口密度が非常に高いが鉄道空白地帯となっているこれらの地域と松山市 Stationを直接結ぶという構想が昔からあるが具体化していない。複 Line化などが必要であるものの、バス路 Lineが四国で最も高頻度運転を行っている区間の一つでもあり、extensionされた場合は当路 Lineが盲腸路 Lineではなくなる。松山市も公共交通の利便性向上や低炭素社会を実現するためには有効な手段であるとしており、国道196号を整備する時には、道路管理者である国に要望していきたいとしている。しかしながら伊予鉄は愛媛県に対し「本町 Lineの北部へのextensionについては、現時点では計画はない」と回答している。\n\n現状では運行本数が大きく削減され、extension構想はおろか逆に存廃論議すら出かねない状況に置かれることとなった。",
-          "日本の鉄道路線一覧": "This is a Wikipedia category section for 日本の鉄道路線一覧."
+          "Line data": "路線距離（営業）：1.5km\n軌間：1067mm\n停留場数：5（起終点含）\ndouble track区間：（全線single track）\nelectrified区間：全線electrified（直流600V）",
+          "Operations": "single track途中列車交換設備、1列車入線可能。\n本町六丁目、城北線軌道connection。\n乗客減少近年改正毎列車削減行。\nNovember 1, 2005改正昼間時間帯改正前20分間隔運転30分間隔運転減便、路面電車日本最長運転間隔。\nMarch 1, 2018改正終日40分間隔運転減便。\nJuly 23, 2020改正、土休日終日運転取。\nMarch 1, 2021改正、平日14往復削減。午前中夕方前2時間半運行時間帯生。\nNovember 1, 2023改正、平日7往復削減。（予定）\n使用車両1列車運用対応2100形運用多。50形、2000形運用見。\n\n路線並行路線伊予鉄北条線。",
+          "History": "19119月opened松山電気軌道、札辻（現在本町三丁目） - 本町（現在本町四丁目）間現路線東側路地通。\n\n1948、旧松山電気軌道線1946suspended以来、途切西堀端 - 本町三丁目（現在本町四丁目）間本町線opened。本町通拡幅伴、軌道道路中央relocated。\n\n1911(1911)\nSeptember 1 松山電気軌道西堀端 - 札辻（現在本町三丁目）間opened\nSeptember 19 松山電気軌道札辻 - 本町間opened\nApril 1, 1921 伊予鉄道松山電気軌道合併。\nAugust 19, 1946 旧松山電気軌道線西堀端 - 本町 - 萱町 - 古町間suspended認可。\nJuly 1, 1948 西堀端 - 本町三丁目（現在本町四丁目）間本町線opened。\nFebruary 1, 1962 本町三丁目（現在本町四丁目） - 本町七丁目（現在本町六丁目）間opened。\nMarch 1, 2018 西堀端、本町線platform本町一丁目renamed6号線起終点道後温泉松山市変更。\n2020(2020)\nApril 11 新型影響当面間、土日祝日全便運休。\nJuly 23 改正、土日祝日全便運休。\nMarch 1, 2021 平日運行1日14往復削減。\nNovember 1, 2023 平日運行1日7往復削減。終電本町六丁目13時発。（予定）\n2024(2024)3月 ICOCA導入。（予定）",
+          "延伸構想": "国道196号線沿山越鴨川方面extension、 people口密度非常高鉄道空白地帯地域松山市駅直接結構想昔具体化。double track化必要、路線四国最高頻度運転行区間一、extension場合当路線盲腸路線。松山市公共交通利便性向上低炭素社会実現有効手段、国道196号整備時、道路管理者国要望。伊予鉄愛媛県対「本町線北部extension、現時点計画」回答。\n\n現状運行本数大削減、extension構想逆存廃論議出状況置。",
+          "日本鉄道路線一覧": "This section covers 日本鉄道路線一覧."
         },
-        "全文": "The 本町线 is a railway line in Japan.\n\n路線データ\n路 Line距離（営業キロ）：1.5km\n 軌間：1067mm\n 停留場数：5（起終点含む）\n 複 Line区間：なし（全 Line単 Line）\n 電化区間：全 Line電化（直流600V）\n\nOperations\n単 Lineで途中に列車交換設備がないため、1列車のみ入 Line可能である。\n本町六丁目では、城北 Lineとの軌道は接続されていない。\n乗客減少から近年はダイヤ改正毎に列車の削減が行われている。\n2005年11月1日のダイヤ改正により昼間時間帯で改正前の20分間隔運転から30分間隔運転に減便され、路面電車としては日本で最も長い運転間隔となった。\n2018年3月1日のダイヤ改正ではさらに終日40分間隔運転に減便された。\n2020年7月23日のダイヤ改正により、土休日は終日運転が取りやめとなる。\n2021年3月1日のダイヤ改正により、平日のみ14往復に削減。午前中と夕方前に2時間半ほど運行のない時間帯が生じることとなった。\n2023年11月1日のダイヤ改正により、平日のみ7往復に削減。（予定）\n使用車両は1列車運用でバリアフリー対応をするため2100形の運用が多い。50形、2000形の運用はほとんど見られない。\n\nこの路 Lineにほぼ並行するバス路 Lineとして伊予鉄バス北条 Lineがある。\n\nHistory\n1911年9月に開通した松山電気軌道がルーツで、札ノ辻（現在の本町三丁目） - 本町（現在の本町四丁目）間は現路 Lineの東側の路地を通っていた。\n\n1948年、旧松山電気軌道 Lineが1946年にsuspendedされて以来、途切れていた西堀端 - 本町三丁目（現在の本町四丁目）間が本町 LineとしてOpened.本町通り拡幅に伴い、軌道を道路中央に移設した。\n\n 1911年(1911)\n 9月1日 松山電気軌道が西堀端 - 札ノ辻（現在の本町三丁目）間をopened\n 9月19日 松山電気軌道が札ノ辻 - 本町間をopened\n 1921年(1921)4月1日 伊予鉄道が松山電気軌道を合併。\n 1946年(1946)8月19日 旧松山電気軌道 Lineの西堀端 - 本町 - 萱町 - 古町間suspended認可。\n 1948年(1948)7月1日 西堀端 - 本町三丁目（現在の本町四丁目）間が本町 LineとしてOpened.\n 1962年(1962)2月1日 本町三丁目（現在の本町四丁目） - 本町七丁目（現在の本町六丁目）間がOpened.\n 2018年(2018)3月1日 西堀端のうち、本町 Lineののりばを本町一丁目にrenamedならびに6号 Lineの起終点を道後温泉から松山市に変更。\n 2020年(2020)\n 4月11日 新型コロナウイルスの影響で当面の間、土日祝日は全便運休。\n 7月23日 ダイヤ改正により、土日祝日は全便運休。\n 2021年(2021)3月1日 平日のみの運行で1日14往復に削減。\n 2023年(2023)11月1日 平日のみの運行で1日7往復に削減。終電は本町六丁目13時発となる。（予定）\n 2024年(2024)3月 ICOCAを導入。（予定）\n\n延伸構想\n国道196号 Line沿いに山越・鴨川方面までextensionして、 people口密度が非常に高いが鉄道空白地帯となっているこれらの地域と松山市 Stationを直接結ぶという構想が昔からあるが具体化していない。複 Line化などが必要であるものの、バス路 Lineが四国で最も高頻度運転を行っている区間の一つでもあり、extensionされた場合は当路 Lineが盲腸路 Lineではなくなる。松山市も公共交通の利便性向上や低炭素社会を実現するためには有効な手段であるとしており、国道196号を整備する時には、道路管理者である国に要望していきたいとしている。しかしながら伊予鉄は愛媛県に対し「本町 Lineの北部へのextensionについては、現時点では計画はない」と回答している。\n\n現状では運行本数が大きく削減され、extension構想はおろか逆に存廃論議すら出かねない状況に置かれることとなった。\n\n日本の鉄道路線一覧\nThis is a Wikipedia category section for 日本の鉄道路線一覧.",
-        "字数": 1854
+        "全文": "The 本町线 is a railway line in Japan.\n\nLine data\n路線距離（営業）：1.5km\n軌間：1067mm\n停留場数：5（起終点含）\ndouble track区間：（全線single track）\nelectrified区間：全線electrified（直流600V）\n\nOperations\nsingle track途中列車交換設備、1列車入線可能。\n本町六丁目、城北線軌道connection。\n乗客減少近年改正毎列車削減行。\nNovember 1, 2005改正昼間時間帯改正前20分間隔運転30分間隔運転減便、路面電車日本最長運転間隔。\nMarch 1, 2018改正終日40分間隔運転減便。\nJuly 23, 2020改正、土休日終日運転取。\nMarch 1, 2021改正、平日14往復削減。午前中夕方前2時間半運行時間帯生。\nNovember 1, 2023改正、平日7往復削減。（予定）\n使用車両1列車運用対応2100形運用多。50形、2000形運用見。\n\n路線並行路線伊予鉄北条線。\n\nHistory\n19119月opened松山電気軌道、札辻（現在本町三丁目） - 本町（現在本町四丁目）間現路線東側路地通。\n\n1948、旧松山電気軌道線1946suspended以来、途切西堀端 - 本町三丁目（現在本町四丁目）間本町線opened。本町通拡幅伴、軌道道路中央relocated。\n\n1911(1911)\nSeptember 1 松山電気軌道西堀端 - 札辻（現在本町三丁目）間opened\nSeptember 19 松山電気軌道札辻 - 本町間opened\nApril 1, 1921 伊予鉄道松山電気軌道合併。\nAugust 19, 1946 旧松山電気軌道線西堀端 - 本町 - 萱町 - 古町間suspended認可。\nJuly 1, 1948 西堀端 - 本町三丁目（現在本町四丁目）間本町線opened。\nFebruary 1, 1962 本町三丁目（現在本町四丁目） - 本町七丁目（現在本町六丁目）間opened。\nMarch 1, 2018 西堀端、本町線platform本町一丁目renamed6号線起終点道後温泉松山市変更。\n2020(2020)\nApril 11 新型影響当面間、土日祝日全便運休。\nJuly 23 改正、土日祝日全便運休。\nMarch 1, 2021 平日運行1日14往復削減。\nNovember 1, 2023 平日運行1日7往復削減。終電本町六丁目13時発。（予定）\n2024(2024)3月 ICOCA導入。（予定）\n\n延伸構想\n国道196号線沿山越鴨川方面extension、 people口密度非常高鉄道空白地帯地域松山市駅直接結構想昔具体化。double track化必要、路線四国最高頻度運転行区間一、extension場合当路線盲腸路線。松山市公共交通利便性向上低炭素社会実現有効手段、国道196号整備時、道路管理者国要望。伊予鉄愛媛県対「本町線北部extension、現時点計画」回答。\n\n現状運行本数大削減、extension構想逆存廃論議出状況置。\n\n日本鉄道路線一覧\nThis section covers 日本鉄道路線一覧.",
+        "字数": 1375
       }
     }
   },
@@ -105,16 +105,16 @@
           "链接": "https://ja.wikipedia.org/wiki/%E5%8D%97%E5%A0%80%E7%AB%AF%E5%81%9C%E7%95%99%E5%A0%B4",
           "首段": "南堀端停留場 (南堀端停留場) is a railway station in 県松山市南堀端町, Japan.",
           "章节": {
-            "Structure": "城南 Lineから松山市 Station方面への花園 Lineが分岐しており、松山市 Station - 西堀端、松山市 Station - 市役所前、西堀端 - 市役所前のいずれの方向へも直通運転が可能な配 Lineである。\n\n到着方面別に3つの「島」があり、いずれも安全地帯が付いている。\n大街道・道後温泉方面へ向かう場合は、A・Cの２つのホームのうち好きな方を利用可能。\n\nいずれの島の分岐器も、列車が進入する際のトロリーコンタクターの操作で転換できるようになっている。通常（安全地帯へノンストップで進入）は、左側が正位とされる。1つ目のトロリーコンタクターを操作後に一旦停止し「開通確認」とある表示灯が点灯すると、反位（右側）になる。他の分岐点もすべてこの方法によっている。なお、松山市 Station、JR松山 Station前、道後温泉 Stationでは、スプリングポイントが使用されている。\n\nのりば",
-            "愛媛県立図書館": "NHK松山放送局 (四国地方の拠点局)\n\n 野球場は松山中央公園にrelocatedし、旧球場は取り壊された。",
-            "伊予鉄道": "環状 Line（1号 Line環状開始・2号 Line市 Station入 Line）\n 松山市 Station (01) - 南堀端停留場 (02) - 西堀端停留場 (03)",
-            "環状線（1号線市駅入線・2号線環状開始）・3号線": "市役所前停留場 (21) - 南堀端停留場 (02) - 松山市 Station (01)",
-            "5号 Line": "市役所前停留場 (21) - 南堀端停留場 (02) - 西堀端停留場 (03)",
-            "6号 Line": "松山市 Station (01) - 南堀端停留場 (02) - 本町一丁目停留場 (25)",
-            "Railway stations in 松山市": "This is a Wikipedia category section for Railway stations in 松山市."
+            "Structure": "城南線松山市駅方面花園線分岐、松山市駅 - 西堀端、松山市駅 - 市city hall前、西堀端 - 市city hall前方向直通運転可能配線。\n\n到着方面別3「島」、安全地帯付。\n大街道道後温泉方面向場合、AC２platform好方利用可能。\n\n島分岐器、列車進入際操作転換。通常（安全地帯進入）、左側正位。1目操作後一旦停止「opened確認」表示灯点灯、反位（右側）。他分岐点方法。、松山市駅、JR松山in front of the station、道後温泉駅、使用。\n\nplatform",
+            "愛媛県立図書館": "NHK松山放送局 (四国地方拠点局)\n\n野球場松山中央parkrelocated、旧球場取壊。",
+            "伊予鉄道": "環状線（1号線環状開始2号線市駅入線）\n松山市駅 (01) - 南堀端停留場 (02) - 西堀端停留場 (03)",
+            "環状線（1号線市駅入線2号線環状開始）3号線": "市city hall前停留場 (21) - 南堀端停留場 (02) - 松山市駅 (01)",
+            "5号 Line": "市city hall前停留場 (21) - 南堀端停留場 (02) - 西堀端停留場 (03)",
+            "6号 Line": "松山市駅 (01) - 南堀端停留場 (02) - 本町一丁目停留場 (25)",
+            "Railway stations in 松山市": "This section covers Railway stations in 松山市."
           },
-          "全文": "南堀端停留場 (南堀端停留場) is a railway station in 県松山市南堀端町, Japan.\n\nStructure\n城南 Lineから松山市 Station方面への花園 Lineが分岐しており、松山市 Station - 西堀端、松山市 Station - 市役所前、西堀端 - 市役所前のいずれの方向へも直通運転が可能な配 Lineである。\n\n到着方面別に3つの「島」があり、いずれも安全地帯が付いている。\n大街道・道後温泉方面へ向かう場合は、A・Cの２つのホームのうち好きな方を利用可能。\n\nいずれの島の分岐器も、列車が進入する際のトロリーコンタクターの操作で転換できるようになっている。通常（安全地帯へノンストップで進入）は、左側が正位とされる。1つ目のトロリーコンタクターを操作後に一旦停止し「開通確認」とある表示灯が点灯すると、反位（右側）になる。他の分岐点もすべてこの方法によっている。なお、松山市 Station、JR松山 Station前、道後温泉 Stationでは、スプリングポイントが使用されている。\n\nのりば\n\n愛媛県立図書館\nNHK松山放送局 (四国地方の拠点局)\n\n 野球場は松山中央公園にrelocatedし、旧球場は取り壊された。\n\n伊予鉄道\n環状 Line（1号 Line環状開始・2号 Line市 Station入 Line）\n 松山市 Station (01) - 南堀端停留場 (02) - 西堀端停留場 (03)\n\n環状線（1号線市駅入線・2号線環状開始）・3号線\n市役所前停留場 (21) - 南堀端停留場 (02) - 松山市 Station (01)\n\n5号 Line\n市役所前停留場 (21) - 南堀端停留場 (02) - 西堀端停留場 (03)\n\n6号 Line\n松山市 Station (01) - 南堀端停留場 (02) - 本町一丁目停留場 (25)\n\nRailway stations in 松山市\nThis is a Wikipedia category section for Railway stations in 松山市.",
-          "字数": 906
+          "全文": "南堀端停留場 (南堀端停留場) is a railway station in 県松山市南堀端町, Japan.\n\nStructure\n城南線松山市駅方面花園線分岐、松山市駅 - 西堀端、松山市駅 - 市city hall前、西堀端 - 市city hall前方向直通運転可能配線。\n\n到着方面別3「島」、安全地帯付。\n大街道道後温泉方面向場合、AC２platform好方利用可能。\n\n島分岐器、列車進入際操作転換。通常（安全地帯進入）、左側正位。1目操作後一旦停止「opened確認」表示灯点灯、反位（右側）。他分岐点方法。、松山市駅、JR松山in front of the station、道後温泉駅、使用。\n\nplatform\n\n愛媛県立図書館\nNHK松山放送局 (四国地方拠点局)\n\n野球場松山中央parkrelocated、旧球場取壊。\n\n伊予鉄道\n環状線（1号線環状開始2号線市駅入線）\n松山市駅 (01) - 南堀端停留場 (02) - 西堀端停留場 (03)\n\n環状線（1号線市駅入線2号線環状開始）3号線\n市city hall前停留場 (21) - 南堀端停留場 (02) - 松山市駅 (01)\n\n5号 Line\n市city hall前停留場 (21) - 南堀端停留場 (02) - 西堀端停留場 (03)\n\n6号 Line\n松山市駅 (01) - 南堀端停留場 (02) - 本町一丁目停留場 (25)\n\nRailway stations in 松山市\nThis section covers Railway stations in 松山市.",
+          "字数": 683
         }
       },
       "结构化信息": {
@@ -199,14 +199,14 @@
           "链接": "https://ja.wikipedia.org/wiki/%E6%9C%AC%E7%94%BA%E4%B8%89%E4%B8%81%E7%9B%AE%E5%81%9C%E7%95%99%E5%A0%B4",
           "首段": "本町三丁目停留場 (本町三丁目停留場) is a railway station in 県松山市本町2丁目, Japan.",
           "章节": {
-            "Structure": "opened当初はなかったが、現在上下 Lineとも安全地帯付。\n\nのりば",
-            "History": "1911年9月1日 - 「札の辻」電停としてOpened.",
-            "2020年": "4月11日 - 新型コロナウイルスの影響で当面の間、土日祝日は全便運休となる。\n7月23日 - ダイヤ改正により、土日祝日は全便運休となる。",
+            "Structure": "opened当初、現在上下線安全地帯付。\n\nplatform",
+            "History": "September 1, 1911 - 「札辻」電停opened。",
+            "2020年": "April 11 - 新型影響当面間、土日祝日全便運休。\nJuly 23 - 改正、土日祝日全便運休。",
             "6号 Line": "本町一丁目停留場 (25) - 本町三丁目停留場 (26) - 本町四丁目停留場 (27)",
-            "Railway stations in 松山市": "This is a Wikipedia category section for Railway stations in 松山市."
+            "Railway stations in 松山市": "This section covers Railway stations in 松山市."
           },
-          "全文": "本町三丁目停留場 (本町三丁目停留場) is a railway station in 県松山市本町2丁目, Japan.\n\nStructure\nopened当初はなかったが、現在上下 Lineとも安全地帯付。\n\nのりば\n\nHistory\n1911年9月1日 - 「札の辻」電停としてOpened.\n\n2020年\n4月11日 - 新型コロナウイルスの影響で当面の間、土日祝日は全便運休となる。\n7月23日 - ダイヤ改正により、土日祝日は全便運休となる。\n\n6号 Line\n本町一丁目停留場 (25) - 本町三丁目停留場 (26) - 本町四丁目停留場 (27)\n\nRailway stations in 松山市\nThis is a Wikipedia category section for Railway stations in 松山市.",
-          "字数": 373
+          "全文": "本町三丁目停留場 (本町三丁目停留場) is a railway station in 県松山市本町2丁目, Japan.\n\nStructure\nopened当初、現在上下線安全地帯付。\n\nplatform\n\nHistory\nSeptember 1, 1911 - 「札辻」電停opened。\n\n2020年\nApril 11 - 新型影響当面間、土日祝日全便運休。\nJuly 23 - 改正、土日祝日全便運休。\n\n6号 Line\n本町一丁目停留場 (25) - 本町三丁目停留場 (26) - 本町四丁目停留場 (27)\n\nRailway stations in 松山市\nThis section covers Railway stations in 松山市.",
+          "字数": 330
         }
       },
       "结构化信息": {
@@ -279,15 +279,15 @@
           "链接": "https://ja.wikipedia.org/wiki/%E6%9C%AC%E7%94%BA%E4%BA%94%E4%B8%81%E7%9B%AE%E5%81%9C%E7%95%99%E5%A0%B4",
           "首段": "本町五丁目停留場 (本町五丁目停留場) is a railway station in 県松山市本町5丁目, Japan.",
           "章节": {
-            "Structure": "現在では上下 Lineとも安全地帯付。\n\nのりば",
-            "History": "1962年 opened",
-            "2020年": "4月11日 - 新型コロナウイルスの影響で当面の間、土日祝日は全便運休となる。\n7月23日 - ダイヤ改正により、土日祝日は全便運休となる。",
-            "Other": "かつて、本町方面行の停留所に安全地帯は無かったが、1996年に設置された。",
+            "Structure": "現在上下線安全地帯付。\n\nplatform",
+            "History": "1962 opened",
+            "2020年": "April 11 - 新型影響当面間、土日祝日全便運休。\nJuly 23 - 改正、土日祝日全便運休。",
+            "Other notes": "、本町方面行停留所安全地帯無、1996設置。",
             "6号 Line": "本町四丁目停留場 (27) - 本町五丁目停留場 (28) - 本町六丁目停留場 (29)",
-            "Railway stations in 松山市": "This is a Wikipedia category section for Railway stations in 松山市."
+            "Railway stations in 松山市": "This section covers Railway stations in 松山市."
           },
-          "全文": "本町五丁目停留場 (本町五丁目停留場) is a railway station in 県松山市本町5丁目, Japan.\n\nStructure\n現在では上下 Lineとも安全地帯付。\n\nのりば\n\nHistory\n1962年 opened\n\n2020年\n4月11日 - 新型コロナウイルスの影響で当面の間、土日祝日は全便運休となる。\n7月23日 - ダイヤ改正により、土日祝日は全便運休となる。\n\nOther\nかつて、本町方面行の停留所に安全地帯は無かったが、1996年に設置された。\n\n6号 Line\n本町四丁目停留場 (27) - 本町五丁目停留場 (28) - 本町六丁目停留場 (29)\n\nRailway stations in 松山市\nThis is a Wikipedia category section for Railway stations in 松山市.",
-          "字数": 388
+          "全文": "本町五丁目停留場 (本町五丁目停留場) is a railway station in 県松山市本町5丁目, Japan.\n\nStructure\n現在上下線安全地帯付。\n\nplatform\n\nHistory\n1962 opened\n\n2020年\nApril 11 - 新型影響当面間、土日祝日全便運休。\nJuly 23 - 改正、土日祝日全便運休。\n\nOther notes\n、本町方面行停留所安全地帯無、1996設置。\n\n6号 Line\n本町四丁目停留場 (27) - 本町五丁目停留場 (28) - 本町六丁目停留場 (29)\n\nRailway stations in 松山市\nThis section covers Railway stations in 松山市.",
+          "字数": 335
         }
       },
       "结构化信息": {
@@ -362,15 +362,15 @@
           "链接": "https://ja.wikipedia.org/wiki/%E6%9C%AC%E7%94%BA%E5%85%AD%E4%B8%81%E7%9B%AE%E5%81%9C%E7%95%99%E5%A0%B4",
           "首段": "本町六丁目停留場 (本町六丁目停留場) is a railway station in 県松山市本町六丁目, Japan.",
           "章节": {
-            "伊予鉄道": "城北 Line（鉄道）\n 本町 Line（軌道）\n\n城北 Lineを使用する1、2号 Lineの Station番号は09、本町 Lineを使用する6号 Lineの停留場番号は29となる。\n\nなお本町 Line（6号 Line）については2020年4月11日以降平日のみの運行となり、土日祝日は列車の発着がない。\n\n 環状 Line（1号 Line・2号 Line）\n 萱町六丁目停留場 (08) - 本町六丁目停留場 (09) - 木屋町停留場 (10)",
-            "城北 Line": "国道196号（本町通り）の踏切を挟んだ専用軌道上に1 Line2面のプラットホームがある。東方が上一万方面（1系統）、西方が古町方面（2系統）である。\n\n1962年 - 本町 Lineのextensionにより乗り換え便を図るため、本町七丁目 Stationとして設置される。\n1967年1月1日 - 住居表示実施により、本町六丁目停留場にrenamed。",
-            "本町 Line": "本町通りの併用軌道上に行き止まり式の棒 Line電停。安全地帯1面がある。 Line路は城北 Lineと直交する手前で途切れている。\n\nのりば\n\n1962年2月1日 - 本町 Lineが城北 Line本町踏み切り南までextensionとなり、本町七丁目電停として設置される。\n1967年1月1日 - 本町六丁目電停にrenamed。\n1970年頃 -  Line路東側に乗降用の安全地帯設置。",
-            "2020年": "4月11日 - 新型コロナウイルスの影響で当面の間、土日祝日は本町 Lineが全便運休となる。\n7月23日 - ダイヤ改正により、土日祝日は本町 Lineが全便運休となる。",
+            "伊予鉄道": "城北線（鉄道）\n本町線（軌道）\n\n城北線使用1、2号線駅番号09、本町線使用6号線停留場番号29。\n\n本町線（6号線）April 11, 2020以降平日運行、土日祝日列車発着。\n\n環状線（1号線2号線）\n萱町六丁目停留場 (08) - 本町六丁目停留場 (09) - 木屋町停留場 (10)",
+            "城北 Line": "国道196号（本町通）踏切挟専用軌道上1線2面platform。東方上一万方面（1系統）、西方古町方面（2系統）。\n\n1962 - 本町線extension乗換便図、本町七丁目駅設置。\nJanuary 1, 1967 - 住居表示実施、本町六丁目停留場renamed。",
+            "本町 Line": "本町通併用軌道上行止式棒線電停。安全地帯1面。tracks城北線直交手前途切。\n\nplatform\n\nFebruary 1, 1962 - 本町線城北線本町踏切南extension、本町七丁目電停設置。\nJanuary 1, 1967 - 本町六丁目電停renamed。\n1970頃 - tracks東側boarding and alighting用安全地帯設置。",
+            "2020年": "April 11 - 新型影響当面間、土日祝日本町線全便運休。\nJuly 23 - 改正、土日祝日本町線全便運休。",
             "6号 Line": "本町五丁目停留場 (28) - 本町六丁目停留場 (29)",
-            "Railway stations in 松山市": "This is a Wikipedia category section for Railway stations in 松山市."
+            "Railway stations in 松山市": "This section covers Railway stations in 松山市."
           },
-          "全文": "本町六丁目停留場 (本町六丁目停留場) is a railway station in 県松山市本町六丁目, Japan.\n\n伊予鉄道\n城北 Line（鉄道）\n 本町 Line（軌道）\n\n城北 Lineを使用する1、2号 Lineの Station番号は09、本町 Lineを使用する6号 Lineの停留場番号は29となる。\n\nなお本町 Line（6号 Line）については2020年4月11日以降平日のみの運行となり、土日祝日は列車の発着がない。\n\n 環状 Line（1号 Line・2号 Line）\n 萱町六丁目停留場 (08) - 本町六丁目停留場 (09) - 木屋町停留場 (10)\n\n城北 Line\n国道196号（本町通り）の踏切を挟んだ専用軌道上に1 Line2面のプラットホームがある。東方が上一万方面（1系統）、西方が古町方面（2系統）である。\n\n1962年 - 本町 Lineのextensionにより乗り換え便を図るため、本町七丁目 Stationとして設置される。\n1967年1月1日 - 住居表示実施により、本町六丁目停留場にrenamed。\n\n本町 Line\n本町通りの併用軌道上に行き止まり式の棒 Line電停。安全地帯1面がある。 Line路は城北 Lineと直交する手前で途切れている。\n\nのりば\n\n1962年2月1日 - 本町 Lineが城北 Line本町踏み切り南までextensionとなり、本町七丁目電停として設置される。\n1967年1月1日 - 本町六丁目電停にrenamed。\n1970年頃 -  Line路東側に乗降用の安全地帯設置。\n\n2020年\n4月11日 - 新型コロナウイルスの影響で当面の間、土日祝日は本町 Lineが全便運休となる。\n7月23日 - ダイヤ改正により、土日祝日は本町 Lineが全便運休となる。\n\n6号 Line\n本町五丁目停留場 (28) - 本町六丁目停留場 (29)\n\nRailway stations in 松山市\nThis is a Wikipedia category section for Railway stations in 松山市.",
-          "字数": 915
+          "全文": "本町六丁目停留場 (本町六丁目停留場) is a railway station in 県松山市本町六丁目, Japan.\n\n伊予鉄道\n城北線（鉄道）\n本町線（軌道）\n\n城北線使用1、2号線駅番号09、本町線使用6号線停留場番号29。\n\n本町線（6号線）April 11, 2020以降平日運行、土日祝日列車発着。\n\n環状線（1号線2号線）\n萱町六丁目停留場 (08) - 本町六丁目停留場 (09) - 木屋町停留場 (10)\n\n城北 Line\n国道196号（本町通）踏切挟専用軌道上1線2面platform。東方上一万方面（1系統）、西方古町方面（2系統）。\n\n1962 - 本町線extension乗換便図、本町七丁目駅設置。\nJanuary 1, 1967 - 住居表示実施、本町六丁目停留場renamed。\n\n本町 Line\n本町通併用軌道上行止式棒線電停。安全地帯1面。tracks城北線直交手前途切。\n\nplatform\n\nFebruary 1, 1962 - 本町線城北線本町踏切南extension、本町七丁目電停設置。\nJanuary 1, 1967 - 本町六丁目電停renamed。\n1970頃 - tracks東側boarding and alighting用安全地帯設置。\n\n2020年\nApril 11 - 新型影響当面間、土日祝日本町線全便運休。\nJuly 23 - 改正、土日祝日本町線全便運休。\n\n6号 Line\n本町五丁目停留場 (28) - 本町六丁目停留場 (29)\n\nRailway stations in 松山市\nThis section covers Railway stations in 松山市.",
+          "字数": 724
         }
       },
       "结构化信息": {
@@ -445,14 +445,14 @@
           "链接": "https://ja.wikipedia.org/wiki/%E6%9C%AC%E7%94%BA%E5%9B%9B%E4%B8%81%E7%9B%AE%E5%81%9C%E7%95%99%E5%A0%B4",
           "首段": "(本町四丁目, ) is a railway station, located in 愛媛県松山市本町3丁目4丁目, Japan.",
           "章节": {
-            "Structure": "opened当初は安全地帯はなかった（an island platform layout）が、交換設備closed後に上下 Lineとも設置された（互い違いにan island platform layout）。\n\nのりば \n\n2つのホームは交差点を挟んで配置されている（千鳥式）。",
-            "History": "1911年9月1日 - 「本町」電停としてOpened.",
-            "2020年": "4月11日 - 新型コロナウイルスの影響で当面の間、土日祝日は全便運休となる。\n7月23日 - ダイヤ改正により、土日祝日は全便運休となる。",
+            "Structure": "opened当初安全地帯（an island platform layout）、交換設備closed後上下線設置（互違an island platform layout）。\n\nplatform\n\n2platform交差点挟配置（千鳥式）。",
+            "History": "September 1, 1911 - 「本町」電停opened。",
+            "2020年": "April 11 - 新型影響当面間、土日祝日全便運休。\nJuly 23 - 改正、土日祝日全便運休。",
             "6号 Line": "本町三丁目停留場 (26) - 本町四丁目停留場 (27) - 本町五丁目停留場 (28)",
-            "Railway stations in 松山市": "This is a Wikipedia category section for Railway stations in 松山市."
+            "Railway stations in 松山市": "This section covers Railway stations in 松山市."
           },
-          "全文": "(本町四丁目, ) is a railway station, located in 愛媛県松山市本町3丁目4丁目, Japan.\n\nStructure\nopened当初は安全地帯はなかった（an island platform layout）が、交換設備closed後に上下 Lineとも設置された（互い違いにan island platform layout）。\n\nのりば \n\n2つのホームは交差点を挟んで配置されている（千鳥式）。\n\nHistory\n1911年9月1日 - 「本町」電停としてOpened.\n\n2020年\n4月11日 - 新型コロナウイルスの影響で当面の間、土日祝日は全便運休となる。\n7月23日 - ダイヤ改正により、土日祝日は全便運休となる。\n\n6号 Line\n本町三丁目停留場 (26) - 本町四丁目停留場 (27) - 本町五丁目停留場 (28)\n\nRailway stations in 松山市\nThis is a Wikipedia category section for Railway stations in 松山市.",
-          "字数": 480
+          "全文": "(本町四丁目, ) is a railway station, located in 愛媛県松山市本町3丁目4丁目, Japan.\n\nStructure\nopened当初安全地帯（an island platform layout）、交換設備closed後上下線設置（互違an island platform layout）。\n\nplatform\n\n2platform交差点挟配置（千鳥式）。\n\nHistory\nSeptember 1, 1911 - 「本町」電停opened。\n\n2020年\nApril 11 - 新型影響当面間、土日祝日全便運休。\nJuly 23 - 改正、土日祝日全便運休。\n\n6号 Line\n本町三丁目停留場 (26) - 本町四丁目停留場 (27) - 本町五丁目停留場 (28)\n\nRailway stations in 松山市\nThis section covers Railway stations in 松山市.",
+          "字数": 423
         }
       },
       "结构化信息": {
@@ -542,27 +542,27 @@
           "链接": "https://ja.wikipedia.org/wiki/%E6%9D%BE%E5%B1%B1%E5%B8%82%E9%A7%85",
           "首段": "松山市駅 (松山市駅) is a railway station in 県松山市湊町五丁目, Japan.",
           "章节": {
-            "Overview": "地元ではJR四国の松山 Stationと区別するため市 Station（しえき）と略して呼ばれ、道路標識にもその表記がみられるなど、広く通用している。 Station前広場には、道後温泉方面へ向かう同社の松山市内 Line（軌道）の松山市 Station停留場、バスターミナル、タクシープールなどがある。\n\n松山市の実質的な中心 Stationであり、四国地方で最多のboarding and alighting passengersを誇る。当 Stationの Stationビルに入居している四国最大の百貨店であるいよてつ高島屋を始めとして、周辺には繁華街やオフィス街が広がる。\n\n松山市 Station停留場では、「坊っちゃん列車」を牽引する蒸気機関車を模したディーゼル機関車が渡り Line上で方向転換する作業の様子が見られる。\n\n Station前のバスターミナルは、東京・京阪神からの高速バスなども発着する。\n\nダイヤ混乱時は、当 Stationと古町 Stationでの抑止を基本とした運転整理が行われる。\n\n四国初の自動ticket gate機設置 Stationであったが、2014年2月16日に、ICい～カードの普及に伴って、タッチセンサー(簡易ticket gate機)を増設して、自動ticket gate機は撤去された。現在普通乗車券については非磁気券のみを券売機で発売している。また中島汽船への硬券の連絡乗車券を「いよてつチケットセンター」で発売している。\n\n Station係員に申し出ることで、郊外 Lineの当 Stationのみ途中下車が可能である。",
-            "高浜 Line": "大手町 Station (IY09) - 松山市 Station (IY10)",
-            "横河原 Line": "松山市 Station (IY10) - 石手川公園 Station (IY11)",
-            "郡中 Line": "花園 Line（環状 Line・3号 Line・6号 Line）\n Station番号は郊外電車の高浜 Line、横河原 Line、郡中 LineがIY10、市内電車の花園 Lineは01である。\n\n 松山市 Station (IY10) - 土橋 Station (IY25)\n 花園 Line（1号 Line・2号 Line・3号 Line・6号 Line）\n 松山市 Station停留場 (01) - 南堀端停留場 (02)",
-            "History": "三津 Station・古町 Stationとともに、四国最初の鉄道 Stationの1つである。\n\n松山市に国鉄松山 Stationが開通する前からほぼ現在の場所にあり、opened当時は“松山 Station”という Station名であったが、1927年に国鉄松山 Stationがopenedすることになった際に国鉄 Lineの Station名を松山にするために、国鉄の Stationから離れた当 Stationは松山 Stationからrenamedするよう圧力がかけられた。伊予鉄側は国鉄の Station名を「伊予松山 Station」とすればよいと強く反発したが、国鉄は伊予鉄の運輸課長を東京の本省に呼び出してrenamedを迫り、国のすることには勝てないと松山 Stationを国鉄に譲って松山市 Stationにrenamedすることになった。",
-            "Chronology": "1888年(1888)10月28日：松山 StationとしてOpened.\n 1889年(1889)7月20日：外側 Station（とがわえき。同時にrenamedされた古町 Stationと対になる）にrenamed。\n 1900年(1900)5月1日：伊予鉄道が道後鉄道・南予鉄道を合併。南予鉄道（現在の郡中 Line）の藤原 Stationを統合。\n 1902年(1902)6月1日：松山 Stationに再renamed。\n 1927年(1927)3月1日：松山市 Stationにrenamed。同年4月の国鉄讃予 Line（現在の予讃 Line）の松山 Stationopenedによる措置。\n 1947年(1947)3月25日：松山市内 Line花園 Lineの松山市 Station停留場がOpened.\n2023fiscal year：松山市 Station前の再開発が完了する予定。路面電車の停留所が南側に移動し、松山市 Stationからスムーズに乗り換えができるように変更、歩行者専用広場は新設。タクシープールがあるスペースにバスターミナルを整備する方針。",
-            "Station layout": "各路 Lineの Line路は東西に延びており、 Station舎の南北に出入り口を設け、それぞれ北口、南口と称している。花園 Lineのホームは北口前のロータリー内にある。また北口ticket gate内には自動体外式除細動器が設置されている。",
-            "郊外電車のりば": "引込み Lineの位置の都合で2番 Lineから発車する横河原行きの列車が平日朝の1本存在する。\n配 Line構造により、郡中方面行きは3番 Line以外からの発着が不可能となっている。郡中 Lineで使用される電車は朝、古町からの回送扱いで2番 Lineに入 Lineし、その後留置 Line経由で3番 Lineへと入 Lineする。\n2番・3番ホームは、かつての中 Lineを本 Lineに転用して拡幅されたが、高浜・郡中側の末端部分はポイントが干渉して拡幅できないため、切り欠き状で残された。\n1番・2番 Lineが18メートル級4両編成対応であるが、3番 Lineは18メートル級車両3両編成までの対応である。\n\n| rowspan=\"2\" style=\"vertical-align:middle;text-align:center\" |1番 Line\n\n| rowspan=\"2\" style=\"vertical-align:middle;text-align:center\" |2番 Line\n\n| rowspan=\"2\" style=\"vertical-align:middle;text-align:center\" |3番 Line",
-            "Departure melody": "この Stationではオリジナルの電車発車メロディが流れる。かつてはそれぞれの番 Lineで別のメロディが鳴っており、特に2番 Lineと3番 Lineは同時発車するために同時にメロディが鳴っても違和感が無いように工夫されたメロディが用意されていた。のちにすべてのホームが1番 Lineのものに共通化され、2011年6月の終わり頃には「この街で」に変更された。これは松山市とのパートナーシップ協定の一環で、この曲が松山市の「ことばのちから」イベントで生まれた歌であることが起因する。\n\n2015年の7月1日に再び変更されており、現在は伊予鉄道社長の清水一郎が作曲した高浜 Station・郡中港 Station・横河原 Stationと共通の「リズム」というメロディが使用されている。",
-            "異電圧直直セクション": "高浜 Lineは直流600V、郡中 Lineと横河原 Lineは直流750Vと電圧が異なるので、当 Stationの高浜方に3カ所の直直セクションがある。このセクションは、交直接続のデッドセクションとは異なり、無電区間は存在しない（伊予鉄道 松山市 Station構内の異電圧直直セクション）。",
-            "市内電車のりば": "相対式an island platform layoutで、東側に片渡り Lineが設置されている。片渡り Lineでホームが区切られており、北側ホームの西側は坊っちゃん列車の降り場、東側は市内電車の降り場であり、南側ホームは西側は市内電車の乗り場、東側は留置 Lineおよび「坊っちゃん列車」の乗り場である。「坊っちゃん列車」の乗り場に柵が設置されており、平常時は市内電車の留置のため閉鎖されている。1号 Line（環状 Line内回り）・2号 Line（環状 Line外回り）・3号 Line・6号 Lineが発着する。\n\n市内電車は北側ホームで降車後、渡り Lineを使用して南側乗車ホームへ転 Lineする。\n\n坊っちゃん列車は当 Stationで機回しを行う。降車ホームに到着し乗客の降車後、客車を切り離し機関車のみ東端の電車降車ホームへ移動し、後退して片渡り Lineへ入り途中で一旦停車する。床下中央にある回転軸付きのジャッキでジャッキアップし、乗務員が手動で機関車ごと進行方向へ180度回転させ再び Line路へ下ろす。機関車が前進し乗車ホームへ到着後、降車ホームで切り離された客車は乗務員に手押しで折り返し機関車と連結したのち、編成ごと後退し坊っちゃん列車の乗車ホームで乗車させる。\n\nなお、環状 Lineの電車は松山市 Stationを越えて乗り通すことはできないため、松山市 Stationに到着したら降車しなければならない。",
-            "Usage": "松山市 Stationの2017fiscal yearのdaily average乗降客数は、27,416 peopleで、JRを含めた四国内の鉄道 Stationで最多となっている。近年は概ね増加傾向が続いている。",
-            "North exit": "いよてつ高島屋本館：四国最大の百貨店",
-            "大観覧車くるりん": "ローズホール（多目的ホール）",
-            "まつやまマドンナ郵便局": "松山市 Station前地下街（まつちかタウン）：四国唯一の地下街、高島屋のデパ地下と直結。\n レフ松山市 Station by ベッセルホテルズ：伊予鉄西ビルの跡地に建てられたホテル。",
-            "子規堂": "富士教材：老舗模型教材店\n 四国電力（株） 原子力本部原子力保安研修所",
-            "Bus routes": " Station前ロータリーにはバスのりばが設置されている。乗車10バース、降車3バース、合計13バース。なお、以前は現在高島屋本館の東半分（再開発での増床分）が位置している場所にバスターミナルが設置されていた。",
-            "Railway stations in 松山市": "This is a Wikipedia category section for Railway stations in 松山市."
+            "Overview": "地元JR四国松山駅区別市駅（）略呼、道路標識表記、広通用。in front of the station広場、道後温泉方面向同社松山市内線（軌道）松山市駅停留場、bus terminal、taxi。\n\n松山市実質的中心駅、四国地方最多boarding and alighting people員誇。当駅station building入居四国最大百貨店高島屋始、surrounding area繁華街街広。\n\n松山市駅停留場、「坊列車」牽引蒸気機関車模機関車渡線上方向転換作業様子見。\n\nin front of the stationbus terminal、東京京阪神高速発着。\n\n混乱時、当駅古町駅抑止基本運転整理行。\n\n四国初自動ticket gate機設置駅、February 16, 2014、IC～普及伴、(簡易ticket gate機)増設、自動ticket gate機撤去。現在普通乗車券非磁気券券売機発売。中島汽船硬券連絡乗車券「」発売。\n\n駅係員申出、郊外線当駅途中下車可能。",
+            "高浜 Line": "大手町駅 (IY09) - 松山市駅 (IY10)",
+            "横河原 Line": "松山市駅 (IY10) - 石手川park駅 (IY11)",
+            "郡中 Line": "花園線（環状線3号線6号線）\n駅番号郊外電車高浜線、横河原線、郡中線IY10、市内電車花園線01。\n\n松山市駅 (IY10) - 土橋駅 (IY25)\n花園線（1号線2号線3号線6号線）\n松山市駅停留場 (01) - 南堀端停留場 (02)",
+            "History": "三津駅古町駅、四国最初鉄道駅1。\n\n松山市国鉄松山駅opened前現在場所、opened当時“松山駅”駅名、1927国鉄松山駅opened際国鉄線駅名松山、国鉄駅離当駅松山駅renamed圧力。伊予鉄側国鉄駅名「伊予松山駅」強反発、国鉄伊予鉄運輸課長東京本省呼出renamed迫、国勝松山駅国鉄譲松山市駅renamed。",
+            "Chronology": "October 28, 1888：松山駅opened。\nJuly 20, 1889：外側駅（。同時renamed古町駅対）renamed。\nMay 1, 1900：伊予鉄道道後鉄道南予鉄道合併。南予鉄道（現在郡中線）藤原駅統合。\nJune 1, 1902：松山駅再renamed。\nMarch 1, 1927：松山市駅renamed。同年4月国鉄讃予線（現在予讃線）松山駅opened措置。\nMarch 25, 1947：松山市内線花園線松山市駅停留場opened。\nfiscal 2023：松山市in front of the station再開発完了予定。路面電車停留所南側移動、松山市駅乗換変更、歩行者専用広場新設。taxibus terminal整備方針。",
+            "Station layout": "各路線tracks東西延、station building南北出入口設、北口、南口称。花園線platform北口前roundabout内。北口ticket gate内自動体外式除細動器設置。",
+            "郊外電車": "引込線位置都合2番線発車横河原行列車平日朝1本存在。\n配線構造、郡中方面行3番線以外発着不可能。郡中線使用電車朝、古町回送扱2番線入線、後留置線経由3番線入線。\n2番3番platform、中線本線転用拡幅、高浜郡中側末端部分干渉拡幅、切欠状残。\n1番2番線18級4両編成対応、3番線18級車両3両編成対応。\n\n| rowspan=\"2\" style=\"vertical-align:middle;text-align:center\" |1番線\n\n| rowspan=\"2\" style=\"vertical-align:middle;text-align:center\" |2番線\n\n| rowspan=\"2\" style=\"vertical-align:middle;text-align:center\" |3番線",
+            "Departure melody": "駅電車発車流。番線別鳴、特2番線3番線同時発車同時鳴違和感無工夫用意。platform1番線共通化、20116月終頃「街」変更。松山市協定一環、曲松山市「」生歌起因。\n\n2015July 1再変更、現在伊予鉄道社長清水一郎作曲高浜駅郡中港駅横河原駅共通「」使用。",
+            "異電圧直直": "高浜線直流600V、郡中線横河原線直流750V電圧異、当駅高浜方3所直直。、交直connection異、無電区間存在（伊予鉄道 松山市駅構内異電圧直直）。",
+            "市内電車": "相対式two island platforms serving two tracks、東側片渡線設置。片渡線platform区切、北側platform西側坊列車降場、東側市内電車降場、南側platform西側市内電車乗場、東側留置線「坊列車」乗場。「坊列車」乗場柵設置、平常時市内電車留置閉鎖。1号線（環状線内回）2号線（環状線外回）3号線6号線発着。\n\n市内電車北側platform降車後、渡線使用南側乗車platform転線。\n\n坊列車当駅機回行。降車platform到着乗客降車後、客車切離機関車東端電車降車platform移動、後退片渡線入途中一旦停車。床下中央回転軸付、乗務員手動機関車進行方向180度回転再tracks下。機関車前進乗車platform到着後、降車platform切離客車乗務員手押折返機関車連結、編成後退坊列車乗車platform乗車。\n\n、環状線電車松山市駅越乗通、松山市駅到着降車。",
+            "Passenger statistics": "松山市駅fiscal 2017daily averageboarding and alighting客数、27,416 people、JR含四国内鉄道駅最多。近年概増加傾向続。",
+            "North exit": "高島屋本館：四国最大百貨店",
+            "大観覧車": "（多目的）",
+            "郵便局": "松山市in front of the station地下街（）：四国唯一地下街、高島屋地下直結。\n松山市駅 by hotel：伊予鉄西跡地建hotel。",
+            "子規堂": "富士教材：老舗模型教材店\n四国電力（株） 原子力本部原子力保安研修所",
+            "Bus routes": "in front of the stationroundaboutplatform設置。乗車10、降車3、合計13。、以前現在高島屋本館東半分（再開発増床分）位置場所bus terminal設置。",
+            "Railway stations in 松山市": "This section covers Railway stations in 松山市."
           },
-          "全文": "松山市駅 (松山市駅) is a railway station in 県松山市湊町五丁目, Japan.\n\nOverview\n地元ではJR四国の松山 Stationと区別するため市 Station（しえき）と略して呼ばれ、道路標識にもその表記がみられるなど、広く通用している。 Station前広場には、道後温泉方面へ向かう同社の松山市内 Line（軌道）の松山市 Station停留場、バスターミナル、タクシープールなどがある。\n\n松山市の実質的な中心 Stationであり、四国地方で最多のboarding and alighting passengersを誇る。当 Stationの Stationビルに入居している四国最大の百貨店であるいよてつ高島屋を始めとして、周辺には繁華街やオフィス街が広がる。\n\n松山市 Station停留場では、「坊っちゃん列車」を牽引する蒸気機関車を模したディーゼル機関車が渡り Line上で方向転換する作業の様子が見られる。\n\n Station前のバスターミナルは、東京・京阪神からの高速バスなども発着する。\n\nダイヤ混乱時は、当 Stationと古町 Stationでの抑止を基本とした運転整理が行われる。\n\n四国初の自動ticket gate機設置 Stationであったが、2014年2月16日に、ICい～カードの普及に伴って、タッチセンサー(簡易ticket gate機)を増設して、自動ticket gate機は撤去された。現在普通乗車券については非磁気券のみを券売機で発売している。また中島汽船への硬券の連絡乗車券を「いよてつチケットセンター」で発売している。\n\n Station係員に申し出ることで、郊外 Lineの当 Stationのみ途中下車が可能である。\n\n高浜 Line\n大手町 Station (IY09) - 松山市 Station (IY10)\n\n横河原 Line\n松山市 Station (IY10) - 石手川公園 Station (IY11)\n\n郡中 Line\n花園 Line（環状 Line・3号 Line・6号 Line）\n Station番号は郊外電車の高浜 Line、横河原 Line、郡中 LineがIY10、市内電車の花園 Lineは01である。\n\n 松山市 Station (IY10) - 土橋 Station (IY25)\n 花園 Line（1号 Line・2号 Line・3号 Line・6号 Line）\n 松山市 Station停留場 (01) - 南堀端停留場 (02)\n\nHistory\n三津 Station・古町 Stationとともに、四国最初の鉄道 Stationの1つである。\n\n松山市に国鉄松山 Stationが開通する前からほぼ現在の場所にあり、opened当時は“松山 Station”という Station名であったが、1927年に国鉄松山 Stationがopenedすることになった際に国鉄 Lineの Station名を松山にするために、国鉄の Stationから離れた当 Stationは松山 Stationからrenamedするよう圧力がかけられた。伊予鉄側は国鉄の Station名を「伊予松山 Station」とすればよいと強く反発したが、国鉄は伊予鉄の運輸課長を東京の本省に呼び出してrenamedを迫り、国のすることには勝てないと松山 Stationを国鉄に譲って松山市 Stationにrenamedすることになった。\n\nChronology\n1888年(1888)10月28日：松山 StationとしてOpened.\n 1889年(1889)7月20日：外側 Station（とがわえき。同時にrenamedされた古町 Stationと対になる）にrenamed。\n 1900年(1900)5月1日：伊予鉄道が道後鉄道・南予鉄道を合併。南予鉄道（現在の郡中 Line）の藤原 Stationを統合。\n 1902年(1902)6月1日：松山 Stationに再renamed。\n 1927年(1927)3月1日：松山市 Stationにrenamed。同年4月の国鉄讃予 Line（現在の予讃 Line）の松山 Stationopenedによる措置。\n 1947年(1947)3月25日：松山市内 Line花園 Lineの松山市 Station停留場がOpened.\n2023fiscal year：松山市 Station前の再開発が完了する予定。路面電車の停留所が南側に移動し、松山市 Stationからスムーズに乗り換えができるように変更、歩行者専用広場は新設。タクシープールがあるスペースにバスターミナルを整備する方針。\n\nStation layout\n各路 Lineの Line路は東西に延びており、 Station舎の南北に出入り口を設け、それぞれ北口、南口と称している。花園 Lineのホームは北口前のロータリー内にある。また北口ticket gate内には自動体外式除細動器が設置されている。\n\n郊外電車のりば\n引込み Lineの位置の都合で2番 Lineから発車する横河原行きの列車が平日朝の1本存在する。\n配 Line構造により、郡中方面行きは3番 Line以外からの発着が不可能となっている。郡中 Lineで使用される電車は朝、古町からの回送扱いで2番 Lineに入 Lineし、その後留置 Line経由で3番 Lineへと入 Lineする。\n2番・3番ホームは、かつての中 Lineを本 Lineに転用して拡幅されたが、高浜・郡中側の末端部分はポイントが干渉して拡幅できないため、切り欠き状で残された。\n1番・2番 Lineが18メートル級4両編成対応であるが、3番 Lineは18メートル級車両3両編成までの対応である。\n\n| rowspan=\"2\" style=\"vertical-align:middle;text-align:center\" |1番 Line\n\n| rowspan=\"2\" style=\"vertical-align:middle;text-align:center\" |2番 Line\n\n| rowspan=\"2\" style=\"vertical-align:middle;text-align:center\" |3番 Line\n\nDeparture melody\nこの Stationではオリジナルの電車発車メロディが流れる。かつてはそれぞれの番 Lineで別のメロディが鳴っており、特に2番 Lineと3番 Lineは同時発車するために同時にメロディが鳴っても違和感が無いように工夫されたメロディが用意されていた。のちにすべてのホームが1番 Lineのものに共通化され、2011年6月の終わり頃には「この街で」に変更された。これは松山市とのパートナーシップ協定の一環で、この曲が松山市の「ことばのちから」イベントで生まれた歌であることが起因する。\n\n2015年の7月1日に再び変更されており、現在は伊予鉄道社長の清水一郎が作曲した高浜 Station・郡中港 Station・横河原 Stationと共通の「リズム」というメロディが使用されている。\n\n異電圧直直セクション\n高浜 Lineは直流600V、郡中 Lineと横河原 Lineは直流750Vと電圧が異なるので、当 Stationの高浜方に3カ所の直直セクションがある。このセクションは、交直接続のデッドセクションとは異なり、無電区間は存在しない（伊予鉄道 松山市 Station構内の異電圧直直セクション）。\n\n市内電車のりば\n相対式an island platform layoutで、東側に片渡り Lineが設置されている。片渡り Lineでホームが区切られており、北側ホームの西側は坊っちゃん列車の降り場、東側は市内電車の降り場であり、南側ホームは西側は市内電車の乗り場、東側は留置 Lineおよび「坊っちゃん列車」の乗り場である。「坊っちゃん列車」の乗り場に柵が設置されており、平常時は市内電車の留置のため閉鎖されている。1号 Line（環状 Line内回り）・2号 Line（環状 Line外回り）・3号 Line・6号 Lineが発着する。\n\n市内電車は北側ホームで降車後、渡り Lineを使用して南側乗車ホームへ転 Lineする。\n\n坊っちゃん列車は当 Stationで機回しを行う。降車ホームに到着し乗客の降車後、客車を切り離し機関車のみ東端の電車降車ホームへ移動し、後退して片渡り Lineへ入り途中で一旦停車する。床下中央にある回転軸付きのジャッキでジャッキアップし、乗務員が手動で機関車ごと進行方向へ180度回転させ再び Line路へ下ろす。機関車が前進し乗車ホームへ到着後、降車ホームで切り離された客車は乗務員に手押しで折り返し機関車と連結したのち、編成ごと後退し坊っちゃん列車の乗車ホームで乗車させる。\n\nなお、環状 Lineの電車は松山市 Stationを越えて乗り通すことはできないため、松山市 Stationに到着したら降車しなければならない。\n\nUsage\n松山市 Stationの2017fiscal yearのdaily average乗降客数は、27,416 peopleで、JRを含めた四国内の鉄道 Stationで最多となっている。近年は概ね増加傾向が続いている。\n\nNorth exit\nいよてつ高島屋本館：四国最大の百貨店\n\n大観覧車くるりん\nローズホール（多目的ホール）\n\nまつやまマドンナ郵便局\n松山市 Station前地下街（まつちかタウン）：四国唯一の地下街、高島屋のデパ地下と直結。\n レフ松山市 Station by ベッセルホテルズ：伊予鉄西ビルの跡地に建てられたホテル。\n\n子規堂\n富士教材：老舗模型教材店\n 四国電力（株） 原子力本部原子力保安研修所\n\nBus routes\n Station前ロータリーにはバスのりばが設置されている。乗車10バース、降車3バース、合計13バース。なお、以前は現在高島屋本館の東半分（再開発での増床分）が位置している場所にバスターミナルが設置されていた。\n\nRailway stations in 松山市\nThis is a Wikipedia category section for Railway stations in 松山市.",
-          "字数": 4343
+          "全文": "松山市駅 (松山市駅) is a railway station in 県松山市湊町五丁目, Japan.\n\nOverview\n地元JR四国松山駅区別市駅（）略呼、道路標識表記、広通用。in front of the station広場、道後温泉方面向同社松山市内線（軌道）松山市駅停留場、bus terminal、taxi。\n\n松山市実質的中心駅、四国地方最多boarding and alighting people員誇。当駅station building入居四国最大百貨店高島屋始、surrounding area繁華街街広。\n\n松山市駅停留場、「坊列車」牽引蒸気機関車模機関車渡線上方向転換作業様子見。\n\nin front of the stationbus terminal、東京京阪神高速発着。\n\n混乱時、当駅古町駅抑止基本運転整理行。\n\n四国初自動ticket gate機設置駅、February 16, 2014、IC～普及伴、(簡易ticket gate機)増設、自動ticket gate機撤去。現在普通乗車券非磁気券券売機発売。中島汽船硬券連絡乗車券「」発売。\n\n駅係員申出、郊外線当駅途中下車可能。\n\n高浜 Line\n大手町駅 (IY09) - 松山市駅 (IY10)\n\n横河原 Line\n松山市駅 (IY10) - 石手川park駅 (IY11)\n\n郡中 Line\n花園線（環状線3号線6号線）\n駅番号郊外電車高浜線、横河原線、郡中線IY10、市内電車花園線01。\n\n松山市駅 (IY10) - 土橋駅 (IY25)\n花園線（1号線2号線3号線6号線）\n松山市駅停留場 (01) - 南堀端停留場 (02)\n\nHistory\n三津駅古町駅、四国最初鉄道駅1。\n\n松山市国鉄松山駅opened前現在場所、opened当時“松山駅”駅名、1927国鉄松山駅opened際国鉄線駅名松山、国鉄駅離当駅松山駅renamed圧力。伊予鉄側国鉄駅名「伊予松山駅」強反発、国鉄伊予鉄運輸課長東京本省呼出renamed迫、国勝松山駅国鉄譲松山市駅renamed。\n\nChronology\nOctober 28, 1888：松山駅opened。\nJuly 20, 1889：外側駅（。同時renamed古町駅対）renamed。\nMay 1, 1900：伊予鉄道道後鉄道南予鉄道合併。南予鉄道（現在郡中線）藤原駅統合。\nJune 1, 1902：松山駅再renamed。\nMarch 1, 1927：松山市駅renamed。同年4月国鉄讃予線（現在予讃線）松山駅opened措置。\nMarch 25, 1947：松山市内線花園線松山市駅停留場opened。\nfiscal 2023：松山市in front of the station再開発完了予定。路面電車停留所南側移動、松山市駅乗換変更、歩行者専用広場新設。taxibus terminal整備方針。\n\nStation layout\n各路線tracks東西延、station building南北出入口設、北口、南口称。花園線platform北口前roundabout内。北口ticket gate内自動体外式除細動器設置。\n\n郊外電車\n引込線位置都合2番線発車横河原行列車平日朝1本存在。\n配線構造、郡中方面行3番線以外発着不可能。郡中線使用電車朝、古町回送扱2番線入線、後留置線経由3番線入線。\n2番3番platform、中線本線転用拡幅、高浜郡中側末端部分干渉拡幅、切欠状残。\n1番2番線18級4両編成対応、3番線18級車両3両編成対応。\n\n| rowspan=\"2\" style=\"vertical-align:middle;text-align:center\" |1番線\n\n| rowspan=\"2\" style=\"vertical-align:middle;text-align:center\" |2番線\n\n| rowspan=\"2\" style=\"vertical-align:middle;text-align:center\" |3番線\n\nDeparture melody\n駅電車発車流。番線別鳴、特2番線3番線同時発車同時鳴違和感無工夫用意。platform1番線共通化、20116月終頃「街」変更。松山市協定一環、曲松山市「」生歌起因。\n\n2015July 1再変更、現在伊予鉄道社長清水一郎作曲高浜駅郡中港駅横河原駅共通「」使用。\n\n異電圧直直\n高浜線直流600V、郡中線横河原線直流750V電圧異、当駅高浜方3所直直。、交直connection異、無電区間存在（伊予鉄道 松山市駅構内異電圧直直）。\n\n市内電車\n相対式two island platforms serving two tracks、東側片渡線設置。片渡線platform区切、北側platform西側坊列車降場、東側市内電車降場、南側platform西側市内電車乗場、東側留置線「坊列車」乗場。「坊列車」乗場柵設置、平常時市内電車留置閉鎖。1号線（環状線内回）2号線（環状線外回）3号線6号線発着。\n\n市内電車北側platform降車後、渡線使用南側乗車platform転線。\n\n坊列車当駅機回行。降車platform到着乗客降車後、客車切離機関車東端電車降車platform移動、後退片渡線入途中一旦停車。床下中央回転軸付、乗務員手動機関車進行方向180度回転再tracks下。機関車前進乗車platform到着後、降車platform切離客車乗務員手押折返機関車連結、編成後退坊列車乗車platform乗車。\n\n、環状線電車松山市駅越乗通、松山市駅到着降車。\n\nPassenger statistics\n松山市駅fiscal 2017daily averageboarding and alighting客数、27,416 people、JR含四国内鉄道駅最多。近年概増加傾向続。\n\nNorth exit\n高島屋本館：四国最大百貨店\n\n大観覧車\n（多目的）\n\n郵便局\n松山市in front of the station地下街（）：四国唯一地下街、高島屋地下直結。\n松山市駅 by hotel：伊予鉄西跡地建hotel。\n\n子規堂\n富士教材：老舗模型教材店\n四国電力（株） 原子力本部原子力保安研修所\n\nBus routes\nin front of the stationroundaboutplatform設置。乗車10、降車3、合計13。、以前現在高島屋本館東半分（再開発増床分）位置場所bus terminal設置。\n\nRailway stations in 松山市\nThis section covers Railway stations in 松山市.",
+          "字数": 2810
         }
       },
       "结构化信息": {
