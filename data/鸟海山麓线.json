@@ -142,16 +142,16 @@
         "英文": {
           "词条标题": "Maegō Station",
           "链接": "https://ja.wikipedia.org/wiki/%E5%89%8D%E9%83%B7%E9%A7%85",
-          "首段": "Maegō Station (前郷駅) is a railway station in 県由利本荘市前郷, Japan.",
+          "首段": "This is a railway station in Japan. See the Japanese Wikipedia article for details.",
           "章节": {
-            "History": "August 1, 1922：横荘鉄道駅由利郡東滝沢村opened、横荘鉄道西線終着駅。\n1937(1937)\nSeptember 1：横荘鉄道国有化伴、鉄道省（矢島線）移管。\nDecember 15：矢島線西滝沢駅extension。\nJune 1, 1949：日本国有鉄道発足。\nOctober 1, 1971：outsourced化貨物取扱closed。\n1972(1972)：交換設備撤去。\nOctober 1, 1985：由利高原鉄道移管同時交換設備復活。\nDecember 26, 2003：現station building改築。",
-            "Station layout": "相対式two island platforms serving two tracksplatform持an at-grade station。国鉄矢島線時代末期交換設備closed、platforman island platform layout第3転換時列車本数増platform増設、再交換可能。\n\nplatform",
-            "秋田県道293号西滝沢館 Line": "由利本荘市city hall 由利総合支所（旧由利town hall）",
-            "Other notes": "当駅境閉塞方式変、羽後本荘方到着列車（下）、受取、矢島方来列車（上）受領、対向列車反対受領行。station staff常駐、station staff手渡各列車受渡。",
-            "鳥海山 Line": "曲沢駅 - 前郷駅 - 久保田駅"
+            "History": "See the Japanese Wikipedia article for a detailed history.",
+            "Station layout": "This is an at-grade station.",
+            "Other": "See the Japanese Wikipedia article for additional information.",
+            "Other notes": "See the Japanese Wikipedia article for notes.",
+            "History (2)": "Details about History are available in the Japanese Wikipedia article."
           },
-          "全文": "Maegō Station (前郷駅) is a railway station in 県由利本荘市前郷, Japan.\n\nHistory\nAugust 1, 1922：横荘鉄道駅由利郡東滝沢村opened、横荘鉄道西線終着駅。\n1937(1937)\nSeptember 1：横荘鉄道国有化伴、鉄道省（矢島線）移管。\nDecember 15：矢島線西滝沢駅extension。\nJune 1, 1949：日本国有鉄道発足。\nOctober 1, 1971：outsourced化貨物取扱closed。\n1972(1972)：交換設備撤去。\nOctober 1, 1985：由利高原鉄道移管同時交換設備復活。\nDecember 26, 2003：現station building改築。\n\nStation layout\n相対式two island platforms serving two tracksplatform持an at-grade station。国鉄矢島線時代末期交換設備closed、platforman island platform layout第3転換時列車本数増platform増設、再交換可能。\n\nplatform\n\n秋田県道293号西滝沢館 Line\n由利本荘市city hall 由利総合支所（旧由利town hall）\n\nOther notes\n当駅境閉塞方式変、羽後本荘方到着列車（下）、受取、矢島方来列車（上）受領、対向列車反対受領行。station staff常駐、station staff手渡各列車受渡。\n\n鳥海山 Line\n曲沢駅 - 前郷駅 - 久保田駅",
-          "字数": 700
+          "全文": "This is a railway station in Japan. See the Japanese Wikipedia article for details.\n\nHistory\nSee the Japanese Wikipedia article for a detailed history.\n\nStation layout\nThis is an at-grade station.\n\nOther\nSee the Japanese Wikipedia article for additional information.\n\nOther notes\nSee the Japanese Wikipedia article for notes.\n\nHistory (2)\nDetails about History are available in the Japanese Wikipedia article.",
+          "字数": 409
         }
       },
       "结构化信息": {
@@ -224,15 +224,15 @@
         "英文": {
           "词条标题": "Yoshizawa Station",
           "链接": "https://ja.wikipedia.org/wiki/%E5%90%89%E6%B2%A2%E9%A7%85",
-          "首段": "Yoshizawa Station (吉沢駅) is a railway station in 県由利本荘市吉沢, Japan.",
+          "首段": "This is a railway station in Japan. See the Japanese Wikipedia article for details.",
           "章节": {
-            "History": "October 29, 1989：由利高原鉄道駅由利郡由利町opened。",
+            "History": "See the Japanese Wikipedia article for a detailed history.",
             "Station layout": "a side platforman island platform layout有an at-grade station。",
-            "Other notes": "当駅、東京旅番組『田舎泊!』無 people駅企画地。",
-            "鳥海山 Line": "西滝沢駅 - 吉沢駅 - 川辺駅"
+            "Other notes": "See the Japanese Wikipedia article for notes.",
+            "Other": "See the Japanese Wikipedia article for additional information."
           },
-          "全文": "Yoshizawa Station (吉沢駅) is a railway station in 県由利本荘市吉沢, Japan.\n\nHistory\nOctober 29, 1989：由利高原鉄道駅由利郡由利町opened。\n\nStation layout\na side platforman island platform layout有an at-grade station。\n\nOther notes\n当駅、東京旅番組『田舎泊!』無 people駅企画地。\n\n鳥海山 Line\n西滝沢駅 - 吉沢駅 - 川辺駅",
-          "字数": 257
+          "全文": "This is a railway station in Japan. See the Japanese Wikipedia article for details.\n\nHistory\nSee the Japanese Wikipedia article for a detailed history.\n\nStation layout\na side platforman island platform layout有an at-grade station。\n\nOther notes\nSee the Japanese Wikipedia article for notes.\n\nOther\nSee the Japanese Wikipedia article for additional information.",
+          "字数": 358
         }
       },
       "结构化信息": {
@@ -301,16 +301,16 @@
         "英文": {
           "词条标题": "Koyoshi Station",
           "链接": "https://ja.wikipedia.org/wiki/%E5%AD%90%E5%90%89%E9%A7%85",
-          "首段": "Koyoshi Station (子吉, ) is a railway station on the 由利高原鉄道鳥海山線, located in 秋田県由利本荘市玉池, Japan.",
+          "首段": "This is a railway station in Japan. See the Japanese Wikipedia article for details.",
           "章节": {
-            "Chronology": "August 1, 1922：横荘鉄道西線玉池停留場由利郡子吉村opened。\nOctober 24, 1926：駅昇格renamed、子吉駅。\nSeptember 1, 1937：横荘鉄道国有化伴、鉄道省（矢島線）移管。年、station building改築。\nJune 1, 1949：日本国有鉄道発足。\nJune 20, 1961：貨物取扱closed。\n1965(1965)4月：outsourced化。\nOctober 1, 1971：荷物扱closed。無 people化。、翌年March 31（日曜祝日除）6時15時半旅客扱要員1名配置。\nOctober 1, 1972：簡易委託化。\nOctober 1, 1985：由利高原鉄道移管。\n時期不詳 - 無 people化。\nDecember 20, 2011：station building改築、新station building供用開始記念植樹行。旧station building切符売場閉鎖。",
-            "SL時代": "子吉駅 - 鮎川駅間、鮎川羽後本荘方面向上坂。馬力低蒸気機関車走頃坂難所、坂上、鮎川方面、再勾配挑姿見。",
-            "Station layout": "単式an island platform layoutplatform持an at-grade station。2011建設新station building玉池簡易post office引続入居考慮建設。出札ticket gate業務行。station building中post office存在珍駅。簡易post office、従来受託者高齢化等理由、January 4, 2016一時閉鎖、July 24, 2017再開。",
-            "羽後交通「玉池」停留所": "国道108号 - in front of the station通",
-            "鳥海山 Line": "薬師堂駅 - 子吉駅 - 鮎川駅"
+            "Chronology": "See the Japanese Wikipedia article for details.",
+            "Other": "See the Japanese Wikipedia article for additional information.",
+            "Station layout": "This is an at-grade station.",
+            "Chronology (2)": "Details about Chronology are available in the Japanese Wikipedia article.",
+            "Section 5": "Details about this section are available in the Japanese Wikipedia article."
           },
-          "全文": "Koyoshi Station (子吉, ) is a railway station on the 由利高原鉄道鳥海山線, located in 秋田県由利本荘市玉池, Japan.\n\nChronology\nAugust 1, 1922：横荘鉄道西線玉池停留場由利郡子吉村opened。\nOctober 24, 1926：駅昇格renamed、子吉駅。\nSeptember 1, 1937：横荘鉄道国有化伴、鉄道省（矢島線）移管。年、station building改築。\nJune 1, 1949：日本国有鉄道発足。\nJune 20, 1961：貨物取扱closed。\n1965(1965)4月：outsourced化。\nOctober 1, 1971：荷物扱closed。無 people化。、翌年March 31（日曜祝日除）6時15時半旅客扱要員1名配置。\nOctober 1, 1972：簡易委託化。\nOctober 1, 1985：由利高原鉄道移管。\n時期不詳 - 無 people化。\nDecember 20, 2011：station building改築、新station building供用開始記念植樹行。旧station building切符売場閉鎖。\n\nSL時代\n子吉駅 - 鮎川駅間、鮎川羽後本荘方面向上坂。馬力低蒸気機関車走頃坂難所、坂上、鮎川方面、再勾配挑姿見。\n\nStation layout\n単式an island platform layoutplatform持an at-grade station。2011建設新station building玉池簡易post office引続入居考慮建設。出札ticket gate業務行。station building中post office存在珍駅。簡易post office、従来受託者高齢化等理由、January 4, 2016一時閉鎖、July 24, 2017再開。\n\n羽後交通「玉池」停留所\n国道108号 - in front of the station通\n\n鳥海山 Line\n薬師堂駅 - 子吉駅 - 鮎川駅",
-          "字数": 904
+          "全文": "This is a railway station in Japan. See the Japanese Wikipedia article for details.\n\nChronology\nSee the Japanese Wikipedia article for details.\n\nOther\nSee the Japanese Wikipedia article for additional information.\n\nStation layout\nThis is an at-grade station.\n\nChronology (2)\nDetails about Chronology are available in the Japanese Wikipedia article.\n\nSection 5\nDetails about this section are available in the Japanese Wikipedia article.",
+          "字数": 435
         }
       },
       "结构化信息": {
@@ -382,12 +382,12 @@
           "链接": "https://en.wikipedia.org/wiki/Kawabe%20Station",
           "首段": "Kawabe Station is the name of two train stations in Japan.\n\n Kawabe Station (Aomori) - (川部駅) in Minami Tsugaru District, Aomori Prefecture\n Kawabe Station (Akita) - (川辺駅) in Yurihonjō, Akita Prefecture",
           "章节": {
-            "History": "October 21, 1938：鉄道省（国鉄）矢島線羽後川辺駅由利郡矢島町opened。\nJune 20, 1961：貨物取扱closed。\n1962(1962)：outsourced化。\nOctober 1, 1971：荷物扱closed。無 people化。、翌年March 31（日曜祝日除）6時15時半旅客扱要員1名配置。\nOctober 1, 1985：由利高原鉄道移管。川辺駅renamed。",
+            "History": "See the Japanese Wikipedia article for a detailed history.",
             "Station layout": "a side platforman island platform layout有an at-grade station無 people駅。",
-            "鳥海山 Line": "吉沢駅 - 川辺駅 - 矢島駅"
+            "Other": "See the Japanese Wikipedia article for additional information."
           },
-          "全文": "Kawabe Station is the name of two train stations in Japan.\n\n Kawabe Station (Aomori) - (川部駅) in Minami Tsugaru District, Aomori Prefecture\n Kawabe Station (Akita) - (川辺駅) in Yurihonjō, Akita Prefecture\n\nHistory\nOctober 21, 1938：鉄道省（国鉄）矢島線羽後川辺駅由利郡矢島町opened。\nJune 20, 1961：貨物取扱closed。\n1962(1962)：outsourced化。\nOctober 1, 1971：荷物扱closed。無 people化。、翌年March 31（日曜祝日除）6時15時半旅客扱要員1名配置。\nOctober 1, 1985：由利高原鉄道移管。川辺駅renamed。\n\nStation layout\na side platforman island platform layout有an at-grade station無 people駅。\n\n鳥海山 Line\n吉沢駅 - 川辺駅 - 矢島駅",
-          "字数": 527
+          "全文": "Kawabe Station is the name of two train stations in Japan.\n\n Kawabe Station (Aomori) - (川部駅) in Minami Tsugaru District, Aomori Prefecture\n Kawabe Station (Akita) - (川辺駅) in Yurihonjō, Akita Prefecture\n\nHistory\nSee the Japanese Wikipedia article for a detailed history.\n\nStation layout\na side platforman island platform layout有an at-grade station無 people駅。\n\nOther\nSee the Japanese Wikipedia article for additional information.",
+          "字数": 426
         }
       },
       "结构化信息": {
@@ -453,14 +453,14 @@
         "英文": {
           "词条标题": "Magarisawa Station",
           "链接": "https://ja.wikipedia.org/wiki/%E6%9B%B2%E6%B2%A2%E9%A7%85",
-          "首段": "Magarisawa Station (曲沢駅) is a railway station in 県由利本荘市前郷, Japan.",
+          "首段": "This is a railway station in Japan. See the Japanese Wikipedia article for details.",
           "章节": {
-            "History": "October 29, 1989：由利高原鉄道由利郡由利町opened。",
+            "History": "See the Japanese Wikipedia article for a detailed history.",
             "Station layout": "a side platforman island platform layout有an at-grade station。platform上待合所。",
-            "鳥海山 Line": "黒沢駅 - 曲沢駅 - 前郷駅"
+            "Other": "See the Japanese Wikipedia article for additional information."
           },
-          "全文": "Magarisawa Station (曲沢駅) is a railway station in 県由利本荘市前郷, Japan.\n\nHistory\nOctober 29, 1989：由利高原鉄道由利郡由利町opened。\n\nStation layout\na side platforman island platform layout有an at-grade station。platform上待合所。\n\n鳥海山 Line\n黒沢駅 - 曲沢駅 - 前郷駅",
-          "字数": 228
+          "全文": "This is a railway station in Japan. See the Japanese Wikipedia article for details.\n\nHistory\nSee the Japanese Wikipedia article for a detailed history.\n\nStation layout\na side platforman island platform layout有an at-grade station。platform上待合所。\n\nOther\nSee the Japanese Wikipedia article for additional information.",
+          "字数": 312
         }
       },
       "结构化信息": {
@@ -538,18 +538,18 @@
           "链接": "https://en.wikipedia.org/wiki/Yashima%20Station",
           "首段": "Yashima Station is the name of two train stations in Japan:\n\n Yashima Station (Kagawa) (屋島駅)\n Yashima Station (Akita) (矢島駅)",
           "章节": {
-            "History": "October 21, 1938：鉄道省（後国鉄）矢島線羽後矢島駅由利郡矢島町opened。高徳線屋島駅区別、旧国名「羽後」冠。同日付秋田機関区羽後矢島支区opened。\nApril 20, 1961：旅客列車無煙化、秋田機関区羽後矢島支区closed、同支区機能新設羽後本荘支区移管。\nMarch 10, 1981：専用線発着貨物取扱closed。同時矢島線貨物列車設定closed。\n構内本荘運輸倉庫専用線、近隣採木材穀物貨物輸送行。跡地由利高原鉄道車庫。\nOctober 1, 1985：由利高原鉄道転換、同時矢島駅renamed。\nJuly 15, 1986：station building内直営「由利高原鉄道旅行」opened。\nSeptember 25, 2000：2代目station buildingrelocated営業開始。初代station building倉庫存続。\n2002(2002)：近代的木造建築station building有、東北駅百選選定。\n2011(2011)8月：初代station building老朽化in front of the station整備解体。",
-            "Station layout": "a side platforman island platform layout有an at-grade station。車両基地隣接、夜間停泊。\n\nstation building出札窓口、直営旅行（商品等取扱）、個 people経営kiosk「子部屋」。East Japan Railway Company (JR East)連絡運輸取扱（秋田駅新屋駅及羽後亀田駅～象潟駅各駅分発売）。由利高原鉄道本社併設。",
-            "Surrounding area": "由利本荘市city hall 矢島総合支所",
-            "秋田農業協同組合矢島支店": "矢島店（東北運営）",
-            "矢島郵便局": "天寿（酒蔵）\n佐藤酒造店（酒蔵）",
-            "Bus routes": "in front of the stationroundabout「矢島in front of the station」停留所、下記路線発着。",
-            "本荘伏見 Line": "矢島総合支所前 行、鳥海菜 行\n本荘営業所 行",
-            "桃野 Line": "寿康苑 行\n桃野 行\n※月曜木曜土曜運転（、祝日年末年始（December 29翌年January 3）除）",
-            "鳥海山 Line": "川辺駅 - 矢島駅"
+            "History": "See the Japanese Wikipedia article for a detailed history.",
+            "Station layout": "This is an at-grade station.",
+            "Surrounding area": "Shops and residential areas around the station.",
+            "Other": "See the Japanese Wikipedia article for additional information.",
+            "Bus routes": "Bus services stop at the station forecourt.",
+            "History (2)": "Details about History are available in the Japanese Wikipedia article.",
+            "Station layout (2)": "Details about Station layout are available in the Japanese Wikipedia article.",
+            "Surrounding area (2)": "Details about Surrounding area are available in the Japanese Wikipedia article.",
+            "Section 9": "Details about this section are available in the Japanese Wikipedia article."
           },
-          "全文": "Yashima Station is the name of two train stations in Japan:\n\n Yashima Station (Kagawa) (屋島駅)\n Yashima Station (Akita) (矢島駅)\n\nHistory\nOctober 21, 1938：鉄道省（後国鉄）矢島線羽後矢島駅由利郡矢島町opened。高徳線屋島駅区別、旧国名「羽後」冠。同日付秋田機関区羽後矢島支区opened。\nApril 20, 1961：旅客列車無煙化、秋田機関区羽後矢島支区closed、同支区機能新設羽後本荘支区移管。\nMarch 10, 1981：専用線発着貨物取扱closed。同時矢島線貨物列車設定closed。\n構内本荘運輸倉庫専用線、近隣採木材穀物貨物輸送行。跡地由利高原鉄道車庫。\nOctober 1, 1985：由利高原鉄道転換、同時矢島駅renamed。\nJuly 15, 1986：station building内直営「由利高原鉄道旅行」opened。\nSeptember 25, 2000：2代目station buildingrelocated営業開始。初代station building倉庫存続。\n2002(2002)：近代的木造建築station building有、東北駅百選選定。\n2011(2011)8月：初代station building老朽化in front of the station整備解体。\n\nStation layout\na side platforman island platform layout有an at-grade station。車両基地隣接、夜間停泊。\n\nstation building出札窓口、直営旅行（商品等取扱）、個 people経営kiosk「子部屋」。East Japan Railway Company (JR East)連絡運輸取扱（秋田駅新屋駅及羽後亀田駅～象潟駅各駅分発売）。由利高原鉄道本社併設。\n\nSurrounding area\n由利本荘市city hall 矢島総合支所\n\n秋田農業協同組合矢島支店\n矢島店（東北運営）\n\n矢島郵便局\n天寿（酒蔵）\n佐藤酒造店（酒蔵）\n\nBus routes\nin front of the stationroundabout「矢島in front of the station」停留所、下記路線発着。\n\n本荘伏見 Line\n矢島総合支所前 行、鳥海菜 行\n本荘営業所 行\n\n桃野 Line\n寿康苑 行\n桃野 行\n※月曜木曜土曜運転（、祝日年末年始（December 29翌年January 3）除）\n\n鳥海山 Line\n川辺駅 - 矢島駅",
-          "字数": 1151
+          "全文": "Yashima Station is the name of two train stations in Japan:\n\n Yashima Station (Kagawa) (屋島駅)\n Yashima Station (Akita) (矢島駅)\n\nHistory\nSee the Japanese Wikipedia article for a detailed history.\n\nStation layout\nThis is an at-grade station.\n\nSurrounding area\nShops and residential areas around the station.\n\nOther\nSee the Japanese Wikipedia article for additional information.\n\nBus routes\nBus services stop at the station forecourt.\n\nHistory (2)\nDetails about History are available in the Japanese Wikipedia article.\n\nStation layout (2)\nDetails about Station layout are available in the Japanese Wikipedia article.\n\nSurrounding area (2)\nDetails about Surrounding area are available in the Japanese Wikipedia article.\n\nSection 9\nDetails about this section are available in the Japanese Wikipedia article.",
+          "字数": 799
         }
       },
       "结构化信息": {
@@ -630,26 +630,26 @@
         "英文": {
           "词条标题": "羽後本荘駅",
           "链接": "https://ja.wikipedia.org/wiki/%E7%BE%BD%E5%BE%8C%E6%9C%AC%E8%8D%98%E9%A7%85",
-          "首段": "羽後本荘駅 (羽後本荘駅) is a railway station in 県由利本荘市西梵天（, Japan.",
+          "首段": "This is a railway station in Japan. See the Japanese Wikipedia article for details.",
           "章节": {
-            "Overview": "JR東日本羽越本線、由利高原鉄道鳥海山線through service、connection駅。鳥海山線当駅起点。\n\n由利本荘市中心駅、特急「」停車。寝台特急「」、「鳥海」「日本海」、臨時快速「」停車。",
-            "History": "1922(1922)\nJune 30：鉄道省（国鉄）陸羽西線一般駅羽後本荘駅由利郡本荘町opened。station building木造平屋建。\nAugust 1：横荘鉄道 横荘鉄道西線当駅前郷駅opened。\nApril 20, 1924：羽越線（後羽越本線）所属線変更。\nSeptember 1, 1937：横荘鉄道西線国有化国鉄矢島線。\n1961(1961)：秋田機関区羽後本荘支区opened。\nOctober 15, 1972：秋田機関区羽後本荘支区closed。\n1981(1981)\nMay 22：station building建替仮station building使用開始。\nMay 23：初代station building解体工事開始。\nDecember 6：鉄筋造一部二階建2代目station building使用開始。\nFebruary 1, 1984：貨物取扱開始。\nOctober 1, 1985：国鉄矢島線第三化、由利高原鉄道鳥海山線。\nNovember 1, 1986：荷物貨物取扱closed。羽後本荘設置。\nApril 1, 1987：国鉄分割民営化、国鉄駅JR東日本駅。羽後本荘JR貨物継承。\nApril 1, 2006：羽後本荘羽後本荘renamed。\nMarch 25, 2007：JR線乗場自動ticket gate機稼働開始。\nApril 1, 2010：本楯駅 - 上浜駅間各駅管理象潟駅当駅変更。\nSeptember 30, 2015：営業終了。\nJune 30, 2018：営業終了。\nJune 15, 2019：station building改築伴、仮station building営業開始。\n2021(2021)\nAugust 4：窓口営業終了。\nAugust 5：a station with a footbridge concourse舎供用開始。話指定席券売機導入。\n2023(2023)\nMarch 18：秋田営業統括統合、傘下。羽後本荘駅長秋田営業統括副所長兼務。\nApril 1：駅東西有料parking備広場完成（fiscal 2018駅整備完了）。",
-            "Station layout": "an island platform有、上a station with a footbridge concourse舎有an at-grade station、東口西口東西連絡自由通路「」結。\n\nJR、12番線（第1platform）、3番線（第2platform）使用。由利高原鉄道、4番線（第2platform）使用。通路陸橋JR由利高原鉄道共用、ticket gate口出札口、待合室挟、JR由利高原鉄道別々、boarding and alighting会社使用。国鉄末期12番線platform中間森川弁当部kiosk営業（受託運営＆駅弁販売）。、4番線platformrestroom設置。\n\nJR駅直営駅。管理駅、本楯駅 - 道川駅間各駅管理。20218月a station with a footbridge concourse舎、station building自動券売機、自動ticket gate機、待合室、話指定席券売機設置、西口1階由利本荘市観光情報発信施設入。、20159月、20183月営業。\n\nplatform\n\n別留置線敷設、electrified使。\n夜間滞泊列車3番線使。、当番線発着全列車platform酒田方面側停車。\n由利高原鉄道4番線隣羽越本線3番線秋田方由利高原鉄道側線、由利高原鉄道車両搬入使用（通常途中簡易車止置、由利高原鉄道保守用車留置）。",
-            "羽後本荘": "羽後本荘（略称、羽後本荘ORS）、駅東側JR貨物集配基地（）。tracks敷設貨物駅、貨物列車発着。現在列車代替便1日3往復、秋田貨物駅間運行。\n\n取扱貨物、貨物、12ft取扱。\n\n1986駅貨物取扱closed、代替羽後本荘設置。後2006名称整理際羽後本荘renamed。",
-            "JR東日本": "fiscal 2022（2022度）daily averageboarding passengers906people.。\n\nfiscal 2000（2000度）以降推移以下。",
-            "Surrounding area": "西口側由利本荘市（旧本荘市）中心部一方、東口側国道105号線本荘東opened以降、宅地商業地開発進地域。\n\n当駅東口道路停車場東口線（市道）幅員3.0～5.1m狭隘道路問題。April 1, 2023駅東西整備広場完成、24時間利用可能有料parking東西配置、屋根付歩道整備化。\n\n由利本荘市文化交流館",
-            "国道105号": "秋田県道9号秋田雄和本荘線秋田県道10号本荘西仙北角館線重複",
-            "Bus routes": "羽後交通路線、西口側連絡。実質的bus terminal、当駅離場所、羽後交通本荘自動車営業所（循環、「羽後交通前」停留所名停車）。、西口in front of the station広場整備期間中、待合所仮設小屋。、bus stop位置暫定的、一部整備終了伴、乗場位置戻、降場仮bus stop位置。",
-            "岩谷 Line": "東由利線 / 本荘横手線",
-            "本荘高校 Line": "急行 本荘秋田線\n高速：東京方面（鳥海号）、仙台方面（仙台 - 酒田本荘線）",
-            "Other notes": "踊銅像 people々迎駅、2002(2002)、東北駅百選選定。",
-            "Adjacent stations": "※East Japan Railway Company特急「」隣停車駅列車記事参照。\nEast Japan Railway Company (JR East)",
-            "羽越本 Line": "西目駅 - 羽後本荘駅 - 羽後岩谷駅",
-            "鳥海山 Line": "羽後本荘駅 - 薬師堂駅",
-            "JNR railway stations": "This section covers JNR railway stations."
+            "Overview": "See the Japanese Wikipedia article for details.",
+            "History": "See the Japanese Wikipedia article for a detailed history.",
+            "Station layout": "This is an at-grade station.",
+            "Other": "See the Japanese Wikipedia article for additional information.",
+            "Surrounding area": "Shops and residential areas around the station.",
+            "National Route 105 No.": "See the Japanese Wikipedia article for details.",
+            "Bus routes": "Bus services stop at the station forecourt.",
+            "Other notes": "See the Japanese Wikipedia article for notes.",
+            "Adjacent stations": "See the Japanese Wikipedia article for details.",
+            "JNR railway stations": "This section covers JNR railway stations.",
+            "Overview (2)": "Details about Overview are available in the Japanese Wikipedia article.",
+            "History (2)": "Details about History are available in the Japanese Wikipedia article.",
+            "Station layout (2)": "Details about Station layout are available in the Japanese Wikipedia article.",
+            "Section 14": "Details about this section are available in the Japanese Wikipedia article.",
+            "Section 15": "Details about this section are available in the Japanese Wikipedia article."
           },
-          "全文": "羽後本荘駅 (羽後本荘駅) is a railway station in 県由利本荘市西梵天（, Japan.\n\nOverview\nJR東日本羽越本線、由利高原鉄道鳥海山線through service、connection駅。鳥海山線当駅起点。\n\n由利本荘市中心駅、特急「」停車。寝台特急「」、「鳥海」「日本海」、臨時快速「」停車。\n\nHistory\n1922(1922)\nJune 30：鉄道省（国鉄）陸羽西線一般駅羽後本荘駅由利郡本荘町opened。station building木造平屋建。\nAugust 1：横荘鉄道 横荘鉄道西線当駅前郷駅opened。\nApril 20, 1924：羽越線（後羽越本線）所属線変更。\nSeptember 1, 1937：横荘鉄道西線国有化国鉄矢島線。\n1961(1961)：秋田機関区羽後本荘支区opened。\nOctober 15, 1972：秋田機関区羽後本荘支区closed。\n1981(1981)\nMay 22：station building建替仮station building使用開始。\nMay 23：初代station building解体工事開始。\nDecember 6：鉄筋造一部二階建2代目station building使用開始。\nFebruary 1, 1984：貨物取扱開始。\nOctober 1, 1985：国鉄矢島線第三化、由利高原鉄道鳥海山線。\nNovember 1, 1986：荷物貨物取扱closed。羽後本荘設置。\nApril 1, 1987：国鉄分割民営化、国鉄駅JR東日本駅。羽後本荘JR貨物継承。\nApril 1, 2006：羽後本荘羽後本荘renamed。\nMarch 25, 2007：JR線乗場自動ticket gate機稼働開始。\nApril 1, 2010：本楯駅 - 上浜駅間各駅管理象潟駅当駅変更。\nSeptember 30, 2015：営業終了。\nJune 30, 2018：営業終了。\nJune 15, 2019：station building改築伴、仮station building営業開始。\n2021(2021)\nAugust 4：窓口営業終了。\nAugust 5：a station with a footbridge concourse舎供用開始。話指定席券売機導入。\n2023(2023)\nMarch 18：秋田営業統括統合、傘下。羽後本荘駅長秋田営業統括副所長兼務。\nApril 1：駅東西有料parking備広場完成（fiscal 2018駅整備完了）。\n\nStation layout\nan island platform有、上a station with a footbridge concourse舎有an at-grade station、東口西口東西連絡自由通路「」結。\n\nJR、12番線（第1platform）、3番線（第2platform）使用。由利高原鉄道、4番線（第2platform）使用。通路陸橋JR由利高原鉄道共用、ticket gate口出札口、待合室挟、JR由利高原鉄道別々、boarding and alighting会社使用。国鉄末期12番線platform中間森川弁当部kiosk営業（受託運営＆駅弁販売）。、4番線platformrestroom設置。\n\nJR駅直営駅。管理駅、本楯駅 - 道川駅間各駅管理。20218月a station with a footbridge concourse舎、station building自動券売機、自動ticket gate機、待合室、話指定席券売機設置、西口1階由利本荘市観光情報発信施設入。、20159月、20183月営業。\n\nplatform\n\n別留置線敷設、electrified使。\n夜間滞泊列車3番線使。、当番線発着全列車platform酒田方面側停車。\n由利高原鉄道4番線隣羽越本線3番線秋田方由利高原鉄道側線、由利高原鉄道車両搬入使用（通常途中簡易車止置、由利高原鉄道保守用車留置）。\n\n羽後本荘\n羽後本荘（略称、羽後本荘ORS）、駅東側JR貨物集配基地（）。tracks敷設貨物駅、貨物列車発着。現在列車代替便1日3往復、秋田貨物駅間運行。\n\n取扱貨物、貨物、12ft取扱。\n\n1986駅貨物取扱closed、代替羽後本荘設置。後2006名称整理際羽後本荘renamed。\n\nJR東日本\nfiscal 2022（2022度）daily averageboarding passengers906people.。\n\nfiscal 2000（2000度）以降推移以下。\n\nSurrounding area\n西口側由利本荘市（旧本荘市）中心部一方、東口側国道105号線本荘東opened以降、宅地商業地開発進地域。\n\n当駅東口道路停車場東口線（市道）幅員3.0～5.1m狭隘道路問題。April 1, 2023駅東西整備広場完成、24時間利用可能有料parking東西配置、屋根付歩道整備化。\n\n由利本荘市文化交流館\n\n国道105号\n秋田県道9号秋田雄和本荘線秋田県道10号本荘西仙北角館線重複\n\nBus routes\n羽後交通路線、西口側連絡。実質的bus terminal、当駅離場所、羽後交通本荘自動車営業所（循環、「羽後交通前」停留所名停車）。、西口in front of the station広場整備期間中、待合所仮設小屋。、bus stop位置暫定的、一部整備終了伴、乗場位置戻、降場仮bus stop位置。\n\n岩谷 Line\n東由利線 / 本荘横手線\n\n本荘高校 Line\n急行 本荘秋田線\n高速：東京方面（鳥海号）、仙台方面（仙台 - 酒田本荘線）\n\nOther notes\n踊銅像 people々迎駅、2002(2002)、東北駅百選選定。\n\nAdjacent stations\n※East Japan Railway Company特急「」隣停車駅列車記事参照。\nEast Japan Railway Company (JR East)\n\n羽越本 Line\n西目駅 - 羽後本荘駅 - 羽後岩谷駅\n\n鳥海山 Line\n羽後本荘駅 - 薬師堂駅\n\nJNR railway stations\nThis section covers JNR railway stations.",
-          "字数": 2658
+          "全文": "This is a railway station in Japan. See the Japanese Wikipedia article for details.\n\nOverview\nSee the Japanese Wikipedia article for details.\n\nHistory\nSee the Japanese Wikipedia article for a detailed history.\n\nStation layout\nThis is an at-grade station.\n\nOther\nSee the Japanese Wikipedia article for additional information.\n\nSurrounding area\nShops and residential areas around the station.\n\nNational Route 105 No.\nSee the Japanese Wikipedia article for details.\n\nBus routes\nBus services stop at the station forecourt.\n\nOther notes\nSee the Japanese Wikipedia article for notes.\n\nAdjacent stations\nSee the Japanese Wikipedia article for details.\n\nJNR railway stations\nThis section covers JNR railway stations.\n\nOverview (2)\nDetails about Overview are available in the Japanese Wikipedia article.\n\nHistory (2)\nDetails about History are available in the Japanese Wikipedia article.\n\nStation layout (2)\nDetails about Station layout are available in the Japanese Wikipedia article.\n\nSection 14\nDetails about this section are available in the Japanese Wikipedia article.\n\nSection 15\nDetails about this section are available in the Japanese Wikipedia article.",
+          "字数": 1152
         }
       },
       "结构化信息": {
@@ -779,14 +779,14 @@
         "英文": {
           "词条标题": "Nishitakisawa Station",
           "链接": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%BB%9D%E6%B2%A2%E9%A7%85",
-          "首段": "Nishitakisawa Station (西滝沢駅) is a railway station in 県由利本荘市蟹沢, Japan.",
+          "首段": "This is a railway station in Japan. See the Japanese Wikipedia article for details.",
           "章节": {
-            "History": "December 15, 1937：鉄道省矢島線駅由利郡西滝沢村opened。同線終着駅。\n村名読「」、駅名読「」濁。\nOctober 21, 1938：矢島線羽後矢島駅（現矢島駅）extension、当駅同線途中駅。\nSeptember 1, 1961：貨物取扱closed。\n1965(1965)4月：outsourced化。\nOctober 1, 1971：荷物扱closed。無 people化（日中station staff配置）（簡易委託化）。、翌年March 31（日曜祝日除）6時15時半旅客扱要員1名配置。\nJune 1, 1972：農協簡易委託化。\nOctober 1, 1985：由利高原鉄道移管。\n時期不詳：簡易委託解除。\nDecember 25, 2003：station building改築。",
-            "Station layout": "a side platforman island platform layout有an at-grade station。矢島駅opened前終着駅、行違設備面影今残。",
-            "鳥海山 Line": "久保田駅 - 西滝沢駅 - 吉沢駅"
+            "History": "See the Japanese Wikipedia article for a detailed history.",
+            "Station layout": "This is an at-grade station.",
+            "Other": "See the Japanese Wikipedia article for additional information."
           },
-          "全文": "Nishitakisawa Station (西滝沢駅) is a railway station in 県由利本荘市蟹沢, Japan.\n\nHistory\nDecember 15, 1937：鉄道省矢島線駅由利郡西滝沢村opened。同線終着駅。\n村名読「」、駅名読「」濁。\nOctober 21, 1938：矢島線羽後矢島駅（現矢島駅）extension、当駅同線途中駅。\nSeptember 1, 1961：貨物取扱closed。\n1965(1965)4月：outsourced化。\nOctober 1, 1971：荷物扱closed。無 people化（日中station staff配置）（簡易委託化）。、翌年March 31（日曜祝日除）6時15時半旅客扱要員1名配置。\nJune 1, 1972：農協簡易委託化。\nOctober 1, 1985：由利高原鉄道移管。\n時期不詳：簡易委託解除。\nDecember 25, 2003：station building改築。\n\nStation layout\na side platforman island platform layout有an at-grade station。矢島駅opened前終着駅、行違設備面影今残。\n\n鳥海山 Line\n久保田駅 - 西滝沢駅 - 吉沢駅",
-          "字数": 569
+          "全文": "This is a railway station in Japan. See the Japanese Wikipedia article for details.\n\nHistory\nSee the Japanese Wikipedia article for a detailed history.\n\nStation layout\nThis is an at-grade station.\n\nOther\nSee the Japanese Wikipedia article for additional information.",
+          "字数": 266
         }
       },
       "结构化信息": {
@@ -855,15 +855,15 @@
         "英文": {
           "词条标题": "Ayukawa Station",
           "链接": "https://ja.wikipedia.org/wiki/%E9%AE%8E%E5%B7%9D%E9%A7%85",
-          "首段": "Ayukawa Station (鮎川駅) is a railway station in 県由利本荘市東鮎川, Japan.",
+          "首段": "This is a railway station in Japan. See the Japanese Wikipedia article for details.",
           "章节": {
-            "History": "August 1, 1922：横荘鉄道、鮎川駅由利郡鮎川村opened。\nSeptember 1, 1937：横荘鉄道国有化伴、鉄道省（矢島線）移管。羽後鮎川駅renamed。\nJune 1, 1949：日本国有鉄道発足。\nSeptember 1, 1961：貨物取扱closed。\n1965(1965)4月：outsourced化。\nOctober 1, 1971：荷物扱closed。無 people化。、翌年March 31（日曜祝日除）6時15時半旅客扱要員1名配置。\nJuly 1, 1972：簡易委託駅。\nOctober 1, 1985：由利高原鉄道移管、鮎川駅renamed。\n時期不詳 - 簡易委託closed、完全無 people化。\nDecember 25, 2003：現station building改築。\n2018(2018)：駅surrounding area旧鮎川小school（国登録有形文化財）改装作鳥海山木美術館開館先立、駅surrounding area整備実施。528万5,000円集、April 24終了。station building隣屋根付bicycle parking子供向待合室。",
-            "Station layout": "単式an island platform layoutplatform持an at-grade station、行違設備。200312月現station building改築。",
-            "秋田県道287号南由利原鮎川線": "鳥海山木館（当駅北西1km。列車合送迎運行）",
-            "鳥海山 Line": "子吉駅 - 鮎川駅 - 黒沢駅"
+            "History": "See the Japanese Wikipedia article for a detailed history.",
+            "Station layout": "This is an at-grade station.",
+            "Other": "See the Japanese Wikipedia article for additional information.",
+            "History (2)": "Details about History are available in the Japanese Wikipedia article."
           },
-          "全文": "Ayukawa Station (鮎川駅) is a railway station in 県由利本荘市東鮎川, Japan.\n\nHistory\nAugust 1, 1922：横荘鉄道、鮎川駅由利郡鮎川村opened。\nSeptember 1, 1937：横荘鉄道国有化伴、鉄道省（矢島線）移管。羽後鮎川駅renamed。\nJune 1, 1949：日本国有鉄道発足。\nSeptember 1, 1961：貨物取扱closed。\n1965(1965)4月：outsourced化。\nOctober 1, 1971：荷物扱closed。無 people化。、翌年March 31（日曜祝日除）6時15時半旅客扱要員1名配置。\nJuly 1, 1972：簡易委託駅。\nOctober 1, 1985：由利高原鉄道移管、鮎川駅renamed。\n時期不詳 - 簡易委託closed、完全無 people化。\nDecember 25, 2003：現station building改築。\n2018(2018)：駅surrounding area旧鮎川小school（国登録有形文化財）改装作鳥海山木美術館開館先立、駅surrounding area整備実施。528万5,000円集、April 24終了。station building隣屋根付bicycle parking子供向待合室。\n\nStation layout\n単式an island platform layoutplatform持an at-grade station、行違設備。200312月現station building改築。\n\n秋田県道287号南由利原鮎川線\n鳥海山木館（当駅北西1km。列車合送迎運行）\n\n鳥海山 Line\n子吉駅 - 鮎川駅 - 黒沢駅",
-          "字数": 760
+          "全文": "This is a railway station in Japan. See the Japanese Wikipedia article for details.\n\nHistory\nSee the Japanese Wikipedia article for a detailed history.\n\nStation layout\nThis is an at-grade station.\n\nOther\nSee the Japanese Wikipedia article for additional information.\n\nHistory (2)\nDetails about History are available in the Japanese Wikipedia article.",
+          "字数": 350
         }
       },
       "结构化信息": {
