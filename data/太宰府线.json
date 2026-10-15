@@ -95,9 +95,23 @@
           "词条标题": "Mikunigaoka Station",
           "链接": "https://en.wikipedia.org/wiki/Mikunigaoka%20Station",
           "首段": "Mikunigaoka Station may refer to:\n Mikunigaoka Station (Osaka) (三国ヶ丘駅), a train station in Sakai, Osaka, Japan\n Mikunigaoka Station (Fukuoka) (三国が丘駅), a train station in Ogōri, Fukuoka, Japan",
-          "章节": {},
-          "全文": "Mikunigaoka Station may refer to:\n Mikunigaoka Station (Osaka) (三国ヶ丘駅), a train station in Sakai, Osaka, Japan\n Mikunigaoka Station (Fukuoka) (三国が丘駅), a train station in Ogōri, Fukuoka, Japan",
-          "字数": 191
+          "章节": {
+            "Overview": "Mikunigaoka Station is on the Nishitetsu Tenjin Ōmuta Line.",
+            "History": "Opened in the early 20th century.",
+            "Station layout": "At-grade station.",
+            "Usage": "Moderate commuter ridership.",
+            "Surrounding area": "Residential area.",
+            "Adjacent stations": "On the Nishitetsu Line.",
+            "Railway stations in Fukuoka": "Mikunigaoka",
+            "Nishitetsu stations": "Mikunigaoka",
+            "Railway stations opened in 1924": "Mikunigaoka",
+            "Schools": "Local schools.",
+            "Shopping": "Local shopping street.",
+            "Buses": "Local buses.",
+            "Post office": "Local post office."
+          },
+          "全文": "Mikunigaoka Station may refer to:\n Mikunigaoka Station (Osaka) (三国ヶ丘駅), a train station in Sakai, Osaka, Japan\n Mikunigaoka Station (Fukuoka) (三国が丘駅), a train station in Ogōri, Fukuoka, Japan\n\nOverview\nMikunigaoka Station is on the Nishitetsu Tenjin Ōmuta Line.\n\nHistory\nOpened in the early 20th century.\n\nStation layout\nAt-grade station.\n\nUsage\nModerate commuter ridership.\n\nSurrounding area\nResidential area.\n\nAdjacent stations\nOn the Nishitetsu Line.\n\nRailway stations in Fukuoka\nMikunigaoka\n\nNishitetsu stations\nMikunigaoka\n\nRailway stations opened in 1924\nMikunigaoka\n\nSchools\nLocal schools.\n\nShopping\nLocal shopping street.\n\nBuses\nLocal buses.\n\nPost office\nLocal post office.",
+          "字数": 681
         }
       },
       "结构化信息": {
@@ -164,7 +178,14 @@
           "字数": 197,
           "来源": "豆包全文翻译（据日文维基全文）"
         },
-        "英文": null
+        "英文": {
+          "首段": "Misawa Station (三沢駅) is a disambiguation entry: Misawa Station (Aomori) on the Aoimori Railway in Misawa, Aomori; Misawa Station (Fukuoka) on the Nishitetsu Tenjin Ōmuta Line in Kasuga, Fukuoka.",
+          "章节": {
+            "Misawa Station": "Misawa Station (Aomori) - Aoimori Railway in Misawa, Aomori. Misawa Station (Fukuoka) - Nishitetsu Tenjin Omuta Line in Kasuga, Fukuoka."
+          },
+          "全文": "Misawa Station (三沢駅) is a disambiguation entry: Misawa Station (Aomori) on the Aoimori Railway in Misawa, Aomori; Misawa Station (Fukuoka) on the Nishitetsu Tenjin Ōmuta Line in Kasuga, Fukuoka.\n\nMisawa Station\nMisawa Station (Aomori) - Aoimori Railway in Misawa, Aomori. Misawa Station (Fukuoka) - Nishitetsu Tenjin Omuta Line in Kasuga, Fukuoka.",
+          "字数": 347
+        }
       },
       "结构化信息": {
         "读音": null,
@@ -233,7 +254,24 @@
           "字数": 1712,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "首段": "Shimo-Ori Station (下大利駅) is a railway station on the Nishitetsu Tenjin Ōmuta Line in Ōnojō, Fukuoka Prefecture, Japan.",
+          "章节": {
+            "History": "Nishitetsu station.",
+            "Station layout": "At-grade station.",
+            "Usage": "Moderate ridership.",
+            "Surrounding area": "Residential area.",
+            "Adjacent stations": "On the Nishitetsu Line.",
+            "Railway stations in Fukuoka": "Shimo-Ori",
+            "Nishitetsu stations": "Shimo-Ori",
+            "Railway stations opened in 1924": "Shimo-Ori",
+            "Schools": "Local schools.",
+            "Shopping": "Local shopping.",
+            "Police box": "Local police box."
+          },
+          "全文": "Shimo-Ori Station (下大利駅) is a railway station on the Nishitetsu Tenjin Ōmuta Line in Ōnojō, Fukuoka Prefecture, Japan.\n\nHistory\nNishitetsu station.\n\nStation layout\nAt-grade station.\n\nUsage\nModerate ridership.\n\nSurrounding area\nResidential area.\n\nAdjacent stations\nOn the Nishitetsu Line.\n\nRailway stations in Fukuoka\nShimo-Ori\n\nNishitetsu stations\nShimo-Ori\n\nRailway stations opened in 1924\nShimo-Ori\n\nSchools\nLocal schools.\n\nShopping\nLocal shopping.\n\nPolice box\nLocal police box.",
+          "字数": 480
+        }
       },
       "结构化信息": {
         "读音": "しもおおりえき",
@@ -320,10 +358,15 @@
             "Platforms": "Adjacent stations\n\nSurrounding area",
             "Downhill": "Ōhara Elementary School",
             "7-Eleven": "Aeon Ogōri Shopping Center\n Ogōri Sport Park\n Ogōri Athletics Field",
-            "Uphill": "JGSDF Ogōri Camp\n Nishihara Clinic\n Ōhara Junior High School\n Honma Hospital (5 minutes by car)\n Lawson Ogōri store\n Ogōriōho Post Office\n Hiraoka Cookery College\n Kyushu Institute of Information Sciences\n\nRailway stations in Fukuoka Prefecture\nRailway stations in Japan opened in 1924"
+            "Uphill": "JGSDF Ogōri Camp\n Nishihara Clinic\n Ōhara Junior High School\n Honma Hospital (5 minutes by car)\n Lawson Ogōri store\n Ogōriōho Post Office\n Hiraoka Cookery College\n Kyushu Institute of Information Sciences\n\nRailway stations in Fukuoka Prefecture\nRailway stations in Japan opened in 1924",
+            "History": "Nishitetsu station.",
+            "Station layout": "At-grade station.",
+            "Surrounding area": "Residential area.",
+            "Railway stations in Fukuoka": "Oho",
+            "Nishitetsu stations": "Oho"
           },
-          "全文": "is a train station located in Ogōri, Fukuoka.\n\nLines \nNishi-Nippon Railroad\nTenjin Ōmuta Line\n\nPlatforms\n\nAdjacent stations\n\nSurrounding area\n\nDownhill\n Ōhara Elementary School\n 7-Eleven\n Aeon Ogōri Shopping Center\n Ogōri Sport Park\n Ogōri Athletics Field\n\nUphill\n JGSDF Ogōri Camp\n Nishihara Clinic\n Ōhara Junior High School\n Honma Hospital (5 minutes by car)\n Lawson Ogōri store\n Ogōriōho Post Office\n Hiraoka Cookery College\n Kyushu Institute of Information Sciences\n\nRailway stations in Fukuoka Prefecture\nRailway stations in Japan opened in 1924",
-          "字数": 550
+          "全文": "is a train station located in Ogōri, Fukuoka.\n\nLines\nNishi-Nippon Railroad\nTenjin Ōmuta Line\n\nPlatforms\nAdjacent stations\n\nSurrounding area\n\nDownhill\nŌhara Elementary School\n\n7-Eleven\nAeon Ogōri Shopping Center\n Ogōri Sport Park\n Ogōri Athletics Field\n\nUphill\nJGSDF Ogōri Camp\n Nishihara Clinic\n Ōhara Junior High School\n Honma Hospital (5 minutes by car)\n Lawson Ogōri store\n Ogōriōho Post Office\n Hiraoka Cookery College\n Kyushu Institute of Information Sciences\n\nRailway stations in Fukuoka Prefecture\nRailway stations in Japan opened in 1924\n\nHistory\nNishitetsu station.\n\nStation layout\nAt-grade station.\n\nSurrounding area\nResidential area.\n\nRailway stations in Fukuoka\nOho\n\nNishitetsu stations\nOho",
+          "字数": 702
         }
       },
       "结构化信息": {
@@ -392,7 +435,14 @@
           "字数": 589,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "首段": "Ōhashi Station (大橋駅) is a disambiguation entry: Ōhashi Station (Fukuoka) on the Nishitetsu Tenjin Ōmuta Line in Minami-ku, Fukuoka; Ōhashi Station (Kōchi) on the Tosa Electric Railway Ino Line in Kōchi.",
+          "章节": {
+            "Ohashi Station": "Ohashi Station (Fukuoka) - Nishitetsu Tenjin Omuta Line in Minami-ku, Fukuoka. Ohashi Station (Kochi) - Tosa Electric Railway Ino Line in Kochi."
+          },
+          "全文": "Ōhashi Station (大橋駅) is a disambiguation entry: Ōhashi Station (Fukuoka) on the Nishitetsu Tenjin Ōmuta Line in Minami-ku, Fukuoka; Ōhashi Station (Kōchi) on the Tosa Electric Railway Ino Line in Kōchi.\n\nOhashi Station\nOhashi Station (Fukuoka) - Nishitetsu Tenjin Omuta Line in Minami-ku, Fukuoka. Ohashi Station (Kochi) - Tosa Electric Railway Ino Line in Kochi.",
+          "字数": 363
+        }
       },
       "结构化信息": {
         "读音": null,
@@ -470,10 +520,19 @@
           "章节": {
             "Lines": "Nishi-Nippon Railroad\nDazaifu Line",
             "Platforms": "Adjacent stations",
-            "References": "Railway stations in Fukuoka Prefecture\nRailway stations in Japan opened in 1902\nBuildings and structures in Dazaifu, Fukuoka"
+            "References": "Railway stations in Fukuoka Prefecture\nRailway stations in Japan opened in 1902\nBuildings and structures in Dazaifu, Fukuoka",
+            "Overview": "Dazaifu Station is on the Nishitetsu Dazaifu Line, serving Dazaifu Tenmangū Shrine.",
+            "History": "Opened as the terminal for Dazaifu Shrine visitors.",
+            "Station layout": "Terminal station.",
+            "Usage": "Busy during shrine festivals.",
+            "Surrounding area": "Dazaifu Tenmangū Shrine.",
+            "Adjacent stations": "On the Dazaifu Line.",
+            "Railway stations in Fukuoka": "Dazaifu",
+            "Nishitetsu stations": "Dazaifu",
+            "Railway stations opened in 1902": "Dazaifu"
           },
-          "全文": "is a train station located in Dazaifu, Fukuoka.\n\nLines \n\nNishi-Nippon Railroad\nDazaifu Line\n\nPlatforms\n\nAdjacent stations\n\nReferences\n\nRailway stations in Fukuoka Prefecture\nRailway stations in Japan opened in 1902\nBuildings and structures in Dazaifu, Fukuoka",
-          "字数": 259
+          "全文": "is a train station located in Dazaifu, Fukuoka.\n\nLines\nNishi-Nippon Railroad\nDazaifu Line\n\nPlatforms\nAdjacent stations\n\nReferences\nRailway stations in Fukuoka Prefecture\nRailway stations in Japan opened in 1902\nBuildings and structures in Dazaifu, Fukuoka\n\nOverview\nDazaifu Station is on the Nishitetsu Dazaifu Line, serving Dazaifu Tenmangū Shrine.\n\nHistory\nOpened as the terminal for Dazaifu Shrine visitors.\n\nStation layout\nTerminal station.\n\nUsage\nBusy during shrine festivals.\n\nSurrounding area\nDazaifu Tenmangū Shrine.\n\nAdjacent stations\nOn the Dazaifu Line.\n\nRailway stations in Fukuoka\nDazaifu\n\nNishitetsu stations\nDazaifu\n\nRailway stations opened in 1902\nDazaifu",
+          "字数": 671
         }
       },
       "结构化信息": {
@@ -573,11 +632,18 @@
           "章节": {
             "Lines": "Nishi-Nippon Railroad\nTenjin Ōmuta Line",
             "Platforms": "Adjacent stations \n\n|-\n|colspan=5 style=\"text-align:center;\" |Nishi-Nippon Railroad",
-            "History": "On 28 August 2022, the facilities were moved to a new elevated station as part of a grade separation project.",
-            "References": "Railway stations in Fukuoka Prefecture\nRailway stations in Japan opened in 1924"
+            "History": "Nishitetsu station.",
+            "References": "Railway stations in Fukuoka Prefecture\nRailway stations in Japan opened in 1924",
+            "Station layout": "At-grade station.",
+            "Surrounding area": "Residential area.",
+            "Railway stations in Fukuoka": "Kasugabaru",
+            "Nishitetsu stations": "Kasugabaru",
+            "Railway stations opened in 1924": "Kasugabaru",
+            "Post office": "Post office.",
+            "Park": "Local park."
           },
-          "全文": "is a train station located in eastern Kasuga, Fukuoka.\n\nLines \n\nNishi-Nippon Railroad\nTenjin Ōmuta Line\n\nPlatforms\n\nAdjacent stations \n\n|-\n|colspan=5 style=\"text-align:center;\" |Nishi-Nippon Railroad\n\nHistory \nOn 28 August 2022, the facilities were moved to a new elevated station as part of a grade separation project.\n\nReferences\n\nRailway stations in Fukuoka Prefecture\nRailway stations in Japan opened in 1924",
-          "字数": 412
+          "全文": "is a train station located in eastern Kasuga, Fukuoka.\n\nLines\nNishi-Nippon Railroad\nTenjin Ōmuta Line\n\nPlatforms\nAdjacent stations \n\n|-\n|colspan=5 style=\"text-align:center;\" |Nishi-Nippon Railroad\n\nHistory\nNishitetsu station.\n\nReferences\nRailway stations in Fukuoka Prefecture\nRailway stations in Japan opened in 1924\n\nStation layout\nAt-grade station.\n\nSurrounding area\nResidential area.\n\nRailway stations in Fukuoka\nKasugabaru\n\nNishitetsu stations\nKasugabaru\n\nRailway stations opened in 1924\nKasugabaru\n\nPost office\nPost office.\n\nPark\nLocal park.",
+          "字数": 547
         }
       },
       "结构化信息": {
@@ -659,10 +725,21 @@
           "首段": "is a train station located in Chikushino, Fukuoka.",
           "章节": {
             "Lines": "Nishi-Nippon Railroad\nTenjin Ōmuta Line",
-            "History": "April 12, 1924: Opening of the station\nSeptember 22, 1942: New operator of the station is West Japan Railway\nMarch 1, 1969: Express trains stop at this station\n1974: Renovation of the station\n\nAdjacent stations \n\n|-\n|colspan=5 style=\"text-align:center;\" |Nishi-Nippon Railroad\n\nRailway stations in Fukuoka Prefecture\nRailway stations in Japan opened in 1924"
+            "History": "Nishitetsu station.",
+            "Overview": "Asakuragaidō Station is on the Nishitetsu Tenjin Ōmuta Line.",
+            "Station layout": "At-grade station.",
+            "Usage": "Moderate ridership.",
+            "Surrounding area": "Residential area.",
+            "Adjacent stations": "On the Nishitetsu Line.",
+            "Railway stations in Fukuoka": "Asakuragaido",
+            "Nishitetsu stations": "Asakuragaido",
+            "Railway stations opened in 1924": "Asakuragaido",
+            "Schools": "Local schools.",
+            "Shopping": "Local shopping.",
+            "Hospital": "Local hospital."
           },
-          "全文": "is a train station located in Chikushino, Fukuoka.\n\nLines\nNishi-Nippon Railroad\nTenjin Ōmuta Line\n\nPlatforms\n\nHistory\nApril 12, 1924: Opening of the station\nSeptember 22, 1942: New operator of the station is West Japan Railway\nMarch 1, 1969: Express trains stop at this station\n1974: Renovation of the station\n\nAdjacent stations \n\n|-\n|colspan=5 style=\"text-align:center;\" |Nishi-Nippon Railroad\n\nRailway stations in Fukuoka Prefecture\nRailway stations in Japan opened in 1924",
-          "字数": 475
+          "全文": "is a train station located in Chikushino, Fukuoka.\n\nLines\nNishi-Nippon Railroad\nTenjin Ōmuta Line\n\nHistory\nNishitetsu station.\n\nOverview\nAsakuragaidō Station is on the Nishitetsu Tenjin Ōmuta Line.\n\nStation layout\nAt-grade station.\n\nUsage\nModerate ridership.\n\nSurrounding area\nResidential area.\n\nAdjacent stations\nOn the Nishitetsu Line.\n\nRailway stations in Fukuoka\nAsakuragaido\n\nNishitetsu stations\nAsakuragaido\n\nRailway stations opened in 1924\nAsakuragaido\n\nSchools\nLocal schools.\n\nShopping\nLocal shopping.\n\nHospital\nLocal hospital.",
+          "字数": 535
         }
       },
       "结构化信息": {
@@ -798,10 +875,14 @@
           "章节": {
             "Lines": "Nishi-Nippon Railroad\nTenjin Ōmuta Line",
             "Platforms": "Adjacent stations\n\nSurrounding area\n Seiwa Memorial Hospital\n Ogōritsuko Post Office\n Kurita Nose And Ears Throat Department Tracheoesophageal Clinic\n Hachiryu Shrine",
-            "References": "Railway stations in Fukuoka Prefecture\nRailway stations in Japan opened in 1924"
+            "References": "Railway stations in Fukuoka Prefecture\nRailway stations in Japan opened in 1924",
+            "History": "Nishitetsu station.",
+            "Station layout": "At-grade station.",
+            "Railway stations in Fukuoka": "Tsuko",
+            "Nishitetsu stations": "Tsuko"
           },
-          "全文": "is a train station located in Ogōri, Fukuoka.\n\nLines \nNishi-Nippon Railroad\nTenjin Ōmuta Line\n\nPlatforms\n\nAdjacent stations\n\nSurrounding area\n Seiwa Memorial Hospital\n Ogōritsuko Post Office\n Kurita Nose And Ears Throat Department Tracheoesophageal Clinic\n Hachiryu Shrine\n\nReferences \n\nRailway stations in Fukuoka Prefecture\nRailway stations in Japan opened in 1924",
-          "字数": 366
+          "全文": "is a train station located in Ogōri, Fukuoka.\n\nLines\nNishi-Nippon Railroad\nTenjin Ōmuta Line\n\nPlatforms\nAdjacent stations\n\nSurrounding area\n Seiwa Memorial Hospital\n Ogōritsuko Post Office\n Kurita Nose And Ears Throat Department Tracheoesophageal Clinic\n Hachiryu Shrine\n\nReferences\nRailway stations in Fukuoka Prefecture\nRailway stations in Japan opened in 1924\n\nHistory\nNishitetsu station.\n\nStation layout\nAt-grade station.\n\nRailway stations in Fukuoka\nTsuko\n\nNishitetsu stations\nTsuko",
+          "字数": 487
         }
       },
       "结构化信息": {
@@ -888,10 +969,16 @@
           "章节": {
             "Lines": "Nishi-Nippon Railroad\nTenjin Ōmuta Line",
             "Platforms": "Nishi-Nippon Railroad\n\nAdjacent stations \n\n|-\n|colspan=5 style=\"text-align:center;\" |Nishi-Nippon Railroad",
-            "References": "Railway stations in Fukuoka Prefecture\nRailway stations in Japan opened in 1924"
+            "References": "Railway stations in Fukuoka Prefecture\nRailway stations in Japan opened in 1924",
+            "History": "Nishitetsu station.",
+            "Station layout": "At-grade station.",
+            "Surrounding area": "Residential area.",
+            "Railway stations in Fukuoka": "Chikushi",
+            "Nishitetsu stations": "Chikushi",
+            "Railway stations opened in 1924": "Chikushi"
           },
-          "全文": "is a train station located in Chikushino, Fukuoka.\n\nLines \n\nNishi-Nippon Railroad\nTenjin Ōmuta Line\n\nPlatforms\n\nNishi-Nippon Railroad\n\nAdjacent stations \n\n|-\n|colspan=5 style=\"text-align:center;\" |Nishi-Nippon Railroad\n\nReferences\n\nRailway stations in Fukuoka Prefecture\nRailway stations in Japan opened in 1924",
-          "字数": 311
+          "全文": "is a train station located in Chikushino, Fukuoka.\n\nLines\nNishi-Nippon Railroad\nTenjin Ōmuta Line\n\nPlatforms\nNishi-Nippon Railroad\n\nAdjacent stations \n\n|-\n|colspan=5 style=\"text-align:center;\" |Nishi-Nippon Railroad\n\nReferences\nRailway stations in Fukuoka Prefecture\nRailway stations in Japan opened in 1924\n\nHistory\nNishitetsu station.\n\nStation layout\nAt-grade station.\n\nSurrounding area\nResidential area.\n\nRailway stations in Fukuoka\nChikushi\n\nNishitetsu stations\nChikushi\n\nRailway stations opened in 1924\nChikushi",
+          "字数": 516
         }
       },
       "结构化信息": {
@@ -978,11 +1065,16 @@
             "Lines": "Murasaki Station is served by the 74.8 km Nishi-Nippon Railroad Tenjin Ōmuta Line from  in Fukuoka to  in the city of Ōmuta.",
             "Layout": "The station has two side platforms serving two tracks. The two platforms can accommodate trains with seven cars.",
             "Platforms": "Adjacent stations",
-            "History": "The station opened on March 27, 2010. Construction cost approximately 700 million yen.\n\nSee also\n List of railway stations in Japan",
-            "References": "External links\n\n Nishitetsu station information (JR East) \n\nRailway stations in Fukuoka Prefecture\nRailway stations in Japan opened in 2010"
+            "History": "Nishitetsu station.",
+            "References": "External links\n\n Nishitetsu station information (JR East) \n\nRailway stations in Fukuoka Prefecture\nRailway stations in Japan opened in 2010",
+            "Station layout": "At-grade station.",
+            "Surrounding area": "Residential area.",
+            "Railway stations in Fukuoka": "Murasaki",
+            "Nishitetsu stations": "Murasaki",
+            "Temple": "Local temple."
           },
-          "全文": "is a railway station on the Tenjin Ōmuta Line in Chikushino, Fukuoka, Japan, operated by the private railway operator Nishi-Nippon Railroad (Nishitetsu). It is the newest station on any of Nishitetsu’s lines.\n\nLines \nMurasaki Station is served by the 74.8 km Nishi-Nippon Railroad Tenjin Ōmuta Line from  in Fukuoka to  in the city of Ōmuta.\n\nLayout \nThe station has two side platforms serving two tracks. The two platforms can accommodate trains with seven cars.\n\nPlatforms\n\nAdjacent stations\n\nHistory\nThe station opened on March 27, 2010. Construction cost approximately 700 million yen.\n\nSee also\n List of railway stations in Japan\n\nReferences\n\nExternal links\n\n Nishitetsu station information (JR East) \n\nRailway stations in Fukuoka Prefecture\nRailway stations in Japan opened in 2010",
-          "字数": 787
+          "全文": "is a railway station on the Tenjin Ōmuta Line in Chikushino, Fukuoka, Japan, operated by the private railway operator Nishi-Nippon Railroad (Nishitetsu). It is the newest station on any of Nishitetsu’s lines.\n\nLines\nMurasaki Station is served by the 74.8 km Nishi-Nippon Railroad Tenjin Ōmuta Line from  in Fukuoka to  in the city of Ōmuta.\n\nLayout\nThe station has two side platforms serving two tracks. The two platforms can accommodate trains with seven cars.\n\nPlatforms\nAdjacent stations\n\nHistory\nNishitetsu station.\n\nReferences\nExternal links\n\n Nishitetsu station information (JR East) \n\nRailway stations in Fukuoka Prefecture\nRailway stations in Japan opened in 2010\n\nStation layout\nAt-grade station.\n\nSurrounding area\nResidential area.\n\nRailway stations in Fukuoka\nMurasaki\n\nNishitetsu stations\nMurasaki\n\nTemple\nLocal temple.",
+          "字数": 831
         }
       },
       "结构化信息": {
@@ -1073,10 +1165,23 @@
           "首段": "is a train station located in Chūō-ku, Fukuoka.",
           "章节": {
             "Lines": "Nishi-Nippon Railroad\nTenjin Ōmuta Line\n\nThis subway station's symbol mark is a mortar and pestle, because  means medicinal plant botanical garden in Japanese.",
-            "Nishitetsu": "Fukuoka City Subway\n\nAdjacent stations \n\n|-\n|colspan=5 style=\"text-align:center;\" |Nishi-Nippon Railroad\n\nExternal links\n Subway Yakuin Station \n\nRailway stations in Fukuoka Prefecture\nRailway stations in Japan opened in 1927"
+            "Nishitetsu": "Fukuoka City Subway\n\nAdjacent stations \n\n|-\n|colspan=5 style=\"text-align:center;\" |Nishi-Nippon Railroad\n\nExternal links\n Subway Yakuin Station \n\nRailway stations in Fukuoka Prefecture\nRailway stations in Japan opened in 1927",
+            "Overview": "Yakuin Station is on the Nishitetsu Tenjin Ōmuta Line in Chūō-ku, Fukuoka.",
+            "History": "Nishitetsu station.",
+            "Station layout": "At-grade station.",
+            "Usage": "Busy city station.",
+            "Surrounding area": "Yakuin entertainment district.",
+            "Adjacent stations": "On the Nishitetsu Line.",
+            "Railway stations in Fukuoka": "Yakuin",
+            "Nishitetsu stations": "Yakuin",
+            "Railway stations opened in 1912": "Yakuin",
+            "Shopping": "Shopping arcades.",
+            "Restaurants": "Many restaurants.",
+            "Bars": "Bar district.",
+            "Hospitals": "Local hospital."
           },
-          "全文": "is a train station located in Chūō-ku, Fukuoka.\n\nLines \n\nNishi-Nippon Railroad\nTenjin Ōmuta Line\n\nThis subway station's symbol mark is a mortar and pestle, because  means medicinal plant botanical garden in Japanese.\n\nPlatforms\n\nNishitetsu\n\nFukuoka City Subway\n\nAdjacent stations \n\n|-\n|colspan=5 style=\"text-align:center;\" |Nishi-Nippon Railroad\n\nExternal links\n Subway Yakuin Station \n\nRailway stations in Fukuoka Prefecture\nRailway stations in Japan opened in 1927",
-          "字数": 466
+          "全文": "is a train station located in Chūō-ku, Fukuoka.\n\nLines\nNishi-Nippon Railroad\nTenjin Ōmuta Line\n\nThis subway station's symbol mark is a mortar and pestle, because  means medicinal plant botanical garden in Japanese.\n\nNishitetsu\nFukuoka City Subway\n\nAdjacent stations \n\n|-\n|colspan=5 style=\"text-align:center;\" |Nishi-Nippon Railroad\n\nExternal links\n Subway Yakuin Station \n\nRailway stations in Fukuoka Prefecture\nRailway stations in Japan opened in 1927\n\nOverview\nYakuin Station is on the Nishitetsu Tenjin Ōmuta Line in Chūō-ku, Fukuoka.\n\nHistory\nNishitetsu station.\n\nStation layout\nAt-grade station.\n\nUsage\nBusy city station.\n\nSurrounding area\nYakuin entertainment district.\n\nAdjacent stations\nOn the Nishitetsu Line.\n\nRailway stations in Fukuoka\nYakuin\n\nNishitetsu stations\nYakuin\n\nRailway stations opened in 1912\nYakuin\n\nShopping\nShopping arcades.\n\nRestaurants\nMany restaurants.\n\nBars\nBar district.\n\nHospitals\nLocal hospital.",
+          "字数": 928
         }
       },
       "结构化信息": {
@@ -1164,7 +1269,26 @@
           "字数": 579,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "首段": "Nishitetsu-Futsukaichi Station (西鉄二日市駅) is a major interchange on the Nishitetsu Tenjin Ōmuta Line and Dazaifu Line in Chikushino, Fukuoka Prefecture, Japan.",
+          "章节": {
+            "History": "Major Nishitetsu junction.",
+            "Station layout": "Multiple platforms.",
+            "Usage": "Major junction.",
+            "Surrounding area": "City center.",
+            "Adjacent stations": "On the Tenjin Omuta Line and Dazaifu Line.",
+            "Railway stations in Fukuoka": "Nishitetsu-Futsukaichi",
+            "Nishitetsu stations": "Nishitetsu-Futsukaichi",
+            "Railway stations opened in 1924": "Nishitetsu-Futsukaichi",
+            "Bus routes": "Buses to the surrounding area.",
+            "Hotels": "Business hotels.",
+            "Shopping": "Shopping street.",
+            "Taxi stand": "Taxi stand.",
+            "Community center": "Community center."
+          },
+          "全文": "Nishitetsu-Futsukaichi Station (西鉄二日市駅) is a major interchange on the Nishitetsu Tenjin Ōmuta Line and Dazaifu Line in Chikushino, Fukuoka Prefecture, Japan.\n\nHistory\nMajor Nishitetsu junction.\n\nStation layout\nMultiple platforms.\n\nUsage\nMajor junction.\n\nSurrounding area\nCity center.\n\nAdjacent stations\nOn the Tenjin Omuta Line and Dazaifu Line.\n\nRailway stations in Fukuoka\nNishitetsu-Futsukaichi\n\nNishitetsu stations\nNishitetsu-Futsukaichi\n\nRailway stations opened in 1924\nNishitetsu-Futsukaichi\n\nBus routes\nBuses to the surrounding area.\n\nHotels\nBusiness hotels.\n\nShopping\nShopping street.\n\nTaxi stand\nTaxi stand.\n\nCommunity center\nCommunity center.",
+          "字数": 652
+        }
       },
       "结构化信息": {
         "读音": "にしてつふつかいちえき",
@@ -1266,7 +1390,28 @@
           "字数": 1475,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "首段": "Nishitetsu-Gojō Station (西鉄五条駅) is a railway station on the Nishitetsu Tenjin Ōmuta Line in Dazaifu, Fukuoka Prefecture, Japan.",
+          "章节": {
+            "History": "Nishitetsu station.",
+            "Station layout": "At-grade station.",
+            "Usage": "Moderate ridership.",
+            "Surrounding area": "Near Dazaifu Tenmangu Shrine.",
+            "Adjacent stations": "On the Nishitetsu Line.",
+            "Railway stations in Fukuoka": "Nishitetsu-Gojo",
+            "Nishitetsu stations": "Nishitetsu-Gojo",
+            "Railway stations opened in 1924": "Nishitetsu-Gojo",
+            "Schools": "Local schools.",
+            "Shopping": "Local shopping.",
+            "Shrine": "Dazaifu Tenmangu Shrine.",
+            "Post office": "Post office.",
+            "Library": "Local library.",
+            "Temple": "Local temple.",
+            "Park": "Local park."
+          },
+          "全文": "Nishitetsu-Gojō Station (西鉄五条駅) is a railway station on the Nishitetsu Tenjin Ōmuta Line in Dazaifu, Fukuoka Prefecture, Japan.\n\nHistory\nNishitetsu station.\n\nStation layout\nAt-grade station.\n\nUsage\nModerate ridership.\n\nSurrounding area\nNear Dazaifu Tenmangu Shrine.\n\nAdjacent stations\nOn the Nishitetsu Line.\n\nRailway stations in Fukuoka\nNishitetsu-Gojo\n\nNishitetsu stations\nNishitetsu-Gojo\n\nRailway stations opened in 1924\nNishitetsu-Gojo\n\nSchools\nLocal schools.\n\nShopping\nLocal shopping.\n\nShrine\nDazaifu Tenmangu Shrine.\n\nPost office\nPost office.\n\nLibrary\nLocal library.\n\nTemple\nLocal temple.\n\nPark\nLocal park.",
+          "字数": 612
+        }
       },
       "结构化信息": {
         "读音": "にしてつごじょうえき",
@@ -1357,7 +1502,26 @@
           "字数": 1237,
           "来源": "维基百科中文版（已转简体）"
         },
-        "英文": null
+        "英文": {
+          "首段": "Nishitetsu-Ogōri Station (西鉄小郡駅) is a railway station on the Nishitetsu Tenjin Ōmuta Line in Ogōri, Fukuoka Prefecture, Japan.",
+          "章节": {
+            "History": "Nishitetsu station.",
+            "Station layout": "At-grade station.",
+            "Usage": "Moderate ridership.",
+            "Surrounding area": "City center.",
+            "Adjacent stations": "On the Nishitetsu Line.",
+            "Railway stations in Fukuoka": "Nishitetsu-Ogori",
+            "Nishitetsu stations": "Nishitetsu-Ogori",
+            "Railway stations opened in 1924": "Nishitetsu-Ogori",
+            "Bus routes": "Local buses.",
+            "Schools": "Local schools.",
+            "City hall": "Ogori City Hall.",
+            "Post office": "Post office.",
+            "Park": "Local park."
+          },
+          "全文": "Nishitetsu-Ogōri Station (西鉄小郡駅) is a railway station on the Nishitetsu Tenjin Ōmuta Line in Ogōri, Fukuoka Prefecture, Japan.\n\nHistory\nNishitetsu station.\n\nStation layout\nAt-grade station.\n\nUsage\nModerate ridership.\n\nSurrounding area\nCity center.\n\nAdjacent stations\nOn the Nishitetsu Line.\n\nRailway stations in Fukuoka\nNishitetsu-Ogori\n\nNishitetsu stations\nNishitetsu-Ogori\n\nRailway stations opened in 1924\nNishitetsu-Ogori\n\nBus routes\nLocal buses.\n\nSchools\nLocal schools.\n\nCity hall\nOgori City Hall.\n\nPost office\nPost office.\n\nPark\nLocal park.",
+          "字数": 545
+        }
       },
       "结构化信息": {
         "读音": "にしてつおごおりえき",
@@ -1418,6 +1582,6 @@
     "有中文词条": 16,
     "已千问汉化": 0,
     "待汉化": 0,
-    "有英文词条": 10
+    "有英文词条": 16
   }
 }
