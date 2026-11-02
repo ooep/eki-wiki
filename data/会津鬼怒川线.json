@@ -65,17 +65,17 @@
      "区間急行": "",
      "Rolling stock": "",
      "現在の使用車両": "",
-     "過去の使用車両": "",
      "Traffic statistics": "",
      "収入実績": "",
      "History": "",
      "Chronology": "",
      "普通列車は全列車各駅に停車": "",
      "特急「リバティ会津」および臨時列車については各列車記事を参照": "",
-     "福島県の交通": ""
+     "福島県の交通": "",
+     "Past Rolling Stock": ""
     },
-    "全文": "The Aizu Kinugawa Line (会津鬼怒川線) is a Yagan Railway line connecting Shin-Fujiwara Station in Nikkō, Tochigi Prefecture, with Aizukōgen-Ozeguchi Station in Minamiaizu, Fukushima Prefecture, Japan. Its nickname is the Hot Spa Line.\n\nOverview\n\n\nLine data\n\n\nService patterns\n\n\n現在の列車種別\n\n\nLocal\n\n\n快速急行・急行\n\n\n区間急行\n\n\nRolling stock\n\n\n現在の使用車両\n\n\n過去の使用車両\n\n\nTraffic statistics\n\n\n収入実績\n\n\nHistory\n\n\nChronology\n\n\n普通列車は全列車各駅に停車\n\n\n特急「リバティ会津」および臨時列車については各列車記事を参照\n\n\n福島県の交通\n",
-    "字数": 450
+    "全文": "The Aizu Kinugawa Line (会津鬼怒川線) is a Yagan Railway line connecting Shin-Fujiwara Station in Nikkō, Tochigi Prefecture, with Aizukōgen-Ozeguchi Station in Minamiaizu, Fukushima Prefecture, Japan. Its nickname is the Hot Spa Line.",
+    "字数": 228
    }
   }
  },
@@ -86,7 +86,7 @@
     "日文原名": "上三依塩原温泉口",
     "词条": "上三依塩原温泉口駅",
     "中文": "上三依鹽原溫泉口站",
-    "英文": null
+    "英文": "Kamimiyashiohara Onsen-guchi Station"
    },
    "百科": {
     "日文": {
@@ -176,7 +176,7 @@
     "日文原名": "中三依温泉",
     "词条": "中三依温泉駅",
     "中文": "中三依溫泉站",
-    "英文": null
+    "英文": "Nakamiyashion Onsen Station"
    },
    "百科": {
     "日文": {
@@ -259,7 +259,7 @@
     "日文原名": "会津高原尾瀬口",
     "词条": "会津高原尾瀬口駅",
     "中文": "會津高原尾瀨口車站",
-    "英文": null
+    "英文": "Aizu-Kōgen-Oseguchi Station"
    },
    "百科": {
     "日文": {
@@ -350,7 +350,7 @@
     "日文原名": "川治温泉",
     "词条": "川治温泉駅",
     "中文": "川治溫泉站",
-    "英文": null
+    "英文": "Kawaji-Onsen Station"
    },
    "百科": {
     "日文": {
@@ -447,7 +447,7 @@
     "日文原名": "川治湯元",
     "词条": "川治湯元駅",
     "中文": "川治湯元站",
-    "英文": null
+    "英文": "Kawaji-Yumoto Station"
    },
    "百科": {
     "日文": {
@@ -532,7 +532,7 @@
     "日文原名": "新藤原",
     "词条": "新藤原駅",
     "中文": "新藤原站",
-    "英文": null
+    "英文": "Shin-Fujiwara Station"
    },
    "百科": {
     "日文": {
@@ -626,7 +626,7 @@
     "日文原名": "湯西川温泉",
     "词条": "湯西川温泉駅",
     "中文": "湯西川溫泉車站",
-    "英文": null
+    "英文": "Yunishikawa-Onsen Station"
    },
    "百科": {
     "日文": {
@@ -712,7 +712,7 @@
     "日文原名": "男鹿高原",
     "词条": "男鹿高原駅",
     "中文": "男鹿高原站",
-    "英文": null
+    "英文": "Oga-Kōgen Station"
    },
    "百科": {
     "日文": {
