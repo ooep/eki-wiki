@@ -29,7 +29,12 @@
     "字数": 570
    },
    "中文": {
-    "来源": "⚠️ 暂未汉化"
+    "来源": "⚠️ 暂未汉化",
+    "章节": {
+     "运营方式": "A线路（田崎桥 - 健军町）- 水前寺线全线每4 - 7分钟一班\n B线路（上熊本 - 健军町）- 水前寺线全线每7 - 11分钟一班"
+    },
+    "全文": "运营方式\nA线路（田崎桥 - 健军町）- 水前寺线全线每4 - 7分钟一班\n B线路（上熊本 - 健军町）- 水前寺线全线每7 - 11分钟一班",
+    "字数": 72
    },
    "英文": {
     "词条标题": "熊本市電水前寺線",
@@ -492,10 +497,11 @@
       "Station layout": "The station ground-level platforms serve local trains.",
       "Adjacent stations": "Regular local trains stop at this station.",
       "Surrounding area": "The surrounding neighborhood is primarily residential.",
-      "Railway stations in Japan": "This station appears on the list of Japanese railway stations."
+      "Railway stations in Japan": "This station appears on the list of Japanese railway stations.",
+      "Station Structure": "It is a station with two opposed platforms and two tracks, accessible by crossing a pedestrian crossing."
      },
-     "全文": "Kotsukyoku-mae Station is a tram stop on the Kumamoto City Tram Line in Kumamoto, Japan.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.",
-     "字数": 455
+     "全文": "Kotsukyoku-mae Station is a tram stop on the Kumamoto City Tram Line in Kumamoto, Japan.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.\n\nStation Structure\nIt is a station with two opposed platforms and two tracks, accessible by crossing a pedestrian crossing.",
+     "字数": 579
     }
    },
    "结构化信息": {
@@ -663,10 +669,11 @@
       "电车站周边": "电车站附近设有大型拱廊商店街，周边为住宅区。\n 陆上自卫队、",
       "熊本县综合保健中心": "健军店（健军商店街内）",
       "熊本市交通局": "A系统、B系统（健军线）\n 健军交番前（25）－健军町（26）\n\n\n东区铁路车站 (熊本市)",
-      "相关条目": "日本铁路车站列表 Ke"
+      "相关条目": "日本铁路车站列表 Ke",
+      "车站结构": "车站为侧式站台2台2线的结构，但分为狭窄的下车站台和宽敞的上车站台。\n\n需通过人行横道进入。上车站台可供轮椅使用。下车站台一侧的人行横道没有信号灯，因此需要格外注意。"
      },
-     "全文": "健军町停留场（），又称健军町电车站（），是位于熊本县熊本市东区健军三丁目和若叶一丁目，熊本市交通局（熊本市电）健军线（终点站）的电车站。车站编号为26。A系统和B系统停靠此站。\n\n历史 \n 1945年（昭和20年）5月6日 - 三菱工场前站启用。\n 1947年（昭和22年）3月 - 电车站迁移，同时改名为健军町停留场。\n 2010年（平成22年）- 乘车月台翻新。\n\n电车站构造 \n此电车站设有2面2线的相对式低地台月台，分为下车月台和乘车月台，下车月台较狭窄。月台与路边行人路之间设有行人过路处。乘车月台可让轮椅人士使用。\n\n运行系统 \n此电车站是健军线电车站之一。A系统和B系统会驶入此站。\n\n使用状况 \n在2015年度的一日平均乘车人次为3,542人。在熊本市交通局电车站最多乘车人次中排名第3。\n\n电车站周边 \n电车站附近设有大型拱廊商店街，周边为住宅区。\n 陆上自卫队、\n \n \n \n \n \n \n 东区公所\n 熊本健军三丁目邮局\n 熊本县综合保健中心\n \n 健军店（健军商店街内）\n 肥后银行健军分店\n 健军分店\n 健军分店\n 健军分店\n 广木地区\n 总部\n\n巴士路线\n\n健军电停前\n\n健军四角\n\n相邻电车站 \n 熊本市交通局\n A系统、B系统（健军线）\n 健军交番前（25）－健军町（26）\n\n注脚\n\n相关条目 \n 日本铁路车站列表 Ke\n\n外部连结 \n 熊本市交通局 \n\n东区铁路车站 (熊本市)\nngunmachi\n1945年启用的铁路车站\n健军线车站",
-     "字数": 635,
+     "全文": "健军町停留场（），又称健军町电车站（），是位于熊本县熊本市东区健军三丁目和若叶一丁目，熊本市交通局（熊本市电）健军线（终点站）的电车站。车站编号为26。A系统和B系统停靠此站。\n\n历史\n1945年（昭和20年）5月6日 - 三菱工场前站启用。\n 1947年（昭和22年）3月 - 电车站迁移，同时改名为健军町停留场。\n 2010年（平成22年）- 乘车月台翻新。\n\n电车站构造\n此电车站设有2面2线的相对式低地台月台，分为下车月台和乘车月台，下车月台较狭窄。月台与路边行人路之间设有行人过路处。乘车月台可让轮椅人士使用。\n\n运行系统\n此电车站是健军线电车站之一。A系统和B系统会驶入此站。\n\n使用状况\n在2015年度的一日平均乘车人次为3,542人。在熊本市交通局电车站最多乘车人次中排名第3。\n\n电车站周边\n电车站附近设有大型拱廊商店街，周边为住宅区。\n 陆上自卫队、\n\n熊本县综合保健中心\n健军店（健军商店街内）\n\n熊本市交通局\nA系统、B系统（健军线）\n 健军交番前（25）－健军町（26）\n\n\n东区铁路车站 (熊本市)\n\n相关条目\n日本铁路车站列表 Ke\n\n车站结构\n车站为侧式站台2台2线的结构，但分为狭窄的下车站台和宽敞的上车站台。\n\n需通过人行横道进入。上车站台可供轮椅使用。下车站台一侧的人行横道没有信号灯，因此需要格外注意。",
+     "字数": 571,
      "来源": "维基百科中文版（已转简体）"
     },
     "英文": {
@@ -764,10 +771,12 @@
       "电车站周边": "电车站周边为住宅区。\n （上江津地区）\n 健军神社杉马场（熊本市指定史迹）\n \n 慈爱园老人之家、慈爱园护理之家、保卢斯之家、慈爱园乳儿之家、慈爱园儿童之家",
       "「八丁马场」巴士": "- 东3系统\n  - 西6、西7、东4、东5、东6、东7系统",
       "熊本市交通局": "A系统、B系统（健军线）\n 商业高校前（20）－八丁马场（21）－神水交差点（22）\n\n\n中央区铁路车站 (熊本市)",
-      "相关条目": "日本铁路车站列表 Ha"
+      "相关条目": "日本铁路车站列表 Ha",
+      "车站结构": "车站为2台2线的相对式车站。乘客需穿过没有信号灯的斑马线进入车站。",
+      "熊本市中央区的铁路车站": "土曜日"
      },
-     "全文": "八丁马场停留场（），又称八丁马场电车站（），是位于熊本县熊本市中央区神水一丁目和神水本町，熊本市交通局（熊本市电）健军线的电车站。车站编号为21。A系统和B系统停靠此站。\n\n历史 \n 1959年（昭和34年）4月16日 - 电车站启用。\n\n电车站构造 \n此电车站设有2面2线的相对式低地台月台。月台与路边行人路之间设有行人过路处。\n\n运行系统 \n此电车站是健军线电车站之一。A系统和B系统会驶入此站。\n\n使用状况\n\n电车站周边 \n电车站周边为住宅区。\n （上江津地区）\n 健军神社杉马场（熊本市指定史迹）\n \n 慈爱园老人之家、慈爱园护理之家、保卢斯之家、慈爱园乳儿之家、慈爱园儿童之家\n\n巴士路线 \n 「八丁马场」巴士\n  - 东3系统\n  - 西6、西7、东4、东5、东6、东7系统\n\n相邻电车站 \n 熊本市交通局\n A系统、B系统（健军线）\n 商业高校前（20）－八丁马场（21）－神水交差点（22）\n\n注脚\n\n相关条目 \n 日本铁路车站列表 Ha\n\n外部连结 \n 熊本市交通局 \n\n中央区铁路车站 (熊本市)\ntchoubaba\n1959年启用的铁路车站\n健军线车站",
-     "字数": 487,
+     "全文": "八丁马场停留场（），又称八丁马场电车站（），是位于熊本县熊本市中央区神水一丁目和神水本町，熊本市交通局（熊本市电）健军线的电车站。车站编号为21。A系统和B系统停靠此站。\n\n历史\n1959年（昭和34年）4月16日 - 电车站启用。\n\n电车站构造\n此电车站设有2面2线的相对式低地台月台。月台与路边行人路之间设有行人过路处。\n\n运行系统\n此电车站是健军线电车站之一。A系统和B系统会驶入此站。\n\n电车站周边\n电车站周边为住宅区。\n （上江津地区）\n 健军神社杉马场（熊本市指定史迹）\n \n 慈爱园老人之家、慈爱园护理之家、保卢斯之家、慈爱园乳儿之家、慈爱园儿童之家\n\n「八丁马场」巴士\n- 东3系统\n  - 西6、西7、东4、东5、东6、东7系统\n\n熊本市交通局\nA系统、B系统（健军线）\n 商业高校前（20）－八丁马场（21）－神水交差点（22）\n\n\n中央区铁路车站 (熊本市)\n\n相关条目\n日本铁路车站列表 Ha\n\n车站结构\n车站为2台2线的相对式车站。乘客需穿过没有信号灯的斑马线进入车站。\n\n熊本市中央区的铁路车站\n土曜日",
+     "字数": 465,
      "来源": "维基百科中文版（已转简体）"
     },
     "英文": {
@@ -938,10 +947,11 @@
      "来源": "豆包全文翻译（据日文维基全文）",
      "首段": "吴服町站（ごふくまちえき）是位于福冈县福冈市博多区纲场町的福冈市地下铁箱崎线车站。车站编号H02。\n车站象征标志由福冈市出身的平面设计师西岛伊三雄设计，因港町呈直线状，设计为船（日宋交易船）。\n是贝冢站管理、JR西日本中国Maintac福冈支店受托车站业务的业务委托站。",
      "章节": {
-      "概要": "本站是福冈市地下铁箱崎线的中间车站，由贝冢站管理，车站业务委托JR西日本中国Maintac福冈支店。"
+      "概要": "本站是福冈市地下铁箱崎线的中间车站，由贝冢站管理，车站业务委托JR西日本中国Maintac福冈支店。",
+      "车站结构": "这是一个地下车站，设有一个岛式站台和两条轨道。车站位于明治通正下方。"
      },
-     "全文": "吴服町站（ごふくまちえき）是位于福冈县福冈市博多区纲场町的福冈市地下铁箱崎线车站。车站编号H02。\n车站象征标志由福冈市出身的平面设计师西岛伊三雄设计，因港町呈直线状，设计为船（日宋交易船）。\n是贝冢站管理、JR西日本中国Maintac福冈支店受托车站业务的业务委托站。\n\n概要\n本站是福冈市地下铁箱崎线的中间车站，由贝冢站管理，车站业务委托JR西日本中国Maintac福冈支店。",
-     "字数": 190
+     "全文": "吴服町站（ごふくまちえき）是位于福冈县福冈市博多区纲场町的福冈市地下铁箱崎线车站。车站编号H02。\n车站象征标志由福冈市出身的平面设计师西岛伊三雄设计，因港町呈直线状，设计为船（日宋交易船）。\n是贝冢站管理、JR西日本中国Maintac福冈支店受托车站业务的业务委托站。\n\n概要\n本站是福冈市地下铁箱崎线的中间车站，由贝冢站管理，车站业务委托JR西日本中国Maintac福冈支店。\n\n车站结构\n这是一个地下车站，设有一个岛式站台和两条轨道。车站位于明治通正下方。",
+     "字数": 231
     },
     "英文": {
      "词条标题": "Gofukumachi Station",
@@ -1026,10 +1036,11 @@
       "巴士路线": "一般巴士路线（关于巴士站名，产交巴士和熊本巴士名为「味噌天神」，其他巴士公司名为「味噌天神前」）\n  - A1-1、K1-1・K1-5・K3～5・K6-0、L4～6、R1系统（除了A1-1，其他路线是、熊本站、方向）\n 电铁巴士 - C5、C9、K6-0系统（班次较少。只于平日早上通勤时段行走，樱町巴士总站方向不停站）\n  - L1～2、K1-3～4、K2系统\n  - H1～4、J1～3、K1-1～2、K6-0、L0、O3～4、P0、W1～2系统（H4、O系统只停靠白山通一方的巴士站）\n\n高速巴士（巴士站名为「味噌天神」）\n 前往福冈（、天神、福冈机场)： - 与西日本铁道联营，座位定员制\n Super Non-stop：经前往博多站、天神\n 经：经、植木交汇处、广川、筑紫野前往博多站、天神\n 各停：经熊本交汇处前往福冈机场\n 前往长崎(长崎站、中央桥)： - 与长崎县营巴士（）联营，座位指定制\n 前往宫崎(、宫崎站)： - 与联营，座位指定制\n 前往鹿儿岛(鹿儿岛中央站、)： - 与、联营，座位指定制\n 前往大分(前、)： - 与联营，座位定员制\n 前往延冈()： - 与宫崎交通联营，座位指定制",
       "联络（快速）巴士": "（AM系统）\n 经熊本机场前往：（TM系统）",
       "熊本市交通局": "A系统、B系统（水前寺线）\n 交通局前（14）－味噌天神前（15）－新水前寺站前（16）\n\n\n中央区铁路车站 (熊本市)",
-      "相关条目": "日本铁路车站列表 Mi"
+      "相关条目": "日本铁路车站列表 Mi",
+      "车站结构": "车站为2台2线的相对式车站。需通过人行横道进出。"
      },
-     "全文": "味噌天神前停留场（），又称味噌天神前电车站（），是位于熊本县熊本市中央区大江五丁目和大江本町，熊本市交通局（熊本市电）水前寺线的电车站。车站编号为15。A系统和B系统停靠此站。\n\n另外，此条目也会记述此电车站附近的巴士站——味噌天神前巴士站。\n\n历史 \n 1924年（大正13年）8月1日 - 味噌天神前停留场启用。 \n 日期不详 - 电车站改名为味噌天神站。\n 日期不详 - 废止。\n 1948年（昭和23年）5月 - 味噌天神站再次启用。\n 1962年（昭和37年）前 - 电车站改名为味噌天神前停留场。\n\n电车站构造 \n此电车站设有2面2线的相对式低地台月台（千鸟式月台）。月台与路边行人路之间设有行人过路处。\n\n运行系统 \n此电车站是水前寺线电车站之一。A系统和B系统会驶入此站。\n\n使用状况\n\n电车站周边 \n电车站周边设有商业设施和住宅区。大约在东边300米处设有白山路口，该处为（通称：电车通）和白山通相交处，该路口交通量较多。\n \n \n 熊本大学药学部\n \n \n \n 熊本大江六邮局\n \n \n \n 熊本县民电视台\n 肥后银行味噌天神分店\n 总部\n 总部\n 川野医院\n 伊井产妇人科医院\n 中央区城市规划中心大江交流室\n 味噌天神交番\n\n巴士路线 \n一般巴士路线（关于巴士站名，产交巴士和熊本巴士名为「味噌天神」，其他巴士公司名为「味噌天神前」）\n  - A1-1、K1-1・K1-5・K3～5・K6-0、L4～6、R1系统（除了A1-1，其他路线是、熊本站、方向）\n 电铁巴士 - C5、C9、K6-0系统（班次较少。只于平日早上通勤时段行走，樱町巴士总站方向不停站）\n  - L1～2、K1-3～4、K2系统\n  - H1～4、J1～3、K1-1～2、K6-0、L0、O3～4、P0、W1～2系统（H4、O系统只停靠白山通一方的巴士站）\n\n高速巴士（巴士站名为「味噌天神」）\n 前往福冈（、天神、福冈机场)： - 与西日本铁道联营，座位定员制\n Super Non-stop：经前往博多站、天神\n 经：经、植木交汇处、广川、筑紫野前往博多站、天神\n 各停：经熊本交汇处前往福冈机场\n 前往长崎(长崎站、中央桥)： - 与长崎县营巴士（）联营，座位指定制\n 前往宫崎(、宫崎站)： - 与联营，座位指定制\n 前往鹿儿岛(鹿儿岛中央站、)： - 与、联营，座位指定制\n 前往大分(前、)： - 与联营，座位定员制\n 前往延冈()： - 与宫崎交通联营，座位指定制\n\n联络（快速）巴士\n （AM系统）\n 经熊本机场前往：（TM系统）\n\n相邻电车站 \n 熊本市交通局\n A系统、B系统（水前寺线）\n 交通局前（14）－味噌天神前（15）－新水前寺站前（16）\n\n注脚\n\n相关条目 \n 日本铁路车站列表 Mi\n\n外部连结 \n 熊本市交通局 \n\n中央区铁路车站 (熊本市)\nsotenjinmae\n1924年启用的铁路车站\n水前寺线车站",
-     "字数": 1220,
+     "全文": "味噌天神前停留场（），又称味噌天神前电车站（），是位于熊本县熊本市中央区大江五丁目和大江本町，熊本市交通局（熊本市电）水前寺线的电车站。车站编号为15。A系统和B系统停靠此站。\n\n另外，此条目也会记述此电车站附近的巴士站——味噌天神前巴士站。\n\n历史\n1924年（大正13年）8月1日 - 味噌天神前停留场启用。 \n 日期不详 - 电车站改名为味噌天神站。\n 日期不详 - 废止。\n 1948年（昭和23年）5月 - 味噌天神站再次启用。\n 1962年（昭和37年）前 - 电车站改名为味噌天神前停留场。\n\n电车站构造\n此电车站设有2面2线的相对式低地台月台（千鸟式月台）。月台与路边行人路之间设有行人过路处。\n\n运行系统\n此电车站是水前寺线电车站之一。A系统和B系统会驶入此站。\n\n电车站周边\n电车站周边设有商业设施和住宅区。大约在东边300米处设有白山路口，该处为（通称：电车通）和白山通相交处，该路口交通量较多。\n\n巴士路线\n一般巴士路线（关于巴士站名，产交巴士和熊本巴士名为「味噌天神」，其他巴士公司名为「味噌天神前」）\n  - A1-1、K1-1・K1-5・K3～5・K6-0、L4～6、R1系统（除了A1-1，其他路线是、熊本站、方向）\n 电铁巴士 - C5、C9、K6-0系统（班次较少。只于平日早上通勤时段行走，樱町巴士总站方向不停站）\n  - L1～2、K1-3～4、K2系统\n  - H1～4、J1～3、K1-1～2、K6-0、L0、O3～4、P0、W1～2系统（H4、O系统只停靠白山通一方的巴士站）\n\n高速巴士（巴士站名为「味噌天神」）\n 前往福冈（、天神、福冈机场)： - 与西日本铁道联营，座位定员制\n Super Non-stop：经前往博多站、天神\n 经：经、植木交汇处、广川、筑紫野前往博多站、天神\n 各停：经熊本交汇处前往福冈机场\n 前往长崎(长崎站、中央桥)： - 与长崎县营巴士（）联营，座位指定制\n 前往宫崎(、宫崎站)： - 与联营，座位指定制\n 前往鹿儿岛(鹿儿岛中央站、)： - 与、联营，座位指定制\n 前往大分(前、)： - 与联营，座位定员制\n 前往延冈()： - 与宫崎交通联营，座位指定制\n\n联络（快速）巴士\n（AM系统）\n 经熊本机场前往：（TM系统）\n\n熊本市交通局\nA系统、B系统（水前寺线）\n 交通局前（14）－味噌天神前（15）－新水前寺站前（16）\n\n\n中央区铁路车站 (熊本市)\n\n相关条目\n日本铁路车站列表 Mi\n\n车站结构\n车站为2台2线的相对式车站。需通过人行横道进出。",
+     "字数": 1073,
      "来源": "维基百科中文版（已转简体）"
     },
     "英文": {
@@ -1377,10 +1388,11 @@
       "日本银行熊本分店": "（登录有形文化财）",
       "历史": "1955年（昭和30年） - 电车站启用\n 1924年（大正13年）8月1日至1943年（昭和18年）12月28日之间，于此站附近设有古川町站。\n 1959年（昭和34年）4月1日至1965年（昭和40年）2月21日之间为起点。（※在运行上直通至「辛岛町」）",
       "熊本市交通局": "A系统（干线）\n 河原町（6）－庆德校前（7）－辛岛町（8）\n\n\n中央区铁路车站 (熊本市)",
-      "相关条目": "日本铁路车站列表 Ke"
+      "相关条目": "日本铁路车站列表 Ke",
+      "车站名称的由来": "该名称源自熊本市立庆德小学。僧人庆德曾主持建造顺正寺，并挖掘了护城河，这条护城河及其周边地区因此被称为“庆德堀”。"
      },
-     "全文": "庆德校前停留场（），又称庆德校前电车站（），是位于熊本县熊本市中央区练兵町和山崎町，熊本市交通局（熊本市电）干线的电车站。车站编号为7。A系统停靠此站。\n\n电车站构造 \n此电车站设有2面2线的相对式低地台月台（千鸟式月台）。月台与路边行人路之间设有行人过路处。电车站两边设有练兵町和山崎町两端。\n\n另外，毎年2月举行，当日会交通管制，田崎桥、熊本站前出发列车会以此站作为终点站，并于辛岛公园南边的渡线进行折返。\n\n运行系统 \n此电车站是干线电车站之一。A系统会驶入此站。\n\n使用状况\n\n电车站周边 \n \n 熊本放送\n 中央分店（受到熊本地震影响，2016年4月25日起迁移至花畑町停留场花畑分店内）\n 熊本酒店\n 庆徳加来医院\n 日本银行熊本分店\n \n \n \n  （登录有形文化财）\n\n历史 \n 1955年（昭和30年） - 电车站启用\n 1924年（大正13年）8月1日至1943年（昭和18年）12月28日之间，于此站附近设有古川町站。\n 1959年（昭和34年）4月1日至1965年（昭和40年）2月21日之间为起点。（※在运行上直通至「辛岛町」）\n\n相邻电车站 \n 熊本市交通局\n A系统（干线）\n 河原町（6）－庆德校前（7）－辛岛町（8）\n\n曾经存在的路线 \n 熊本市交通局\n 川尻线\n 庆德校前－（河原町）－\n\n注脚\n\n相关条目 \n 日本铁路车站列表 Ke\n\n外部连结 \n 熊本市交通局 \n\n中央区铁路车站 (熊本市)\nitokukoumae\n1955年启用的铁路车站\n熊本市电干线车站\n川尻线车站",
-     "字数": 656,
+     "全文": "庆德校前停留场（），又称庆德校前电车站（），是位于熊本县熊本市中央区练兵町和山崎町，熊本市交通局（熊本市电）干线的电车站。车站编号为7。A系统停靠此站。\n\n电车站构造\n此电车站设有2面2线的相对式低地台月台（千鸟式月台）。月台与路边行人路之间设有行人过路处。电车站两边设有练兵町和山崎町两端。\n\n另外，毎年2月举行，当日会交通管制，田崎桥、熊本站前出发列车会以此站作为终点站，并于辛岛公园南边的渡线进行折返。\n\n运行系统\n此电车站是干线电车站之一。A系统会驶入此站。\n\n熊本放送\n中央分店（受到熊本地震影响，2016年4月25日起迁移至花畑町停留场花畑分店内）\n\n日本银行熊本分店\n（登录有形文化财）\n\n历史\n1955年（昭和30年） - 电车站启用\n 1924年（大正13年）8月1日至1943年（昭和18年）12月28日之间，于此站附近设有古川町站。\n 1959年（昭和34年）4月1日至1965年（昭和40年）2月21日之间为起点。（※在运行上直通至「辛岛町」）\n\n熊本市交通局\nA系统（干线）\n 河原町（6）－庆德校前（7）－辛岛町（8）\n\n\n中央区铁路车站 (熊本市)\n\n相关条目\n日本铁路车站列表 Ke\n\n车站名称的由来\n该名称源自熊本市立庆德小学。僧人庆德曾主持建造顺正寺，并挖掘了护城河，这条护城河及其周边地区因此被称为“庆德堀”。",
+     "字数": 574,
      "来源": "维基百科中文版（已转简体）"
     },
     "英文": {
@@ -1487,10 +1499,11 @@
      "首段": "新町站可以指以下日本铁路车站：",
      "章节": {
       "现存车站": "新町站 (群马县)，东日本旅客铁道（JR东日本）高崎线车站，位于群马县高崎市。\n 新町站 (熊本县)，熊本市电上熊本线车站，位于熊本县熊本市。\n 荒屋新町站，东日本旅客铁道花轮线车站，位于岩手县八幡平市。\n 神奈川新町站的简称（于列车方向幕等使用），该站是京滨急行电铁（京急）本线车站，位于神奈川县横滨市神奈川区。\n 川崎新町站，东日本旅客铁道南武线（滨川崎支线）及东海道货物支线车站，位于神奈川县川崎市川崎区。\n 樱新町站，东京急行电铁（东急）田园都市线车站，位于东京都世田谷区。\n 二俣新町站，东日本旅客铁道京叶线车站，位于千叶县市川市。\n 伊那新町站，东海旅客铁道（JR东海）饭田线车站，位于长野县上伊那郡辰野町。\n 犬岛新町站，富山轻轨富山港线车站，位于富山县富山市。\n 野田新町站，东海旅客铁道东海道本线车站，位于爱知县刈谷市。\n 津新町站，近畿日本铁道（近铁）名古屋线车站，位于三重县津市。",
-      "已废除车站": "新町站，京王电铁京王线已废除车站，位于东京都新宿区（现新宿站附近）。"
+      "已废除车站": "新町站，京王电铁京王线已废除车站，位于东京都新宿区（现新宿站附近）。",
+      "高崎市内循环巴士“Gururin”": "<新町线> 开往温水游泳池、开往藤冈综合医院门诊中心"
      },
-     "全文": "新町站可以指以下日本铁路车站：\n现存车站\n 新町站 (群马县)，东日本旅客铁道（JR东日本）高崎线车站，位于群马县高崎市。\n 新町站 (熊本县)，熊本市电上熊本线车站，位于熊本县熊本市。\n 荒屋新町站，东日本旅客铁道花轮线车站，位于岩手县八幡平市。\n 神奈川新町站的简称（于列车方向幕等使用），该站是京滨急行电铁（京急）本线车站，位于神奈川县横滨市神奈川区。\n 川崎新町站，东日本旅客铁道南武线（滨川崎支线）及东海道货物支线车站，位于神奈川县川崎市川崎区。\n 樱新町站，东京急行电铁（东急）田园都市线车站，位于东京都世田谷区。\n 二俣新町站，东日本旅客铁道京叶线车站，位于千叶县市川市。\n 伊那新町站，东海旅客铁道（JR东海）饭田线车站，位于长野县上伊那郡辰野町。\n 犬岛新町站，富山轻轨富山港线车站，位于富山县富山市。\n 野田新町站，东海旅客铁道东海道本线车站，位于爱知县刈谷市。\n 津新町站，近畿日本铁道（近铁）名古屋线车站，位于三重县津市。\n已废除车站\n 新町站，京王电铁京王线已废除车站，位于东京都新宿区（现新宿站附近）。",
-     "字数": 465,
+     "全文": "新町站可以指以下日本铁路车站：\n\n现存车站\n新町站 (群马县)，东日本旅客铁道（JR东日本）高崎线车站，位于群马县高崎市。\n 新町站 (熊本县)，熊本市电上熊本线车站，位于熊本县熊本市。\n 荒屋新町站，东日本旅客铁道花轮线车站，位于岩手县八幡平市。\n 神奈川新町站的简称（于列车方向幕等使用），该站是京滨急行电铁（京急）本线车站，位于神奈川县横滨市神奈川区。\n 川崎新町站，东日本旅客铁道南武线（滨川崎支线）及东海道货物支线车站，位于神奈川县川崎市川崎区。\n 樱新町站，东京急行电铁（东急）田园都市线车站，位于东京都世田谷区。\n 二俣新町站，东日本旅客铁道京叶线车站，位于千叶县市川市。\n 伊那新町站，东海旅客铁道（JR东海）饭田线车站，位于长野县上伊那郡辰野町。\n 犬岛新町站，富山轻轨富山港线车站，位于富山县富山市。\n 野田新町站，东海旅客铁道东海道本线车站，位于爱知县刈谷市。\n 津新町站，近畿日本铁道（近铁）名古屋线车站，位于三重县津市。\n\n已废除车站\n新町站，京王电铁京王线已废除车站，位于东京都新宿区（现新宿站附近）。\n\n高崎市内循环巴士“Gururin”\n<新町线> 开往温水游泳池、开往藤冈综合医院门诊中心",
+     "字数": 511,
      "来源": "维基百科中文版（已转简体）"
     },
     "英文": {
@@ -1514,10 +1527,11 @@
       "Related line (2)": "This section (Related line (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
       "Other section (6)": "This section (Other section (6)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
       "Station list": "The list of stations is provided in the Japanese article.",
-      "Category": "This section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry."
+      "Category": "This section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
+      "Takasaki City Loop Bus Gururin": "<Shinmachi Line> Bound for Onsen Pool, bound for Fujioka General Hospital Outpatient Center"
      },
-     "全文": "Shinmachi Station (新町駅) is the name of two train stations in Japan:\n\nShinmachi Station (Gunma) in Takasaki, Gunma Prefecture\n Shinmachi Station (Kumamoto) in Chuo-ku, Kumamoto, Kumamoto Prefecture\n\nHistory\nThis section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.\n\nStation layout\nThis section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.\n\nOther section\nThis section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section (2)\nThis section (Other section (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nFreight\nThis section describes freight operations at this station.\n\nSurrounding area\nThis section describes the area surrounding the station, including nearby schools, hospitals, government offices, shopping streets, parks, temples, shrines, and other landmarks. Bus terminals and taxi stands in front of the station are also noted. See the Japanese article for a detailed listing.\n\nRelated line\nThis section (Related line) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nBus routes\nThis section covers bus services connecting to the station, including route names, destinations, and the bus stop locations. Highway bus services and community bus routes are also listed where applicable. See the Japanese article for detailed route information.\n\nOther section (3)\nThis section (Other section (3)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section (4)\nThis section (Other section (4)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section (5)\nThis section (Other section (5)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther\nThis section contains additional notes and supplementary information about the station.\n\nAdjacent stations\nThis section lists the adjacent stations on each service pattern, including rapid, express, and local services. Station numbers and the railway line name are indicated for each direction. See the Japanese article for the full route diagram.\n\nRelated line (2)\nThis section (Related line (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section (6)\nThis section (Other section (6)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nStation list\nThe list of stations is provided in the Japanese article.\n\nCategory\nThis section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.",
-     "字数": 3583
+     "全文": "Shinmachi Station (新町駅) is the name of two train stations in Japan:\n\nShinmachi Station (Gunma) in Takasaki, Gunma Prefecture\n Shinmachi Station (Kumamoto) in Chuo-ku, Kumamoto, Kumamoto Prefecture\n\nHistory\nThis section covers the history of the station, including its opening date, key events, renamings, relocations, and major infrastructure works such as elevation or double-tracking. Detailed dates and chronology are provided in the Japanese article.\n\nStation layout\nThis section describes the station layout, including the number and type of platforms, track configuration, station building location, accessibility features such as elevators and escalators, ticket gates, and other station facilities. Platform usage and service directions are detailed in the Japanese article.\n\nOther section\nThis section (Other section) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section (2)\nThis section (Other section (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nFreight\nThis section describes freight operations at this station.\n\nSurrounding area\nThis section describes the area surrounding the station, including nearby schools, hospitals, government offices, shopping streets, parks, temples, shrines, and other landmarks. Bus terminals and taxi stands in front of the station are also noted. See the Japanese article for a detailed listing.\n\nRelated line\nThis section (Related line) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nBus routes\nThis section covers bus services connecting to the station, including route names, destinations, and the bus stop locations. Highway bus services and community bus routes are also listed where applicable. See the Japanese article for detailed route information.\n\nOther section (3)\nThis section (Other section (3)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section (4)\nThis section (Other section (4)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section (5)\nThis section (Other section (5)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther\nThis section contains additional notes and supplementary information about the station.\n\nAdjacent stations\nThis section lists the adjacent stations on each service pattern, including rapid, express, and local services. Station numbers and the railway line name are indicated for each direction. See the Japanese article for the full route diagram.\n\nRelated line (2)\nThis section (Related line (2)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nOther section (6)\nThis section (Other section (6)) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nStation list\nThe list of stations is provided in the Japanese article.\n\nCategory\nThis section (Category) is described in detail in the Japanese article. It covers relevant information about the station as presented in the original Wikipedia entry.\n\nTakasaki City Loop Bus Gururin\n<Shinmachi Line> Bound for Onsen Pool, bound for Fujioka General Hospital Outpatient Center",
+     "字数": 3707
     }
    },
    "结构化信息": {
@@ -1600,10 +1614,11 @@
       "电车通一方的站位": "- 第一环状线（站1、站2系统）、上熊本车厂〔经段山〕线（岛3系统） - 太郎迫〔经西里站前〕线（新3系统）、万乐寺〔经、北区公所方卫〕线（新4系统）、芳野〔、河内温泉方向〕线（新6系统）",
       "电停东边（县道1号）站位": "熊本都市巴士 - 花园柿原线（壶1系统）",
       "熊本市交通局": "B系统（上熊本线）\n 县立体育馆前（B2）－本妙寺入口（B3）－杉塘（B4）\n\n\n西区铁路车站 (熊本市)",
-      "相关条目": "日本铁路车站列表 Ho\n  - 曾经为，于1970年停用，距离此电车站以东250米（熊本县道1号上）。"
+      "相关条目": "日本铁路车站列表 Ho\n  - 曾经为，于1970年停用，距离此电车站以东250米（熊本县道1号上）。",
+      "车站结构": "车站为侧式站台2台2线的结构。需通过人行横道进入。"
      },
-     "全文": "本妙寺入口停留场（），又称本妙寺入口电车站（），是位于熊本县熊本市西区一丁目和二丁目，熊本市交通局（熊本市电）上熊本线的电车站。车站编号为B3。B系统停靠此站。（净池庙、宝物馆）距离此电车站以西约1.1公里。\n\n历史 \n 1935年（昭和10年）3月24日 - 本妙寺前站启用。\n 2011年（平成23年）3月1日 - 改名为本妙寺入口停留场。\n\n电车站构造 \n此电车站设有2面2线的相对式低地台月台。月台与路边行人路之间设有行人过路处。\n\n运行系统 \n此电车站是上熊本线电车站之一。B系统会驶入此站。\n\n使用状况\n\n电车站周边 \n\n \n 本妙寺邮局\n 耶稣之圣心医院\n 肥后银行上熊本分店\n 上熊本分店\n 总部\n Ace上熊本店 （超级市场）\n 松本清上熊本站通店\n 上熊本店\n\n巴士路线 \n 「本妙寺电停前」巴士站\n 电车通一方的站位\n  - 第一环状线（站1、站2系统）、上熊本车厂〔经段山〕线（岛3系统） - 太郎迫〔经西里站前〕线（新3系统）、万乐寺〔经、北区公所方卫〕线（新4系统）、芳野〔、河内温泉方向〕线（新6系统）\n 电停东边（县道1号）站位\n 熊本都市巴士 - 花园柿原线（壶1系统）\n\n相邻电车站 \n 熊本市交通局\n B系统（上熊本线）\n 县立体育馆前（B2）－本妙寺入口（B3）－杉塘（B4）\n\n注脚\n\n相关条目 \n 日本铁路车站列表 Ho\n  - 曾经为，于1970年停用，距离此电车站以东250米（熊本县道1号上）。\n\n外部连结 \n 熊本市交通局 \n\n西区铁路车站 (熊本市)\nnmyoujiiriguchi\n1935年启用的铁路车站\n上熊本线车站",
-     "字数": 688,
+     "全文": "本妙寺入口停留场（），又称本妙寺入口电车站（），是位于熊本县熊本市西区一丁目和二丁目，熊本市交通局（熊本市电）上熊本线的电车站。车站编号为B3。B系统停靠此站。（净池庙、宝物馆）距离此电车站以西约1.1公里。\n\n历史\n1935年（昭和10年）3月24日 - 本妙寺前站启用。\n 2011年（平成23年）3月1日 - 改名为本妙寺入口停留场。\n\n电车站构造\n此电车站设有2面2线的相对式低地台月台。月台与路边行人路之间设有行人过路处。\n\n运行系统\n此电车站是上熊本线电车站之一。B系统会驶入此站。\n\n总部\nAce上熊本店 （超级市场）\n\n电车通一方的站位\n- 第一环状线（站1、站2系统）、上熊本车厂〔经段山〕线（岛3系统） - 太郎迫〔经西里站前〕线（新3系统）、万乐寺〔经、北区公所方卫〕线（新4系统）、芳野〔、河内温泉方向〕线（新6系统）\n\n电停东边（县道1号）站位\n熊本都市巴士 - 花园柿原线（壶1系统）\n\n熊本市交通局\nB系统（上熊本线）\n 县立体育馆前（B2）－本妙寺入口（B3）－杉塘（B4）\n\n\n西区铁路车站 (熊本市)\n\n相关条目\n日本铁路车站列表 Ho\n  - 曾经为，于1970年停用，距离此电车站以东250米（熊本县道1号上）。\n\n车站结构\n车站为侧式站台2台2线的结构。需通过人行横道进入。",
+     "字数": 558,
      "来源": "维基百科中文版（已转简体）"
     },
     "英文": {
@@ -1697,10 +1712,12 @@
       "城之汤": "株式会社 总部\n 雷诺 熊本贩卖",
       "「杉塘」巴士站": "- 新03、新04、新06、新07系统\n  - 站01、站02、岛03系统",
       "熊本市交通局": "B系统（上熊本线）\n 本妙寺入口（B3）－杉塘（B4）－段山町（B5）\n\n\n西区铁路车站 (熊本市)\n中央区铁路车站 (熊本市)",
-      "相关条目": "日本铁路车站列表 Su"
+      "相关条目": "日本铁路车站列表 Su",
+      "车站名称的由来": "车站名称源自周边的地名。因附近流淌的井芹川沿岸曾种植有杉树而得名。",
+      "电车站结构": "该站为相对式2面2线结构，但前往上熊本电车站方向和健军町电车站方向的站台是分开的。\n\n前往电车站需穿过没有信号灯的斑马线。"
      },
-     "全文": "杉塘停留场（），又称杉塘电车站（），是位于熊本县熊本市中央区段山本町和熊本县熊本市西区上熊本二丁目，熊本市交通局（熊本市电）上熊本线的电车站。车站编号为B4。B系统停靠此站。\n\n历史 \n 1939年（昭和14年）8月28日 - 电车站启用。\n 1943年（昭和18年）12月28日 - 电车站废止。\n 1962年（昭和37年）前 - 电车站再次启用。\n\n电车站构造 \n此电车站设有2面2线的相对式低地台月台（千鸟式月台）。月台与路边行人路之间设有没有灯口的行人过路处。\n\n运行系统 \n此电车站是上熊本线电车站之一。B系统会驶入此站。\n\n使用状况\n\n电车站周边 \n\n 熊本城公园\n \n 熊本县立美术馆本馆\n  - 最近的电车站是蔚山町\n 旧细川刑部邸\n 玉泉院上熊本会馆\n 城之汤\n 株式会社 总部\n 雷诺 熊本贩卖\n 总部\n 熊本本店\n\n巴士路线 \n 「杉塘」巴士站\n  - 新03、新04、新06、新07系统\n  - 站01、站02、岛03系统\n\n相邻电车站 \n 熊本市交通局\n B系统（上熊本线）\n 本妙寺入口（B3）－杉塘（B4）－段山町（B5）\n\n注脚\n\n相关条目 \n 日本铁路车站列表 Su\n\n外部连结 \n 熊本市交通局 \n\n西区铁路车站 (熊本市)\n中央区铁路车站 (熊本市)\ngidomo\n1939年启用的铁路车站\n上熊本线车站",
-     "字数": 571,
+     "全文": "杉塘停留场（），又称杉塘电车站（），是位于熊本县熊本市中央区段山本町和熊本县熊本市西区上熊本二丁目，熊本市交通局（熊本市电）上熊本线的电车站。车站编号为B4。B系统停靠此站。\n\n历史\n1939年（昭和14年）8月28日 - 电车站启用。\n 1943年（昭和18年）12月28日 - 电车站废止。\n 1962年（昭和37年）前 - 电车站再次启用。\n\n电车站构造\n此电车站设有2面2线的相对式低地台月台（千鸟式月台）。月台与路边行人路之间设有没有灯口的行人过路处。\n\n运行系统\n此电车站是上熊本线电车站之一。B系统会驶入此站。\n\n熊本县立美术馆本馆\n- 最近的电车站是蔚山町\n\n城之汤\n株式会社 总部\n 雷诺 熊本贩卖\n\n「杉塘」巴士站\n- 新03、新04、新06、新07系统\n  - 站01、站02、岛03系统\n\n熊本市交通局\nB系统（上熊本线）\n 本妙寺入口（B3）－杉塘（B4）－段山町（B5）\n\n\n西区铁路车站 (熊本市)\n中央区铁路车站 (熊本市)\n\n相关条目\n日本铁路车站列表 Su\n\n车站名称的由来\n车站名称源自周边的地名。因附近流淌的井芹川沿岸曾种植有杉树而得名。\n\n电车站结构\n该站为相对式2面2线结构，但前往上熊本电车站方向和健军町电车站方向的站台是分开的。\n\n前往电车站需穿过没有信号灯的斑马线。",
+     "字数": 558,
      "来源": "维基百科中文版（已转简体）"
     },
     "英文": {
@@ -1716,10 +1733,11 @@
       "Additional information 1": "Commuters use this station for regular daily travel.",
       "Additional information 2": "Commuters use this station for regular daily travel.",
       "Additional information 3": "Commuters use this station for regular daily travel.",
-      "Additional information 4": "Commuters use this station for regular daily travel."
+      "Additional information 4": "Commuters use this station for regular daily travel.",
+      "Origin of the Station Name": "The name is derived from a local place name, referencing the embankment along the nearby Isugawa River, which was once lined with cedar trees."
      },
-     "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.\n\nAdditional information 1\nCommuters use this station for regular daily travel.\n\nAdditional information 2\nCommuters use this station for regular daily travel.\n\nAdditional information 3\nCommuters use this station for regular daily travel.\n\nAdditional information 4\nCommuters use this station for regular daily travel.",
-     "字数": 766
+     "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.\n\nAdditional information 1\nCommuters use this station for regular daily travel.\n\nAdditional information 2\nCommuters use this station for regular daily travel.\n\nAdditional information 3\nCommuters use this station for regular daily travel.\n\nAdditional information 4\nCommuters use this station for regular daily travel.\n\nOrigin of the Station Name\nThe name is derived from a local place name, referencing the embankment along the nearby Isugawa River, which was once lined with cedar trees.",
+     "字数": 937
     }
    },
    "结构化信息": {
@@ -1892,10 +1910,11 @@
       "一般巴士路线": "- 东4、5、7、8、县14～18、20、21、24、25、西4、6、7、10、12、野3、6、川1、11、京4系统 - 前往、熊本站、\n  - 东11、县26～28、川1系统\n 熊本电铁巴士 - 県33～35系统、北1、5、9系统（班次较少。只于平日早上通勤时段行走，樱町巴士总站方向不停站）\n  - 县1～3、5～7、11、12、东3、站5、上1、京1系统\n\n高速巴士（巴士站名为「水前寺公园前」）\n 前往福冈（、天神、福冈机场)： - 与西日本铁道联营，座位定员制\n 经：经、植木交汇处、广川、筑紫野前往博多站、天神\n 各停：经熊本交汇处前往福冈机场\n 前往北九州（小仓站、）：\n 前往长崎(长崎站、中央桥)： - 与长崎县营巴士（）联营，座位指定制\n 前往佐世保(、豪斯登堡)： - 与联营\n 前往宫崎(、宫崎站)： - 与联营，座位指定制\n 前往鹿儿岛(鹿儿岛中央站、)： - 与、联营，座位指定制\n 前往大分(前、)： - 与联营，座位定员制\n 前往延冈()： - 与宫崎交通联营，座位指定制\n 前往人吉(、多良木站)： - 与宫崎交通联营，座位定员制\n联络（快速）巴士（巴士站名为「水前寺公园前」）\n （AM系统）\n 经熊本机场前往：（TM系统）",
       "水前寺公园前": "巴士站位于出水亲睦通一方。\n 熊本巴士 - 东2、9系统\n 熊本都市巴士 - 东1、南1、子2、子3系统",
       "熊本市交通局": "A系统、B系统（水前寺线、健军线）\n （水前寺线）国府（17）－水前寺公园（18）－（健军线）市立体育馆前（19）\n\n\n中央区铁路车站 (熊本市)",
-      "相关条目": "日本铁路车站列表 Su"
+      "相关条目": "日本铁路车站列表 Su",
+      "车站结构": "车站为2台2线的相对式车站。需通过人行横道进出。车站设有无障碍设施，可供轮椅使用者使用。"
      },
-     "全文": "水前寺公园停留场（），又称水前寺公园电车站（），是位于熊本县熊本市中央区水前寺公园和出水一丁目，熊本市交通局（熊本市电）水前寺线和健军线的电车站。车站编号为18。A系统和B系统停靠此站。水前寺公园最近此电车站（200米距离）。\n\n历史 \n 1924年（大正13年）8月1日 - 水前寺线 水道町至水前寺之间开通，于「水前寺成趣园」入口前的第一代水前寺电车站启用。\n 1945年（昭和20年）5月6日 - 健军线开通，电车站迁移至现地。\n 日期不详 - 电车站改名为水前寺公园停留场。\n\n电车站构造 \n此电车站设有2面2线的相对式低地台月台。月台与路边行人路之间设有行人过路处。\n\n运行系统 \n在电车路线上，此电车站是水前寺线和健军线电车站之一。在运行路线上，A系统和B系统会驶入此站。\n\n使用状况\n\n电车站周边 \n电车站北边为观光客而设的商店，南边是为居民而设的商店和住宅区。\n 水前寺成趣园（国家指定名胜和史迹、水前寺公园）\n 出水神社（于水前寺成趣园内）\n 出水亲睦通（商店街）\n 水前寺公园交番\n \n \n 水前寺共济会馆Gracia\n 九州纪念医院\n 天理教熊本教务分厅\n 熊本分店\n 总部\n 水前寺废寺迹（熊本市指定史迹）\n\n巴士路线\n\n水前寺公园前县立图书馆入口 \n一般巴士路线\n  - 东4、5、7、8、县14～18、20、21、24、25、西4、6、7、10、12、野3、6、川1、11、京4系统 - 前往、熊本站、\n  - 东11、县26～28、川1系统\n 熊本电铁巴士 - 県33～35系统、北1、5、9系统（班次较少。只于平日早上通勤时段行走，樱町巴士总站方向不停站）\n  - 县1～3、5～7、11、12、东3、站5、上1、京1系统\n\n高速巴士（巴士站名为「水前寺公园前」）\n 前往福冈（、天神、福冈机场)： - 与西日本铁道联营，座位定员制\n 经：经、植木交汇处、广川、筑紫野前往博多站、天神\n 各停：经熊本交汇处前往福冈机场\n 前往北九州（小仓站、）：\n 前往长崎(长崎站、中央桥)： - 与长崎县营巴士（）联营，座位指定制\n 前往佐世保(、豪斯登堡)： - 与联营\n 前往宫崎(、宫崎站)： - 与联营，座位指定制\n 前往鹿儿岛(鹿儿岛中央站、)： - 与、联营，座位指定制\n 前往大分(前、)： - 与联营，座位定员制\n 前往延冈()： - 与宫崎交通联营，座位指定制\n 前往人吉(、多良木站)： - 与宫崎交通联营，座位定员制\n联络（快速）巴士（巴士站名为「水前寺公园前」）\n （AM系统）\n 经熊本机场前往：（TM系统）\n\n水前寺公园前 \n巴士站位于出水亲睦通一方。\n 熊本巴士 - 东2、9系统\n 熊本都市巴士 - 东1、南1、子2、子3系统\n\n相邻电车站 \n 熊本市交通局\n A系统、B系统（水前寺线、健军线）\n （水前寺线）国府（17）－水前寺公园（18）－（健军线）市立体育馆前（19）\n\n注脚\n\n相关条目 \n 日本铁路车站列表 Su\n\n外部连结 \n 熊本市交通局 \n\n中央区铁路车站 (熊本市)\nizenjiKouen\n1924年启用的铁路车站\n水前寺线车站\n健军线车站",
-     "字数": 1307,
+     "全文": "水前寺公园停留场（），又称水前寺公园电车站（），是位于熊本县熊本市中央区水前寺公园和出水一丁目，熊本市交通局（熊本市电）水前寺线和健军线的电车站。车站编号为18。A系统和B系统停靠此站。水前寺公园最近此电车站（200米距离）。\n\n历史\n1924年（大正13年）8月1日 - 水前寺线 水道町至水前寺之间开通，于「水前寺成趣园」入口前的第一代水前寺电车站启用。\n 1945年（昭和20年）5月6日 - 健军线开通，电车站迁移至现地。\n 日期不详 - 电车站改名为水前寺公园停留场。\n\n电车站构造\n此电车站设有2面2线的相对式低地台月台。月台与路边行人路之间设有行人过路处。\n\n运行系统\n在电车路线上，此电车站是水前寺线和健军线电车站之一。在运行路线上，A系统和B系统会驶入此站。\n\n电车站周边\n电车站北边为观光客而设的商店，南边是为居民而设的商店和住宅区。\n 水前寺成趣园（国家指定名胜和史迹、水前寺公园）\n 出水神社（于水前寺成趣园内）\n 出水亲睦通（商店街）\n\n总部\n水前寺废寺迹（熊本市指定史迹）\n\n一般巴士路线\n- 东4、5、7、8、县14～18、20、21、24、25、西4、6、7、10、12、野3、6、川1、11、京4系统 - 前往、熊本站、\n  - 东11、县26～28、川1系统\n 熊本电铁巴士 - 県33～35系统、北1、5、9系统（班次较少。只于平日早上通勤时段行走，樱町巴士总站方向不停站）\n  - 县1～3、5～7、11、12、东3、站5、上1、京1系统\n\n高速巴士（巴士站名为「水前寺公园前」）\n 前往福冈（、天神、福冈机场)： - 与西日本铁道联营，座位定员制\n 经：经、植木交汇处、广川、筑紫野前往博多站、天神\n 各停：经熊本交汇处前往福冈机场\n 前往北九州（小仓站、）：\n 前往长崎(长崎站、中央桥)： - 与长崎县营巴士（）联营，座位指定制\n 前往佐世保(、豪斯登堡)： - 与联营\n 前往宫崎(、宫崎站)： - 与联营，座位指定制\n 前往鹿儿岛(鹿儿岛中央站、)： - 与、联营，座位指定制\n 前往大分(前、)： - 与联营，座位定员制\n 前往延冈()： - 与宫崎交通联营，座位指定制\n 前往人吉(、多良木站)： - 与宫崎交通联营，座位定员制\n联络（快速）巴士（巴士站名为「水前寺公园前」）\n （AM系统）\n 经熊本机场前往：（TM系统）\n\n水前寺公园前\n巴士站位于出水亲睦通一方。\n 熊本巴士 - 东2、9系统\n 熊本都市巴士 - 东1、南1、子2、子3系统\n\n熊本市交通局\nA系统、B系统（水前寺线、健军线）\n （水前寺线）国府（17）－水前寺公园（18）－（健军线）市立体育馆前（19）\n\n\n中央区铁路车站 (熊本市)\n\n相关条目\n日本铁路车站列表 Su\n\n车站结构\n车站为2台2线的相对式车站。需通过人行横道进出。车站设有无障碍设施，可供轮椅使用者使用。",
+     "字数": 1201,
      "来源": "维基百科中文版（已转简体）"
     },
     "英文": {
@@ -2163,10 +2182,12 @@
       "电车站周边": "电车站位于熊本市旧区——新町地区的东侧。电车站东侧对岸为船场町。目前电车站附近已建起许多公寓。\n \n （日本邮政熊本分店）",
       "「中央邮局前」巴士站、「洗马桥」巴士站": "- 鹿01、新01系统\n  - 新02、新03、新04、新06、新07系统",
       "熊本市交通局": "B系统（上熊本线）\n 新町（B7）－洗马桥（B8）－西辛岛町（B9）\n\n\n中央区铁路车站 (熊本市)",
-      "相关条目": "日本铁路车站列表 Se"
+      "相关条目": "日本铁路车站列表 Se",
+      "车站结构": "采用2个站台2条线路的相对式结构。可从人行道直接进入，并配有无障碍设施。在列车接近提示时，会播放以当地为背景的儿歌《你究竟在哪里》的旋律。",
+      "熊本市中央区的铁路车站": "嗯哈哈哈"
      },
-     "全文": "洗马桥停留场（），又称洗马桥电车站（），是位于熊本县熊本市中央区新町二丁目，熊本市交通局（熊本市电）上熊本线的电车站。车站编号为B8。B系统停靠此站。此电车站至新町电车站之间为专用路轨区间。\n\n历史\n1929年（昭和4年）6月20日 - 盐屋町站启用。\n 日期不详 - 废止。\n 1948年（昭和23年）5月 - 盐屋町站再次启用。\n 1981年（昭和56年） - 电车站改名为洗马桥停留场。\n\n电车站构造\n此电车站设有2面2线的相对式低地台月台。月台邻接行人路。此站可让轮椅人士上落。当电车进站时，会播放以当地为舞台的童谣《》。\n\n运行系统\n此电车站是上熊本线电车站之一。B系统会驶入此站。\n\n电车站周边\n电车站位于熊本市旧区——新町地区的东侧。电车站东侧对岸为船场町。目前电车站附近已建起许多公寓。\n \n （日本邮政熊本分店）\n\n「中央邮局前」巴士站、「洗马桥」巴士站\n- 鹿01、新01系统\n  - 新02、新03、新04、新06、新07系统\n\n熊本市交通局\nB系统（上熊本线）\n 新町（B7）－洗马桥（B8）－西辛岛町（B9）\n\n\n中央区铁路车站 (熊本市)\n\n相关条目\n日本铁路车站列表 Se",
-     "字数": 501,
+     "全文": "洗马桥停留场（），又称洗马桥电车站（），是位于熊本县熊本市中央区新町二丁目，熊本市交通局（熊本市电）上熊本线的电车站。车站编号为B8。B系统停靠此站。此电车站至新町电车站之间为专用路轨区间。\n\n历史\n1929年（昭和4年）6月20日 - 盐屋町站启用。\n 日期不详 - 废止。\n 1948年（昭和23年）5月 - 盐屋町站再次启用。\n 1981年（昭和56年） - 电车站改名为洗马桥停留场。\n\n电车站构造\n此电车站设有2面2线的相对式低地台月台。月台邻接行人路。此站可让轮椅人士上落。当电车进站时，会播放以当地为舞台的童谣《》。\n\n运行系统\n此电车站是上熊本线电车站之一。B系统会驶入此站。\n\n电车站周边\n电车站位于熊本市旧区——新町地区的东侧。电车站东侧对岸为船场町。目前电车站附近已建起许多公寓。\n \n （日本邮政熊本分店）\n\n「中央邮局前」巴士站、「洗马桥」巴士站\n- 鹿01、新01系统\n  - 新02、新03、新04、新06、新07系统\n\n熊本市交通局\nB系统（上熊本线）\n 新町（B7）－洗马桥（B8）－西辛岛町（B9）\n\n\n中央区铁路车站 (熊本市)\n\n相关条目\n日本铁路车站列表 Se\n\n车站结构\n采用2个站台2条线路的相对式结构。可从人行道直接进入，并配有无障碍设施。在列车接近提示时，会播放以当地为背景的儿歌《你究竟在哪里》的旋律。\n\n熊本市中央区的铁路车站\n嗯哈哈哈",
+     "字数": 595,
      "来源": "维基百科中文版（已转简体）"
     },
     "英文": {
@@ -2183,10 +2204,11 @@
       "Additional information 2": "Commuters use this station for regular daily travel.",
       "Additional information 3": "Commuters use this station for regular daily travel.",
       "Additional information 4": "Commuters use this station for regular daily travel.",
-      "Additional information 5": "Commuters use this station for regular daily travel."
+      "Additional information 5": "Commuters use this station for regular daily travel.",
+      "Railway Stations in Chuo Ward, Kumamoto": "Nahahashi"
      },
-     "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.\n\nAdditional information 1\nCommuters use this station for regular daily travel.\n\nAdditional information 2\nCommuters use this station for regular daily travel.\n\nAdditional information 3\nCommuters use this station for regular daily travel.\n\nAdditional information 4\nCommuters use this station for regular daily travel.\n\nAdditional information 5\nCommuters use this station for regular daily travel.",
-     "字数": 845
+     "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.\n\nAdditional information 1\nCommuters use this station for regular daily travel.\n\nAdditional information 2\nCommuters use this station for regular daily travel.\n\nAdditional information 3\nCommuters use this station for regular daily travel.\n\nAdditional information 4\nCommuters use this station for regular daily travel.\n\nAdditional information 5\nCommuters use this station for regular daily travel.\n\nRailway Stations in Chuo Ward, Kumamoto\nNahahashi",
+     "字数": 896
     }
    },
    "结构化信息": {
@@ -2255,10 +2277,11 @@
      "首段": "熊本城·市役所前停留场（くまもとじょう·しやくしょまえていりゅうじょう）是位于熊本县熊本市中央区手取本町、花畑町的熊本市交通局电停。熊本市役所在本电停前，亦可眺望熊本城。停留所编号10。A系统·B系统停车。",
      "章节": {
       "历史": "1924年（大正13年）8月1日：在现在的市役所前交叉点位置开业为市役所前停留场。\n1925年（大正14年）12月16日：迁移。\n1982年（昭和57年）4月：迁至现址。\n2011年（平成23年）3月1日：改称熊本城·市役所前停留场。",
-      "停留场结构": "相对式2面2线。穿越行人横道进出。对应轮椅。"
+      "停留场结构": "相对式2面2线。穿越行人横道进出。对应轮椅。",
+      "车站结构": "车站为2台2线的相对式车站。需通过人行横道进出。车站设有无障碍设施，可供轮椅使用者使用。"
      },
-     "全文": "熊本城·市役所前停留场（くまもとじょう·しやくしょまえていりゅうじょう）是位于熊本县熊本市中央区手取本町、花畑町的熊本市交通局电停。熊本市役所在本电停前，亦可眺望熊本城。停留所编号10。A系统·B系统停车。\n\n历史\n1924年（大正13年）8月1日：在现在的市役所前交叉点位置开业为市役所前停留场。\n1925年（大正14年）12月16日：迁移。\n1982年（昭和57年）4月：迁至现址。\n2011年（平成23年）3月1日：改称熊本城·市役所前停留场。\n\n停留场结构\n相对式2面2线。穿越行人横道进出。对应轮椅。",
-     "字数": 255
+     "全文": "熊本城·市役所前停留场（くまもとじょう·しやくしょまえていりゅうじょう）是位于熊本县熊本市中央区手取本町、花畑町的熊本市交通局电停。熊本市役所在本电停前，亦可眺望熊本城。停留所编号10。A系统·B系统停车。\n\n历史\n1924年（大正13年）8月1日：在现在的市役所前交叉点位置开业为市役所前停留场。\n1925年（大正14年）12月16日：迁移。\n1982年（昭和57年）4月：迁至现址。\n2011年（平成23年）3月1日：改称熊本城·市役所前停留场。\n\n停留场结构\n相对式2面2线。穿越行人横道进出。对应轮椅。\n\n车站结构\n车站为2台2线的相对式车站。需通过人行横道进出。车站设有无障碍设施，可供轮椅使用者使用。",
+     "字数": 306
     },
     "英文": {
      "词条标题": "熊本城・市役所前停留場",
@@ -2558,10 +2581,11 @@
       "电铁巴士": "北1、3、4、5、9 前往熊本站、莲台寺入口、熊本站\n 北1：、（经樱町巴士总站、国道、堀川、御代志，部分班次经菊池市政厅）\n 北3：菊池广场、菊池温泉（经樱町巴士总站、国道、KM生物、御代志、富之原）\n 北5：泉丘、下群、杉并台、武藏丘车厂（经樱町巴士总站、三轩町、堀川、新地团地）\n 北9：泉丘、下群、杉并台、武藏丘车厂（经樱町巴士总站、三轩町、清水丘、楠团地）\n 子1：楠团地（经樱町巴士总站、子饲桥、熊本大学、二里木）\n\n 东2、11、西1、南9、14：前往熊本站\n 东2：江津团地、（经樱町巴士总站、水道町、水前寺公园）\n 东11：（经樱町巴士总站、水道町、水前寺公园、县厅、健军、御船） - 班次较少（只于星期六日行走）\n 东11：玉虫（经樱町巴士总站、水道町、水前寺公园、县许厅、健军、平成音大、御船） - 班次较少（只于星期六日行走）\n 南9：AEON Mall熊本（经樱町巴士总站、水道町、九品寺、、）\n 南14：AEON Mall熊本（经樱町巴士总站、南熊本、田迎、中之濑车厂） - 班次较少（只于星期六日行走）",
       "○": "各路线 前往樱町巴士总站\n 没有路线编号：前往熊本站、\n 西1：莲台寺（经熊本站）\n 西2：Aqua Dome（经熊本站、莲台寺、岛团地）\n 西3：、（经熊本站、莲台寺、）\n 味4：、小峰、三山庄方向（经水前寺站、京冢） - 班次较少\n\n 站1、站2：第一环状线（熊本站 - 上熊本站之间循环线）",
       "熊本市交通局": "A系统（干线）\n 熊本站前（3）－祇园桥（4）－吴服町（5）\n\n\n中央区铁路车站 (熊本市)",
-      "相关条目": "日本铁路车站列表 Gi"
+      "相关条目": "日本铁路车站列表 Gi",
+      "车站结构": "车站为侧式站台2面2线结构。需通过人行横道进入车站。"
      },
-     "全文": "祇园桥停留场（），又称祇园桥电车站（），是位于熊本县熊本市中央区细工町五丁目，熊本市交通局（熊本市电）干线的电车站。车站编号为4。A系统停靠此站。\n\n历史 \n 1924年（大正13年）8月1日]] - 电车站启用。\n 日期不详 - 电车站停用。\n 1948年（昭和23年）5月 - 再次启用。\n\n站名的由来\n此电车站附近设有越过坪井川的祇园桥。祇园桥的名称来自北冈神社的「祇园祭」。在1902年（明治35年）明治天皇前往熊本行幸时新设该桥梁。\n\n电车站构造 \n此电车站设有2面2线的相对式低地台月台。月台与路边行人路之间设有行人过路处。\n\n运行系统 \n此电车站是干线电车站之一。A系统会驶入此站。\n\n使用状况\n\n电车站周边 \n电车站位于熊本市旧区南端。电车站西边北上经细工町通可到达新町。在电车开通前为熊本市内最繁荣的街道。现时电车站附近变成了住宅区，增加了公寓。\n \n \n 北冈神社（祇园宫）\n 北冈自然公园\n （春日寺）\n \n 熊本细工町邮局\n\n巴士路线 \n最近的巴士站是「祇园桥」巴士站，于电车通和各有一处站位。\n\n电车通一方 \n\n 各路线前往\n 子7、京3～8：熊本站、田崎桥\n 野7、9、10：樱町BT、水道町\n 东4：健军、沼山津（经樱町巴士总站、水道町、水前寺公园、健军电车站、东区公所）\n 东5、6：（经樱町巴士总站、水道町、水前寺公园、健军电车站）\n 县14：、沼山津（经樱町巴士总站、水道町、水前寺公园、县厅、、健军四角）\n 县15：佐土原、木山（经樱町巴士总站、水道町、水前寺公园、县厅、自卫队）\n 县16：阿苏熊本机场（经樱町巴士总站、水道町、水前寺公园、县厅、自卫队、佐土原）\n 县18：木山（经樱町巴士总站、水道町、水前寺公园、县厅、自卫队、健军四角）\n 鹿5：八反田、小山团地（经樱町巴士总站、大江四丁目、保田洼新道、托麻城市规划中心前）\n 鹿6：托麻南、货车总站（经樱町巴士总站、大江四丁目、保田洼新道、铁工团地、北口）\n 鹿8：（经樱町巴士总站、大江四丁目、保田洼新道、日赤医院、长岭团地）\n 子1：（经樱町巴士总站、子饲桥、熊本大学、龙田口站、二里木）\n 子1：龙田口站（经樱町巴士总站、子饲桥、熊本大学）\n 子14：八反田、小山团地（经樱町巴士总站、子饲桥、托麻原本通、托麻城市规划中心前）\n 子14：八反田、户岛（经樱町巴士总站、子饲桥、托麻原本通、托麻城市规划中心前）\n 京3：田原坂新城、木留（经樱町巴士总站、京町本丁、植木宫之前）\n 京4：北区公所、小野泉水公园（经樱町巴士总站、京町本丁、植木）\n 京5：（经樱町巴士总站、京町本丁、植木、日置）\n 京6：山鹿温泉（经樱町巴士总站、京町本丁、植木、来民中町）\n 京7：山鹿温泉（经樱町巴士总站、京町本丁、植木、来民绕道）\n 京8：山鹿温泉（经樱町巴士总站、京町本丁、植木、新道）\n 西4：小岛（经樱町巴士总站、熊本站、田崎市场前、上高桥）\n 西5、西6：中岛、五丁（经樱町巴士总站、熊本站、田崎市场前、上高桥、小岛）\n 西7：（经樱町巴士总站、熊本站、莲台寺）\n 西9：畠口（经入口、冲新，或经西校前、冲新）\n 西10：小岛（经樱町巴士总站、、上高桥）\n 西11：玉名站（经熊本站、田崎市场前、小岛、河内、草枕温泉，或经熊本站、田崎市场前、小岛、河内、伊仓绕道，或经熊本站、田崎市场前、西区公所、小岛、河内、伊仓，或经熊本站、田崎市场前、西高校前、小岛、河内）\n 西11：（经熊本站、田崎市场前、小岛、河内）\n 西12：小岛（经樱町巴士总站、春日校、西区公所）\n 西13、14、15、16、17：（经熊本站、田崎市场前）\n 西18：西部车厂（经熊本站、莲台寺）\n 野1：（经春日校、八岛町）\n 野3、野4：川口二丁（经熊本站、野口町、并建、天明综合出张所）\n 野4：并建（经熊本站、野口町）\n 野5：（经熊本站、并建、走潟）\n 野6：小岛上町（经樱町巴士总站、熊本站、野口町、并建、中岛）\n 野7：畠口（经樱町巴士总站、熊本站、野口町、并建、Aqua Dome）\n 野9：JA饱田分所、小岛（经樱町巴士总站、熊本站、白藤、会富）\n 野9：瑞萨电子入口（经樱町巴士总站、熊本站、白藤）\n 野10：海路口、川口二丁（桜樱町巴士总站、熊本站、白藤、川尻町）\n\n电铁巴士\n 北1、3、4、5、9 前往熊本站、莲台寺入口、熊本站\n 北1：、（经樱町巴士总站、国道、堀川、御代志，部分班次经菊池市政厅）\n 北3：菊池广场、菊池温泉（经樱町巴士总站、国道、KM生物、御代志、富之原）\n 北5：泉丘、下群、杉并台、武藏丘车厂（经樱町巴士总站、三轩町、堀川、新地团地）\n 北9：泉丘、下群、杉并台、武藏丘车厂（经樱町巴士总站、三轩町、清水丘、楠团地）\n 子1：楠团地（经樱町巴士总站、子饲桥、熊本大学、二里木）\n\n 东2、11、西1、南9、14：前往熊本站\n 东2：江津团地、（经樱町巴士总站、水道町、水前寺公园）\n 东11：（经樱町巴士总站、水道町、水前寺公园、县厅、健军、御船） - 班次较少（只于星期六日行走）\n 东11：玉虫（经樱町巴士总站、水道町、水前寺公园、县许厅、健军、平成音大、御船） - 班次较少（只于星期六日行走）\n 南9：AEON Mall熊本（经樱町巴士总站、水道町、九品寺、、）\n 南14：AEON Mall熊本（经樱町巴士总站、南熊本、田迎、中之濑车厂） - 班次较少（只于星期六日行走）\n\n○\n 各路线 前往樱町巴士总站\n 没有路线编号：前往熊本站、\n 西1：莲台寺（经熊本站）\n 西2：Aqua Dome（经熊本站、莲台寺、岛团地）\n 西3：、（经熊本站、莲台寺、）\n 味4：、小峰、三山庄方向（经水前寺站、京冢） - 班次较少\n\n熊本县道28号熊本高森线沿线上 \n○\n 站1、站2：第一环状线（熊本站 - 上熊本站之间循环线）\n\n相邻电车站 \n 熊本市交通局\n A系统（干线）\n 熊本站前（3）－祇园桥（4）－吴服町（5）\n\n注脚\n\n相关条目 \n 日本铁路车站列表 Gi\n\n外部连结 \n 熊本市交通局 \n\n中央区铁路车站 (熊本市)\nonbashi\n1924年启用的铁路车站\n熊本市电干线车站",
-     "字数": 2552,
+     "全文": "祇园桥停留场（），又称祇园桥电车站（），是位于熊本县熊本市中央区细工町五丁目，熊本市交通局（熊本市电）干线的电车站。车站编号为4。A系统停靠此站。\n\n历史\n1924年（大正13年）8月1日]] - 电车站启用。\n 日期不详 - 电车站停用。\n 1948年（昭和23年）5月 - 再次启用。\n\n站名的由来\n此电车站附近设有越过坪井川的祇园桥。祇园桥的名称来自北冈神社的「祇园祭」。在1902年（明治35年）明治天皇前往熊本行幸时新设该桥梁。\n\n电车站构造\n此电车站设有2面2线的相对式低地台月台。月台与路边行人路之间设有行人过路处。\n\n运行系统\n此电车站是干线电车站之一。A系统会驶入此站。\n\n电车站周边\n电车站位于熊本市旧区南端。电车站西边北上经细工町通可到达新町。在电车开通前为熊本市内最繁荣的街道。现时电车站附近变成了住宅区，增加了公寓。\n \n \n 北冈神社（祇园宫）\n\n北冈自然公园\n（春日寺）\n\n巴士路线\n最近的巴士站是「祇园桥」巴士站，于电车通和各有一处站位。\n\n各路线前往\n子7、京3～8：熊本站、田崎桥\n 野7、9、10：樱町BT、水道町\n 东4：健军、沼山津（经樱町巴士总站、水道町、水前寺公园、健军电车站、东区公所）\n 东5、6：（经樱町巴士总站、水道町、水前寺公园、健军电车站）\n 县14：、沼山津（经樱町巴士总站、水道町、水前寺公园、县厅、、健军四角）\n 县15：佐土原、木山（经樱町巴士总站、水道町、水前寺公园、县厅、自卫队）\n 县16：阿苏熊本机场（经樱町巴士总站、水道町、水前寺公园、县厅、自卫队、佐土原）\n 县18：木山（经樱町巴士总站、水道町、水前寺公园、县厅、自卫队、健军四角）\n 鹿5：八反田、小山团地（经樱町巴士总站、大江四丁目、保田洼新道、托麻城市规划中心前）\n 鹿6：托麻南、货车总站（经樱町巴士总站、大江四丁目、保田洼新道、铁工团地、北口）\n 鹿8：（经樱町巴士总站、大江四丁目、保田洼新道、日赤医院、长岭团地）\n 子1：（经樱町巴士总站、子饲桥、熊本大学、龙田口站、二里木）\n 子1：龙田口站（经樱町巴士总站、子饲桥、熊本大学）\n 子14：八反田、小山团地（经樱町巴士总站、子饲桥、托麻原本通、托麻城市规划中心前）\n 子14：八反田、户岛（经樱町巴士总站、子饲桥、托麻原本通、托麻城市规划中心前）\n 京3：田原坂新城、木留（经樱町巴士总站、京町本丁、植木宫之前）\n 京4：北区公所、小野泉水公园（经樱町巴士总站、京町本丁、植木）\n 京5：（经樱町巴士总站、京町本丁、植木、日置）\n 京6：山鹿温泉（经樱町巴士总站、京町本丁、植木、来民中町）\n 京7：山鹿温泉（经樱町巴士总站、京町本丁、植木、来民绕道）\n 京8：山鹿温泉（经樱町巴士总站、京町本丁、植木、新道）\n 西4：小岛（经樱町巴士总站、熊本站、田崎市场前、上高桥）\n 西5、西6：中岛、五丁（经樱町巴士总站、熊本站、田崎市场前、上高桥、小岛）\n 西7：（经樱町巴士总站、熊本站、莲台寺）\n 西9：畠口（经入口、冲新，或经西校前、冲新）\n 西10：小岛（经樱町巴士总站、、上高桥）\n 西11：玉名站（经熊本站、田崎市场前、小岛、河内、草枕温泉，或经熊本站、田崎市场前、小岛、河内、伊仓绕道，或经熊本站、田崎市场前、西区公所、小岛、河内、伊仓，或经熊本站、田崎市场前、西高校前、小岛、河内）\n 西11：（经熊本站、田崎市场前、小岛、河内）\n 西12：小岛（经樱町巴士总站、春日校、西区公所）\n 西13、14、15、16、17：（经熊本站、田崎市场前）\n 西18：西部车厂（经熊本站、莲台寺）\n 野1：（经春日校、八岛町）\n 野3、野4：川口二丁（经熊本站、野口町、并建、天明综合出张所）\n 野4：并建（经熊本站、野口町）\n 野5：（经熊本站、并建、走潟）\n 野6：小岛上町（经樱町巴士总站、熊本站、野口町、并建、中岛）\n 野7：畠口（经樱町巴士总站、熊本站、野口町、并建、Aqua Dome）\n 野9：JA饱田分所、小岛（经樱町巴士总站、熊本站、白藤、会富）\n 野9：瑞萨电子入口（经樱町巴士总站、熊本站、白藤）\n 野10：海路口、川口二丁（桜樱町巴士总站、熊本站、白藤、川尻町）\n\n电铁巴士\n北1、3、4、5、9 前往熊本站、莲台寺入口、熊本站\n 北1：、（经樱町巴士总站、国道、堀川、御代志，部分班次经菊池市政厅）\n 北3：菊池广场、菊池温泉（经樱町巴士总站、国道、KM生物、御代志、富之原）\n 北5：泉丘、下群、杉并台、武藏丘车厂（经樱町巴士总站、三轩町、堀川、新地团地）\n 北9：泉丘、下群、杉并台、武藏丘车厂（经樱町巴士总站、三轩町、清水丘、楠团地）\n 子1：楠团地（经樱町巴士总站、子饲桥、熊本大学、二里木）\n\n 东2、11、西1、南9、14：前往熊本站\n 东2：江津团地、（经樱町巴士总站、水道町、水前寺公园）\n 东11：（经樱町巴士总站、水道町、水前寺公园、县厅、健军、御船） - 班次较少（只于星期六日行走）\n 东11：玉虫（经樱町巴士总站、水道町、水前寺公园、县许厅、健军、平成音大、御船） - 班次较少（只于星期六日行走）\n 南9：AEON Mall熊本（经樱町巴士总站、水道町、九品寺、、）\n 南14：AEON Mall熊本（经樱町巴士总站、南熊本、田迎、中之濑车厂） - 班次较少（只于星期六日行走）\n\n○\n各路线 前往樱町巴士总站\n 没有路线编号：前往熊本站、\n 西1：莲台寺（经熊本站）\n 西2：Aqua Dome（经熊本站、莲台寺、岛团地）\n 西3：、（经熊本站、莲台寺、）\n 味4：、小峰、三山庄方向（经水前寺站、京冢） - 班次较少\n\n 站1、站2：第一环状线（熊本站 - 上熊本站之间循环线）\n\n熊本市交通局\nA系统（干线）\n 熊本站前（3）－祇园桥（4）－吴服町（5）\n\n\n中央区铁路车站 (熊本市)\n\n相关条目\n日本铁路车站列表 Gi\n\n车站结构\n车站为侧式站台2面2线结构。需通过人行横道进入车站。",
+     "字数": 2470,
      "来源": "维基百科中文版（已转简体）"
     },
     "英文": {
@@ -2664,10 +2688,11 @@
       "参道": "水前寺蓝藻发生地（国家指定自然纪念物）\n （上江津地区）",
       "「神水町」巴士站": "共有2个站位。1处设于（通称：）上。\n  - 西6、西7、西14、东4～8系统\n  - 东11、县26～28、川1系统 \n  - 县5～7、12系统、东3系统\n （⇔团地）",
       "熊本市交通局": "A系统、B系统（健军线）\n 八丁马场（21）－神水交差点（22）－健军校前（23）\n\n\n中央区铁路车站 (熊本市)\n东区铁路车站 (熊本市)",
-      "相关条目": "日本铁路车站列表 Ku"
+      "相关条目": "日本铁路车站列表 Ku",
+      "电车站名称的由来": "电车站名称“神水十字路口”，指的是以本站为界，电车通行的县道28号熊本高森线与国道57号（俗称熊本东绕道）相交的十字路口。\n 地名“神水”的由来，是因为此地曾有一处名为“神水泉”的涌泉。"
      },
-     "全文": "神水交差点停留场（），又称神水交差点电车站（），是位于熊本县熊本市中央区神水本町和同县同市东区健军二丁目，熊本市交通局（熊本市电）健军线的电车站。车站编号为22。A系统和B系统停靠此站。\n\n在2011年（平成23年）3月1日，此电车站由神水桥停留场（副站名：市民医院前停留场）改名为神水·市民医院前停留场。后来随著市民医院迁移，于2019年（令和元年）10月1日再改名为神水交差体停留场。\n\n历史 \n 1945年（昭和20年）5月6日 - 神水町站启用。\n 日期不详 - 电车站改名为神水桥站。\n 日期不详 - 电车站改名为市民医院前（神水桥）站。\n 1961年（昭和36年）9月15日 - 电车站改名为神水桥（市民医院前）站。\n 2011年（平成23年）3月1日 - 电车站改名为神水·市民病院前停留场。\n 2019年（令和元年）10月1日 - 电车站改名为神水交差点停留场。\n\n电车站构造 \n此电车站设有2面2线的相对式低地台月台（千鸟式月台）。月台与路边行人路之间设有行人过路处。在健军校前一方设有折返设备。\n\n运行系统 \n此电车站是健军线电车站之一。A系统和B系统会驶入此站。\n\n使用状况\n\n电车站周边 \n电车站邻近。周边为住宅区。此电车站最接近江津湖。\n 健军川\n 参道\n \n 水前寺蓝藻发生地（国家指定自然纪念物）\n （上江津地区）\n 熊本县市町村自治会馆\n 肥后银行神水分店\n 总店\n 崇教真光熊本中修验道场\n\n巴士路线 \n 「神水町」巴士站\n 共有2个站位。1处设于（通称：）上。\n  - 西6、西7、西14、东4～8系统\n  - 东11、县26～28、川1系统 \n  - 县5～7、12系统、东3系统\n （⇔团地）\n\n相邻电车站 \n 熊本市交通局\n A系统、B系统（健军线）\n 八丁马场（21）－神水交差点（22）－健军校前（23）\n\n注脚\n\n相关条目 \n 日本铁路车站列表 Ku\n\n外部连结 \n 熊本市交通局 \n\n中央区铁路车站 (熊本市)\n东区铁路车站 (熊本市)\nwamizuKousaten\n1945年启用的铁路车站\n健军线车站",
-     "字数": 877,
+     "全文": "神水交差点停留场（），又称神水交差点电车站（），是位于熊本县熊本市中央区神水本町和同县同市东区健军二丁目，熊本市交通局（熊本市电）健军线的电车站。车站编号为22。A系统和B系统停靠此站。\n\n在2011年（平成23年）3月1日，此电车站由神水桥停留场（副站名：市民医院前停留场）改名为神水·市民医院前停留场。后来随著市民医院迁移，于2019年（令和元年）10月1日再改名为神水交差体停留场。\n\n历史\n1945年（昭和20年）5月6日 - 神水町站启用。\n 日期不详 - 电车站改名为神水桥站。\n 日期不详 - 电车站改名为市民医院前（神水桥）站。\n 1961年（昭和36年）9月15日 - 电车站改名为神水桥（市民医院前）站。\n 2011年（平成23年）3月1日 - 电车站改名为神水·市民病院前停留场。\n 2019年（令和元年）10月1日 - 电车站改名为神水交差点停留场。\n\n电车站构造\n此电车站设有2面2线的相对式低地台月台（千鸟式月台）。月台与路边行人路之间设有行人过路处。在健军校前一方设有折返设备。\n\n运行系统\n此电车站是健军线电车站之一。A系统和B系统会驶入此站。\n\n电车站周边\n电车站邻近。周边为住宅区。此电车站最接近江津湖。\n\n参道\n水前寺蓝藻发生地（国家指定自然纪念物）\n （上江津地区）\n\n「神水町」巴士站\n共有2个站位。1处设于（通称：）上。\n  - 西6、西7、西14、东4～8系统\n  - 东11、县26～28、川1系统 \n  - 县5～7、12系统、东3系统\n （⇔团地）\n\n熊本市交通局\nA系统、B系统（健军线）\n 八丁马场（21）－神水交差点（22）－健军校前（23）\n\n\n中央区铁路车站 (熊本市)\n东区铁路车站 (熊本市)\n\n相关条目\n日本铁路车站列表 Ku\n\n电车站名称的由来\n电车站名称“神水十字路口”，指的是以本站为界，电车通行的县道28号熊本高森线与国道57号（俗称熊本东绕道）相交的十字路口。\n 地名“神水”的由来，是因为此地曾有一处名为“神水泉”的涌泉。",
+     "字数": 851,
      "来源": "维基百科中文版（已转简体）"
     },
     "英文": {
@@ -2682,10 +2707,11 @@
       "Railway stations in Japan": "This station appears on the list of Japanese railway stations.",
       "Additional information 1": "Commuters use this station for regular daily travel.",
       "Additional information 2": "Commuters use this station for regular daily travel.",
-      "Additional information 3": "Commuters use this station for regular daily travel."
+      "Additional information 3": "Commuters use this station for regular daily travel.",
+      "Origin of the Tram Stop Name": "The name of the tram stop, Kami-mizu Intersection, comes from the intersection of Prefectural Route 28 (Kumamoto-Takamori Line), a major street for trams, and National Route 57 (commonly known as the Kumamoto East Bypass), which lies on either side of the stop.\n  The origin of the place name Kami-mizu is that there was once a spring known as Kami-mizu Izumi."
      },
-     "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.\n\nAdditional information 1\nCommuters use this station for regular daily travel.\n\nAdditional information 2\nCommuters use this station for regular daily travel.\n\nAdditional information 3\nCommuters use this station for regular daily travel.",
-     "字数": 687
+     "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.\n\nAdditional information 1\nCommuters use this station for regular daily travel.\n\nAdditional information 2\nCommuters use this station for regular daily travel.\n\nAdditional information 3\nCommuters use this station for regular daily travel.\n\nOrigin of the Tram Stop Name\nThe name of the tram stop, Kami-mizu Intersection, comes from the intersection of Prefectural Route 28 (Kumamoto-Takamori Line), a major street for trams, and National Route 57 (commonly known as the Kumamoto East Bypass), which lies on either side of the stop.\n  The origin of the place name Kami-mizu is that there was once a spring known as Kami-mizu Izumi.",
+     "字数": 1078
     }
    },
    "结构化信息": {
@@ -2761,10 +2787,11 @@
       "花畑公园": "旧代继宫迹（现：花畑公园）大樟树 （熊本市指定天然纪念物）",
       "巴士路线": "熊本城前巴士站（位于电车站东边银座通）\n ○ - 连接樱町巴士总站方向和南熊本站方向的路线（南1、南4系统）\n  - 御幸木部线（南2系统）\n\n其他路线可于电车站西边的乘坐。",
       "熊本市交通局": "A系统、B系统（干线）\n 辛岛町（8）－花畑町（9）－熊本城·市役所前（10）\n\n\n中央区铁路车站 (熊本市)",
-      "相关条目": "日本铁路车站列表 Ha"
+      "相关条目": "日本铁路车站列表 Ha",
+      "车站结构": "车站为2台2线的相对式车站。需通过人行横道进出。车站设有无障碍设施，可供轮椅使用者使用。"
      },
-     "全文": "花畑町停留场（），又称花畑町电车站（），是位于熊本县熊本市中央区花畑町，熊本市交通局（熊本市电）干线的电车站。车站编号为9。A系统和B系统停靠此站。\n\n历史 \n 1924年（大正13年）8月1日 - 公会堂前停留场启用。 \n 1928年（昭和3年）3月1日 - 电车站迁移，电车站改名为电话课前停留场，翌年名称再次改回公会堂前停留场。\n 日期不明 - 电车站改名为城前停留场（）。 \n 1961年（昭和36年）9月15日 - 电车站改名为熊本城市民会馆前停留场。\n 日期不明 - 电车站改名为熊本城前停留场。\n 2011年（平成23年）3月1日 - 电车站改名为花畑町停留场。\n\n电车站构造 \n此电车站设有2面2线的相对式低地台月台。月台与路边行人路之间设有行人过路处。此站可让轮椅人士上落。\n\n运行系统 \n此电车站是干线电车站之一。A系统和B系统会驶入此站。\n\n使用状况\n\n电车站周边 \n电车站东边设有地方银行的分店和餐厅，也有一些大厦群。此外，电车站周边为熊本市商业、金融区域。\n\n NHK熊本放送局（2017年6月5日迁移至千叶城町）\n 熊本城 - 此电车站与熊本城·市役所前停留场都比较近\n 樱之马场 城彩苑\n \n \n 熊本县物产馆\n 花畑交番\n 熊本分店\n 朝日新闻第一生命大厦\n 朝日新闻熊本总局\n 熊本分店\n 韩亚航空熊本分店\n 里索那银行熊本分店\n 瑞穗银行熊本分店\n 福冈银行熊本营业部\n 瑞穗证券熊本分店\n 大和证券熊本分店\n 野村证券熊本分店\n 西日本都市银行熊本分店\n 熊本营业部\n 肥后银行银座通分店\n 花畑分店\n 总店\n 总部\n 花畑公园\n 旧代继宫迹（现：花畑公园）大樟树 （熊本市指定天然纪念物）\n\n巴士路线 \n熊本城前巴士站（位于电车站东边银座通）\n ○ - 连接樱町巴士总站方向和南熊本站方向的路线（南1、南4系统）\n  - 御幸木部线（南2系统）\n\n其他路线可于电车站西边的乘坐。\n\n相邻电车站 \n 熊本市交通局\n A系统、B系统（干线）\n 辛岛町（8）－花畑町（9）－熊本城·市役所前（10）\n\n注脚\n\n相关条目 \n 日本铁路车站列表 Ha\n\n外部连结 \n 熊本市交通局 \n\n中央区铁路车站 (熊本市)\nnabatachou\n1924年启用的铁路车站\n熊本市电干线车站\n熊本市电B系统车站",
-     "字数": 964,
+     "全文": "花畑町停留场（），又称花畑町电车站（），是位于熊本县熊本市中央区花畑町，熊本市交通局（熊本市电）干线的电车站。车站编号为9。A系统和B系统停靠此站。\n\n历史\n1924年（大正13年）8月1日 - 公会堂前停留场启用。 \n 1928年（昭和3年）3月1日 - 电车站迁移，电车站改名为电话课前停留场，翌年名称再次改回公会堂前停留场。\n 日期不明 - 电车站改名为城前停留场（）。 \n 1961年（昭和36年）9月15日 - 电车站改名为熊本城市民会馆前停留场。\n 日期不明 - 电车站改名为熊本城前停留场。\n 2011年（平成23年）3月1日 - 电车站改名为花畑町停留场。\n\n电车站构造\n此电车站设有2面2线的相对式低地台月台。月台与路边行人路之间设有行人过路处。此站可让轮椅人士上落。\n\n运行系统\n此电车站是干线电车站之一。A系统和B系统会驶入此站。\n\n电车站周边\n电车站东边设有地方银行的分店和餐厅，也有一些大厦群。此外，电车站周边为熊本市商业、金融区域。\n\n NHK熊本放送局（2017年6月5日迁移至千叶城町）\n 熊本城 - 此电车站与熊本城·市役所前停留场都比较近\n 樱之马场 城彩苑\n\n花畑公园\n旧代继宫迹（现：花畑公园）大樟树 （熊本市指定天然纪念物）\n\n巴士路线\n熊本城前巴士站（位于电车站东边银座通）\n ○ - 连接樱町巴士总站方向和南熊本站方向的路线（南1、南4系统）\n  - 御幸木部线（南2系统）\n\n其他路线可于电车站西边的乘坐。\n\n熊本市交通局\nA系统、B系统（干线）\n 辛岛町（8）－花畑町（9）－熊本城·市役所前（10）\n\n\n中央区铁路车站 (熊本市)\n\n相关条目\n日本铁路车站列表 Ha\n\n车站结构\n车站为2台2线的相对式车站。需通过人行横道进出。车站设有无障碍设施，可供轮椅使用者使用。",
+     "字数": 760,
      "来源": "维基百科中文版（已转简体）"
     },
     "英文": {
@@ -2849,10 +2876,11 @@
       "运行系统": "此电车站是上熊本线电车站之一。B系统会驶入此站。",
       "「蔚山町」巴士站": "- 站01、站02系统、「」\n  - 新03、新04、新06、新07系统",
       "熊本市交通局": "B系统（上熊本线）\n 段山町（B5）－蔚山町（B6）－新町（B7）\n\n\n中央区铁路车站 (熊本市)",
-      "相关条目": "日本铁路车站列表 U"
+      "相关条目": "日本铁路车站列表 U",
+      "车站结构": "车站为2台2线的相对式车站。乘客需穿过没有信号灯的斑马线进入车站。"
      },
-     "全文": "蔚山町停留场（），又称段山町电车站（），是位于熊本县熊本市中央区新町一丁目和新町三丁目，熊本市交通局（熊本市电）上熊本线的电车站。车站编号为B6。B系统停靠此站。\n\n历史 \n 1929年（昭和4年）6月20日 - 蔚山町停留场启用。\n 日时不明 - 废止\n 1948年（昭和23年）5月 - 蔚山町护国神社前站启用。\n 1961年（昭和36年）〜1962年（昭和37年）- 电车站改名为蔚山町停留场\n\n电车站构造 \n此电车站设有2面2线的相对式低地台月台。月台与路边行人路之间设有行人过路处。\n\n运行系统 \n此电车站是上熊本线电车站之一。B系统会驶入此站。\n\n使用状况\n\n电车站周边 \n 熊本市儿童文化会馆\n \n \n 熊本城公园\n 熊本县护国神社\n \n \n 旧细川刑部邸\n 熊本县立美术馆本馆\n 二之丸公园\n 三之丸公园\n 熊本新町邮局\n 总部\n\n巴士路线 \n 「蔚山町」巴士站\n  - 站01、站02系统、「」\n  - 新03、新04、新06、新07系统\n\n相邻电车站 \n 熊本市交通局\n B系统（上熊本线）\n 段山町（B5）－蔚山町（B6）－新町（B7）\n\n注脚\n\n注释\n\n参考资料\n\n相关条目 \n 日本铁路车站列表 U\n\n外部连结 \n 熊本市交通局 \n\n中央区铁路车站 (熊本市)\nrusanmachi\n1929年启用的铁路车站\n上熊本线车站",
-     "字数": 574,
+     "全文": "蔚山町停留场（），又称段山町电车站（），是位于熊本县熊本市中央区新町一丁目和新町三丁目，熊本市交通局（熊本市电）上熊本线的电车站。车站编号为B6。B系统停靠此站。\n\n历史\n1929年（昭和4年）6月20日 - 蔚山町停留场启用。\n 日时不明 - 废止\n 1948年（昭和23年）5月 - 蔚山町护国神社前站启用。\n 1961年（昭和36年）〜1962年（昭和37年）- 电车站改名为蔚山町停留场\n\n电车站构造\n此电车站设有2面2线的相对式低地台月台。月台与路边行人路之间设有行人过路处。\n\n运行系统\n此电车站是上熊本线电车站之一。B系统会驶入此站。\n\n「蔚山町」巴士站\n- 站01、站02系统、「」\n  - 新03、新04、新06、新07系统\n\n熊本市交通局\nB系统（上熊本线）\n 段山町（B5）－蔚山町（B6）－新町（B7）\n\n\n中央区铁路车站 (熊本市)\n\n相关条目\n日本铁路车站列表 U\n\n车站结构\n车站为2台2线的相对式车站。乘客需穿过没有信号灯的斑马线进入车站。",
+     "字数": 436,
      "来源": "维基百科中文版（已转简体）"
     },
     "英文": {
@@ -2958,10 +2986,11 @@
       "Surrounding area": "The surrounding neighborhood is primarily residential.",
       "Railway stations in Japan": "This station appears on the list of Japanese railway stations.",
       "Additional information 1": "Commuters use this station for regular daily travel.",
-      "Additional information 2": "Commuters use this station for regular daily travel."
+      "Additional information 2": "Commuters use this station for regular daily travel.",
+      "Origin of the Tram Stop Name": "The name is derived from its location west of Karashima-chō Tram Stop and the surrounding place names."
      },
-     "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.\n\nAdditional information 1\nCommuters use this station for regular daily travel.\n\nAdditional information 2\nCommuters use this station for regular daily travel.",
-     "字数": 608
+     "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.\n\nAdditional information 1\nCommuters use this station for regular daily travel.\n\nAdditional information 2\nCommuters use this station for regular daily travel.\n\nOrigin of the Tram Stop Name\nThe name is derived from its location west of Karashima-chō Tram Stop and the surrounding place names.",
+     "字数": 741
     }
    },
    "结构化信息": {
