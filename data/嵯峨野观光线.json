@@ -273,10 +273,11 @@
       "Station layout": "At-grade station with one side platform serving one track, squeezed between the JR Sagano Line divergence and the Kameyama Tunnel; the platform is very short. The first two cars on the Torokko Kameoka side stop inside the tunnel with doors disabled (door cut). A derailment-point switch is installed on the Saga side. From the Saga end of the platform, the interior of the adjacent Sanin Main Line Ogurayama Tunnel is visible. The station is staffed; reserved tickets are issued by phone confirmation with Torokko Saga. About 60 steps lead from the gate to the platform; no elevator or slope. Several kiosks operate in the station forecourt.",
       "Surrounding area": "The station building is right beside the Sagano bamboo grove, surrounded by historic sites.",
       "Sagano Scenic Line": "Torokko Saga – Torokko Arashiyama – Torokko Hozukyō",
-      "Sagano Romantic Arashiyama": "Torokko Arashiyama Station"
+      "Sagano Romantic Arashiyama": "Torokko Arashiyama Station",
+      "Rotsuko Arashiyama Station": "Rotsuko Arashiyama"
      },
-     "全文": "Torokko Arashiyama Station (トロッコ嵐山駅) is a Sagano Scenic Railway station in Saga Ogurayama-chō, Ukyo-ku, Kyoto.\n\nHistory\nApril 27, 1991: Opened.\n\nStation layout\nAt-grade station with one side platform serving one track, squeezed between the JR Sagano Line divergence and the Kameyama Tunnel; the platform is very short. The first two cars on the Torokko Kameoka side stop inside the tunnel with doors disabled (door cut). A derailment-point switch is installed on the Saga side. From the Saga end of the platform, the interior of the adjacent Sanin Main Line Ogurayama Tunnel is visible. The station is staffed; reserved tickets are issued by phone confirmation with Torokko Saga. About 60 steps lead from the gate to the platform; no elevator or slope. Several kiosks operate in the station forecourt.\n\nSurrounding area\nThe station building is right beside the Sagano bamboo grove, surrounded by historic sites.\n\nSagano Scenic Line\nTorokko Saga – Torokko Arashiyama – Torokko Hozukyō\n\nSagano Romantic Arashiyama\nTorokko Arashiyama Station",
-     "字数": 1038
+     "全文": "Torokko Arashiyama Station (トロッコ嵐山駅) is a Sagano Scenic Railway station in Saga Ogurayama-chō, Ukyo-ku, Kyoto.\n\nHistory\nApril 27, 1991: Opened.\n\nStation layout\nAt-grade station with one side platform serving one track, squeezed between the JR Sagano Line divergence and the Kameyama Tunnel; the platform is very short. The first two cars on the Torokko Kameoka side stop inside the tunnel with doors disabled (door cut). A derailment-point switch is installed on the Saga side. From the Saga end of the platform, the interior of the adjacent Sanin Main Line Ogurayama Tunnel is visible. The station is staffed; reserved tickets are issued by phone confirmation with Torokko Saga. About 60 steps lead from the gate to the platform; no elevator or slope. Several kiosks operate in the station forecourt.\n\nSurrounding area\nThe station building is right beside the Sagano bamboo grove, surrounded by historic sites.\n\nSagano Scenic Line\nTorokko Saga – Torokko Arashiyama – Torokko Hozukyō\n\nSagano Romantic Arashiyama\nTorokko Arashiyama Station\n\nRotsuko Arashiyama Station\nRotsuko Arashiyama",
+     "字数": 1085
     }
    },
    "结构化信息": {
@@ -333,10 +334,12 @@
      "来源": "豆包全文翻译（据日文维基全文）",
      "首段": "小火车嵯峨站（トロッコさがえき）是位于京都府京都市右京区嵯峨天龙寺车道町的嵯峨野观光铁道嵯峨野观光线车站。",
      "章节": {
-      "概要": "嵯峨野观光线嵯峨野侧的起点站。邻接JR车站，可在JR与小火车站间换乘。"
+      "概要": "嵯峨野观光线嵯峨野侧的起点站。邻接JR车站，可在JR与小火车站间换乘。",
+      "接驳线路": "附近有以下线路的车站，可在此站换乘。\n 西日本旅客铁道山阴本线（嵯峨野线）：嵯峨岚山站\n 京福电气铁道岚山本线：岚电嵯峨站",
+      "车站周边": "附近有嵯峨野・岚山的名胜古迹和观光设施。"
      },
-     "全文": "小火车嵯峨站（トロッコさがえき）是位于京都府京都市右京区嵯峨天龙寺车道町的嵯峨野观光铁道嵯峨野观光线车站。\n\n概要\n嵯峨野观光线嵯峨野侧的起点站。邻接JR车站，可在JR与小火车站间换乘。",
-     "字数": 93
+     "全文": "小火车嵯峨站（トロッコさがえき）是位于京都府京都市右京区嵯峨天龙寺车道町的嵯峨野观光铁道嵯峨野观光线车站。\n\n概要\n嵯峨野观光线嵯峨野侧的起点站。邻接JR车站，可在JR与小火车站间换乘。\n\n接驳线路\n附近有以下线路的车站，可在此站换乘。\n 西日本旅客铁道山阴本线（嵯峨野线）：嵯峨岚山站\n 京福电气铁道岚山本线：岚电嵯峨站\n\n车站周边\n附近有嵯峨野・岚山的名胜古迹和观光设施。",
+     "字数": 188
     },
     "英文": {
      "词条标题": "Saga Station",

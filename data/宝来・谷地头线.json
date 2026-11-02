@@ -135,9 +135,11 @@
     "词条标题": "Horaikawaguchi-Yachigashira Line",
     "链接": "https://en.wikipedia.org/wiki/Hakodate_City_Tram",
     "首段": "The Horaikawaguchi-Yachigashira Line (宝来・谷地頭線, Horaikawaguchi-Yachigashira-sen) is a tramway line in Hakodate, Hokkaido, Japan, operated by the Hakodate City Tram.",
-    "章节": {},
-    "全文": "The Horaikawaguchi-Yachigashira Line (宝来・谷地頭線, Horaikawaguchi-Yachigashira-sen) is a tramway line in Hakodate, Hokkaido, Japan, operated by the Hakodate City Tram.",
-    "字数": 163
+    "章节": {
+     "Hakodate Transportation District": "Hakodate Line"
+    },
+    "全文": "The Horaikawaguchi-Yachigashira Line (宝来・谷地頭線, Horaikawaguchi-Yachigashira-sen) is a tramway line in Hakodate, Hokkaido, Japan, operated by the Hakodate City Tram.\n\nHakodate Transportation District\nHakodate Line",
+    "字数": 211
    }
   }
  },
@@ -276,10 +278,11 @@
       "Convenience stores": "Details about the convenience stores at this station are available in the Japanese Wikipedia article.",
       "Bicycle parking": "Details about the bicycle parking at this station are available in the Japanese Wikipedia article.",
       "Taxi stand": "Details about the taxi stand at this station are available in the Japanese Wikipedia article.",
-      "Bus connections": "Details about the bus connections at this station are available in the Japanese Wikipedia article."
+      "Bus connections": "Details about the bus connections at this station are available in the Japanese Wikipedia article.",
+      "Goryokaku Hokke Club-mae Bus Stop (Hakodate Taxi / Hakodate Teisan Bus)": "Additionally, the area from the adjacent Chuo Byoin-mae bus stop to this stop is also part of the Goryokaku district, one of Hakodate's main entertainment areas alongside Daimon. Events such as the \"Goryokaku Bar,\" organized by restaurants in the entertainment district, are also held regularly."
      },
-     "全文": "Goryōkaku-Kōen-mae Station (五稜郭公園前停留場) is a tram stop on the Hakodate City Tram Yunokawa Line in Hakodate, Hokkaido, Japan. Station number DY09.\n\nPost office\nDetails about the post office at this station are available in the Japanese Wikipedia article.\n\nPolice box\nDetails about the police box at this station are available in the Japanese Wikipedia article.\n\nLibrary\nDetails about the library at this station are available in the Japanese Wikipedia article.\n\nCommunity center\nDetails about the community center at this station are available in the Japanese Wikipedia article.\n\nLocal park\nDetails about the local park at this station are available in the Japanese Wikipedia article.\n\nLocal schools\nDetails about the local schools at this station are available in the Japanese Wikipedia article.\n\nConvenience stores\nDetails about the convenience stores at this station are available in the Japanese Wikipedia article.\n\nBicycle parking\nDetails about the bicycle parking at this station are available in the Japanese Wikipedia article.\n\nTaxi stand\nDetails about the taxi stand at this station are available in the Japanese Wikipedia article.\n\nBus connections\nDetails about the bus connections at this station are available in the Japanese Wikipedia article.",
-     "字数": 1254
+     "全文": "Goryōkaku-Kōen-mae Station (五稜郭公園前停留場) is a tram stop on the Hakodate City Tram Yunokawa Line in Hakodate, Hokkaido, Japan. Station number DY09.\n\nPost office\nDetails about the post office at this station are available in the Japanese Wikipedia article.\n\nPolice box\nDetails about the police box at this station are available in the Japanese Wikipedia article.\n\nLibrary\nDetails about the library at this station are available in the Japanese Wikipedia article.\n\nCommunity center\nDetails about the community center at this station are available in the Japanese Wikipedia article.\n\nLocal park\nDetails about the local park at this station are available in the Japanese Wikipedia article.\n\nLocal schools\nDetails about the local schools at this station are available in the Japanese Wikipedia article.\n\nConvenience stores\nDetails about the convenience stores at this station are available in the Japanese Wikipedia article.\n\nBicycle parking\nDetails about the bicycle parking at this station are available in the Japanese Wikipedia article.\n\nTaxi stand\nDetails about the taxi stand at this station are available in the Japanese Wikipedia article.\n\nBus connections\nDetails about the bus connections at this station are available in the Japanese Wikipedia article.\n\nGoryokaku Hokke Club-mae Bus Stop (Hakodate Taxi / Hakodate Teisan Bus)\nAdditionally, the area from the adjacent Chuo Byoin-mae bus stop to this stop is also part of the Goryokaku district, one of Hakodate's main entertainment areas alongside Daimon. Events such as the \"Goryokaku Bar,\" organized by restaurants in the entertainment district, are also held regularly.",
+     "字数": 1623
     }
    },
    "结构化信息": {
@@ -341,10 +344,11 @@
      "来源": "豆包全文翻译（据日文维基全文）",
      "首段": "函馆体育馆前停留场（はこだてアリーナまえていりゅうじょう）是位于北海道函馆市汤川町1丁目的函馆市电汤之川线停留场。车站编号DY03。有市民会馆前副名称。",
      "章节": {
-      "历史": "1913年（大正2年）6月29日 - 作为芦堀停留场开业。\n1920年（大正9年）9月 - 改名新世界前停留场。\n1983年（昭和58年）9月10日 - 作为市民会馆前停留场恢复。"
+      "历史": "1913年（大正2年）6月29日 - 作为芦堀停留场开业。\n1920年（大正9年）9月 - 改名新世界前停留场。\n1983年（昭和58年）9月10日 - 作为市民会馆前停留场恢复。",
+      "函馆市的铁路车站": "こたてありいなまえ"
      },
-     "全文": "函馆体育馆前停留场（はこだてアリーナまえていりゅうじょう）是位于北海道函馆市汤川町1丁目的函馆市电汤之川线停留场。车站编号DY03。有市民会馆前副名称。\n\n历史\n1913年（大正2年）6月29日 - 作为芦堀停留场开业。\n1920年（大正9年）9月 - 改名新世界前停留场。\n1983年（昭和58年）9月10日 - 作为市民会馆前停留场恢复。",
-     "字数": 171
+     "全文": "函馆体育馆前停留场（はこだてアリーナまえていりゅうじょう）是位于北海道函馆市汤川町1丁目的函馆市电汤之川线停留场。车站编号DY03。有市民会馆前副名称。\n\n历史\n1913年（大正2年）6月29日 - 作为芦堀停留场开业。\n1920年（大正9年）9月 - 改名新世界前停留场。\n1983年（昭和58年）9月10日 - 作为市民会馆前停留场恢复。\n\n函馆市的铁路车站\nこたてありいなまえ",
+     "字数": 191
     },
     "英文": {
      "词条标题": "Hakodate-Arena-mae Station",
@@ -575,10 +579,12 @@
       "相邻停留场": "函馆市交通局（函馆市电）",
       "汤之川线": "中央医院前（DY10）－千代台（DY11）－堀川町（DY12）",
       "相关条目": "日本铁路车站列表 Chi",
-      "外部连结": "车站情报 - 千代台（日文）"
+      "外部连结": "车站情报 - 千代台（日文）",
+      "设置上屋与防风板": "为符合无障碍标准，对有效宽度进行了拓宽，并设置了扶手、座椅及坡道等。",
+      "函馆市的铁路车站": "よかたい"
      },
-     "全文": "千代台停留场（）是一位于日本北海道函馆市千代台町21番地先，函馆市交通局（函馆市电）汤之川线的铁路车站。\n\n历史 \n 1913年（大正2年）6月29日 - 营所前站开始营业。\n 1947年（昭和22年）4月23日 - 改称为千代岱站。\n 1968年（昭和43年） - 改称为千代台站。\n\n车站构造 \n 千代台站拥有2个月台（侧式月台）、2条电车路线（相反方向）。\n 由于邻近变形平面道路交叉及交通灯影响往汤之川方向的电车，停车时间较正常的长。\n\n车站周边 \n 函馆千代台邮政局\n 函馆信用金库千代台分店\n 千代台公园\n 函馆市千代台公园棒球场（海洋大球场）\n 函馆市千代台公园田径体育场\n 市民泳池\n 函馆市青年中心\n 网球场\n 北海道函馆中部高等学校\n 千代岱小学\n 北海道道83号函馆南茅部线\n 函馆巴士「千代台」站\n\n相邻停留场 \n函馆市交通局（函馆市电）\n汤之川线\n中央医院前（DY10）－千代台（DY11）－堀川町（DY12）\n\n相关条目\n 日本铁路车站列表 Chi\n\n外部连结 \n 车站情报 - 千代台（日文）\n\nYogadai\n函馆市铁路车站\n汤之川线车站\n1913年启用的铁路车站",
-     "字数": 498,
+     "全文": "千代台停留场（）是一位于日本北海道函馆市千代台町21番地先，函馆市交通局（函馆市电）汤之川线的铁路车站。\n\n历史\n1913年（大正2年）6月29日 - 营所前站开始营业。\n 1947年（昭和22年）4月23日 - 改称为千代岱站。\n 1968年（昭和43年） - 改称为千代台站。\n\n车站构造\n千代台站拥有2个月台（侧式月台）、2条电车路线（相反方向）。\n 由于邻近变形平面道路交叉及交通灯影响往汤之川方向的电车，停车时间较正常的长。\n\n千代台公园\n函馆市千代台公园棒球场（海洋大球场）\n\n相邻停留场\n函馆市交通局（函馆市电）\n\n汤之川线\n中央医院前（DY10）－千代台（DY11）－堀川町（DY12）\n\n相关条目\n日本铁路车站列表 Chi\n\n外部连结\n车站情报 - 千代台（日文）\n\n设置上屋与防风板\n为符合无障碍标准，对有效宽度进行了拓宽，并设置了扶手、座椅及坡道等。\n\n函馆市的铁路车站\nよかたい",
+     "字数": 401,
      "来源": "维基百科中文版（已转简体）"
     },
     "英文": {
@@ -984,10 +990,11 @@
      "章节": {
       "历史": "1914年（大正3年）2月5日 - 作为三河铁道车站开业。\n1941年（昭和16年）6月1日 - 三河铁道合并入名古屋铁道。",
       "车站结构": "相对式2面2线地面站，引入车站集中管理系统（管理站知立站）的无人站。两月台以站内平交道联络。",
-      "使用情况": "据《名铁120年》，2013年度1日平均上下车人员1,177人。"
+      "使用情况": "据《名铁120年》，2013年度1日平均上下车人员1,177人。",
+      "爱知县的铁路车站": "Nekawamachi"
      },
-     "全文": "新川町站（しんかわまちえき）是位于爱知县碧南市新川町三丁目的名古屋铁道三河线车站。车站编号MU09。可使用manaca。\n\n历史\n1914年（大正3年）2月5日 - 作为三河铁道车站开业。\n1941年（昭和16年）6月1日 - 三河铁道合并入名古屋铁道。\n\n车站结构\n相对式2面2线地面站，引入车站集中管理系统（管理站知立站）的无人站。两月台以站内平交道联络。\n\n使用情况\n据《名铁120年》，2013年度1日平均上下车人员1,177人。",
-     "字数": 219,
+     "全文": "新川町站（しんかわまちえき）是位于爱知县碧南市新川町三丁目的名古屋铁道三河线车站。车站编号MU09。可使用manaca。\n\n历史\n1914年（大正3年）2月5日 - 作为三河铁道车站开业。\n1941年（昭和16年）6月1日 - 三河铁道合并入名古屋铁道。\n\n车站结构\n相对式2面2线地面站，引入车站集中管理系统（管理站知立站）的无人站。两月台以站内平交道联络。\n\n使用情况\n据《名铁120年》，2013年度1日平均上下车人员1,177人。\n\n爱知县的铁路车站\nNekawamachi",
+     "字数": 241,
      "来源": "维基百科中文版（已转简体）"
     },
     "英文": {
@@ -1513,10 +1520,11 @@
      "来源": "豆包全文翻译（据日文维基全文）",
      "首段": "汤之川停留场（ゆのかわていりゅうじょう）是位于北海道函馆市汤川町2丁目的函馆市电汤之川线停留场。函馆市最东端停留场。车站编号DY01。",
      "章节": {
-      "历史": "1913年（大正2年）6月29日 - 函馆水电汤川停留场开业。\n1945年（昭和20年）7月9日 - 鲛川-汤川间单线轨道拆除废除。"
+      "历史": "1913年（大正2年）6月29日 - 函馆水电汤川停留场开业。\n1945年（昭和20年）7月9日 - 鲛川-汤川间单线轨道拆除废除。",
+      "函馆市的铁路车站": "的かわ"
      },
-     "全文": "汤之川停留场（ゆのかわていりゅうじょう）是位于北海道函馆市汤川町2丁目的函馆市电汤之川线停留场。函馆市最东端停留场。车站编号DY01。\n\n历史\n1913年（大正2年）6月29日 - 函馆水电汤川停留场开业。\n1945年（昭和20年）7月9日 - 鲛川-汤川间单线轨道拆除废除。",
-     "字数": 138
+     "全文": "汤之川停留场（ゆのかわていりゅうじょう）是位于北海道函馆市汤川町2丁目的函馆市电汤之川线停留场。函馆市最东端停留场。车站编号DY01。\n\n历史\n1913年（大正2年）6月29日 - 函馆水电汤川停留场开业。\n1945年（昭和20年）7月9日 - 鲛川-汤川间单线轨道拆除废除。\n\n函馆市的铁路车站\n的かわ",
+     "字数": 152
     },
     "英文": {
      "词条标题": "Yunokawa Station",
@@ -1841,10 +1849,11 @@
       "相邻停留场": "函馆市交通局（函馆市电）",
       "宝来、谷地头线": "宝来町（Y24）－青柳町（Y25）－谷地头（Y26）",
       "相关条目": "日本铁路车站列表 A",
-      "外部连结": "车站情报 - 青柳町（日文）"
+      "外部连结": "车站情报 - 青柳町（日文）",
+      "对向式2台2线": "2005年7月，下行线一侧安装了防护墙。\n 两个站台的谷地头方向一侧都设有带按钮式信号机的横道。该按钮式信号机在限定时间内采用自动控制，在运营时段内，乘客下车后可等待绿灯亮起再通过。"
      },
-     "全文": "青柳町停留场（）是一位于日本北海道函馆市青柳町33番地先、21番地先，函馆市交通局（函馆市电）宝来、谷地头线沿线的电车站。\n\n历史 \n 1913年（大正2年）10月30日 - 开始营业。\n\n车站构造 \n 青柳町站拥有2个月台（侧式月台）、2条电车路线（相反方向）。\n 2005年7月在往谷地头方向车站设罝保护屏障。\n\n车站周边 \n 函馆西警察署青柳派出所\n 函馆公园通邮政局长\n 函馆市立青柳小学\n 函馆公园\n 市立函馆博物馆\n 函馆巴士「青柳町」站\n\n相邻停留场 \n函馆市交通局（函馆市电）\n宝来、谷地头线\n宝来町（Y24）－青柳町（Y25）－谷地头（Y26）\n\n相关条目\n 日本铁路车站列表 A\n\n外部连结 \n 车站情报 - 青柳町（日文）\n\noyagichou\n函馆市铁路车站\n宝来·谷地头线车站\n1913年启用的铁路车站",
-     "字数": 364,
+     "全文": "青柳町停留场（）是一位于日本北海道函馆市青柳町33番地先、21番地先，函馆市交通局（函馆市电）宝来、谷地头线沿线的电车站。\n\n历史\n1913年（大正2年）10月30日 - 开始营业。\n\n车站构造\n青柳町站拥有2个月台（侧式月台）、2条电车路线（相反方向）。\n 2005年7月在往谷地头方向车站设罝保护屏障。\n\n相邻停留场\n函馆市交通局（函馆市电）\n\n宝来、谷地头线\n宝来町（Y24）－青柳町（Y25）－谷地头（Y26）\n\n相关条目\n日本铁路车站列表 A\n\n外部连结\n车站情报 - 青柳町（日文）\n\n对向式2台2线\n2005年7月，下行线一侧安装了防护墙。\n 两个站台的谷地头方向一侧都设有带按钮式信号机的横道。该按钮式信号机在限定时间内采用自动控制，在运营时段内，乘客下车后可等待绿灯亮起再通过。",
+     "字数": 348,
      "来源": "维基百科中文版（已转简体）"
     },
     "英文": {
@@ -1923,10 +1932,11 @@
       "备注": "当电车需要进出车库时，位于车库旁的行车线的信号会变为红色。",
       "相邻停留场": "函馆市交通局（函馆市电）",
       "汤之川线": "函馆体育场前（DY03）－驹场车库前（DY04）－竞马场前（DY05）",
-      "外部连结": "车站情报 - 驹场车库前（日文）"
+      "外部连结": "车站情报 - 驹场车库前（日文）",
+      "函馆市的铁路车站": "まはしゃこまえ"
      },
-     "全文": "驹场车库前停留场（）是位于日本北海道函馆市驹场町15番地先的函馆市交通局（函馆市电）汤之川线的铁路车站。\n\n位于附近的运行据点驹场营业所亦会在下文描述。\n\n历史 \n 参考函馆市交通局的历史。\n\n车站构造 \n 驹场车库前站拥有2个月台（侧式月台）、2条电车路线（相反方向）。\n 两个月台的位置并不相同。\n 为了避免因为检查、故障等原因而需要更换车辆所产生的延误，月台的长度比一般长。\n\n车站周边 \n 北海道道83号函馆南茅部线\n 函馆巴士「驹场车库前」站\n\n函馆市交通局驹场营业所\n\n配置车辆 \n 有轨电车（载客车辆）：35辆\n 其他车辆：3辆\n\n备注 \n 当电车需要进出车库时，位于车库旁的行车线的信号会变为红色。\n\n相邻停留场 \n 函馆市交通局（函馆市电）\n 汤之川线\n 函馆体育场前（DY03）－驹场车库前（DY04）－竞马场前（DY05）\n\n相关条目\n Ko\n\n外部连结 \n 车站情报 - 驹场车库前（日文）\n\nMabashakomae\n函馆市铁路车站\n汤之川线车站\n函馆市电3系统车站\n1913年启用的铁路车站",
-     "字数": 459,
+     "全文": "驹场车库前停留场（）是位于日本北海道函馆市驹场町15番地先的函馆市交通局（函馆市电）汤之川线的铁路车站。\n\n位于附近的运行据点驹场营业所亦会在下文描述。\n\n历史\n参考函馆市交通局的历史。\n\n车站构造\n驹场车库前站拥有2个月台（侧式月台）、2条电车路线（相反方向）。\n 两个月台的位置并不相同。\n 为了避免因为检查、故障等原因而需要更换车辆所产生的延误，月台的长度比一般长。\n\n配置车辆\n有轨电车（载客车辆）：35辆\n 其他车辆：3辆\n\n备注\n当电车需要进出车库时，位于车库旁的行车线的信号会变为红色。\n\n相邻停留场\n函馆市交通局（函馆市电）\n\n汤之川线\n函馆体育场前（DY03）－驹场车库前（DY04）－竞马场前（DY05）\n\n外部连结\n车站情报 - 驹场车库前（日文）\n\n函馆市的铁路车站\nまはしゃこまえ",
+     "字数": 353,
      "来源": "维基百科中文版（已转简体）"
     },
     "英文": {
