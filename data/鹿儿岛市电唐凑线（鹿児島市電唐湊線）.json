@@ -1,540 +1,540 @@
 {
- "线路": {
-  "名称": {
-   "日文": "鹿児島市電唐湊線",
-   "中文": "鹿儿岛市电唐凑线",
-   "词条": "鹿児島市電唐湊線",
-   "英文": "Kagoshima City Tram Karatsu Line"
-  },
-  "标识": {
-   "序号": 354,
-   "所属铁路ID": "206",
-   "车站数": 6,
-   "数据来源": "station_map(页面权威)"
-  },
-  "百科": {
-   "日文": {
-    "词条标题": "鹿児島市電唐湊線",
-    "链接": "https://ja.wikipedia.org/wiki/%E9%B9%BF%E5%85%90%E5%B3%B6%E5%B8%82%E9%9B%BB%E5%94%90%E6%B9%8A%E7%B7%9A",
-    "首段": "唐湊線（とそせん）は、鹿児島県鹿児島市中央町の鹿児島中央駅前停留場から鹿児島市鴨池二丁目の郡元停留場までを結ぶ鹿児島市交通局（鹿児島市電）の軌道路線である。",
-    "章节": {
-     "路線データ": "路線距離（営業キロ）：2.7 km\n軌間：1435mm\n停留場数：10（起終点含む）\n複線区間：全線複線\n電化区間：全線電化（直流600V）",
-     "運行形態": "2系統（鹿児島駅前 - 鹿児島中央駅前 - 郡元） - 唐湊線全区間を6分間隔で運行",
-     "歴史": "1950年（昭和25年）10月1日 - 西鹿児島駅前 - 中洲通間が開業。\n1952年（昭和27年）6月1日 - 中洲通 - 唐湊間が開業。\n1957年（昭和32年）3月29日 - 唐湊 - 大学通（現・工学部前）間が開業。唐湊停留場を神田停留場へ改称。\n1959年（昭和34年）12月20日 - 工学部前 - 郡元間が開業し全通。\n1985年（昭和34年）4月15日 - 専売公社前停留場をたばこ産業前停留場に改称。\n2004年（平成16年）3月13日 - 西鹿児島駅前停留場を鹿児島中央駅前停留場に改称。\n2015年（平成27年）5月1日 - たばこ産業前停留場を市立病院前停留場に、神田停留場を神田（交通局前）停留場に改称。",
-     "停留場一覧": "括弧内は旧名。\n鹿児島中央駅前停留場（←西鹿児島駅前←武駅前）",
-     "中洲通停留場": "市立病院前停留場（←たばこ産業前←専売公社前）\n神田（交通局前）停留場（←神田←唐湊）",
-     "唐湊停留場": "工学部前停留場（←大学通）",
-     "接続路線": "鹿児島中央駅前停留場：鹿児島市電第二期線（直通）、九州新幹線・鹿児島本線・日豊本線・指宿枕崎線（鹿児島中央駅）\n郡元停留場：鹿児島市電谷山線",
-     "日本の鉄道路線一覧": "とそせん"
+  "线路": {
+    "名称": {
+      "日文": "鹿児島市電唐湊線",
+      "中文": "鹿儿岛市电唐凑线",
+      "词条": "鹿児島市電唐湊線",
+      "英文": "Kagoshima City Tram Karatsu Line"
     },
-    "全文": "|}\n唐湊線（とそせん）は、鹿児島県鹿児島市中央町の鹿児島中央駅前停留場から鹿児島市鴨池二丁目の郡元停留場までを結ぶ鹿児島市交通局（鹿児島市電）の軌道路線である。\n\n路線データ \n路線距離（営業キロ）：2.7 km\n軌間：1435mm\n停留場数：10（起終点含む）\n複線区間：全線複線\n電化区間：全線電化（直流600V）\n\n運行形態 \n2系統（鹿児島駅前 - 鹿児島中央駅前 - 郡元） - 唐湊線全区間を6分間隔で運行\n\n歴史 \n1950年（昭和25年）10月1日 - 西鹿児島駅前 - 中洲通間が開業。\n1952年（昭和27年）6月1日 - 中洲通 - 唐湊間が開業。\n1957年（昭和32年）3月29日 - 唐湊 - 大学通（現・工学部前）間が開業。唐湊停留場を神田停留場へ改称。\n1959年（昭和34年）12月20日 - 工学部前 - 郡元間が開業し全通。\n1985年（昭和34年）4月15日 - 専売公社前停留場をたばこ産業前停留場に改称。\n2004年（平成16年）3月13日 - 西鹿児島駅前停留場を鹿児島中央駅前停留場に改称。\n2015年（平成27年）5月1日 - たばこ産業前停留場を市立病院前停留場に、神田停留場を神田（交通局前）停留場に改称。\n\n停留場一覧 \n括弧内は旧名。\n鹿児島中央駅前停留場（←西鹿児島駅前←武駅前）\n都通停留場\n中洲通停留場\n市立病院前停留場（←たばこ産業前←専売公社前）\n神田（交通局前）停留場（←神田←唐湊）\n唐湊停留場\n工学部前停留場（←大学通）\n純心学園前停留場\n中郡停留場\n郡元停留場\n\n接続路線 \n鹿児島中央駅前停留場：鹿児島市電第二期線（直通）、九州新幹線・鹿児島本線・日豊本線・指宿枕崎線（鹿児島中央駅）\n郡元停留場：鹿児島市電谷山線\n\n脚注および参考文献\n\n関連項目 \n日本の鉄道路線一覧\n\nとそせん\n路とそせん\n日本の路面電車路線\n鹿児島県の交通",
-    "字数": 805
-   },
-   "中文": {
-    "来源": "⚠️ 暂未汉化",
-    "全文": "",
-    "字数": 0
-   },
-   "英文": {
-    "词条标题": "Toso Line (Kagoshima City Tram)",
-    "链接": "https://ja.wikipedia.org/wiki/%E9%B9%BF%E5%85%90%E5%B3%B6%E5%B8%82%E9%9B%BB%E5%94%90%E6%B9%8A%E7%B7%9A",
-    "首段": "The Toso Line (唐湊線) is a tram line of the Kagoshima City Transportation Bureau (Kagoshima City Tram), running from Kagoshima-Chūō-Ekimae Station in Chūō-chō, Kagoshima, to Kōrimoto Station in Kamoike 2-chōme, Kagoshima, Kagoshima Prefecture.",
-    "章节": {
-     "Line data": "Line length: 2.7 km; track gauge: 1,435 mm; stations: 10 (including both termini); double-tracked over the entire line; electrified over the entire line (600 V DC).",
-     "Service patterns": "Route 2 (Kagoshima-Ekimae – Kagoshima-Chūō-Ekimae – Kōrimoto) runs over the whole Toso Line at six-minute intervals.",
-     "History": "October 1, 1950 (Shōwa 25): the section between Nishi-Kagoshima-Ekimae and Nakasudō opens.\nJune 1, 1952 (Shōwa 27): the section between Nakasudō and Toso opens.\nMarch 29, 1957 (Shōwa 32): the section between Toso and Daigaku-dōri (present-day Kōgakubū-mae) opens; Toso Station is renamed Kanda Station.\nDecember 20, 1959 (Shōwa 34): the section between Kōgakubū-mae and Kōrimoto opens, completing the line.\nApril 15, 1985 (Shōwa 60): Senbaikōmae Station is renamed Tabako-Sangyō-mae Station.\nMarch 13, 2004 (Heisei 16): Nishi-Kagoshima-Ekimae Station is renamed Kagoshima-Chūō-Ekimae Station.\nMay 1, 2015 (Heisei 27): Tabako-Sangyō-mae Station is renamed Shiritsu-Byōin-mae Station, and Kanda Station is renamed Kanda (Kōtsūkyoku-mae) Station.",
-     "Station list": "Former names are shown in parentheses.\nKagoshima-Chūō-Ekimae Station (formerly Nishi-Kagoshima-Ekimae; formerly Taka-Ekimae)",
-     "Nakasudō Station": "Shiritsu-Byōin-mae Station (formerly Tabako-Sangyō-mae; formerly Senbaikōmae)\nKanda (Kōtsūkyoku-mae) Station (formerly Kanda; formerly Toso)",
-     "Toso Station": "Kōgakubū-mae Station (formerly Daigaku-dōri).",
-     "Connections": "Kagoshima-Chūō-Ekimae Station: through services on the Kagoshima City Tram Second Section, and interchange with the Kyūshū Shinkansen, Kagoshima Main Line, Nippō Main Line and Ibusuki-Makurazaki Line at Kagoshima-Chūō Station.\nKōrimoto Station: interchange with the Taniyama Line.",
-     "List of railway lines in Japan": "The Toso Line is one of the tram lines operated by the Kagoshima City Transportation Bureau."
+    "标识": {
+      "序号": 354,
+      "所属铁路ID": "206",
+      "车站数": 6,
+      "数据来源": "station_map(页面权威)"
     },
-    "全文": "The Toso Line (唐湊線) is a tram line of the Kagoshima City Transportation Bureau (Kagoshima City Tram), running from Kagoshima-Chūō-Ekimae Station in Chūō-chō, Kagoshima, to Kōrimoto Station in Kamoike 2-chōme, Kagoshima, Kagoshima Prefecture.\n\nLine data\nLine length: 2.7 km; track gauge: 1,435 mm; stations: 10 (including both termini); double-tracked over the entire line; electrified over the entire line (600 V DC).\n\nService patterns\nRoute 2 (Kagoshima-Ekimae – Kagoshima-Chūō-Ekimae – Kōrimoto) runs over the whole Toso Line at six-minute intervals.\n\nHistory\nOctober 1, 1950 (Shōwa 25): the section between Nishi-Kagoshima-Ekimae and Nakasudō opens.\nJune 1, 1952 (Shōwa 27): the section between Nakasudō and Toso opens.\nMarch 29, 1957 (Shōwa 32): the section between Toso and Daigaku-dōri (present-day Kōgakubū-mae) opens; Toso Station is renamed Kanda Station.\nDecember 20, 1959 (Shōwa 34): the section between Kōgakubū-mae and Kōrimoto opens, completing the line.\nApril 15, 1985 (Shōwa 60): Senbaikōmae Station is renamed Tabako-Sangyō-mae Station.\nMarch 13, 2004 (Heisei 16): Nishi-Kagoshima-Ekimae Station is renamed Kagoshima-Chūō-Ekimae Station.\nMay 1, 2015 (Heisei 27): Tabako-Sangyō-mae Station is renamed Shiritsu-Byōin-mae Station, and Kanda Station is renamed Kanda (Kōtsūkyoku-mae) Station.\n\nStation list\nFormer names are shown in parentheses.\nKagoshima-Chūō-Ekimae Station (formerly Nishi-Kagoshima-Ekimae; formerly Taka-Ekimae)\n\nNakasudō Station\nShiritsu-Byōin-mae Station (formerly Tabako-Sangyō-mae; formerly Senbaikōmae)\nKanda (Kōtsūkyoku-mae) Station (formerly Kanda; formerly Toso)\n\nToso Station\nKōgakubū-mae Station (formerly Daigaku-dōri).\n\nConnections\nKagoshima-Chūō-Ekimae Station: through services on the Kagoshima City Tram Second Section, and interchange with the Kyūshū Shinkansen, Kagoshima Main Line, Nippō Main Line and Ibusuki-Makurazaki Line at Kagoshima-Chūō Station.\nKōrimoto Station: interchange with the Taniyama Line.\n\nList of railway lines in Japan\nThe Toso Line is one of the tram lines operated by the Kagoshima City Transportation Bureau.",
-    "字数": 2082
-   }
+    "百科": {
+      "日文": {
+        "词条标题": "鹿児島市電唐湊線",
+        "链接": "https://ja.wikipedia.org/wiki/%E9%B9%BF%E5%85%90%E5%B3%B6%E5%B8%82%E9%9B%BB%E5%94%90%E6%B9%8A%E7%B7%9A",
+        "首段": "唐湊線（とそせん）は、鹿児島県鹿児島市中央町の鹿児島中央駅前停留場から鹿児島市鴨池二丁目の郡元停留場までを結ぶ鹿児島市交通局（鹿児島市電）の軌道路線である。",
+        "章节": {
+          "路線データ": "路線距離（営業キロ）：2.7 km\n軌間：1435mm\n停留場数：10（起終点含む）\n複線区間：全線複線\n電化区間：全線電化（直流600V）",
+          "運行形態": "2系統（鹿児島駅前 - 鹿児島中央駅前 - 郡元） - 唐湊線全区間を6分間隔で運行",
+          "歴史": "1950年（昭和25年）10月1日 - 西鹿児島駅前 - 中洲通間が開業。\n1952年（昭和27年）6月1日 - 中洲通 - 唐湊間が開業。\n1957年（昭和32年）3月29日 - 唐湊 - 大学通（現・工学部前）間が開業。唐湊停留場を神田停留場へ改称。\n1959年（昭和34年）12月20日 - 工学部前 - 郡元間が開業し全通。\n1985年（昭和34年）4月15日 - 専売公社前停留場をたばこ産業前停留場に改称。\n2004年（平成16年）3月13日 - 西鹿児島駅前停留場を鹿児島中央駅前停留場に改称。\n2015年（平成27年）5月1日 - たばこ産業前停留場を市立病院前停留場に、神田停留場を神田（交通局前）停留場に改称。",
+          "停留場一覧": "括弧内は旧名。\n鹿児島中央駅前停留場（←西鹿児島駅前←武駅前）",
+          "中洲通停留場": "市立病院前停留場（←たばこ産業前←専売公社前）\n神田（交通局前）停留場（←神田←唐湊）",
+          "唐湊停留場": "工学部前停留場（←大学通）",
+          "接続路線": "鹿児島中央駅前停留場：鹿児島市電第二期線（直通）、九州新幹線・鹿児島本線・日豊本線・指宿枕崎線（鹿児島中央駅）\n郡元停留場：鹿児島市電谷山線",
+          "日本の鉄道路線一覧": "とそせん"
+        },
+        "全文": "|}\n唐湊線（とそせん）は、鹿児島県鹿児島市中央町の鹿児島中央駅前停留場から鹿児島市鴨池二丁目の郡元停留場までを結ぶ鹿児島市交通局（鹿児島市電）の軌道路線である。\n\n路線データ \n路線距離（営業キロ）：2.7 km\n軌間：1435mm\n停留場数：10（起終点含む）\n複線区間：全線複線\n電化区間：全線電化（直流600V）\n\n運行形態 \n2系統（鹿児島駅前 - 鹿児島中央駅前 - 郡元） - 唐湊線全区間を6分間隔で運行\n\n歴史 \n1950年（昭和25年）10月1日 - 西鹿児島駅前 - 中洲通間が開業。\n1952年（昭和27年）6月1日 - 中洲通 - 唐湊間が開業。\n1957年（昭和32年）3月29日 - 唐湊 - 大学通（現・工学部前）間が開業。唐湊停留場を神田停留場へ改称。\n1959年（昭和34年）12月20日 - 工学部前 - 郡元間が開業し全通。\n1985年（昭和34年）4月15日 - 専売公社前停留場をたばこ産業前停留場に改称。\n2004年（平成16年）3月13日 - 西鹿児島駅前停留場を鹿児島中央駅前停留場に改称。\n2015年（平成27年）5月1日 - たばこ産業前停留場を市立病院前停留場に、神田停留場を神田（交通局前）停留場に改称。\n\n停留場一覧 \n括弧内は旧名。\n鹿児島中央駅前停留場（←西鹿児島駅前←武駅前）\n都通停留場\n中洲通停留場\n市立病院前停留場（←たばこ産業前←専売公社前）\n神田（交通局前）停留場（←神田←唐湊）\n唐湊停留場\n工学部前停留場（←大学通）\n純心学園前停留場\n中郡停留場\n郡元停留場\n\n接続路線 \n鹿児島中央駅前停留場：鹿児島市電第二期線（直通）、九州新幹線・鹿児島本線・日豊本線・指宿枕崎線（鹿児島中央駅）\n郡元停留場：鹿児島市電谷山線\n\n脚注および参考文献\n\n関連項目 \n日本の鉄道路線一覧\n\nとそせん\n路とそせん\n日本の路面電車路線\n鹿児島県の交通",
+        "字数": 805
+      },
+      "中文": {
+        "来源": "⚠️ 暂未汉化",
+        "全文": "",
+        "字数": 0
+      },
+      "英文": {
+        "词条标题": "Toso Line (Kagoshima City Tram)",
+        "链接": "https://ja.wikipedia.org/wiki/%E9%B9%BF%E5%85%90%E5%B3%B6%E5%B8%82%E9%9B%BB%E5%94%90%E6%B9%8A%E7%B7%9A",
+        "首段": "The Toso Line (唐湊線) is a tram line of the Kagoshima City Transportation Bureau (Kagoshima City Tram), running from Kagoshima-Chūō-Ekimae Station in Chūō-chō, Kagoshima, to Kōrimoto Station in Kamoike 2-chōme, Kagoshima, Kagoshima Prefecture.",
+        "章节": {
+          "Line data": "Line length: 2.7 km; track gauge: 1,435 mm; stations: 10 (including both termini); double-tracked over the entire line; electrified over the entire line (600 V DC).",
+          "Service patterns": "Route 2 (Kagoshima-Ekimae – Kagoshima-Chūō-Ekimae – Kōrimoto) runs over the whole Toso Line at six-minute intervals.",
+          "History": "October 1, 1950 (Shōwa 25): the section between Nishi-Kagoshima-Ekimae and Nakasudō opens.\nJune 1, 1952 (Shōwa 27): the section between Nakasudō and Toso opens.\nMarch 29, 1957 (Shōwa 32): the section between Toso and Daigaku-dōri (present-day Kōgakubū-mae) opens; Toso Station is renamed Kanda Station.\nDecember 20, 1959 (Shōwa 34): the section between Kōgakubū-mae and Kōrimoto opens, completing the line.\nApril 15, 1985 (Shōwa 60): Senbaikōmae Station is renamed Tabako-Sangyō-mae Station.\nMarch 13, 2004 (Heisei 16): Nishi-Kagoshima-Ekimae Station is renamed Kagoshima-Chūō-Ekimae Station.\nMay 1, 2015 (Heisei 27): Tabako-Sangyō-mae Station is renamed Shiritsu-Byōin-mae Station, and Kanda Station is renamed Kanda (Kōtsūkyoku-mae) Station.",
+          "Station list": "Former names are shown in parentheses.\nKagoshima-Chūō-Ekimae Station (formerly Nishi-Kagoshima-Ekimae; formerly Taka-Ekimae)",
+          "Nakasudō Station": "Shiritsu-Byōin-mae Station (formerly Tabako-Sangyō-mae; formerly Senbaikōmae)\nKanda (Kōtsūkyoku-mae) Station (formerly Kanda; formerly Toso)",
+          "Toso Station": "Kōgakubū-mae Station (formerly Daigaku-dōri).",
+          "Connections": "Kagoshima-Chūō-Ekimae Station: through services on the Kagoshima City Tram Second Section, and interchange with the Kyūshū Shinkansen, Kagoshima Main Line, Nippō Main Line and Ibusuki-Makurazaki Line at Kagoshima-Chūō Station.\nKōrimoto Station: interchange with the Taniyama Line.",
+          "List of railway lines in Japan": "The Toso Line is one of the tram lines operated by the Kagoshima City Transportation Bureau."
+        },
+        "全文": "The Toso Line (唐湊線) is a tram line of the Kagoshima City Transportation Bureau (Kagoshima City Tram), running from Kagoshima-Chūō-Ekimae Station in Chūō-chō, Kagoshima, to Kōrimoto Station in Kamoike 2-chōme, Kagoshima, Kagoshima Prefecture.\n\nLine data\nLine length: 2.7 km; track gauge: 1,435 mm; stations: 10 (including both termini); double-tracked over the entire line; electrified over the entire line (600 V DC).\n\nService patterns\nRoute 2 (Kagoshima-Ekimae – Kagoshima-Chūō-Ekimae – Kōrimoto) runs over the whole Toso Line at six-minute intervals.\n\nHistory\nOctober 1, 1950 (Shōwa 25): the section between Nishi-Kagoshima-Ekimae and Nakasudō opens.\nJune 1, 1952 (Shōwa 27): the section between Nakasudō and Toso opens.\nMarch 29, 1957 (Shōwa 32): the section between Toso and Daigaku-dōri (present-day Kōgakubū-mae) opens; Toso Station is renamed Kanda Station.\nDecember 20, 1959 (Shōwa 34): the section between Kōgakubū-mae and Kōrimoto opens, completing the line.\nApril 15, 1985 (Shōwa 60): Senbaikōmae Station is renamed Tabako-Sangyō-mae Station.\nMarch 13, 2004 (Heisei 16): Nishi-Kagoshima-Ekimae Station is renamed Kagoshima-Chūō-Ekimae Station.\nMay 1, 2015 (Heisei 27): Tabako-Sangyō-mae Station is renamed Shiritsu-Byōin-mae Station, and Kanda Station is renamed Kanda (Kōtsūkyoku-mae) Station.\n\nStation list\nFormer names are shown in parentheses.\nKagoshima-Chūō-Ekimae Station (formerly Nishi-Kagoshima-Ekimae; formerly Taka-Ekimae)\n\nNakasudō Station\nShiritsu-Byōin-mae Station (formerly Tabako-Sangyō-mae; formerly Senbaikōmae)\nKanda (Kōtsūkyoku-mae) Station (formerly Kanda; formerly Toso)\n\nToso Station\nKōgakubū-mae Station (formerly Daigaku-dōri).\n\nConnections\nKagoshima-Chūō-Ekimae Station: through services on the Kagoshima City Tram Second Section, and interchange with the Kyūshū Shinkansen, Kagoshima Main Line, Nippō Main Line and Ibusuki-Makurazaki Line at Kagoshima-Chūō Station.\nKōrimoto Station: interchange with the Taniyama Line.\n\nList of railway lines in Japan\nThe Toso Line is one of the tram lines operated by the Kagoshima City Transportation Bureau.",
+        "字数": 2082
+      }
+    }
+  },
+  "车站": [
+    {
+      "序号": 1,
+      "名称": {
+        "日文原名": "中郡",
+        "词条": "中郡駅",
+        "中文": "中郡站",
+        "英文": "Nakagōri Station"
+      },
+      "百科": {
+        "日文": {
+          "词条标题": "中郡駅",
+          "链接": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E9%83%A1%E9%A7%85",
+          "首段": "中郡駅（ちゅうぐんえき）は、山形県東置賜郡川西町大字時田（ときだ）にある、東日本旅客鉄道（JR東日本）米坂線の駅である。",
+          "章节": {
+            "歴史": "1926年（大正15年）9月28日：米坂線米沢 - 今泉間開通と共に開業。\n 1961年（昭和36年）6月10日：貨物取扱廃止。\n 1982年（昭和57年）3月20日：荷物扱い廃止。無人化。\n 1987年（昭和62年）4月1日：国鉄分割民営化により、東日本旅客鉄道の駅となる。\n 2001年（平成13年）3月17日：現在の駅舎が完成。",
+            "駅構造": "単式ホーム1面1線を有する地上駅。米沢駅管理の無人駅。",
+            "利用状況": "2004年度の乗車人員は、1日平均41人。",
+            "隣の駅": "東日本旅客鉄道（JR東日本）",
+            "米坂線": "ちゆうくんえき",
+            "快速「べにばな」・普通": "成島駅 - 中郡駅 - 羽前小松駅",
+            "山形県の鉄道駅": "ゆうくん"
+          },
+          "全文": "中郡駅（ちゅうぐんえき）は、山形県東置賜郡川西町大字時田（ときだ）にある、東日本旅客鉄道（JR東日本）米坂線の駅である。\n\n歴史 \n 1926年（大正15年）9月28日：米坂線米沢 - 今泉間開通と共に開業。\n 1961年（昭和36年）6月10日：貨物取扱廃止。\n 1982年（昭和57年）3月20日：荷物扱い廃止。無人化。\n 1987年（昭和62年）4月1日：国鉄分割民営化により、東日本旅客鉄道の駅となる。\n 2001年（平成13年）3月17日：現在の駅舎が完成。\n\n駅構造 \n単式ホーム1面1線を有する地上駅。米沢駅管理の無人駅。\n\n利用状況 \n2004年度の乗車人員は、1日平均41人。\n\n駅周辺 \n 国道287号\n 山形県道239号玉庭時田糠野目線\n\n隣の駅 \n 東日本旅客鉄道（JR東日本）\n 米坂線\n 快速「べにばな」・普通\n 成島駅 - 中郡駅 - 羽前小松駅\n\n脚注\n\n関連項目 \n\n 日本の鉄道駅一覧\n\n外部リンク \n \n\n山形県の鉄道駅\nゆうくん\n東日本旅客鉄道の鉄道駅\n日本国有鉄道の鉄道駅\n1926年開業の鉄道駅\n米坂線\nちゆうくんえき",
+          "字数": 481
+        },
+        "中文": {
+          "词条标题": "中郡站",
+          "链接": "https://zh.wikipedia.org/wiki/%E4%B8%AD%E9%83%A1%E7%AB%99",
+          "首段": "中郡站是位于山形县东置赐郡川西町大字时田的东日本旅客铁道（JR东日本）米坂线车站。",
+          "章节": {
+            "历史": "1926年（大正15年）9月28日 - 米坂线米泽 - 今泉间开通时开业。\n1961年（昭和36年）6月10日 - 停止货运处理。\n1982年（昭和57年）3月20日 - 停止行李处理，无人化。\n1987年（昭和62年）4月1日 - 国铁分割民营化，成为东日本旅客铁道车站。\n2001年（平成13年）3月17日 - 现在的站房竣工。",
+            "车站结构": "单式月台1面1线的地面车站。由米泽站管理的无人站。",
+            "使用情况": "2004年度乘车人员1日平均41人。"
+          },
+          "全文": "中郡站是位于山形县东置赐郡川西町大字时田的东日本旅客铁道（JR东日本）米坂线车站。\n\n历史\n1926年（大正15年）9月28日 - 米坂线米泽 - 今泉间开通时开业。\n1961年（昭和36年）6月10日 - 停止货运处理。\n1982年（昭和57年）3月20日 - 停止行李处理，无人化。\n1987年（昭和62年）4月1日 - 国铁分割民营化，成为东日本旅客铁道车站。\n2001年（平成13年）3月17日 - 现在的站房竣工。\n\n车站结构\n单式月台1面1线的地面车站。由米泽站管理的无人站。\n\n使用情况\n2004年度乘车人员1日平均41人。",
+          "字数": 269,
+          "来源": "豆包全文翻译（据日文维基全文）"
+        },
+        "英文": {
+          "词条标题": "中郡駅",
+          "链接": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E9%83%A1%E9%A7%85",
+          "首段": "Chūgun Station (中郡駅) is a railway station on the JR East Yonesaka Line located in Ōaza-Tokida, Kawanishi, Higashiokitama District, Yamagata Prefecture, Japan.",
+          "章节": {
+            "History": "September 28, 1926 (Taishō 15): opens with the opening of the Yonesaka Line between Yonezawa and Imaizumi.\nJune 10, 1961 (Shōwa 36): freight handling discontinued.\nMarch 20, 1982 (Shōwa 57): baggage handling discontinued; the station becomes unstaffed.\nApril 1, 1987 (Shōwa 62): following the privatization of JNR, the station comes under the control of JR East.\nMarch 17, 2001 (Heisei 13): the present station building is completed.",
+            "Station layout": "An at-grade station with one side platform serving a single track. It is an unstaffed station managed by Yonezawa Station.",
+            "Usage": "In fiscal 2004, the station was used by an average of 41 boarding passengers daily.",
+            "Adjacent stations": "East Japan Railway Company (JR East).",
+            "Yonesaka Line": "Chūgun Station.",
+            "Rapid Benibana / Local": "Narushima Station — Chūgun Station — Uzen-Komatsu Station.",
+            "Railway stations in Yamagata Prefecture": "Chūgun Station is one of the railway stations in Yamagata Prefecture, Japan."
+          },
+          "全文": "Chūgun Station (中郡駅) is a railway station on the JR East Yonesaka Line located in Ōaza-Tokida, Kawanishi, Higashiokitama District, Yamagata Prefecture, Japan.\n\nHistory\nSeptember 28, 1926 (Taishō 15): opens with the opening of the Yonesaka Line between Yonezawa and Imaizumi.\nJune 10, 1961 (Shōwa 36): freight handling discontinued.\nMarch 20, 1982 (Shōwa 57): baggage handling discontinued; the station becomes unstaffed.\nApril 1, 1987 (Shōwa 62): following the privatization of JNR, the station comes under the control of JR East.\nMarch 17, 2001 (Heisei 13): the present station building is completed.\n\nStation layout\nAn at-grade station with one side platform serving a single track. It is an unstaffed station managed by Yonezawa Station.\n\nUsage\nIn fiscal 2004, the station was used by an average of 41 boarding passengers daily.\n\nAdjacent stations\nEast Japan Railway Company (JR East).\n\nYonesaka Line\nChūgun Station.\n\nRapid Benibana / Local\nNarushima Station — Chūgun Station — Uzen-Komatsu Station.\n\nRailway stations in Yamagata Prefecture\nChūgun Station is one of the railway stations in Yamagata Prefecture, Japan.",
+          "字数": 1120
+        }
+      },
+      "结构化信息": {
+        "读音": "ちゅうぐんえき",
+        "罗马字": "Chyūgun",
+        "开业年份": 1926,
+        "所属公司": [
+          "東日本旅客鉄道",
+          "日本国有鉄道"
+        ],
+        "分类": [
+          "成島駅 - 中郡駅 - 羽前小松駅",
+          "日本の鉄道駅一覧",
+          "山形県の鉄道駅",
+          "東日本旅客鉄道の鉄道駅",
+          "日本国有鉄道の鉄道駅",
+          "1926年開業の鉄道駅"
+        ],
+        "章节目录": [
+          "歴史",
+          "駅構造",
+          "利用状況",
+          "駅周辺",
+          "隣の駅",
+          "ゆうくん",
+          "米坂線",
+          "ちゆうくんえき"
+        ],
+        "相邻车站": "東日本旅客鉄道（JR東日本）\n 米坂線\n 快速「べにばな」・普通\n 成島駅 - 中郡駅 - 羽前小松駅"
+      }
+    },
+    {
+      "序号": 2,
+      "名称": {
+        "日文原名": "唐湊",
+        "词条": "唐湊停留場",
+        "中文": "唐湊停留場",
+        "英文": "Karatsu Stop"
+      },
+      "百科": {
+        "日文": {
+          "词条标题": "唐湊停留場",
+          "链接": "https://ja.wikipedia.org/wiki/%E5%94%90%E6%B9%8A%E5%81%9C%E7%95%99%E5%A0%B4",
+          "首段": "唐湊停留場（とそていりゅうじょう）は、鹿児島県鹿児島市郡元一丁目にある鹿児島市電唐湊線の停留場。使用する系統は鹿児島市電2系統のみである。",
+          "章节": {
+            "歴史": "1957年（昭和32年）3月29日：鹿児島市交通局により設置される。\n 2023年1月1日：小牧建設をネーミングライツパートナーとして副呼称が追加され、「唐湊（小牧建設前）」になった。",
+            "構造": "2面2線の相対式ホーム。地上駅。両ホームとの行き来は電車が通過中でない限りいつでもできる。\n 両のりばとも車椅子及び電動車椅子の使用はホーム幅が規定に足りないため不可。\n 無人駅で、乗車券などの販売は行っていない。\n\nのりば \n 2系統 - 郡元方面\n 2系統 - 鹿児島中央駅前、天文館、鹿児島駅前方面",
+            "鹿児島市電2系統": "神田（交通局前）停留場 - 唐湊停留場 - 工学部前停留場",
+            "鹿児島市の鉄道駅": "そ"
+          },
+          "全文": "唐湊停留場（とそていりゅうじょう）は、鹿児島県鹿児島市郡元一丁目にある鹿児島市電唐湊線の停留場。使用する系統は鹿児島市電2系統のみである。\n\n歴史 \n 1957年（昭和32年）3月29日：鹿児島市交通局により設置される。\n 2023年1月1日：小牧建設をネーミングライツパートナーとして副呼称が追加され、「唐湊（小牧建設前）」になった。\n\n構造 \n 2面2線の相対式ホーム。地上駅。両ホームとの行き来は電車が通過中でない限りいつでもできる。\n 両のりばとも車椅子及び電動車椅子の使用はホーム幅が規定に足りないため不可。\n 無人駅で、乗車券などの販売は行っていない。\n\nのりば \n 2系統 - 郡元方面\n 2系統 - 鹿児島中央駅前、天文館、鹿児島駅前方面\n\n利用状況\n\n周辺 \n 鹿児島大学農学部・共同獣医学部\n\n隣の停留場 \n 鹿児島市交通局\n 鹿児島市電2系統\n 神田（交通局前）停留場 - 唐湊停留場 - 工学部前停留場\n\n脚注\n\n関連項目 \n 日本の鉄道駅一覧\n\n外部リンク \n 鹿児島市交通局\n\n鹿児島市の鉄道駅\nそ\n鹿児島市交通局の鉄道駅\n1957年開業の鉄道駅",
+          "字数": 487
+        },
+        "中文": {
+          "词条标题": "唐凑停留场",
+          "链接": "https://zh.wikipedia.org/wiki/%E5%94%90%E6%B9%8A%E5%81%9C%E7%95%99%E5%A0%B4",
+          "首段": "唐凑停留场，又称唐凑电车站，是位于鹿儿岛县鹿儿岛市郡元一丁目，鹿儿岛市交通局（鹿儿岛市电）唐凑线的电车站。车站编号为N16。",
+          "章节": {
+            "历史": "1957年（昭和32年）3月29日 - 鹿儿岛市交通局设置此站。",
+            "电车站构造": "此电车站设有2面2线的相对式低地台月台。两月台不可让轮椅人士和电动轮椅人士上落。此站是无人车站，不可于站内购买车票。",
+            "运行系统": "此电车站是唐凑线电车站之一。2系统会驶入此站。",
+            "鹿儿岛市电2系统": "神田（交通局前）（N15）－唐凑（N16）－工学部前（N17）",
+            "相关条目": "日本铁路车站列表 To"
+          },
+          "全文": "唐凑停留场，又称唐凑电车站，是位于鹿儿岛县鹿儿岛市郡元一丁目，鹿儿岛市交通局（鹿儿岛市电）唐凑线的电车站。车站编号为N16。\n\n历史\n1957年（昭和32年）3月29日 - 鹿儿岛市交通局设置此站。\n\n电车站构造\n此电车站设有2面2线的相对式低地台月台。两月台不可让轮椅人士和电动轮椅人士上落。此站是无人车站，不可于站内购买车票。\n\n运行系统\n此电车站是唐凑线电车站之一。2系统会驶入此站。\n\n鹿儿岛市电2系统\n神田（交通局前）（N15）－唐凑（N16）－工学部前（N17）\n\n相关条目\n日本铁路车站列表 To",
+          "字数": 255,
+          "来源": "维基百科中文版（已转简体）"
+        },
+        "英文": {
+          "词条标题": "唐湊停留場",
+          "链接": "https://ja.wikipedia.org/wiki/%E5%94%90%E6%B9%8A%E5%81%9C%E7%95%99%E5%A0%B4",
+          "首段": "Toso Station (唐湊停留場) is a tram stop on the Kagoshima City Tram Toso Line located in Kōrimoto 1-chōme, Kagoshima, Kagoshima Prefecture. It is served only by Route 2.",
+          "章节": {
+            "History": "March 29, 1957 (Shōwa 32): established by the Kagoshima City Transportation Bureau.\nJanuary 1, 2023: a secondary name is added with Komaki Construction as the naming-rights partner, and the stop becomes \"Toso (in front of Komaki Construction)\".",
+            "Station layout": "Two opposed side platforms, one track each, at street level. Passengers can cross between the two platforms at any time unless a tram is passing through.\nWheelchair and motorized-wheelchair use is not permitted on either platform because the platform width does not meet the required standard.\nThe stop is unstaffed and no tickets are sold.\nPlatforms:\nRoute 2 — for Kōrimoto\nRoute 2 — for Kagoshima-Chūō-Ekimae, Tenmonkan and Kagoshima-Ekimae.",
+            "Route 2": "Kanda (Kōtsūkyoku-mae) Station — Toso Station — Kōgakubū-mae Station.",
+            "Railway stations in Kagoshima City": "Toso Station is one of the tram stops in Kagoshima City, Kagoshima Prefecture, Japan."
+          },
+          "全文": "Toso Station (唐湊停留場) is a tram stop on the Kagoshima City Tram Toso Line located in Kōrimoto 1-chōme, Kagoshima, Kagoshima Prefecture. It is served only by Route 2.\n\nHistory\nMarch 29, 1957 (Shōwa 32): established by the Kagoshima City Transportation Bureau.\nJanuary 1, 2023: a secondary name is added with Komaki Construction as the naming-rights partner, and the stop becomes \"Toso (in front of Komaki Construction)\".\n\nStation layout\nTwo opposed side platforms, one track each, at street level. Passengers can cross between the two platforms at any time unless a tram is passing through.\nWheelchair and motorized-wheelchair use is not permitted on either platform because the platform width does not meet the required standard.\nThe stop is unstaffed and no tickets are sold.\nPlatforms:\nRoute 2 — for Kōrimoto\nRoute 2 — for Kagoshima-Chūō-Ekimae, Tenmonkan and Kagoshima-Ekimae.\n\nRoute 2\nKanda (Kōtsūkyoku-mae) Station — Toso Station — Kōgakubū-mae Station.\n\nRailway stations in Kagoshima City\nToso Station is one of the tram stops in Kagoshima City, Kagoshima Prefecture, Japan.",
+          "字数": 1079
+        }
+      },
+      "结构化信息": {
+        "读音": "とそていりゅうじょう",
+        "罗马字": "Tosoteiryūjyō",
+        "开业年份": 1957,
+        "所属公司": [
+          "鹿児島市",
+          "鹿児島市交通局"
+        ],
+        "分类": [
+          "2系統 - 郡元方面",
+          "鹿児島市交通局",
+          "鹿児島市電2系統",
+          "日本の鉄道駅一覧",
+          "鹿児島市の鉄道駅",
+          "鹿児島市交通局の鉄道駅",
+          "1957年開業の鉄道駅"
+        ],
+        "章节目录": [
+          "歴史",
+          "構造",
+          "利用状況",
+          "周辺",
+          "隣の停留場"
+        ],
+        "相邻车站": null
+      }
+    },
+    {
+      "序号": 3,
+      "名称": {
+        "日文原名": "工学部前",
+        "词条": "工学部前停留場",
+        "中文": "工學部前停留場",
+        "英文": "Kogakubu-mae Stop"
+      },
+      "百科": {
+        "日文": {
+          "词条标题": "工学部前停留場",
+          "链接": "https://ja.wikipedia.org/wiki/%E5%B7%A5%E5%AD%A6%E9%83%A8%E5%89%8D%E5%81%9C%E7%95%99%E5%A0%B4",
+          "首段": "工学部前停留場（こうがくぶまえていりゅうじょう）は、鹿児島県鹿児島市郡元一丁目にある鹿児島市電唐湊線の停留場。使用する系統は鹿児島市電2系統のみである。",
+          "章节": {
+            "歴史": "1957年（昭和32年）3月29日：鹿児島市交通局により設置される。",
+            "構造": "2面2線の相対式ホーム。地上駅。両ホームとの行き来は電車が通過中でない限りいつでもできる。\n 両のりばとも車椅子及び電動車椅子の使用は、ホーム幅が規定に足りないため不可。\n 無人駅で、乗車券などの販売は行っていない。\n\nのりば \n 2系統 - 郡元方面\n 2系統 - 鹿児島中央駅前、天文館、鹿児島駅前方面",
+            "鹿児島市電2系統": "唐湊停留場 - 工学部前停留場 - 純心学園前停留場",
+            "鹿児島市の鉄道駅": "うかくふまえ"
+          },
+          "全文": "工学部前停留場（こうがくぶまえていりゅうじょう）は、鹿児島県鹿児島市郡元一丁目にある鹿児島市電唐湊線の停留場。使用する系統は鹿児島市電2系統のみである。\n\n歴史 \n 1957年（昭和32年）3月29日：鹿児島市交通局により設置される。\n\n構造 \n 2面2線の相対式ホーム。地上駅。両ホームとの行き来は電車が通過中でない限りいつでもできる。\n 両のりばとも車椅子及び電動車椅子の使用は、ホーム幅が規定に足りないため不可。\n 無人駅で、乗車券などの販売は行っていない。\n\nのりば \n 2系統 - 郡元方面\n 2系統 - 鹿児島中央駅前、天文館、鹿児島駅前方面\n\n利用状況\n\n周辺 \n 鹿児島大学工学部・理学部・法文学部・教育学部\n セイカ食品唐湊工場\n\n隣の停留場 \n鹿児島市交通局\n鹿児島市電2系統\n唐湊停留場 - 工学部前停留場 - 純心学園前停留場\n\n脚注\n\n関連項目 \n日本の鉄道駅一覧\n\n外部リンク \n 鹿児島市交通局\n\n鹿児島市の鉄道駅\nうかくふまえ\n鹿児島市交通局の鉄道駅\n1957年開業の鉄道駅",
+          "字数": 453
+        },
+        "中文": {
+          "词条标题": "工学部前停留场",
+          "链接": "https://zh.wikipedia.org/wiki/%E5%B7%A5%E5%AD%B8%E9%83%A8%E5%89%8D%E5%81%9C%E7%95%99%E5%A0%B4",
+          "首段": "工学部前停留场，又称工学部前电车站，是位于鹿儿岛县鹿儿岛市郡元一丁目，鹿儿岛市交通局（鹿儿岛市电）唐凑线的电车站。车站编号为N17。",
+          "章节": {
+            "历史": "1957年（昭和32年）3月29日 - 鹿儿岛市交通局设置此站。",
+            "电车站构造": "此电车站设有2面2线的相对式低地台月台。两月台不可让轮椅人士和电动轮椅人士上落。此站是无人车站，不可于站内购买车票。",
+            "运行系统": "此电车站是唐凑线电车站之一。2系统会驶入此站。",
+            "鹿儿岛大学工学系、理科系、法文学系、教育学系": "鹿儿岛大学前店 - 综合娱乐设施",
+            "鹿儿岛市电2系统": "唐凑（N16）－工学部前（N17）－纯心学园前（N18）",
+            "相关条目": "日本铁路车站列表 Ko"
+          },
+          "全文": "工学部前停留场，又称工学部前电车站，是位于鹿儿岛县鹿儿岛市郡元一丁目，鹿儿岛市交通局（鹿儿岛市电）唐凑线的电车站。车站编号为N17。\n\n历史\n1957年（昭和32年）3月29日 - 鹿儿岛市交通局设置此站。\n\n电车站构造\n此电车站设有2面2线的相对式低地台月台。两月台不可让轮椅人士和电动轮椅人士上落。此站是无人车站，不可于站内购买车票。\n\n运行系统\n此电车站是唐凑线电车站之一。2系统会驶入此站。\n\n鹿儿岛大学工学系、理科系、法文学系、教育学系\n鹿儿岛大学前店 - 综合娱乐设施\n\n鹿儿岛市电2系统\n唐凑（N16）－工学部前（N17）－纯心学园前（N18）\n\n相关条目\n日本铁路车站列表 Ko",
+          "字数": 297,
+          "来源": "维基百科中文版（已转简体）"
+        },
+        "英文": {
+          "词条标题": "工学部前停留場",
+          "链接": "https://ja.wikipedia.org/wiki/%E5%B7%A5%E5%AD%A6%E9%83%A8%E5%89%8D%E5%81%9C%E7%95%99%E5%A0%B4",
+          "首段": "Kōgakubū-mae Station (工学部前停留場) is a tram stop on the Kagoshima City Tram Toso Line located in Kōrimoto 1-chōme, Kagoshima, Kagoshima Prefecture. It is served only by Route 2.",
+          "章节": {
+            "History": "March 29, 1957 (Shōwa 32): established by the Kagoshima City Transportation Bureau.",
+            "Station layout": "Two opposed side platforms, one track each, at street level. Passengers can cross between the two platforms at any time unless a tram is passing through.\nWheelchair and motorized-wheelchair use is not permitted on either platform because the platform width does not meet the required standard.\nThe stop is unstaffed and no tickets are sold.\nPlatforms:\nRoute 2 — for Kōrimoto\nRoute 2 — for Kagoshima-Chūō-Ekimae, Tenmonkan and Kagoshima-Ekimae.",
+            "Route 2": "Toso Station — Kōgakubū-mae Station — Junshin-Gakuen-mae Station.",
+            "Railway stations in Kagoshima City": "Kōgakubū-mae Station is one of the tram stops in Kagoshima City, Kagoshima Prefecture, Japan."
+          },
+          "全文": "Kōgakubū-mae Station (工学部前停留場) is a tram stop on the Kagoshima City Tram Toso Line located in Kōrimoto 1-chōme, Kagoshima, Kagoshima Prefecture. It is served only by Route 2.\n\nHistory\nMarch 29, 1957 (Shōwa 32): established by the Kagoshima City Transportation Bureau.\n\nStation layout\nTwo opposed side platforms, one track each, at street level. Passengers can cross between the two platforms at any time unless a tram is passing through.\nWheelchair and motorized-wheelchair use is not permitted on either platform because the platform width does not meet the required standard.\nThe stop is unstaffed and no tickets are sold.\nPlatforms:\nRoute 2 — for Kōrimoto\nRoute 2 — for Kagoshima-Chūō-Ekimae, Tenmonkan and Kagoshima-Ekimae.\n\nRoute 2\nToso Station — Kōgakubū-mae Station — Junshin-Gakuen-mae Station.\n\nRailway stations in Kagoshima City\nKōgakubū-mae Station is one of the tram stops in Kagoshima City, Kagoshima Prefecture, Japan.",
+          "字数": 932
+        }
+      },
+      "结构化信息": {
+        "读音": "こうがくぶまえていりゅうじょう",
+        "罗马字": "Kōgakubumaeteiryūjyō",
+        "开业年份": 1957,
+        "所属公司": [
+          "鹿児島市",
+          "鹿児島市交通局"
+        ],
+        "分类": [
+          "2系統 - 郡元方面",
+          "鹿児島市交通局",
+          "鹿児島市電2系統",
+          "日本の鉄道駅一覧",
+          "鹿児島市の鉄道駅",
+          "鹿児島市交通局の鉄道駅",
+          "1957年開業の鉄道駅"
+        ],
+        "章节目录": [
+          "歴史",
+          "構造",
+          "利用状況",
+          "周辺",
+          "隣の停留場",
+          "鹿児島市交通局",
+          "鹿児島市電2系統",
+          "うかくふまえ"
+        ],
+        "相邻车站": null
+      }
+    },
+    {
+      "序号": 4,
+      "名称": {
+        "日文原名": "神田",
+        "词条": "神田駅",
+        "中文": "神田站",
+        "英文": "Kanda Station"
+      },
+      "百科": {
+        "日文": {
+          "词条标题": "神田駅",
+          "链接": "https://ja.wikipedia.org/wiki/%E7%A5%9E%E7%94%B0%E9%A7%85",
+          "首段": "苅田駅（かんだえき） - 福岡県京都郡苅田町にあるJR九州 日豊本線の駅。",
+          "章节": {
+            "神田駅": "神田駅 (東京都) （かんだえき） - 東京都千代田区にある東日本旅客鉄道（JR東日本）東北本線（山手線・京浜東北線）・中央本線、東京メトロ銀座線の駅。\n 神田駅 (長崎県) （こうだえき） - 長崎県北松浦郡佐々町にある松浦鉄道西九州線の駅\n 神田停留場 （しんでんていりゅうじょう） - 鹿児島県鹿児島市にある鹿児島市電唐湊線の神田（交通局前）停留場の旧称。"
+          },
+          "全文": "神田駅\n\n 神田駅 (東京都) （かんだえき） - 東京都千代田区にある東日本旅客鉄道（JR東日本）東北本線（山手線・京浜東北線）・中央本線、東京メトロ銀座線の駅。\n 神田駅 (長崎県) （こうだえき） - 長崎県北松浦郡佐々町にある松浦鉄道西九州線の駅\n 神田停留場 （しんでんていりゅうじょう） - 鹿児島県鹿児島市にある鹿児島市電唐湊線の神田（交通局前）停留場の旧称。\n\n関連項目 \n 苅田駅（かんだえき） - 福岡県京都郡苅田町にあるJR九州 日豊本線の駅。\n\n同名の鉄道駅",
+          "字数": 241
+        },
+        "中文": {
+          "词条标题": "神田站",
+          "链接": "https://zh.wikipedia.org/wiki/%E7%A5%9E%E7%94%B0%E7%AB%99",
+          "首段": "神田站是日本各地车站名称。",
+          "章节": {
+            "列表": "神田站 (东京都) - 位于东京都千代田区的东日本旅客铁道（JR东日本）东北本线（山手线·京滨东北线）·中央本线、东京地铁银座线车站。\n神田站 (长崎县) - 位于长崎县北松浦郡佐佐町的松浦铁道西九州线车站。\n神田停留场 - 位于鹿儿岛县鹿儿岛市的鹿儿岛市电唐凑线神田（交通局前）停留场的旧称。"
+          },
+          "全文": "神田站是日本各地车站名称。\n\n列表\n神田站 (东京都) - 位于东京都千代田区的东日本旅客铁道（JR东日本）东北本线（山手线·京滨东北线）·中央本线、东京地铁银座线车站。\n神田站 (长崎县) - 位于长崎县北松浦郡佐佐町的松浦铁道西九州线车站。\n神田停留场 - 位于鹿儿岛县鹿儿岛市的鹿儿岛市电唐凑线神田（交通局前）停留场的旧称。",
+          "字数": 165,
+          "来源": "豆包全文翻译（据日文维基全文）"
+        },
+        "英文": {
+          "词条标题": "神田駅",
+          "链接": "https://ja.wikipedia.org/wiki/%E7%A5%9E%E7%94%B0%E9%A7%85",
+          "首段": "Kanda Station (神田駅) is a name shared by several railway stations in Japan; the entry below lists the similarly named stations.",
+          "章节": {
+            "Similarly named stations": "Kanda Station (Tokyo) — a station on the JR East Yamanote Line, Keihin-Tōhoku Line and Chūō Main Line, and the Tokyo Metro Ginza Line, located in Chiyoda, Tokyo.\nKōda Station (Nagasaki) — a station on the Matsuura Railway Nishi-Kyūshū Line in Saza, Kitamatsuura District, Nagasaki Prefecture.\nShinden Station — the former name of Kanda (Kōtsūkyoku-mae) Station on the Kagoshima City Tram Toso Line in Kagoshima City."
+          },
+          "全文": "Kanda Station (神田駅) is a name shared by several railway stations in Japan; the entry below lists the similarly named stations.\n\nSimilarly named stations\nKanda Station (Tokyo) — a station on the JR East Yamanote Line, Keihin-Tōhoku Line and Chūō Main Line, and the Tokyo Metro Ginza Line, located in Chiyoda, Tokyo.\nKōda Station (Nagasaki) — a station on the Matsuura Railway Nishi-Kyūshū Line in Saza, Kitamatsuura District, Nagasaki Prefecture.\nShinden Station — the former name of Kanda (Kōtsūkyoku-mae) Station on the Kagoshima City Tram Toso Line in Kagoshima City.",
+          "字数": 569
+        }
+      },
+      "结构化信息": {
+        "读音": null,
+        "罗马字": null,
+        "开业年份": null,
+        "所属公司": [
+          "同名"
+        ],
+        "分类": [
+          "同名の鉄道駅"
+        ],
+        "章节目录": [
+          "神田駅"
+        ],
+        "相邻车站": null
+      }
+    },
+    {
+      "序号": 5,
+      "名称": {
+        "日文原名": "純心学園前",
+        "词条": "純心学園前停留場",
+        "中文": "純心學園前停留場",
+        "英文": "Jushin Gakuen-mae Stop"
+      },
+      "百科": {
+        "日文": {
+          "词条标题": "純心学園前停留場",
+          "链接": "https://ja.wikipedia.org/wiki/%E7%B4%94%E5%BF%83%E5%AD%A6%E5%9C%92%E5%89%8D%E5%81%9C%E7%95%99%E5%A0%B4",
+          "首段": "純心学園前停留場（じゅんしんがくえんまえていりゅうじょう）は、鹿児島県鹿児島市郡元一丁目にある鹿児島市電唐湊線の停留場。使用する系統は鹿児島市電2系統のみである。",
+          "章节": {
+            "歴史": "1959年（昭和34年）12月20日：鹿児島市交通局により設置される。",
+            "構造": "2面2線の相対式ホーム。地上駅。両ホームとの行き来は電車が通過中でない限りいつでもできる。\n 両のりばとも車椅子及び電動車椅子の使用はホーム幅が規定に足りないため不可。\n 無人駅で、乗車券などの販売は行っていない。\n\nのりば \n 2系統 - 郡元方面\n 2系統 - 鹿児島中央駅前、天文館、鹿児島駅前方面",
+            "鹿児島大学教育学部附属中学校": "鹿児島純心女子学園（実際は丘の上に立地する）",
+            "鹿児島市電2系統": "工学部前停留場 - 純心学園前停留場 - 中郡停留場",
+            "鹿児島市の鉄道駅": "ゆんしんかくえんまえ"
+          },
+          "全文": "純心学園前停留場（じゅんしんがくえんまえていりゅうじょう）は、鹿児島県鹿児島市郡元一丁目にある鹿児島市電唐湊線の停留場。使用する系統は鹿児島市電2系統のみである。\n\n歴史 \n 1959年（昭和34年）12月20日：鹿児島市交通局により設置される。\n\n構造 \n 2面2線の相対式ホーム。地上駅。両ホームとの行き来は電車が通過中でない限りいつでもできる。\n 両のりばとも車椅子及び電動車椅子の使用はホーム幅が規定に足りないため不可。\n 無人駅で、乗車券などの販売は行っていない。\n\nのりば \n 2系統 - 郡元方面\n 2系統 - 鹿児島中央駅前、天文館、鹿児島駅前方面\n\n利用状況\n\n周辺 \n\n 鹿児島大学教育学部附属中学校\n 鹿児島純心女子学園（実際は丘の上に立地する）\n 鹿児島純心女子短期大学\n 鹿児島純心女子中学校・高等学校\n JR九州郡元駅\n\n隣の停留場 \n 鹿児島市交通局\n 鹿児島市電2系統\n 工学部前停留場 - 純心学園前停留場 - 中郡停留場\n\n脚注\n\n関連項目 \n日本の鉄道駅一覧\n\n外部リンク \n 鹿児島市交通局\n\n鹿児島市の鉄道駅\nゆんしんかくえんまえ\n鹿児島市交通局の鉄道駅\n1959年開業の鉄道駅",
+          "字数": 510
+        },
+        "中文": {
+          "词条标题": "纯心学园前停留场",
+          "链接": "https://zh.wikipedia.org/wiki/%E7%B4%94%E5%BF%83%E5%AD%B8%E5%9C%92%E5%89%8D%E5%81%9C%E7%95%99%E5%A0%B4",
+          "首段": "纯心学园前停留场，又称纯心学园前电车站，是位于鹿儿岛县鹿儿岛市郡元一丁目，鹿儿岛市交通局（鹿儿岛市电）唐凑线的电车站。车站编号为N18。",
+          "章节": {
+            "历史": "1959年（昭和34年）12月20日 - 鹿儿岛市交通局设置此站。",
+            "电车站构造": "此电车站设有2面2线的相对式低地台月台。两月台不可让轮椅人士和电动轮椅人士上落。此站是无人车站，不可于站内购买车票。",
+            "运行系统": "此电车站是唐凑线电车站之一。2系统会驶入此站。",
+            "鹿儿岛市电2系统": "工学部前（N17）－纯心学园前（N18）－中郡（N19）",
+            "相关条目": "日本铁路车站列表 Ji"
+          },
+          "全文": "纯心学园前停留场，又称纯心学园前电车站，是位于鹿儿岛县鹿儿岛市郡元一丁目，鹿儿岛市交通局（鹿儿岛市电）唐凑线的电车站。车站编号为N18。\n\n历史\n1959年（昭和34年）12月20日 - 鹿儿岛市交通局设置此站。\n\n电车站构造\n此电车站设有2面2线的相对式低地台月台。两月台不可让轮椅人士和电动轮椅人士上落。此站是无人车站，不可于站内购买车票。\n\n运行系统\n此电车站是唐凑线电车站之一。2系统会驶入此站。\n\n鹿儿岛市电2系统\n工学部前（N17）－纯心学园前（N18）－中郡（N19）\n\n相关条目\n日本铁路车站列表 Ji",
+          "字数": 259,
+          "来源": "维基百科中文版（已转简体）"
+        },
+        "英文": {
+          "词条标题": "純心学園前停留場",
+          "链接": "https://ja.wikipedia.org/wiki/%E7%B4%94%E5%BF%83%E5%AD%A6%E5%9C%92%E5%89%8D%E5%81%9C%E7%95%99%E5%A0%B4",
+          "首段": "Junshin-Gakuen-mae Station (純心学園前停留場) is a tram stop on the Kagoshima City Tram Toso Line located in Kōrimoto 1-chōme, Kagoshima, Kagoshima Prefecture. It is served only by Route 2.",
+          "章节": {
+            "History": "December 20, 1959 (Shōwa 34): established by the Kagoshima City Transportation Bureau.",
+            "Station layout": "Two opposed side platforms, one track each, at street level. Passengers can cross between the two platforms at any time unless a tram is passing through.\nWheelchair and motorized-wheelchair use is not permitted on either platform because the platform width does not meet the required standard.\nThe stop is unstaffed and no tickets are sold.\nPlatforms:\nRoute 2 — for Kōrimoto\nRoute 2 — for Kagoshima-Chūō-Ekimae, Tenmonkan and Kagoshima-Ekimae.",
+            "Surrounding area": "Kagoshima Junshin Girls’ Gakuen (actually located on a hill above the stop).",
+            "Route 2": "Kōgakubū-mae Station — Junshin-Gakuen-mae Station — Chūgun Station.",
+            "Railway stations in Kagoshima City": "Junshin-Gakuen-mae Station is one of the tram stops in Kagoshima City, Kagoshima Prefecture, Japan."
+          },
+          "全文": "Junshin-Gakuen-mae Station (純心学園前停留場) is a tram stop on the Kagoshima City Tram Toso Line located in Kōrimoto 1-chōme, Kagoshima, Kagoshima Prefecture. It is served only by Route 2.\n\nHistory\nDecember 20, 1959 (Shōwa 34): established by the Kagoshima City Transportation Bureau.\n\nStation layout\nTwo opposed side platforms, one track each, at street level. Passengers can cross between the two platforms at any time unless a tram is passing through.\nWheelchair and motorized-wheelchair use is not permitted on either platform because the platform width does not meet the required standard.\nThe stop is unstaffed and no tickets are sold.\nPlatforms:\nRoute 2 — for Kōrimoto\nRoute 2 — for Kagoshima-Chūō-Ekimae, Tenmonkan and Kagoshima-Ekimae.\n\nSurrounding area\nKagoshima Junshin Girls’ Gakuen (actually located on a hill above the stop).\n\nRoute 2\nKōgakubū-mae Station — Junshin-Gakuen-mae Station — Chūgun Station.\n\nRailway stations in Kagoshima City\nJunshin-Gakuen-mae Station is one of the tram stops in Kagoshima City, Kagoshima Prefecture, Japan.",
+          "字数": 1045
+        }
+      },
+      "结构化信息": {
+        "读音": "じゅんしんがくえんまえていりゅうじょう",
+        "罗马字": "Jyunshingakuenmaeteiryūjyō",
+        "开业年份": 1959,
+        "所属公司": [
+          "鹿児島市",
+          "鹿児島市交通局"
+        ],
+        "分类": [
+          "2系統 - 郡元方面",
+          "JR九州郡元駅",
+          "鹿児島市交通局",
+          "鹿児島市電2系統",
+          "工学部前停留場 - 純心学園前停留場 - 中郡停留場",
+          "日本の鉄道駅一覧",
+          "鹿児島市の鉄道駅",
+          "鹿児島市交通局の鉄道駅",
+          "1959年開業の鉄道駅"
+        ],
+        "章节目录": [
+          "歴史",
+          "構造",
+          "利用状況",
+          "周辺",
+          "隣の停留場",
+          "ゆんしんかくえんまえ"
+        ],
+        "相邻车站": null
+      }
+    },
+    {
+      "序号": 6,
+      "名称": {
+        "日文原名": "郡元",
+        "词条": "郡元駅",
+        "中文": "郡元站",
+        "英文": "Kōrimoto Station"
+      },
+      "百科": {
+        "日文": {
+          "词条标题": "郡元駅",
+          "链接": "https://ja.wikipedia.org/wiki/%E9%83%A1%E5%85%83%E9%A7%85",
+          "首段": "郡元駅（こおりもとえき）は、鹿児島県鹿児島市唐湊四丁目にある、九州旅客鉄道（JR九州）指宿枕崎線の駅である。",
+          "章节": {
+            "歴史": "1986年（昭和61年）12月1日：日本国有鉄道の駅として開業。駅員無配置駅。\n 1987年（昭和62年）4月1日：国鉄分割民営化に伴い、九州旅客鉄道（JR九州）の駅となる。\n 1990年（平成2年）3月：ダイヤ改正に合わせ、ホーム有効長を90mから112mに延伸。\n 2012年（平成24年）12月1日：ICカード「SUGOCA」の利用が可能となる。\n 2020年（令和2年）5月30日：駅遠隔案内システム（Smart Support Station）「ANSWER」の導入に伴い無人化。",
+            "駅構造": "単式ホーム1面1線を持つ地上駅。かつては有人駅であったが、2020年5月30日より駅遠隔案内システム（Smart Support Station）「ANSWER」の導入に伴い再度無人化された。\n\nIC乗車カード「SUGOCA」の利用が可能で（相互利用可能ICカードはSUGOCAの項を参照）、簡易SUGOCA改札機が設置されている。SUGOCAの販売は行なっていない。\n\n簡易自動券売機（ICカード非対応）、ICカードチャージ機が設置されている。\n\nのりば",
+            "利用状況": "2020年（令和2年）度の1日平均の乗車人員は889人である。",
+            "駅周辺": "周辺は「中郡」（なかごおり）と呼ばれ、鹿児島大学や附属小学校、附属中学校、専門学校等が集まる文教エリアである。また鹿児島中央駅と当駅の間に鹿児島車両センターがあることにより当駅まで引込線があり、付近には食品やリネン関係の工場や倉庫等もある。\n\n背後の丘陵部にある地区は、傾斜地にもかかわらず古くから住宅が建ち並び市街地化した。坂道が多い庶民的な住宅地である。",
+            "備考": "鹿児島市電の郡元電停とは直線距離で700ｍ程離れている。郡元地区は広いエリアを持っており、当駅（JR郡元）は唐湊地区、市電電停は港湾エリアに隣接した鴨池地区であり、当駅最寄りの電停は純心学園前電停である。",
+            "隣の駅": "九州旅客鉄道（JR九州）",
+            "快速「なのはな」・普通": "鹿児島中央駅 - 郡元駅 - 南鹿児島駅",
+            "鹿児島市の鉄道駅": "おりもと"
+          },
+          "全文": "郡元駅（こおりもとえき）は、鹿児島県鹿児島市唐湊四丁目にある、九州旅客鉄道（JR九州）指宿枕崎線の駅である。\n\n歴史 \n 1986年（昭和61年）12月1日：日本国有鉄道の駅として開業。駅員無配置駅。\n 1987年（昭和62年）4月1日：国鉄分割民営化に伴い、九州旅客鉄道（JR九州）の駅となる。\n 1990年（平成2年）3月：ダイヤ改正に合わせ、ホーム有効長を90mから112mに延伸。\n 2012年（平成24年）12月1日：ICカード「SUGOCA」の利用が可能となる。\n 2020年（令和2年）5月30日：駅遠隔案内システム（Smart Support Station）「ANSWER」の導入に伴い無人化。\n\n駅構造 \n単式ホーム1面1線を持つ地上駅。かつては有人駅であったが、2020年5月30日より駅遠隔案内システム（Smart Support Station）「ANSWER」の導入に伴い再度無人化された。\n\nIC乗車カード「SUGOCA」の利用が可能で（相互利用可能ICカードはSUGOCAの項を参照）、簡易SUGOCA改札機が設置されている。SUGOCAの販売は行なっていない。\n\n簡易自動券売機（ICカード非対応）、ICカードチャージ機が設置されている。\n\nのりば\n\n利用状況 \n2020年（令和2年）度の1日平均の乗車人員は889人である。\n\n駅周辺 \n周辺は「中郡」（なかごおり）と呼ばれ、鹿児島大学や附属小学校、附属中学校、専門学校等が集まる文教エリアである。また鹿児島中央駅と当駅の間に鹿児島車両センターがあることにより当駅まで引込線があり、付近には食品やリネン関係の工場や倉庫等もある。\n\n背後の丘陵部にある地区は、傾斜地にもかかわらず古くから住宅が建ち並び市街地化した。坂道が多い庶民的な住宅地である。\n\n 備考\n鹿児島市電の郡元電停とは直線距離で700ｍ程離れている。郡元地区は広いエリアを持っており、当駅（JR郡元）は唐湊地区、市電電停は港湾エリアに隣接した鴨池地区であり、当駅最寄りの電停は純心学園前電停である。\n\n隣の駅 \n 九州旅客鉄道（JR九州）\n 指宿枕崎線\n 快速「なのはな」・普通\n 鹿児島中央駅 - 郡元駅 - 南鹿児島駅\n\n脚注\n\n関連項目 \n\n 日本の鉄道駅一覧\n 日本の同一駅名・同一市町村で所在地が異なる駅の一覧\n\n外部リンク \n \n\n鹿児島市の鉄道駅\nおりもと\n九州旅客鉄道の鉄道駅\n日本国有鉄道の鉄道駅\n1986年開業の鉄道駅",
+          "字数": 1044
+        },
+        "中文": {
+          "词条标题": "郡元站",
+          "链接": "https://zh.wikipedia.org/wiki/%E9%83%A1%E5%85%83%E7%AB%99",
+          "首段": "郡元站是位于日本鹿儿岛县鹿儿岛市唐凑4丁目的九州旅客铁道指宿枕崎线车站。",
+          "章节": {
+            "JR九州鹿儿岛综合车厂": "日本烟草产业鹿儿岛工场旧地：预定迁移到鹿儿岛市立病院附近。",
+            "鹿儿岛纯心女子短期大学、高等学校、中学": "鹿儿岛市立中郡小学。",
+            "鹿儿岛市交通局纯心学园前站": "JJ-club100鹿儿岛店：综合娱乐设施\nW LIVE（食品超市）",
+            "历史": "1986年（昭和61年）12月1日 - 开业。\n2005年（平成17年）10月1日 - 由无人站改为有人站。",
+            "株式会社Kakuiix工厂": "Seika 食品工场",
+            "鹿儿岛市的铁路车站": "Oromoto"
+          },
+          "全文": "郡元站是位于日本鹿儿岛县鹿儿岛市唐凑4丁目的九州旅客铁道指宿枕崎线车站。\n\nJR九州鹿儿岛综合车厂\n日本烟草产业鹿儿岛工场旧地：预定迁移到鹿儿岛市立病院附近。\n\n鹿儿岛纯心女子短期大学、高等学校、中学\n鹿儿岛市立中郡小学。\n\n鹿儿岛市交通局纯心学园前站\nJJ-club100鹿儿岛店：综合娱乐设施\nW LIVE（食品超市）\n\n历史\n1986年（昭和61年）12月1日 - 开业。\n2005年（平成17年）10月1日 - 由无人站改为有人站。\n\n株式会社Kakuiix工厂\nSeika 食品工场\n\n鹿儿岛市的铁路车站\nOromoto",
+          "字数": 265,
+          "来源": "维基百科中文版（已转简体）"
+        },
+        "英文": {
+          "词条标题": "Kōrimoto Station",
+          "链接": "https://en.wikipedia.org/wiki/K%C5%8Drimoto%20Station",
+          "首段": "Kōrimoto Station (郡元駅) is a railway station on the JR Kyushu Ibusuki-Makurazaki Line located in Toso 4-chōme, Kagoshima, Kagoshima Prefecture, Japan.",
+          "章节": {
+            "History": "December 1, 1986 (Shōwa 61): opens as a JNR station, unstaffed.\nApril 1, 1987 (Shōwa 62): following the privatization of JNR, the station comes under the control of JR Kyushu.\nMarch 1990 (Heisei 2): platform effective length is extended from 90 m to 112 m to match the timetable revision.\nDecember 1, 2012 (Heisei 24): IC card \"SUGOCA\" becomes usable.\nMay 30, 2020 (Reiwa 2): remote station guidance is introduced.",
+            "Station layout": "An at-grade station with one side platform serving a single track. It was formerly staffed, but from May 30, 2020 it became unstaffed again following the introduction of the remote guidance system (Smart Support Station) \"ANSWER\".\nThe IC card \"SUGOCA\" is usable (see the SUGOCA article for mutually compatible cards), and a simple SUGOCA gate reader is installed; SUGOCA cards are not sold at the station. A simple automatic ticket vending machine (not IC-compatible) is also provided.",
+            "Usage": "In fiscal 2020 (Reiwa 2), the average daily boarding passengers numbered 889.",
+            "Surrounding area": "The surrounding district is known as \"Nakagōri\" and is an education area clustered with Kagoshima University and its attached elementary and junior high schools, and various vocational schools. The Kagoshima Rolling Stock Center lies between Kagoshima-Chūō Station and this station, giving rise to a siding that reaches this station; factories and warehouses related to food and linen are also found nearby.\nThe hilly area behind the station has long been built up with houses on the slopes, forming a residential area of many slopes and a everyday atmosphere.",
+            "Notes": "The station is about 700 m in a straight line from the Kōrimoto tram stop on the Kagoshima City Tram. The Kōrimoto district covers a wide area; this JR station lies in the Toso district, while the tram stop is in the Kamoike district next to the port area. The tram stop nearest to this station is Junshin-Gakuen-mae.",
+            "Adjacent stations": "Kyushu Railway Company (JR Kyushu).",
+            "Rapid Nanohana / Local": "Kagoshima-Chūō Station — Kōrimoto Station — Minami-Kagoshima Station.",
+            "Railway stations in Kagoshima City": "Kōrimoto Station is one of the railway stations in Kagoshima City, Kagoshima Prefecture, Japan."
+          },
+          "全文": "Kōrimoto Station (郡元駅) is a railway station on the JR Kyushu Ibusuki-Makurazaki Line located in Toso 4-chōme, Kagoshima, Kagoshima Prefecture, Japan.\n\nHistory\nDecember 1, 1986 (Shōwa 61): opens as a JNR station, unstaffed.\nApril 1, 1987 (Shōwa 62): following the privatization of JNR, the station comes under the control of JR Kyushu.\nMarch 1990 (Heisei 2): platform effective length is extended from 90 m to 112 m to match the timetable revision.\nDecember 1, 2012 (Heisei 24): IC card \"SUGOCA\" becomes usable.\nMay 30, 2020 (Reiwa 2): remote station guidance is introduced.\n\nStation layout\nAn at-grade station with one side platform serving a single track. It was formerly staffed, but from May 30, 2020 it became unstaffed again following the introduction of the remote guidance system (Smart Support Station) \"ANSWER\".\nThe IC card \"SUGOCA\" is usable (see the SUGOCA article for mutually compatible cards), and a simple SUGOCA gate reader is installed; SUGOCA cards are not sold at the station. A simple automatic ticket vending machine (not IC-compatible) is also provided.\n\nUsage\nIn fiscal 2020 (Reiwa 2), the average daily boarding passengers numbered 889.\n\nSurrounding area\nThe surrounding district is known as \"Nakagōri\" and is an education area clustered with Kagoshima University and its attached elementary and junior high schools, and various vocational schools. The Kagoshima Rolling Stock Center lies between Kagoshima-Chūō Station and this station, giving rise to a siding that reaches this station; factories and warehouses related to food and linen are also found nearby.\nThe hilly area behind the station has long been built up with houses on the slopes, forming a residential area of many slopes and a everyday atmosphere.\n\nNotes\nThe station is about 700 m in a straight line from the Kōrimoto tram stop on the Kagoshima City Tram. The Kōrimoto district covers a wide area; this JR station lies in the Toso district, while the tram stop is in the Kamoike district next to the port area. The tram stop nearest to this station is Junshin-Gakuen-mae.\n\nAdjacent stations\nKyushu Railway Company (JR Kyushu).\n\nRapid Nanohana / Local\nKagoshima-Chūō Station — Kōrimoto Station — Minami-Kagoshima Station.\n\nRailway stations in Kagoshima City\nKōrimoto Station is one of the railway stations in Kagoshima City, Kagoshima Prefecture, Japan.",
+          "字数": 2345
+        }
+      },
+      "结构化信息": {
+        "读音": "こおりもとえき",
+        "罗马字": "Kōrimoto",
+        "开业年份": 1986,
+        "所属公司": [
+          "鹿児島市",
+          "九州旅客鉄道",
+          "日本国有鉄道"
+        ],
+        "分类": [
+          "鹿児島中央駅 - 郡元駅 - 南鹿児島駅",
+          "日本の鉄道駅一覧",
+          "日本の同一駅名・同一市町村で所在地が異なる駅の一覧",
+          "鹿児島市の鉄道駅",
+          "九州旅客鉄道の鉄道駅",
+          "日本国有鉄道の鉄道駅",
+          "1986年開業の鉄道駅"
+        ],
+        "章节目录": [
+          "歴史",
+          "駅構造",
+          "利用状況",
+          "駅周辺",
+          "隣の駅",
+          "おりもと"
+        ],
+        "相邻车站": "九州旅客鉄道（JR九州）\n 指宿枕崎線\n 快速「なのはな」・普通\n 鹿児島中央駅 - 郡元駅 - 南鹿児島駅"
+      }
+    }
+  ],
+  "统计": {
+    "车站总数": 6,
+    "有日文词条": 6,
+    "有中文词条": 6,
+    "已千问汉化": 0,
+    "待汉化": 0,
+    "有英文词条": 6
   }
- },
- "车站": [
-  {
-   "序号": 1,
-   "名称": {
-    "日文原名": "中郡",
-    "词条": "中郡駅",
-    "中文": "中郡站",
-    "英文": "Nakagōri Station"
-   },
-   "百科": {
-    "日文": {
-     "词条标题": "中郡駅",
-     "链接": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E9%83%A1%E9%A7%85",
-     "首段": "中郡駅（ちゅうぐんえき）は、山形県東置賜郡川西町大字時田（ときだ）にある、東日本旅客鉄道（JR東日本）米坂線の駅である。",
-     "章节": {
-      "歴史": "1926年（大正15年）9月28日：米坂線米沢 - 今泉間開通と共に開業。\n 1961年（昭和36年）6月10日：貨物取扱廃止。\n 1982年（昭和57年）3月20日：荷物扱い廃止。無人化。\n 1987年（昭和62年）4月1日：国鉄分割民営化により、東日本旅客鉄道の駅となる。\n 2001年（平成13年）3月17日：現在の駅舎が完成。",
-      "駅構造": "単式ホーム1面1線を有する地上駅。米沢駅管理の無人駅。",
-      "利用状況": "2004年度の乗車人員は、1日平均41人。",
-      "隣の駅": "東日本旅客鉄道（JR東日本）",
-      "米坂線": "ちゆうくんえき",
-      "快速「べにばな」・普通": "成島駅 - 中郡駅 - 羽前小松駅",
-      "山形県の鉄道駅": "ゆうくん"
-     },
-     "全文": "中郡駅（ちゅうぐんえき）は、山形県東置賜郡川西町大字時田（ときだ）にある、東日本旅客鉄道（JR東日本）米坂線の駅である。\n\n歴史 \n 1926年（大正15年）9月28日：米坂線米沢 - 今泉間開通と共に開業。\n 1961年（昭和36年）6月10日：貨物取扱廃止。\n 1982年（昭和57年）3月20日：荷物扱い廃止。無人化。\n 1987年（昭和62年）4月1日：国鉄分割民営化により、東日本旅客鉄道の駅となる。\n 2001年（平成13年）3月17日：現在の駅舎が完成。\n\n駅構造 \n単式ホーム1面1線を有する地上駅。米沢駅管理の無人駅。\n\n利用状況 \n2004年度の乗車人員は、1日平均41人。\n\n駅周辺 \n 国道287号\n 山形県道239号玉庭時田糠野目線\n\n隣の駅 \n 東日本旅客鉄道（JR東日本）\n 米坂線\n 快速「べにばな」・普通\n 成島駅 - 中郡駅 - 羽前小松駅\n\n脚注\n\n関連項目 \n\n 日本の鉄道駅一覧\n\n外部リンク \n \n\n山形県の鉄道駅\nゆうくん\n東日本旅客鉄道の鉄道駅\n日本国有鉄道の鉄道駅\n1926年開業の鉄道駅\n米坂線\nちゆうくんえき",
-     "字数": 481
-    },
-    "中文": {
-     "词条标题": "中郡站",
-     "链接": "https://zh.wikipedia.org/wiki/%E4%B8%AD%E9%83%A1%E7%AB%99",
-     "首段": "中郡站（ちゅうぐんえき）是位于山形县东置赐郡川西町大字时田的东日本旅客铁道（JR东日本）米坂线车站。",
-     "章节": {
-      "历史": "1926年（大正15年）9月28日 - 米坂线米泽 - 今泉间开通时开业。\n1961年（昭和36年）6月10日 - 停止货运处理。\n1982年（昭和57年）3月20日 - 停止行李处理，无人化。\n1987年（昭和62年）4月1日 - 国铁分割民营化，成为东日本旅客铁道车站。\n2001年（平成13年）3月17日 - 现在的站房竣工。",
-      "车站结构": "单式月台1面1线的地面车站。由米泽站管理的无人站。",
-      "使用情况": "2004年度乘车人员1日平均41人。"
-     },
-     "全文": "中郡站（ちゅうぐんえき）是位于山形县东置赐郡川西町大字时田的东日本旅客铁道（JR东日本）米坂线车站。\n\n历史\n1926年（大正15年）9月28日 - 米坂线米泽 - 今泉间开通时开业。\n1961年（昭和36年）6月10日 - 停止货运处理。\n1982年（昭和57年）3月20日 - 停止行李处理，无人化。\n1987年（昭和62年）4月1日 - 国铁分割民营化，成为东日本旅客铁道车站。\n2001年（平成13年）3月17日 - 现在的站房竣工。\n\n车站结构\n单式月台1面1线的地面车站。由米泽站管理的无人站。\n\n使用情况\n2004年度乘车人员1日平均41人。",
-     "字数": 278,
-     "来源": "豆包全文翻译（据日文维基全文）"
-    },
-    "英文": {
-     "词条标题": "中郡駅",
-     "链接": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E9%83%A1%E9%A7%85",
-     "首段": "Chūgun Station (中郡駅) is a railway station on the JR East Yonesaka Line located in Ōaza-Tokida, Kawanishi, Higashiokitama District, Yamagata Prefecture, Japan.",
-     "章节": {
-      "History": "September 28, 1926 (Taishō 15): opens with the opening of the Yonesaka Line between Yonezawa and Imaizumi.\nJune 10, 1961 (Shōwa 36): freight handling discontinued.\nMarch 20, 1982 (Shōwa 57): baggage handling discontinued; the station becomes unstaffed.\nApril 1, 1987 (Shōwa 62): following the privatization of JNR, the station comes under the control of JR East.\nMarch 17, 2001 (Heisei 13): the present station building is completed.",
-      "Station layout": "An at-grade station with one side platform serving a single track. It is an unstaffed station managed by Yonezawa Station.",
-      "Usage": "In fiscal 2004, the station was used by an average of 41 boarding passengers daily.",
-      "Adjacent stations": "East Japan Railway Company (JR East).",
-      "Yonesaka Line": "Chūgun Station.",
-      "Rapid Benibana / Local": "Narushima Station — Chūgun Station — Uzen-Komatsu Station.",
-      "Railway stations in Yamagata Prefecture": "Chūgun Station is one of the railway stations in Yamagata Prefecture, Japan."
-     },
-     "全文": "Chūgun Station (中郡駅) is a railway station on the JR East Yonesaka Line located in Ōaza-Tokida, Kawanishi, Higashiokitama District, Yamagata Prefecture, Japan.\n\nHistory\nSeptember 28, 1926 (Taishō 15): opens with the opening of the Yonesaka Line between Yonezawa and Imaizumi.\nJune 10, 1961 (Shōwa 36): freight handling discontinued.\nMarch 20, 1982 (Shōwa 57): baggage handling discontinued; the station becomes unstaffed.\nApril 1, 1987 (Shōwa 62): following the privatization of JNR, the station comes under the control of JR East.\nMarch 17, 2001 (Heisei 13): the present station building is completed.\n\nStation layout\nAn at-grade station with one side platform serving a single track. It is an unstaffed station managed by Yonezawa Station.\n\nUsage\nIn fiscal 2004, the station was used by an average of 41 boarding passengers daily.\n\nAdjacent stations\nEast Japan Railway Company (JR East).\n\nYonesaka Line\nChūgun Station.\n\nRapid Benibana / Local\nNarushima Station — Chūgun Station — Uzen-Komatsu Station.\n\nRailway stations in Yamagata Prefecture\nChūgun Station is one of the railway stations in Yamagata Prefecture, Japan.",
-     "字数": 1120
-    }
-   },
-   "结构化信息": {
-    "读音": "ちゅうぐんえき",
-    "罗马字": "Chyūgun",
-    "开业年份": 1926,
-    "所属公司": [
-     "東日本旅客鉄道",
-     "日本国有鉄道"
-    ],
-    "分类": [
-     "成島駅 - 中郡駅 - 羽前小松駅",
-     "日本の鉄道駅一覧",
-     "山形県の鉄道駅",
-     "東日本旅客鉄道の鉄道駅",
-     "日本国有鉄道の鉄道駅",
-     "1926年開業の鉄道駅"
-    ],
-    "章节目录": [
-     "歴史",
-     "駅構造",
-     "利用状況",
-     "駅周辺",
-     "隣の駅",
-     "ゆうくん",
-     "米坂線",
-     "ちゆうくんえき"
-    ],
-    "相邻车站": "東日本旅客鉄道（JR東日本）\n 米坂線\n 快速「べにばな」・普通\n 成島駅 - 中郡駅 - 羽前小松駅"
-   }
-  },
-  {
-   "序号": 2,
-   "名称": {
-    "日文原名": "唐湊",
-    "词条": "唐湊停留場",
-    "中文": "唐湊停留場",
-    "英文": "Karatsu Stop"
-   },
-   "百科": {
-    "日文": {
-     "词条标题": "唐湊停留場",
-     "链接": "https://ja.wikipedia.org/wiki/%E5%94%90%E6%B9%8A%E5%81%9C%E7%95%99%E5%A0%B4",
-     "首段": "唐湊停留場（とそていりゅうじょう）は、鹿児島県鹿児島市郡元一丁目にある鹿児島市電唐湊線の停留場。使用する系統は鹿児島市電2系統のみである。",
-     "章节": {
-      "歴史": "1957年（昭和32年）3月29日：鹿児島市交通局により設置される。\n 2023年1月1日：小牧建設をネーミングライツパートナーとして副呼称が追加され、「唐湊（小牧建設前）」になった。",
-      "構造": "2面2線の相対式ホーム。地上駅。両ホームとの行き来は電車が通過中でない限りいつでもできる。\n 両のりばとも車椅子及び電動車椅子の使用はホーム幅が規定に足りないため不可。\n 無人駅で、乗車券などの販売は行っていない。\n\nのりば \n 2系統 - 郡元方面\n 2系統 - 鹿児島中央駅前、天文館、鹿児島駅前方面",
-      "鹿児島市電2系統": "神田（交通局前）停留場 - 唐湊停留場 - 工学部前停留場",
-      "鹿児島市の鉄道駅": "そ"
-     },
-     "全文": "唐湊停留場（とそていりゅうじょう）は、鹿児島県鹿児島市郡元一丁目にある鹿児島市電唐湊線の停留場。使用する系統は鹿児島市電2系統のみである。\n\n歴史 \n 1957年（昭和32年）3月29日：鹿児島市交通局により設置される。\n 2023年1月1日：小牧建設をネーミングライツパートナーとして副呼称が追加され、「唐湊（小牧建設前）」になった。\n\n構造 \n 2面2線の相対式ホーム。地上駅。両ホームとの行き来は電車が通過中でない限りいつでもできる。\n 両のりばとも車椅子及び電動車椅子の使用はホーム幅が規定に足りないため不可。\n 無人駅で、乗車券などの販売は行っていない。\n\nのりば \n 2系統 - 郡元方面\n 2系統 - 鹿児島中央駅前、天文館、鹿児島駅前方面\n\n利用状況\n\n周辺 \n 鹿児島大学農学部・共同獣医学部\n\n隣の停留場 \n 鹿児島市交通局\n 鹿児島市電2系統\n 神田（交通局前）停留場 - 唐湊停留場 - 工学部前停留場\n\n脚注\n\n関連項目 \n 日本の鉄道駅一覧\n\n外部リンク \n 鹿児島市交通局\n\n鹿児島市の鉄道駅\nそ\n鹿児島市交通局の鉄道駅\n1957年開業の鉄道駅",
-     "字数": 487
-    },
-    "中文": {
-     "词条标题": "唐凑停留场",
-     "链接": "https://zh.wikipedia.org/wiki/%E5%94%90%E6%B9%8A%E5%81%9C%E7%95%99%E5%A0%B4",
-     "首段": "唐凑停留场（），又称唐凑电车站（），是位于鹿儿岛县鹿儿岛市郡元一丁目，鹿儿岛市交通局（鹿儿岛市电）唐凑线的电车站。车站编号为N16。",
-     "章节": {
-      "历史": "1957年（昭和32年）3月29日 - 鹿儿岛市交通局设置此站。",
-      "电车站构造": "此电车站设有2面2线的相对式低地台月台。两月台不可让轮椅人士和电动轮椅人士上落。此站是无人车站，不可于站内购买车票。",
-      "运行系统": "此电车站是唐凑线电车站之一。2系统会驶入此站。",
-      "鹿儿岛市电2系统": "神田（交通局前）（N15）－唐凑（N16）－工学部前（N17）",
-      "相关条目": "日本铁路车站列表 To"
-     },
-     "全文": "唐凑停留场（），又称唐凑电车站（），是位于鹿儿岛县鹿儿岛市郡元一丁目，鹿儿岛市交通局（鹿儿岛市电）唐凑线的电车站。车站编号为N16。\n\n历史 \n1957年（昭和32年）3月29日 - 鹿儿岛市交通局设置此站。\n\n电车站构造 \n此电车站设有2面2线的相对式低地台月台。两月台不可让轮椅人士和电动轮椅人士上落。此站是无人车站，不可于站内购买车票。\n\n运行系统 \n此电车站是唐凑线电车站之一。2系统会驶入此站。\n\n使用状况\n\n电车站周边 \n鹿儿岛大学农学系、共同兽医系\n\n相邻电车站 \n 鹿儿岛市交通局\n 鹿儿岛市电2系统\n 神田（交通局前）（N15）－唐凑（N16）－工学部前（N17）\n\n注脚\n\n相关条目 \n 日本铁路车站列表 To\n\n外部连结 \n 鹿儿岛市交通局 \n\n鹿儿岛市铁路车站\nso\n1957年启用的铁路车站\n唐凑线车站",
-     "字数": 364,
-     "来源": "维基百科中文版（已转简体）"
-    },
-    "英文": {
-     "词条标题": "唐湊停留場",
-     "链接": "https://ja.wikipedia.org/wiki/%E5%94%90%E6%B9%8A%E5%81%9C%E7%95%99%E5%A0%B4",
-     "首段": "Toso Station (唐湊停留場) is a tram stop on the Kagoshima City Tram Toso Line located in Kōrimoto 1-chōme, Kagoshima, Kagoshima Prefecture. It is served only by Route 2.",
-     "章节": {
-      "History": "March 29, 1957 (Shōwa 32): established by the Kagoshima City Transportation Bureau.\nJanuary 1, 2023: a secondary name is added with Komaki Construction as the naming-rights partner, and the stop becomes \"Toso (in front of Komaki Construction)\".",
-      "Station layout": "Two opposed side platforms, one track each, at street level. Passengers can cross between the two platforms at any time unless a tram is passing through.\nWheelchair and motorized-wheelchair use is not permitted on either platform because the platform width does not meet the required standard.\nThe stop is unstaffed and no tickets are sold.\nPlatforms:\nRoute 2 — for Kōrimoto\nRoute 2 — for Kagoshima-Chūō-Ekimae, Tenmonkan and Kagoshima-Ekimae.",
-      "Route 2": "Kanda (Kōtsūkyoku-mae) Station — Toso Station — Kōgakubū-mae Station.",
-      "Railway stations in Kagoshima City": "Toso Station is one of the tram stops in Kagoshima City, Kagoshima Prefecture, Japan."
-     },
-     "全文": "Toso Station (唐湊停留場) is a tram stop on the Kagoshima City Tram Toso Line located in Kōrimoto 1-chōme, Kagoshima, Kagoshima Prefecture. It is served only by Route 2.\n\nHistory\nMarch 29, 1957 (Shōwa 32): established by the Kagoshima City Transportation Bureau.\nJanuary 1, 2023: a secondary name is added with Komaki Construction as the naming-rights partner, and the stop becomes \"Toso (in front of Komaki Construction)\".\n\nStation layout\nTwo opposed side platforms, one track each, at street level. Passengers can cross between the two platforms at any time unless a tram is passing through.\nWheelchair and motorized-wheelchair use is not permitted on either platform because the platform width does not meet the required standard.\nThe stop is unstaffed and no tickets are sold.\nPlatforms:\nRoute 2 — for Kōrimoto\nRoute 2 — for Kagoshima-Chūō-Ekimae, Tenmonkan and Kagoshima-Ekimae.\n\nRoute 2\nKanda (Kōtsūkyoku-mae) Station — Toso Station — Kōgakubū-mae Station.\n\nRailway stations in Kagoshima City\nToso Station is one of the tram stops in Kagoshima City, Kagoshima Prefecture, Japan.",
-     "字数": 1079
-    }
-   },
-   "结构化信息": {
-    "读音": "とそていりゅうじょう",
-    "罗马字": "Tosoteiryūjyō",
-    "开业年份": 1957,
-    "所属公司": [
-     "鹿児島市",
-     "鹿児島市交通局"
-    ],
-    "分类": [
-     "2系統 - 郡元方面",
-     "鹿児島市交通局",
-     "鹿児島市電2系統",
-     "日本の鉄道駅一覧",
-     "鹿児島市の鉄道駅",
-     "鹿児島市交通局の鉄道駅",
-     "1957年開業の鉄道駅"
-    ],
-    "章节目录": [
-     "歴史",
-     "構造",
-     "利用状況",
-     "周辺",
-     "隣の停留場"
-    ],
-    "相邻车站": null
-   }
-  },
-  {
-   "序号": 3,
-   "名称": {
-    "日文原名": "工学部前",
-    "词条": "工学部前停留場",
-    "中文": "工學部前停留場",
-    "英文": "Kogakubu-mae Stop"
-   },
-   "百科": {
-    "日文": {
-     "词条标题": "工学部前停留場",
-     "链接": "https://ja.wikipedia.org/wiki/%E5%B7%A5%E5%AD%A6%E9%83%A8%E5%89%8D%E5%81%9C%E7%95%99%E5%A0%B4",
-     "首段": "工学部前停留場（こうがくぶまえていりゅうじょう）は、鹿児島県鹿児島市郡元一丁目にある鹿児島市電唐湊線の停留場。使用する系統は鹿児島市電2系統のみである。",
-     "章节": {
-      "歴史": "1957年（昭和32年）3月29日：鹿児島市交通局により設置される。",
-      "構造": "2面2線の相対式ホーム。地上駅。両ホームとの行き来は電車が通過中でない限りいつでもできる。\n 両のりばとも車椅子及び電動車椅子の使用は、ホーム幅が規定に足りないため不可。\n 無人駅で、乗車券などの販売は行っていない。\n\nのりば \n 2系統 - 郡元方面\n 2系統 - 鹿児島中央駅前、天文館、鹿児島駅前方面",
-      "鹿児島市電2系統": "唐湊停留場 - 工学部前停留場 - 純心学園前停留場",
-      "鹿児島市の鉄道駅": "うかくふまえ"
-     },
-     "全文": "工学部前停留場（こうがくぶまえていりゅうじょう）は、鹿児島県鹿児島市郡元一丁目にある鹿児島市電唐湊線の停留場。使用する系統は鹿児島市電2系統のみである。\n\n歴史 \n 1957年（昭和32年）3月29日：鹿児島市交通局により設置される。\n\n構造 \n 2面2線の相対式ホーム。地上駅。両ホームとの行き来は電車が通過中でない限りいつでもできる。\n 両のりばとも車椅子及び電動車椅子の使用は、ホーム幅が規定に足りないため不可。\n 無人駅で、乗車券などの販売は行っていない。\n\nのりば \n 2系統 - 郡元方面\n 2系統 - 鹿児島中央駅前、天文館、鹿児島駅前方面\n\n利用状況\n\n周辺 \n 鹿児島大学工学部・理学部・法文学部・教育学部\n セイカ食品唐湊工場\n\n隣の停留場 \n鹿児島市交通局\n鹿児島市電2系統\n唐湊停留場 - 工学部前停留場 - 純心学園前停留場\n\n脚注\n\n関連項目 \n日本の鉄道駅一覧\n\n外部リンク \n 鹿児島市交通局\n\n鹿児島市の鉄道駅\nうかくふまえ\n鹿児島市交通局の鉄道駅\n1957年開業の鉄道駅",
-     "字数": 453
-    },
-    "中文": {
-     "词条标题": "工学部前停留场",
-     "链接": "https://zh.wikipedia.org/wiki/%E5%B7%A5%E5%AD%B8%E9%83%A8%E5%89%8D%E5%81%9C%E7%95%99%E5%A0%B4",
-     "首段": "工学部前停留场（），又称工学部前电车站（），是位于鹿儿岛县鹿儿岛市郡元一丁目，鹿儿岛市交通局（鹿儿岛市电）唐凑线的电车站。车站编号为N17。",
-     "章节": {
-      "历史": "1957年（昭和32年）3月29日 - 鹿儿岛市交通局设置此站。",
-      "电车站构造": "此电车站设有2面2线的相对式低地台月台。两月台不可让轮椅人士和电动轮椅人士上落。此站是无人车站，不可于站内购买车票。",
-      "运行系统": "此电车站是唐凑线电车站之一。2系统会驶入此站。",
-      "鹿儿岛大学工学系、理科系、法文学系、教育学系": "鹿儿岛大学前店 - 综合娱乐设施",
-      "鹿儿岛市电2系统": "唐凑（N16）－工学部前（N17）－纯心学园前（N18）",
-      "相关条目": "日本铁路车站列表 Ko"
-     },
-     "全文": "工学部前停留场（），又称工学部前电车站（），是位于鹿儿岛县鹿儿岛市郡元一丁目，鹿儿岛市交通局（鹿儿岛市电）唐凑线的电车站。车站编号为N17。\n\n历史 \n1957年（昭和32年）3月29日 - 鹿儿岛市交通局设置此站。\n\n电车站构造 \n此电车站设有2面2线的相对式低地台月台。两月台不可让轮椅人士和电动轮椅人士上落。此站是无人车站，不可于站内购买车票。\n\n运行系统 \n此电车站是唐凑线电车站之一。2系统会驶入此站。\n\n使用状况\n\n电车站周边 \n鹿儿岛大学工学系、理科系、法文学系、教育学系\n 鹿儿岛大学前店 - 综合娱乐设施\n\n相邻电车站 \n 鹿儿岛市交通局\n 鹿儿岛市电2系统\n 唐凑（N16）－工学部前（N17）－纯心学园前（N18）\n\n注脚\n\n相关条目 \n 日本铁路车站列表 Ko\n\n外部连结 \n 鹿儿岛市交通局 \n\n鹿儿岛市铁路车站\nugakubumae\n1957年启用的铁路车站\n唐凑线车站\n鹿儿岛大学",
-     "字数": 405,
-     "来源": "维基百科中文版（已转简体）"
-    },
-    "英文": {
-     "词条标题": "工学部前停留場",
-     "链接": "https://ja.wikipedia.org/wiki/%E5%B7%A5%E5%AD%A6%E9%83%A8%E5%89%8D%E5%81%9C%E7%95%99%E5%A0%B4",
-     "首段": "Kōgakubū-mae Station (工学部前停留場) is a tram stop on the Kagoshima City Tram Toso Line located in Kōrimoto 1-chōme, Kagoshima, Kagoshima Prefecture. It is served only by Route 2.",
-     "章节": {
-      "History": "March 29, 1957 (Shōwa 32): established by the Kagoshima City Transportation Bureau.",
-      "Station layout": "Two opposed side platforms, one track each, at street level. Passengers can cross between the two platforms at any time unless a tram is passing through.\nWheelchair and motorized-wheelchair use is not permitted on either platform because the platform width does not meet the required standard.\nThe stop is unstaffed and no tickets are sold.\nPlatforms:\nRoute 2 — for Kōrimoto\nRoute 2 — for Kagoshima-Chūō-Ekimae, Tenmonkan and Kagoshima-Ekimae.",
-      "Route 2": "Toso Station — Kōgakubū-mae Station — Junshin-Gakuen-mae Station.",
-      "Railway stations in Kagoshima City": "Kōgakubū-mae Station is one of the tram stops in Kagoshima City, Kagoshima Prefecture, Japan."
-     },
-     "全文": "Kōgakubū-mae Station (工学部前停留場) is a tram stop on the Kagoshima City Tram Toso Line located in Kōrimoto 1-chōme, Kagoshima, Kagoshima Prefecture. It is served only by Route 2.\n\nHistory\nMarch 29, 1957 (Shōwa 32): established by the Kagoshima City Transportation Bureau.\n\nStation layout\nTwo opposed side platforms, one track each, at street level. Passengers can cross between the two platforms at any time unless a tram is passing through.\nWheelchair and motorized-wheelchair use is not permitted on either platform because the platform width does not meet the required standard.\nThe stop is unstaffed and no tickets are sold.\nPlatforms:\nRoute 2 — for Kōrimoto\nRoute 2 — for Kagoshima-Chūō-Ekimae, Tenmonkan and Kagoshima-Ekimae.\n\nRoute 2\nToso Station — Kōgakubū-mae Station — Junshin-Gakuen-mae Station.\n\nRailway stations in Kagoshima City\nKōgakubū-mae Station is one of the tram stops in Kagoshima City, Kagoshima Prefecture, Japan.",
-     "字数": 932
-    }
-   },
-   "结构化信息": {
-    "读音": "こうがくぶまえていりゅうじょう",
-    "罗马字": "Kōgakubumaeteiryūjyō",
-    "开业年份": 1957,
-    "所属公司": [
-     "鹿児島市",
-     "鹿児島市交通局"
-    ],
-    "分类": [
-     "2系統 - 郡元方面",
-     "鹿児島市交通局",
-     "鹿児島市電2系統",
-     "日本の鉄道駅一覧",
-     "鹿児島市の鉄道駅",
-     "鹿児島市交通局の鉄道駅",
-     "1957年開業の鉄道駅"
-    ],
-    "章节目录": [
-     "歴史",
-     "構造",
-     "利用状況",
-     "周辺",
-     "隣の停留場",
-     "鹿児島市交通局",
-     "鹿児島市電2系統",
-     "うかくふまえ"
-    ],
-    "相邻车站": null
-   }
-  },
-  {
-   "序号": 4,
-   "名称": {
-    "日文原名": "神田",
-    "词条": "神田駅",
-    "中文": "神田站",
-    "英文": "Kanda Station"
-   },
-   "百科": {
-    "日文": {
-     "词条标题": "神田駅",
-     "链接": "https://ja.wikipedia.org/wiki/%E7%A5%9E%E7%94%B0%E9%A7%85",
-     "首段": "苅田駅（かんだえき） - 福岡県京都郡苅田町にあるJR九州 日豊本線の駅。",
-     "章节": {
-      "神田駅": "神田駅 (東京都) （かんだえき） - 東京都千代田区にある東日本旅客鉄道（JR東日本）東北本線（山手線・京浜東北線）・中央本線、東京メトロ銀座線の駅。\n 神田駅 (長崎県) （こうだえき） - 長崎県北松浦郡佐々町にある松浦鉄道西九州線の駅\n 神田停留場 （しんでんていりゅうじょう） - 鹿児島県鹿児島市にある鹿児島市電唐湊線の神田（交通局前）停留場の旧称。"
-     },
-     "全文": "神田駅\n\n 神田駅 (東京都) （かんだえき） - 東京都千代田区にある東日本旅客鉄道（JR東日本）東北本線（山手線・京浜東北線）・中央本線、東京メトロ銀座線の駅。\n 神田駅 (長崎県) （こうだえき） - 長崎県北松浦郡佐々町にある松浦鉄道西九州線の駅\n 神田停留場 （しんでんていりゅうじょう） - 鹿児島県鹿児島市にある鹿児島市電唐湊線の神田（交通局前）停留場の旧称。\n\n関連項目 \n 苅田駅（かんだえき） - 福岡県京都郡苅田町にあるJR九州 日豊本線の駅。\n\n同名の鉄道駅",
-     "字数": 241
-    },
-    "中文": {
-     "词条标题": "神田站",
-     "链接": "https://zh.wikipedia.org/wiki/%E7%A5%9E%E7%94%B0%E7%AB%99",
-     "首段": "神田站（かんだえき）是日本各地车站名称。",
-     "章节": {
-      "列表": "神田站 (东京都) - 位于东京都千代田区的东日本旅客铁道（JR东日本）东北本线（山手线·京滨东北线）·中央本线、东京地铁银座线车站。\n神田站 (长崎县) - 位于长崎县北松浦郡佐佐町的松浦铁道西九州线车站。\n神田停留场 - 位于鹿儿岛县鹿儿岛市的鹿儿岛市电唐凑线神田（交通局前）停留场的旧称。"
-     },
-     "全文": "神田站（かんだえき）是日本各地车站名称。\n\n列表\n神田站 (东京都) - 位于东京都千代田区的东日本旅客铁道（JR东日本）东北本线（山手线·京滨东北线）·中央本线、东京地铁银座线车站。\n神田站 (长崎县) - 位于长崎县北松浦郡佐佐町的松浦铁道西九州线车站。\n神田停留场 - 位于鹿儿岛县鹿儿岛市的鹿儿岛市电唐凑线神田（交通局前）停留场的旧称。",
-     "字数": 172,
-     "来源": "豆包全文翻译（据日文维基全文）"
-    },
-    "英文": {
-     "词条标题": "神田駅",
-     "链接": "https://ja.wikipedia.org/wiki/%E7%A5%9E%E7%94%B0%E9%A7%85",
-     "首段": "Kanda Station (神田駅) is a name shared by several railway stations in Japan; the entry below lists the similarly named stations.",
-     "章节": {
-      "Similarly named stations": "Kanda Station (Tokyo) — a station on the JR East Yamanote Line, Keihin-Tōhoku Line and Chūō Main Line, and the Tokyo Metro Ginza Line, located in Chiyoda, Tokyo.\nKōda Station (Nagasaki) — a station on the Matsuura Railway Nishi-Kyūshū Line in Saza, Kitamatsuura District, Nagasaki Prefecture.\nShinden Station — the former name of Kanda (Kōtsūkyoku-mae) Station on the Kagoshima City Tram Toso Line in Kagoshima City."
-     },
-     "全文": "Kanda Station (神田駅) is a name shared by several railway stations in Japan; the entry below lists the similarly named stations.\n\nSimilarly named stations\nKanda Station (Tokyo) — a station on the JR East Yamanote Line, Keihin-Tōhoku Line and Chūō Main Line, and the Tokyo Metro Ginza Line, located in Chiyoda, Tokyo.\nKōda Station (Nagasaki) — a station on the Matsuura Railway Nishi-Kyūshū Line in Saza, Kitamatsuura District, Nagasaki Prefecture.\nShinden Station — the former name of Kanda (Kōtsūkyoku-mae) Station on the Kagoshima City Tram Toso Line in Kagoshima City.",
-     "字数": 569
-    }
-   },
-   "结构化信息": {
-    "读音": null,
-    "罗马字": null,
-    "开业年份": null,
-    "所属公司": [
-     "同名"
-    ],
-    "分类": [
-     "同名の鉄道駅"
-    ],
-    "章节目录": [
-     "神田駅"
-    ],
-    "相邻车站": null
-   }
-  },
-  {
-   "序号": 5,
-   "名称": {
-    "日文原名": "純心学園前",
-    "词条": "純心学園前停留場",
-    "中文": "純心學園前停留場",
-    "英文": "Jushin Gakuen-mae Stop"
-   },
-   "百科": {
-    "日文": {
-     "词条标题": "純心学園前停留場",
-     "链接": "https://ja.wikipedia.org/wiki/%E7%B4%94%E5%BF%83%E5%AD%A6%E5%9C%92%E5%89%8D%E5%81%9C%E7%95%99%E5%A0%B4",
-     "首段": "純心学園前停留場（じゅんしんがくえんまえていりゅうじょう）は、鹿児島県鹿児島市郡元一丁目にある鹿児島市電唐湊線の停留場。使用する系統は鹿児島市電2系統のみである。",
-     "章节": {
-      "歴史": "1959年（昭和34年）12月20日：鹿児島市交通局により設置される。",
-      "構造": "2面2線の相対式ホーム。地上駅。両ホームとの行き来は電車が通過中でない限りいつでもできる。\n 両のりばとも車椅子及び電動車椅子の使用はホーム幅が規定に足りないため不可。\n 無人駅で、乗車券などの販売は行っていない。\n\nのりば \n 2系統 - 郡元方面\n 2系統 - 鹿児島中央駅前、天文館、鹿児島駅前方面",
-      "鹿児島大学教育学部附属中学校": "鹿児島純心女子学園（実際は丘の上に立地する）",
-      "鹿児島市電2系統": "工学部前停留場 - 純心学園前停留場 - 中郡停留場",
-      "鹿児島市の鉄道駅": "ゆんしんかくえんまえ"
-     },
-     "全文": "純心学園前停留場（じゅんしんがくえんまえていりゅうじょう）は、鹿児島県鹿児島市郡元一丁目にある鹿児島市電唐湊線の停留場。使用する系統は鹿児島市電2系統のみである。\n\n歴史 \n 1959年（昭和34年）12月20日：鹿児島市交通局により設置される。\n\n構造 \n 2面2線の相対式ホーム。地上駅。両ホームとの行き来は電車が通過中でない限りいつでもできる。\n 両のりばとも車椅子及び電動車椅子の使用はホーム幅が規定に足りないため不可。\n 無人駅で、乗車券などの販売は行っていない。\n\nのりば \n 2系統 - 郡元方面\n 2系統 - 鹿児島中央駅前、天文館、鹿児島駅前方面\n\n利用状況\n\n周辺 \n\n 鹿児島大学教育学部附属中学校\n 鹿児島純心女子学園（実際は丘の上に立地する）\n 鹿児島純心女子短期大学\n 鹿児島純心女子中学校・高等学校\n JR九州郡元駅\n\n隣の停留場 \n 鹿児島市交通局\n 鹿児島市電2系統\n 工学部前停留場 - 純心学園前停留場 - 中郡停留場\n\n脚注\n\n関連項目 \n日本の鉄道駅一覧\n\n外部リンク \n 鹿児島市交通局\n\n鹿児島市の鉄道駅\nゆんしんかくえんまえ\n鹿児島市交通局の鉄道駅\n1959年開業の鉄道駅",
-     "字数": 510
-    },
-    "中文": {
-     "词条标题": "纯心学园前停留场",
-     "链接": "https://zh.wikipedia.org/wiki/%E7%B4%94%E5%BF%83%E5%AD%B8%E5%9C%92%E5%89%8D%E5%81%9C%E7%95%99%E5%A0%B4",
-     "首段": "纯心学园前停留场（），又称纯心学园前电车站（），是位于鹿儿岛县鹿儿岛市郡元一丁目，鹿儿岛市交通局（鹿儿岛市电）唐凑线的电车站。车站编号为N18。",
-     "章节": {
-      "历史": "1959年（昭和34年）12月20日 - 鹿儿岛市交通局设置此站。",
-      "电车站构造": "此电车站设有2面2线的相对式低地台月台。两月台不可让轮椅人士和电动轮椅人士上落。此站是无人车站，不可于站内购买车票。",
-      "运行系统": "此电车站是唐凑线电车站之一。2系统会驶入此站。",
-      "鹿儿岛市电2系统": "工学部前（N17）－纯心学园前（N18）－中郡（N19）",
-      "相关条目": "日本铁路车站列表 Ji"
-     },
-     "全文": "纯心学园前停留场（），又称纯心学园前电车站（），是位于鹿儿岛县鹿儿岛市郡元一丁目，鹿儿岛市交通局（鹿儿岛市电）唐凑线的电车站。车站编号为N18。\n\n历史 \n1959年（昭和34年）12月20日 - 鹿儿岛市交通局设置此站。\n\n电车站构造 \n此电车站设有2面2线的相对式低地台月台。两月台不可让轮椅人士和电动轮椅人士上落。此站是无人车站，不可于站内购买车票。\n\n运行系统 \n此电车站是唐凑线电车站之一。2系统会驶入此站。\n\n使用状况\n\n电车站周边 \n\n鹿儿岛纯心女子短期大学\n\n郡元站\n\n相邻电车站 \n 鹿儿岛市交通局\n 鹿儿岛市电2系统\n 工学部前（N17）－纯心学园前（N18）－中郡（N19）\n\n注脚\n\n相关条目 \n 日本铁路车站列表 Ji\n\n外部连结 \n 鹿儿岛市交通局 \n\n鹿儿岛市铁路车站\nnshingakuenmae\n1959年启用的铁路车站\n唐凑线车站",
-     "字数": 383,
-     "来源": "维基百科中文版（已转简体）"
-    },
-    "英文": {
-     "词条标题": "純心学園前停留場",
-     "链接": "https://ja.wikipedia.org/wiki/%E7%B4%94%E5%BF%83%E5%AD%A6%E5%9C%92%E5%89%8D%E5%81%9C%E7%95%99%E5%A0%B4",
-     "首段": "Junshin-Gakuen-mae Station (純心学園前停留場) is a tram stop on the Kagoshima City Tram Toso Line located in Kōrimoto 1-chōme, Kagoshima, Kagoshima Prefecture. It is served only by Route 2.",
-     "章节": {
-      "History": "December 20, 1959 (Shōwa 34): established by the Kagoshima City Transportation Bureau.",
-      "Station layout": "Two opposed side platforms, one track each, at street level. Passengers can cross between the two platforms at any time unless a tram is passing through.\nWheelchair and motorized-wheelchair use is not permitted on either platform because the platform width does not meet the required standard.\nThe stop is unstaffed and no tickets are sold.\nPlatforms:\nRoute 2 — for Kōrimoto\nRoute 2 — for Kagoshima-Chūō-Ekimae, Tenmonkan and Kagoshima-Ekimae.",
-      "Surrounding area": "Kagoshima Junshin Girls’ Gakuen (actually located on a hill above the stop).",
-      "Route 2": "Kōgakubū-mae Station — Junshin-Gakuen-mae Station — Chūgun Station.",
-      "Railway stations in Kagoshima City": "Junshin-Gakuen-mae Station is one of the tram stops in Kagoshima City, Kagoshima Prefecture, Japan."
-     },
-     "全文": "Junshin-Gakuen-mae Station (純心学園前停留場) is a tram stop on the Kagoshima City Tram Toso Line located in Kōrimoto 1-chōme, Kagoshima, Kagoshima Prefecture. It is served only by Route 2.\n\nHistory\nDecember 20, 1959 (Shōwa 34): established by the Kagoshima City Transportation Bureau.\n\nStation layout\nTwo opposed side platforms, one track each, at street level. Passengers can cross between the two platforms at any time unless a tram is passing through.\nWheelchair and motorized-wheelchair use is not permitted on either platform because the platform width does not meet the required standard.\nThe stop is unstaffed and no tickets are sold.\nPlatforms:\nRoute 2 — for Kōrimoto\nRoute 2 — for Kagoshima-Chūō-Ekimae, Tenmonkan and Kagoshima-Ekimae.\n\nSurrounding area\nKagoshima Junshin Girls’ Gakuen (actually located on a hill above the stop).\n\nRoute 2\nKōgakubū-mae Station — Junshin-Gakuen-mae Station — Chūgun Station.\n\nRailway stations in Kagoshima City\nJunshin-Gakuen-mae Station is one of the tram stops in Kagoshima City, Kagoshima Prefecture, Japan.",
-     "字数": 1045
-    }
-   },
-   "结构化信息": {
-    "读音": "じゅんしんがくえんまえていりゅうじょう",
-    "罗马字": "Jyunshingakuenmaeteiryūjyō",
-    "开业年份": 1959,
-    "所属公司": [
-     "鹿児島市",
-     "鹿児島市交通局"
-    ],
-    "分类": [
-     "2系統 - 郡元方面",
-     "JR九州郡元駅",
-     "鹿児島市交通局",
-     "鹿児島市電2系統",
-     "工学部前停留場 - 純心学園前停留場 - 中郡停留場",
-     "日本の鉄道駅一覧",
-     "鹿児島市の鉄道駅",
-     "鹿児島市交通局の鉄道駅",
-     "1959年開業の鉄道駅"
-    ],
-    "章节目录": [
-     "歴史",
-     "構造",
-     "利用状況",
-     "周辺",
-     "隣の停留場",
-     "ゆんしんかくえんまえ"
-    ],
-    "相邻车站": null
-   }
-  },
-  {
-   "序号": 6,
-   "名称": {
-    "日文原名": "郡元",
-    "词条": "郡元駅",
-    "中文": "郡元站",
-    "英文": "Kōrimoto Station"
-   },
-   "百科": {
-    "日文": {
-     "词条标题": "郡元駅",
-     "链接": "https://ja.wikipedia.org/wiki/%E9%83%A1%E5%85%83%E9%A7%85",
-     "首段": "郡元駅（こおりもとえき）は、鹿児島県鹿児島市唐湊四丁目にある、九州旅客鉄道（JR九州）指宿枕崎線の駅である。",
-     "章节": {
-      "歴史": "1986年（昭和61年）12月1日：日本国有鉄道の駅として開業。駅員無配置駅。\n 1987年（昭和62年）4月1日：国鉄分割民営化に伴い、九州旅客鉄道（JR九州）の駅となる。\n 1990年（平成2年）3月：ダイヤ改正に合わせ、ホーム有効長を90mから112mに延伸。\n 2012年（平成24年）12月1日：ICカード「SUGOCA」の利用が可能となる。\n 2020年（令和2年）5月30日：駅遠隔案内システム（Smart Support Station）「ANSWER」の導入に伴い無人化。",
-      "駅構造": "単式ホーム1面1線を持つ地上駅。かつては有人駅であったが、2020年5月30日より駅遠隔案内システム（Smart Support Station）「ANSWER」の導入に伴い再度無人化された。\n\nIC乗車カード「SUGOCA」の利用が可能で（相互利用可能ICカードはSUGOCAの項を参照）、簡易SUGOCA改札機が設置されている。SUGOCAの販売は行なっていない。\n\n簡易自動券売機（ICカード非対応）、ICカードチャージ機が設置されている。\n\nのりば",
-      "利用状況": "2020年（令和2年）度の1日平均の乗車人員は889人である。",
-      "駅周辺": "周辺は「中郡」（なかごおり）と呼ばれ、鹿児島大学や附属小学校、附属中学校、専門学校等が集まる文教エリアである。また鹿児島中央駅と当駅の間に鹿児島車両センターがあることにより当駅まで引込線があり、付近には食品やリネン関係の工場や倉庫等もある。\n\n背後の丘陵部にある地区は、傾斜地にもかかわらず古くから住宅が建ち並び市街地化した。坂道が多い庶民的な住宅地である。",
-      "備考": "鹿児島市電の郡元電停とは直線距離で700ｍ程離れている。郡元地区は広いエリアを持っており、当駅（JR郡元）は唐湊地区、市電電停は港湾エリアに隣接した鴨池地区であり、当駅最寄りの電停は純心学園前電停である。",
-      "隣の駅": "九州旅客鉄道（JR九州）",
-      "快速「なのはな」・普通": "鹿児島中央駅 - 郡元駅 - 南鹿児島駅",
-      "鹿児島市の鉄道駅": "おりもと"
-     },
-     "全文": "郡元駅（こおりもとえき）は、鹿児島県鹿児島市唐湊四丁目にある、九州旅客鉄道（JR九州）指宿枕崎線の駅である。\n\n歴史 \n 1986年（昭和61年）12月1日：日本国有鉄道の駅として開業。駅員無配置駅。\n 1987年（昭和62年）4月1日：国鉄分割民営化に伴い、九州旅客鉄道（JR九州）の駅となる。\n 1990年（平成2年）3月：ダイヤ改正に合わせ、ホーム有効長を90mから112mに延伸。\n 2012年（平成24年）12月1日：ICカード「SUGOCA」の利用が可能となる。\n 2020年（令和2年）5月30日：駅遠隔案内システム（Smart Support Station）「ANSWER」の導入に伴い無人化。\n\n駅構造 \n単式ホーム1面1線を持つ地上駅。かつては有人駅であったが、2020年5月30日より駅遠隔案内システム（Smart Support Station）「ANSWER」の導入に伴い再度無人化された。\n\nIC乗車カード「SUGOCA」の利用が可能で（相互利用可能ICカードはSUGOCAの項を参照）、簡易SUGOCA改札機が設置されている。SUGOCAの販売は行なっていない。\n\n簡易自動券売機（ICカード非対応）、ICカードチャージ機が設置されている。\n\nのりば\n\n利用状況 \n2020年（令和2年）度の1日平均の乗車人員は889人である。\n\n駅周辺 \n周辺は「中郡」（なかごおり）と呼ばれ、鹿児島大学や附属小学校、附属中学校、専門学校等が集まる文教エリアである。また鹿児島中央駅と当駅の間に鹿児島車両センターがあることにより当駅まで引込線があり、付近には食品やリネン関係の工場や倉庫等もある。\n\n背後の丘陵部にある地区は、傾斜地にもかかわらず古くから住宅が建ち並び市街地化した。坂道が多い庶民的な住宅地である。\n\n 備考\n鹿児島市電の郡元電停とは直線距離で700ｍ程離れている。郡元地区は広いエリアを持っており、当駅（JR郡元）は唐湊地区、市電電停は港湾エリアに隣接した鴨池地区であり、当駅最寄りの電停は純心学園前電停である。\n\n隣の駅 \n 九州旅客鉄道（JR九州）\n 指宿枕崎線\n 快速「なのはな」・普通\n 鹿児島中央駅 - 郡元駅 - 南鹿児島駅\n\n脚注\n\n関連項目 \n\n 日本の鉄道駅一覧\n 日本の同一駅名・同一市町村で所在地が異なる駅の一覧\n\n外部リンク \n \n\n鹿児島市の鉄道駅\nおりもと\n九州旅客鉄道の鉄道駅\n日本国有鉄道の鉄道駅\n1986年開業の鉄道駅",
-     "字数": 1044
-    },
-    "中文": {
-     "词条标题": "郡元站",
-     "链接": "https://zh.wikipedia.org/wiki/%E9%83%A1%E5%85%83%E7%AB%99",
-     "首段": "郡元站（）是位于日本鹿儿岛县鹿儿岛市唐凑4丁目的九州旅客铁道指宿枕崎线车站。",
-     "章节": {
-      "JR九州鹿儿岛综合车厂": "日本烟草产业鹿儿岛工场旧地：预定迁移到鹿儿岛市立病院附近。",
-      "鹿儿岛纯心女子短期大学、高等学校、中学": "鹿儿岛市立中郡小学。",
-      "鹿儿岛市交通局纯心学园前站": "JJ-club100鹿儿岛店：综合娱乐设施\nW LIVE（食品超市）",
-      "历史": "1986年（昭和61年）12月1日 - 开业。\n2005年（平成17年）10月1日 - 由无人站改为有人站。",
-      "株式会社Kakuiix工厂": "Seika 食品工场",
-      "鹿儿岛市的铁路车站": "Oromoto"
-     },
-     "全文": "郡元站（）是位于日本鹿儿岛县鹿儿岛市唐凑4丁目的九州旅客铁道指宿枕崎线车站。\n\nJR九州鹿儿岛综合车厂\n日本烟草产业鹿儿岛工场旧地：预定迁移到鹿儿岛市立病院附近。\n\n鹿儿岛纯心女子短期大学、高等学校、中学\n鹿儿岛市立中郡小学。\n\n鹿儿岛市交通局纯心学园前站\nJJ-club100鹿儿岛店：综合娱乐设施\nW LIVE（食品超市）\n\n历史\n1986年（昭和61年）12月1日 - 开业。\n2005年（平成17年）10月1日 - 由无人站改为有人站。\n\n株式会社Kakuiix工厂\nSeika 食品工场\n\n鹿儿岛市的铁路车站\nOromoto",
-     "字数": 267,
-     "来源": "维基百科中文版（已转简体）"
-    },
-    "英文": {
-     "词条标题": "Kōrimoto Station",
-     "链接": "https://en.wikipedia.org/wiki/K%C5%8Drimoto%20Station",
-     "首段": "Kōrimoto Station (郡元駅) is a railway station on the JR Kyushu Ibusuki-Makurazaki Line located in Toso 4-chōme, Kagoshima, Kagoshima Prefecture, Japan.",
-     "章节": {
-      "History": "December 1, 1986 (Shōwa 61): opens as a JNR station, unstaffed.\nApril 1, 1987 (Shōwa 62): following the privatization of JNR, the station comes under the control of JR Kyushu.\nMarch 1990 (Heisei 2): platform effective length is extended from 90 m to 112 m to match the timetable revision.\nDecember 1, 2012 (Heisei 24): IC card \"SUGOCA\" becomes usable.\nMay 30, 2020 (Reiwa 2): remote station guidance is introduced.",
-      "Station layout": "An at-grade station with one side platform serving a single track. It was formerly staffed, but from May 30, 2020 it became unstaffed again following the introduction of the remote guidance system (Smart Support Station) \"ANSWER\".\nThe IC card \"SUGOCA\" is usable (see the SUGOCA article for mutually compatible cards), and a simple SUGOCA gate reader is installed; SUGOCA cards are not sold at the station. A simple automatic ticket vending machine (not IC-compatible) is also provided.",
-      "Usage": "In fiscal 2020 (Reiwa 2), the average daily boarding passengers numbered 889.",
-      "Surrounding area": "The surrounding district is known as \"Nakagōri\" and is an education area clustered with Kagoshima University and its attached elementary and junior high schools, and various vocational schools. The Kagoshima Rolling Stock Center lies between Kagoshima-Chūō Station and this station, giving rise to a siding that reaches this station; factories and warehouses related to food and linen are also found nearby.\nThe hilly area behind the station has long been built up with houses on the slopes, forming a residential area of many slopes and a everyday atmosphere.",
-      "Notes": "The station is about 700 m in a straight line from the Kōrimoto tram stop on the Kagoshima City Tram. The Kōrimoto district covers a wide area; this JR station lies in the Toso district, while the tram stop is in the Kamoike district next to the port area. The tram stop nearest to this station is Junshin-Gakuen-mae.",
-      "Adjacent stations": "Kyushu Railway Company (JR Kyushu).",
-      "Rapid Nanohana / Local": "Kagoshima-Chūō Station — Kōrimoto Station — Minami-Kagoshima Station.",
-      "Railway stations in Kagoshima City": "Kōrimoto Station is one of the railway stations in Kagoshima City, Kagoshima Prefecture, Japan."
-     },
-     "全文": "Kōrimoto Station (郡元駅) is a railway station on the JR Kyushu Ibusuki-Makurazaki Line located in Toso 4-chōme, Kagoshima, Kagoshima Prefecture, Japan.\n\nHistory\nDecember 1, 1986 (Shōwa 61): opens as a JNR station, unstaffed.\nApril 1, 1987 (Shōwa 62): following the privatization of JNR, the station comes under the control of JR Kyushu.\nMarch 1990 (Heisei 2): platform effective length is extended from 90 m to 112 m to match the timetable revision.\nDecember 1, 2012 (Heisei 24): IC card \"SUGOCA\" becomes usable.\nMay 30, 2020 (Reiwa 2): remote station guidance is introduced.\n\nStation layout\nAn at-grade station with one side platform serving a single track. It was formerly staffed, but from May 30, 2020 it became unstaffed again following the introduction of the remote guidance system (Smart Support Station) \"ANSWER\".\nThe IC card \"SUGOCA\" is usable (see the SUGOCA article for mutually compatible cards), and a simple SUGOCA gate reader is installed; SUGOCA cards are not sold at the station. A simple automatic ticket vending machine (not IC-compatible) is also provided.\n\nUsage\nIn fiscal 2020 (Reiwa 2), the average daily boarding passengers numbered 889.\n\nSurrounding area\nThe surrounding district is known as \"Nakagōri\" and is an education area clustered with Kagoshima University and its attached elementary and junior high schools, and various vocational schools. The Kagoshima Rolling Stock Center lies between Kagoshima-Chūō Station and this station, giving rise to a siding that reaches this station; factories and warehouses related to food and linen are also found nearby.\nThe hilly area behind the station has long been built up with houses on the slopes, forming a residential area of many slopes and a everyday atmosphere.\n\nNotes\nThe station is about 700 m in a straight line from the Kōrimoto tram stop on the Kagoshima City Tram. The Kōrimoto district covers a wide area; this JR station lies in the Toso district, while the tram stop is in the Kamoike district next to the port area. The tram stop nearest to this station is Junshin-Gakuen-mae.\n\nAdjacent stations\nKyushu Railway Company (JR Kyushu).\n\nRapid Nanohana / Local\nKagoshima-Chūō Station — Kōrimoto Station — Minami-Kagoshima Station.\n\nRailway stations in Kagoshima City\nKōrimoto Station is one of the railway stations in Kagoshima City, Kagoshima Prefecture, Japan.",
-     "字数": 2345
-    }
-   },
-   "结构化信息": {
-    "读音": "こおりもとえき",
-    "罗马字": "Kōrimoto",
-    "开业年份": 1986,
-    "所属公司": [
-     "鹿児島市",
-     "九州旅客鉄道",
-     "日本国有鉄道"
-    ],
-    "分类": [
-     "鹿児島中央駅 - 郡元駅 - 南鹿児島駅",
-     "日本の鉄道駅一覧",
-     "日本の同一駅名・同一市町村で所在地が異なる駅の一覧",
-     "鹿児島市の鉄道駅",
-     "九州旅客鉄道の鉄道駅",
-     "日本国有鉄道の鉄道駅",
-     "1986年開業の鉄道駅"
-    ],
-    "章节目录": [
-     "歴史",
-     "駅構造",
-     "利用状況",
-     "駅周辺",
-     "隣の駅",
-     "おりもと"
-    ],
-    "相邻车站": "九州旅客鉄道（JR九州）\n 指宿枕崎線\n 快速「なのはな」・普通\n 鹿児島中央駅 - 郡元駅 - 南鹿児島駅"
-   }
-  }
- ],
- "统计": {
-  "车站总数": 6,
-  "有日文词条": 6,
-  "有中文词条": 6,
-  "已千问汉化": 0,
-  "待汉化": 0,
-  "有英文词条": 6
- }
 }
