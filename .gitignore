@@ -1,0 +1,9 @@
+.eki_token
+.git-cred-eki
+.translate_progress.log
+.translate_state.json
+__pycache__/
+_inspect*.py
+*.pyc
+fix_pollution.py
+fix_keys_manual.py
