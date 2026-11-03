@@ -34,7 +34,9 @@
     "字数": 5696
    },
    "中文": {
-    "来源": "⚠️ 暂未汉化"
+    "来源": "⚠️ 暂未汉化",
+    "全文": "",
+    "字数": 0
    },
    "英文": {
     "词条标题": "Chikuhō Electric Railway Line",
@@ -42,19 +44,19 @@
     "首段": "The Chikuho Electric Railway Line is a railway line operated by the Chikuho Electric Railway, connecting Kurosaki-ekimae Station in Yahata-Nishi Ward, Kitakyushu City, Fukuoka Prefecture, with Chikuho-Nogata Station in Nogata City, Fukuoka Prefecture. It has no route symbol. Although \"Chikuho Electric Railway Line\" is the name used for guidance, it is not listed in the *Railway Handbook* and no official route name has been established.\n\nWhile the line uses tram-type vehicles, it is entirely classified as a \"railway\" under the Railway Business Act. Until February 2015, on the section between Kurosaki-ekimae and Chikuho-Nogata, the Chikuho Electric Railway was a Type 2 railway operator and Nishitetsu (hereinafter referred to as \"Nishi-Tetsu\") was a Type 3 railway operator for the segment between Kurosaki-ekimae and Kumaniishi. This segment was originally part of the Nishitetsu Kitakyushu Line, with the Chikuho Electric Railway operating services on it. However, when Nishi-Tetsu discontinued the Kumaniishi-Orio section of the Kitakyushu Line in 2000, the remaining segment was reclassified from a trackway under the Trackway Act to a railway under the Railway Business Act. On March 1, 2015, following a corporate split from Nishi-Tetsu, the section officially became an asset of the Chikuho Electric Railway, and Nishi-Tetsu's Type 3 railway operations were discontinued.\n\nThe Light Rail Transit Association (LRTA), a third-party organization in the United Kingdom that compiles information on light rail and similar systems, classifies this line as a railway equivalent to light rail.\n\n*Marugoto Nishitetsu Burari Ensen no Tabi* (A Leisurely Journey Along the Nishitetsu Lines), Kawaide Shobo Shinsha, 2006, ISBN 4309224563.",
     "章节": {
      "路線データ": "路線距離（営業キロ）：16.0km\n 軌間：1435mm\n 駅数：21駅\n 複線区間：全線複線\n 電化区間：全線（直流600V）\n 閉塞方式：自動閉塞式\n最高速度：60km/h",
-     "活性化策": "大手私鉄の完全子会社の路線であるため、これまで目立った公的支援は受けていなかったが、乗客減が続いていることから、沿線の北九州市・中間市・直方市は2014年度から当路線の維持と活性化に関する複数の支援を行うことになった。\n\n三市合同で新型車両やICカードシステムの導入などの設備投資に対する支援事業を2017年度まで行うほか、直方市は直方駅周辺の市街地整備事業を2013年度に終えたことを受け、当路線を筑豊直方駅からJR直方駅付近まで延伸することについてその可否を調査するための予算を計上。同年6月より毎月一度会社側と市及び福岡県の三者による会合を開き、需要の見通しやルートなどを検討している。",
-     "駅一覧": "全駅福岡県内に所在。",
+     "活性化策": "As a line operated by a wholly owned subsidiary of a major private railway company, it had not previously received significant public support. However, due to a continuing decline in passenger numbers, the cities of Kitakyushu, Nakama, and Naoetsu along the line decided to provide multiple forms of support for the line's maintenance and revitalization starting in fiscal year 2014.\n\nIn addition to a support program for capital investments, such as the introduction of new rolling stock and an IC card system, jointly run by the three cities until fiscal year 2017, Naoetsu City, having completed its urban development project around Naoetsu Station in fiscal year 2013, allocated a budget to investigate the feasibility of extending the line from Chikuho-Naoetsu Station to the vicinity of JR Naoetsu Station. Since June of the same year, the company, the city, and Fukuoka Prefecture have been holding trilateral meetings once a month to discuss projected demand, potential routes, and other matters.",
+     "駅一覧": "All stations are located within Fukuoka Prefecture.",
      "九州電気軌道による計画": "九州電気軌道では1911年（明治44年）から1914年（大正3年）の間にのちの西鉄北九州線にあたる門司 - 折尾間を開業したのち、1919年（大正8年）12月18日に折尾 - 福岡間47.27kmの軌道敷設特許を取得。「九軌福岡急行電車」と名付けられた。1924年（大正13年）には門司 - 熊手間の軌道敷設特許を取得している。\n\n1928年（昭和3年）には福岡市に建設部を設置した。1929年（昭和4年）には折尾 - 福岡間の計画を熊手 - 福岡間、城山峠経由を唐津街道、古門往還（通称「殿様通」）経由に変更し（これにより計画距離が0.9km延長）、1931年（昭和6年）に工区を3つに分け宮司 - 吉塚間から着工している。\n\nしかし、同じ1931年には九州電気軌道前社長の松本枩蔵による不正手形事件が発覚し、事件は処理されたものの、九州電気軌道は415万円に及ぶ債務を負うこととなった。このため日本興業銀行から特別融資を受け償還したが、その特別融資の条件として工事の即時中断を余儀なくされ、1933年（昭和8年）9月21日付で門司 - 熊手間の特許を返納し、折尾 - 福岡間の起業廃止を実施した。",
      "西鉄による計画": "5社合併で成立した西鉄は、1943年（昭和18年）、黒崎 - 福岡間の鉄道敷設を出願した（計画は博多湾鉄道汽船時代のものと同じ）が、太平洋戦争の戦局悪化により却下された。戦後の1946年（昭和21年）に西鉄が「筑豊電気鉄道」の名で再び黒崎 - 福岡間の鉄道敷設を出願したが、これも却下された。\n\nその後、西鉄では1949年（昭和24年）に三たび黒崎 - 福岡間の鉄道敷設を出願し、1年後の翌1950年（昭和25年）12月23日付で地方鉄道敷設免許（鉄監第2043号）を取得、1951年（昭和26年）2月15日 に黒崎 - 福岡間の運営会社として筑豊電気鉄道を設立した。\n\n1954年（昭和29年）に計画を一部修正し、八木山に4.5kmのトンネル、遠賀川に360mの橋梁を架ける方針に変更。黒崎 - 直方16.3km、直方 - 飯塚13.6km、飯塚 - 福岡27.5kmの3つの工区に分け、第1工区として黒崎 - 直方間の工事に着手。しかし、実際には黒崎ではなく、貞元（現在の熊西）から直方へ向けて工事が始まり、1956年（昭和31年）3月21日に貞元 - 筑豊中間間が開業した。",
      "歴史": "北九州市（黒崎）から筑豊を経て福岡市へ至る鉄道として西鉄により計画された。\n\n西鉄の直接の前身である九州電気軌道では大正時代に北九州と福岡市を結ぶ鉄道路線を計画したほか、西鉄の前身会社の一つである博多湾鉄道汽船でも北九州 - 福岡間の鉄道を計画し、1942年（昭和17年）の5社合併後の西鉄も同様の計画を出願したが、いずれも実現せずに終わった。\n\nその後、1950年（昭和25年）12月にようやく北九州 - 福岡間（筑豊経由）の免許を取得して着工し、1959年（昭和34年）に筑豊直方駅まで達したが、以西は八木山峠がネックになった。自社単独でトンネルを掘るほどの資金力が無かったため着工に至らず、1971年（昭和46年）に直方 - 飯塚 - 福岡市新堀町間の免許を失効した。なお、1968年（昭和43年）に当時の国鉄により開業した篠栗線は、西鉄が計画していたルートとほぼ同じルートで建設された。現在、筑豊と福岡を結ぶ役割は福北ゆたか線（JR筑豊本線・篠栗線）が担っている。\n\nまた、貞元駅（現・熊西駅）から黒崎駅までの区間も西鉄北九州線とは別に独自の路線を建設する予定であったが、これも実現せず1974年（昭和49年）に免許が失効している。\n\n西鉄および前身各社による北九州 - 福岡間鉄道路線の計画",
-     "「○○電停」と表記される交差点": "穴生電停、森下電停、今池電停、永犬丸電停、東中間電停口、香月電停",
-     "備考": "筑豊直方駅は筑豊本線（福北ゆたか線）・平成筑豊鉄道伊田線直方駅とは離れた場所にあり、徒歩で10分ほどかかる。\n かつて直方地区で「電車」と言った場合、筑豊電鉄のことを指していた。これは、筑豊本線が2001年10月6日に直方地区を含む折尾駅 - 桂川駅間が電化されるまで長らく非電化だったからである。\n 駅の列車接近メロディとしてパナソニック電工製のメロディサインが採用されている。2種類あるうちの1つはファミリーマートと同じもので音程や早さが多少異なる。\n 黒崎駅前駅 - 西黒崎駅間は0.2kmであり、この駅間距離は松浦鉄道西九州線佐世保中央駅 - 中佐世保駅間と並んで鉄道線としては日本最短である。\n 筑豊電気鉄道線の駅は、西鉄北九州線に倣い「電停」と呼ばれることがある。公式には「駅」であるが、主に交差点・信号機名称では「電停」と表示され、グループ内の西鉄バスにおいても「筑鉄○○」「○○電停」という停留所名が混在している。",
+     "備考": "Chikuhō Naogata Station is located some distance from Naogata Station on the Chikuhō Main Line (Fukuhoku Yutaka Line) and the Heisei Chikuhō Railway Ita Line, requiring about a 10-minute walk.\nIn the past, when people in the Naogata area referred to \"densha\" (trains), they were typically talking about the Chikuhō Electric Railway. This was because the Chikuhō Main Line remained non-electrified for a long time until the section between Orio Station and Katsuragawa Station, including the Naogata area, was electrified on October 6, 2001.\nThe station uses a melody sign manufactured by Panasonic Electric Works as its train arrival melody. One of the two available melodies is the same as that of FamilyMart, though with slight differences in pitch and tempo.\nThe distance between Kurosakiekimae Station and Nishi-Kurosaki Station is 0.2 km, making this one of the shortest interstation distances in Japan, on par with the section between Sasebo Chūō Station and Naka-Sasebo Station on the Matsuura Railway's Nishi Kyushu Line.\nStations on the Chikuhō Electric Railway Line are sometimes called \"denttei\" (electric tram stops), following the example of the Nishitetsu Kitakyushu Line. Although officially designated as \"ekis\" (stations), the term \"denttei\" is primarily used in the names of intersections and traffic lights. Within the group's Nishitetsu Bus services, stop names also mix \"Chikutei ○○\" and \"○○ Denttei.\"",
      "運行形態": "平日・土曜の昼間時間帯は、黒崎駅前 - 筑豊直方間の全線通し列車と黒崎駅前 - 筑豊中間間の区間列車が15分間隔で交互に運転されている。また休日においては全線通し列車のみ20分間隔で運行されているため、筑豊中間 - 筑豊直方間の昼間は休日のほうが運転本数が多くなっている。\n\n平日朝のラッシュ時間帯は、全線通し列車と黒崎駅前 - 筑豊中間・楠橋間の区間列車が5 - 10分間隔でほぼ交互に、平日夕方のラッシュ時間帯は、全線通し列車と黒崎駅前 - 楠橋間の区間列車が7 - 10分間隔で交互に運転されている。また、早朝・深夜には車庫への出入庫を兼ねた楠橋 - 筑豊直方間の区間列車がある。\n\n従来すべての列車に車掌が乗務してきたが、2016年3月12日のダイヤ改正より朝・夕方ラッシュ時以外の時間帯で 3000形と5000形電車による列車を対象にワンマン運転が開始されている。なお、誤乗防止のため3000形電車のみ方向幕をカラーに更新している。\n\n昭和末期は日中楠橋発着と直方発着が約14分ずつ交互に、ラッシュ時にはこれ以外に三ヶ森・中間・楠橋発着と西鉄北九州線（1985年頃以降は八幡駅前まで、それ以前は幸町・砂津方面など）への直通列車が運行された。三ヶ森 - 黒崎車庫前間は概ね2分間隔で運行されていた。ただし、線路容量や車両運用の関係で筑鉄の車両の列車はひとつ手前の黒崎車庫前を終点とするものも約半数あった。1990年以降はサンリブ木屋瀬の開店による増客策で日中7 - 8分間隔の全線通し運転を基本としていたが、ダイヤ改正の度に減便しており特に筑豊中間以南では2012年以降、大幅な減便傾向にある。\n\nまた線内では営業車がすべて各駅に停車するため、設備面から通過運転が行えない。回送や非営業車であってもすべての駅に運転停車する。乗務員が直接乗り込もうとする乗客に対し、回送なので乗車ができない旨を案内している。",
      "博多湾鉄道汽船による計画": "九州電気軌道の子会社である九州土地興業では、九州電気軌道が福岡延長のため取得していた92,446坪の土地を1937年（昭和12年）5月29日に博多湾鉄道汽船に譲渡した。\n\n土地を譲り受けた博多湾鉄道汽船は1924年（大正13年）から1925年（大正14年）にかけ新博多（のちの千鳥橋） - 宮地岳間（通称「貝塚線」、現・西鉄貝塚線）を開業させていたため、この路線の延伸計画として「福門連絡鉄道」の名で宮地岳 - 折尾間の鉄道敷設免許を出願した。この際当時社長であった太田清蔵貴族院議員がその資金を得るため同社所有の粕屋線（現・JR九州香椎線）を鉄道省へ売却する要請を出したが、この時鉄道大臣だった小川平吉に賄賂を贈ったことが後に明るみに出て（いわゆる五私鉄疑獄事件）会社の信頼は一気に失墜する。さらに、1937年7月に日中戦争が勃発したことで臨時資金調整法が施行され、鉄道敷設のための資金調達はいよいよ困難となった。ちなみに計画では宮地岳より見坂峠、三郡山地を越えて飯塚へ出るルートであったが、九州電気軌道の計画ではこのルートの東側を並行する形であった。\n\nその後、1941年（昭和16年）10月に「筑豊電気鉄道」の名で黒崎 - 福岡間59.6kmの鉄道敷設を出願したが、翌年戦時体制（陸上交通事業調整法）に対応するため博多湾鉄道汽船、前述の九州電気軌道など計5社が合併、西鉄が成立した時に、鉄道省より前身会社からの線路延長事業の見直しを指導され、鉄道敷設申請書の返付を受けたため実現せずに終わった。見直しを指導された区間はこの区間のほか、小倉 - 行橋間（新設）、土井 - 新飯塚間（新設）、雑餉隈 - 博多間（雑餉隈線）、大牟田 - 熊本間（大牟田線延伸計画）があったが、いずれも実現せずに終わっている。",
-     "開業後": "1956年（昭和31年）\n3月21日 貞元（現:熊西） - 筑豊中間間が開業。西鉄北九州線の電車が乗り入れ。\n10月15日 森下駅、東中間駅開業。\n1957年（昭和32年）4月26日 三ヶ森駅開業。\n1958年（昭和33年）4月29日 筑豊中間 - 木屋瀬間が開業。\n1959年（昭和34年）9月18日 木屋瀬 - 筑豊直方間が開業（第1工区竣工）。\n1963年（昭和38年）8月25日 萩原駅開業。\n1964年（昭和39年）12月27日 通谷駅開業。\n1965年（昭和40年）12月24日 西山駅開業。\n1968年（昭和43年）7月 貞元 - 筑豊直方間地方鉄道貨物運輸営業廃止。貞元駅を熊西駅に改称。\n1970年（昭和45年）12月20日 今池駅開業。\n1971年（昭和46年）7月 未成線の筑豊直方 - 福岡間（第2工区、第3工区）について地方鉄道運輸営業廃止を申請、免許失効。\n1988年（昭和63年）8月 整理券方式導入。\n1999年（平成11年）12月22日 西鉄北九州線黒崎車庫前駅廃止。\n2000年（平成12年）11月26日 西鉄が北九州線熊西 - 折尾間を廃止。筑豊電気鉄道が黒崎駅前 - 熊西間の第二種鉄道事業開業。\n2004年（平成16年）4月28日 新木屋瀬駅開業。\n2008年（平成20年）10月1日 土手ノ内駅を希望が丘高校前駅に改称。\n2013年（平成25年）1月28日 全駅に駅ナンバリングを順次導入。3月末日完了。閉そく信号機見直しおよび自動列車停止装置（ATS）地上装置増設。\n2015年（平成27年）\n3月1日 西鉄の第三種鉄道事業区間だった黒崎駅前 - 熊西間が筑豊電気鉄道に事業譲渡の上、同社の第一種鉄道事業区間となる。\n3月14日 全線にnimoca導入。車載器で対応。\n2016年（平成28年）3月12日 ダイヤ改正を実施し、同時に朝・夕方ラッシュ時間帯以外でワンマン運転を開始。\n2021年（令和3年）\n3月13日 ダイヤ改正により、日中の運行間隔を12分間隔から15分間隔に変更。\n10月1日 国道3号黒崎バイパス建設工事に伴い、西黒崎駅の営業を休止（2025年頃まで）。"
+     "開業後": "1956年（昭和31年）\n3月21日 貞元（現:熊西） - 筑豊中間間が開業。西鉄北九州線の電車が乗り入れ。\n10月15日 森下駅、東中間駅開業。\n1957年（昭和32年）4月26日 三ヶ森駅開業。\n1958年（昭和33年）4月29日 筑豊中間 - 木屋瀬間が開業。\n1959年（昭和34年）9月18日 木屋瀬 - 筑豊直方間が開業（第1工区竣工）。\n1963年（昭和38年）8月25日 萩原駅開業。\n1964年（昭和39年）12月27日 通谷駅開業。\n1965年（昭和40年）12月24日 西山駅開業。\n1968年（昭和43年）7月 貞元 - 筑豊直方間地方鉄道貨物運輸営業廃止。貞元駅を熊西駅に改称。\n1970年（昭和45年）12月20日 今池駅開業。\n1971年（昭和46年）7月 未成線の筑豊直方 - 福岡間（第2工区、第3工区）について地方鉄道運輸営業廃止を申請、免許失効。\n1988年（昭和63年）8月 整理券方式導入。\n1999年（平成11年）12月22日 西鉄北九州線黒崎車庫前駅廃止。\n2000年（平成12年）11月26日 西鉄が北九州線熊西 - 折尾間を廃止。筑豊電気鉄道が黒崎駅前 - 熊西間の第二種鉄道事業開業。\n2004年（平成16年）4月28日 新木屋瀬駅開業。\n2008年（平成20年）10月1日 土手ノ内駅を希望が丘高校前駅に改称。\n2013年（平成25年）1月28日 全駅に駅ナンバリングを順次導入。3月末日完了。閉そく信号機見直しおよび自動列車停止装置（ATS）地上装置増設。\n2015年（平成27年）\n3月1日 西鉄の第三種鉄道事業区間だった黒崎駅前 - 熊西間が筑豊電気鉄道に事業譲渡の上、同社の第一種鉄道事業区間となる。\n3月14日 全線にnimoca導入。車載器で対応。\n2016年（平成28年）3月12日 ダイヤ改正を実施し、同時に朝・夕方ラッシュ時間帯以外でワンマン運転を開始。\n2021年（令和3年）\n3月13日 ダイヤ改正により、日中の運行間隔を12分間隔から15分間隔に変更。\n10月1日 国道3号黒崎バイパス建設工事に伴い、西黒崎駅の営業を休止（2025年頃まで）。",
+     "Intersections Designated as \"○○ Den-tei": "穴生電停、森下電停、今池電停、永犬丸電停、東中間電停口、香月電停"
     },
-    "全文": "The Chikuho Electric Railway Line is a railway line operated by the Chikuho Electric Railway, connecting Kurosaki-ekimae Station in Yahata-Nishi Ward, Kitakyushu City, Fukuoka Prefecture, with Chikuho-Nogata Station in Nogata City, Fukuoka Prefecture. It has no route symbol. Although \"Chikuho Electric Railway Line\" is the name used for guidance, it is not listed in the *Railway Handbook* and no official route name has been established.\n\nWhile the line uses tram-type vehicles, it is entirely classified as a \"railway\" under the Railway Business Act. Until February 2015, on the section between Kurosaki-ekimae and Chikuho-Nogata, the Chikuho Electric Railway was a Type 2 railway operator and Nishitetsu (hereinafter referred to as \"Nishi-Tetsu\") was a Type 3 railway operator for the segment between Kurosaki-ekimae and Kumaniishi. This segment was originally part of the Nishitetsu Kitakyushu Line, with the Chikuho Electric Railway operating services on it. However, when Nishi-Tetsu discontinued the Kumaniishi-Orio section of the Kitakyushu Line in 2000, the remaining segment was reclassified from a trackway under the Trackway Act to a railway under the Railway Business Act. On March 1, 2015, following a corporate split from Nishi-Tetsu, the section officially became an asset of the Chikuho Electric Railway, and Nishi-Tetsu's Type 3 railway operations were discontinued.\n\nThe Light Rail Transit Association (LRTA), a third-party organization in the United Kingdom that compiles information on light rail and similar systems, classifies this line as a railway equivalent to light rail.\n\n*Marugoto Nishitetsu Burari Ensen no Tabi* (A Leisurely Journey Along the Nishitetsu Lines), Kawaide Shobo Shinsha, 2006, ISBN 4309224563.\n\n路線データ\n路線距離（営業キロ）：16.0km\n 軌間：1435mm\n 駅数：21駅\n 複線区間：全線複線\n 電化区間：全線（直流600V）\n 閉塞方式：自動閉塞式\n最高速度：60km/h\n\n活性化策\n大手私鉄の完全子会社の路線であるため、これまで目立った公的支援は受けていなかったが、乗客減が続いていることから、沿線の北九州市・中間市・直方市は2014年度から当路線の維持と活性化に関する複数の支援を行うことになった。\n\n三市合同で新型車両やICカードシステムの導入などの設備投資に対する支援事業を2017年度まで行うほか、直方市は直方駅周辺の市街地整備事業を2013年度に終えたことを受け、当路線を筑豊直方駅からJR直方駅付近まで延伸することについてその可否を調査するための予算を計上。同年6月より毎月一度会社側と市及び福岡県の三者による会合を開き、需要の見通しやルートなどを検討している。\n\n駅一覧\n全駅福岡県内に所在。\n\n九州電気軌道による計画\n九州電気軌道では1911年（明治44年）から1914年（大正3年）の間にのちの西鉄北九州線にあたる門司 - 折尾間を開業したのち、1919年（大正8年）12月18日に折尾 - 福岡間47.27kmの軌道敷設特許を取得。「九軌福岡急行電車」と名付けられた。1924年（大正13年）には門司 - 熊手間の軌道敷設特許を取得している。\n\n1928年（昭和3年）には福岡市に建設部を設置した。1929年（昭和4年）には折尾 - 福岡間の計画を熊手 - 福岡間、城山峠経由を唐津街道、古門往還（通称「殿様通」）経由に変更し（これにより計画距離が0.9km延長）、1931年（昭和6年）に工区を3つに分け宮司 - 吉塚間から着工している。\n\nしかし、同じ1931年には九州電気軌道前社長の松本枩蔵による不正手形事件が発覚し、事件は処理されたものの、九州電気軌道は415万円に及ぶ債務を負うこととなった。このため日本興業銀行から特別融資を受け償還したが、その特別融資の条件として工事の即時中断を余儀なくされ、1933年（昭和8年）9月21日付で門司 - 熊手間の特許を返納し、折尾 - 福岡間の起業廃止を実施した。\n\n西鉄による計画\n5社合併で成立した西鉄は、1943年（昭和18年）、黒崎 - 福岡間の鉄道敷設を出願した（計画は博多湾鉄道汽船時代のものと同じ）が、太平洋戦争の戦局悪化により却下された。戦後の1946年（昭和21年）に西鉄が「筑豊電気鉄道」の名で再び黒崎 - 福岡間の鉄道敷設を出願したが、これも却下された。\n\nその後、西鉄では1949年（昭和24年）に三たび黒崎 - 福岡間の鉄道敷設を出願し、1年後の翌1950年（昭和25年）12月23日付で地方鉄道敷設免許（鉄監第2043号）を取得、1951年（昭和26年）2月15日 に黒崎 - 福岡間の運営会社として筑豊電気鉄道を設立した。\n\n1954年（昭和29年）に計画を一部修正し、八木山に4.5kmのトンネル、遠賀川に360mの橋梁を架ける方針に変更。黒崎 - 直方16.3km、直方 - 飯塚13.6km、飯塚 - 福岡27.5kmの3つの工区に分け、第1工区として黒崎 - 直方間の工事に着手。しかし、実際には黒崎ではなく、貞元（現在の熊西）から直方へ向けて工事が始まり、1956年（昭和31年）3月21日に貞元 - 筑豊中間間が開業した。\n\n歴史\n北九州市（黒崎）から筑豊を経て福岡市へ至る鉄道として西鉄により計画された。\n\n西鉄の直接の前身である九州電気軌道では大正時代に北九州と福岡市を結ぶ鉄道路線を計画したほか、西鉄の前身会社の一つである博多湾鉄道汽船でも北九州 - 福岡間の鉄道を計画し、1942年（昭和17年）の5社合併後の西鉄も同様の計画を出願したが、いずれも実現せずに終わった。\n\nその後、1950年（昭和25年）12月にようやく北九州 - 福岡間（筑豊経由）の免許を取得して着工し、1959年（昭和34年）に筑豊直方駅まで達したが、以西は八木山峠がネックになった。自社単独でトンネルを掘るほどの資金力が無かったため着工に至らず、1971年（昭和46年）に直方 - 飯塚 - 福岡市新堀町間の免許を失効した。なお、1968年（昭和43年）に当時の国鉄により開業した篠栗線は、西鉄が計画していたルートとほぼ同じルートで建設された。現在、筑豊と福岡を結ぶ役割は福北ゆたか線（JR筑豊本線・篠栗線）が担っている。\n\nまた、貞元駅（現・熊西駅）から黒崎駅までの区間も西鉄北九州線とは別に独自の路線を建設する予定であったが、これも実現せず1974年（昭和49年）に免許が失効している。\n\n西鉄および前身各社による北九州 - 福岡間鉄道路線の計画\n\n「○○電停」と表記される交差点\n穴生電停、森下電停、今池電停、永犬丸電停、東中間電停口、香月電停\n\n備考\n筑豊直方駅は筑豊本線（福北ゆたか線）・平成筑豊鉄道伊田線直方駅とは離れた場所にあり、徒歩で10分ほどかかる。\n かつて直方地区で「電車」と言った場合、筑豊電鉄のことを指していた。これは、筑豊本線が2001年10月6日に直方地区を含む折尾駅 - 桂川駅間が電化されるまで長らく非電化だったからである。\n 駅の列車接近メロディとしてパナソニック電工製のメロディサインが採用されている。2種類あるうちの1つはファミリーマートと同じもので音程や早さが多少異なる。\n 黒崎駅前駅 - 西黒崎駅間は0.2kmであり、この駅間距離は松浦鉄道西九州線佐世保中央駅 - 中佐世保駅間と並んで鉄道線としては日本最短である。\n 筑豊電気鉄道線の駅は、西鉄北九州線に倣い「電停」と呼ばれることがある。公式には「駅」であるが、主に交差点・信号機名称では「電停」と表示され、グループ内の西鉄バスにおいても「筑鉄○○」「○○電停」という停留所名が混在している。\n\n運行形態\n平日・土曜の昼間時間帯は、黒崎駅前 - 筑豊直方間の全線通し列車と黒崎駅前 - 筑豊中間間の区間列車が15分間隔で交互に運転されている。また休日においては全線通し列車のみ20分間隔で運行されているため、筑豊中間 - 筑豊直方間の昼間は休日のほうが運転本数が多くなっている。\n\n平日朝のラッシュ時間帯は、全線通し列車と黒崎駅前 - 筑豊中間・楠橋間の区間列車が5 - 10分間隔でほぼ交互に、平日夕方のラッシュ時間帯は、全線通し列車と黒崎駅前 - 楠橋間の区間列車が7 - 10分間隔で交互に運転されている。また、早朝・深夜には車庫への出入庫を兼ねた楠橋 - 筑豊直方間の区間列車がある。\n\n従来すべての列車に車掌が乗務してきたが、2016年3月12日のダイヤ改正より朝・夕方ラッシュ時以外の時間帯で 3000形と5000形電車による列車を対象にワンマン運転が開始されている。なお、誤乗防止のため3000形電車のみ方向幕をカラーに更新している。\n\n昭和末期は日中楠橋発着と直方発着が約14分ずつ交互に、ラッシュ時にはこれ以外に三ヶ森・中間・楠橋発着と西鉄北九州線（1985年頃以降は八幡駅前まで、それ以前は幸町・砂津方面など）への直通列車が運行された。三ヶ森 - 黒崎車庫前間は概ね2分間隔で運行されていた。ただし、線路容量や車両運用の関係で筑鉄の車両の列車はひとつ手前の黒崎車庫前を終点とするものも約半数あった。1990年以降はサンリブ木屋瀬の開店による増客策で日中7 - 8分間隔の全線通し運転を基本としていたが、ダイヤ改正の度に減便しており特に筑豊中間以南では2012年以降、大幅な減便傾向にある。\n\nまた線内では営業車がすべて各駅に停車するため、設備面から通過運転が行えない。回送や非営業車であってもすべての駅に運転停車する。乗務員が直接乗り込もうとする乗客に対し、回送なので乗車ができない旨を案内している。\n\n博多湾鉄道汽船による計画\n九州電気軌道の子会社である九州土地興業では、九州電気軌道が福岡延長のため取得していた92,446坪の土地を1937年（昭和12年）5月29日に博多湾鉄道汽船に譲渡した。\n\n土地を譲り受けた博多湾鉄道汽船は1924年（大正13年）から1925年（大正14年）にかけ新博多（のちの千鳥橋） - 宮地岳間（通称「貝塚線」、現・西鉄貝塚線）を開業させていたため、この路線の延伸計画として「福門連絡鉄道」の名で宮地岳 - 折尾間の鉄道敷設免許を出願した。この際当時社長であった太田清蔵貴族院議員がその資金を得るため同社所有の粕屋線（現・JR九州香椎線）を鉄道省へ売却する要請を出したが、この時鉄道大臣だった小川平吉に賄賂を贈ったことが後に明るみに出て（いわゆる五私鉄疑獄事件）会社の信頼は一気に失墜する。さらに、1937年7月に日中戦争が勃発したことで臨時資金調整法が施行され、鉄道敷設のための資金調達はいよいよ困難となった。ちなみに計画では宮地岳より見坂峠、三郡山地を越えて飯塚へ出るルートであったが、九州電気軌道の計画ではこのルートの東側を並行する形であった。\n\nその後、1941年（昭和16年）10月に「筑豊電気鉄道」の名で黒崎 - 福岡間59.6kmの鉄道敷設を出願したが、翌年戦時体制（陸上交通事業調整法）に対応するため博多湾鉄道汽船、前述の九州電気軌道など計5社が合併、西鉄が成立した時に、鉄道省より前身会社からの線路延長事業の見直しを指導され、鉄道敷設申請書の返付を受けたため実現せずに終わった。見直しを指導された区間はこの区間のほか、小倉 - 行橋間（新設）、土井 - 新飯塚間（新設）、雑餉隈 - 博多間（雑餉隈線）、大牟田 - 熊本間（大牟田線延伸計画）があったが、いずれも実現せずに終わっている。\n\n開業後\n1956年（昭和31年）\n3月21日 貞元（現:熊西） - 筑豊中間間が開業。西鉄北九州線の電車が乗り入れ。\n10月15日 森下駅、東中間駅開業。\n1957年（昭和32年）4月26日 三ヶ森駅開業。\n1958年（昭和33年）4月29日 筑豊中間 - 木屋瀬間が開業。\n1959年（昭和34年）9月18日 木屋瀬 - 筑豊直方間が開業（第1工区竣工）。\n1963年（昭和38年）8月25日 萩原駅開業。\n1964年（昭和39年）12月27日 通谷駅開業。\n1965年（昭和40年）12月24日 西山駅開業。\n1968年（昭和43年）7月 貞元 - 筑豊直方間地方鉄道貨物運輸営業廃止。貞元駅を熊西駅に改称。\n1970年（昭和45年）12月20日 今池駅開業。\n1971年（昭和46年）7月 未成線の筑豊直方 - 福岡間（第2工区、第3工区）について地方鉄道運輸営業廃止を申請、免許失効。\n1988年（昭和63年）8月 整理券方式導入。\n1999年（平成11年）12月22日 西鉄北九州線黒崎車庫前駅廃止。\n2000年（平成12年）11月26日 西鉄が北九州線熊西 - 折尾間を廃止。筑豊電気鉄道が黒崎駅前 - 熊西間の第二種鉄道事業開業。\n2004年（平成16年）4月28日 新木屋瀬駅開業。\n2008年（平成20年）10月1日 土手ノ内駅を希望が丘高校前駅に改称。\n2013年（平成25年）1月28日 全駅に駅ナンバリングを順次導入。3月末日完了。閉そく信号機見直しおよび自動列車停止装置（ATS）地上装置増設。\n2015年（平成27年）\n3月1日 西鉄の第三種鉄道事業区間だった黒崎駅前 - 熊西間が筑豊電気鉄道に事業譲渡の上、同社の第一種鉄道事業区間となる。\n3月14日 全線にnimoca導入。車載器で対応。\n2016年（平成28年）3月12日 ダイヤ改正を実施し、同時に朝・夕方ラッシュ時間帯以外でワンマン運転を開始。\n2021年（令和3年）\n3月13日 ダイヤ改正により、日中の運行間隔を12分間隔から15分間隔に変更。\n10月1日 国道3号黒崎バイパス建設工事に伴い、西黒崎駅の営業を休止（2025年頃まで）。",
-    "字数": 6693
+    "全文": "The Chikuho Electric Railway Line is a railway line operated by the Chikuho Electric Railway, connecting Kurosaki-ekimae Station in Yahata-Nishi Ward, Kitakyushu City, Fukuoka Prefecture, with Chikuho-Nogata Station in Nogata City, Fukuoka Prefecture. It has no route symbol. Although \"Chikuho Electric Railway Line\" is the name used for guidance, it is not listed in the *Railway Handbook* and no official route name has been established.\n\nWhile the line uses tram-type vehicles, it is entirely classified as a \"railway\" under the Railway Business Act. Until February 2015, on the section between Kurosaki-ekimae and Chikuho-Nogata, the Chikuho Electric Railway was a Type 2 railway operator and Nishitetsu (hereinafter referred to as \"Nishi-Tetsu\") was a Type 3 railway operator for the segment between Kurosaki-ekimae and Kumaniishi. This segment was originally part of the Nishitetsu Kitakyushu Line, with the Chikuho Electric Railway operating services on it. However, when Nishi-Tetsu discontinued the Kumaniishi-Orio section of the Kitakyushu Line in 2000, the remaining segment was reclassified from a trackway under the Trackway Act to a railway under the Railway Business Act. On March 1, 2015, following a corporate split from Nishi-Tetsu, the section officially became an asset of the Chikuho Electric Railway, and Nishi-Tetsu's Type 3 railway operations were discontinued.\n\nThe Light Rail Transit Association (LRTA), a third-party organization in the United Kingdom that compiles information on light rail and similar systems, classifies this line as a railway equivalent to light rail.\n\n*Marugoto Nishitetsu Burari Ensen no Tabi* (A Leisurely Journey Along the Nishitetsu Lines), Kawaide Shobo Shinsha, 2006, ISBN 4309224563.\n\n路線データ\n路線距離（営業キロ）：16.0km\n 軌間：1435mm\n 駅数：21駅\n 複線区間：全線複線\n 電化区間：全線（直流600V）\n 閉塞方式：自動閉塞式\n最高速度：60km/h\n\n活性化策\nAs a line operated by a wholly owned subsidiary of a major private railway company, it had not previously received significant public support. However, due to a continuing decline in passenger numbers, the cities of Kitakyushu, Nakama, and Naoetsu along the line decided to provide multiple forms of support for the line's maintenance and revitalization starting in fiscal year 2014.\n\nIn addition to a support program for capital investments, such as the introduction of new rolling stock and an IC card system, jointly run by the three cities until fiscal year 2017, Naoetsu City, having completed its urban development project around Naoetsu Station in fiscal year 2013, allocated a budget to investigate the feasibility of extending the line from Chikuho-Naoetsu Station to the vicinity of JR Naoetsu Station. Since June of the same year, the company, the city, and Fukuoka Prefecture have been holding trilateral meetings once a month to discuss projected demand, potential routes, and other matters.\n\n駅一覧\nAll stations are located within Fukuoka Prefecture.\n\n九州電気軌道による計画\n九州電気軌道では1911年（明治44年）から1914年（大正3年）の間にのちの西鉄北九州線にあたる門司 - 折尾間を開業したのち、1919年（大正8年）12月18日に折尾 - 福岡間47.27kmの軌道敷設特許を取得。「九軌福岡急行電車」と名付けられた。1924年（大正13年）には門司 - 熊手間の軌道敷設特許を取得している。\n\n1928年（昭和3年）には福岡市に建設部を設置した。1929年（昭和4年）には折尾 - 福岡間の計画を熊手 - 福岡間、城山峠経由を唐津街道、古門往還（通称「殿様通」）経由に変更し（これにより計画距離が0.9km延長）、1931年（昭和6年）に工区を3つに分け宮司 - 吉塚間から着工している。\n\nしかし、同じ1931年には九州電気軌道前社長の松本枩蔵による不正手形事件が発覚し、事件は処理されたものの、九州電気軌道は415万円に及ぶ債務を負うこととなった。このため日本興業銀行から特別融資を受け償還したが、その特別融資の条件として工事の即時中断を余儀なくされ、1933年（昭和8年）9月21日付で門司 - 熊手間の特許を返納し、折尾 - 福岡間の起業廃止を実施した。\n\n西鉄による計画\n5社合併で成立した西鉄は、1943年（昭和18年）、黒崎 - 福岡間の鉄道敷設を出願した（計画は博多湾鉄道汽船時代のものと同じ）が、太平洋戦争の戦局悪化により却下された。戦後の1946年（昭和21年）に西鉄が「筑豊電気鉄道」の名で再び黒崎 - 福岡間の鉄道敷設を出願したが、これも却下された。\n\nその後、西鉄では1949年（昭和24年）に三たび黒崎 - 福岡間の鉄道敷設を出願し、1年後の翌1950年（昭和25年）12月23日付で地方鉄道敷設免許（鉄監第2043号）を取得、1951年（昭和26年）2月15日 に黒崎 - 福岡間の運営会社として筑豊電気鉄道を設立した。\n\n1954年（昭和29年）に計画を一部修正し、八木山に4.5kmのトンネル、遠賀川に360mの橋梁を架ける方針に変更。黒崎 - 直方16.3km、直方 - 飯塚13.6km、飯塚 - 福岡27.5kmの3つの工区に分け、第1工区として黒崎 - 直方間の工事に着手。しかし、実際には黒崎ではなく、貞元（現在の熊西）から直方へ向けて工事が始まり、1956年（昭和31年）3月21日に貞元 - 筑豊中間間が開業した。\n\n歴史\n北九州市（黒崎）から筑豊を経て福岡市へ至る鉄道として西鉄により計画された。\n\n西鉄の直接の前身である九州電気軌道では大正時代に北九州と福岡市を結ぶ鉄道路線を計画したほか、西鉄の前身会社の一つである博多湾鉄道汽船でも北九州 - 福岡間の鉄道を計画し、1942年（昭和17年）の5社合併後の西鉄も同様の計画を出願したが、いずれも実現せずに終わった。\n\nその後、1950年（昭和25年）12月にようやく北九州 - 福岡間（筑豊経由）の免許を取得して着工し、1959年（昭和34年）に筑豊直方駅まで達したが、以西は八木山峠がネックになった。自社単独でトンネルを掘るほどの資金力が無かったため着工に至らず、1971年（昭和46年）に直方 - 飯塚 - 福岡市新堀町間の免許を失効した。なお、1968年（昭和43年）に当時の国鉄により開業した篠栗線は、西鉄が計画していたルートとほぼ同じルートで建設された。現在、筑豊と福岡を結ぶ役割は福北ゆたか線（JR筑豊本線・篠栗線）が担っている。\n\nまた、貞元駅（現・熊西駅）から黒崎駅までの区間も西鉄北九州線とは別に独自の路線を建設する予定であったが、これも実現せず1974年（昭和49年）に免許が失効している。\n\n西鉄および前身各社による北九州 - 福岡間鉄道路線の計画\n\n備考\nChikuhō Naogata Station is located some distance from Naogata Station on the Chikuhō Main Line (Fukuhoku Yutaka Line) and the Heisei Chikuhō Railway Ita Line, requiring about a 10-minute walk.\nIn the past, when people in the Naogata area referred to \"densha\" (trains), they were typically talking about the Chikuhō Electric Railway. This was because the Chikuhō Main Line remained non-electrified for a long time until the section between Orio Station and Katsuragawa Station, including the Naogata area, was electrified on October 6, 2001.\nThe station uses a melody sign manufactured by Panasonic Electric Works as its train arrival melody. One of the two available melodies is the same as that of FamilyMart, though with slight differences in pitch and tempo.\nThe distance between Kurosakiekimae Station and Nishi-Kurosaki Station is 0.2 km, making this one of the shortest interstation distances in Japan, on par with the section between Sasebo Chūō Station and Naka-Sasebo Station on the Matsuura Railway's Nishi Kyushu Line.\nStations on the Chikuhō Electric Railway Line are sometimes called \"denttei\" (electric tram stops), following the example of the Nishitetsu Kitakyushu Line. Although officially designated as \"ekis\" (stations), the term \"denttei\" is primarily used in the names of intersections and traffic lights. Within the group's Nishitetsu Bus services, stop names also mix \"Chikutei ○○\" and \"○○ Denttei.\"\n\n運行形態\n平日・土曜の昼間時間帯は、黒崎駅前 - 筑豊直方間の全線通し列車と黒崎駅前 - 筑豊中間間の区間列車が15分間隔で交互に運転されている。また休日においては全線通し列車のみ20分間隔で運行されているため、筑豊中間 - 筑豊直方間の昼間は休日のほうが運転本数が多くなっている。\n\n平日朝のラッシュ時間帯は、全線通し列車と黒崎駅前 - 筑豊中間・楠橋間の区間列車が5 - 10分間隔でほぼ交互に、平日夕方のラッシュ時間帯は、全線通し列車と黒崎駅前 - 楠橋間の区間列車が7 - 10分間隔で交互に運転されている。また、早朝・深夜には車庫への出入庫を兼ねた楠橋 - 筑豊直方間の区間列車がある。\n\n従来すべての列車に車掌が乗務してきたが、2016年3月12日のダイヤ改正より朝・夕方ラッシュ時以外の時間帯で 3000形と5000形電車による列車を対象にワンマン運転が開始されている。なお、誤乗防止のため3000形電車のみ方向幕をカラーに更新している。\n\n昭和末期は日中楠橋発着と直方発着が約14分ずつ交互に、ラッシュ時にはこれ以外に三ヶ森・中間・楠橋発着と西鉄北九州線（1985年頃以降は八幡駅前まで、それ以前は幸町・砂津方面など）への直通列車が運行された。三ヶ森 - 黒崎車庫前間は概ね2分間隔で運行されていた。ただし、線路容量や車両運用の関係で筑鉄の車両の列車はひとつ手前の黒崎車庫前を終点とするものも約半数あった。1990年以降はサンリブ木屋瀬の開店による増客策で日中7 - 8分間隔の全線通し運転を基本としていたが、ダイヤ改正の度に減便しており特に筑豊中間以南では2012年以降、大幅な減便傾向にある。\n\nまた線内では営業車がすべて各駅に停車するため、設備面から通過運転が行えない。回送や非営業車であってもすべての駅に運転停車する。乗務員が直接乗り込もうとする乗客に対し、回送なので乗車ができない旨を案内している。\n\n博多湾鉄道汽船による計画\n九州電気軌道の子会社である九州土地興業では、九州電気軌道が福岡延長のため取得していた92,446坪の土地を1937年（昭和12年）5月29日に博多湾鉄道汽船に譲渡した。\n\n土地を譲り受けた博多湾鉄道汽船は1924年（大正13年）から1925年（大正14年）にかけ新博多（のちの千鳥橋） - 宮地岳間（通称「貝塚線」、現・西鉄貝塚線）を開業させていたため、この路線の延伸計画として「福門連絡鉄道」の名で宮地岳 - 折尾間の鉄道敷設免許を出願した。この際当時社長であった太田清蔵貴族院議員がその資金を得るため同社所有の粕屋線（現・JR九州香椎線）を鉄道省へ売却する要請を出したが、この時鉄道大臣だった小川平吉に賄賂を贈ったことが後に明るみに出て（いわゆる五私鉄疑獄事件）会社の信頼は一気に失墜する。さらに、1937年7月に日中戦争が勃発したことで臨時資金調整法が施行され、鉄道敷設のための資金調達はいよいよ困難となった。ちなみに計画では宮地岳より見坂峠、三郡山地を越えて飯塚へ出るルートであったが、九州電気軌道の計画ではこのルートの東側を並行する形であった。\n\nその後、1941年（昭和16年）10月に「筑豊電気鉄道」の名で黒崎 - 福岡間59.6kmの鉄道敷設を出願したが、翌年戦時体制（陸上交通事業調整法）に対応するため博多湾鉄道汽船、前述の九州電気軌道など計5社が合併、西鉄が成立した時に、鉄道省より前身会社からの線路延長事業の見直しを指導され、鉄道敷設申請書の返付を受けたため実現せずに終わった。見直しを指導された区間はこの区間のほか、小倉 - 行橋間（新設）、土井 - 新飯塚間（新設）、雑餉隈 - 博多間（雑餉隈線）、大牟田 - 熊本間（大牟田線延伸計画）があったが、いずれも実現せずに終わっている。\n\n開業後\n1956年（昭和31年）\n3月21日 貞元（現:熊西） - 筑豊中間間が開業。西鉄北九州線の電車が乗り入れ。\n10月15日 森下駅、東中間駅開業。\n1957年（昭和32年）4月26日 三ヶ森駅開業。\n1958年（昭和33年）4月29日 筑豊中間 - 木屋瀬間が開業。\n1959年（昭和34年）9月18日 木屋瀬 - 筑豊直方間が開業（第1工区竣工）。\n1963年（昭和38年）8月25日 萩原駅開業。\n1964年（昭和39年）12月27日 通谷駅開業。\n1965年（昭和40年）12月24日 西山駅開業。\n1968年（昭和43年）7月 貞元 - 筑豊直方間地方鉄道貨物運輸営業廃止。貞元駅を熊西駅に改称。\n1970年（昭和45年）12月20日 今池駅開業。\n1971年（昭和46年）7月 未成線の筑豊直方 - 福岡間（第2工区、第3工区）について地方鉄道運輸営業廃止を申請、免許失効。\n1988年（昭和63年）8月 整理券方式導入。\n1999年（平成11年）12月22日 西鉄北九州線黒崎車庫前駅廃止。\n2000年（平成12年）11月26日 西鉄が北九州線熊西 - 折尾間を廃止。筑豊電気鉄道が黒崎駅前 - 熊西間の第二種鉄道事業開業。\n2004年（平成16年）4月28日 新木屋瀬駅開業。\n2008年（平成20年）10月1日 土手ノ内駅を希望が丘高校前駅に改称。\n2013年（平成25年）1月28日 全駅に駅ナンバリングを順次導入。3月末日完了。閉そく信号機見直しおよび自動列車停止装置（ATS）地上装置増設。\n2015年（平成27年）\n3月1日 西鉄の第三種鉄道事業区間だった黒崎駅前 - 熊西間が筑豊電気鉄道に事業譲渡の上、同社の第一種鉄道事業区間となる。\n3月14日 全線にnimoca導入。車載器で対応。\n2016年（平成28年）3月12日 ダイヤ改正を実施し、同時に朝・夕方ラッシュ時間帯以外でワンマン運転を開始。\n2021年（令和3年）\n3月13日 ダイヤ改正により、日中の運行間隔を12分間隔から15分間隔に変更。\n10月1日 国道3号黒崎バイパス建設工事に伴い、西黒崎駅の営業を休止（2025年頃まで）。\n\nIntersections Designated as \"○○ Den-tei\n穴生電停、森下電停、今池電停、永犬丸電停、東中間電停口、香月電停",
+    "字数": 8473
    }
   }
  },
@@ -65,7 +67,7 @@
     "日文原名": "三ケ森",
     "词条": "三ヶ森駅",
     "中文": "三森站",
-    "英文": null
+    "英文": "Mikamori Station"
    },
    "百科": {
     "日文": {
@@ -194,7 +196,7 @@
     "日文原名": "希望が丘高校前",
     "词条": "希望が丘高校前駅",
     "中文": "希望之丘高中前站",
-    "英文": null
+    "英文": "Kibogaoka Kōkō-mae Station"
    },
    "百科": {
     "日文": {
@@ -216,14 +218,14 @@
      "链接": null,
      "首段": "希望丘高校前站（きぼうがおかこうこうまええき）是位于福冈县中间市土手之内二丁目的筑丰电气铁道筑丰电气铁道线车站。车站编号CK14。因成为登录联合国教科文组织世界遗产的明治日本的产业革命遗产 制铁·制钢、造船、石炭产业之一的远贺川水源地泵室最近站，2015年（平成27年",
      "章节": {
-      "历史": "1958年（昭和33年）4月29日：作为土手之内站（どてのうちえき）开业。\n2008年（平成20年）10月1日：改名为希望丘高校前站。\n2013年（平成",
+      "历史": "1958年（昭和33年）4月29日：作为土手之内站开业。\n2008年（平成20年）10月1日：更名为希望丘高校前站。\n2013年（平成",
       "车站结构": "相对式月台2面2线的地上车站。无人站。\n\n※实际无上述月台番号标，上述番号为列车运转指令上的番线番号。",
       "使用情况": "2021年度1日平均上下车人员681人。",
       "车站周边": "车站周边为细路地错综复杂的住宅街。",
       "相邻车站": "筑丰电气铁道线：筑丰中间站（CK13）- 希望丘高校前站（CK14）- 筑丰香月站（CK15）"
      },
-     "全文": "希望丘高校前站（きぼうがおかこうこうまええき）是位于福冈县中间市土手之内二丁目的筑丰电气铁道筑丰电气铁道线车站。车站编号CK14。因成为登录联合国教科文组织世界遗产的明治日本的产业革命遗产 制铁·制钢、造船、石炭产业之一的远贺川水源地泵室最近站，2015年（平成27年\n\n历史\n1958年（昭和33年）4月29日：作为土手之内站（どてのうちえき）开业。\n2008年（平成20年）10月1日：改名为希望丘高校前站。\n2013年（平成\n\n车站结构\n相对式月台2面2线的地上车站。无人站。\n\n※实际无上述月台番号标，上述番号为列车运转指令上的番线番号。\n\n使用情况\n2021年度1日平均上下车人员681人。\n\n车站周边\n车站周边为细路地错综复杂的住宅街。\n\n相邻车站\n筑丰电气铁道线：筑丰中间站（CK13）- 希望丘高校前站（CK14）- 筑丰香月站（CK15）",
-     "字数": 378,
+     "全文": "希望丘高校前站（きぼうがおかこうこうまええき）是位于福冈县中间市土手之内二丁目的筑丰电气铁道筑丰电气铁道线车站。车站编号CK14。因成为登录联合国教科文组织世界遗产的明治日本的产业革命遗产 制铁·制钢、造船、石炭产业之一的远贺川水源地泵室最近站，2015年（平成27年\n\n历史\n1958年（昭和33年）4月29日：作为土手之内站开业。\n2008年（平成20年）10月1日：更名为希望丘高校前站。\n2013年（平成\n\n车站结构\n相对式月台2面2线的地上车站。无人站。\n\n※实际无上述月台番号标，上述番号为列车运转指令上的番线番号。\n\n使用情况\n2021年度1日平均上下车人员681人。\n\n车站周边\n车站周边为细路地错综复杂的住宅街。\n\n相邻车站\n筑丰电气铁道线：筑丰中间站（CK13）- 希望丘高校前站（CK14）- 筑丰香月站（CK15）",
+     "字数": 369,
      "来源": "豆包全文翻译（据日文维基全文）"
     },
     "英文": {
@@ -320,10 +322,10 @@
       "Station layout": "Details as listed in the article.",
       "Usage": "Details as listed in the article.",
       "Surrounding area": "Details as listed in the article.",
-      "Railway stations in Nangō City": "んた"
+      "Railway stations in Nangō City": "Nta"
      },
-     "全文": "is a railway station located in Nōgata, Fukuoka.\n\nLines\nChikuhō Electric Railroad\nChikuhō Electric Railroad Line\n\nPlatforms\nAdjacent stations\n\nSurrounding area\n Family Mart\n Japan National Route 200\n Fukuoka Prefectural Route 73\n Ganda Elementary School\n Nōgatadaini Junior High School\n Nogata St. Paul Kindergarten\n Nōgata Central Hospital\n Ichou Naikageka Clinic\n Onomuta Lake\n\nRailway stations in Fukuoka Prefecture\nRailway stations in Japan opened in 1959\n\nHistory\nDetails as listed in the article.\n\nStation layout\nDetails as listed in the article.\n\nUsage\nDetails as listed in the article.\n\nSurrounding area\nDetails as listed in the article.\n\nRailway stations in Nangō City\nんた",
-     "字数": 680
+     "全文": "is a railway station located in Nōgata, Fukuoka.\n\nLines\nChikuhō Electric Railroad\nChikuhō Electric Railroad Line\n\nPlatforms\nAdjacent stations\n\nSurrounding area\n Family Mart\n Japan National Route 200\n Fukuoka Prefectural Route 73\n Ganda Elementary School\n Nōgatadaini Junior High School\n Nogata St. Paul Kindergarten\n Nōgata Central Hospital\n Ichou Naikageka Clinic\n Onomuta Lake\n\nRailway stations in Fukuoka Prefecture\nRailway stations in Japan opened in 1959\n\nHistory\nDetails as listed in the article.\n\nStation layout\nDetails as listed in the article.\n\nUsage\nDetails as listed in the article.\n\nSurrounding area\nDetails as listed in the article.\n\nRailway stations in Nangō City\nNta",
+     "字数": 681
     }
    },
    "结构化信息": {
@@ -357,7 +359,7 @@
     "日文原名": "新木屋瀬",
     "词条": "新木屋瀬駅",
     "中文": "新木屋瀨站",
-    "英文": null
+    "英文": "Shin-kiyase Station"
    },
    "百科": {
     "日文": {
@@ -523,7 +525,7 @@
     "日文原名": "東中間",
     "词条": "東中間駅",
     "中文": "東中間站",
-    "英文": null
+    "英文": "Higashi-chūkan Station"
    },
    "百科": {
     "日文": {
@@ -554,10 +556,10 @@
       "7-11福冈中间店": "（步行6分钟）",
       "筑丰电气铁道线": "通谷（CK11）－东中间（CK12）－筑丰中间（CK13）",
       "相关条目": "日本铁路车站列表 Hi",
-      "福冈县的铁路车站": "かしなかま"
+      "福冈县的铁路车站": "Kashinakama"
      },
-     "全文": "东中间站（）是位于福冈县中间市东中间二丁目，筑丰电气铁道筑丰电气铁道线车站。车站编号为CK12。\n\n历史\n1956年（昭和31年）10月15日 - 车站启用。\n\n车站构造\n车站是一座地面车站，设有2面2线的相对式月台。此站是无人车站。上行月台设有商店（现时是美甲店）。\n\n月台\n※实际上没有月台编号，上述的编号只用作列车运输指令上使用。\n\n使用状况\n在2019年度，1日平均上下车人次为637人。以下为近年1日平均乘车人次列表。\n\n7-11福冈中间店\n（步行6分钟）\n\n筑丰电气铁道线\n通谷（CK11）－东中间（CK12）－筑丰中间（CK13）\n\n相关条目\n日本铁路车站列表 Hi\n\n福冈县的铁路车站\nかしなかま",
-     "字数": 306,
+     "全文": "东中间站（）是位于福冈县中间市东中间二丁目，筑丰电气铁道筑丰电气铁道线车站。车站编号为CK12。\n\n历史\n1956年（昭和31年）10月15日 - 车站启用。\n\n车站构造\n车站是一座地面车站，设有2面2线的相对式月台。此站是无人车站。上行月台设有商店（现时是美甲店）。\n\n月台\n※实际上没有月台编号，上述的编号只用作列车运输指令上使用。\n\n使用状况\n在2019年度，1日平均上下车人次为637人。以下为近年1日平均乘车人次列表。\n\n7-11福冈中间店\n（步行6分钟）\n\n筑丰电气铁道线\n通谷（CK11）－东中间（CK12）－筑丰中间（CK13）\n\n相关条目\n日本铁路车站列表 Hi\n\n福冈县的铁路车站\nKashinakama",
+     "字数": 312,
      "来源": "维基百科中文版（已转简体）"
     },
     "英文": {
@@ -1005,7 +1007,7 @@
     "日文原名": "筑豊中間",
     "词条": "筑豊中間駅",
     "中文": "筑丰中间站",
-    "英文": null
+    "英文": "Chikuhō-chūkan Station"
    },
    "百科": {
     "日文": {
@@ -1100,7 +1102,7 @@
     "日文原名": "筑豊直方",
     "词条": "筑豊直方駅",
     "中文": "筑丰直方站",
-    "英文": null
+    "英文": "Chikuhō-Nogata Station"
    },
    "百科": {
     "日文": {
@@ -1190,7 +1192,7 @@
     "日文原名": "筑豊香月",
     "词条": "筑豊香月駅",
     "中文": "筑丰香月站",
-    "英文": null
+    "英文": "Chikuhō-Katsuki Station"
    },
    "百科": {
     "日文": {
@@ -1511,10 +1513,10 @@
       "History": "Details as listed in the article.",
       "Station layout": "Details as listed in the article.",
       "Usage": "Details as listed in the article.",
-      "Railway Stations in Noka City": "んかの"
+      "Railway Stations in Noka City": "Nanka"
      },
-     "全文": "is a railway station in Nōgata, Fukuoka.\n\nLines\nChikuhō Electric Railroad\n Chikuhō Electric Railroad Line\n\nPlatforms\nAdjacent stations\n\nSurrounding area\n Japan National Route 200\n Nōgatakanda Post Office\n Ongano Nursery\n Lumiere Nōgata\n TRIAL Nōgata\n\n7-Eleven\nRailway stations in Fukuoka Prefecture\nRailway stations in Japan opened in 1959\n\nHistory\nDetails as listed in the article.\n\nStation layout\nDetails as listed in the article.\n\nUsage\nDetails as listed in the article.\n\nRailway Stations in Noka City\nんかの",
-     "字数": 508
+     "全文": "is a railway station in Nōgata, Fukuoka.\n\nLines\nChikuhō Electric Railroad\n Chikuhō Electric Railroad Line\n\nPlatforms\nAdjacent stations\n\nSurrounding area\n Japan National Route 200\n Nōgatakanda Post Office\n Ongano Nursery\n Lumiere Nōgata\n TRIAL Nōgata\n\n7-Eleven\nRailway stations in Fukuoka Prefecture\nRailway stations in Japan opened in 1959\n\nHistory\nDetails as listed in the article.\n\nStation layout\nDetails as listed in the article.\n\nUsage\nDetails as listed in the article.\n\nRailway Stations in Noka City\nNanka",
+     "字数": 510
     }
    },
    "结构化信息": {
@@ -1548,7 +1550,7 @@
     "日文原名": "黒崎駅前",
     "词条": null,
     "中文": "黑崎站前站",
-    "英文": null
+    "英文": "Kurosaki-eki-mae Station"
    },
    "百科": {
     "日文": null,
