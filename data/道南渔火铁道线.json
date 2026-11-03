@@ -38,7 +38,9 @@
     "字数": 3769
    },
    "中文": {
-    "来源": "⚠️ 暂未汉化"
+    "来源": "⚠️ 暂未汉化",
+    "全文": "",
+    "字数": 0
    },
    "英文": {
     "词条标题": "South Hokkaido Railway Line",
@@ -195,10 +197,10 @@
       "车站结构": "侧式月台1面1线与岛式月台1面2线的地面车站，是跨站式站房。然而，1号月台是只作折返专用的尽头式月台，只有这个月台没有电气化。",
       "道南渔火铁道线": "清川口（sh08）－上矶（sh07）－（）－茂边地（sh06）",
       "外部连结": "官方网页。",
-      "北斗市的铁路车站": "みいそ"
+      "北斗市的铁路车站": "Miso"
      },
-     "全文": "上矶车站（）是道南渔火铁道的铁路车站，位于北海道北斗市饭生2丁目，现为无人站。\n\n站名来自原上矶町，因此地为位于函馆的西方（上方）的海岸。\n\n车站结构\n侧式月台1面1线与岛式月台1面2线的地面车站，是跨站式站房。然而，1号月台是只作折返专用的尽头式月台，只有这个月台没有电气化。\n\n道南渔火铁道线\n清川口（sh08）－上矶（sh07）－（）－茂边地（sh06）\n\n外部连结\n官方网页。\n\n北斗市的铁路车站\nみいそ",
-     "字数": 206,
+     "全文": "上矶车站（）是道南渔火铁道的铁路车站，位于北海道北斗市饭生2丁目，现为无人站。\n\n站名来自原上矶町，因此地为位于函馆的西方（上方）的海岸。\n\n车站结构\n侧式月台1面1线与岛式月台1面2线的地面车站，是跨站式站房。然而，1号月台是只作折返专用的尽头式月台，只有这个月台没有电气化。\n\n道南渔火铁道线\n清川口（sh08）－上矶（sh07）－（）－茂边地（sh06）\n\n外部连结\n官方网页。\n\n北斗市的铁路车站\nMiso",
+     "字数": 207,
      "来源": "维基百科中文版（已转简体）"
     },
     "英文": {
@@ -684,10 +686,10 @@
       "Notes 8": "Notes are provided in the Japanese Wikipedia article.",
       "Notes 9": "Notes are provided in the Japanese Wikipedia article.",
       "Notes 10": "Notes are provided in the Japanese Wikipedia article.",
-      "Railway Stations in Kikonai Town": "こない"
+      "Railway Stations in Kikonai Town": "It does not come."
      },
-     "全文": "is a railway station in Kikonai, Hokkaido, Japan, operated by Hokkaido Railway Company (JR Hokkaido) and South Hokkaido Railway Company.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nOrigin of the name\nThe origin and meaning of the station name are explained in the Japanese Wikipedia article.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nChronology\nThe chronological history of the station is detailed in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nHistory 2\nNotes are provided in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.\n\nBus connections\nBus routes connecting to the station are detailed in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes 5\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 6\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 7\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 8\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 9\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 10\nNotes are provided in the Japanese Wikipedia article.\n\nRailway Stations in Kikonai Town\nこない",
-     "字数": 1714
+     "全文": "is a railway station in Kikonai, Hokkaido, Japan, operated by Hokkaido Railway Company (JR Hokkaido) and South Hokkaido Railway Company.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nOrigin of the name\nThe origin and meaning of the station name are explained in the Japanese Wikipedia article.\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nChronology\nThe chronological history of the station is detailed in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nHistory 2\nNotes are provided in the Japanese Wikipedia article.\n\nPassenger statistics\nRecent passenger statistics are published in the Japanese Wikipedia article.\n\nSurrounding area\nPoints of interest and surrounding facilities near the station are listed in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.\n\nBus connections\nBus routes connecting to the station are detailed in the Japanese Wikipedia article.\n\nAdjacent stations\nAdjacent stations and connecting lines are given in the structured station data.\n\nNotes 5\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 6\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 7\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 8\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 9\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 10\nNotes are provided in the Japanese Wikipedia article.\n\nRailway Stations in Kikonai Town\nIt does not come.",
+     "字数": 1728
     }
    },
    "结构化信息": {
@@ -845,10 +847,10 @@
       "车站结构": "侧式月台1面1线的地面车站。五棱郭站管理的无人站，站舍由货车改造。\n\n2016年3月移交道南渔火铁道移管后继续是无人站，同公司设置自动售票机。自动售票机与厕所位于货车改造的候车室，早上7时－下午8时可使用。",
       "道南渔火铁道线": "七重滨（sh11）－东久根别（sh10）－久根别（sh09）",
       "外部连结": "官方网页。",
-      "北斗市的铁路车站": "かしくねへつ"
+      "北斗市的铁路车站": "Kasukabe线"
      },
-     "全文": "东久根别车站（）是道南渔火铁道的铁路车站，位于北海道北斗市久根别1丁目，现为无人站。\n\n「久根别」源于阿伊努语的「kunne-pet」（黑色的河川），因位于该地区东侧而在前面加上「东」字。\n\n车站结构\n侧式月台1面1线的地面车站。五棱郭站管理的无人站，站舍由货车改造。\n\n2016年3月移交道南渔火铁道移管后继续是无人站，同公司设置自动售票机。自动售票机与厕所位于货车改造的候车室，早上7时－下午8时可使用。\n\n道南渔火铁道线\n七重滨（sh11）－东久根别（sh10）－久根别（sh09）\n\n外部连结\n官方网页。\n\n北斗市的铁路车站\nかしくねへつ",
-     "字数": 273,
+     "全文": "东久根别车站（）是道南渔火铁道的铁路车站，位于北海道北斗市久根别1丁目，现为无人站。\n\n「久根别」源于阿伊努语的「kunne-pet」（黑色的河川），因位于该地区东侧而在前面加上「东」字。\n\n车站结构\n侧式月台1面1线的地面车站。五棱郭站管理的无人站，站舍由货车改造。\n\n2016年3月移交道南渔火铁道移管后继续是无人站，同公司设置自动售票机。自动售票机与厕所位于货车改造的候车室，早上7时－下午8时可使用。\n\n道南渔火铁道线\n七重滨（sh11）－东久根别（sh10）－久根别（sh09）\n\n外部连结\n官方网页。\n\n北斗市的铁路车站\nKasukabe线",
+     "字数": 276,
      "来源": "维基百科中文版（已转简体）"
     },
     "英文": {
@@ -1283,9 +1285,9 @@
       "车站结构": "对向式月台2面2线的地面车站。曾经只有侧式月台1面1线，随着海峡线开通时新设交会设备。为了货车设置了改造的站舍。",
       "道南渔火铁道线": "渡岛当别（sh05）－釜谷（sh04）－泉泽（sh03）",
       "外部连结": "官方网页。",
-      "木古内町的铁路车站": "まや"
+      "木古内町的铁路车站": "真夜"
      },
-     "全文": "釜谷车站（）是道南渔火铁道的铁路车站，位于上矶郡木古内町釜谷，现为简易委托站。\n\n站名源自阿伊努语的「kama-ya-pet」（有扁平岩石的河岸的河流）或「o-kama-ya-un-pet」（在河口有扁平岩石的河岸的河流）。\n\n车站结构\n对向式月台2面2线的地面车站。曾经只有侧式月台1面1线，随着海峡线开通时新设交会设备。为了货车设置了改造的站舍。\n\n道南渔火铁道线\n渡岛当别（sh05）－釜谷（sh04）－泉泽（sh03）\n\n外部连结\n官方网页。\n\n木古内町的铁路车站\nまや",
+     "全文": "釜谷车站（）是道南渔火铁道的铁路车站，位于上矶郡木古内町釜谷，现为简易委托站。\n\n站名源自阿伊努语的「kama-ya-pet」（有扁平岩石的河岸的河流）或「o-kama-ya-un-pet」（在河口有扁平岩石的河岸的河流）。\n\n车站结构\n对向式月台2面2线的地面车站。曾经只有侧式月台1面1线，随着海峡线开通时新设交会设备。为了货车设置了改造的站舍。\n\n道南渔火铁道线\n渡岛当别（sh05）－釜谷（sh04）－泉泽（sh03）\n\n外部连结\n官方网页。\n\n木古内町的铁路车站\n真夜",
      "字数": 239,
      "来源": "维基百科中文版（已转简体）"
     },
