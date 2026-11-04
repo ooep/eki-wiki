@@ -31,15 +31,15 @@
       "英文": {
         "词条标题": "Osaka Senboku Line (abandoned expressway plan)",
         "链接": null,
-        "首段": "The Senzan Line (仙山線) is a railway line in Miyagi Prefecture, Japan, operated by JR East. It connects Sendai Station in Sendai with Yamagata Station in Yamagata Prefecture, crossing the Ōu Mountains.",
+        "首段": "The Senzan Line is a railway line in Miyagi Prefecture, Japan, operated by JR East. It connects Sendai Station in Sendai with Yamagata Station in Yamagata Prefecture, crossing the Ōu Mountains.",
         "章节": {
           "Overview": "A mountain line connecting Sendai and Yamagata.",
           "Line data": "Length: 58.0 km. Gauge: 1,067 mm.",
           "History": "Opened in stages between 1929 and 1937.",
           "Operations": "Local and rapid services."
         },
-        "全文": "The Senzan Line (仙山線) is a railway line in Miyagi Prefecture, Japan, operated by JR East. It connects Sendai Station in Sendai with Yamagata Station in Yamagata Prefecture, crossing the Ōu Mountains.\n\nOverview\nA mountain line connecting Sendai and Yamagata.\n\nLine data\nLength: 58.0 km. Gauge: 1,067 mm.\n\nHistory\nOpened in stages between 1929 and 1937.\n\nOperations\nLocal and rapid services.",
-        "字数": 389
+        "全文": "The Senzan Line is a railway line in Miyagi Prefecture, Japan, operated by JR East. It connects Sendai Station in Sendai with Yamagata Station in Yamagata Prefecture, crossing the Ōu Mountains.\n\nOverview\nA mountain line connecting Sendai and Yamagata.\n\nLine data\nLength: 58.0 km. Gauge: 1,067 mm.\n\nHistory\nOpened in stages between 1929 and 1937.\n\nOperations\nLocal and rapid services.",
+        "字数": 383
       }
     }
   },
@@ -1138,7 +1138,8 @@
           },
           "来源": "豆包全文翻译（据日文维基全文）",
           "全文": "栂·美木多站是位于大阪府堺市南区桃山台二丁的泉北高速铁道泉北高速铁道线车站。车站编号SB04。\n\n历史\n当初1975年春计划泉丘-光明池间一括开业。\n\n年表\n1973年（昭和48年）12月7日 - 伴随泉丘站-本站间延伸作为终点站开业。\n\n车站结构\n岛式月台1面2线的桥上站。\n\n使用情况\n2019年度1日平均上下车人员19,582人。",
-          "字数": 168
+          "字数": 168,
+          "词条标题": "栂・美木多站"
         },
         "英文": {
           "词条标题": "Toga-Mikita Station",
@@ -1294,7 +1295,8 @@
           },
           "来源": "豆包全文翻译（据日文维基全文）",
           "全文": "泉丘站是位于大阪府堺市南区竹城台一丁的泉北高速铁道泉北高速铁道线车站。车站编号SB03。\n\n历史\n1971年（昭和46年）4月1日 - 泉北高速铁道开业同时设置。\n\n车站结构\n岛式月台1面2线的桥上站。\n\n使用情况\n2019年度1日平均上下车人员40,504人。",
-          "字数": 131
+          "字数": 131,
+          "词条标题": "泉丘站"
         },
         "英文": {
           "词条标题": "Izumigaoka Station",

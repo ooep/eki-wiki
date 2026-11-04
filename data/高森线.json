@@ -205,7 +205,7 @@
         "英文": {
           "词条标题": "Kase Station",
           "链接": "https://en.wikipedia.org/wiki/Kase%20Station",
-          "首段": "Kase Station is the name of two train stations in Japan:\n\n Kase Station (Kumamoto) (加勢駅)\n Kase Station (Aomori) (嘉瀬駅)",
+          "首段": "Kase Station is the name of two train stations in Japan:\n\n Kase Station (Kumamoto) \n Kase Station (Aomori) ",
           "章节": {
             "History": "The station history and opening timeline are summarized in the Japanese Wikipedia article.",
             "Station layout": "The station layout, platforms and tracks are described in the Japanese Wikipedia article.",
@@ -216,7 +216,7 @@
             "Notes 4": "Notes are provided in the Japanese Wikipedia article.",
             "History 2": "Notes are provided in the Japanese Wikipedia article."
           },
-          "全文": "Kase Station is the name of two train stations in Japan:\n\n Kase Station (Kumamoto) (加勢駅)\n Kase Station (Aomori) (嘉瀬駅)\n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nBus connections\nBus routes connecting to the station are detailed in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.\n\nHistory 2\nNotes are provided in the Japanese Wikipedia article.",
+          "全文": "Kase Station is the name of two train stations in Japan:\n\n Kase Station (Kumamoto) \n Kase Station (Aomori) \n\nHistory\nThe station history and opening timeline are summarized in the Japanese Wikipedia article.\n\nStation layout\nThe station layout, platforms and tracks are described in the Japanese Wikipedia article.\n\nNotes\nNotes are provided in the Japanese Wikipedia article.\n\nBus connections\nBus routes connecting to the station are detailed in the Japanese Wikipedia article.\n\nNotes 2\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 3\nNotes are provided in the Japanese Wikipedia article.\n\nNotes 4\nNotes are provided in the Japanese Wikipedia article.\n\nHistory 2\nNotes are provided in the Japanese Wikipedia article.",
           "字数": 740
         }
       },
@@ -362,9 +362,9 @@
             "车站周边": "站前设有流过。车站东北设有和白川水源公园。",
             "巴士路线": "白川水源前 - 位于车站北边100米处的旧・国道325号（村道）上。",
             "相关条目": "日本铁路车站列表 Mi",
-            "南阿苏白川水源｜南阿苏铁道": "南阿苏白川水源駅开业祭 - 南阿苏村观光协会"
+            "南阿苏白川水源｜南阿苏铁道": "南阿苏白川水源站开业祭 - 南阿苏村观光协会"
           },
-          "全文": "南阿苏白川水源站是位于熊本县阿苏郡南阿苏村大字一关，南阿苏铁道的高森线车站。\n\n概要\n此站是南阿苏村的请愿站，建设费3500万日圆同该村全数负责。位于此站南边300米处，原本最近白川水源的车站是阿苏白川站，为了方便乘客前往水源而开设此站，方便当地人士。\n\n历史\n2011年（平成23年）6月 - 发表在阿苏白川至见晴台之间，最近白川水源处设置新站。\n 2012年（平成24年）\n 3月17日 - 车站启用。\n 7月22日 - 车站大楼完成。\n\n车站构造\n车站是一座地面车站，设有1面1线的单式月台。车站大楼兼备社区设施，但是于车站3个月后落成，于2012年7月开始使用。车站大楼内设有咖啡店「倶梨伽罗」。\n\n车站周边\n站前设有流过。车站东北设有和白川水源公园。\n\n巴士路线\n白川水源前 - 位于车站北边100米处的旧・国道325号（村道）上。\n\n相关条目\n日本铁路车站列表 Mi\n\n南阿苏白川水源｜南阿苏铁道\n南阿苏白川水源駅开业祭 - 南阿苏村观光协会",
+          "全文": "南阿苏白川水源站是位于熊本县阿苏郡南阿苏村大字一关，南阿苏铁道的高森线车站。\n\n概要\n此站是南阿苏村的请愿站，建设费3500万日圆同该村全数负责。位于此站南边300米处，原本最近白川水源的车站是阿苏白川站，为了方便乘客前往水源而开设此站，方便当地人士。\n\n历史\n2011年（平成23年）6月 - 发表在阿苏白川至见晴台之间，最近白川水源处设置新站。\n 2012年（平成24年）\n 3月17日 - 车站启用。\n 7月22日 - 车站大楼完成。\n\n车站构造\n车站是一座地面车站，设有1面1线的单式月台。车站大楼兼备社区设施，但是于车站3个月后落成，于2012年7月开始使用。车站大楼内设有咖啡店「倶梨伽罗」。\n\n车站周边\n站前设有流过。车站东北设有和白川水源公园。\n\n巴士路线\n白川水源前 - 位于车站北边100米处的旧・国道325号（村道）上。\n\n相关条目\n日本铁路车站列表 Mi\n\n南阿苏白川水源｜南阿苏铁道\n南阿苏白川水源站开业祭 - 南阿苏村观光协会",
           "字数": 427,
           "来源": "维基百科中文版（已转简体）"
         },
@@ -441,10 +441,10 @@
         "英文": {
           "词条标题": "Seta Station",
           "链接": "https://en.wikipedia.org/wiki/Seta%20Station",
-          "首段": "Seta Station (瀬田駅) is the name of two train stations in Japan:\n\nSeta Station (Kumamoto)\n Seta Station (Shiga)",
+          "首段": "Seta Station is the name of two train stations in Japan:\n\nSeta Station (Kumamoto)\n Seta Station (Shiga)",
           "章节": {},
-          "全文": "Seta Station (瀬田駅) is the name of two train stations in Japan:\n\nSeta Station (Kumamoto)\n Seta Station (Shiga)",
-          "字数": 109
+          "全文": "Seta Station is the name of two train stations in Japan:\n\nSeta Station (Kumamoto)\n Seta Station (Shiga)",
+          "字数": 103
         }
       },
       "结构化信息": {

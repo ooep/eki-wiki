@@ -79,7 +79,7 @@
       "英文": {
         "来源": "LLM全文翻译（据日文维基全文）",
         "词条标题": "Kansai Main Line",
-        "首段": "The Kansai Main Line (関西本線) is a railway line in Japan, connecting Nagoya Station in Nagoya with JR Namba Station in Osaka. It is operated by JR Central and JR West.",
+        "首段": "The Kansai Main Line is a railway line in Japan, connecting Nagoya Station in Nagoya with JR Namba Station in Osaka. It is operated by JR Central and JR West.",
         "章节": {
           "Overview": "A major trunk line connecting the Tokaido and Kansai regions.",
           "Line data": "Length: 174.9 km. Gauge: 1,067 mm.",
@@ -87,8 +87,8 @@
           "Operations": "Local, rapid and limited express services.",
           "Rolling stock": "Various JR Central and JR West EMUs."
         },
-        "全文": "The Kansai Main Line (関西本線) is a railway line in Japan, connecting Nagoya Station in Nagoya with JR Namba Station in Osaka. It is operated by JR Central and JR West.\n\nOverview\nA major trunk line connecting the Tokaido and Kansai regions.\n\nLine data\nLength: 174.9 km. Gauge: 1,067 mm.\n\nHistory\nOpened in 1889.\n\nOperations\nLocal, rapid and limited express services.\n\nRolling stock\nVarious JR Central and JR West EMUs.",
-        "字数": 415
+        "全文": "The Kansai Main Line is a railway line in Japan, connecting Nagoya Station in Nagoya with JR Namba Station in Osaka. It is operated by JR Central and JR West.\n\nOverview\nA major trunk line connecting the Tokaido and Kansai regions.\n\nLine data\nLength: 174.9 km. Gauge: 1,067 mm.\n\nHistory\nOpened in 1889.\n\nOperations\nLocal, rapid and limited express services.\n\nRolling stock\nVarious JR Central and JR West EMUs.",
+        "字数": 408
       }
     }
   },
@@ -582,10 +582,10 @@
         "英文": {
           "词条标题": "Gojō Station",
           "链接": null,
-          "首段": "Gojō Station (五条駅) is a disambiguation entry; in this file it refers to the JR West Wakayama Line station in Gojō, Nara Prefecture, Japan.",
+          "首段": "Gojō Station is a disambiguation entry; in this file it refers to the JR West Wakayama Line station in Gojō, Nara Prefecture, Japan.",
           "章节": {},
-          "全文": "Gojō Station (五条駅) is a disambiguation entry; in this file it refers to the JR West Wakayama Line station in Gojō, Nara Prefecture, Japan.",
-          "字数": 138
+          "全文": "Gojō Station is a disambiguation entry; in this file it refers to the JR West Wakayama Line station in Gojō, Nara Prefecture, Japan.",
+          "字数": 132
         }
       },
       "结构化信息": {
@@ -1516,10 +1516,10 @@
         "英文": {
           "词条标题": "Kamo Station",
           "链接": "https://en.wikipedia.org/wiki/Kamo%20Station",
-          "首段": "Kamo Station is the name of four train stations in Japan:\n\n Kamo Station (Fukuoka) (賀茂駅)\n Kamo Station (Kyoto) (加茂駅)\n Kamo Station (Mie) (加茂駅)\n Kamo Station (Niigata) (加茂駅)",
+          "首段": "Kamo Station is the name of four train stations in Japan:\n\n Kamo Station (Fukuoka) \n Kamo Station (Kyoto) \n Kamo Station (Mie) \n Kamo Station (Niigata) ",
           "章节": {},
-          "全文": "Kamo Station is the name of four train stations in Japan:\n\n Kamo Station (Fukuoka) (賀茂駅)\n Kamo Station (Kyoto) (加茂駅)\n Kamo Station (Mie) (加茂駅)\n Kamo Station (Niigata) (加茂駅)",
-          "字数": 172
+          "全文": "Kamo Station is the name of four train stations in Japan:\n\n Kamo Station (Fukuoka) \n Kamo Station (Kyoto) \n Kamo Station (Mie) \n Kamo Station (Niigata) ",
+          "字数": 152
         }
       },
       "结构化信息": {
@@ -3220,7 +3220,8 @@
             "历史": "1897年（明治30年）11月11日：关西铁道上野站（现在的伊贺上野站）—加茂站间开通时开业。\n1907年（明治40年）10月1日：关西铁道国有化，成为国有铁道车站。"
           },
           "全文": "岛原站是位于三重县伊贺市岛原的西日本旅客铁道（JR西日本）关西本线车站。\n\n历史\n1897年（明治30年）11月11日：关西铁道上野站（现在的伊贺上野站）—加茂站间开通时开业。\n1907年（明治40年）10月1日：关西铁道国有化，成为国有铁道车站。",
-          "字数": 124
+          "字数": 124,
+          "词条标题": "岛原站"
         },
         "英文": {
           "词条标题": "Shimagahara Station",
@@ -3527,10 +3528,10 @@
             "Additional information 12": "Commuters use this station for regular daily travel.",
             "Additional information 13": "Commuters use this station for regular daily travel.",
             "Additional information 14": "Commuters use this station for regular daily travel.",
-            "Nagoya Railroad": "According to \"120 Years of Meitetsu: The Past 20 Years,\" the average daily ridership in fiscal year 2013 was 2,893 passengers. This figure ranked 148th among all Meitetsu stations (275 stations) and 7th on the Oishi Line (22 stations).\nAccording to \"A Century of Nagoya Railroad,\" the average daily ridership in fiscal year 1992 was 3,046 passengers. This figure ranked 140th among all Meitetsu stations (342 stations), excluding stations within the uniform-fare section of the Gifu City Line (between Tetsumei-cho Station and Kotozuka Station on the Gifu City Line, Tagami Line, and Mino-cho Line), and 7th on the Oishi Line (23 stations).\nAccording to the \"Aichi Prefecture Statistical Yearbook,\" the average daily ridership in fiscal year 2010 was 1,254 passengers.\n\n  Oishi Line (Tsushima Line)\nYatomi Station (TB11)  -  Gono San Station (TB10)"
+            "Nagoya Railroad": "According to \"120 Years of Meitetsu: The Past 20 Years,\" the average daily ridership in fiscal year 2013 was 2,893 passengers. This figure ranked 148th among all Meitetsu stations (275 stations) and 7th on the Oishi Line (22 stations).\nAccording to \"A Century of Nagoya Railroad,\" the average daily ridership in fiscal year 1992 was 3,046 passengers. This figure ranked 140th among all Meitetsu stations (342 stations), excluding stations within the uniform-fare section of the Gifu City Line (between Tetsumei-cho Station and Kotozuka Station on the Gifu City Line, Tagami Line, and Mino-cho Line), and 7th on the Oishi Line (23 stations).\nAccording to the \"Aichi Prefecture Statistical Yearbook,\" the average daily ridership in fiscal year 2010 was 1,254 passengers.\n\n Oishi Line (Tsushima Line)\nYatomi Station (TB11) - Gono San Station (TB10)"
           },
-          "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.\n\nAdditional information 1\nCommuters use this station for regular daily travel.\n\nAdditional information 2\nCommuters use this station for regular daily travel.\n\nAdditional information 3\nCommuters use this station for regular daily travel.\n\nAdditional information 4\nCommuters use this station for regular daily travel.\n\nAdditional information 5\nCommuters use this station for regular daily travel.\n\nAdditional information 6\nCommuters use this station for regular daily travel.\n\nAdditional information 7\nCommuters use this station for regular daily travel.\n\nAdditional information 8\nCommuters use this station for regular daily travel.\n\nAdditional information 9\nCommuters use this station for regular daily travel.\n\nAdditional information 10\nCommuters use this station for regular daily travel.\n\nAdditional information 11\nCommuters use this station for regular daily travel.\n\nAdditional information 12\nCommuters use this station for regular daily travel.\n\nAdditional information 13\nCommuters use this station for regular daily travel.\n\nAdditional information 14\nCommuters use this station for regular daily travel.\n\nNagoya Railroad\nAccording to \"120 Years of Meitetsu: The Past 20 Years,\" the average daily ridership in fiscal year 2013 was 2,893 passengers. This figure ranked 148th among all Meitetsu stations (275 stations) and 7th on the Oishi Line (22 stations).\nAccording to \"A Century of Nagoya Railroad,\" the average daily ridership in fiscal year 1992 was 3,046 passengers. This figure ranked 140th among all Meitetsu stations (342 stations), excluding stations within the uniform-fare section of the Gifu City Line (between Tetsumei-cho Station and Kotozuka Station on the Gifu City Line, Tagami Line, and Mino-cho Line), and 7th on the Oishi Line (23 stations).\nAccording to the \"Aichi Prefecture Statistical Yearbook,\" the average daily ridership in fiscal year 2010 was 1,254 passengers.\n\n  Oishi Line (Tsushima Line)\nYatomi Station (TB11)  -  Gono San Station (TB10)",
-          "字数": 2427
+          "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.\n\nAdditional information 1\nCommuters use this station for regular daily travel.\n\nAdditional information 2\nCommuters use this station for regular daily travel.\n\nAdditional information 3\nCommuters use this station for regular daily travel.\n\nAdditional information 4\nCommuters use this station for regular daily travel.\n\nAdditional information 5\nCommuters use this station for regular daily travel.\n\nAdditional information 6\nCommuters use this station for regular daily travel.\n\nAdditional information 7\nCommuters use this station for regular daily travel.\n\nAdditional information 8\nCommuters use this station for regular daily travel.\n\nAdditional information 9\nCommuters use this station for regular daily travel.\n\nAdditional information 10\nCommuters use this station for regular daily travel.\n\nAdditional information 11\nCommuters use this station for regular daily travel.\n\nAdditional information 12\nCommuters use this station for regular daily travel.\n\nAdditional information 13\nCommuters use this station for regular daily travel.\n\nAdditional information 14\nCommuters use this station for regular daily travel.\n\nNagoya Railroad\nAccording to \"120 Years of Meitetsu: The Past 20 Years,\" the average daily ridership in fiscal year 2013 was 2,893 passengers. This figure ranked 148th among all Meitetsu stations (275 stations) and 7th on the Oishi Line (22 stations).\nAccording to \"A Century of Nagoya Railroad,\" the average daily ridership in fiscal year 1992 was 3,046 passengers. This figure ranked 140th among all Meitetsu stations (342 stations), excluding stations within the uniform-fare section of the Gifu City Line (between Tetsumei-cho Station and Kotozuka Station on the Gifu City Line, Tagami Line, and Mino-cho Line), and 7th on the Oishi Line (23 stations).\nAccording to the \"Aichi Prefecture Statistical Yearbook,\" the average daily ridership in fiscal year 2010 was 1,254 passengers.\n\n Oishi Line (Tsushima Line)\nYatomi Station (TB11) - Gono San Station (TB10)",
+          "字数": 2424
         }
       },
       "结构化信息": {
@@ -4354,7 +4355,8 @@
             "历史": "本站作为关西本线沿线车站开业。"
           },
           "全文": "月濑口站是位于京都府相乐郡南山城村大字北大河原的西日本旅客铁道（JR西日本）关西本线车站。车站位于南山城村，作为奈良县奈良市月濑地区入口发挥作用，也是京都府最东端的车站。\n\n历史\n本站作为关西本线沿线车站开业。",
-          "字数": 105
+          "字数": 105,
+          "词条标题": "月濑口站"
         },
         "英文": {
           "词条标题": "Tsukigaseguchi Station",
@@ -4941,10 +4943,10 @@
             "Additional information 25": "Commuters use this station for regular daily travel.",
             "Additional information 26": "Commuters use this station for regular daily travel.",
             "Mie Prefectural Route 18 (Kuwana Station Line)": "Sanfāre",
-            "Chūya Nakahara": "On July 5, 1994 (Heisei 6), to commemorate the 100th anniversary of the opening of Kuwana Station, a stone monument inscribed with the poem \"Kuwana Station\" was erected on platform 1.\n\n  Chūya Nakahara: \"Kuwana Station\" (poem)\n  The night in Kuwana was dark. It was a night when frogs croaked incessantly. In the late-night station, the stationmaster stood alone on the platform, which had been neatly covered with fine gravel, holding a lamp."
+            "Chūya Nakahara": "On July 5, 1994 (Heisei 6), to commemorate the 100th anniversary of the opening of Kuwana Station, a stone monument inscribed with the poem \"Kuwana Station\" was erected on platform 1.\n\n Chūya Nakahara: \"Kuwana Station\" (poem)\n The night in Kuwana was dark. It was a night when frogs croaked incessantly. In the late-night station, the stationmaster stood alone on the platform, which had been neatly covered with fine gravel, holding a lamp."
           },
-          "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.\n\nAdditional information 1\nCommuters use this station for regular daily travel.\n\nAdditional information 2\nCommuters use this station for regular daily travel.\n\nAdditional information 3\nCommuters use this station for regular daily travel.\n\nAdditional information 4\nCommuters use this station for regular daily travel.\n\nAdditional information 5\nCommuters use this station for regular daily travel.\n\nAdditional information 6\nCommuters use this station for regular daily travel.\n\nAdditional information 7\nCommuters use this station for regular daily travel.\n\nAdditional information 8\nCommuters use this station for regular daily travel.\n\nAdditional information 9\nCommuters use this station for regular daily travel.\n\nAdditional information 10\nCommuters use this station for regular daily travel.\n\nAdditional information 11\nCommuters use this station for regular daily travel.\n\nAdditional information 12\nCommuters use this station for regular daily travel.\n\nAdditional information 13\nCommuters use this station for regular daily travel.\n\nAdditional information 14\nCommuters use this station for regular daily travel.\n\nAdditional information 15\nCommuters use this station for regular daily travel.\n\nAdditional information 16\nCommuters use this station for regular daily travel.\n\nAdditional information 17\nCommuters use this station for regular daily travel.\n\nAdditional information 18\nCommuters use this station for regular daily travel.\n\nAdditional information 19\nCommuters use this station for regular daily travel.\n\nAdditional information 20\nCommuters use this station for regular daily travel.\n\nAdditional information 21\nCommuters use this station for regular daily travel.\n\nAdditional information 22\nCommuters use this station for regular daily travel.\n\nAdditional information 23\nCommuters use this station for regular daily travel.\n\nAdditional information 24\nCommuters use this station for regular daily travel.\n\nAdditional information 25\nCommuters use this station for regular daily travel.\n\nAdditional information 26\nCommuters use this station for regular daily travel.\n\nMie Prefectural Route 18 (Kuwana Station Line)\nSanfāre\n\nChūya Nakahara\nOn July 5, 1994 (Heisei 6), to commemorate the 100th anniversary of the opening of Kuwana Station, a stone monument inscribed with the poem \"Kuwana Station\" was erected on platform 1.\n\n  Chūya Nakahara: \"Kuwana Station\" (poem)\n  The night in Kuwana was dark. It was a night when frogs croaked incessantly. In the late-night station, the stationmaster stood alone on the platform, which had been neatly covered with fine gravel, holding a lamp.",
-          "字数": 3037
+          "全文": "This station provides local railway service for passengers in the surrounding area.\n\nHistory\nThe station opened as part of the original line construction.\n\nStation layout\nThe station ground-level platforms serve local trains.\n\nAdjacent stations\nRegular local trains stop at this station.\n\nSurrounding area\nThe surrounding neighborhood is primarily residential.\n\nRailway stations in Japan\nThis station appears on the list of Japanese railway stations.\n\nAdditional information 1\nCommuters use this station for regular daily travel.\n\nAdditional information 2\nCommuters use this station for regular daily travel.\n\nAdditional information 3\nCommuters use this station for regular daily travel.\n\nAdditional information 4\nCommuters use this station for regular daily travel.\n\nAdditional information 5\nCommuters use this station for regular daily travel.\n\nAdditional information 6\nCommuters use this station for regular daily travel.\n\nAdditional information 7\nCommuters use this station for regular daily travel.\n\nAdditional information 8\nCommuters use this station for regular daily travel.\n\nAdditional information 9\nCommuters use this station for regular daily travel.\n\nAdditional information 10\nCommuters use this station for regular daily travel.\n\nAdditional information 11\nCommuters use this station for regular daily travel.\n\nAdditional information 12\nCommuters use this station for regular daily travel.\n\nAdditional information 13\nCommuters use this station for regular daily travel.\n\nAdditional information 14\nCommuters use this station for regular daily travel.\n\nAdditional information 15\nCommuters use this station for regular daily travel.\n\nAdditional information 16\nCommuters use this station for regular daily travel.\n\nAdditional information 17\nCommuters use this station for regular daily travel.\n\nAdditional information 18\nCommuters use this station for regular daily travel.\n\nAdditional information 19\nCommuters use this station for regular daily travel.\n\nAdditional information 20\nCommuters use this station for regular daily travel.\n\nAdditional information 21\nCommuters use this station for regular daily travel.\n\nAdditional information 22\nCommuters use this station for regular daily travel.\n\nAdditional information 23\nCommuters use this station for regular daily travel.\n\nAdditional information 24\nCommuters use this station for regular daily travel.\n\nAdditional information 25\nCommuters use this station for regular daily travel.\n\nAdditional information 26\nCommuters use this station for regular daily travel.\n\nMie Prefectural Route 18 (Kuwana Station Line)\nSanfāre\n\nChūya Nakahara\nOn July 5, 1994 (Heisei 6), to commemorate the 100th anniversary of the opening of Kuwana Station, a stone monument inscribed with the poem \"Kuwana Station\" was erected on platform 1.\n\n Chūya Nakahara: \"Kuwana Station\" (poem)\n The night in Kuwana was dark. It was a night when frogs croaked incessantly. In the late-night station, the stationmaster stood alone on the platform, which had been neatly covered with fine gravel, holding a lamp.",
+          "字数": 3035
         }
       },
       "结构化信息": {
@@ -6205,10 +6207,10 @@
         "英文": {
           "词条标题": "Seki Station",
           "链接": "https://en.wikipedia.org/wiki/Seki%20Station",
-          "首段": "Seki Station (関駅) is the name of two train stations in Japan:\n\nSeki Station (Gifu)\n Seki Station (Mie)",
+          "首段": "Seki Station is the name of two train stations in Japan:\n\nSeki Station (Gifu)\n Seki Station (Mie)",
           "章节": {},
-          "全文": "Seki Station (関駅) is the name of two train stations in Japan:\n\nSeki Station (Gifu)\n Seki Station (Mie)",
-          "字数": 102
+          "全文": "Seki Station is the name of two train stations in Japan:\n\nSeki Station (Gifu)\n Seki Station (Mie)",
+          "字数": 97
         }
       },
       "结构化信息": {

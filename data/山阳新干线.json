@@ -147,7 +147,7 @@
       "英文": {
         "来源": "LLM全文翻译（据日文维基全文）",
         "词条标题": "Sanyo Shinkansen",
-        "首段": "The Sanyō Shinkansen (山陽新幹線) is a high-speed Shinkansen railway line in western Japan, operated by JR West. It connects Shin-Ōsaka Station with Hakata Station in Fukuoka.",
+        "首段": "The Sanyō Shinkansen is a high-speed Shinkansen railway line in western Japan, operated by JR West. It connects Shin-Ōsaka Station with Hakata Station in Fukuoka.",
         "章节": {
           "Overview": "A major high-speed Shinkansen line connecting the Kansai and Kyushu regions.",
           "Line data": "Length: 553.7 km. Standard gauge. 25,000 V AC.",
@@ -155,8 +155,8 @@
           "Operations": "Nozomi, Hikari and Kodama services.",
           "Rolling stock": "N700 series Shinkansen trains."
         },
-        "全文": "The Sanyō Shinkansen (山陽新幹線) is a high-speed Shinkansen railway line in western Japan, operated by JR West. It connects Shin-Ōsaka Station with Hakata Station in Fukuoka.\n\nOverview\nA major high-speed Shinkansen line connecting the Kansai and Kyushu regions.\n\nLine data\nLength: 553.7 km. Standard gauge. 25,000 V AC.\n\nHistory\nOpened in stages between 1972 and 1975.\n\nOperations\nNozomi, Hikari and Kodama services.\n\nRolling stock\nN700 series Shinkansen trains.",
-        "字数": 458
+        "全文": "The Sanyō Shinkansen is a high-speed Shinkansen railway line in western Japan, operated by JR West. It connects Shin-Ōsaka Station with Hakata Station in Fukuoka.\n\nOverview\nA major high-speed Shinkansen line connecting the Kansai and Kyushu regions.\n\nLine data\nLength: 553.7 km. Standard gauge. 25,000 V AC.\n\nHistory\nOpened in stages between 1972 and 1975.\n\nOperations\nNozomi, Hikari and Kodama services.\n\nRolling stock\nN700 series Shinkansen trains.",
+        "字数": 450
       }
     }
   },
@@ -2588,10 +2588,10 @@
         "英文": {
           "词条标题": "Aioi Station",
           "链接": "https://en.wikipedia.org/wiki/Aioi%20Station",
-          "首段": "Aioi Station is the name of four train stations in Japan:\n\n Aioi Station (Gifu) (相生駅) in Gifu Prefecture\n Aioi Station (Gunma) (相老駅) in Gunma Prefecture\n Aioi Station (Hyogo) (相生駅) in Hyogo Prefecture\n Sanuki-Aioi Station (讃岐相生駅) in Kagawa Prefecture",
+          "首段": "Aioi Station is the name of four train stations in Japan:\n\n Aioi Station (Gifu) in Gifu Prefecture\n Aioi Station (Gunma) in Gunma Prefecture\n Aioi Station (Hyogo) in Hyogo Prefecture\n Sanuki-Aioi Station in Kagawa Prefecture",
           "章节": {},
-          "全文": "Aioi Station is the name of four train stations in Japan:\n\n Aioi Station (Gifu) (相生駅) in Gifu Prefecture\n Aioi Station (Gunma) (相老駅) in Gunma Prefecture\n Aioi Station (Hyogo) (相生駅) in Hyogo Prefecture\n Sanuki-Aioi Station (讃岐相生駅) in Kagawa Prefecture",
-          "字数": 250
+          "全文": "Aioi Station is the name of four train stations in Japan:\n\n Aioi Station (Gifu) in Gifu Prefecture\n Aioi Station (Gunma) in Gunma Prefecture\n Aioi Station (Hyogo) in Hyogo Prefecture\n Sanuki-Aioi Station in Kagawa Prefecture",
+          "字数": 224
         }
       },
       "结构化信息": {

@@ -368,7 +368,7 @@
           "首段": "Shōji Station is a station on the Osaka Metro Sennichimae Line, located in Ikuno-ku, Osaka, Japan. Its station number is S22.",
           "章节": {
             "History": "2 December 1981 (Shōwa 56): Opened when the Sennichimae Line was extended from Shin-Fukae to Minami-Tatsumi.\n 7 June 2014 (Heisei 26): Platform edge doors began operation.\n 1 April 2018 (Heisei 30): Became an Osaka Metro station.",
-            "Station layout": "An underground station with one island platform serving two tracks. One gate. All ground exits are on the Tsuruhashi side of the platform. Near Exits 1-2 there is a free space with benches and a small gallery. A共同溝 (utility tunnel) for the Shingō-Yamato River Line runs adjacent, with a viewing window in the concourse.",
+            "Station layout": "An underground station with one island platform serving two tracks. One gate. All ground exits are on the Tsuruhashi side of the platform. Near Exits 1-2 there is a free space with benches and a small gallery. A utility tunnel for the Shingō-Yamato River Line runs adjacent, with a viewing window in the concourse.",
             "Usage": "On 10 November 2020, the daily boarding/alighting was 7,849 (boarding 4,014, alighting 3,835), the lowest on the Sennichimae Line, related to Kintetsu Fuse Station about 600 m east.",
             "Surrounding area": "The area is a mix of residential and urban. The west side is more residential; walking 500 m east enters the shopping district. There is no transfer announcement with Kintetsu Fuse Station, but it is a 10-minute walk.",
             "Bus routes": "The nearest stop is 'Subway Shōji', served by Osaka City Bus Route 12.",
@@ -376,8 +376,8 @@
             "Sennichimae Line": "Shin-Fukae Station (S21) - Shōji Station (S22) - Kita-Tatsumi Station (S23). Station numbers in parentheses.",
             "Railway stations in Osaka": "Shōji"
           },
-          "全文": "Shōji Station is a station on the Osaka Metro Sennichimae Line, located in Ikuno-ku, Osaka, Japan. Its station number is S22.\n\nHistory\n2 December 1981 (Shōwa 56): Opened when the Sennichimae Line was extended from Shin-Fukae to Minami-Tatsumi.\n 7 June 2014 (Heisei 26): Platform edge doors began operation.\n 1 April 2018 (Heisei 30): Became an Osaka Metro station.\n\nStation layout\nAn underground station with one island platform serving two tracks. One gate. All ground exits are on the Tsuruhashi side of the platform. Near Exits 1-2 there is a free space with benches and a small gallery. A共同溝 (utility tunnel) for the Shingō-Yamato River Line runs adjacent, with a viewing window in the concourse.\n\nUsage\nOn 10 November 2020, the daily boarding/alighting was 7,849 (boarding 4,014, alighting 3,835), the lowest on the Sennichimae Line, related to Kintetsu Fuse Station about 600 m east.\n\nSurrounding area\nThe area is a mix of residential and urban. The west side is more residential; walking 500 m east enters the shopping district. There is no transfer announcement with Kintetsu Fuse Station, but it is a 10-minute walk.\n\nBus routes\nThe nearest stop is 'Subway Shōji', served by Osaka City Bus Route 12.\n\nAdjacent stations\nOsaka Metro\n\nSennichimae Line\nShin-Fukae Station (S21) - Shōji Station (S22) - Kita-Tatsumi Station (S23). Station numbers in parentheses.\n\nRailway stations in Osaka\nShōji",
-          "字数": 1399
+          "全文": "Shōji Station is a station on the Osaka Metro Sennichimae Line, located in Ikuno-ku, Osaka, Japan. Its station number is S22.\n\nHistory\n2 December 1981 (Shōwa 56): Opened when the Sennichimae Line was extended from Shin-Fukae to Minami-Tatsumi.\n 7 June 2014 (Heisei 26): Platform edge doors began operation.\n 1 April 2018 (Heisei 30): Became an Osaka Metro station.\n\nStation layout\nAn underground station with one island platform serving two tracks. One gate. All ground exits are on the Tsuruhashi side of the platform. Near Exits 1-2 there is a free space with benches and a small gallery. A utility tunnel for the Shingō-Yamato River Line runs adjacent, with a viewing window in the concourse.\n\nUsage\nOn 10 November 2020, the daily boarding/alighting was 7,849 (boarding 4,014, alighting 3,835), the lowest on the Sennichimae Line, related to Kintetsu Fuse Station about 600 m east.\n\nSurrounding area\nThe area is a mix of residential and urban. The west side is more residential; walking 500 m east enters the shopping district. There is no transfer announcement with Kintetsu Fuse Station, but it is a 10-minute walk.\n\nBus routes\nThe nearest stop is 'Subway Shōji', served by Osaka City Bus Route 12.\n\nAdjacent stations\nOsaka Metro\n\nSennichimae Line\nShin-Fukae Station (S21) - Shōji Station (S22) - Kita-Tatsumi Station (S23). Station numbers in parentheses.\n\nRailway stations in Osaka\nShōji",
+          "字数": 1394
         }
       },
       "结构化信息": {
@@ -450,11 +450,11 @@
             "利用状况": "2018年11月13日1日上下车人次为12,680人（上车人次：6,470人，下车人次：6,210人）。",
             "巴士路线": "多为大阪市营巴士。",
             "北行": "86路系统　开往上新庄站前\n地铁新深江 - 地铁深江桥 - 地铁今福鹤见 - 清水小学前 - 丰里 - 上新庄站前\n86C路系统　开往新森公园前\n地铁新深江 - 地铁深江桥 - 地铁今福鹤见 - 新森公园前\n东成环状内圈（红巴士）\n地铁新深江 - 地铁深江桥 - 地铁绿桥 - 地铁今里 - 地铁新深江（循环）",
-            "南行": "86号系统　布施站前 行\n地下铁新深江 - 布施駅前\n东成环状外回（赤巴士）\n地下铁新深江 - 地下铁今里 - 地下铁绿桥 - 地下铁深江桥 - 地下铁新深江（循环）",
+            "南行": "86号系统　布施站前 行\n地下铁新深江 - 布施站前\n东成环状外回（赤巴士）\n地下铁新深江 - 地下铁今里 - 地下铁绿桥 - 地下铁深江桥 - 地下铁新深江（循环）",
             "相邻车站": "大阪市高速电气轨道（大阪地下铁）",
             "千日前线": "今里（S-20）－新深江（S-21）－小路（S-22）"
           },
-          "全文": "新深江站是一个位于日本大阪府大阪市东成区神路四丁目，属于大阪市高速电气轨道（大阪地下铁）千日前线的铁路车站。车站编号是S21。\n\n历史\n1969年（昭和44年）9月10日 5号线（现在的千日前线）之今里站～新深江站间开通时，为同线终着站开业。\n1997年（平成9年）8月29日 长堀鹤见绿地线向南巽延伸，成为途中站。\n\n车站构造\n岛式月台1面2线的地下车站。闸机在东西各设有一个，但只有东侧设有升降机。\n\n利用状况\n2018年11月13日1日上下车人次为12,680人（上车人次：6,470人，下车人次：6,210人）。\n\n巴士路线\n多为大阪市营巴士。\n\n北行\n86路系统　开往上新庄站前\n地铁新深江 - 地铁深江桥 - 地铁今福鹤见 - 清水小学前 - 丰里 - 上新庄站前\n86C路系统　开往新森公园前\n地铁新深江 - 地铁深江桥 - 地铁今福鹤见 - 新森公园前\n东成环状内圈（红巴士）\n地铁新深江 - 地铁深江桥 - 地铁绿桥 - 地铁今里 - 地铁新深江（循环）\n\n南行\n86号系统　布施站前 行\n地下铁新深江 - 布施駅前\n东成环状外回（赤巴士）\n地下铁新深江 - 地下铁今里 - 地下铁绿桥 - 地下铁深江桥 - 地下铁新深江（循环）\n\n相邻车站\n大阪市高速电气轨道（大阪地下铁）\n\n千日前线\n今里（S-20）－新深江（S-21）－小路（S-22）",
+          "全文": "新深江站是一个位于日本大阪府大阪市东成区神路四丁目，属于大阪市高速电气轨道（大阪地下铁）千日前线的铁路车站。车站编号是S21。\n\n历史\n1969年（昭和44年）9月10日 5号线（现在的千日前线）之今里站～新深江站间开通时，为同线终着站开业。\n1997年（平成9年）8月29日 长堀鹤见绿地线向南巽延伸，成为途中站。\n\n车站构造\n岛式月台1面2线的地下车站。闸机在东西各设有一个，但只有东侧设有升降机。\n\n利用状况\n2018年11月13日1日上下车人次为12,680人（上车人次：6,470人，下车人次：6,210人）。\n\n巴士路线\n多为大阪市营巴士。\n\n北行\n86路系统　开往上新庄站前\n地铁新深江 - 地铁深江桥 - 地铁今福鹤见 - 清水小学前 - 丰里 - 上新庄站前\n86C路系统　开往新森公园前\n地铁新深江 - 地铁深江桥 - 地铁今福鹤见 - 新森公园前\n东成环状内圈（红巴士）\n地铁新深江 - 地铁深江桥 - 地铁绿桥 - 地铁今里 - 地铁新深江（循环）\n\n南行\n86号系统　布施站前 行\n地下铁新深江 - 布施站前\n东成环状外回（赤巴士）\n地下铁新深江 - 地下铁今里 - 地下铁绿桥 - 地下铁深江桥 - 地下铁新深江（循环）\n\n相邻车站\n大阪市高速电气轨道（大阪地下铁）\n\n千日前线\n今里（S-20）－新深江（S-21）－小路（S-22）",
           "字数": 581,
           "来源": "维基百科中文版（已转简体）"
         },
@@ -593,10 +593,10 @@
         "英文": {
           "词条标题": "Sakuragawa Station",
           "链接": "https://en.wikipedia.org/wiki/Sakuragawa%20Station",
-          "首段": "Sakuragawa Station (桜川駅) is the name of two train stations in Japan:\n\nSakuragawa Station (Osaka)\n Sakuragawa Station (Shiga)",
+          "首段": "Sakuragawa Station is the name of two train stations in Japan:\n\nSakuragawa Station (Osaka)\n Sakuragawa Station (Shiga)",
           "章节": {},
-          "全文": "Sakuragawa Station (桜川駅) is the name of two train stations in Japan:\n\nSakuragawa Station (Osaka)\n Sakuragawa Station (Shiga)",
-          "字数": 124
+          "全文": "Sakuragawa Station is the name of two train stations in Japan:\n\nSakuragawa Station (Osaka)\n Sakuragawa Station (Shiga)",
+          "字数": 118
         }
       },
       "结构化信息": {
@@ -643,10 +643,10 @@
         "英文": {
           "词条标题": "Tamagawa Station",
           "链接": "https://en.wikipedia.org/wiki/Tamagawa%20Station",
-          "首段": "Tamagawa Station may refer to:\nTamagawa Station (Iwate) (玉川駅), Hirono Town, Kunohe District, Iwate Prefecture, connected with the JR East Hachinohe Line\nTamagawa Station (Osaka) (玉川駅), Fukushima-ku, Osaka, connected with the Osaka Municipal Subway Sennichimae Line\nTamagawa Station (Tokyo) (多摩川駅), Den'en-Chofu, Ota, Tokyo, connected with the Tokyu Toyoko Line, the Tokyu Meguro Line, and the Tokyu Tamagawa Line",
+          "首段": "Tamagawa Station may refer to:\nTamagawa Station (Iwate) , Hirono Town, Kunohe District, Iwate Prefecture, connected with the JR East Hachinohe Line\nTamagawa Station (Osaka) , Fukushima-ku, Osaka, connected with the Osaka Municipal Subway Sennichimae Line\nTamagawa Station (Tokyo) , Den'en-Chofu, Ota, Tokyo, connected with the Tokyu Toyoko Line, the Tokyu Meguro Line, and the Tokyu Tamagawa Line",
           "章节": {},
-          "全文": "Tamagawa Station may refer to:\nTamagawa Station (Iwate) (玉川駅), Hirono Town, Kunohe District, Iwate Prefecture, connected with the JR East Hachinohe Line\nTamagawa Station (Osaka) (玉川駅), Fukushima-ku, Osaka, connected with the Osaka Municipal Subway Sennichimae Line\nTamagawa Station (Tokyo) (多摩川駅), Den'en-Chofu, Ota, Tokyo, connected with the Tokyu Toyoko Line, the Tokyu Meguro Line, and the Tokyu Tamagawa Line",
-          "字数": 412
+          "全文": "Tamagawa Station may refer to:\nTamagawa Station (Iwate) , Hirono Town, Kunohe District, Iwate Prefecture, connected with the JR East Hachinohe Line\nTamagawa Station (Osaka) , Fukushima-ku, Osaka, connected with the Osaka Municipal Subway Sennichimae Line\nTamagawa Station (Tokyo) , Den'en-Chofu, Ota, Tokyo, connected with the Tokyu Toyoko Line, the Tokyu Meguro Line, and the Tokyu Tamagawa Line",
+          "字数": 396
         }
       },
       "结构化信息": {
@@ -1058,7 +1058,7 @@
         "英文": {
           "词条标题": "Awaza Station",
           "链接": "https://en.wikipedia.org/wiki/Awaza%20Station",
-          "首段": "is a railway station on the two lines of the Osaka Metro.  The station is in Nishi-ku, Osaka, Japan.",
+          "首段": "is a railway station on the two lines of the Osaka Metro. The station is in Nishi-ku, Osaka, Japan.",
           "章节": {
             "History": "31 October 1964 (Shōwa 39): Opened when Line 4 (now Chūō Line) was extended between Bentenchō and Honmachi (temporary).\n 16 April 1969 (Shōwa 44): Line 5 (now Sennichimae Line) opened between Nodahanshin and Sakuragawa, making it an interchange.\n 22 November 2014 (Heisei 26): Platform edge doors on the Sennichimae Line.\n 1 April 2018 (Heisei 30): Became an Osaka Metro station.",
             "Station layout": "Both lines are underground with two opposing side platforms. A transfer passage connects the Cosmosquare end of the Chūō Line platform to the Minami-Tatsumi end of the Sennichimae Line platform.",
@@ -1076,8 +1076,8 @@
             "Railway stations in Osaka": "Awaza",
             "Railway stations opened in 1964": "Awaza"
           },
-          "全文": "is a railway station on the two lines of the Osaka Metro.  The station is in Nishi-ku, Osaka, Japan.\n\nHistory\n31 October 1964 (Shōwa 39): Opened when Line 4 (now Chūō Line) was extended between Bentenchō and Honmachi (temporary).\n 16 April 1969 (Shōwa 44): Line 5 (now Sennichimae Line) opened between Nodahanshin and Sakuragawa, making it an interchange.\n 22 November 2014 (Heisei 26): Platform edge doors on the Sennichimae Line.\n 1 April 2018 (Heisei 30): Became an Osaka Metro station.\n\nStation layout\nBoth lines are underground with two opposing side platforms. A transfer passage connects the Cosmosquare end of the Chūō Line platform to the Minami-Tatsumi end of the Sennichimae Line platform.\n\nFeatures\nSennichimae Line trains use the connecting track to enter/exit the Morinomiya depot via the Chūō Line. Some Sennichimae Line through trains start here.\n\nUsage\nOn 10 November 2020, the daily boarding/alighting was 42,165 (boarding 21,196, alighting 20,969).\n\nSurrounding area\nAn office district continuing from Honmachi Station.\n\nOsaka Nishi Post Office\nNishi-Osaka River Improvement Office (tsunami/storm surge station).\n\nKansai Geijutsu-za\nPaloma Kansai branch (Paloma Awaza Building).\n\nLife Awaza-mae Store\nSMBC Tachibana, Osaka-Nishi, Minato branches and Cosmos Tower office (formerly Sumitomo Bank).\n\nHanshin Expressway Route 16 Osaka Port\nA rare motorcycle-only bicycle parking area is northwest of the station.\n\nBus routes\nNearest stops are Okazaki-bashi and Tachibana 3-chōme, served by Osaka City Bus Route 55 for Osaka Station / Tsurumachi 4-chōme.\n\nAdjacent stations\nOsaka Metro\n\nChūō Line\nKujō Station (C14) - Awaza Station (C15) - Honmachi Station (C16)\n\nSennichimae Line\nTamagawa Station (S12) - Awaza Station (S13) - Nishi-Nagahori Station (S14). Station numbers in parentheses.\n\nRailway stations in Osaka\nAwaza\n\nRailway stations opened in 1964\nAwaza",
-          "字数": 1875
+          "全文": "is a railway station on the two lines of the Osaka Metro. The station is in Nishi-ku, Osaka, Japan.\n\nHistory\n31 October 1964 (Shōwa 39): Opened when Line 4 (now Chūō Line) was extended between Bentenchō and Honmachi (temporary).\n 16 April 1969 (Shōwa 44): Line 5 (now Sennichimae Line) opened between Nodahanshin and Sakuragawa, making it an interchange.\n 22 November 2014 (Heisei 26): Platform edge doors on the Sennichimae Line.\n 1 April 2018 (Heisei 30): Became an Osaka Metro station.\n\nStation layout\nBoth lines are underground with two opposing side platforms. A transfer passage connects the Cosmosquare end of the Chūō Line platform to the Minami-Tatsumi end of the Sennichimae Line platform.\n\nFeatures\nSennichimae Line trains use the connecting track to enter/exit the Morinomiya depot via the Chūō Line. Some Sennichimae Line through trains start here.\n\nUsage\nOn 10 November 2020, the daily boarding/alighting was 42,165 (boarding 21,196, alighting 20,969).\n\nSurrounding area\nAn office district continuing from Honmachi Station.\n\nOsaka Nishi Post Office\nNishi-Osaka River Improvement Office (tsunami/storm surge station).\n\nKansai Geijutsu-za\nPaloma Kansai branch (Paloma Awaza Building).\n\nLife Awaza-mae Store\nSMBC Tachibana, Osaka-Nishi, Minato branches and Cosmos Tower office (formerly Sumitomo Bank).\n\nHanshin Expressway Route 16 Osaka Port\nA rare motorcycle-only bicycle parking area is northwest of the station.\n\nBus routes\nNearest stops are Okazaki-bashi and Tachibana 3-chōme, served by Osaka City Bus Route 55 for Osaka Station / Tsurumachi 4-chōme.\n\nAdjacent stations\nOsaka Metro\n\nChūō Line\nKujō Station (C14) - Awaza Station (C15) - Honmachi Station (C16)\n\nSennichimae Line\nTamagawa Station (S12) - Awaza Station (S13) - Nishi-Nagahori Station (S14). Station numbers in parentheses.\n\nRailway stations in Osaka\nAwaza\n\nRailway stations opened in 1964\nAwaza",
+          "字数": 1874
         }
       },
       "结构化信息": {

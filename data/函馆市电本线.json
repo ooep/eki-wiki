@@ -134,7 +134,7 @@
       "英文": {
         "来源": "LLM全文翻译（据日文维基全文）",
         "词条标题": "Hakodate City Transportation Department",
-        "首段": "The Hakodate City Tram Main Line (函館市電本線) is a tram line in Hakodate, Hokkaido, Japan, operated by the Hakodate City Tram. It runs from Hakodate-Ekimae to Jūjigai.",
+        "首段": "The Hakodate City Tram Main Line is a tram line in Hakodate, Hokkaido, Japan, operated by the Hakodate City Tram. It runs from Hakodate-Ekimae to Jūjigai.",
         "章节": {
           "Overview": "A classic urban tram line in the port city of Hakodate.",
           "Line data": "Length: several kilometres. Tram gauge.",
@@ -142,8 +142,8 @@
           "Operations": "Trams run every 5-10 minutes.",
           "Hakodate Transportation District": "Hakodate Line"
         },
-        "全文": "The Hakodate City Tram Main Line (函館市電本線) is a tram line in Hakodate, Hokkaido, Japan, operated by the Hakodate City Tram. It runs from Hakodate-Ekimae to Jūjigai.\n\nOverview\nA classic urban tram line in the port city of Hakodate.\n\nLine data\nLength: several kilometres. Tram gauge.\n\nHistory\nOpened in 1913.\n\nOperations\nTrams run every 5-10 minutes.\n\nHakodate Transportation District\nHakodate Line",
-        "字数": 395
+        "全文": "The Hakodate City Tram Main Line is a tram line in Hakodate, Hokkaido, Japan, operated by the Hakodate City Tram. It runs from Hakodate-Ekimae to Jūjigai.\n\nOverview\nA classic urban tram line in the port city of Hakodate.\n\nLine data\nLength: several kilometres. Tram gauge.\n\nHistory\nOpened in 1913.\n\nOperations\nTrams run every 5-10 minutes.\n\nHakodate Transportation District\nHakodate Line",
+        "字数": 386
       }
     }
   },
@@ -521,10 +521,10 @@
         "英文": {
           "来源": "LLM全文翻译（据日文维基全文）",
           "词条标题": "Hakodate Station-mae",
-          "首段": "Hakodate Station-mae (函館駅前, Hakodate Ekimae)\n For the bus stop, see Hakodate Station-mae Bus Terminal.\n For the tram stop of the Hakodate City Transportation Bureau, see Hakodate Station § Hakodate City Tram Hakodate Station-mae Stop.",
+          "首段": "Hakodate Station-mae \n For the bus stop, see Hakodate Station-mae Bus Terminal.\n For the tram stop of the Hakodate City Transportation Bureau, see Hakodate Station § Hakodate City Tram Hakodate Station-mae Stop.",
           "章节": {},
-          "全文": "Hakodate Station-mae (函館駅前, Hakodate Ekimae)\n For the bus stop, see Hakodate Station-mae Bus Terminal.\n For the tram stop of the Hakodate City Transportation Bureau, see Hakodate Station § Hakodate City Tram Hakodate Station-mae Stop.",
-          "字数": 234
+          "全文": "Hakodate Station-mae \n For the bus stop, see Hakodate Station-mae Bus Terminal.\n For the tram stop of the Hakodate City Transportation Bureau, see Hakodate Station § Hakodate City Tram Hakodate Station-mae Stop.",
+          "字数": 211
         }
       },
       "结构化信息": {
@@ -1081,10 +1081,10 @@
             "已废": "市役所前车站 (岐阜县)：曾存在于岐阜县岐阜市，原为名铁岐阜市内线本线（长良线）的路面电车车站。1988年时伴随岐阜市内本线的废线，而一同废-{}-站。",
             "已改名": "吹田车站 (阪急)（）：位于大阪府吹田市，阪急千里线沿线的车站。在过去这边原本有吹田车站与市役所前车站两个独立的车站，但在1964年4月1日两站合并并以吹田车站作为存续车站，而改为今名。\n （）：位于熊本县熊本市，是熊本市电所经营的路面电车站。在2011年改名之前原名「市役所前」。\n\n-{站}-名带有「市役所前」的车站\n 挂川市役所前车站（）：位于静冈县挂川市，是天龙滨名湖铁道天龙滨名湖线的沿线车站。\n 关市役所前车站（）：位于岐阜县关市，是长良川铁道越每南线沿线车站。\n 羽岛市役所前车站（）：位于岐阜县羽岛市，是名铁竹鼻线沿线车站。\n 各务原市役所前车站（）：位于岐阜县各务原市，是名铁各务原线沿线车站。\n 濑户市役所前车站（）：位于爱知县濑户市，是名铁濑户线沿线车站。\n 大津市役所前站（）：位于滋贺县大津市，是京阪电气铁道石山坂本线沿线车站。\n 京都市役所前车站（）：位于京都府京都市中京区，是京都市营地下铁东西线沿线车站。\n 贝冢市役所前车站（）：位于大阪府贝冢市，是水间铁道水间线沿线车站。\n 廿日市市役所前车站（）：位于广岛县廿日市市，是广岛电铁宫岛线沿线车站。\n 熊本城、市役所前车站（）：位于熊本县熊本市的熊本市电电车车站，改名前原名「市役所前」。",
             "名称相似车站": "车站名称中未包含「前」字：\n 市役所车站（）：位于爱知县名古屋市中区，是名古屋市营地下铁名城线沿线的车站，2023年1月4日起更名为「名古屋城车站」（），「市役所」列为副站名。\n 南阳市役所车站（）：位于山形县南阳市，是山形铁道花长井线（）沿线车站。",
-            "副站名为「市役所前」的车站": "勾当台公园车站（勾当台公园駅）：位于宫城县仙台市青叶区，是仙台市地下铁南北线沿线的车站。\n 荒本车站（荒本駅）：位于大阪府东大阪市，是近畿日本铁道京阪奈线（）沿线车站。",
+            "副站名为「市役所前」的车站": "勾当台公园车站（勾当台公园站）：位于宫城县仙台市青叶区，是仙台市地下铁南北线沿线的车站。\n 荒本车站（荒本站）：位于大阪府东大阪市，是近畿日本铁道京阪奈线（）沿线车站。",
             "意义上的名称相似车站": "市政府车站：「市役所」是日文中对于市级行政区的行政单位（与其所在的建筑）之汉字称呼，但在中文中实际上与「市政府」、「市公所」、「市政厅」等政府单位意义相同。"
           },
-          "全文": "市役所前站顾名思义是意指设置在市役所（市公所、市政府）前的车站。在日本，有许多设置在各城市市役所前、被命名为「市役所前」或名称相近的铁路或路面电车车站。\n\n使用中\n市役所前站 (北海道)：位于北海道函馆市大手町，是隶属于函馆市电的路面电车车站。\n市役所前站 (千叶县)：位于千叶县千叶市中央区，是千叶都市单轨电车（）1号线沿线的车站。\n市役所前车站 (福井县)：位于福井县福井市，是福井铁道福武线上的铁路车站。\n市役所前车站 (长野县)：位于长野县长野市，是长野电铁长野线上的铁路车站。\n：位于爱知县丰桥市，是丰桥铁道东田本线上的路面电车车站。\n市役所前车站 (和歌山县)：位于和歌山县御坊市，是纪州铁道所经营的铁路车站。\n：位于广岛县广岛市中区，是广岛电铁所属的路面电车车站。\n：位于爱媛县松山市，是伊予铁道城南线沿线的路面电车车站。\n：位于鹿儿岛县鹿儿岛市山下町，是鹿儿岛市电所属的路面电车车站。\n\n已废\n市役所前车站 (岐阜县)：曾存在于岐阜县岐阜市，原为名铁岐阜市内线本线（长良线）的路面电车车站。1988年时伴随岐阜市内本线的废线，而一同废-{}-站。\n\n已改名\n吹田车站 (阪急)（）：位于大阪府吹田市，阪急千里线沿线的车站。在过去这边原本有吹田车站与市役所前车站两个独立的车站，但在1964年4月1日两站合并并以吹田车站作为存续车站，而改为今名。\n （）：位于熊本县熊本市，是熊本市电所经营的路面电车站。在2011年改名之前原名「市役所前」。\n\n-{站}-名带有「市役所前」的车站\n 挂川市役所前车站（）：位于静冈县挂川市，是天龙滨名湖铁道天龙滨名湖线的沿线车站。\n 关市役所前车站（）：位于岐阜县关市，是长良川铁道越每南线沿线车站。\n 羽岛市役所前车站（）：位于岐阜县羽岛市，是名铁竹鼻线沿线车站。\n 各务原市役所前车站（）：位于岐阜县各务原市，是名铁各务原线沿线车站。\n 濑户市役所前车站（）：位于爱知县濑户市，是名铁濑户线沿线车站。\n 大津市役所前站（）：位于滋贺县大津市，是京阪电气铁道石山坂本线沿线车站。\n 京都市役所前车站（）：位于京都府京都市中京区，是京都市营地下铁东西线沿线车站。\n 贝冢市役所前车站（）：位于大阪府贝冢市，是水间铁道水间线沿线车站。\n 廿日市市役所前车站（）：位于广岛县廿日市市，是广岛电铁宫岛线沿线车站。\n 熊本城、市役所前车站（）：位于熊本县熊本市的熊本市电电车车站，改名前原名「市役所前」。\n\n名称相似车站\n车站名称中未包含「前」字：\n 市役所车站（）：位于爱知县名古屋市中区，是名古屋市营地下铁名城线沿线的车站，2023年1月4日起更名为「名古屋城车站」（），「市役所」列为副站名。\n 南阳市役所车站（）：位于山形县南阳市，是山形铁道花长井线（）沿线车站。\n\n副站名为「市役所前」的车站\n勾当台公园车站（勾当台公园駅）：位于宫城县仙台市青叶区，是仙台市地下铁南北线沿线的车站。\n 荒本车站（荒本駅）：位于大阪府东大阪市，是近畿日本铁道京阪奈线（）沿线车站。\n\n意义上的名称相似车站\n市政府车站：「市役所」是日文中对于市级行政区的行政单位（与其所在的建筑）之汉字称呼，但在中文中实际上与「市政府」、「市公所」、「市政厅」等政府单位意义相同。",
+          "全文": "市役所前站顾名思义是意指设置在市役所（市公所、市政府）前的车站。在日本，有许多设置在各城市市役所前、被命名为「市役所前」或名称相近的铁路或路面电车车站。\n\n使用中\n市役所前站 (北海道)：位于北海道函馆市大手町，是隶属于函馆市电的路面电车车站。\n市役所前站 (千叶县)：位于千叶县千叶市中央区，是千叶都市单轨电车（）1号线沿线的车站。\n市役所前车站 (福井县)：位于福井县福井市，是福井铁道福武线上的铁路车站。\n市役所前车站 (长野县)：位于长野县长野市，是长野电铁长野线上的铁路车站。\n：位于爱知县丰桥市，是丰桥铁道东田本线上的路面电车车站。\n市役所前车站 (和歌山县)：位于和歌山县御坊市，是纪州铁道所经营的铁路车站。\n：位于广岛县广岛市中区，是广岛电铁所属的路面电车车站。\n：位于爱媛县松山市，是伊予铁道城南线沿线的路面电车车站。\n：位于鹿儿岛县鹿儿岛市山下町，是鹿儿岛市电所属的路面电车车站。\n\n已废\n市役所前车站 (岐阜县)：曾存在于岐阜县岐阜市，原为名铁岐阜市内线本线（长良线）的路面电车车站。1988年时伴随岐阜市内本线的废线，而一同废-{}-站。\n\n已改名\n吹田车站 (阪急)（）：位于大阪府吹田市，阪急千里线沿线的车站。在过去这边原本有吹田车站与市役所前车站两个独立的车站，但在1964年4月1日两站合并并以吹田车站作为存续车站，而改为今名。\n （）：位于熊本县熊本市，是熊本市电所经营的路面电车站。在2011年改名之前原名「市役所前」。\n\n-{站}-名带有「市役所前」的车站\n 挂川市役所前车站（）：位于静冈县挂川市，是天龙滨名湖铁道天龙滨名湖线的沿线车站。\n 关市役所前车站（）：位于岐阜县关市，是长良川铁道越每南线沿线车站。\n 羽岛市役所前车站（）：位于岐阜县羽岛市，是名铁竹鼻线沿线车站。\n 各务原市役所前车站（）：位于岐阜县各务原市，是名铁各务原线沿线车站。\n 濑户市役所前车站（）：位于爱知县濑户市，是名铁濑户线沿线车站。\n 大津市役所前站（）：位于滋贺县大津市，是京阪电气铁道石山坂本线沿线车站。\n 京都市役所前车站（）：位于京都府京都市中京区，是京都市营地下铁东西线沿线车站。\n 贝冢市役所前车站（）：位于大阪府贝冢市，是水间铁道水间线沿线车站。\n 廿日市市役所前车站（）：位于广岛县廿日市市，是广岛电铁宫岛线沿线车站。\n 熊本城、市役所前车站（）：位于熊本县熊本市的熊本市电电车车站，改名前原名「市役所前」。\n\n名称相似车站\n车站名称中未包含「前」字：\n 市役所车站（）：位于爱知县名古屋市中区，是名古屋市营地下铁名城线沿线的车站，2023年1月4日起更名为「名古屋城车站」（），「市役所」列为副站名。\n 南阳市役所车站（）：位于山形县南阳市，是山形铁道花长井线（）沿线车站。\n\n副站名为「市役所前」的车站\n勾当台公园车站（勾当台公园站）：位于宫城县仙台市青叶区，是仙台市地下铁南北线沿线的车站。\n 荒本车站（荒本站）：位于大阪府东大阪市，是近畿日本铁道京阪奈线（）沿线车站。\n\n意义上的名称相似车站\n市政府车站：「市役所」是日文中对于市级行政区的行政单位（与其所在的建筑）之汉字称呼，但在中文中实际上与「市政府」、「市公所」、「市政厅」等政府单位意义相同。",
           "字数": 1347,
           "来源": "维基百科中文版（已转简体）"
         },

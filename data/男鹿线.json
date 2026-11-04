@@ -52,7 +52,7 @@
       "英文": {
         "词条标题": "男鹿线",
         "链接": "https://ja.wikipedia.org/wiki/%E7%94%B7%E9%B9%BF%E7%B7%9A",
-        "首段": "The Oga Line (男鹿線) is a railway line in Akita Prefecture, Japan, operated by JR East. It connects Oiwake Station in Akita City with Oga Station in Oga City, following the western coast of the Oga Peninsula.",
+        "首段": "The Oga Line is a railway line in Akita Prefecture, Japan, operated by JR East. It connects Oiwake Station in Akita City with Oga Station in Oga City, following the western coast of the Oga Peninsula.",
         "章节": {
           "Line data": "Length: 26.6 km. Gauge: 1,067 mm. Entirely non-electrified (diesel). Single track throughout.",
           "IC card compatible section": "IC cards (Suica, Niigata area) are accepted on this line.",
@@ -67,8 +67,8 @@
           "Usage": "Ridership is moderate, serving local commuters and tourists visiting the Oga Peninsula.",
           "List of railway lines in Japan": "The Oga Line is listed among the railway lines of Japan."
         },
-        "全文": "The Oga Line (男鹿線) is a railway line in Akita Prefecture, Japan, operated by JR East. It connects Oiwake Station in Akita City with Oga Station in Oga City, following the western coast of the Oga Peninsula.\n\nLine data\nLength: 26.6 km. Gauge: 1,067 mm. Entirely non-electrified (diesel). Single track throughout.\n\nIC card compatible section\nIC cards (Suica, Niigata area) are accepted on this line.\n\nOperations\nAll services are local trains, stopping at every station. Through services run from Akita Station.\n\nRolling stock\nKiHa 40/48 series DMUs operate all services.\n\nHistory\nThe line opened in stages between 1913 and 1915, and was transferred to JR East upon JNR privatization in 1987.\n\nChronology\n1913: First section opened. 1915: Line extended to Oga. 1987: JNR privatization.\n\nStation list\nThe line serves 13 stations between Oiwake and Oga.\n\nDistance from Oiwake\nKilometres are measured from Oiwake Station, the official starting point.\n\nAll stations in Akita Prefecture\nAll stations on the Oga Line are located within Akita Prefecture.\n\nFreight branch\nA freight branch formerly operated from Oiwake.\n\nUsage\nRidership is moderate, serving local commuters and tourists visiting the Oga Peninsula.\n\nList of railway lines in Japan\nThe Oga Line is listed among the railway lines of Japan.",
-        "字数": 1292
+        "全文": "The Oga Line is a railway line in Akita Prefecture, Japan, operated by JR East. It connects Oiwake Station in Akita City with Oga Station in Oga City, following the western coast of the Oga Peninsula.\n\nLine data\nLength: 26.6 km. Gauge: 1,067 mm. Entirely non-electrified (diesel). Single track throughout.\n\nIC card compatible section\nIC cards (Suica, Niigata area) are accepted on this line.\n\nOperations\nAll services are local trains, stopping at every station. Through services run from Akita Station.\n\nRolling stock\nKiHa 40/48 series DMUs operate all services.\n\nHistory\nThe line opened in stages between 1913 and 1915, and was transferred to JR East upon JNR privatization in 1987.\n\nChronology\n1913: First section opened. 1915: Line extended to Oga. 1987: JNR privatization.\n\nStation list\nThe line serves 13 stations between Oiwake and Oga.\n\nDistance from Oiwake\nKilometres are measured from Oiwake Station, the official starting point.\n\nAll stations in Akita Prefecture\nAll stations on the Oga Line are located within Akita Prefecture.\n\nFreight branch\nA freight branch formerly operated from Oiwake.\n\nUsage\nRidership is moderate, serving local commuters and tourists visiting the Oga Peninsula.\n\nList of railway lines in Japan\nThe Oga Line is listed among the railway lines of Japan.",
+        "字数": 1286
       }
     }
   },
@@ -111,15 +111,15 @@
         "英文": {
           "词条标题": "Kamifutada Station",
           "链接": "https://ja.wikipedia.org/wiki/%E4%B8%8A%E4%BA%8C%E7%94%B0%E9%A7%85",
-          "首段": "Kamifutada Station (上二田駅) is a JR East Oga Line station in Akita City, Akita Prefecture, Japan.",
+          "首段": "Kamifutada Station is a JR East Oga Line station in Akita City, Akita Prefecture, Japan.",
           "章节": {
             "History": "26 November 1956: Opened as a JNR station. 1 April 1987: Transferred to JR East.",
             "Station layout": "An at-grade station with one side platform serving one track. Unstaffed.",
             "Adjacent stations": "JR East.",
             "Oga Line": "Futada – Kamifutada – Kami-Iijima."
           },
-          "全文": "Kamifutada Station (上二田駅) is a JR East Oga Line station in Akita City, Akita Prefecture, Japan.\n\nHistory\n26 November 1956: Opened as a JNR station. 1 April 1987: Transferred to JR East.\n\nStation layout\nAn at-grade station with one side platform serving one track. Unstaffed.\n\nAdjacent stations\nJR East.\n\nOga Line\nFutada – Kamifutada – Kami-Iijima.",
-          "字数": 347
+          "全文": "Kamifutada Station is a JR East Oga Line station in Akita City, Akita Prefecture, Japan.\n\nHistory\n26 November 1956: Opened as a JNR station. 1 April 1987: Transferred to JR East.\n\nStation layout\nAn at-grade station with one side platform serving one track. Unstaffed.\n\nAdjacent stations\nJR East.\n\nOga Line\nFutada – Kamifutada – Kami-Iijima.",
+          "字数": 340
         }
       },
       "结构化信息": {
@@ -186,7 +186,7 @@
         "英文": {
           "词条标题": "上飯島駅",
           "链接": "https://ja.wikipedia.org/wiki/%E4%B8%8A%E9%A3%AF%E5%B3%B6%E9%A7%85",
-          "首段": "Kami-Iijima Station (上飯島駅) is a JR East Oga Line station in Akita City, Akita Prefecture, Japan.",
+          "首段": "Kami-Iijima Station is a JR East Oga Line station in Akita City, Akita Prefecture, Japan.",
           "章节": {
             "History": "28 September 1944: Opened as a JNR station. 1987: Transferred to JR East.",
             "Station layout": "An at-grade station with two opposed side platforms serving two tracks.",
@@ -196,8 +196,8 @@
             "Oga Line": "Kamifutada – Kami-Iijima – Oiwake.",
             "Railway stations in Akita": "Kami-Iijima Station is one of the railway stations in Akita City."
           },
-          "全文": "Kami-Iijima Station (上飯島駅) is a JR East Oga Line station in Akita City, Akita Prefecture, Japan.\n\nHistory\n28 September 1944: Opened as a JNR station. 1987: Transferred to JR East.\n\nStation layout\nAn at-grade station with two opposed side platforms serving two tracks.\n\nPassenger statistics\nRidership is low.\n\nSurrounding area\nAkita Prefectural Road 112 passes nearby.\n\nAdjacent stations\nJR East.\n\nOga Line\nKamifutada – Kami-Iijima – Oiwake.\n\nRailway stations in Akita\nKami-Iijima Station is one of the railway stations in Akita City.",
-          "字数": 533
+          "全文": "Kami-Iijima Station is a JR East Oga Line station in Akita City, Akita Prefecture, Japan.\n\nHistory\n28 September 1944: Opened as a JNR station. 1987: Transferred to JR East.\n\nStation layout\nAn at-grade station with two opposed side platforms serving two tracks.\n\nPassenger statistics\nRidership is low.\n\nSurrounding area\nAkita Prefectural Road 112 passes nearby.\n\nAdjacent stations\nJR East.\n\nOga Line\nKamifutada – Kami-Iijima – Oiwake.\n\nRailway stations in Akita\nKami-Iijima Station is one of the railway stations in Akita City.",
+          "字数": 526
         }
       },
       "结构化信息": {
@@ -271,7 +271,7 @@
         "英文": {
           "词条标题": "Futada Station",
           "链接": "https://ja.wikipedia.org/wiki/%E4%BA%8C%E7%94%B0%E9%A7%85",
-          "首段": "Futada Station (二田駅) is a JR East Oga Line station in Katagami City, Akita Prefecture, Japan.",
+          "首段": "Futada Station is a JR East Oga Line station in Katagami City, Akita Prefecture, Japan.",
           "章节": {
             "History": "Opened in 1914 as a JNR station. Transferred to JR East in 1987.",
             "Station layout": "An at-grade station with one island platform serving two tracks.",
@@ -282,8 +282,8 @@
             "Railway stations in Katagami": "Futada Station is one of the railway stations in Katagami City.",
             "Former JNR stations": "Futada Station is listed among former JNR stations."
           },
-          "全文": "Futada Station (二田駅) is a JR East Oga Line station in Katagami City, Akita Prefecture, Japan.\n\nHistory\nOpened in 1914 as a JNR station. Transferred to JR East in 1987.\n\nStation layout\nAn at-grade station with one island platform serving two tracks.\n\nPassenger statistics\nRidership is moderate.\n\nSurrounding area\nKatagami City Hall is nearby.\n\nAdjacent stations\nJR East.\n\nOga Line\nTenno – Futada – Kamifutada.\n\nRailway stations in Katagami\nFutada Station is one of the railway stations in Katagami City.\n\nFormer JNR stations\nFutada Station is listed among former JNR stations.",
-          "字数": 575
+          "全文": "Futada Station is a JR East Oga Line station in Katagami City, Akita Prefecture, Japan.\n\nHistory\nOpened in 1914 as a JNR station. Transferred to JR East in 1987.\n\nStation layout\nAn at-grade station with one island platform serving two tracks.\n\nPassenger statistics\nRidership is moderate.\n\nSurrounding area\nKatagami City Hall is nearby.\n\nAdjacent stations\nJR East.\n\nOga Line\nTenno – Futada – Kamifutada.\n\nRailway stations in Katagami\nFutada Station is one of the railway stations in Katagami City.\n\nFormer JNR stations\nFutada Station is listed among former JNR stations.",
+          "字数": 569
         }
       },
       "结构化信息": {
@@ -352,7 +352,7 @@
         "英文": {
           "词条标题": "Detohama Station",
           "链接": "https://ja.wikipedia.org/wiki/%E5%87%BA%E6%88%B8%E6%B5%9C%E9%A7%85",
-          "首段": "Dekihama Station (出戸浜駅) is a JR East Oga Line station in Oga City, Akita Prefecture, Japan.",
+          "首段": "Dekihama Station is a JR East Oga Line station in Oga City, Akita Prefecture, Japan.",
           "章节": {
             "History": "Opened in 1958 as a JNR station.",
             "Station layout": "An at-grade station with one side platform. Unstaffed.",
@@ -360,8 +360,8 @@
             "Adjacent stations": "JR East.",
             "Oga Line": "Wakimoto – Dekihama – Oga."
           },
-          "全文": "Dekihama Station (出戸浜駅) is a JR East Oga Line station in Oga City, Akita Prefecture, Japan.\n\nHistory\nOpened in 1958 as a JNR station.\n\nStation layout\nAn at-grade station with one side platform. Unstaffed.\n\nPassenger statistics\nRidership is very low.\n\nAdjacent stations\nJR East.\n\nOga Line\nWakimoto – Dekihama – Oga.",
-          "字数": 314
+          "全文": "Dekihama Station is a JR East Oga Line station in Oga City, Akita Prefecture, Japan.\n\nHistory\nOpened in 1958 as a JNR station.\n\nStation layout\nAn at-grade station with one side platform. Unstaffed.\n\nPassenger statistics\nRidership is very low.\n\nAdjacent stations\nJR East.\n\nOga Line\nWakimoto – Dekihama – Oga.",
+          "字数": 307
         }
       },
       "结构化信息": {
@@ -433,7 +433,7 @@
         "英文": {
           "词条标题": "Tsuchizaki Station",
           "链接": "https://ja.wikipedia.org/wiki/%E5%9C%9F%E5%B4%8E%E9%A7%85",
-          "首段": "Tsuchizaki Station (土崎駅) is a JR East Oga Line station in Akita City, Akita Prefecture, Japan. It is also a stop on the Oga Line services from Akita.",
+          "首段": "Tsuchizaki Station is a JR East Oga Line station in Akita City, Akita Prefecture, Japan. It is also a stop on the Oga Line services from Akita.",
           "章节": {
             "History": "Opened in 1902 as a JNR station. It was formerly a major freight station for the port of Akita.",
             "Station layout": "An at-grade staffed station with two island platforms.",
@@ -445,8 +445,8 @@
             "Railway stations in Akita": "Tsuchizaki Station is one of the railway stations in Akita City.",
             "Former JNR stations": "Tsuchizaki Station is listed among former JNR stations."
           },
-          "全文": "Tsuchizaki Station (土崎駅) is a JR East Oga Line station in Akita City, Akita Prefecture, Japan. It is also a stop on the Oga Line services from Akita.\n\nHistory\nOpened in 1902 as a JNR station. It was formerly a major freight station for the port of Akita.\n\nStation layout\nAn at-grade staffed station with two island platforms.\n\nPassenger statistics\nRidership is moderate to high.\n\nSurrounding area\nTsuchizaki Minato, a former port district with historic warehouses, is nearby.\n\nAdjacent stations\nJR East.\n\nOga Line\nIzumi-Sotoasahikawa – Tsuchizaki – Kami-Iijima.\n\nPort of Akita\nThe Port of Akita is adjacent to the station.\n\nRailway stations in Akita\nTsuchizaki Station is one of the railway stations in Akita City.\n\nFormer JNR stations\nTsuchizaki Station is listed among former JNR stations.",
-          "字数": 791
+          "全文": "Tsuchizaki Station is a JR East Oga Line station in Akita City, Akita Prefecture, Japan. It is also a stop on the Oga Line services from Akita.\n\nHistory\nOpened in 1902 as a JNR station. It was formerly a major freight station for the port of Akita.\n\nStation layout\nAn at-grade staffed station with two island platforms.\n\nPassenger statistics\nRidership is moderate to high.\n\nSurrounding area\nTsuchizaki Minato, a former port district with historic warehouses, is nearby.\n\nAdjacent stations\nJR East.\n\nOga Line\nIzumi-Sotoasahikawa – Tsuchizaki – Kami-Iijima.\n\nPort of Akita\nThe Port of Akita is adjacent to the station.\n\nRailway stations in Akita\nTsuchizaki Station is one of the railway stations in Akita City.\n\nFormer JNR stations\nTsuchizaki Station is listed among former JNR stations.",
+          "字数": 785
         }
       },
       "结构化信息": {
@@ -522,7 +522,7 @@
         "英文": {
           "词条标题": "Tennō Station",
           "链接": "https://en.wikipedia.org/wiki/Tenn%C5%8D%20Station",
-          "首段": "Tenno Station (天王駅) is a JR East Oga Line station in Katagami City, Akita Prefecture, Japan.",
+          "首段": "Tenno Station is a JR East Oga Line station in Katagami City, Akita Prefecture, Japan.",
           "章节": {
             "History": "Opened in 1950 as a JNR station.",
             "Station layout": "An at-grade station with one side platform. Unstaffed.",
@@ -531,8 +531,8 @@
             "Oga Line": "Wakamiya – Tenno – Futada.",
             "Railway stations in Katagami": "Tenno Station is one of the railway stations in Katagami City."
           },
-          "全文": "Tenno Station (天王駅) is a JR East Oga Line station in Katagami City, Akita Prefecture, Japan.\n\nHistory\nOpened in 1950 as a JNR station.\n\nStation layout\nAn at-grade station with one side platform. Unstaffed.\n\nPassenger statistics\nRidership is low.\n\nAdjacent stations\nJR East.\n\nOga Line\nWakamiya – Tenno – Futada.\n\nRailway stations in Katagami\nTenno Station is one of the railway stations in Katagami City.",
-          "字数": 403
+          "全文": "Tenno Station is a JR East Oga Line station in Katagami City, Akita Prefecture, Japan.\n\nHistory\nOpened in 1950 as a JNR station.\n\nStation layout\nAn at-grade station with one side platform. Unstaffed.\n\nPassenger statistics\nRidership is low.\n\nAdjacent stations\nJR East.\n\nOga Line\nWakamiya – Tenno – Futada.\n\nRailway stations in Katagami\nTenno Station is one of the railway stations in Katagami City.",
+          "字数": 397
         }
       },
       "结构化信息": {
@@ -603,7 +603,7 @@
         "英文": {
           "词条标题": "泉外旭川駅",
           "链接": "https://ja.wikipedia.org/wiki/%E6%B3%89%E5%A4%96%E6%97%AD%E5%B7%9D%E9%A7%85",
-          "首段": "Izumi-Sotoasahikawa Station (泉外旭川駅) is a JR East Oga Line station in Akita City, Akita Prefecture, Japan.",
+          "首段": "Izumi-Sotoasahikawa Station is a JR East Oga Line station in Akita City, Akita Prefecture, Japan.",
           "章节": {
             "History": "Opened in 2021 as a new station on the Oga Line.",
             "Station layout": "An at-grade station with one side platform.",
@@ -617,8 +617,8 @@
             "Railway stations in Japan": "Izumi-Sotoasahikawa Station is one of the railway stations in Japan.",
             "Akita Prefectural Funakoshi Port Office": "The Akita Prefectural Funakoshi Port Office is located near the station."
           },
-          "全文": "Izumi-Sotoasahikawa Station (泉外旭川駅) is a JR East Oga Line station in Akita City, Akita Prefecture, Japan.\n\nHistory\nOpened in 2021 as a new station on the Oga Line.\n\nStation layout\nAn at-grade station with one side platform.\n\nPassenger statistics\nRidership has grown since opening.\n\nAdjacent stations\nJR East.\n\nOga Line\nAkita – Izumi-Sotoasahikawa – Tsuchizaki.\n\nRailway stations in Akita\nIzumi-Sotoasahikawa Station is one of the railway stations in Akita City.\n\nNew stations\nIzumi-Sotoasahikawa Station opened in 2021.\n\nSurrounding area\nA new residential and commercial district is being developed around the station.\n\nAccess\nThe station is served by local buses.\n\nRailway stations in Japan\nIzumi-Sotoasahikawa Station is one of the railway stations in Japan.\n\nAkita Prefectural Funakoshi Port Office\nThe Akita Prefectural Funakoshi Port Office is located near the station.",
-          "字数": 874
+          "全文": "Izumi-Sotoasahikawa Station is a JR East Oga Line station in Akita City, Akita Prefecture, Japan.\n\nHistory\nOpened in 2021 as a new station on the Oga Line.\n\nStation layout\nAn at-grade station with one side platform.\n\nPassenger statistics\nRidership has grown since opening.\n\nAdjacent stations\nJR East.\n\nOga Line\nAkita – Izumi-Sotoasahikawa – Tsuchizaki.\n\nRailway stations in Akita\nIzumi-Sotoasahikawa Station is one of the railway stations in Akita City.\n\nNew stations\nIzumi-Sotoasahikawa Station opened in 2021.\n\nSurrounding area\nA new residential and commercial district is being developed around the station.\n\nAccess\nThe station is served by local buses.\n\nRailway stations in Japan\nIzumi-Sotoasahikawa Station is one of the railway stations in Japan.\n\nAkita Prefectural Funakoshi Port Office\nThe Akita Prefectural Funakoshi Port Office is located near the station.",
+          "字数": 866
         }
       },
       "结构化信息": {
@@ -721,7 +721,7 @@
         "英文": {
           "词条标题": "Oga Station",
           "链接": "https://ja.wikipedia.org/wiki/%E7%94%B7%E9%B9%BF%E9%A7%85",
-          "首段": "Oga Station (男鹿駅) is the western terminus of the JR East Oga Line in Oga City, Akita Prefecture, Japan.",
+          "首段": "Oga Station is the western terminus of the JR East Oga Line in Oga City, Akita Prefecture, Japan.",
           "章节": {
             "History": "Opened in 1915 as the terminus of the Oga Line.",
             "Station layout": "An at-grade staffed station with one island platform serving two tracks.",
@@ -736,8 +736,8 @@
             "Former JNR stations": "Oga Station is listed among former JNR stations.",
             "Railway stations in Japan": "Oga Station is one of the railway stations in Japan."
           },
-          "全文": "Oga Station (男鹿駅) is the western terminus of the JR East Oga Line in Oga City, Akita Prefecture, Japan.\n\nHistory\nOpened in 1915 as the terminus of the Oga Line.\n\nStation layout\nAn at-grade staffed station with one island platform serving two tracks.\n\nPassenger statistics\nOga is the main station of Oga City; ridership is moderate.\n\nSurrounding area\nOga City Hall and the Oga Aquarium are nearby.\n\nAdjacent stations\nJR East.\n\nOga Line\nDekihama – Oga (terminus).\n\nTourism\nOga is famous for the Namahage folk tradition and the Oga Peninsula.\n\nRailway stations in Oga\nOga Station is the main railway station in Oga City.\n\nJR East stations\nOga Station is a JR East station.\n\nTermini\nOga Station is the terminus of the Oga Line.\n\nFormer JNR stations\nOga Station is listed among former JNR stations.\n\nRailway stations in Japan\nOga Station is one of the railway stations in Japan.",
-          "字数": 873
+          "全文": "Oga Station is the western terminus of the JR East Oga Line in Oga City, Akita Prefecture, Japan.\n\nHistory\nOpened in 1915 as the terminus of the Oga Line.\n\nStation layout\nAn at-grade staffed station with one island platform serving two tracks.\n\nPassenger statistics\nOga is the main station of Oga City; ridership is moderate.\n\nSurrounding area\nOga City Hall and the Oga Aquarium are nearby.\n\nAdjacent stations\nJR East.\n\nOga Line\nDekihama – Oga (terminus).\n\nTourism\nOga is famous for the Namahage folk tradition and the Oga Peninsula.\n\nRailway stations in Oga\nOga Station is the main railway station in Oga City.\n\nJR East stations\nOga Station is a JR East station.\n\nTermini\nOga Station is the terminus of the Oga Line.\n\nFormer JNR stations\nOga Station is listed among former JNR stations.\n\nRailway stations in Japan\nOga Station is one of the railway stations in Japan.",
+          "字数": 867
         }
       },
       "结构化信息": {
@@ -836,7 +836,7 @@
         "英文": {
           "词条标题": "Akita Station",
           "链接": "https://ja.wikipedia.org/wiki/%E7%A7%8B%E7%94%B0%E9%A7%85",
-          "首段": "Akita Station (秋田駅) is the main junction station in Akita City, Akita Prefecture, Japan. It is served by the Akita Shinkansen, Ōu Main Line and Oga Line.",
+          "首段": "Akita Station is the main junction station in Akita City, Akita Prefecture, Japan. It is served by the Akita Shinkansen, Ōu Main Line and Oga Line.",
           "章节": {
             "History": "Opened in 1902. The Akita Shinkansen opened here in 1997.",
             "Station layout": "An elevated station with multiple platforms for the Shinkansen and conventional lines.",
@@ -859,8 +859,8 @@
             "Events": "The Akita Kanto festival is held in summer.",
             "Railway stations in Japan": "Akita Station is one of the railway stations in Japan."
           },
-          "全文": "Akita Station (秋田駅) is the main junction station in Akita City, Akita Prefecture, Japan. It is served by the Akita Shinkansen, Ōu Main Line and Oga Line.\n\nHistory\nOpened in 1902. The Akita Shinkansen opened here in 1997.\n\nStation layout\nAn elevated station with multiple platforms for the Shinkansen and conventional lines.\n\nLines serving the station\nAkita Shinkansen, Ōu Main Line, Oga Line.\n\nPassenger statistics\nAkita is the central station of Akita Prefecture; ridership is significant.\n\nAdjacent stations\nJR East.\n\nOga Line\nAkita (starting point) – Izumi-Sotoasahikawa.\n\nŌu Main Line\nIwaki-Kawanishi – Akita.\n\nAkita Shinkansen\nThe Akita Shinkansen stops at Akita.\n\nSurrounding area\nAkita City Hall and the downtown shopping area are nearby.\n\nBus routes\nLocal and highway buses depart from the station forecourt.\n\nRailway stations in Akita\nAkita Station is the main railway station in Akita City.\n\nJR East stations\nAkita Station is a major JR East station.\n\nShinkansen stations\nAkita Station is served by the Akita Shinkansen.\n\nJunction stations\nAkita is a junction of three JR lines.\n\nStaffed stations\nAkita Station is fully staffed.\n\nStation building\nThe current station building was rebuilt in 1993.\n\nFormer JNR stations\nAkita Station is listed among former JNR stations.\n\nLocal attractions\nThe Akita Museum of Art is nearby.\n\nEvents\nThe Akita Kanto festival is held in summer.\n\nRailway stations in Japan\nAkita Station is one of the railway stations in Japan.",
-          "字数": 1466
+          "全文": "Akita Station is the main junction station in Akita City, Akita Prefecture, Japan. It is served by the Akita Shinkansen, Ōu Main Line and Oga Line.\n\nHistory\nOpened in 1902. The Akita Shinkansen opened here in 1997.\n\nStation layout\nAn elevated station with multiple platforms for the Shinkansen and conventional lines.\n\nLines serving the station\nAkita Shinkansen, Ōu Main Line, Oga Line.\n\nPassenger statistics\nAkita is the central station of Akita Prefecture; ridership is significant.\n\nAdjacent stations\nJR East.\n\nOga Line\nAkita (starting point) – Izumi-Sotoasahikawa.\n\nŌu Main Line\nIwaki-Kawanishi – Akita.\n\nAkita Shinkansen\nThe Akita Shinkansen stops at Akita.\n\nSurrounding area\nAkita City Hall and the downtown shopping area are nearby.\n\nBus routes\nLocal and highway buses depart from the station forecourt.\n\nRailway stations in Akita\nAkita Station is the main railway station in Akita City.\n\nJR East stations\nAkita Station is a major JR East station.\n\nShinkansen stations\nAkita Station is served by the Akita Shinkansen.\n\nJunction stations\nAkita is a junction of three JR lines.\n\nStaffed stations\nAkita Station is fully staffed.\n\nStation building\nThe current station building was rebuilt in 1993.\n\nFormer JNR stations\nAkita Station is listed among former JNR stations.\n\nLocal attractions\nThe Akita Museum of Art is nearby.\n\nEvents\nThe Akita Kanto festival is held in summer.\n\nRailway stations in Japan\nAkita Station is one of the railway stations in Japan.",
+          "字数": 1460
         }
       },
       "结构化信息": {
@@ -949,7 +949,7 @@
         "英文": {
           "词条标题": "Hadachi Station",
           "链接": "https://ja.wikipedia.org/wiki/%E7%BE%BD%E7%AB%8B%E9%A7%85",
-          "首段": "Hadachi Station (羽立駅) is a JR East Oga Line station in Oga City, Akita Prefecture, Japan.",
+          "首段": "Hadachi Station is a JR East Oga Line station in Oga City, Akita Prefecture, Japan.",
           "章节": {
             "History": "Opened in 1950 as a JNR station.",
             "Station layout": "An at-grade station with one side platform. Unstaffed.",
@@ -961,8 +961,8 @@
             "Former JNR stations": "Hadachi Station is listed among former JNR stations.",
             "Unstaffed stations": "Hadachi Station is unstaffed."
           },
-          "全文": "Hadachi Station (羽立駅) is a JR East Oga Line station in Oga City, Akita Prefecture, Japan.\n\nHistory\nOpened in 1950 as a JNR station.\n\nStation layout\nAn at-grade station with one side platform. Unstaffed.\n\nPassenger statistics\nRidership is low.\n\nSurrounding area\nThe station serves a rural area of Oga City.\n\nAdjacent stations\nJR East.\n\nOga Line\nWakimoto – Hadachi – Oga.\n\nRailway stations in Oga\nHadachi Station is one of the railway stations in Oga City.\n\nFormer JNR stations\nHadachi Station is listed among former JNR stations.\n\nUnstaffed stations\nHadachi Station is unstaffed.",
-          "字数": 578
+          "全文": "Hadachi Station is a JR East Oga Line station in Oga City, Akita Prefecture, Japan.\n\nHistory\nOpened in 1950 as a JNR station.\n\nStation layout\nAn at-grade station with one side platform. Unstaffed.\n\nPassenger statistics\nRidership is low.\n\nSurrounding area\nThe station serves a rural area of Oga City.\n\nAdjacent stations\nJR East.\n\nOga Line\nWakimoto – Hadachi – Oga.\n\nRailway stations in Oga\nHadachi Station is one of the railway stations in Oga City.\n\nFormer JNR stations\nHadachi Station is listed among former JNR stations.\n\nUnstaffed stations\nHadachi Station is unstaffed.",
+          "字数": 572
         }
       },
       "结构化信息": {
@@ -1037,7 +1037,7 @@
         "英文": {
           "词条标题": "Wakimoto Station",
           "链接": "https://ja.wikipedia.org/wiki/%E8%84%87%E6%9C%AC%E9%A7%85",
-          "首段": "Wakimoto Station (脇本駅) is a JR East Oga Line station in Oga City, Akita Prefecture, Japan.",
+          "首段": "Wakimoto Station is a JR East Oga Line station in Oga City, Akita Prefecture, Japan.",
           "章节": {
             "History": "Opened in 1915 as a JNR station.",
             "Station layout": "An at-grade station with one island platform serving two tracks.",
@@ -1048,8 +1048,8 @@
             "Former JNR stations": "Wakimoto Station is listed among former JNR stations.",
             "Railway stations in Japan": "Wakimoto Station is one of the railway stations in Japan."
           },
-          "全文": "Wakimoto Station (脇本駅) is a JR East Oga Line station in Oga City, Akita Prefecture, Japan.\n\nHistory\nOpened in 1915 as a JNR station.\n\nStation layout\nAn at-grade station with one island platform serving two tracks.\n\nPassenger statistics\nRidership is low.\n\nAdjacent stations\nJR East.\n\nOga Line\nFunakoshi – Wakimoto – Hadachi.\n\nRailway stations in Oga\nWakimoto Station is one of the railway stations in Oga City.\n\nFormer JNR stations\nWakimoto Station is listed among former JNR stations.\n\nRailway stations in Japan\nWakimoto Station is one of the railway stations in Japan.",
-          "字数": 569
+          "全文": "Wakimoto Station is a JR East Oga Line station in Oga City, Akita Prefecture, Japan.\n\nHistory\nOpened in 1915 as a JNR station.\n\nStation layout\nAn at-grade station with one island platform serving two tracks.\n\nPassenger statistics\nRidership is low.\n\nAdjacent stations\nJR East.\n\nOga Line\nFunakoshi – Wakimoto – Hadachi.\n\nRailway stations in Oga\nWakimoto Station is one of the railway stations in Oga City.\n\nFormer JNR stations\nWakimoto Station is listed among former JNR stations.\n\nRailway stations in Japan\nWakimoto Station is one of the railway stations in Japan.",
+          "字数": 563
         }
       },
       "结构化信息": {
@@ -1129,7 +1129,7 @@
         "英文": {
           "词条标题": "Funakoshi Station",
           "链接": "https://ja.wikipedia.org/wiki/%E8%88%B9%E8%B6%8A%E9%A7%85",
-          "首段": "Funakoshi Station (船越駅) is a JR East Oga Line station in Oga City, Akita Prefecture, Japan.",
+          "首段": "Funakoshi Station is a JR East Oga Line station in Oga City, Akita Prefecture, Japan.",
           "章节": {
             "History": "Opened in 1915 as a JNR station.",
             "Station layout": "An at-grade station with one island platform serving two tracks.",
@@ -1143,8 +1143,8 @@
             "Local area": "Funakoshi is a former fishing village.",
             "Access": "Local buses connect to nearby towns."
           },
-          "全文": "Funakoshi Station (船越駅) is a JR East Oga Line station in Oga City, Akita Prefecture, Japan.\n\nHistory\nOpened in 1915 as a JNR station.\n\nStation layout\nAn at-grade station with one island platform serving two tracks.\n\nPassenger statistics\nRidership is low.\n\nSurrounding area\nThe station is near the Sea of Japan coast.\n\nAdjacent stations\nJR East.\n\nOga Line\nOiwake – Funakoshi – Wakimoto.\n\nRailway stations in Oga\nFunakoshi Station is one of the railway stations in Oga City.\n\nCoastal stations\nFunakoshi Station is near the coast of the Sea of Japan.\n\nFormer JNR stations\nFunakoshi Station is listed among former JNR stations.\n\nLocal area\nFunakoshi is a former fishing village.\n\nAccess\nLocal buses connect to nearby towns.",
-          "字数": 719
+          "全文": "Funakoshi Station is a JR East Oga Line station in Oga City, Akita Prefecture, Japan.\n\nHistory\nOpened in 1915 as a JNR station.\n\nStation layout\nAn at-grade station with one island platform serving two tracks.\n\nPassenger statistics\nRidership is low.\n\nSurrounding area\nThe station is near the Sea of Japan coast.\n\nAdjacent stations\nJR East.\n\nOga Line\nOiwake – Funakoshi – Wakimoto.\n\nRailway stations in Oga\nFunakoshi Station is one of the railway stations in Oga City.\n\nCoastal stations\nFunakoshi Station is near the coast of the Sea of Japan.\n\nFormer JNR stations\nFunakoshi Station is listed among former JNR stations.\n\nLocal area\nFunakoshi is a former fishing village.\n\nAccess\nLocal buses connect to nearby towns.",
+          "字数": 713
         }
       },
       "结构化信息": {
@@ -1212,15 +1212,15 @@
         "英文": {
           "词条标题": "追分駅",
           "链接": "https://ja.wikipedia.org/wiki/%E8%BF%BD%E5%88%86%E9%A7%85",
-          "首段": "Oiwake Station (追分駅) is a junction station in Akita City, Akita Prefecture, Japan, where the Oga Line branches off the Ōu Main Line.",
+          "首段": "Oiwake Station is a junction station in Akita City, Akita Prefecture, Japan, where the Oga Line branches off the Ōu Main Line.",
           "章节": {
             "History": "Opened in 1914 as a JNR station.",
             "Station layout": "An at-grade station with two side platforms.",
             "Adjacent stations": "JR East.",
             "Oga Line": "Oiwake (starting point) – Funakoshi."
           },
-          "全文": "Oiwake Station (追分駅) is a junction station in Akita City, Akita Prefecture, Japan, where the Oga Line branches off the Ōu Main Line.\n\nHistory\nOpened in 1914 as a JNR station.\n\nStation layout\nAn at-grade station with two side platforms.\n\nAdjacent stations\nJR East.\n\nOga Line\nOiwake (starting point) – Funakoshi.",
-          "字数": 310
+          "全文": "Oiwake Station is a junction station in Akita City, Akita Prefecture, Japan, where the Oga Line branches off the Ōu Main Line.\n\nHistory\nOpened in 1914 as a JNR station.\n\nStation layout\nAn at-grade station with two side platforms.\n\nAdjacent stations\nJR East.\n\nOga Line\nOiwake (starting point) – Funakoshi.",
+          "字数": 304
         }
       },
       "结构化信息": {

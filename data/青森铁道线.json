@@ -43,7 +43,7 @@
       },
       "英文": {
         "词条标题": "Aoimori Railway Line",
-        "首段": "The Aoimori Railway Line  is a regional railway line running from Metoki Station in Sannohe, Sannohe District, Aomori Prefecture, to Aomori Station in Aomori City. Aomori Prefecture owns the facilities as a Category 3 operator; Aoimori Railway runs passenger services and JR Freight runs freight services as Category 2 operators.",
+        "首段": "The Aoimori Railway Line is a regional railway line running from Metoki Station in Sannohe, Sannohe District, Aomori Prefecture, to Aomori Station in Aomori City. Aomori Prefecture owns the facilities as a Category 3 operator; Aoimori Railway runs passenger services and JR Freight runs freight services as Category 2 operators.",
         "章节": {
           "Overview": "The former Tōhoku Main Line, transferred to a third-sector operator when the Tōhoku Shinkansen opened.",
           "Line data": "Distance, gauge, stations and electrification per the Japanese source.",
@@ -60,8 +60,8 @@
           "Former connecting lines": "Former connections.",
           "Third-sector railway": "Operator profile."
         },
-        "全文": "The Aoimori Railway Line  is a regional railway line running from Metoki Station in Sannohe, Sannohe District, Aomori Prefecture, to Aomori Station in Aomori City. Aomori Prefecture owns the facilities as a Category 3 operator; Aoimori Railway runs passenger services and JR Freight runs freight services as Category 2 operators.\n\nOverview\nThe former Tōhoku Main Line, transferred to a third-sector operator when the Tōhoku Shinkansen opened.\n\nLine data\nDistance, gauge, stations and electrification per the Japanese source.\n\nLocal transport\nCommuter services within Aomori.\n\nWide-area transport\nThrough services and tourist trains.\n\nTraffic results\nAnnual figures in the source table.\n\nRolling stock\n701 series / 703 series EMUs.\n\nCurrent rolling stock\nCurrent fleet.\n\nFormer rolling stock\nJNR-era stock.\n\nNippon Railway\nPrivate railway era.\n\nGovernment Railways → JNR\nNationalized era.\n\nJR East → Aoimori Railway\nThird-sector transfer.\n\nStation list\nAll stations.\n\nFormer connecting lines\nFormer connections.\n\nThird-sector railway\nOperator profile.",
-        "字数": 1050
+        "全文": "The Aoimori Railway Line is a regional railway line running from Metoki Station in Sannohe, Sannohe District, Aomori Prefecture, to Aomori Station in Aomori City. Aomori Prefecture owns the facilities as a Category 3 operator; Aoimori Railway runs passenger services and JR Freight runs freight services as Category 2 operators.\n\nOverview\nThe former Tōhoku Main Line, transferred to a third-sector operator when the Tōhoku Shinkansen opened.\n\nLine data\nDistance, gauge, stations and electrification per the Japanese source.\n\nLocal transport\nCommuter services within Aomori.\n\nWide-area transport\nThrough services and tourist trains.\n\nTraffic results\nAnnual figures in the source table.\n\nRolling stock\n701 series / 703 series EMUs.\n\nCurrent rolling stock\nCurrent fleet.\n\nFormer rolling stock\nJNR-era stock.\n\nNippon Railway\nPrivate railway era.\n\nGovernment Railways → JNR\nNationalized era.\n\nJR East → Aoimori Railway\nThird-sector transfer.\n\nStation list\nAll stations.\n\nFormer connecting lines\nFormer connections.\n\nThird-sector railway\nOperator profile.",
+        "字数": 1049
       }
     }
   },
@@ -851,7 +851,8 @@
             "青森县的铁路车站": "嗯，好的"
           },
           "全文": "青森铁道线车站。\n\n概要\n青森铁道线沿线车站。\n\n历史\n青森铁道线沿线车站。\n\n青森县的铁路车站\n嗯，好的",
-          "字数": 53
+          "字数": 53,
+          "词条标题": "剑吉站"
         },
         "英文": {
           "词条标题": "Kenyoshi Station",
@@ -2341,10 +2342,10 @@
         "英文": {
           "词条标题": "Tsutsui",
           "链接": "https://en.wikipedia.org/wiki/Tsutsui",
-          "首段": "Tsutsui Station (筒井駅) is a disambiguation title: Tsutsui Station (Aomori) on the Aoimori Railway Line in Aomori City; and other places.",
+          "首段": "Tsutsui Station is a disambiguation title: Tsutsui Station (Aomori) on the Aoimori Railway Line in Aomori City; and other places.",
           "章节": {},
-          "全文": "Tsutsui Station (筒井駅) is a disambiguation title: Tsutsui Station (Aomori) on the Aoimori Railway Line in Aomori City; and other places.\n\n",
-          "字数": 137
+          "全文": "Tsutsui Station is a disambiguation title: Tsutsui Station (Aomori) on the Aoimori Railway Line in Aomori City; and other places.",
+          "字数": 129
         }
       },
       "结构化信息": {
@@ -2585,7 +2586,8 @@
             "青森县的铁路车站": "瓦平"
           },
           "全文": "青森铁道线车站。\n\n概要\n青森铁道线沿线车站。\n\n历史\n青森铁道线沿线车站。\n\n青森县的铁路车站\n瓦平",
-          "字数": 51
+          "字数": 51,
+          "词条标题": "诹访之平站"
         },
         "英文": {
           "词条标题": "Suwanotaira Station",

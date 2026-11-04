@@ -53,10 +53,10 @@
       "英文": {
         "词条标题": "万叶线",
         "链接": "https://ja.wikipedia.org/wiki/%E4%B8%87%E8%91%89%E7%B7%9A",
-        "首段": "The 万叶线 is a railway line in Japan.",
+        "首段": "The Manyo Line (Manyo-sen) is a collective term for the tramway lines operated by Manyo Line Co., Ltd. It consists of two lines: the Takaoka Guideway Line (Takaoka-kidosen), which connects Takaoka Station Tram Stop in Takaoka City, Toyama Prefecture, to Rokutoji Station in the same prefecture's Nanto City, and the Shinminato Port Line (Shinminato-kosen), which runs from Rokutoji Station to Echinokata Station in Nanto City. As the two lines operate as an integrated system, this article will explain them together.",
         "章节": {},
-        "全文": "The 万叶线 is a railway line in Japan.",
-        "字数": 35
+        "全文": "The Manyo Line (Manyo-sen) is a collective term for the tramway lines operated by Manyo Line Co., Ltd. It consists of two lines: the Takaoka Guideway Line (Takaoka-kidosen), which connects Takaoka Station Tram Stop in Takaoka City, Toyama Prefecture, to Rokutoji Station in the same prefecture's Nanto City, and the Shinminato Port Line (Shinminato-kosen), which runs from Rokutoji Station to Echinokata Station in Nanto City. As the two lines operate as an integrated system, this article will explain them together.",
+        "字数": 517
       }
     }
   },
@@ -100,7 +100,7 @@
         "英文": {
           "词条标题": "坂下町停留場",
           "链接": "https://ja.wikipedia.org/wiki/%E5%9D%82%E4%B8%8B%E7%94%BA%E5%81%9C%E7%95%99%E5%A0%B4",
-          "首段": "Sakashita-machi Tram Stop (坂下町停留場) is a tram stop on the Man'yo Line in Takaoka, Toyama Prefecture, Japan, operated by Man'yo Line.",
+          "首段": "Sakashita-machi Tram Stop is a tram stop on the Man'yo Line in Takaoka, Toyama Prefecture, Japan, operated by Man'yo Line.",
           "章节": {
             "History": "Opened in the post-war era.",
             "Station layout": "At-grade side platform.",
@@ -108,8 +108,8 @@
             "Surrounding area": "Residential/commercial area.",
             "Adjacent stations": "On the Man'yo Line."
           },
-          "全文": "Sakashita-machi Tram Stop (坂下町停留場) is a tram stop on the Man'yo Line in Takaoka, Toyama Prefecture, Japan, operated by Man'yo Line.\n\nHistory\nOpened in the post-war era.\n\nStation layout\nAt-grade side platform.\n\nUsage\nModerate city ridership.\n\nSurrounding area\nResidential/commercial area.\n\nAdjacent stations\nOn the Man'yo Line.",
-          "字数": 326
+          "全文": "Sakashita-machi Tram Stop is a tram stop on the Man'yo Line in Takaoka, Toyama Prefecture, Japan, operated by Man'yo Line.\n\nHistory\nOpened in the post-war era.\n\nStation layout\nAt-grade side platform.\n\nUsage\nModerate city ridership.\n\nSurrounding area\nResidential/commercial area.\n\nAdjacent stations\nOn the Man'yo Line.",
+          "字数": 317
         }
       },
       "结构化信息": {
@@ -168,20 +168,21 @@
             "历史": "镜岛线1924年开业时并不存在，1941年新设。镜岛线1964年废止后本站随之废站。"
           },
           "全文": "市民医院前站是曾位于岐阜县岐阜市鹿岛町的名古屋铁道镜岛线车站。\n它是配合岐阜市民医院移筑新建而设的车站，乘客较多。\n\n历史\n镜岛线1924年开业时并不存在，1941年新设。镜岛线1964年废止后本站随之废站。",
-          "字数": 104
+          "字数": 104,
+          "词条标题": "市民医院前站"
         },
         "英文": {
           "词条标题": "市民病院前駅",
           "链接": "https://ja.wikipedia.org/wiki/%E5%B8%82%E6%B0%91%E7%97%85%E9%99%A2%E5%89%8D%E9%A7%85",
-          "首段": "Shimin Byōin-mae Station (市民医院前駅) is a tram stop on the Man'yo Line in Takaoka, Toyama, Japan.",
+          "首段": "Shimin Byōin-mae Station is a tram stop on the Man'yo Line in Takaoka, Toyama, Japan.",
           "章节": {
             "History": "Opened when the city hospital opened.",
             "Station layout": "At-grade side platform.",
             "Surrounding area": "Takaaka Citizen Hospital.",
             "Adjacent stations": "On the Man'yo Line."
           },
-          "全文": "Shimin Byōin-mae Station (市民医院前駅) is a tram stop on the Man'yo Line in Takaoka, Toyama, Japan.\n\nHistory\nOpened when the city hospital opened.\n\nStation layout\nAt-grade side platform.\n\nSurrounding area\nTakaaka Citizen Hospital.\n\nAdjacent stations\nOn the Man'yo Line.",
-          "字数": 264
+          "全文": "Shimin Byōin-mae Station is a tram stop on the Man'yo Line in Takaoka, Toyama, Japan.\n\nHistory\nOpened when the city hospital opened.\n\nStation layout\nAt-grade side platform.\n\nSurrounding area\nTakaaka Citizen Hospital.\n\nAdjacent stations\nOn the Man'yo Line.",
+          "字数": 255
         }
       },
       "结构化信息": {
@@ -348,7 +349,7 @@
         "英文": {
           "词条标题": "志貴野中学校前停留場",
           "链接": "https://ja.wikipedia.org/wiki/%E5%BF%97%E8%B2%B4%E9%87%8E%E4%B8%AD%E5%AD%A6%E6%A0%A1%E5%89%8D%E5%81%9C%E7%95%99%E5%A0%B4",
-          "首段": "Shikino-chūgakkō-mae Tram Stop (志貴野中學校前停留場) is a tram stop on the Man'yo Line in Takaoka, Toyama, Japan.",
+          "首段": "Shikino-chūgakkō-mae Tram Stop is a tram stop on the Man'yo Line in Takaoka, Toyama, Japan.",
           "章节": {
             "History": "Opened near the local junior high school.",
             "Station layout": "At-grade side platform.",
@@ -356,8 +357,8 @@
             "Adjacent stations": "On the Man'yo Line.",
             "Railway stations in Toyama": "Shikino-chugakko-mae"
           },
-          "全文": "Shikino-chūgakkō-mae Tram Stop (志貴野中學校前停留場) is a tram stop on the Man'yo Line in Takaoka, Toyama, Japan.\n\nHistory\nOpened near the local junior high school.\n\nStation layout\nAt-grade side platform.\n\nSurrounding area\nShikino Junior High School.\n\nAdjacent stations\nOn the Man'yo Line.\n\nRailway stations in Toyama\nShikino-chugakko-mae",
-          "字数": 329
+          "全文": "Shikino-chūgakkō-mae Tram Stop is a tram stop on the Man'yo Line in Takaoka, Toyama, Japan.\n\nHistory\nOpened near the local junior high school.\n\nStation layout\nAt-grade side platform.\n\nSurrounding area\nShikino Junior High School.\n\nAdjacent stations\nOn the Man'yo Line.\n\nRailway stations in Toyama\nShikino-chugakko-mae",
+          "字数": 316
         }
       },
       "结构化信息": {
@@ -424,12 +425,13 @@
             "概要": "本站是万叶线的电车站，紧邻高冈古城公园。"
           },
           "全文": "急诊医疗中心前停留场是位于富山县高冈市本町的万叶线停留场。\n它位于高冈古城公园西侧，副站名为古城公园西口。\n\n概要\n本站是万叶线的电车站，紧邻高冈古城公园。",
-          "字数": 78
+          "字数": 78,
+          "词条标题": "急诊医疗中心前停留场"
         },
         "英文": {
           "词条标题": "急患医療センター前停留場",
           "链接": "https://ja.wikipedia.org/wiki/%E6%80%A5%E6%82%A3%E5%8C%BB%E7%99%82%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E5%89%8D%E5%81%9C%E7%95%99%E5%A0%B4",
-          "首段": "Kyūjiō Iryō Center-mae Tram Stop  is a tram stop on the Man'yo Line in Takaoka, Toyama, Japan.",
+          "首段": "Kyūjiō Iryō Center-mae Tram Stop is a tram stop on the Man'yo Line in Takaoka, Toyama, Japan.",
           "章节": {
             "History": "Opened near the emergency medical center.",
             "Station layout": "At-grade side platform.",
@@ -437,8 +439,8 @@
             "Adjacent stations": "On the Man'yo Line.",
             "Railway stations in Toyama": "Kyujo Iryo Center-mae"
           },
-          "全文": "Kyūjiō Iryō Center-mae Tram Stop  is a tram stop on the Man'yo Line in Takaoka, Toyama, Japan.\n\nHistory\nOpened near the emergency medical center.\n\nStation layout\nAt-grade side platform.\n\nSurrounding area\nEmergency medical center.\n\nAdjacent stations\nOn the Man'yo Line.\n\nRailway stations in Toyama\nKyujo Iryo Center-mae",
-          "字数": 318
+          "全文": "Kyūjiō Iryō Center-mae Tram Stop is a tram stop on the Man'yo Line in Takaoka, Toyama, Japan.\n\nHistory\nOpened near the emergency medical center.\n\nStation layout\nAt-grade side platform.\n\nSurrounding area\nEmergency medical center.\n\nAdjacent stations\nOn the Man'yo Line.\n\nRailway stations in Toyama\nKyujo Iryo Center-mae",
+          "字数": 317
         }
       },
       "结构化信息": {
@@ -510,7 +512,7 @@
         "英文": {
           "词条标题": "新能町停留場",
           "链接": "https://ja.wikipedia.org/wiki/%E6%96%B0%E8%83%BD%E7%94%BA%E5%81%9C%E7%95%99%E5%A0%B4",
-          "首段": "Shinnō-machi Tram Stop (新能町停留場) is a tram stop on the Man'yo Line in Takaoka, Toyama, Japan.",
+          "首段": "Shinnō-machi Tram Stop is a tram stop on the Man'yo Line in Takaoka, Toyama, Japan.",
           "章节": {
             "History": "Opened in the post-war era.",
             "Station layout": "At-grade side platform.",
@@ -518,8 +520,8 @@
             "Adjacent stations": "On the Man'yo Line.",
             "Railway stations in Toyama": "Shinno-machi"
           },
-          "全文": "Shinnō-machi Tram Stop (新能町停留場) is a tram stop on the Man'yo Line in Takaoka, Toyama, Japan.\n\nHistory\nOpened in the post-war era.\n\nStation layout\nAt-grade side platform.\n\nSurrounding area\nResidential area.\n\nAdjacent stations\nOn the Man'yo Line.\n\nRailway stations in Toyama\nShinno-machi",
-          "字数": 285
+          "全文": "Shinnō-machi Tram Stop is a tram stop on the Man'yo Line in Takaoka, Toyama, Japan.\n\nHistory\nOpened in the post-war era.\n\nStation layout\nAt-grade side platform.\n\nSurrounding area\nResidential area.\n\nAdjacent stations\nOn the Man'yo Line.\n\nRailway stations in Toyama\nShinno-machi",
+          "字数": 276
         }
       },
       "结构化信息": {
@@ -575,15 +577,16 @@
             "站名一览": "旭丘站 (宫城县)、旭丘站 (北海道)、旭丘站 (宫崎县)等。"
           },
           "全文": "旭丘站可能指下列车站：\n旭丘站 (宫城县) — 宫城县仙台市，仙台市地下铁南北线车站。\n旭丘站 (北海道) — 北海道纹别郡兴部町，JR北海道名寄本线车站（1989年废止）。\n旭丘站 (宫崎县) — 宫崎县延冈市，JR九州日丰本线车站。\n\n站名一览\n旭丘站 (宫城县)、旭丘站 (北海道)、旭丘站 (宫崎县)等。",
-          "字数": 156
+          "字数": 156,
+          "词条标题": "旭丘站"
         },
         "英文": {
           "词条标题": "Asahigaoka Station",
           "链接": "https://en.wikipedia.org/wiki/Asahigaoka%20Station",
-          "首段": "Asahigaoka Station is the name of several train stations in Japan.\n\n Asahigaoka Station (Miyagi) -  in Sendai, Miyagi Prefecture\n Asahigaoka Station (Miyazaki) -  in Miyazaki Prefecture\n Asahigaoka Station (Shimane) -  in Shimane Prefecture\n Asahigaoka Station (Toyama) -  in Toyama Prefecture",
+          "首段": "Asahigaoka Station is the name of several train stations in Japan.\n\n Asahigaoka Station (Miyagi) - in Sendai, Miyagi Prefecture\n Asahigaoka Station (Miyazaki) - in Miyazaki Prefecture\n Asahigaoka Station (Shimane) - in Shimane Prefecture\n Asahigaoka Station (Toyama) - in Toyama Prefecture",
           "章节": {},
-          "全文": "Asahigaoka Station is the name of several train stations in Japan.\n\n Asahigaoka Station (Miyagi) -  in Sendai, Miyagi Prefecture\n Asahigaoka Station (Miyazaki) -  in Miyazaki Prefecture\n Asahigaoka Station (Shimane) -  in Shimane Prefecture\n Asahigaoka Station (Toyama) -  in Toyama Prefecture",
-          "字数": 293
+          "全文": "Asahigaoka Station is the name of several train stations in Japan.\n\n Asahigaoka Station (Miyagi) - in Sendai, Miyagi Prefecture\n Asahigaoka Station (Miyazaki) - in Miyazaki Prefecture\n Asahigaoka Station (Shimane) - in Shimane Prefecture\n Asahigaoka Station (Toyama) - in Toyama Prefecture",
+          "字数": 289
         }
       },
       "结构化信息": {
@@ -634,12 +637,12 @@
         "英文": {
           "词条标题": "末広町駅",
           "链接": "https://ja.wikipedia.org/wiki/%E6%9C%AB%E5%BA%83%E7%94%BA%E9%A7%85",
-          "首段": "Suehiro-chō Station (末廣町駅) is a tram stop on the Man'yo Line in Takaoka, Toyama, Japan.",
+          "首段": "Suehiro-chō Station is a tram stop on the Man'yo Line in Takaoka, Toyama, Japan.",
           "章节": {
             "Suehiro-cho": "Tram stop in Takaaka city center."
           },
-          "全文": "Suehiro-chō Station (末廣町駅) is a tram stop on the Man'yo Line in Takaoka, Toyama, Japan.\n\nSuehiro-cho\nTram stop in Takaaka city center.",
-          "字数": 134
+          "全文": "Suehiro-chō Station is a tram stop on the Man'yo Line in Takaoka, Toyama, Japan.\n\nSuehiro-cho\nTram stop in Takaaka city center.",
+          "字数": 127
         }
       },
       "结构化信息": {
@@ -696,15 +699,15 @@
         "英文": {
           "词条标题": "江尻停留場",
           "链接": "https://ja.wikipedia.org/wiki/%E6%B1%9F%E5%B0%BB%E5%81%9C%E7%95%99%E5%A0%B4",
-          "首段": "Ejiri Tram Stop (江尻停留場) is a tram stop on the Man'yo Line in Takaaka, Toyama, Japan.",
+          "首段": "Ejiri Tram Stop is a tram stop on the Man'yo Line in Takaaka, Toyama, Japan.",
           "章节": {
             "History": "Opened in the post-war era.",
             "Station layout": "At-grade side platform.",
             "Surrounding area": "Residential area.",
             "Adjacent stations": "On the Man'yo Line."
           },
-          "全文": "Ejiri Tram Stop (江尻停留場) is a tram stop on the Man'yo Line in Takaaka, Toyama, Japan.\n\nHistory\nOpened in the post-war era.\n\nStation layout\nAt-grade side platform.\n\nSurrounding area\nResidential area.\n\nAdjacent stations\nOn the Man'yo Line.",
-          "字数": 236
+          "全文": "Ejiri Tram Stop is a tram stop on the Man'yo Line in Takaaka, Toyama, Japan.\n\nHistory\nOpened in the post-war era.\n\nStation layout\nAt-grade side platform.\n\nSurrounding area\nResidential area.\n\nAdjacent stations\nOn the Man'yo Line.",
+          "字数": 228
         }
       },
       "结构化信息": {
@@ -779,7 +782,7 @@
         "英文": {
           "词条标题": "片原町駅",
           "链接": "https://ja.wikipedia.org/wiki/%E7%89%87%E5%8E%9F%E7%94%BA%E9%A7%85",
-          "首段": "Katahara-machi Station (片原町駅) is a tram stop on the Man'yo Line in Takaoka, Toyama, Japan.",
+          "首段": "Katahara-machi Station is a tram stop on the Man'yo Line in Takaoka, Toyama, Japan.",
           "章节": {
             "History": "Opened in the early 20th century.",
             "Station layout": "At-grade side platform.",
@@ -791,8 +794,8 @@
             "Tram stops in Japan": "Katahara-machi",
             "Shopping street": "Katahara shopping street."
           },
-          "全文": "Katahara-machi Station (片原町駅) is a tram stop on the Man'yo Line in Takaoka, Toyama, Japan.\n\nHistory\nOpened in the early 20th century.\n\nStation layout\nAt-grade side platform.\n\nUsage\nModerate city ridership.\n\nSurrounding area\nShopping street.\n\nAdjacent stations\nOn the Man'yo Line.\n\nRailway stations in Toyama\nKatahara-machi\n\nMan'yo Line stations\nKatahara-machi\n\nTram stops in Japan\nKatahara-machi\n\nShopping street\nKatahara shopping street.",
-          "字数": 438
+          "全文": "Katahara-machi Station is a tram stop on the Man'yo Line in Takaoka, Toyama, Japan.\n\nHistory\nOpened in the early 20th century.\n\nStation layout\nAt-grade side platform.\n\nUsage\nModerate city ridership.\n\nSurrounding area\nShopping street.\n\nAdjacent stations\nOn the Man'yo Line.\n\nRailway stations in Toyama\nKatahara-machi\n\nMan'yo Line stations\nKatahara-machi\n\nTram stops in Japan\nKatahara-machi\n\nShopping street\nKatahara shopping street.",
+          "字数": 431
         }
       },
       "结构化信息": {
@@ -864,7 +867,7 @@
         "英文": {
           "词条标题": "米島口停留場",
           "链接": "https://ja.wikipedia.org/wiki/%E7%B1%B3%E5%B3%B6%E5%8F%A3%E5%81%9C%E7%95%99%E5%A0%B4",
-          "首段": "Yonajima-guchi Tram Stop (米島口停留場) is a tram stop on the Man'yo Line in Takaoka, Toyama, Japan.",
+          "首段": "Yonajima-guchi Tram Stop is a tram stop on the Man'yo Line in Takaoka, Toyama, Japan.",
           "章节": {
             "History": "Opened in the post-war era.",
             "Station layout": "At-grade side platform.",
@@ -873,8 +876,8 @@
             "Railway stations in Toyama": "Yonajima-guchi",
             "Man'yo Line stations": "Yonajima-guchi"
           },
-          "全文": "Yonajima-guchi Tram Stop (米島口停留場) is a tram stop on the Man'yo Line in Takaoka, Toyama, Japan.\n\nHistory\nOpened in the post-war era.\n\nStation layout\nAt-grade side platform.\n\nSurrounding area\nResidential area.\n\nAdjacent stations\nOn the Man'yo Line.\n\nRailway stations in Toyama\nYonajima-guchi\n\nMan'yo Line stations\nYonajima-guchi",
-          "字数": 326
+          "全文": "Yonajima-guchi Tram Stop is a tram stop on the Man'yo Line in Takaoka, Toyama, Japan.\n\nHistory\nOpened in the post-war era.\n\nStation layout\nAt-grade side platform.\n\nSurrounding area\nResidential area.\n\nAdjacent stations\nOn the Man'yo Line.\n\nRailway stations in Toyama\nYonajima-guchi\n\nMan'yo Line stations\nYonajima-guchi",
+          "字数": 317
         }
       },
       "结构化信息": {
@@ -945,7 +948,7 @@
         "英文": {
           "词条标题": "荻布停留場",
           "链接": "https://ja.wikipedia.org/wiki/%E8%8D%BB%E5%B8%83%E5%81%9C%E7%95%99%E5%A0%B4",
-          "首段": "Ogino Tram Stop (荻布停留場) is a tram stop on the Man'yo Line in Takaoka, Toyama, Japan.",
+          "首段": "Ogino Tram Stop is a tram stop on the Man'yo Line in Takaoka, Toyama, Japan.",
           "章节": {
             "History": "Opened in the post-war era.",
             "Station layout": "At-grade side platform.",
@@ -953,8 +956,8 @@
             "Adjacent stations": "On the Man'yo Line.",
             "Railway stations in Toyama": "Ogino"
           },
-          "全文": "Ogino Tram Stop (荻布停留場) is a tram stop on the Man'yo Line in Takaoka, Toyama, Japan.\n\nHistory\nOpened in the post-war era.\n\nStation layout\nAt-grade side platform.\n\nSurrounding area\nResidential area.\n\nAdjacent stations\nOn the Man'yo Line.\n\nRailway stations in Toyama\nOgino",
-          "字数": 270
+          "全文": "Ogino Tram Stop is a tram stop on the Man'yo Line in Takaoka, Toyama, Japan.\n\nHistory\nOpened in the post-war era.\n\nStation layout\nAt-grade side platform.\n\nSurrounding area\nResidential area.\n\nAdjacent stations\nOn the Man'yo Line.\n\nRailway stations in Toyama\nOgino",
+          "字数": 262
         }
       },
       "结构化信息": {
@@ -1052,7 +1055,7 @@
         "英文": {
           "词条标题": "Takaoka Station",
           "链接": "https://en.wikipedia.org/wiki/Takaoka%20Station",
-          "首段": "Takaoka Station is the name of multiple train or tram stations in Japan:\n\n Takaoka Station (Aichi) (高岳駅), a train station on the Sakura-dōri Line in Nagoya, Aichi\n Takaoka Station (Toyama) (高岡駅), a JR train station in Takaoka, Toyama\n Takaoka Station (Manyosen) (高岡駅), a Manyosen tram stop in Takaoka, Toyama\n\nSee also\n Nishi-Takaoka Station, a train station on the Ainokaze Toyama Line in Takaoka, Toyama\n Shin-Takaoka Station, a train station on the Hokuriku Shinkansen Line and Jōhana Line in Takaoka, Toyama\n Takaoka-Yabunami Station, a train station on the Ainokaze Toyama Line in Takaoka, Toyama",
+          "首段": "Takaoka Station is the name of multiple train or tram stations in Japan:\n\n Takaoka Station (Aichi) , a train station on the Sakura-dōri Line in Nagoya, Aichi\n Takaoka Station (Toyama) , a JR train station in Takaoka, Toyama\n Takaoka Station (Manyosen) , a Manyosen tram stop in Takaoka, Toyama\n\nSee also\n Nishi-Takaoka Station, a train station on the Ainokaze Toyama Line in Takaoka, Toyama\n Shin-Takaoka Station, a train station on the Hokuriku Shinkansen Line and Jōhana Line in Takaoka, Toyama\n Takaoka-Yabunami Station, a train station on the Ainokaze Toyama Line in Takaoka, Toyama",
           "章节": {
             "Overview": "Takaoka Station is the central station of Takaoka, Toyama, served by JR West and the Man'yo Line tram.",
             "Lines serving": "JR West Hokuriku Shinkansen, Jōhana Line, and Man'yo Line tram.",
@@ -1084,8 +1087,8 @@
             "Schools": "Local schools.",
             "Mastoburi Hakobako": "Tsurugi"
           },
-          "全文": "Takaoka Station is the name of multiple train or tram stations in Japan:\n\n Takaoka Station (Aichi) (高岳駅), a train station on the Sakura-dōri Line in Nagoya, Aichi\n Takaoka Station (Toyama) (高岡駅), a JR train station in Takaoka, Toyama\n Takaoka Station (Manyosen) (高岡駅), a Manyosen tram stop in Takaoka, Toyama\n\nSee also\n Nishi-Takaoka Station, a train station on the Ainokaze Toyama Line in Takaoka, Toyama\n Shin-Takaoka Station, a train station on the Hokuriku Shinkansen Line and Jōhana Line in Takaoka, Toyama\n Takaoka-Yabunami Station, a train station on the Ainokaze Toyama Line in Takaoka, Toyama\n\nOverview\nTakaoka Station is the central station of Takaoka, Toyama, served by JR West and the Man'yo Line tram.\n\nLines serving\nJR West Hokuriku Shinkansen, Jōhana Line, and Man'yo Line tram.\n\nHistory\nMajor station opened in the Meiji era.\n\nStation layout\nMultiple platforms.\n\nUsage\nMajor regional station.\n\nSurrounding area\nCity center.\n\nBus routes\nBuses to surrounding areas.\n\nAdjacent stations\nOn multiple lines.\n\nRailway stations in Toyama\nTakaoka\n\nJR West stations\nTakaoka\n\nMan'yo Line stations\nTakaoka\n\nRailway stations opened in 1900\nTakaoka\n\nHotels\nHotels nearby.\n\nShopping\nShopping arcades.\n\nCity hall\nTakaoka City Hall.\n\nPost office\nPost office.\n\nMuseum\nTakaoka Museum of Art.\n\nCastle\nTakaoka Castle ruins.\n\nPark\nTakaoka Castle Park.\n\nTemple\nTemple nearby.\n\nManufacturing\nTakaoka copperware.\n\nTaxi stand\nTaxi stand in front.\n\nBicycle parking\nBicycle parking.\n\nCommunity center\nCommunity center.\n\nLibrary\nTakaoka Library.\n\nPolice station\nTakaoka Police Station.\n\nFire station\nFire station.\n\nSchools\nLocal schools.\n\nMastoburi Hakobako\nTsurugi",
-          "字数": 1652
+          "全文": "Takaoka Station is the name of multiple train or tram stations in Japan:\n\n Takaoka Station (Aichi) , a train station on the Sakura-dōri Line in Nagoya, Aichi\n Takaoka Station (Toyama) , a JR train station in Takaoka, Toyama\n Takaoka Station (Manyosen) , a Manyosen tram stop in Takaoka, Toyama\n\nSee also\n Nishi-Takaoka Station, a train station on the Ainokaze Toyama Line in Takaoka, Toyama\n Shin-Takaoka Station, a train station on the Hokuriku Shinkansen Line and Jōhana Line in Takaoka, Toyama\n Takaoka-Yabunami Station, a train station on the Ainokaze Toyama Line in Takaoka, Toyama\n\nOverview\nTakaoka Station is the central station of Takaoka, Toyama, served by JR West and the Man'yo Line tram.\n\nLines serving\nJR West Hokuriku Shinkansen, Jōhana Line, and Man'yo Line tram.\n\nHistory\nMajor station opened in the Meiji era.\n\nStation layout\nMultiple platforms.\n\nUsage\nMajor regional station.\n\nSurrounding area\nCity center.\n\nBus routes\nBuses to surrounding areas.\n\nAdjacent stations\nOn multiple lines.\n\nRailway stations in Toyama\nTakaoka\n\nJR West stations\nTakaoka\n\nMan'yo Line stations\nTakaoka\n\nRailway stations opened in 1900\nTakaoka\n\nHotels\nHotels nearby.\n\nShopping\nShopping arcades.\n\nCity hall\nTakaoka City Hall.\n\nPost office\nPost office.\n\nMuseum\nTakaoka Museum of Art.\n\nCastle\nTakaoka Castle ruins.\n\nPark\nTakaoka Castle Park.\n\nTemple\nTemple nearby.\n\nManufacturing\nTakaoka copperware.\n\nTaxi stand\nTaxi stand in front.\n\nBicycle parking\nBicycle parking.\n\nCommunity center\nCommunity center.\n\nLibrary\nTakaoka Library.\n\nPolice station\nTakaoka Police Station.\n\nFire station\nFire station.\n\nSchools\nLocal schools.\n\nMastoburi Hakobako\nTsurugi",
+          "字数": 1637
         }
       },
       "结构化信息": {

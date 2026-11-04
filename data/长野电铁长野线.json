@@ -43,7 +43,7 @@
       "英文": {
         "词条标题": "Nagano Line (Nagano Electric Railway)",
         "链接": "https://ja.wikipedia.org/wiki/%E9%95%B7%E9%87%8E%E9%9B%BB%E9%89%84%E9%95%B7%E9%87%8E%E7%B7%9A",
-        "首段": "The Nagano Line (長野線) is a Nagano Electric Railway (Nagaden) line running from Nagano Station in Nagano, through Suzaka and Shinshū-Nakano, to Yudanaka Station in Yamanouchi, Shimotakai District, Nagano Prefecture. Formerly the Nagano–Suzaka section was the Nagano Line, Suzaka–Shinshū-Nakano the Katō Line, and Shinshū-Nakano–Yudanaka the Yamanouchi Line; these were merged.",
+        "首段": "The Nagano Line is a Nagano Electric Railway (Nagaden) line running from Nagano Station in Nagano, through Suzaka and Shinshū-Nakano, to Yudanaka Station in Yamanouchi, Shimotakai District, Nagano Prefecture. Formerly the Nagano–Suzaka section was the Nagano Line, Suzaka–Shinshū-Nakano the Katō Line, and Shinshū-Nakano–Yudanaka the Yamanouchi Line; these were merged.",
         "章节": {
           "Overview": "The main Nagaden route to the Yudanaka / Shiga Kōgen hot-spring area.",
           "Line data": "Distance, gauge, stations and electrification per the Japanese source.",
@@ -59,8 +59,8 @@
           "Former connecting lines": "Former connections (e.g. the Yashiro Line).",
           "Information on each station": "Per-station notes."
         },
-        "全文": "The Nagano Line (長野線) is a Nagano Electric Railway (Nagaden) line running from Nagano Station in Nagano, through Suzaka and Shinshū-Nakano, to Yudanaka Station in Yamanouchi, Shimotakai District, Nagano Prefecture. Formerly the Nagano–Suzaka section was the Nagano Line, Suzaka–Shinshū-Nakano the Katō Line, and Shinshū-Nakano–Yudanaka the Yamanouchi Line; these were merged.\n\nOverview\nThe main Nagaden route to the Yudanaka / Shiga Kōgen hot-spring area.\n\nLine data\nDistance, gauge, stations and electrification per the Japanese source.\n\nTraffic density\nPassenger density figures in the source table.\n\nService patterns\nLimited expresses (A/B/S) and locals.\n\nLimited express\n\"Snow Monkey\" / \"Aqua\" limited expresses.\n\nChanges in stops\nHistory of limited-express stop patterns.\n\nTraffic results\nAnnual figures in the source table.\n\nHistory\nOpened by the Nagano Electric Railway; mergers listed in chronology.\n\nStation list\nAll stations with numbers N1–N24.\n\nLegend\nSymbols in the station list.\n\nS-Limited express \"Nonbiri-go\"\nThe S-train service.\n\nFormer connecting lines\nFormer connections (e.g. the Yashiro Line).\n\nInformation on each station\nPer-station notes.",
-        "字数": 1162
+        "全文": "The Nagano Line is a Nagano Electric Railway (Nagaden) line running from Nagano Station in Nagano, through Suzaka and Shinshū-Nakano, to Yudanaka Station in Yamanouchi, Shimotakai District, Nagano Prefecture. Formerly the Nagano–Suzaka section was the Nagano Line, Suzaka–Shinshū-Nakano the Katō Line, and Shinshū-Nakano–Yudanaka the Yamanouchi Line; these were merged.\n\nOverview\nThe main Nagaden route to the Yudanaka / Shiga Kōgen hot-spring area.\n\nLine data\nDistance, gauge, stations and electrification per the Japanese source.\n\nTraffic density\nPassenger density figures in the source table.\n\nService patterns\nLimited expresses (A/B/S) and locals.\n\nLimited express\n\"Snow Monkey\" / \"Aqua\" limited expresses.\n\nChanges in stops\nHistory of limited-express stop patterns.\n\nTraffic results\nAnnual figures in the source table.\n\nHistory\nOpened by the Nagano Electric Railway; mergers listed in chronology.\n\nStation list\nAll stations with numbers N1–N24.\n\nLegend\nSymbols in the station list.\n\nS-Limited express \"Nonbiri-go\"\nThe S-train service.\n\nFormer connecting lines\nFormer connections (e.g. the Yashiro Line).\n\nInformation on each station\nPer-station notes.",
+        "字数": 1156
       }
     }
   },
@@ -94,10 +94,10 @@
         "英文": {
           "词条标题": "上条駅",
           "链接": "https://ja.wikipedia.org/wiki/%E4%B8%8A%E6%9D%A1%E9%A7%85",
-          "首段": "Kamijō Station (上条駅) is a disambiguation title: Kamijō Station (Niigata) on the JR East Tadami Line in Uonuma, Niigata; and other places.",
+          "首段": "Kamijō Station is a disambiguation title: Kamijō Station (Niigata) on the JR East Tadami Line in Uonuma, Niigata; and other places.",
           "章节": {},
-          "全文": "Kamijō Station (上条駅) is a disambiguation title: Kamijō Station (Niigata) on the JR East Tadami Line in Uonuma, Niigata; and other places.\n\n",
-          "字数": 139
+          "全文": "Kamijō Station is a disambiguation title: Kamijō Station (Niigata) on the JR East Tadami Line in Uonuma, Niigata; and other places.",
+          "字数": 131
         }
       },
       "结构化信息": {
@@ -460,13 +460,13 @@
             "月台": "在旅客资讯上没有编排月台号码。",
             "使用状况": "以下为近年1日平均乘车人次变化。",
             "巴士路线": "站前设有竹原站巴士站。",
-            "菅线": "中野駅 - 中町 - 松川站 -  - 长元坊团地 - 竹原站 - 户狩 - 汤田中站\n 中野駅 - 中町 - 松川站 - AEON中野店 - 长元坊团地 - 竹原站 - 户狩 - 佐野入口 - 菅",
+            "菅线": "中野站 - 中町 - 松川站 -  - 长元坊团地 - 竹原站 - 户狩 - 汤田中站\n 中野站 - 中町 - 松川站 - AEON中野店 - 长元坊团地 - 竹原站 - 户狩 - 佐野入口 - 菅",
             "普通": "中野松川（N20）－信浓竹原（N21）－夜间濑（N22）",
             "相关条目": "日本铁路车站列表 Shi",
             "外部连结": "信浓竹原站｜各站资讯  - 长野电铁",
             "1927年启用的铁路车站": "长野线车站 (长野电铁)"
           },
-          "全文": "信浓竹原站是位于长野县中野市大字竹原，长野电铁的长野线车站。车站编号为N21。\n\n历史\n1927年（昭和2年）4月28日 - 竹原站启用。\n 1932年（昭和7年）6月16日 - 车站改名为信浓竹原站。\n 1979年（昭和54年）4月1日 - 结束货物业务。\n 1995年（平成7年） -  成为无人车站。\n 2011年（平成23年）2月13日 - B特急不再停靠此站。\n\n车站构造\n车站是一座地面车站，设有2面2线相对式月台。此站曾经为有人车站，现时为无人车站。车站大楼通常被封锁。另外，曾经此站设有货物月台。\n\n此站是信州中野〜汤田中之间唯一可进行列车交会的车站，因此信州中野〜汤田中间的区间列车(部分从须坂到发)为了等候特急通过而需要停留较长时间。\n\n月台\n在旅客资讯上没有编排月台号码。\n\n使用状况\n以下为近年1日平均乘车人次变化。\n\n巴士路线\n站前设有竹原站巴士站。\n\n菅线\n中野駅 - 中町 - 松川站 -  - 长元坊团地 - 竹原站 - 户狩 - 汤田中站\n 中野駅 - 中町 - 松川站 - AEON中野店 - 长元坊团地 - 竹原站 - 户狩 - 佐野入口 - 菅\n\n普通\n中野松川（N20）－信浓竹原（N21）－夜间濑（N22）\n\n相关条目\n日本铁路车站列表 Shi\n\n外部连结\n信浓竹原站｜各站资讯  - 长野电铁\n\n1927年启用的铁路车站\n长野线车站 (长野电铁)",
+          "全文": "信浓竹原站是位于长野县中野市大字竹原，长野电铁的长野线车站。车站编号为N21。\n\n历史\n1927年（昭和2年）4月28日 - 竹原站启用。\n 1932年（昭和7年）6月16日 - 车站改名为信浓竹原站。\n 1979年（昭和54年）4月1日 - 结束货物业务。\n 1995年（平成7年） -  成为无人车站。\n 2011年（平成23年）2月13日 - B特急不再停靠此站。\n\n车站构造\n车站是一座地面车站，设有2面2线相对式月台。此站曾经为有人车站，现时为无人车站。车站大楼通常被封锁。另外，曾经此站设有货物月台。\n\n此站是信州中野〜汤田中之间唯一可进行列车交会的车站，因此信州中野〜汤田中间的区间列车(部分从须坂到发)为了等候特急通过而需要停留较长时间。\n\n月台\n在旅客资讯上没有编排月台号码。\n\n使用状况\n以下为近年1日平均乘车人次变化。\n\n巴士路线\n站前设有竹原站巴士站。\n\n菅线\n中野站 - 中町 - 松川站 -  - 长元坊团地 - 竹原站 - 户狩 - 汤田中站\n 中野站 - 中町 - 松川站 - AEON中野店 - 长元坊团地 - 竹原站 - 户狩 - 佐野入口 - 菅\n\n普通\n中野松川（N20）－信浓竹原（N21）－夜间濑（N22）\n\n相关条目\n日本铁路车站列表 Shi\n\n外部连结\n信浓竹原站｜各站资讯  - 长野电铁\n\n1927年启用的铁路车站\n长野线车站 (长野电铁)",
           "字数": 596,
           "来源": "维基百科中文版（已转简体）"
         },
@@ -927,17 +927,17 @@
             "已废": "市役所前车站 (岐阜县)：曾存在于岐阜县岐阜市，原为名铁岐阜市内线本线（长良线）的路面电车车站。1988年时伴随岐阜市内本线的废线，而一同废-{}-站。",
             "已改名": "吹田车站 (阪急)（）：位于大阪府吹田市，阪急千里线沿线的车站。在过去这边原本有吹田车站与市役所前车站两个独立的车站，但在1964年4月1日两站合并并以吹田车站作为存续车站，而改为今名。\n （）：位于熊本县熊本市，是熊本市电所经营的路面电车站。在2011年改名之前原名「市役所前」。\n\n-{站}-名带有「市役所前」的车站\n 挂川市役所前车站（）：位于静冈县挂川市，是天龙滨名湖铁道天龙滨名湖线的沿线车站。\n 关市役所前车站（）：位于岐阜县关市，是长良川铁道越每南线沿线车站。\n 羽岛市役所前车站（）：位于岐阜县羽岛市，是名铁竹鼻线沿线车站。\n 各务原市役所前车站（）：位于岐阜县各务原市，是名铁各务原线沿线车站。\n 濑户市役所前车站（）：位于爱知县濑户市，是名铁濑户线沿线车站。\n 大津市役所前站（）：位于滋贺县大津市，是京阪电气铁道石山坂本线沿线车站。\n 京都市役所前车站（）：位于京都府京都市中京区，是京都市营地下铁东西线沿线车站。\n 贝冢市役所前车站（）：位于大阪府贝冢市，是水间铁道水间线沿线车站。\n 廿日市市役所前车站（）：位于广岛县廿日市市，是广岛电铁宫岛线沿线车站。\n 熊本城、市役所前车站（）：位于熊本县熊本市的熊本市电电车车站，改名前原名「市役所前」。",
             "名称相似车站": "车站名称中未包含「前」字：\n 市役所车站（）：位于爱知县名古屋市中区，是名古屋市营地下铁名城线沿线的车站，2023年1月4日起更名为「名古屋城车站」（），「市役所」列为副站名。\n 南阳市役所车站（）：位于山形县南阳市，是山形铁道花长井线（）沿线车站。",
-            "副站名为「市役所前」的车站": "勾当台公园车站（勾当台公园駅）：位于宫城县仙台市青叶区，是仙台市地下铁南北线沿线的车站。\n 荒本车站（荒本駅）：位于大阪府东大阪市，是近畿日本铁道京阪奈线（）沿线车站。",
+            "副站名为「市役所前」的车站": "勾当台公园车站（勾当台公园站）：位于宫城县仙台市青叶区，是仙台市地下铁南北线沿线的车站。\n 荒本车站（荒本站）：位于大阪府东大阪市，是近畿日本铁道京阪奈线（）沿线车站。",
             "意义上的名称相似车站": "市政府车站：「市役所」是日文中对于市级行政区的行政单位（与其所在的建筑）之汉字称呼，但在中文中实际上与「市政府」、「市公所」、「市政厅」等政府单位意义相同。"
           },
-          "全文": "市役所前站顾名思义是意指设置在市役所（市公所、市政府）前的车站。在日本，有许多设置在各城市市役所前、被命名为「市役所前」或名称相近的铁路或路面电车车站。\n\n使用中\n市役所前站 (北海道)：位于北海道函馆市大手町，是隶属于函馆市电的路面电车车站。\n市役所前站 (千叶县)：位于千叶县千叶市中央区，是千叶都市单轨电车（）1号线沿线的车站。\n市役所前车站 (福井县)：位于福井县福井市，是福井铁道福武线上的铁路车站。\n市役所前车站 (长野县)：位于长野县长野市，是长野电铁长野线上的铁路车站。\n：位于爱知县丰桥市，是丰桥铁道东田本线上的路面电车车站。\n市役所前车站 (和歌山县)：位于和歌山县御坊市，是纪州铁道所经营的铁路车站。\n：位于广岛县广岛市中区，是广岛电铁所属的路面电车车站。\n：位于爱媛县松山市，是伊予铁道城南线沿线的路面电车车站。\n：位于鹿儿岛县鹿儿岛市山下町，是鹿儿岛市电所属的路面电车车站。\n\n已废\n市役所前车站 (岐阜县)：曾存在于岐阜县岐阜市，原为名铁岐阜市内线本线（长良线）的路面电车车站。1988年时伴随岐阜市内本线的废线，而一同废-{}-站。\n\n已改名\n吹田车站 (阪急)（）：位于大阪府吹田市，阪急千里线沿线的车站。在过去这边原本有吹田车站与市役所前车站两个独立的车站，但在1964年4月1日两站合并并以吹田车站作为存续车站，而改为今名。\n （）：位于熊本县熊本市，是熊本市电所经营的路面电车站。在2011年改名之前原名「市役所前」。\n\n-{站}-名带有「市役所前」的车站\n 挂川市役所前车站（）：位于静冈县挂川市，是天龙滨名湖铁道天龙滨名湖线的沿线车站。\n 关市役所前车站（）：位于岐阜县关市，是长良川铁道越每南线沿线车站。\n 羽岛市役所前车站（）：位于岐阜县羽岛市，是名铁竹鼻线沿线车站。\n 各务原市役所前车站（）：位于岐阜县各务原市，是名铁各务原线沿线车站。\n 濑户市役所前车站（）：位于爱知县濑户市，是名铁濑户线沿线车站。\n 大津市役所前站（）：位于滋贺县大津市，是京阪电气铁道石山坂本线沿线车站。\n 京都市役所前车站（）：位于京都府京都市中京区，是京都市营地下铁东西线沿线车站。\n 贝冢市役所前车站（）：位于大阪府贝冢市，是水间铁道水间线沿线车站。\n 廿日市市役所前车站（）：位于广岛县廿日市市，是广岛电铁宫岛线沿线车站。\n 熊本城、市役所前车站（）：位于熊本县熊本市的熊本市电电车车站，改名前原名「市役所前」。\n\n名称相似车站\n车站名称中未包含「前」字：\n 市役所车站（）：位于爱知县名古屋市中区，是名古屋市营地下铁名城线沿线的车站，2023年1月4日起更名为「名古屋城车站」（），「市役所」列为副站名。\n 南阳市役所车站（）：位于山形县南阳市，是山形铁道花长井线（）沿线车站。\n\n副站名为「市役所前」的车站\n勾当台公园车站（勾当台公园駅）：位于宫城县仙台市青叶区，是仙台市地下铁南北线沿线的车站。\n 荒本车站（荒本駅）：位于大阪府东大阪市，是近畿日本铁道京阪奈线（）沿线车站。\n\n意义上的名称相似车站\n市政府车站：「市役所」是日文中对于市级行政区的行政单位（与其所在的建筑）之汉字称呼，但在中文中实际上与「市政府」、「市公所」、「市政厅」等政府单位意义相同。",
+          "全文": "市役所前站顾名思义是意指设置在市役所（市公所、市政府）前的车站。在日本，有许多设置在各城市市役所前、被命名为「市役所前」或名称相近的铁路或路面电车车站。\n\n使用中\n市役所前站 (北海道)：位于北海道函馆市大手町，是隶属于函馆市电的路面电车车站。\n市役所前站 (千叶县)：位于千叶县千叶市中央区，是千叶都市单轨电车（）1号线沿线的车站。\n市役所前车站 (福井县)：位于福井县福井市，是福井铁道福武线上的铁路车站。\n市役所前车站 (长野县)：位于长野县长野市，是长野电铁长野线上的铁路车站。\n：位于爱知县丰桥市，是丰桥铁道东田本线上的路面电车车站。\n市役所前车站 (和歌山县)：位于和歌山县御坊市，是纪州铁道所经营的铁路车站。\n：位于广岛县广岛市中区，是广岛电铁所属的路面电车车站。\n：位于爱媛县松山市，是伊予铁道城南线沿线的路面电车车站。\n：位于鹿儿岛县鹿儿岛市山下町，是鹿儿岛市电所属的路面电车车站。\n\n已废\n市役所前车站 (岐阜县)：曾存在于岐阜县岐阜市，原为名铁岐阜市内线本线（长良线）的路面电车车站。1988年时伴随岐阜市内本线的废线，而一同废-{}-站。\n\n已改名\n吹田车站 (阪急)（）：位于大阪府吹田市，阪急千里线沿线的车站。在过去这边原本有吹田车站与市役所前车站两个独立的车站，但在1964年4月1日两站合并并以吹田车站作为存续车站，而改为今名。\n （）：位于熊本县熊本市，是熊本市电所经营的路面电车站。在2011年改名之前原名「市役所前」。\n\n-{站}-名带有「市役所前」的车站\n 挂川市役所前车站（）：位于静冈县挂川市，是天龙滨名湖铁道天龙滨名湖线的沿线车站。\n 关市役所前车站（）：位于岐阜县关市，是长良川铁道越每南线沿线车站。\n 羽岛市役所前车站（）：位于岐阜县羽岛市，是名铁竹鼻线沿线车站。\n 各务原市役所前车站（）：位于岐阜县各务原市，是名铁各务原线沿线车站。\n 濑户市役所前车站（）：位于爱知县濑户市，是名铁濑户线沿线车站。\n 大津市役所前站（）：位于滋贺县大津市，是京阪电气铁道石山坂本线沿线车站。\n 京都市役所前车站（）：位于京都府京都市中京区，是京都市营地下铁东西线沿线车站。\n 贝冢市役所前车站（）：位于大阪府贝冢市，是水间铁道水间线沿线车站。\n 廿日市市役所前车站（）：位于广岛县廿日市市，是广岛电铁宫岛线沿线车站。\n 熊本城、市役所前车站（）：位于熊本县熊本市的熊本市电电车车站，改名前原名「市役所前」。\n\n名称相似车站\n车站名称中未包含「前」字：\n 市役所车站（）：位于爱知县名古屋市中区，是名古屋市营地下铁名城线沿线的车站，2023年1月4日起更名为「名古屋城车站」（），「市役所」列为副站名。\n 南阳市役所车站（）：位于山形县南阳市，是山形铁道花长井线（）沿线车站。\n\n副站名为「市役所前」的车站\n勾当台公园车站（勾当台公园站）：位于宫城县仙台市青叶区，是仙台市地下铁南北线沿线的车站。\n 荒本车站（荒本站）：位于大阪府东大阪市，是近畿日本铁道京阪奈线（）沿线车站。\n\n意义上的名称相似车站\n市政府车站：「市役所」是日文中对于市级行政区的行政单位（与其所在的建筑）之汉字称呼，但在中文中实际上与「市政府」、「市公所」、「市政厅」等政府单位意义相同。",
           "字数": 1347,
           "来源": "维基百科中文版（已转简体）"
         },
         "英文": {
           "词条标题": "市役所前駅",
           "链接": "https://ja.wikipedia.org/wiki/%E5%B8%82%E5%BD%B9%E6%89%80%E5%89%8D%E9%A7%85",
-          "首段": "Shiyakusho-mae Station (市役所前駅) is a disambiguation title: stations named \"in front of the city hall\" across Japan.",
+          "首段": "Shiyakusho-mae Station is a disambiguation title: stations named \"in front of the city hall\" across Japan.",
           "章节": {
             "Operating stations": "Stations currently named Shiyakusho-mae.",
             "Closed stations": "Former Shiyakusho-mae stations.",
@@ -947,8 +947,8 @@
             "Brooklyn Bridge – City Hall station": "New York subway.",
             "Hôtel-de-Ville station": "Paris métro."
           },
-          "全文": "Shiyakusho-mae Station (市役所前駅) is a disambiguation title: stations named \"in front of the city hall\" across Japan.\n\nOperating stations\nStations currently named Shiyakusho-mae.\n\nClosed stations\nFormer Shiyakusho-mae stations.\n\nFormerly Shiyakusho-mae\nRenamed stations.\n\nCivic Center Station\nEquivalent abroad.\n\nCity Hall Station\nEquivalent abroad.\n\nBrooklyn Bridge – City Hall station\nNew York subway.\n\nHôtel-de-Ville station\nParis métro.",
-          "字数": 437
+          "全文": "Shiyakusho-mae Station is a disambiguation title: stations named \"in front of the city hall\" across Japan.\n\nOperating stations\nStations currently named Shiyakusho-mae.\n\nClosed stations\nFormer Shiyakusho-mae stations.\n\nFormerly Shiyakusho-mae\nRenamed stations.\n\nCivic Center Station\nEquivalent abroad.\n\nCity Hall Station\nEquivalent abroad.\n\nBrooklyn Bridge – City Hall station\nNew York subway.\n\nHôtel-de-Ville station\nParis métro.",
+          "字数": 429
         }
       },
       "结构化信息": {
@@ -1094,10 +1094,10 @@
         "英文": {
           "词条标题": "Hino Station",
           "链接": "https://en.wikipedia.org/wiki/Hino%20Station",
-          "首段": "Hino Station (日野駅) is a disambiguation title: Hino Station (Tokyo) on the JR East Chūō Main Line in Hino, Tokyo; and other places.",
+          "首段": "Hino Station is a disambiguation title: Hino Station (Tokyo) on the JR East Chūō Main Line in Hino, Tokyo; and other places.",
           "章节": {},
-          "全文": "Hino Station (日野駅) is a disambiguation title: Hino Station (Tokyo) on the JR East Chūō Main Line in Hino, Tokyo; and other places.\n\n",
-          "字数": 132
+          "全文": "Hino Station is a disambiguation title: Hino Station (Tokyo) on the JR East Chūō Main Line in Hino, Tokyo; and other places.",
+          "字数": 124
         }
       },
       "结构化信息": {
@@ -1237,14 +1237,14 @@
         "英文": {
           "词条标题": "Hongō Station",
           "链接": "https://en.wikipedia.org/wiki/Hong%C5%8D%20Station",
-          "首段": "Hongo Station (本郷駅) is a disambiguation title: existing stations, stations with \"Hongo\" in the name, and renamed/closed stations.",
+          "首段": "Hongo Station is a disambiguation title: existing stations, stations with \"Hongo\" in the name, and renamed/closed stations.",
           "章节": {
             "Existing stations": "Stations currently named Hongo.",
             "Stations with Hongo in the name": "Related names.",
             "Renamed / closed stations": "Former Hongo stations."
           },
-          "全文": "Hongo Station (本郷駅) is a disambiguation title: existing stations, stations with \"Hongo\" in the name, and renamed/closed stations.\n\nExisting stations\nStations currently named Hongo.\n\nStations with Hongo in the name\nRelated names.\n\nRenamed / closed stations\nFormer Hongo stations.",
-          "字数": 278
+          "全文": "Hongo Station is a disambiguation title: existing stations, stations with \"Hongo\" in the name, and renamed/closed stations.\n\nExisting stations\nStations currently named Hongo.\n\nStations with Hongo in the name\nRelated names.\n\nRenamed / closed stations\nFormer Hongo stations.",
+          "字数": 272
         }
       },
       "结构化信息": {
@@ -1300,10 +1300,10 @@
         "英文": {
           "词条标题": "Murayama Station",
           "链接": "https://en.wikipedia.org/wiki/Murayama%20Station",
-          "首段": "Murayama Station (村山駅) is a disambiguation title: Murayama Station (Yamagata) on the JR East Ōu Main Line in Murayama, Yamagata; and other places.",
+          "首段": "Murayama Station is a disambiguation title: Murayama Station (Yamagata) on the JR East Ōu Main Line in Murayama, Yamagata; and other places.",
           "章节": {},
-          "全文": "Murayama Station (村山駅) is a disambiguation title: Murayama Station (Yamagata) on the JR East Ōu Main Line in Murayama, Yamagata; and other places.\n\n",
-          "字数": 148
+          "全文": "Murayama Station is a disambiguation title: Murayama Station (Yamagata) on the JR East Ōu Main Line in Murayama, Yamagata; and other places.",
+          "字数": 140
         }
       },
       "结构化信息": {
@@ -1355,13 +1355,13 @@
         "英文": {
           "词条标题": "Yanagihara Station",
           "链接": "https://en.wikipedia.org/wiki/Yanagihara%20Station",
-          "首段": "Yanagihara Station (柳原駅) is a disambiguation title: current and closed stations named Yanagihara.",
+          "首段": "Yanagihara Station is a disambiguation title: current and closed stations named Yanagihara.",
           "章节": {
             "Current": "Existing Yanagihara stations.",
             "Closed stations": "Former Yanagihara stations."
           },
-          "全文": "Yanagihara Station (柳原駅) is a disambiguation title: current and closed stations named Yanagihara.\n\nCurrent\nExisting Yanagihara stations.\n\nClosed stations\nFormer Yanagihara stations.",
-          "字数": 181
+          "全文": "Yanagihara Station is a disambiguation title: current and closed stations named Yanagihara.\n\nCurrent\nExisting Yanagihara stations.\n\nClosed stations\nFormer Yanagihara stations.",
+          "字数": 175
         }
       },
       "结构化信息": {
@@ -1410,10 +1410,10 @@
         "英文": {
           "词条标题": "Kirihara Station",
           "链接": "https://en.wikipedia.org/wiki/Kirihara%20Station",
-          "首段": "Kirihara Station (桐原駅) is a disambiguation title: Kirihara Station (Niigata) on the JR East Echigo Line in Nagaoka, Niigata; and other places.",
+          "首段": "Kirihara Station is a disambiguation title: Kirihara Station (Niigata) on the JR East Echigo Line in Nagaoka, Niigata; and other places.",
           "章节": {},
-          "全文": "Kirihara Station (桐原駅) is a disambiguation title: Kirihara Station (Niigata) on the JR East Echigo Line in Nagaoka, Niigata; and other places.\n\n",
-          "字数": 144
+          "全文": "Kirihara Station is a disambiguation title: Kirihara Station (Niigata) on the JR East Echigo Line in Nagaoka, Niigata; and other places.",
+          "字数": 136
         }
       },
       "结构化信息": {
@@ -1529,7 +1529,8 @@
             "长野市的铁路车站": "nanto"
           },
           "全文": "权堂站是位于长野县长野市大字鹤贺权堂町的长野电铁长野线车站。车站编号N3。含特急列车在内所有列车均停车。\n\n历史\n1926年（大正15年）6月28日 - 长野电气铁道须坂 - 权堂间开业，作为终点站开业；9月30日 - 河东铁道吸收合并长野电气铁道成立的长野电铁接管。\n1928年（昭和3年）6月24日 - 权堂 - 长野间开业，成为中间站。\n1970年（昭和45年）9月1日 - 废除货物营业。\n1974年（昭和49年）4月1日 - 废除手提行李营业。\n1977年（昭和52年）10月29日 - 伴随地铁（准确为连续立体交叉）工程废除站内平交道。\n1981年（昭和56年）3月1日 - 长野 - 善光寺下间地下化，车站地下化。\n\n车站结构\n相对式月台2面2线的地下车站。有人站。设自动售票机及\"KURURU\"充值机。位于长野大通下方，检票·售票所在的地下1层另有站务室、值宿室、电气室、机械室，月台在地下2层。月台出入口1处，检票口旁设厕所。检票入场后左侧为1号线、右侧为2号线楼梯，连接月台中央附近。地面出入口4处。地下1层连接Watanabe Super Center权堂店（旧伊藤洋华堂长野店）地下卖场。扶梯仅设2号线（地下2层）至检票所在地下1层间上行专用，未设电梯。\n\n使用情况\n2019年度1日平均乘车人员为1,265人。\n\n车站周边\n东侧沿长野大通自南起有长野信用金库权堂支店、权堂East Plaza SD、长野中央警察署权堂町交番、权堂East Plaza ND（长野电铁本社入居）、长电权堂停车场、长野Grand Cinemas，里巷有勤劳者女性会馆Shinano-ki和商工中金长野支店。穿过东侧拱廊即饮食街，长野鹤贺邮局位于此一角。西侧邻接Watanabe Super Center权堂店、秋叶神社，前方权堂拱廊商店街延续，连接从长野站方向往善光寺的中央通。\n\n公交线路\n车站正上方长野大通上有长电巴士·市街地循环Gururin号权堂停留所。\n\n长野市的铁路车站\nnanto",
-          "字数": 850
+          "字数": 850,
+          "词条标题": "权堂站"
         },
         "英文": {
           "词条标题": "Gondō Station",
